@@ -1,17 +1,18 @@
 ---
 layout: article
-title: Page - Article Header Overlay Background Image (Immersive + Translucent Header)
-mode: immersive
-cover: https://www.tooltyp.com/wp-content/uploads/2014/10/1900x920-8-beneficios-de-usar-imagenes-en-nuestros-sitios-web.jpg
+author: Carlos Sandoval
+title: NavBar Image
+cover: https://cdn.wallpapersafari.com/63/16/6GDq9W.jpg
 header:
   theme: dark
+  background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
 article_header:
   type: overlay
   theme: dark
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: https://www.tooltyp.com/wp-content/uploads/2014/10/1900x920-8-beneficios-de-usar-imagenes-en-nuestros-sitios-web.jpg
+    src: https://cdn.wallpapersafari.com/63/16/6GDq9W.jpg
 ---
 
 If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:
@@ -24,4 +25,3 @@ You may want to [config the site](https://tianqi.name/jekyll-TeXt-theme/docs/en/
 
 If you like TeXt, don't forget to give me a star. :star2:
 
-[![Star This Project](https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&style=social)](https://github.com/kitian616/jekyll-TeXt-theme/)
