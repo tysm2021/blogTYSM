@@ -1,6 +1,6 @@
 
-<footer class="footer py-4 js-page-footer">
-  <div class="main">
+<footer class="footer  js-page-footer">
+
 
     {%- assign _site_author = site.author -%}
     {%- if _site_author.type == 'organization' -%}
@@ -24,14 +24,84 @@
     </div>
     {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
     {%- assign _locale_copyright_dates = __return -%}
-    <div class="site-info mt-2">
-      <div>
-        {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
+    
+
+     
+        <!-- {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
         {%- assign _locale_copyright_dates = __return -%}
-        © {{ site.title }} {{ _locale_copyright_dates }},
-        Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a> & <a
-        title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
-      </div>
+        © {{ site.title }} {{ _locale_copyright_dates }}, -->
+        <!-- Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a> & <a
+        title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>. -->
+
+
+  <div class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-6">
+                    <h6><strong>Nosotros</strong></h6>
+                    <p class="text-justify">"Somos una marca 100% que promueve
+                        los valores de nuestro México, como lo
+                        son el turismo, nuestra cultura, la salud y
+                        la buena comida."
+                    </p>
+                    <a href="index.html"> <img src="https://jairorc05.github.io/TYSM-ENERO/images/Banner/tono-logo.png" width="20%" class=" d-inline-block "
+                            alt=""></a>
+                </div>
+
+                <div class="col-xs-6 col-md-3">
+                    <h6><strong>Info de contacto</strong></h6>
+                    <ul class="footer-links">
+                        <li>
+                            <p>Colima 325, Col. Roma Norte, Cuauhtémoc
+                                Ciudad de México, CDMX</p>
+                        </li>
+                        <li><a href="mailto:contacto@bucefalogames.com">
+                                contacto@bucefalogames.com</a></li>
+                        <li><a href="tel:+525552076818">+52 (55) 5207-6818</a>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="col-xs-6 col-md-3">
+                    <h6><strong>Sitio</strong></h6>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="tono.html">Toño</a></li>
+                        <li><a href="personajes.html">Personajes</a></li>
+                        <li><a href="anunciate.html">Anúnciate</a></li>
+                        <li><a href="contacto.html">Contacto</a></li>
+                        <li><a href="https://jairorc05.github.io/BlogTYSM/">BLOG</a></li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-6 col-xs-12">
+                    <p class="copyright-text text-uppercase">Copyright &copy; 2021 Toño y Su Mariachi
+
+                    </p>
+                </div>
+
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <ul class="social-icons">
+                        <li><a class="facebook" href="https://www.facebook.com/tonoysumariachi" target="_blank"><i
+                                    class="fab fa-facebook"></i>
+                            </a>
+                        </li>
+                        <li><a class="instagram" href="https://www.instagram.com/tonoysumariachi/"
+                                target="_blank""><i class=" fab fa-instagram"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
+
+
+    
+
 </footer>

@@ -7,9 +7,9 @@ header:
   - title:      Samples
     url:        /samples.html
     key:        samples
-  - title:      Archive
+  - title:      ARCHIVO
     url:        /archive.html
-  - title:      About
+  - title:      INICIO
     url:        /about.html
   - title:      GitHub
     url:        https://github.com/kitian616/jekyll-TeXt-theme
