@@ -1,9 +1,10 @@
 ---
 layout: article
 author: Jorge Loredo
+show_author_profile: true
 title: Imagen inmersiva
 tags: texto imersive
-cover: https://cdn.wallpapersafari.com/63/16/6GDq9W.jpg
+cover: /images/cover3.jpg 
 excerpt_separator: <!--mores-->
 mode: immersive
 header:

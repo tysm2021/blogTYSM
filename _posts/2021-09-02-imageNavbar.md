@@ -1,6 +1,7 @@
 ---
 layout: article
 author: Carlos Sandoval
+show_author_profile: true
 title: NavBar Image
 cover: https://cdn.wallpapersafari.com/63/16/6GDq9W.jpg
 header:
