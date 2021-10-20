@@ -106,8 +106,6 @@ sharing:
 ##############################
 comments:
   provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
-
-  ## Disqus
   disqus:
     shortname: blog-mko160ea9f # the Disqus shortname for the site
 

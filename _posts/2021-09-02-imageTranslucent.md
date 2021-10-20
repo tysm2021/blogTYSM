@@ -14,8 +14,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: https://cdn.wallpapersafari.com/63/16/6GDq9W.jpg
-sharing: true
+    src: /images/cover3.jpg 
 ---
 
 If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:
