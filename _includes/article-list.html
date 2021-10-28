@@ -114,11 +114,8 @@
             {%- if _article.cover -%}
               <div class="card__image">
                 <img class="image" src="{{ _article_cover }}" />
-                <div class="overlay overlay--bottom">
-                  <header>
-                    <a href="{{ _article_url }}"><h2 class="card__header">{{ _article.title }}</h2></a>
-                  </header>
-                </div>
+                <a href="{{ _article_url }}"><h2 class="card__header">{{ _article.title }}</h2></a>
+           
               </div>
             {%- endif -%}
             </div>
@@ -128,13 +125,13 @@
         <div class="cell cell--12 cell--md-6 cell--lg-4">
           <div class="card card--flat">
             {%- if _article.cover -%}
-              <div class="card__image"><img src="{{ _article_cover }}" /></div>
-            {%- endif -%}
-              <div class="card__content">
-                <header>
-                  <a href="{{ _article_url }}"><h2 class="card__header">{{ _article.title }}</h2></a>
-                </header>
+            <div class="card__image">
+              <img src="{{ _article_cover }}" />
+              <div class="card__header"><a href="{{ _article_url }}"><h2 class="card__text">{{ _article.title }}</h2></a></div>
+              
               </div>
+            {%- endif -%}
+             
           </div>
         </div>
       {%- endif -%}
