@@ -118,3 +118,12 @@
     padding-left: 0;
   }
 }
+
+
+
+
+@media screen and (max-width: 760px) {
+.card__image > img {
+height: auto
+}
+}
