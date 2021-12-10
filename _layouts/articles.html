@@ -87,4 +87,39 @@ layout: page
   </div>
 {%- endif -%}
 
+<div id="archives" class="my-5">
+  {% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+
+
+    <h3 class="category-head">{{ category_name | capitalize }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+
+
+    <div class="article-list grid grid--p-3">
+      {% for post in site.categories[category_name] %}
+      <div class="cell cell--12 cell--md-6 cell--lg-4">
+        <div class="card card--flat">
+
+          <div class="card__image">
+            <img src="{{ post.cover }}" alt="" class="image">
+            <div class="card__header">
+              <a href="{{ site.baseurl }}{{ post.url }}"></a>
+              <h2 class="card__text">{{post.title}}</h2>
+              </a>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+  </div>
+  {% endfor %}
+</div>
+
 {{ content }}

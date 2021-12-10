@@ -39,6 +39,8 @@
     <div class="article__info clearfix">
       {%- if _show_tags -%}
 
+
+
         <ul class="left-col menu">
           {%- assign _tag_path = _paths_archive | append: '?tag=' -%}
           {%- include snippets/prepend-baseurl.html path=_tag_path -%}
@@ -94,3 +96,4 @@
     <meta itemprop="keywords" content="{{ _keywords }}">
   {%- endif -%}
 {%- endif -%}
+

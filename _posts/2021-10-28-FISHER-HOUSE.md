@@ -3,7 +3,8 @@ layout: article
 author: Jorge Loredo 
 show_author_profile: true
 title: Fisher’s House, ofrenda, coctelería de temporada y helado de cempasúchil en CDMX
-tags: texto imersive
+tags: texto imersive datos
+categories: Política
 cover: /images/281021-1-fisher.jpg 
 excerpt_separator: <!--more-->
 mode: immersive

@@ -34,6 +34,7 @@
   {%- assign _next = page.next -%}
 {%- endif -%}
 
+
 {%- if _next or _previous -%}
   <div class="article__section-navigator clearfix">
     {%- if _previous -%}
@@ -42,6 +43,7 @@
       {%- include snippets/get-locale-string.html key='PREVIOUS' -%}
       {%- assign _locale_previous = __return -%}
       <div class="previous"><span>{{ _locale_previous }}</span><a href="{{ _href }}">{{ _previous.title }}</a></div>
+
     {%- endif -%}
     {%- if _next -%}
       {%- include snippets/prepend-baseurl.html path=_next.url -%}
@@ -52,3 +54,4 @@
     {%- endif -%}
   </div>
 {%- endif -%}
+
