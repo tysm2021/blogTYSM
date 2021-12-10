@@ -3,7 +3,7 @@ layout: article
 author: Carlos Sandoval 
 show_author_profile: true
 title: Día de muertos "Celebra la vida en estos pueblos mágicos"
-tags: diaDeMuertos pueblosMagicos
+tags: diaDeMuertos pueblosMagicos datos
 cover: https://www.mexicodesconocido.com.mx/wp-content/uploads/2021/10/pueblos.jpg
 excerpt_separator: <!--more-->
 mode: immersive
