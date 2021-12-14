@@ -3,17 +3,17 @@ label: PLANTILLA
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
+  name: title
+  label: title
 - type: text
   name: author
   label: author
+- type: text
+  name: layout
+  label: layout
 - type: boolean
   name: show_author_profile
   label: show_author_profile
-- type: text
-  name: title
-  label: title
 - type: text
   name: tags
   label: tags
