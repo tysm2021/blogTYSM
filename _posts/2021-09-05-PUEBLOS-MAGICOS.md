@@ -4,7 +4,8 @@ author: Carlos Sandoval
 show_author_profile: true
 title: Pueblos Mágicos de México, lista completa de los 132
 tags: texto imersive
-categories: []
+categories:
+- cultura
 cover: https://www.mexicodesconocido.com.mx/wp-content/uploads/2017/08/taxco-guerrero-panoramica.jpg
 excerpt_separator: "<!--more-->"
 mode: immersive
