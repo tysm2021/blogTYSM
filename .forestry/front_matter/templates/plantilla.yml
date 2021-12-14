@@ -1,0 +1,64 @@
+---
+label: PLANTILLA
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: author
+  label: author
+- type: boolean
+  name: show_author_profile
+  label: show_author_profile
+- type: text
+  name: title
+  label: title
+- type: text
+  name: tags
+  label: tags
+- type: file
+  name: cover
+  label: cover
+- type: text
+  name: excerpt_separator
+  label: excerpt_separator
+- type: text
+  name: mode
+  label: mode
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: text
+    name: theme
+    label: theme
+- type: field_group
+  name: article_header
+  label: article_header
+  fields:
+  - type: text
+    name: type
+    label: type
+  - type: text
+    name: theme
+    label: theme
+  - type: text
+    name: background_color
+    label: background_color
+  - type: field_group
+    name: background_image
+    label: background_image
+    fields:
+    - type: text
+      name: gradient
+      label: gradient
+    - type: file
+      name: src
+      label: src
+- type: boolean
+  name: sharing
+  label: sharing
+- type: boolean
+  name: comment
+  label: comment
