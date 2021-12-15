@@ -56,6 +56,8 @@ fields:
     - type: file
       name: src
       label: src
+      description: Imagen para el <strong>BANNER</strong> en en la publicación
+      default: "/images/281021-5-fisher.jpg"
 - type: boolean
   name: sharing
   label: sharing
