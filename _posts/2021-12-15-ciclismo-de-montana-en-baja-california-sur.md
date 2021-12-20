@@ -6,7 +6,7 @@ show_author_profile: false
 tags: ciclismo
 cover: "/images/plantilla-imagenes-md.jpg"
 excerpt_separator: "<!--more-->"
-mode: inmersive
+mode: immersive
 header:
   theme: dark
 article_header:
@@ -19,6 +19,7 @@ article_header:
     src: "/images/plantilla-imagenes-md.jpg"
 sharing: true
 comment: false
+categories: ''
 
 ---
 Quizá sepas que Baja California Sur ofrece paisajes espectaculares, pero tal vez no que es un gran destino para el ciclismo de montaña. Aquí las recomendaciones de un experto.
