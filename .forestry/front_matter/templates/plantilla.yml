@@ -37,7 +37,7 @@ fields:
   name: mode
   label: mode
   default: immersive
-  hidden: false
+  hidden: true
 - type: field_group
   name: header
   label: header
