@@ -8,21 +8,26 @@ fields:
 - type: text
   name: author
   label: author
+- type: file
+  name: cover
+  label: cover
 - type: text
   name: layout
   label: layout
   default: article
   hidden: true
+- type: text
+  name: tags
+  label: tags
+- name: categories
+  type: text
+  config:
+    required: false
+  label: categories
 - type: boolean
   name: show_author_profile
   label: Mostrar el perfil de autor
   hidden: true
-- type: text
-  name: tags
-  label: tags
-- type: file
-  name: cover
-  label: cover
 - type: text
   name: excerpt_separator
   label: excerpt_separator
@@ -42,6 +47,7 @@ fields:
     label: theme
     default: dark
     hidden: true
+  hidden: true
 - type: field_group
   name: article_header
   label: article_header
