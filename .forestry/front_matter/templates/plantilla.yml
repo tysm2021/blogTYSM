@@ -50,7 +50,6 @@ fields:
   hidden: true
 - type: field_group
   name: article_header
-  label: article_header
   fields:
   - type: text
     name: type
@@ -82,9 +81,11 @@ fields:
       label: src
       description: Imagen para el <strong>BANNER</strong> en en la publicación
       default: "/images/281021-5-fisher.jpg"
+  label: Imagen del Encabezado
 - type: boolean
   name: sharing
   label: sharing
+  default: true
 - type: boolean
   name: comment
   label: comment
