@@ -1,7 +1,7 @@
 ---
 layout: article
 excerpt_separator: "<!--more-->"
-mode: inmersive
+mode: immersive
 header:
   theme: dark
 article_header:
@@ -18,6 +18,7 @@ tags: mexico, cultura
 cover: "/images/2021-12-20-12-el-quelite.webp"
 sharing: false
 comment: false
+categories: ''
 
 ---
 A poco más de **30 km de la ciudad de Mazatlán se encuentra El Quelite,** un poblado limpio, colorido, empedrado, que pareciera estar recién pintado.
