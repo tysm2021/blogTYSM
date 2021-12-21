@@ -28,33 +28,40 @@ type: article
   {% endfor %}
 </ul>
 {% endfor %} -->
+{% assign RELATED_POSTS_THRESHOLD = 3 %}
+
+
+<h2>Publicaciones relacionadas</h2>
 <div class="article-list grid grid--p-3">
-  {% assign RELATED_POSTS_THRESHOLD = 3 %}
+  {% assign related_post_count = 0 %}
+  {% for post in site.related_posts %}
 
+  {% if related_post_count == RELATED_POSTS_THRESHOLD %}
 
-  <p>Publicaciones relacionadas</p>
-  <ul>
-    {% assign related_post_count = 0 %}
-    {% for post in site.related_posts %}
-    {% if related_post_count == RELATED_POSTS_THRESHOLD %}
     {% break %}
     {% endif %}
     {% for tag in post.tags %}
     {% if page.tags contains tag %}
-    <li>
-      <h3>
-        <a href="{{ site.url }}{{ post.url }}">
-          {{ post.title }}
+      <div class="cell cell--12 cell--md-6 cell--lg-4">
+        <div class="card card--flat">
+          <div class="card__image">
+            <img src="{{ post.cover }}" alt="" class="image">
+            <div class="card__header">
+              <a href="{{ site.baseurl }}{{ post.url }}"></a>
           <small> {{ post.date | date_to_string }}</small>
-
-        </a>
-      </h3>
-    </li>
+            <h2 class="card__text">{{post.title}}</h2>
+            </a>
+          </div>
+          </div>
+          </div>
+          </div>
     {% assign related_post_count = related_post_count | plus: 1 %}
     {% break %}
     {% endif %}
     {% endfor %}
     {% endfor %}
+
+
 
     {% assign posts_left = RELATED_POSTS_THRESHOLD | minus: related_post_count %}
     {% unless posts_left == 0 %}
@@ -72,19 +79,23 @@ type: article
     {% endfor %}
     {% unless already_related %}
     {% assign posts_left = posts_left | minus: 1 %}
-    <p>Te puede interesar</p>
-    <li>
-      <h3>
-        <a href="{{ site.url }}{{ post.url }}">
-          {{ post.title }}
-          <small>{{ post.date | date_to_string }}</small>
+    <div class="cell cell--12 cell--md-6 cell--lg-4">
+      <div class="card card--flat">
+        <div class="card__image">
+          <img src="{{ post.cover }}" alt="" class="image">
+          <div class="card__header">
+            <a href="{{ site.baseurl }}{{ post.url }}"></a>
+            <small> {{ post.date | date_to_string }}</small>
+            <h2 class="card__text">{{post.title}}</h2>
         </a>
-      </h3>
-    </li>
+      </div>
+      </div>
+      </div>
+      </div>
     {% endunless %}
     {% endfor %} {%
     endunless %}
-  </ul>
+  
 </div>
 
     {%- include article-section-navigator.html -%}
