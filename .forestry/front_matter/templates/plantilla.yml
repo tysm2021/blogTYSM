@@ -1,0 +1,93 @@
+---
+label: PLANTILLA
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: file
+  name: cover
+  label: cover
+- type: text
+  name: layout
+  label: layout
+  default: article
+  hidden: true
+- type: text
+  name: tags
+  label: tags
+- name: categories
+  type: text
+  config:
+    required: false
+  label: categories
+- type: boolean
+  name: show_author_profile
+  label: Mostrar el perfil de autor
+  hidden: true
+- type: text
+  name: excerpt_separator
+  label: excerpt_separator
+  default: "<!--more-->"
+  hidden: true
+- type: text
+  name: mode
+  label: mode
+  default: immersive
+  hidden: true
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: text
+    name: theme
+    label: theme
+    default: dark
+    hidden: true
+  hidden: true
+- type: field_group
+  name: article_header
+  fields:
+  - type: text
+    name: type
+    label: type
+    default: overlay
+    hidden: true
+  - type: text
+    name: theme
+    label: theme
+    default: dark
+    hidden: true
+  - type: text
+    name: background_color
+    label: background_color
+    hidden: true
+    default: "#203028"
+  - type: field_group
+    name: background_image
+    label: background_image
+    fields:
+    - type: text
+      name: gradient
+      label: gradient
+      default: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+      hidden: true
+    - type: file
+      name: src
+      label: src
+      description: Imagen para el <strong>BANNER</strong> en en la publicación
+      default: "/images/281021-5-fisher.jpg"
+  label: Imagen del Encabezado
+- type: boolean
+  name: sharing
+  label: sharing
+  default: true
+- type: boolean
+  name: comment
+  label: comment
+  hidden: true
+pages:
+- _posts/2021-12-15-ciclismo-de-montana-en-baja-california-sur.md

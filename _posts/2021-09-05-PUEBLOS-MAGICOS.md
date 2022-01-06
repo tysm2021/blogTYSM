@@ -4,23 +4,22 @@ author: Carlos Sandoval
 show_author_profile: true
 title: Pueblos Mágicos de México, lista completa de los 132
 tags: texto imersive
-categories: 
-  cultura
-  tecnologia
+categories:
+- cultura
 cover: https://www.mexicodesconocido.com.mx/wp-content/uploads/2017/08/taxco-guerrero-panoramica.jpg
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 mode: immersive
 header:
   theme: dark
 article_header:
   type: overlay
   theme: dark
-  background_color: '#203028'
+  background_color: "#203028"
   background_image:
-    gradient: 'linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))'
+    gradient: linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))
     src: https://www.mexicodesconocido.com.mx/wp-content/uploads/2017/08/taxco-guerrero-panoramica.jpg
 sharing: true
-comment: true
+comment: false
 
 ---
 ## **Encuentra los 132 Pueblos Mágicos de México en esta lista completa. ¿Cuántas de estas localidades encantadoras te faltan por conocer?**
