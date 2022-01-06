@@ -73,8 +73,7 @@ fields:
     - type: text
       name: gradient
       label: gradient
-      default: linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139,
-        .4))
+      default: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
       hidden: true
     - type: file
       name: src
@@ -92,4 +91,3 @@ fields:
   hidden: true
 pages:
 - _posts/2021-12-15-ciclismo-de-montana-en-baja-california-sur.md
-- _posts/el-quelite-pueblo-con-sabor-a-mazatlan.md
