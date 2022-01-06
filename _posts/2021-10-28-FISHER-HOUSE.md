@@ -15,14 +15,14 @@ article_header:
   theme: dark
   background_color: '#203028'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    gradient: 'linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))'
     src: /images/281021-1-fisher.jpg 
 sharing: true
 comment: true
 
 ---
 **Un jardín para 250 personas, una ofrenda artística, coctelería de temporada y helado de cempasúchil son las estrellas del Pop Up Fisher's House.**
-<!--more-->
+
 
 
 La Pop Up Fisher’s House, ubicada en el corazón de la Colonia Condesa (Guadalajara 104, Condesa), sorprenderá a los viajeros durante noviembre 2021: homenaje a víctimas del Covid19, una ofrenda artística, experiencia al aire libre, coctelería de temporada y helado de cempasúchil, ¿qué más puedes pedir?
