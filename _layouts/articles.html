@@ -95,7 +95,9 @@ layout: page
 
 
     <h3 class="category-head">{{ category_name | capitalize }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
+    <a name="{{ category_name | slugize }}">
+    
+    </a>
 
 
     <div class="article-list grid grid--p-3">
@@ -108,7 +110,7 @@ layout: page
             <div class="card__header">
               <a href="{{ site.baseurl }}{{ post.url }}"></a>
               <h2 class="card__text">{{post.title}}</h2>
-              </a>
+
             </div>
           </div>
 
