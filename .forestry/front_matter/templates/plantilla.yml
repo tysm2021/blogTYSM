@@ -4,13 +4,22 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Título
+  description: Nombre del encabezado
+  config:
+    required: true
+    min: 5
 - type: text
   name: author
-  label: author
+  label: Autor
+  description: Nombre del autor (En caso de aparecer un autor predeterminado, contactar
+    al equipo de desarrollo para agregar a un nuevo "Autor")
+  config:
+    required: true
 - type: file
   name: cover
-  label: cover
+  label: Carátula
+  description: Imagen a mostrar en el mosaico de inicio
 - type: text
   name: layout
   label: layout
@@ -18,12 +27,13 @@ fields:
   hidden: true
 - type: text
   name: tags
-  label: tags
+  label: Etiquetas
 - name: categories
   type: text
   config:
     required: false
-  label: categories
+  label: Categorías
+  description: Referencia al jerarquía al tema del articulo.
 - type: boolean
   name: show_author_profile
   label: Mostrar el perfil de autor
@@ -89,5 +99,3 @@ fields:
   name: comment
   label: comment
   hidden: true
-pages:
-- _posts/2021-12-15-ciclismo-de-montana-en-baja-california-sur.md
