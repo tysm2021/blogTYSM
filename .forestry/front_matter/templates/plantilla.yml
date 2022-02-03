@@ -79,7 +79,6 @@ fields:
     default: "#203028"
   - type: field_group
     name: background_image
-    label: background_image
     fields:
     - type: text
       name: gradient
@@ -91,6 +90,7 @@ fields:
       label: src
       description: Imagen para el <strong>BANNER</strong> en en la publicación
       default: "/images/281021-5-fisher.jpg"
+    label: Imagen de fondo
   label: Imagen del Encabezado
 - type: boolean
   name: sharing
