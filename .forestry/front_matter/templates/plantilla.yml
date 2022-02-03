@@ -29,6 +29,7 @@ fields:
 - type: text
   name: tags
   label: Etiquetas
+  description: Para ingresar varias etiquetas separe con espacio.
 - type: text
   name: layout
   label: layout
