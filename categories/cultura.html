@@ -1,0 +1,25 @@
+---
+layout: page
+type: article
+---
+
+
+
+<div class=""">
+    <h1 class="">Cultura</h1>
+    <div class=" article-list grid grid--p-3">
+        {% for post in site.categories.cultura %}
+        <div class="cell cell--12 cell--md-6 cell--lg-4 child">
+            <div class="card card--flat">
+                <div class="card__image">
+                    <img src="{{ post.cover }}" alt="" class="image">
+                    <div class="card__header">
+                        <a href="{{ site.baseurl }}{{ post.url }}"></a>
+                        <h2 class="card__text">{{post.title}}</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+</div>
+</div>

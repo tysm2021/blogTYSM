@@ -129,7 +129,12 @@
             {%- if _article.cover -%}
             <div class="card__image">
               <img src="{{ _article_cover }}" />
-              <div class="card__header"><a href="{{ _article_url }}"><h2 class="card__text">{{ _article.title }}</h2></a></div>
+              <div class="card__header">
+                <a href="{{ _article_url }}">
+                  <h2 class="card__text">{{ _article.title }}</h2>
+                </a>
+              </div>
+              <small class="card__text-small">{{_article.categories}}</small>
               
               </div>
             {%- endif -%}

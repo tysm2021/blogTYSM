@@ -212,6 +212,8 @@ comment: true
                   {%- include article-info.html article=page -%}
                 {%- endif -%}
 
+
+
                     <div class="js-article-content">{{ content }}</div>
                     {%- if _comment != false -%}
                       <section class="page__comments d-print-none">{%- include comments.html -%}</section>
@@ -247,14 +249,14 @@ comment: true
 
 
 <script>
-  {%- include scripts/lib/scroll-to.js -%}
-  {%- include scripts/lib/affix.js -%}
-  {%- include scripts/lib/toc.js -%}
-  {%- if _lightbox == true -%}
-    {%- include scripts/lib/gallery.js -%}
-    {%- include scripts/components/lightbox.js -%}
-  {%- endif -%}
-  {%- include scripts/page.js -%}
+    {%- include scripts/lib/scroll-to.js -%} 
+    {%- include scripts/lib/affix.js -%}
+    {%- include scripts/lib/toc.js -%}
+    {%- if _lightbox == true -%}
+      {%- include scripts/lib/gallery.js -%}
+      {%- include scripts/components/lightbox.js -%}
+    {%- endif -%}
+    {%- include scripts/page.js -%}
 </script>
 
 {%- if page.sidebar -%}

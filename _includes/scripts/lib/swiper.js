@@ -201,3 +201,11 @@
     $.fn.swiper = swiper;
   });
 })();
+
+
+
+
+var SOURCES = window.TEXT_VARIABLES.sources;
+window.Lazyload.js(SOURCES.jquery, function() {
+  $('.swiper-demo').swiper();
+});
