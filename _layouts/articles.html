@@ -16,93 +16,103 @@ _articles -%}
 
 <div class="layout--articles">
 
-
-  <div class="swiper swiper-demo">
-    <div class="swiper__wrapper">
-      <div class="swiper__slide">
-        {% for post in site.categories.historia limit:1 %}
-        <div class="cell cell--12 cell--md-6 cell--lg-4 child">
-          <div class="card card--flat">
-              <div class="card__image">
-                  <img src="{{ post.cover }}" alt="" class="image">
-                  <div class="card__header">
-                      <a href="{{ site.baseurl }}{{ post.url }}"></a>
-                      <h2 class="card__text">{{post.title}}</h2>
-                  </div>
-              </div>
-          </div>
-      </div>
-        {% endfor %}
-
-      </div>
-      <div class="swiper__slide">
-        {% for post in site.categories.cultura limit:1 %}
-        <div class="cell cell--12 cell--md-6 cell--lg-4 child">
-          <div class="card card--flat">
-              <div class="card__image">
-                  <img src="{{ post.cover }}" alt="" class="image">
-                  <div class="card__header">
-                      <a href="{{ site.baseurl }}{{ post.url }}"></a>
-                      <h2 class="card__text">{{post.title}}</h2>
-                  </div>
-              </div>
-          </div>
-      </div>
-        {% endfor %}
-      </div>
-      <div class="swiper__slide">
-        {% for post in site.categories.folclore limit:1 %}
-        <div class="cell cell--12 cell--md-6 cell--lg-4 child">
-          <div class="card card--flat">
-              <div class="card__image">
-                  <img src="{{ post.cover }}" alt="" class="image">
-                  <div class="card__header">
-                      <a href="{{ site.baseurl }}{{ post.url }}"></a>
-                      <h2 class="card__text">{{post.title}}</h2>
-                  </div>
-              </div>
-          </div>
-      </div>
-        {% endfor %}
-      </div>
-      <div class="swiper__slide">
-        {% for post in site.categories.gastronomia limit:1 %}
-        <div class="cell cell--12 cell--md-6 cell--lg-4 child">
-          <div class="card card--flat">
-              <div class="card__image">
-                  <img src="{{ post.cover }}" alt="" class="image">
-                  <div class="card__header">
-                      <a href="{{ site.baseurl }}{{ post.url }}"></a>
-                      <h2 class="card__text">{{post.title}}</h2>
-                  </div>
-              </div>
-          </div>
-      </div>
-        {% endfor %}
-      </div>
-      <div class="swiper__slide">
-        {% for post in site.categories.turismo limit:1 %}
-        <div class="cell cell--12 cell--md-6 cell--lg-4 child">
-          <div class="card card--flat">
-              <div class="card__image">
-                  <img src="{{ post.cover }}" alt="" class="image">
-                  <div class="card__header">
-                      <a href="{{ site.baseurl }}{{ post.url }}"></a>
-                      <h2 class="card__text">{{post.title}}</h2>
-                  </div>
-              </div>
-          </div>
-      </div>
-        {% endfor %}
-      </div>
-      
-    </div>
-    <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
-    <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
-  </div>
+  
+  <div class="module-slide">
+ 
 
 
-<script>{%- include scripts/lib/swiper.js -%}</script>
+     <div class="container-slide">
+      <input type="radio" id="1" name="image-slide" hidden>
+
+      <input type="radio" id="2" name="image-slide" hidden>
+    
+      <input type="radio" id="3" name="image-slide" hidden>
+      <input type="radio" id="4" name="image-slide" hidden>
+      <input type="radio" id="5" name="image-slide" hidden>
+        <div class="slide-img">
+    
+          <div class="slide-item">
+            {% for post in site.categories.folclore limit:1 %}
+            <img src="{{post.cover}}">
+            <div class="slide-title">
+              <a href="{{ site.baseurl }}{{ post.url }}"></a>
+                <h2 class="slide-text">{{post.title}}</h2>
+             </div>
+            <small class="slide-label">{{post.categories}}</small>
+            {% endfor %}
+          </div>
+          <div class="slide-item">
+            {% for post in site.categories.turismo limit:1 %}
+            <img src="{{post.cover}}">
+            <div class="slide-title">
+              <a href="{{ site.baseurl }}{{ post.url }}"></a>
+                <h2 class="slide-text">{{post.title}}</h2>
+             </div>
+            <small class="slide-label">{{post.categories}}</small>
+            {% endfor %}
+          </div>
+          <div class="slide-item">
+            {% for post in site.categories.historia limit:1 %}
+            <img src="{{post.cover}}">
+            <div class="slide-title">
+              <a href="{{ site.baseurl }}{{ post.url }}"></a>
+                <h2 class="slide-text">{{post.title}}</h2>
+             </div>
+            <small class="slide-label">{{post.categories}}</small>
+            {% endfor %}
+          </div>
+          <div class="slide-item">
+            {% for post in site.categories.cultura limit:1 %}
+            <img src="{{post.cover}}">
+            <div class="slide-title">
+              <a href="{{ site.baseurl }}{{ post.url }}"></a>
+                <h2 class="slide-text">{{post.title}}</h2>
+             </div>
+            <small class="slide-label">{{post.categories}}</small>
+            {% endfor %}
+          </div>
+          <div class="slide-item">
+            {% for post in site.categories.gastronomia limit:1 %}
+            <img src="{{post.cover}}">
+            <div class="slide-title">
+              <a href="{{ site.baseurl }}{{ post.url }}"></a>
+                <h2 class="slide-text">{{post.title}}</h2>
+             </div>
+            <small class="slide-label">{{post.categories}}</small>
+            {% endfor %}
+          </div>
+    
+        </div>
+
+        <div class="pagination-slide">
+          <label for="1" class="item-pagination">
+            {% for post in site.categories.folclore limit:1 %}
+            <img src="{{post.cover}}">
+            {% endfor %}
+          </label>
+          <label for="2" class="item-pagination" >
+            {% for post in site.categories.turismo limit:1 %}
+            <img src="{{post.cover}}">
+            {% endfor %}
+          </label>
+          <label for="3" class="item-pagination" >
+            {% for post in site.categories.historia limit:1 %}
+            <img src="{{post.cover}}">
+            {% endfor %}
+          </label>
+          <label for="4" class="item-pagination" >
+            {% for post in site.categories.cultura limit:1 %}
+            <img src="{{post.cover}}">
+            {% endfor %}
+          </label>
+          <label for="5" class="item-pagination" >
+            {% for post in site.categories.gastronomia limit:1 %}
+            <img src="{{post.cover}}">
+            {% endfor %}
+          </label>
+        </div>
+     </div>
+</div>
 
 
 
