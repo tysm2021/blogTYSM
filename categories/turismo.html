@@ -1,25 +1,68 @@
 ---
-layout: page
-type: article
+layout: base
+
 ---
 
 
+  
+  
+  
+   
+   
+   {%- include header.html -%}
+  
+  
+  
+  
 
-<div class=""">
-    <h1 class="">Turismo</h1>
-    <div class=" article-list grid grid--p-3">
-    {% for post in site.categories.turismo %}
-    <div class="cell cell--12 cell--md-6 cell--lg-4 child">
-        <div class="card card--flat">
-            <div class="card__image">
-                <img src="{{ post.cover }}" alt="" class="image">
-                <div class="card__header">
-                    <a href="{{ site.baseurl }}{{ post.url }}"></a>
-                    <h2 class="card__text">{{post.title}}</h2>
+<div class="hero hero--dark overlay section-cat--turismo">
+    <div class="hero__content">
+      <div class="main container">
+          <h1>Turismo</h1>
+      </div>
+    </div>
+</div>
+
+
+
+<div class="page__main-inner">
+    <div class="page__content">
+        <div class="main container">        
+            <div class=" article-list grid grid--p-3">
+                {% for post in site.categories.turismo %}
+                <div class="cell cell--12 cell--md-6 cell--lg-4">
+                    <div class="card card--flat">
+                        <div class="card__image">
+                            <img src="{{ post.cover }}" alt="" class="image">
+                            <div class="card__header">
+                                <a href="{{ site.baseurl }}{{ post.url }}"></a>
+                                <h2 class="card__text">{{post.title}}</h2>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+                {% endfor %}
             </div>
         </div>
     </div>
-    {% endfor %}
-</div>
+
+  
+    <script>
+      {%- include scripts/common.js -%}
+     </script>
+
+
+    <script>{%- include scripts/lib/modal.js -%}</script>
+    {%- if _lightbox == true -%}
+    <div class="modal d-print-none js-page-gallery-modal"><div class="gallery"></div></div>
+    {%- endif -%}
+    {%- if _header != false -%}
+        <div class="modal modal--overflow page__search-modal d-print-none js-page-search-modal">{%- include search.html -%}</div>
+
+    {%- endif -%}
+
+    <div class="page__footer d-print-none">
+    {%- include footer.html -%}
+    </div>
+
 </div>
