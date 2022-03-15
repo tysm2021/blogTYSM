@@ -2,6 +2,8 @@
 layout: page
 ---
 
+
+
 {%- assign _page_articles_data_source = page.articles.data_source | default:
 layout.articles.data_source -%} {%- if _page_articles_data_source -%} {%- assign
 _keys = _page_articles_data_source | split: '.' -%} {%- endif -%} {%- assign
@@ -29,7 +31,8 @@ _articles -%}
       <input type="radio" id="3" name="image-slide" hidden>
       <input type="radio" id="4" name="image-slide" hidden>
       <input type="radio" id="5" name="image-slide" hidden>
-        <div class="slide-img">
+       
+      <div class="slide-img">
     
           <div class="slide-item">
             {% for post in site.categories.folclore limit:1 %}
@@ -114,21 +117,7 @@ _articles -%}
      </div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h1>Lo mas reciente</h1>  
   {%- if _type == 'grid' -%} {%- if page.articles.size == 'sm' -%} {%- include
   article-list.html articles=_articles type='grid' size='sm' -%} {%- else -%}
   {%- include article-list.html articles=_articles type='grid' -%} {%- endif -%}
@@ -161,69 +150,60 @@ _articles -%}
   </div>
 {%- endif -%}
 
-<!-- <div id="archives" class="my-5">
-  {% for category in site.categories %}
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
+
+<!-- 
+        
+{{ content }} -->
 
 
-    <h3 class="category-head">{{ category_name | capitalize }}</h3>
-    <a name="{{ category_name | slugize }}">
-    
-    </a>
+  <div class="section-cat--historia historia">
+  <div class="header-cat">
+    <h1 class="article__text">Historia</h1>
+     </div>
+  <div class="article-list grid grid--p-3">
+    {% for post in site.categories.historia limit:3 %}
+    <div class="cell cell--12 cell--md-6 cell--lg-4">
+      <div class="card card--flat">
+        <div class="card__image">
+          <img src="{{ post.cover }}" alt="" class="image" />
+          <div class="card__header">
+            <a href="{{ site.baseurl }}{{ post.url }}"></a>
+            <h2 class="card__text">{{post.title}}</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="footer-cat">
+    <a href="{{site.baseurl}}categories/historia.html" class="btn-cat">Mas notas relacionadas</a>
+  </div>
+  </div>
 
 
+ <div class="the-most-view">
+    <h1>Lo último en Historia</h1>
     <div class="article-list grid grid--p-3">
-      {% for post in site.categories.historia %}
+      {% for post in site.categories.historia limit:3 %}
       <div class="cell cell--12 cell--md-6 cell--lg-4">
         <div class="card card--flat">
-      
           <div class="card__image">
-            <img src="{{ post.cover }}" alt="" class="image">
+            <img src="{{ post.cover }}" alt="" class="image" />
             <div class="card__header">
               <a href="{{ site.baseurl }}{{ post.url }}"></a>
               <h2 class="card__text">{{post.title}}</h2>
             </div>
-            </div>
-            </div>
-            </div>
-            {% endfor %}
-            </div>
-            
-            </div>
-            {% endfor %}
-            </div> -->
-
-
-            
-            {{ content }}
-<div class="section-cat historia">
-<div class="header-cat">
-  <h1 class="article__text">Historia</h1>
-  <a href="{{site.baseurl}}categories/historia.html" class="btn-cat">Ver más</a>
-</div>
-<div class="article-list grid grid--p-3">
-  {% for post in site.categories.historia limit:3 %}
-  <div class="cell cell--12 cell--md-6 cell--lg-4">
-    <div class="card card--flat">
-      <div class="card__image">
-        <img src="{{ post.cover }}" alt="" class="image" />
-        <div class="card__header">
-          <a href="{{ site.baseurl }}{{ post.url }}"></a>
-          <h2 class="card__text">{{post.title}}</h2>
+          </div>
         </div>
       </div>
-    </div>
-  </div>
-  {% endfor %}
-  </div>
-  </div>
+      {% endfor %}
+      </div>
+ </div>
 
-<div class="section-cat gastronomia">
+<div class="section-cat--gastronomia gastronomia">
   <div class="header-cat">
     <h1 class="article__text">Gastronomía</h1>
-    <a href="{{site.baseurl}}categories/gastronomia.html" class="btn-cat">Ver más</a>
+   
   </div>
   <div class="article-list grid grid--p-3">
     {% for post in site.categories.gastronomia limit:3 %}
@@ -240,12 +220,35 @@ _articles -%}
     </div>
     {% endfor %}
   </div>
+  <div class="footer-cat">
+    <a href="{{site.baseurl}}categories/gastronomia.html" class="btn-cat">Mas notas relacionadas</a>
+  </div>
 </div>
 
-<div class="section-cat turismo">
+
+<div class="the-most-view">
+  <h1>Lo último en Gastronomía</h1>
+  <div class="article-list grid grid--p-3">
+    {% for post in site.categories.gastronomia limit:3 %}
+    <div class="cell cell--12 cell--md-6 cell--lg-4">
+      <div class="card card--flat">
+        <div class="card__image">
+          <img src="{{ post.cover }}" alt="" class="image" />
+          <div class="card__header">
+            <a href="{{ site.baseurl }}{{ post.url }}"></a>
+            <h2 class="card__text">{{post.title}}</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    </div>
+</div>
+
+<div class="section-cat--turismo turismo">
   <div class="header-cat">
     <h1 class="article__text">Turismo</h1>
-    <a href="{{site.baseurl}}categories/turismo.html" class="btn-cat">Ver más</a>
+
   </div>
   <div class="article-list grid grid--p-3">
     {% for post in site.categories.turismo limit:3 %}
@@ -262,13 +265,35 @@ _articles -%}
       </div>
       {% endfor %}
       </div>
+      <div class="footer-cat">
+        <a href="{{site.baseurl}}categories/turismo.html" class="btn-cat">Mas notas relacionadas</a>
+      </div>
 </div>
 
-<div class="section-cat folclore">
+<div class="the-most-view">
+  <h1>Lo último en Turismo</h1>
+  <div class="article-list grid grid--p-3">
+    {% for post in site.categories.turismo limit:3 %}
+    <div class="cell cell--12 cell--md-6 cell--lg-4">
+      <div class="card card--flat">
+        <div class="card__image">
+          <img src="{{ post.cover }}" alt="" class="image" />
+          <div class="card__header">
+            <a href="{{ site.baseurl }}{{ post.url }}"></a>
+            <h2 class="card__text">{{post.title}}</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    </div>
+</div>
+
+
+<div class="section-cat--folclore folclore">
   <div class="header-cat">
     <h1 class="article__text">Folclore</h1>
-    <a href="{{site.baseurl}}categories/folclore.html" class="btn-cat">Ver más</a>
-  </div>
+   </div>
   <div class="article-list grid grid--p-3">
     {% for post in site.categories.folclore limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
@@ -284,12 +309,33 @@ _articles -%}
     </div>
     {% endfor %}
   </div>
+  <div class="footer-cat">
+    <a href="{{site.baseurl}}categories/folclore.html" class="btn-cat">Mas notas relacionadas</a>
+  </div>
 </div>
 
-<div class="section-cat cultura">
+<div class="the-most-view">
+  <h1>Lo último en Folclore</h1>
+  <div class="article-list grid grid--p-3">
+    {% for post in site.categories.folclore limit:3 %}
+    <div class="cell cell--12 cell--md-6 cell--lg-4">
+      <div class="card card--flat">
+        <div class="card__image">
+          <img src="{{ post.cover }}" alt="" class="image" />
+          <div class="card__header">
+            <a href="{{ site.baseurl }}{{ post.url }}"></a>
+            <h2 class="card__text">{{post.title}}</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    </div>
+</div>
+
+<div class="section-cat--cultura cultura">
   <div class="header-cat">
     <h1 class="article__text">Cultura</h1>
-    <a href="{{site.baseurl}}categories/cultura.html" class="btn-cat">Ver más</a>
   </div>
   <div class="article-list grid grid--p-3">
     {% for post in site.categories.cultura limit:3 %}
@@ -306,4 +352,26 @@ _articles -%}
     </div>
     {% endfor %}
   </div>
+  <div class="footer-cat">
+    <a href="{{site.baseurl}}categories/cultura.html" class="btn-cat">Mas notas relacionadas</a>
+  </div>
+</div>
+
+<div class="the-most-view">
+  <h1>Lo último en Cultura</h1>
+  <div class="article-list grid grid--p-3">
+    {% for post in site.categories.cultura limit:3 %}
+    <div class="cell cell--12 cell--md-6 cell--lg-4">
+      <div class="card card--flat">
+        <div class="card__image">
+          <img src="{{ post.cover }}" alt="" class="image" />
+          <div class="card__header">
+            <a href="{{ site.baseurl }}{{ post.url }}"></a>
+            <h2 class="card__text">{{post.title}}</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    </div>
 </div>

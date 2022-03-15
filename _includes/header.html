@@ -1,3 +1,5 @@
+{%- include menus.html -%}
+
 {%- if include.theme == 'dark' -%}
   <header class="header header--dark" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
 {%- elsif include.theme == 'light' -%}
@@ -22,7 +24,7 @@
       {%- if site.data.navigation.header -%}
       <nav class="navigation">
         <ul>
-          {%- for _item in site.data.navigation.header -%}
+          <!-- {%- for _item in site.data.navigation.header -%}
             {%- include snippets/get-nav-url.html path=_item.url -%}
             {%- assign _nav_url = __return -%}
             {%- include snippets/get-nav-url.html path=page.url -%}
@@ -33,12 +35,37 @@
             {%- else -%}
               <li class="navigation__item"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
             {%- endif -%}
-          {%- endfor -%}
-          {%- if site.search.provider -%}
+          {%- endfor -%}-->
+          {%- if site.search.provider -%} 
             <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
           {%- endif -%}
+          <li> <a class="nav-button ml-auto">
+            <span id="nav-icon3"><span></span><span></span><span></span><span></span></span>
+        </a></li>
         </ul>
       </nav>
       {%- endif -%}
     </div>
+
+  
   </header>
+
+
+ 
+ 
+ 
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+  integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+</script>
+  
+  <script>
+    $(document).ready(function(){
+    $('.nav-button').click(function(){
+    $('body').toggleClass('nav-open');
+    });
+  });
+  </script>
+
+
+
+
