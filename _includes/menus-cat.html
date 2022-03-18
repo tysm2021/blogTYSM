@@ -10,21 +10,34 @@
                 {%- endif -%}
             </li>
             <li class="nav-item delay-3">
-                <a class="nav-link hvr-pulse" href="{{site.baseurl}}categories/historia.html"> -HISTORIA</a>
+                <a class="nav-link hvr-pulse" href="{{site.baseurl}}historia.html">-HISTORIA</a>
             </li>
             <li class="nav-item delay-4">
-                <a class="nav-link hvr-pulse" href="{{site.baseurl}}categories/cultura.html"> -CULTURA</a>
+                <a class="nav-link hvr-pulse" href="{{site.baseurl}}cultura.html">-CULTURA</a>
             </li>
             <li class="nav-item delay-5">
-                <a class="nav-link hvr-pulse" href="{{site.baseurl}}categories/folclore.html"> -FOLCLORE</a>
+                <a class="nav-link hvr-pulse" href="{{site.baseurl}}folclore.html">-FOLCLORE</a>
             </li>
             <li class="nav-item delay-6">
-               <a class="nav-link hvr-pulse" href="{{site.baseurl}}categories/gastronomia.html"> -GASTRONOMÍA</a>
+               <a class="nav-link hvr-pulse" href="{{site.baseurl}}gastronomia.html">-GASTRONOMÍA</a>
             </li>
             <li class="nav-item delay-7">
-               <a class="nav-link hvr-pulse" href="{{site.baseurl}}categories/turismo.html"> -TURISMO</a>
+               <a class="nav-link hvr-pulse" href="{{site.baseurl}}turismo.html">-TURISMO</a>
             </li>
         </ul>
 
     </div>
   </div>
+
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+  integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+</script>
+  
+  <script>
+    $(document).ready(function(){
+    $('.nav-button').click(function(){
+    $('body').toggleClass('nav-open');
+    });
+  });
+  </script>

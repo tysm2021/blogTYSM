@@ -6,41 +6,10 @@ layout: base
 
 
 
-<div class="fixed-top main-menu">
-    <div class="flex-center p-5">
-        <ul class="nav flex-column">
-            <li class="nav-item delay-2"><a class="nav-link">BLOG</a></li>
-            <li class="nav-item delay-2">
-                {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
-                {%- include snippets/get-nav-url.html path=_paths_root -%}
-                {%- if site.title -%}
-                <a class="nav-link hvr-pulse" title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">- INICIO</a>
-                {%- endif -%}
-            </li>
-            <li class="nav-item delay-3">
-                <a class="nav-link hvr-pulse" href="{{site.baseurl}}historia.html">-HISTORIA</a>
-            </li>
-            <li class="nav-item delay-4">
-                <a class="nav-link hvr-pulse" href="{{site.baseurl}}cultura.html">-CULTURA</a>
-            </li>
-            <li class="nav-item delay-5">
-                <a class="nav-link hvr-pulse" href="{{site.baseurl}}folclore.html">-FOLCLORE</a>
-            </li>
-            <li class="nav-item delay-6">
-               <a class="nav-link hvr-pulse" href="{{site.baseurl}}gastronomia.html">-GASTRONOMÍA</a>
-            </li>
-            <li class="nav-item delay-7">
-               <a class="nav-link hvr-pulse" href="{{site.baseurl}}turismo.html">-TURISMO</a>
-            </li>
-        </ul>
-
-    </div>
-  </div>
-
-
+{%- include menus-cat.html -%}
 
  
-  <header class="header transparent" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+<header class="header transparent" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
 
 
 <div class="main container">
@@ -114,20 +83,7 @@ layout: base
     {%- endif -%}
 
     <div class="page__footer d-print-none">
-    {%- include footer.html -%}
+    {%- include footer-cat.html -%}
     </div>
 
 </div>
-
-
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-  integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
-</script>
-  
-  <script>
-    $(document).ready(function(){
-    $('.nav-button').click(function(){
-    $('body').toggleClass('nav-open');
-    });
-  });
-  </script>
