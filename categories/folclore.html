@@ -4,18 +4,75 @@ layout: base
 ---
 
 
-  
-  
-  
-   
-   
-   {%- include header.html -%}
-  
-  
+
+
+<div class="fixed-top main-menu">
+    <div class="flex-center p-5">
+        <ul class="nav flex-column">
+            <li class="nav-item delay-2"><a class="nav-link">BLOG</a></li>
+            <li class="nav-item delay-2">
+                {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
+                {%- include snippets/get-nav-url.html path=_paths_root -%}
+                {%- if site.title -%}
+                <a class="nav-link hvr-pulse" title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">- INICIO</a>
+                {%- endif -%}
+            </li>
+            <li class="nav-item delay-3">
+                <a class="nav-link hvr-pulse" href="{{site.baseurl}}historia.html">-HISTORIA</a>
+            </li>
+            <li class="nav-item delay-4">
+                <a class="nav-link hvr-pulse" href="{{site.baseurl}}cultura.html">-CULTURA</a>
+            </li>
+            <li class="nav-item delay-5">
+                <a class="nav-link hvr-pulse" href="{{site.baseurl}}folclore.html">-FOLCLORE</a>
+            </li>
+            <li class="nav-item delay-6">
+               <a class="nav-link hvr-pulse" href="{{site.baseurl}}gastronomia.html">-GASTRONOMÍA</a>
+            </li>
+            <li class="nav-item delay-7">
+               <a class="nav-link hvr-pulse" href="{{site.baseurl}}turismo.html">-TURISMO</a>
+            </li>
+        </ul>
+
+    </div>
+  </div>
+
+
+
+ 
+  <header class="header transparent" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+
+
+<div class="main container">
+  <div class="header__title">
+    <div class="header__brand">
+      {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
+      {%- include snippets/get-nav-url.html path=_paths_root -%}
+      {%- if site.title -%}
+      <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
+    {%- endif -%}
+
+    <div class="navigation-items">
+    {%- if site.search.provider -%}
+      <button class="button button--secondary button--circle search-button js-search-toggle">
+        <i class="fas fa-search"></i>
+      </button>
+      {%- endif -%} 
+     <div>
+        <a class="nav-button">
+          <span id="nav-icon3"><span></span><span></span><span></span><span></span></span>
+      </a>
+     </div>
+</div>
+    </div>
+  </div>
+</div>
+</header>
+ 
   
   
 
-<div class="hero hero--dark overlay section-cat--folclore">
+<div class="hero hero--dark overlay back-folclore pos">
     <div class="hero__content">
       <div class="main container">
           <h1>Folclore</h1>
@@ -47,11 +104,6 @@ layout: base
     </div>
 
   
-    <script>
-      {%- include scripts/common.js -%}
-     </script>
-
-
     <script>{%- include scripts/lib/modal.js -%}</script>
     {%- if _lightbox == true -%}
     <div class="modal d-print-none js-page-gallery-modal"><div class="gallery"></div></div>
@@ -66,3 +118,16 @@ layout: base
     </div>
 
 </div>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+  integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+</script>
+  
+  <script>
+    $(document).ready(function(){
+    $('.nav-button').click(function(){
+    $('body').toggleClass('nav-open');
+    });
+  });
+  </script>

@@ -1,22 +1,30 @@
 <div class="fixed-top main-menu">
     <div class="flex-center p-5">
         <ul class="nav flex-column">
-       
+            <li class="nav-item delay-2"><a class="nav-link">BLOG</a></li>
             <li class="nav-item delay-2">
-                <a class="nav-link hvr-pulse" href="tono.html">TOÑO</a>
+                {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
+                {%- include snippets/get-nav-url.html path=_paths_root -%}
+                {%- if site.title -%}
+                <a class="nav-link hvr-pulse" title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">- INICIO</a>
+                {%- endif -%}
             </li>
             <li class="nav-item delay-3">
-                <a class="nav-link hvr-pulse" href="personajes.html">PERSONAJES</a>
+                <a class="nav-link hvr-pulse" href="{{site.baseurl}}categories/historia.html">-HISTORIA</a>
             </li>
             <li class="nav-item delay-4">
-                <a class="nav-link hvr-pulse" href="anunciate.html">ANÚNCIATE</a>
+                <a class="nav-link hvr-pulse" href="{{site.baseurl}}categories/cultura.html">-CULTURA</a>
             </li>
             <li class="nav-item delay-5">
-                <a class="nav-link hvr-pulse" href="contacto.html">CONTACTO</a>
+                <a class="nav-link hvr-pulse" href="{{site.baseurl}}categories/folclore.html">-FOLCLORE</a>
             </li>
-        <li class="nav-item delay-5">
-            <a class="nav-link hvr-pulse" href="https://blog.tonoysumariachi.com/">BLOG</a>
-        </li>
+            <li class="nav-item delay-6">
+               <a class="nav-link hvr-pulse" href="{{site.baseurl}}categories/gastronomia.html">-GASTRONOMÍA</a>
+            </li>
+            <li class="nav-item delay-7">
+               <a class="nav-link hvr-pulse" href="{{site.baseurl}}categories/turismo.html">-TURISMO</a>
+            </li>
         </ul>
+
     </div>
   </div>

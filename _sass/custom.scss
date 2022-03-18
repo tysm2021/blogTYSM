@@ -1275,45 +1275,14 @@ p {
 }
 
 
-
-.section-cat--cultura{
- background: linear-gradient(rgba(5,12,7, .6),rgba(5,12,7,.6)) , url("https://hdnh.es/wp-content/uploads/2017/08/cultura.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
- padding: 50px;
-}
-
-.section-cat--folclore{
-  background: linear-gradient(rgba(5,12,7, .6),rgba(5,12,7,.6)) , url("https://grupoenconcreto.com/wp-content/uploads/FZFI-2018-36.jpg");
-   background-repeat: no-repeat;
-   background-size: cover;
+ .section-cat {
   padding: 50px;
  }
 
- .section-cat--turismo{
-  background: linear-gradient(rgba(5,12,7, .6),rgba(5,12,7,.6)) , url("https://realestatemarket.com.mx/images/2022/01-enero/1801/turismo-internacional-se-recuperara-2024-g.jpg");
-   background-repeat: no-repeat;
-   background-size: cover;
-  padding: 50px;
- }
-
- .section-cat--historia{
-  background: linear-gradient(rgba(5,12,7, .6),rgba(5,12,7,.6)) , url("https://www.infoenem.com.br/wp-content/uploads/2014/12/hist%C3%B3ria.jpg");
-   background-repeat: no-repeat;
-   background-size: cover;
-  padding: 50px;
- }
-
- .section-cat--gastronomia{
-  background: linear-gradient(rgba(5,12,7, .6),rgba(5,12,7,.6)) , url("https://conceptodefinicion.de/wp-content/uploads/2019/08/Gastronom%C3%ADa-1.jpg");
-   background-repeat: no-repeat;
-   background-size: cover;
-  padding: 50px;
- }
-
+ 
 @media (max-width: 1200px) {
   .section-cat{
-    padding: 10px;
+    padding: 25px;
    }
 }
 
@@ -1356,40 +1325,86 @@ p {
 
 $margin: 100px 0 100px 0;
 $radius: 10px;
+$gradient: linear-gradient(rgb(5, 12, 7),rgba(5,12,7,.3));
 
-
+$cultura: url("https://hdnh.es/wp-content/uploads/2017/08/cultura.jpg"); 
 .cultura{
-  background-color: red;
+  background: $gradient , $cultura;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: $radius;
+  margin: $margin;
+} 
+
+.back-cultura{
+  background: $gradient , $cultura;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+$folclore: url("https://grupoenconcreto.com/wp-content/uploads/FZFI-2018-36.jpg");
+.folclore{
+  background: $gradient , $folclore;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: $radius;
+  margin: $margin;
+
+}
+
+.back-folclore{
+  background: $gradient , $folclore;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+$turismo: url("https://realestatemarket.com.mx/images/2022/01-enero/1801/turismo-internacional-se-recuperara-2024-g.jpg");;
+.turismo{
+  background: $gradient , $turismo;
+  background-repeat: no-repeat;
+  background-size: cover;
   border-radius: $radius;
   margin: $margin;
 }
 
+.back-turismo{
+  background: $gradient , $turismo;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
-.folclore{
-  background-color: green;
+$gastronomia: url("https://conceptodefinicion.de/wp-content/uploads/2019/08/Gastronom%C3%ADa-1.jpg") ;  
+.gastronomia{ 
+  background: $gradient , $gastronomia;
+  background-repeat: no-repeat;
+  background-size: cover;
   border-radius: $radius;
-   margin: $margin;
+  margin: $margin;
+}
+
+.back-gastronomia{
+  background: $gradient , $gastronomia;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
-.turismo{
-  background-color: blue;
-  border-radius: $radius;
-   margin: $margin;
-}
-
-
-.gastronomia{
-  background-color: palevioletred;
-  border-radius: $radius;
-   margin: $margin;
-}
-
+$historia: url("https://www.infoenem.com.br/wp-content/uploads/2014/12/hist%C3%B3ria.jpg");
 
 .historia{
-  background-color: brown;
+  background: $gradient , $historia;
+  background-repeat: no-repeat;
+  background-size: cover;
   border-radius: $radius;
-   margin: $margin;
+  margin: $margin;
+}
+
+.back-historia{
+  background: $gradient , $historia;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 /* end custom scss snippet */
 
@@ -1883,7 +1898,48 @@ input[id="5"]:checked ~ .pagination-slide .item-pagination[for="5"]{
 
 .hero{
   margin-bottom: 15px;
+  min-height: 450px;
+}
+
+.pos{
+  position: relative;
 }
 
 
+.transparent{
+  background-color: transparent;
+  position: absolute;
+  z-index: 1000;
+  width: 100%;
+}
 
+
+/*NavBar*/
+
+.header__title > .header__brand {
+
+  justify-content: space-between;
+}
+
+
+.navigation-items{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+  .header__title {
+    margin-right: 0em;
+}
+
+@media (max-width: 499px){
+  .header__title > .header__brand {
+    height: 5rem;
+}
+}
+
+
+.button--md, .button--pill, .button--rounded, .button--circle, .swiper__button {
+  margin: 15px;
+  font-size: 1.2rem;
+}
