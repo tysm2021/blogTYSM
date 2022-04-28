@@ -21,3 +21,8 @@ show_author_profile: false
 comment: false
 
 ---
+Para quienes no temen a las alturas, un paseo en globo aerostático es una experiencia inigualable, especialmente si lo realizas con tu pareja. Por eso, a continuación te compartimos tres lugares donde puedes dar un paseo por las alturas al lado de la persona que amas.
+
+Antes de aventurarte, eso sí, te recomendamos que verifiques que estás en condiciones de salud para hacerlo y que te cerciores de que el servicio que contratas cuenta con certificaciones y cumple con todas las medidas de seguridad.
+
+TE PUEDE INTERESAR:
