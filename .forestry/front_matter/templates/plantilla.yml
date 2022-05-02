@@ -4,26 +4,37 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Título
+  description: Nombre del encabezado
+  config:
+    required: true
+    min: 5
 - type: text
   name: author
-  label: author
+  label: Autor
+  description: Nombre del autor (En caso de aparecer un autor predeterminado, contactar
+    al equipo de desarrollo para agregar a un nuevo "Autor")
+  config:
+    required: true
 - type: file
   name: cover
-  label: cover
+  label: Carátula
+  description: Imagen a mostrar en el mosaico de inicio
+- name: categories
+  type: text
+  config:
+    required: false
+  label: Categorías
+  description: Referencia a la jerarquía del tema de un articulo.
+- type: text
+  name: tags
+  label: Etiquetas
+  description: Para ingresar varias etiquetas separe con espacio.
 - type: text
   name: layout
   label: layout
   default: article
   hidden: true
-- type: text
-  name: tags
-  label: tags
-- name: categories
-  type: text
-  config:
-    required: false
-  label: categories
 - type: boolean
   name: show_author_profile
   label: Mostrar el perfil de autor
@@ -68,7 +79,6 @@ fields:
     default: "#203028"
   - type: field_group
     name: background_image
-    label: background_image
     fields:
     - type: text
       name: gradient
@@ -80,6 +90,7 @@ fields:
       label: src
       description: Imagen para el <strong>BANNER</strong> en en la publicación
       default: "/images/281021-5-fisher.jpg"
+    label: Imagen de fondo
   label: Imagen del Encabezado
 - type: boolean
   name: sharing
@@ -90,4 +101,27 @@ fields:
   label: comment
   hidden: true
 pages:
-- _posts/2021-12-15-ciclismo-de-montana-en-baja-california-sur.md
+- _posts/2022-04-20-cinco-poetas-mexicanos-romanticos-y-sus-mejores-poemas.md
+- _posts/2022-04-20-guerra-de-los-pasteles-resumen-e-historia.md
+- _posts/2022-04-20-la-zona-arqueologica-de-malinalco-y-su-historia.md
+- _posts/2022-04-20-mezcal-y-tequila-cual-es-la-diferencia.md
+- _posts/2022-04-21-la-escalofriante-leyenda-de-la-mulata-de-cordoba.md
+- _posts/2022-04-21-maria-felix-diez-datos-curiosos-de-su-biografia.md
+- _posts/2022-04-21-mictlan-los-nueve-niveles-del-inframundo-mexica.md
+- _posts/2022-04-21-si-el-pozole-es-nutritivo-te-decimos-por-que.md
+- _posts/2022-04-21-tres-museos-que-visitar-en-la-ciudad-de-guanajuato.md
+- _posts/2022-04-22-cual-es-el-origen-de-la-frase-popular-ya-saco-el-cobre.md
+- _posts/2022-04-22-donde-esta-o-quien-tiene-la-cabeza-de-pancho-villa.md
+- _posts/2022-04-22-mexico-lindo-y-querido-origen-e-historia-de-la-cancion.md
+- _posts/2022-04-22-papalo-quelite-una-hierba-con-muchas-propiedades-y-beneficios.md
+- _posts/2022-04-22-premios-nobel-mexicanos-cuantos-y-quienes-son.md
+- _posts/2022-04-22-taxco-de-alarcon-cinco-cosas-que-hacer.md
+- _posts/2022-04-25-extranjeros-que-lucharon-por-mexico-historia-y-biografias.md
+- _posts/2022-04-25-inventores-mexicanos-famosos-y-sus-inventos.md
+- _posts/2022-04-26-nuestros-queridos-charros-cantores-de-mexico.md
+- _posts/2022-04-26-playas-exoticas-mexicanas-tres-opciones-para-desconectarse.md
+- _posts/2022-04-27-chiles-en-nogada-historia-y-la-leyenda-de-su-creacion.md
+- _posts/2022-04-27-la-torta-de-tamal-o-guajolota-y-la-leyenda-de-su-origen.md
+- _posts/2022-04-27-los-mas-grandes-actores-mexicanos-mas-longevos-y-sus-edades.md
+- _posts/2022-04-27-mexicanos-ganadores-del-oscar-quienes-son-y-cuantos-ganaron.md
+- _posts/tres-paseos-en-globo-para-hacer-en-pareja.md
