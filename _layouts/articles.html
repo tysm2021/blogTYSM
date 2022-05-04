@@ -20,8 +20,6 @@ _articles -%}
 
   
   <div class="module-slide">
- 
-
 
      <div class="container-slide">
       <input type="radio" id="1" name="image-slide" hidden>
@@ -44,8 +42,9 @@ _articles -%}
             <small class="slide-label">{{post.categories}}</small>
             {% endfor %}
           </div>
+
           <div class="slide-item">
-            {% for post in site.categories.turismo limit:1 %}
+            {% for post in site.categories.TURISMO limit:1 %}
             <img src="{{post.cover}}">
             <div class="slide-title">
               <a href="{{ site.baseurl }}{{ post.url }}"></a>
@@ -55,7 +54,7 @@ _articles -%}
             {% endfor %}
           </div>
           <div class="slide-item">
-            {% for post in site.categories.historia limit:1 %}
+            {% for post in site.categories.HISTORIA limit:1 %}
             <img src="{{post.cover}}">
             <div class="slide-title">
               <a href="{{ site.baseurl }}{{ post.url }}"></a>
@@ -65,7 +64,7 @@ _articles -%}
             {% endfor %}
           </div>
           <div class="slide-item">
-            {% for post in site.categories.cultura limit:1 %}
+            {% for post in site.categories.CULTURA limit:1 %}
             <img src="{{post.cover}}">
             <div class="slide-title">
               <a href="{{ site.baseurl }}{{ post.url }}"></a>
@@ -75,7 +74,7 @@ _articles -%}
             {% endfor %}
           </div>
           <div class="slide-item">
-            {% for post in site.categories.gastronomia limit:1 %}
+            {% for post in site.categories.GASTRONOMIA limit:1 %}
             <img src="{{post.cover}}">
             <div class="slide-title">
               <a href="{{ site.baseurl }}{{ post.url }}"></a>
@@ -94,22 +93,22 @@ _articles -%}
             {% endfor %}
           </label>
           <label for="2" class="item-pagination" >
-            {% for post in site.categories.turismo limit:1 %}
+            {% for post in site.categories.TURISMO limit:1 %}
             <img src="{{post.cover}}">
             {% endfor %}
           </label>
           <label for="3" class="item-pagination" >
-            {% for post in site.categories.historia limit:1 %}
+            {% for post in site.categories.HISTORIA limit:1 %}
             <img src="{{post.cover}}">
             {% endfor %}
           </label>
           <label for="4" class="item-pagination" >
-            {% for post in site.categories.cultura limit:1 %}
+            {% for post in site.categories.HISTORIA limit:1 %}
             <img src="{{post.cover}}">
             {% endfor %}
           </label>
           <label for="5" class="item-pagination" >
-            {% for post in site.categories.gastronomia limit:1 %}
+            {% for post in site.categories.GASTRONOMIA limit:1 %}
             <img src="{{post.cover}}">
             {% endfor %}
           </label>
@@ -161,7 +160,7 @@ _articles -%}
     <h1 class="article__text">Historia</h1>
      </div>
   <div class="article-list grid grid--p-3">
-    {% for post in site.categories.historia limit:3 %}
+    {% for post in site.categories.HISTORIA limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
         <div class="card__image">
@@ -184,7 +183,7 @@ _articles -%}
  <div class="the-most-view">
     <h1>Lo último en Historia</h1>
     <div class="article-list grid grid--p-3">
-      {% for post in site.categories.historia limit:3 %}
+      {% for post in site.categories.HISTORIA limit:3 %}
       <div class="cell cell--12 cell--md-6 cell--lg-4">
         <div class="card card--flat">
           <div class="card__image">
@@ -206,7 +205,7 @@ _articles -%}
    
   </div>
   <div class="article-list grid grid--p-3">
-    {% for post in site.categories.gastronomia limit:3 %}
+    {% for post in site.categories.GASTRONOMIA limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
         <div class="card__image">
@@ -229,7 +228,7 @@ _articles -%}
 <div class="the-most-view">
   <h1>Lo último en Gastronomía</h1>
   <div class="article-list grid grid--p-3">
-    {% for post in site.categories.gastronomia limit:3 %}
+    {% for post in site.categories.GASTRONOMIA limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
         <div class="card__image">
@@ -251,7 +250,7 @@ _articles -%}
   </div>
 
   <div class="article-list grid grid--p-3">
-    {% for post in site.categories.turismo limit:3 %}
+    {% for post in site.categories.TURISMO limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
         <div class="card__image">
@@ -273,7 +272,7 @@ _articles -%}
 <div class="the-most-view">
   <h1>Lo último en Turismo</h1>
   <div class="article-list grid grid--p-3">
-    {% for post in site.categories.turismo limit:3 %}
+    {% for post in site.categories.TURISMO limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
         <div class="card__image">
@@ -292,10 +291,10 @@ _articles -%}
 
 <div class="section-cat folclore">
   <div class="header-cat">
-    <h1 class="article__text">Folclore</h1>
+    <h1 class="article__text">ASÍ ES MÉXICO</h1>
    </div>
   <div class="article-list grid grid--p-3">
-    {% for post in site.categories.folclore limit:3 %}
+    {% for post in site.categories.ASIESMEXICO limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
         <div class="card__image">
@@ -315,9 +314,9 @@ _articles -%}
 </div>
 
 <div class="the-most-view">
-  <h1>Lo último en Folclore</h1>
+  <h1>Lo último en ASÍ ES MÉXICO</h1>
   <div class="article-list grid grid--p-3">
-    {% for post in site.categories.folclore limit:3 %}
+    {% for post in site.categories.ASIESMEXICO limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
         <div class="card__image">
@@ -338,7 +337,7 @@ _articles -%}
     <h1 class="article__text">Cultura</h1>
   </div>
   <div class="article-list grid grid--p-3">
-    {% for post in site.categories.cultura limit:3 %}
+    {% for post in site.categories.CULTURA limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
         <div class="card__image">
@@ -360,7 +359,7 @@ _articles -%}
 <div class="the-most-view">
   <h1>Lo último en Cultura</h1>
   <div class="article-list grid grid--p-3">
-    {% for post in site.categories.cultura limit:3 %}
+    {% for post in site.categories.CULTURA limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
         <div class="card__image">
