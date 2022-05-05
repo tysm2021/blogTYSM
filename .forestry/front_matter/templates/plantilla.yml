@@ -20,12 +20,6 @@ fields:
   name: cover
   label: Carátula
   description: Imagen a mostrar en el mosaico de inicio
-- name: categories
-  type: text
-  config:
-    required: false
-  label: Categorías
-  description: Referencia a la jerarquía del tema de un articulo.
 - type: text
   name: tags
   label: Etiquetas
