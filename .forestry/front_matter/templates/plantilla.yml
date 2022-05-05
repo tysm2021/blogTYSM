@@ -20,6 +20,24 @@ fields:
   name: cover
   label: Carátula
   description: Imagen a mostrar en el mosaico de inicio
+- name: categories
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - CULTURA
+    - HISTORIA
+    - ASIESMEXICO
+    - GASTRONOMMIA
+    - EL MUNDO
+    - TURISMO
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Categorías
 - type: text
   name: tags
   label: Etiquetas
