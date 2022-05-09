@@ -33,7 +33,9 @@ TE PUEDE INTERESAR:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6c/Ignacio_L%C3%B3pez_Tarso_on_stage_in_2019_%28cropped%29.jpg)
 
-<img class="image image--sm" src="/images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg"/>
+<img class="image image--xl" src="/images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg"/>
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/eH6LE57VwdE](https://www.youtube.com/embed/eH6LE57VwdE "https://www.youtube.com/embed/eH6LE57VwdE")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Este excelso actor, recordado por muchos debido a su papel protagónico en la cinta _Macario_, encabeza la lista con su 97 años. Y con todo, el señor sigue trabajando, ¿admirable, no?
 
