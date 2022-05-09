@@ -29,9 +29,8 @@ fields:
     - CULTURA
     - HISTORIA
     - ASIESMEXICO
-    - GASTRONOMMIA
-    - EL MUNDO
     - TURISMO
+    - GASTRONOMIA
     source:
       type: simple
       section: 
