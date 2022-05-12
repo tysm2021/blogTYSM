@@ -9,6 +9,18 @@ fields:
   config:
     required: true
     min: 5
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    min: 20
+    max: 50
+  label: Sumario
+  description: Breve resumen de la publicación
 - type: text
   name: author
   label: Autor
@@ -16,16 +28,30 @@ fields:
     al equipo de desarrollo para agregar a un nuevo "Autor")
   config:
     required: true
+  default: Refacción TYSM
 - type: file
   name: cover
   label: Carátula
   description: Imagen a mostrar en el mosaico de inicio
+  config:
+    maxSize: 1
 - name: categories
-  type: text
+  type: select
+  default: []
   config:
     required: false
+    options:
+    - CULTURA
+    - HISTORIA
+    - ASIESMEXICO
+    - TURISMO
+    - GASTRONOMIA
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: Categorías
-  description: Referencia a la jerarquía del tema de un articulo.
 - type: text
   name: tags
   label: Etiquetas
@@ -89,7 +115,7 @@ fields:
       name: src
       label: src
       description: Imagen para el <strong>BANNER</strong> en en la publicación
-      default: "/images/281021-5-fisher.jpg"
+      default: "/images/2022-04-26-majahuitas_pinterest.jpeg"
     label: Imagen de fondo
   label: Imagen del Encabezado
 - type: boolean
@@ -124,4 +150,4 @@ pages:
 - _posts/2022-04-27-la-torta-de-tamal-o-guajolota-y-la-leyenda-de-su-origen.md
 - _posts/2022-04-27-los-mas-grandes-actores-mexicanos-mas-longevos-y-sus-edades.md
 - _posts/2022-04-27-mexicanos-ganadores-del-oscar-quienes-son-y-cuantos-ganaron.md
-- _posts/tres-paseos-en-globo-para-hacer-en-pareja.md
+- _posts/2022-05-05-tres-paseos-en-globo-para-hacer-en-pareja.md

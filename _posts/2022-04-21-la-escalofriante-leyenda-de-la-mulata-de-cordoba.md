@@ -21,6 +21,7 @@ show_author_profile: false
 comment: false
 
 ---
+
 Desde tiempos muy remotos, en nuestro país han circulado una multitud de **leyendas** que hablan de muertos, aparecidos y de sucesos sobrenaturales que invariablemente dan una lección o una moraleja. Una de ellas habla de una hermosa **mulata** que vivía en la ciudad de **Córdoba, Veracruz,** para la cual no había prisión que pudiera contenerla.
 
 En seguida, te contamos una de las tantas versiones que circulan sobre esta **leyenda** y sobre los poderes extraordinarios de esa mujer.
