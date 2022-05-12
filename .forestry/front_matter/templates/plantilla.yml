@@ -33,6 +33,8 @@ fields:
   name: cover
   label: Carátula
   description: Imagen a mostrar en el mosaico de inicio
+  config:
+    maxSize: 1
 - name: categories
   type: select
   default: []
