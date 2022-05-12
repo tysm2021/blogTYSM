@@ -113,7 +113,7 @@ fields:
       name: src
       label: src
       description: Imagen para el <strong>BANNER</strong> en en la publicación
-      default: "/images/281021-5-fisher.jpg"
+      default: "/images/2022-04-26-majahuitas_pinterest.jpeg"
     label: Imagen de fondo
   label: Imagen del Encabezado
 - type: boolean
