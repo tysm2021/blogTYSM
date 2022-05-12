@@ -5,11 +5,11 @@ layout: base
 
 
 
+
 {%- include menus-cat.html -%}
 
-
  
-  <header class="header transparent" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+<header class="header transparent" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
 
 
 <div class="main container">
@@ -41,10 +41,10 @@ layout: base
   
   
 
-<div class="hero hero--dark overlay back-folclore pos">
+<div class="hero hero--dark overlay back-mundo pos">
     <div class="hero__content">
       <div class="main container">
-          <h1>ASÍ ES MÉXICO</h1>
+          <h1>MUNDO</h1>
       </div>
     </div>
 </div>
@@ -54,8 +54,8 @@ layout: base
 <div class="page__main-inner">
     <div class="page__content">
         <div class="main container">        
-            <div class=" article-list grid grid--p-3">
-                {% for post in site.categories.ASIESMEXICO %}
+            <div class=" article-list grid grid--p-3 m-5">
+                {% for post in site.categories.MUNDO %}
                 <div class="cell cell--12 cell--md-6 cell--lg-4">
                     <div class="card card--flat">
                         <div class="card__image">
@@ -87,5 +87,3 @@ layout: base
     </div>
 
 </div>
-
-

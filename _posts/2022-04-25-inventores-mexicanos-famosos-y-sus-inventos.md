@@ -21,7 +21,7 @@ show_author_profile: false
 comment: false
 
 ---
-Los mexicanos somos un pueblo lleno de talento e inventiva. Por eso, desde los principios de su historia ha habido toda una serie de **inventores** que gracias a su esfuerzo y creatividad han aportado grandes e innovadoras soluciones al mundo. Pero, ¿**quiénes son** los más **famosos** y cuáles son sus **inventos** más notables?
+Los mexicanos somos un pueblo lleno de talento e inventiva. Por eso, desde los principios de su historia ha habido toda una serie de **inventores** que gracias a su esfuerzo y creatividad <!--more--> han aportado grandes e innovadoras soluciones al mundo. Pero, ¿**quiénes son** los más **famosos** y cuáles son sus **inventos** más notables?
 
 A continuación te presentamos a algunos inventores y sus creaciones, en estricto orden cronológico. Aunque en algunos casos la creación mexicana sirvió de base para el invento que todos conocemos, seguramente te sorprenderá saber que muchos de estos adelantos los debemos a un mexicano.
 

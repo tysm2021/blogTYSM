@@ -1344,7 +1344,7 @@ $cultura: url("https://hdnh.es/wp-content/uploads/2017/08/cultura.jpg");
 
 
 
-$folclore: url("https://grupoenconcreto.com/wp-content/uploads/FZFI-2018-36.jpg");
+$folclore: url("https://th.bing.com/th/id/R.d8eb39660122f3a9307ec381053f1afd?rik=%2blAMvXkFk%2fM7qw&pid=ImgRaw&r=0");
 .folclore{
   background: $gradient , $folclore;
   background-repeat: no-repeat;
@@ -1406,10 +1406,26 @@ $historia: url("https://www.infoenem.com.br/wp-content/uploads/2014/12/hist%C3%B
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+$mundo: url("https://th.bing.com/th/id/R.46806354e4c4e8e1f2da8ef742e56e80?rik=A%2fChJpCpv0NyTw&pid=ImgRaw&r=0");
+
+.mundo{
+  background: $gradient , $mundo;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: $radius;
+  margin: $margin;
+}
+
+.back-mundo{
+  background: $gradient , $mundo;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 /* end custom scss snippet */
 
 
-
+/*SLIDE*/
 
 .module-slide{
   display: flex;
@@ -1440,9 +1456,9 @@ $historia: url("https://www.infoenem.com.br/wp-content/uploads/2014/12/hist%C3%B
   display: flex;
   height: 70%;
   transform: translate3d(0, 0, 0);
-  transition: all 600ms;
+  transition: all 1s;
   animation-name: autoplay;
-  animation-duration: 20.5s;
+  animation-duration: 40.5s;
   animation-direction: alternate;
   animation-fill-mode: forwards;
   animation-iteration-count: infinite;
@@ -1471,12 +1487,25 @@ $historia: url("https://www.infoenem.com.br/wp-content/uploads/2014/12/hist%C3%B
 
 .slide-text{
     position: absolute;
-    bottom: 15px;
+    bottom: 55px;
     left: 10px;
     color: #fff;
-    font-size: 18px;
+    font-size: 28px;
     line-height: 20px;
+}
 
+.slide-summary{
+  position: absolute;
+  bottom:15px;
+  left: 10px;
+  color: #fff;
+  font-size: 15px;
+  line-height: 15px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-weight: 100;
 }
 
 .slide-label{
@@ -1942,4 +1971,10 @@ input[id="5"]:checked ~ .pagination-slide .item-pagination[for="5"]{
 .button--md, .button--pill, .button--rounded, .button--circle, .swiper__button {
   margin: 15px;
   font-size: 1.2rem;
+}
+
+
+.button--list:link{
+  color: #fff;
+  background-color: none;
 }

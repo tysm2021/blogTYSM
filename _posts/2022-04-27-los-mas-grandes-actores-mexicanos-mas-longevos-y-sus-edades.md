@@ -31,7 +31,7 @@ TE PUEDE INTERESAR:
 
 #### 97 años (15 de enero de 1925)
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/6c/Ignacio_L%C3%B3pez_Tarso_on_stage_in_2019_%28cropped%29.jpg)
+<img class="image image--xl" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Ignacio_L%C3%B3pez_Tarso_on_stage_in_2019_%28cropped%29.jpg"/>
 
 Este excelso actor, recordado por muchos debido a su papel protagónico en la cinta _Macario_, encabeza la lista con su 97 años. Y con todo, el señor sigue trabajando, ¿admirable, no?
 
@@ -39,7 +39,8 @@ Este excelso actor, recordado por muchos debido a su papel protagónico en la ci
 
 #### 93 años (7 de octubre de 1928)
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/12/Sergio_Corona_-_Premio_Luz_de_Plata_2018.jpg)
+<img class="image image--xl" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Sergio_Corona_-_Premio_Luz_de_Plata_2018.jpg"/>
+
 
 Este cómico que saltó a la fama por su papel en la serie de TV _Hogar, dulce hogar_, al lado de Luz María Aguilar, sigue acumulando años y a pesar de eso no pierde el buen humor.
 
@@ -47,7 +48,10 @@ Este cómico que saltó a la fama por su papel en la serie de TV _Hogar, dulce h
 
 #### 92 años (9 de octubre de 1929)
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Ana_Luisa_de_Jes%C3%BAs_Quintana_Paz_Peluffo.jpg)
+
+<img class="image image--xl" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Ana_Luisa_de_Jes%C3%BAs_Quintana_Paz_Peluffo.jpg"/>
+
+
 
 Esta hermosa actriz, que en décadas pasadas escandalizó a la sociedad mexicanas por sus desnudos artísticos y en el cine, ostenta hasta hoy el récord de la actriz mexicana más longeva.
 
@@ -55,7 +59,7 @@ Esta hermosa actriz, que en décadas pasadas escandalizó a la sociedad mexicana
 
 #### 91 años (25 de septiembre de 1930)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Elsa_Aguire.jpg/943px-Elsa_Aguire.jpg)
+<img class="image image--xl" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Elsa_Aguire.jpg/943px-Elsa_Aguire.jpg"/>
 
 Otra actriz que, a pesar del paso del tiempo, conserva con dignidad su belleza. Y es que no cualquiera cumple más de nueve décadas y luce tan bien como ella, ¿no crees?
 
@@ -63,7 +67,7 @@ Otra actriz que, a pesar del paso del tiempo, conserva con dignidad su belleza. 
 
 90 años (12 de septiembre de 1931)
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/32/Silvia_Pinal_in_2019_%283%29.jpg)
+<img class="image image--xl circle border shadow" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Silvia_Pinal_in_2019_%283%29.jpg"/>
 
 La "Chivis" como cariñosamente se le conoce en el medio artístico, nos metió un susto a todos a finales de 2021 cuando fue hospitalizada por covid. Pero mírala: ahí sigue, vivita y coleando…
 
@@ -71,7 +75,9 @@ La "Chivis" como cariñosamente se le conoce en el medio artístico, nos metió 
 
 #### 90 años (31 de enero de 1932)
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/f5/Tongolele_Habana_Cuba%2C_1955_%28cropped%29.jpg)
+<img class="image image--xl border rounded shadow" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Tongolele_Habana_Cuba%2C_1955_%28cropped%29.jpg"/>
+
+![]()
 
 La curvilínea bailarina que hizo cimbrar a los hombres en películas de la década de 1950 también ya anda en el "noveno piso" y conserva en muy buen estado la figura que la hizo famosa.
 
@@ -79,7 +85,8 @@ La curvilínea bailarina que hizo cimbrar a los hombres en películas de la déc
 
 #### 89 años (26 de febrero de 1933)
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/64/Mar%C3%ADa_Victoria_Cervantes%2C_c._1950s.jpg)
+<img class="image image--xl border shadow" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Mar%C3%ADa_Victoria_Cervantes%2C_c._1950s.jpg"/>
+
 
 Por su forma de cantar, la apodaban "La dama del pujidito", y se hizo célebre por sus papeles cómicos en las series _La criada bien criada_ y _Mis_ _huéspedes_, ¿te acuerdas de ella?…
 
@@ -87,7 +94,9 @@ Por su forma de cantar, la apodaban "La dama del pujidito", y se hizo célebre p
 
 #### 88 años (22 de junio de 1933)
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/f9/Eric_del_Castillo_in_2017.jpg)
+
+<img class="image image--xl border shadow" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eric_del_Castillo_in_2017.jpg"/>
+
 
 Este galán y excelente actor —al que muchos llaman "suegro" por su hija Kate— es otro ejemplo de cómo envejecer con dignidad y apostura, a pesar de algunos problemas de salud.
 
