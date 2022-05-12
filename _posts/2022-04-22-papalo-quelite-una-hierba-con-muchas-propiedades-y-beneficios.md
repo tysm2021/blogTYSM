@@ -15,7 +15,7 @@ sharing: true
 title: 'Papalo quelite: una hierba con muchas propiedades y beneficios'
 author: Francisco Massé
 cover: "/images/2022-04-22-papalo1.jpg"
-categories: GASTRONOMÍA
+categories: GASTRONOMIA
 tags: gastronomia hierbas medicina folclor
 show_author_profile: false
 comment: false

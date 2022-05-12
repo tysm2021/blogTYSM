@@ -1,5 +1,5 @@
 ---
-categories: ASÍ ES MÉXICO
+categories: ASIESMEXICO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive

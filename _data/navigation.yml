@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       ARCHIVO
+      en      : &EN       Etiquetas
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN

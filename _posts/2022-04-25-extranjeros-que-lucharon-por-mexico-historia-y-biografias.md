@@ -19,7 +19,7 @@ cover: "/images/2022-04-25-batallonsanpatricio.png"
 tags: historia extranjeros independencia revolucion
 show_author_profile: false
 comment: false
-
+summary: Lorem ipsum dolor sit amet consectetur adipisc elit nulla ac lacus, cras interdum volutpat nisi nostra dictumst est et nec erat, commodo libero sagittis posuere nisl euismod accumsan fusce nibh.
 ---
 Nuestra historia está llena de mexicanos y mexicanos que, debido a su amor por la Patria, lucharon en cruentas batallas contra colonizadores, invasores, tiranos y otros infames personajes, e incluso dieron sus vidas para forjar nuestra nación. Pero, ¿sabías que también ha habido **extranjeros** que **lucharon** en diversas ocasiones por **México**?
 

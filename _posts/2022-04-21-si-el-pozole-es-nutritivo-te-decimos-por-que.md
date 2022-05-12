@@ -15,7 +15,7 @@ sharing: true
 title: 'Sí, el pozole es nutritivo: te decimos por qué'
 author: Francisco Massé
 cover: "/images/2022-04-21-pozole_rojo.jpeg"
-categories: GASTRONOMÍA
+categories: GASTRONOMIA
 tags: pozole comida nutricion
 show_author_profile: false
 comment: false

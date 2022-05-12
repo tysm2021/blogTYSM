@@ -19,6 +19,8 @@ cover: "/images/2022-04-26-presidente_lazaro_cardenas_reunido_con_sindicato_obre
 tags: historia sigloXX mexico
 show_author_profile: false
 comment: false
+summary: hey soy un summary mi intención es darte un breve resumen de la noticia
+
 
 ---
 El **18 de marzo** de cada año, celebramos un aniversario más de la **Expropiación Petrolera** de **México**, que se llevó a cabo en **1938** por un decreto del entonces presidente, **Lázaro Cárdenas del Río**. En **resumen**, ¿cuáles fueron las **causas** de este suceso histórico, y las **consecuencias** de la nacionalización de los recursos petroleros de México?

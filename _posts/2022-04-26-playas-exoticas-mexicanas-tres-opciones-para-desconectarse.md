@@ -19,7 +19,7 @@ cover: "/images/2022-04-26-beach-2836300_1280.jpeg"
 tags: turismo playas vacaciones
 show_author_profile: false
 comment: false
-
+summary: Lorem ipsum dolor sit amet consectetur adipiscing elit, malesuada magnis nunc etiam est sed fusce himenaeos, vestibulum montes mi aenean laoreet ut. Habitasse id facilisi semper morbi pretium leo aptent maecenas dignissim, torquent cum vel feugiat fringilla class neque tempor.
 ---
 Si eres de esos que no soportan mucho los tumultos ni las playas llenas de gente, estás de suerte: en esta ocasión te recomendaremos tres excelentes playas exóticas mexicanas, escondidas y apartadas del gentío, en las que podrás desconectarte del estrés de las grandes ciudades.
 

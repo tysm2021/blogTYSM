@@ -15,7 +15,7 @@ sharing: true
 title: "¿Cuál es el origen de la frase popular “Ya sacó el cobre”?"
 author: Francisco Massé
 cover: "/images/2022-04-22-gold-1633073_1280.jpeg"
-categories: ASÍ ES MÉXICO
+categories: ASIESMEXICO
 tags: méxico lenguaje frases
 show_author_profile: false
 comment: false

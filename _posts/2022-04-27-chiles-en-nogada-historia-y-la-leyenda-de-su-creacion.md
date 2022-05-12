@@ -1,5 +1,5 @@
 ---
-categories: GASTRONOMÍA
+categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive

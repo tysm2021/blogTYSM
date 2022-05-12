@@ -15,7 +15,7 @@ sharing: true
 title: 'Mezcal y tequila: ¿cuál es la diferencia?'
 author: Francisco Massé
 cover: "/images/2022-04-20-tequila-bottle-1353391_1280.jpeg"
-categories: GASTRONOMÍA
+categories: GASTRONOMIA
 tags: bebidas destilados tequila mezcal
 show_author_profile: false
 comment: false
