@@ -9,6 +9,18 @@ fields:
   config:
     required: true
     min: 5
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    min: 20
+    max: 50
+  label: Sumario
+  description: Breve resumen de la publicación
 - type: text
   name: author
   label: Autor
@@ -16,6 +28,7 @@ fields:
     al equipo de desarrollo para agregar a un nuevo "Autor")
   config:
     required: true
+  default: Refacción TYSM
 - type: file
   name: cover
   label: Carátula
