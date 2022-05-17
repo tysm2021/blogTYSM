@@ -1,5 +1,6 @@
 ---
 categories: HISTORIA
+subcategorie:
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive

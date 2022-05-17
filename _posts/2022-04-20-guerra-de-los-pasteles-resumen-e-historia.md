@@ -16,10 +16,11 @@ title: 'Guerra de los Pasteles: resumen e historia'
 author: Francisco Massé
 cover: "/images/2022-04-20-episode_de_l-expedition_du_mexique_en_1838.jpeg"
 categories: HISTORIA
+subcategorie:
 tags: historia méxico guerra francia
 show_author_profile: false
 comment: false
-
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
 ---
 Cuando uno escucha eso de la **Guerra de los Pasteles**, podría imaginarse a dos ejércitos armados con tartas llenas de merengue, arrojándoselas a ver quién es el que gana. Pero no: en **resumen**, se trató de un episodio de la **historia de México** que tuvo lugar entre los años de 1838 y 1839, contra invasores **franceses**.
 
