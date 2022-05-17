@@ -16,10 +16,11 @@ title: 'México lindo y querido: origen e historia de la canción'
 author: Francisco Massé
 cover: "/images/2022-04-22-pancho_villas_death_mask_-11199646203.jpeg"
 categories: HISTORIA
+subcategorie:
 tags: historia revolucion
 show_author_profile: false
 comment: false
-
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
 ---
 **Pancho Villa** fue uno de los protagonistas más destacados de la **Revolución Mexicana**. Pero algo que muchos no saben es que, unos años después de su muerte, alguien entró al cementerio donde descansaban sus restos y se llevó su **cabeza**. A casi cien años de distancia, muchos se preguntan **quién la tiene o dónde está.**
 

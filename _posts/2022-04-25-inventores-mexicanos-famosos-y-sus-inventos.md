@@ -1,5 +1,6 @@
 ---
 categories: CULTURA
+subcategorie:
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -19,7 +20,7 @@ cover: "/images/2022-04-25-gonzalezcamarena.jpeg"
 tags: cultura inventos inventores mexicanos
 show_author_profile: false
 comment: false
-
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
 ---
 Los mexicanos somos un pueblo lleno de talento e inventiva. Por eso, desde los principios de su historia ha habido toda una serie de **inventores** que gracias a su esfuerzo y creatividad <!--more--> han aportado grandes e innovadoras soluciones al mundo. Pero, ¿**quiénes son** los más **famosos** y cuáles son sus **inventos** más notables?
 

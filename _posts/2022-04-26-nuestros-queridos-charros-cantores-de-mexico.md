@@ -1,5 +1,6 @@
 ---
 categories: ASIESMEXICO
+subcategorie:
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -19,7 +20,7 @@ cover: "/images/2022-04-26-charros1.jpg"
 tags: musica cantantes folclor
 show_author_profile: false
 comment: false
-
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
 ---
 Músicos y cantantes van y vienen. Pero cuando se habla de música netamente mexicana, a casi todos nos vienen a la mente las canciones rancheras y, ¡cómo no!, los charros cantores de México, desde el pionero Tito Guízar hasta el recientemente fallecido Vicente Fernández.
 

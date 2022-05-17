@@ -19,7 +19,7 @@ categories: HISTORIA
 tags: historia arqueologia mitologia mexicas prehispanico
 show_author_profile: false
 comment: false
-
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
 ---
 En la religión de los antiguos **mexicas**, comúnmente conocidos como “**aztecas**”, el destino de los **muertos** estaba dictado por la forma en que morían. Las mujeres que morían de parto, los guerreros y quienes perecían ahogados o alcanzados por un rayo tenían un mejor destino que los que morían plácidamente en sus casas. De cualquier modo, todos ellos tenían que atravesar **nueve niveles del inframundo** o **reino de los muertos**, al que conocían como **Mictlán**.
 
