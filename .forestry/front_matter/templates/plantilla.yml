@@ -52,6 +52,12 @@ fields:
       file: 
       path: 
   label: Categorías
+- name: subcategorie
+  type: text
+  config:
+    required: true
+  label: Subcategoría
+  description: Nombre de la subcategoria.
 - type: text
   name: tags
   label: Etiquetas
