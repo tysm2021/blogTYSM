@@ -21,7 +21,7 @@ show_author_profile: false
 comment: false
 summary: Guanajuato es una ciudad llena de arte e historia, por eso te recomendamos
   tres museos para visitar.
-subcategorie: ARTES
+subcategorie: CIUDADES
 
 ---
 Una de las **ciudades coloniales** mexicanas más hermosas y cargadas de historia es, sin duda, **Guanajuato** . Esta urbe minera, que es la capital del estado donde se forjó nuestra independencia y sede del **Festival Internacional Cervantino** , guarda entre sus calles y callejones una diversidad de **museos** que vale la pena visitar.
