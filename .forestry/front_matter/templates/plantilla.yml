@@ -45,6 +45,8 @@ fields:
     - HISTORIA
     - TURISMO
     - GASTRONOMIA
+    - MEXICANISIMOS
+    - MUNDO
     source:
       type: simple
       section: 
@@ -78,6 +80,7 @@ fields:
     - ASIHABLAMOS
     - ASISOMOS
     - FOLCLOR
+    - CIUDADES
     source:
       type: simple
       section: jekyll-posts
