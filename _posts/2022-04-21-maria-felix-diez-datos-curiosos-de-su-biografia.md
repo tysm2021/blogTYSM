@@ -19,7 +19,7 @@ categories: ASIESMEXICO
 tags: cine mexico farandula popular
 show_author_profile: false
 comment: false
-summary: '"La Doña" tuvo una vida apasionada y polémica y aquí conocerás diez datos
+summary: '"La Doña" tuvo una vida apasionada y polémica; aquí conocerás diez datos
   curiosos para comprobarlo.'
 subcategorie: ASISOMOS
 
