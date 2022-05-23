@@ -57,9 +57,30 @@ fields:
   default: []
   config:
     required: false
-    options: []
+    options:
+    - PREHISPANICOYCOLONIAL
+    - SIGLOXIX
+    - REVOLUCIÓN
+    - SIGLOXX
+    - CULTURAPOPULAR
+    - CIENCIA
+    - MUSICA
+    - ARTES
+    - LETRAS
+    - CUIDADES
+    - PLAYAS
+    - PUEBLOSMAGICOS
+    - ARQUEOLOGIA
+    - VIAJES
+    - BEBIDAS
+    - DEGORDOS
+    - RECETAS
+    - NUESTRACOCINA
+    - NUESTROCINE
+    - ASIHABLAMOS
+    - ASISOMOS
     source:
-      type: documents
+      type: simple
       section: jekyll-posts
       file: 
       path: 
