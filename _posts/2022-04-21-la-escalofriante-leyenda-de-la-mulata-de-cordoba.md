@@ -16,13 +16,14 @@ title: La escalofriante leyenda de la Mulata de Córdoba
 author: Francisco Massé
 cover: "/images/2022-04-21-1280px-de_mulata_y_espanol-_morisca_-juan_patricio_morlete.jpeg"
 categories: ASIESMEXICO
-subcategorie:
+subcategorie: ASISOMOS
 tags: leyendas folclor méxico colonial
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
----
+summary: El México colonial estuvo lleno de maravillosas y espeluznantes leyendas
+  como esta, sobre una hermosa bruja…
 
+---
 Desde tiempos muy remotos, en nuestro país han circulado una multitud de **leyendas** que hablan de muertos, aparecidos y de sucesos sobrenaturales que invariablemente dan una lección o una moraleja. Una de ellas habla de una hermosa **mulata** que vivía en la ciudad de **Córdoba, Veracruz,** para la cual no había prisión que pudiera contenerla.
 
 En seguida, te contamos una de las tantas versiones que circulan sobre esta **leyenda** y sobre los poderes extraordinarios de esa mujer.
