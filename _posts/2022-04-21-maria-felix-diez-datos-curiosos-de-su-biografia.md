@@ -36,7 +36,7 @@ TE PUEDE INTERESAR:
 
 ![](https://cloudfront-us-east-1.images.arcpublishing.com/infobae/22BRW7LXKZHBBGSBZGKSIVA4SQ.jpg)
 
-4\.Tuvo cuatro esposos: **Enrique Álvarez**, con quien estuvo casada de 1931 a 1938, y con quien procreó a su único hijo; el músico **Agustín Lara**, con quien duró casada solamente dos años, de 1945 a 1947, por los celos de él; **Jorge Negrete**, con estuvo casada desde 1952 hasta la muerte de él en 1953, y el acaudalado banquero **Alex Berger**, con quien se casó en 1956 y estuvo casada hasta 1974, cuando él falleció.
+4\.Tuvo cuatro esposos: **Enrique Álvarez**, con quien estuvo casada de 1931 a 1938, y procreó a su único hijo; el músico **Agustín Lara**, con quien duró casada solamente dos años, de 1945 a 1947, por los celos de él; **Jorge Negrete**, con estuvo casada desde 1952 hasta la muerte de él en 1953, y el acaudalado banquero **Alex Berger**, con quien se casó en 1956 y estuvo casada hasta 1974, cuando él falleció.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/bf/Mar%C3%ADa_F%C3%A9lix_1951.jpg)
 
