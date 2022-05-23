@@ -43,7 +43,6 @@ fields:
     options:
     - CULTURA
     - HISTORIA
-    - ASIESMEXICO
     - TURISMO
     - GASTRONOMIA
     source:
