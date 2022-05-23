@@ -16,7 +16,7 @@ title: Cinco poetas mexicanos románticos y sus mejores poemas
 author: Francisco Massé
 cover: "/images/2022-04-20-manuelacuna.png"
 categories: CULTURA
-subcategorie: ''
+subcategorie: LETRAS
 tags: cultura literatura poesía
 show_author_profile: false
 comment: false
