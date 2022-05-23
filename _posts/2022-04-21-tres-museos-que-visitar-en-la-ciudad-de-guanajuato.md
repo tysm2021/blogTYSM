@@ -19,7 +19,10 @@ categories: TURISMO
 tags: turismo cultura museos guanajuato
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
+summary: Guanajuato es una ciudad llena de arte e historia, por te recomendamos tres
+  museos para visitar.
+subcategorie: ARTES
+
 ---
 Una de las **ciudades coloniales** mexicanas más hermosas y cargadas de historia es, sin duda, **Guanajuato** . Esta urbe minera, que es la capital del estado donde se forjó nuestra independencia y sede del **Festival Internacional Cervantino** , guarda entre sus calles y callejones una diversidad de **museos** que vale la pena visitar.
 
