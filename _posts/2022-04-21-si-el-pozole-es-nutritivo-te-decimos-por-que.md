@@ -21,7 +21,7 @@ tags: pozole comida nutricion
 show_author_profile: false
 comment: false
 summary: 'A pesar de lo que crees, el pozole es un alimento balanceado y nutritivo:
-  te decimos por qué.'
+  te decimos las razones.'
 
 ---
 Hay que reconocerlo: una gran parte de la comida mexicana, aunque es deliciosa, está lejos de ser **saludable** y **nutritiva**. Pero entre las muchas cosas fritas y abundantes de grasa, el pan blanco, o bien, las que son extremadamente dulces y malas para la salud —y ni hablar de la vitamina T, que incluye tacos, tortas y tostadas—, el **pozole** destaca porque, a pesar de lo que puedas pensar, es **un alimento nutritivo**, ¿te has preguntado **por qué**?
