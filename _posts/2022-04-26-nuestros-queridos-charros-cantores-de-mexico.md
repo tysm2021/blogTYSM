@@ -1,6 +1,6 @@
 ---
-categories: ASIESMEXICO
-subcategorie: ASISOMOS
+categories: MEXICANISIMOS
+subcategorie: NUESTROCINE
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
