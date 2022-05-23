@@ -24,7 +24,7 @@ summary: Ambas bebidas son deliciosas y muy mexicanas, pero… ¿sabes cuál es 
   entre las dos?
 
 ---
-Si nos preguntaran cuál es la bebida más representativa de México, seguramente muchos de nosotros diríamos que es el **tequila**, aunque quizá algunos otros opinarían que no hay destilado más mexicano que el **mezcal**. Y es que, aunque ambos destilados se obtienen del agave y tienen muchas **similitudes**, también tienen grandes diferencias.
+Si nos preguntaran cuál es la bebida más representativa de México, seguramente muchos de nosotros diríamos que es el **tequila**, aunque quizá algunos otros opinarían que no hay destilado más mexicano que el **mezcal**. Y es que, aunque ambos destilados se obtienen del **agave** y tienen muchas **similitudes**, también tienen grandes **diferencias**.
 
 En Toño y su mariachi no tenemos una preferencia al respecto. Pero le preguntamos a Felipe, que es un gran conocedor de ambas bebidas, y esto fue lo que nos contestó.
 
