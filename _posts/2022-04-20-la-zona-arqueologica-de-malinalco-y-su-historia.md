@@ -16,7 +16,7 @@ title: La zona arqueológica de Malinalco y su historia
 author: Francisco Massé
 cover: "/images/2022-04-20-malinalco-5289026_1280.jpeg"
 categories: TURISMO
-subcategorie: PUEBLOSMAGICOS
+subcategorie: ARQUEOLOGIA
 tags: historia arqueologia malinalco mexicas
 show_author_profile: false
 comment: false
