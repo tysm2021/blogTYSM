@@ -19,7 +19,10 @@ categories: ASIESMEXICO
 tags: cine mexico farandula popular
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
+summary: '"La Doña" tuvo una vida apasionada y polémica y aquí conocerás diez datos
+  curiosos para comprobarlo.'
+subcategorie: ASISOMOS
+
 ---
 Entre las grandes estrellas que dio el cine mexicano durante su llamada “Época de Oro” destacan figuras como Pedro Infante, Jorge Negrete, Dolores del Río y, desde luego, **“La Doña” María Félix**, quien tuvo una **vida** turbulenta dentro y fuera del celuloide. A continuación te presentamos diez **datos curiosos** sobre su interesante **biografía**:
 
