@@ -1,5 +1,5 @@
 ---
-categories: ASIESMEXICO
+categories: MEXICANISIMOS
 subcategorie: NUESTROCINE
 layout: article
 excerpt_separator: "<!--more-->"
