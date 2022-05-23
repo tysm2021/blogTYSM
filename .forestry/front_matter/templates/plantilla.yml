@@ -78,6 +78,7 @@ fields:
     - NUESTROCINE
     - ASIHABLAMOS
     - ASISOMOS
+    - FOLCLOR
     source:
       type: simple
       section: jekyll-posts
