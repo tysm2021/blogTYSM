@@ -52,6 +52,18 @@ fields:
       file: 
       path: 
   label: Categorías
+- name: subcategorie
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: jekyll-posts
+      file: 
+      path: 
+  label: Subcategoría
 - type: text
   name: tags
   label: Etiquetas
@@ -126,18 +138,6 @@ fields:
   name: comment
   label: comment
   hidden: true
-- name: subcategorie
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: jekyll-pages
-      file: 
-      path: 
-  label: Subcategoría
 pages:
 - _posts/2022-04-20-cinco-poetas-mexicanos-romanticos-y-sus-mejores-poemas.md
 - _posts/2022-04-20-guerra-de-los-pasteles-resumen-e-historia.md
