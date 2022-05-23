@@ -15,7 +15,7 @@ sharing: true
 title: La escalofriante leyenda de la Mulata de Córdoba
 author: Francisco Massé
 cover: "/images/2022-04-21-1280px-de_mulata_y_espanol-_morisca_-juan_patricio_morlete.jpeg"
-categories: ASIESMEXICO
+categories: MEXICANISIMOS
 subcategorie: ASISOMOS
 tags: leyendas folclor méxico colonial
 show_author_profile: false
