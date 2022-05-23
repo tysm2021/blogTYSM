@@ -24,7 +24,7 @@ summary: 'Si no te gustan los tumultos, te recomendamos tres playas mexicanas ex
 subcategorie: PLAYAS
 
 ---
-Si eres de esos que no soportan mucho los tumultos ni las playas llenas de gente, estás de suerte: en esta ocasión te recomendaremos tres excelentes playas exóticas mexicanas, escondidas y apartadas del gentío, en las que podrás desconectarte del estrés de las grandes ciudades.
+Si eres de esos que no soportan mucho los gentíos ni las playas llenas de turistas, estás de suerte: en esta ocasión te recomendaremos tres excelentes playas exóticas mexicanas, escondidas y apartadas del gentío, en las que podrás desconectarte del estrés de las grandes ciudades.
 
 Eso sí: te recomendamos hacer tu viaje con anticipación y tomar todas las previsiones necesarias, pues una vez que llegues te será difícil encontrar una tienda de conveniencia o un hotel si no tuviste la delicadez de reservar. Aquí vamos:
 
