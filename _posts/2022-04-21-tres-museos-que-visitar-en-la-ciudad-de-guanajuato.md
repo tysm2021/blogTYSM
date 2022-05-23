@@ -19,8 +19,8 @@ categories: TURISMO
 tags: turismo cultura museos guanajuato
 show_author_profile: false
 comment: false
-summary: Guanajuato es una ciudad llena de arte e historia, por te recomendamos tres
-  museos para visitar.
+summary: Guanajuato es una ciudad llena de arte e historia, por eso te recomendamos
+  tres museos para visitar.
 subcategorie: ARTES
 
 ---
