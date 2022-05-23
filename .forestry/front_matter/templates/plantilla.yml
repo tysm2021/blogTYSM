@@ -13,12 +13,12 @@ fields:
   type: textarea
   default: ''
   config:
-    required: false
+    required: true
     wysiwyg: false
     schema:
       format: markdown
     min: 20
-    max: 50
+    max: 300
   label: Sumario
   description: Breve resumen de la publicación
 - type: text
