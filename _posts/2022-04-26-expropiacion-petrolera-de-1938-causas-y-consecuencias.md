@@ -1,8 +1,7 @@
 ---
+layout: article
 categories: HISTORIA
 subcategorie:
-layout: article
-excerpt_separator: "<!--more-->"
 mode: immersive
 header:
   theme: dark
