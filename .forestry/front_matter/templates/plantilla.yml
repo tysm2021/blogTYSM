@@ -13,12 +13,12 @@ fields:
   type: textarea
   default: ''
   config:
-    required: false
+    required: true
     wysiwyg: false
     schema:
       format: markdown
     min: 20
-    max: 50
+    max: 300
   label: Sumario
   description: Breve resumen de la publicación
 - type: text
@@ -43,15 +43,50 @@ fields:
     options:
     - CULTURA
     - HISTORIA
-    - ASIESMEXICO
     - TURISMO
     - GASTRONOMIA
+    - MEXICANISIMOS
+    - MUNDO
     source:
       type: simple
       section: 
       file: 
       path: 
   label: Categorías
+- name: subcategorie
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - PREHISPANICOYCOLONIAL
+    - SIGLOXIX
+    - REVOLUCIÓN
+    - SIGLOXX
+    - CULTURAPOPULAR
+    - CIENCIA
+    - MUSICA
+    - ARTES
+    - LETRAS
+    - PLAYAS
+    - PUEBLOSMAGICOS
+    - ARQUEOLOGIA
+    - VIAJES
+    - BEBIDAS
+    - DEGORDOS
+    - RECETAS
+    - NUESTRACOCINA
+    - NUESTROCINE
+    - ASIHABLAMOS
+    - ASISOMOS
+    - FOLCLOR
+    - CIUDADES
+    source:
+      type: simple
+      section: jekyll-posts
+      file: 
+      path: 
+  label: Subcategoría
 - type: text
   name: tags
   label: Etiquetas
@@ -137,7 +172,6 @@ pages:
 - _posts/2022-04-21-si-el-pozole-es-nutritivo-te-decimos-por-que.md
 - _posts/2022-04-21-tres-museos-que-visitar-en-la-ciudad-de-guanajuato.md
 - _posts/2022-04-22-cual-es-el-origen-de-la-frase-popular-ya-saco-el-cobre.md
-- _posts/2022-04-22-donde-esta-o-quien-tiene-la-cabeza-de-pancho-villa.md
 - _posts/2022-04-22-mexico-lindo-y-querido-origen-e-historia-de-la-cancion.md
 - _posts/2022-04-22-papalo-quelite-una-hierba-con-muchas-propiedades-y-beneficios.md
 - _posts/2022-04-22-premios-nobel-mexicanos-cuantos-y-quienes-son.md

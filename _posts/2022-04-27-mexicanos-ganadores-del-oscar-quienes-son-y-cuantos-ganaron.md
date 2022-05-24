@@ -1,6 +1,6 @@
 ---
-categories: ASIESMEXICO
-subcategorie:
+categories: MEXICANISIMOS
+subcategorie: NUESTROCINE
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -20,8 +20,9 @@ cover: "/images/2022-04-27-oscar-3679610_1280.jpeg"
 tags: cine mexico farandula peliculas
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet consectetur adipiscing elit, malesuada magnis nunc etiam est sed fusce himenaeos, vestibulum montes mi aenean laoreet ut. Habitasse id facilisi semper morbi pretium leo aptent maecenas dignissim, torquent cum vel feugiat fringilla class neque tempor.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
+summary: "¿Sabías que en total 16 mexicanos se han llevado el Premio de la Academia,
+  mejor conocido como el Oscar?"
+
 ---
 El **Oscar** —oficialmente llamado **Premio de la Academia** o "Academy Award"— es un galardón otorgado anualmente por la Academia de Ciencias y Artes Cinematográficas de Estados Unidos a los personajes más destacados del cine en aquel país. Por ello, resulta notable que existan **mexicanos** que se han levantado como **ganadores** de la preciada estatuilla. ¿Quieres saber **quiénes son** y **cuántos Oscares ganaron**?
 

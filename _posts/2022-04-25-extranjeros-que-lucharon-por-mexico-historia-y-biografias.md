@@ -1,6 +1,6 @@
 ---
 categories: HISTORIA
-subcategorie:
+subcategorie: SIGLOXIX
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -20,7 +20,9 @@ cover: "/images/2022-04-25-batallonsanpatricio.png"
 tags: historia extranjeros independencia revolucion
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet consectetur adipisc elit nulla ac lacus, cras interdum volutpat nisi nostra dictumst est et nec erat, commodo libero sagittis posuere nisl euismod accumsan fusce nibh.
+summary: 'Nuestra historia no sólo tiene héroes mexicanos: también algunos extranjeros
+  lucharon por nosotros.'
+
 ---
 Nuestra historia está llena de mexicanos y mexicanos que, debido a su amor por la Patria, lucharon en cruentas batallas contra colonizadores, invasores, tiranos y otros infames personajes, e incluso dieron sus vidas para forjar nuestra nación. Pero, ¿sabías que también ha habido **extranjeros** que **lucharon** en diversas ocasiones por **México**?
 
@@ -77,7 +79,3 @@ Peppino luchó en la Revolución Mexicana al lado de Francisco I. Madero, en cuy
 En 1921, en el centenario de la Independencia de México, el antiguo tianguis El Baratillo cambió su nombre y se convirtió en la Plaza Garibaldi, en honor a este héroe de la Revolución.
 
 ¿Qué otro extranjero conoces que haya luchado por México?…
-
- 
-
- 

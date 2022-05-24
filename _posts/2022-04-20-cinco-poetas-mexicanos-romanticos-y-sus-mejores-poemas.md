@@ -20,7 +20,9 @@ categories: CIENCIAS
 tags: cultura literatura poesía
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
+summary: Si quieres dedicarle un poema a tu persona amada, aquí te recomendamos cinco
+  de los mejores…
+
 ---
 Si lo que buscas son unos textos para arrancar suspiros o ayudarte a conquistar a alguien, aquí te recomendamos a **cinco notables poetas románticos mexicanos.**
 

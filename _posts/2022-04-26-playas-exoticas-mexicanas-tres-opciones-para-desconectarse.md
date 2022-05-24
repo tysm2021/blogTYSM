@@ -19,10 +19,12 @@ cover: "/images/2022-04-26-beach-2836300_1280.jpeg"
 tags: turismo playas vacaciones
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet consectetur adipiscing elit, malesuada magnis nunc etiam est sed fusce himenaeos, vestibulum montes mi aenean laoreet ut. Habitasse id facilisi semper morbi pretium leo aptent maecenas dignissim, torquent cum vel feugiat fringilla class neque tempor.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
+summary: 'Si no te gustan los tumultos, te recomendamos tres playas mexicanas exóticas
+  y solitarias para descansar. '
+subcategorie: PLAYAS
+
 ---
-Si eres de esos que no soportan mucho los tumultos ni las playas llenas de gente, estás de suerte: en esta ocasión te recomendaremos tres excelentes playas exóticas mexicanas, escondidas y apartadas del gentío, en las que podrás desconectarte del estrés de las grandes ciudades.
+Si eres de esos que no soportan mucho los gentíos ni las playas llenas de turistas, estás de suerte: en esta ocasión te recomendaremos tres excelentes playas exóticas mexicanas, escondidas y apartadas del gentío, en las que podrás desconectarte del estrés de las grandes ciudades.
 
 Eso sí: te recomendamos hacer tu viaje con anticipación y tomar todas las previsiones necesarias, pues una vez que llegues te será difícil encontrar una tienda de conveniencia o un hotel si no tuviste la delicadez de reservar. Aquí vamos:
 
@@ -52,4 +54,4 @@ Llegamos al final con este espacio verde a unos kilómetros de Punta Arista y Bo
 
 Para llegar, hay que tomar una embarcación desde la población de Tonalá y que te dejará en el embarcadero del Centro Ecoturístico El Madresal, donde serás atendido por personal cálido y atento, y podrás disfrutar de exquisitos platillos.
 
-![](https://www.elmadresal.com/gallery/acercade/images/atardecer%20en%20la%20playa.jpg) 
+![](https://www.elmadresal.com/gallery/acercade/images/atardecer%20en%20la%20playa.jpg)

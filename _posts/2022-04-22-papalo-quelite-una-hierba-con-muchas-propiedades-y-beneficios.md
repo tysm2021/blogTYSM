@@ -16,11 +16,13 @@ title: 'Papalo quelite: una hierba con muchas propiedades y beneficios'
 author: Francisco Massé
 cover: "/images/2022-04-22-papalo1.jpg"
 categories: GASTRONOMIA
-subcategorie:
+subcategorie: NUESTRACOCINA
 tags: gastronomia hierbas medicina folclor
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
+summary: "¿Qué sería de un taco placero sin su pápalo quelite? ¿Y sabías que tiene
+  muchos beneficios para tu salud?"
+
 ---
 Entre las muchas **hierbas** y plantas que sazonan nuestra gastronomía, una que destaca es el llamado “**pápalo quelite**”, el cual es usado por su sabor fuerte en tacos placeros y otros platillos. Pero, ¿sabías que además tiene muchas **propiedades** y trae muchos **beneficios** a la **salud**?
 
