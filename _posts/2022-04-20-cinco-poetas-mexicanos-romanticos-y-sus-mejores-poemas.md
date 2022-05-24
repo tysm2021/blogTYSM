@@ -16,7 +16,7 @@ title: Cinco poetas mexicanos románticos y sus mejores poemas
 author: Francisco Massé
 cover: "/images/2022-04-20-manuelacuna.png"
 categories: CULTURA
-subcategorie: LETRAS
+categories: CIENCIAS
 tags: cultura literatura poesía
 show_author_profile: false
 comment: false
@@ -118,12 +118,3 @@ Esta poetisa en el nombre llevaba la penitencia. De personalidad excéntrica, do
 
 
 
-
-<div class = "div-img">
-    <img class="img-div" src="https://cdn.zendalibros.com/wp-content/uploads/2018/10/yo-no-lo-se-d-e-cierto-jaime-sabines.jpg"  alt="" />
-</div>
-
-
-<div class = "div-img">
-    <img class="img-div" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Manuel_Acu%C3%B1a.jpg/676px-Manuel_Acu%C3%B1a.jpg"  alt="" />
-</div>
