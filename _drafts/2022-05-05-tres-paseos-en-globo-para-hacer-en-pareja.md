@@ -1,6 +1,6 @@
 ---
 categories: TURISMO
-subcategorie:
+subcategorie: VIAJES
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -20,9 +20,10 @@ cover: "/images/2022-04-27-hot-air-balloon-693452_1280.jpeg"
 tags: turismo paseos viajes
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
+summary: "¿Te animas a volar en globo aerostático al lado del amor de tu vida?"
+
 ---
-Para quienes no temen a las alturas, un paseo en globo aerostático es una experiencia inigualable, especialmente si lo realizas con tu pareja. Por eso, a continuación te compartimos tres lugares donde puedes dar un paseo por las alturas al lado de la persona que amas.
+Para quienes no temen a las alturas, un **paseo en globo aerostático** es una experiencia inigualable, especialmente si lo realizas con tu **pareja**. Por eso, a continuación te compartimos **tres lugares** donde puedes dar un paseo por las alturas al lado de la persona que amas.
 
 Antes de aventurarte, eso sí, te recomendamos que verifiques que estás en condiciones de salud para hacerlo y que te cerciores de que el servicio que contratas cuenta con certificaciones y cumple con todas las medidas de seguridad.
 

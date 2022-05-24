@@ -16,11 +16,13 @@ title: La zona arqueológica de Malinalco y su historia
 author: Francisco Massé
 cover: "/images/2022-04-20-malinalco-5289026_1280.jpeg"
 categories: TURISMO
-subcategorie:
+subcategorie: ARQUEOLOGIA
 tags: historia arqueologia malinalco mexicas
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
+summary: 'Este Pueblo Mágico tiene de todo: arte, galerías, gastronomía, hoteles y
+  una impactante zona arqueológica.'
+
 ---
 **Malinalco** es un hermoso **Pueblo Mágico** ubicado en el Estado de México, a unos cien kilómetros de la Ciudad de México, que cuenta tanto con un pintoresco centro de calles empedradas, casas coloridas, galerías y museos, como con una importante **zona arqueológica** que data del siglo XV de nuestra era, con mucha **historia** que contar.
 
@@ -37,8 +39,6 @@ Hoy en día, el lugar donde quedó la desafortunada diosa de las artes oscuras s
 Según el Instituto Nacional de Antropología e Historia, el sitio arqueológico fue construido por un grupo local antes de 1476, año en que **Malinalco** fue conquistado por los **mexicas**. La zona consta de algunas construcciones de carácter religioso y, sobre todo, militar, pues existen puestos de vigilancia estratégicamente situados para, desde ahí, observar todo el valle de **Malinalco**.
 
 Para acceder a él, hay que realizar una empinada caminata de unos 20 o 30 minutos entre la tupida vegetación de la zona. Al llegar a la zona, lo primero que destaca es el **Cuauhcalli**, que en la lengua de los mexicas quiere decir “Casa del Águila”, y que es una magnífica construcción que tiene la particularidad de haber sido labrada directamente en la piedra de la montaña en tiempos del tlatoani mexica Ahuizotl.
-
-    <blockquote class="twitter-tweet"><p lang="es" dir="ltr">La “Casa del Sol” de Malinalco es una magnífica obra de arte labrada en la misma montaña, construida a principios del siglo XVI durante el gobierno del Huey Tlatoani mexica Ahuizotl.<br><br>Conócela en 👉 <a href="https://t.co/w5RZLG8prb">https://t.co/w5RZLG8prb</a> <a href="https://t.co/9MBT5gNJx9">pic.twitter.com/9MBT5gNJx9</a></p>&mdash; MNA Oficial (@mna_inah) <a href="https://twitter.com/mna_inah/status/1217627530900824065?ref_src=twsrc%5Etfw">January 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 En la escalinata de la construcción se alcanzan a ver los vestigios de lo que fueran dos ocelotes, y su entrada presenta la temible figura de una serpiente con las fauces abiertas mostrando sus afilados colmillos y la lengua bífida. Según los expertos, se trata de una representación de **Tlaltecúhtli** o “el monstruo de la Tierra”, una deidad cuya función era al de devorar los cadáveres y regresarlos a la tierra.
 

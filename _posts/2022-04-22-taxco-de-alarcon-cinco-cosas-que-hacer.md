@@ -16,11 +16,13 @@ title: 'Taxco de Alarcón: cinco cosas que hacer'
 author: Francisco Massé
 cover: "/images/2022-04-22-1280px-taxco-_guerrero_-33251022616.jpeg"
 categories: TURISMO
-subcategorie:
+subcategorie: PUEBLOSMAGICOS
 tags: turismo guerrero pueblomagico taxco
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
+summary: 'Este Pueblo Mágico en el estado de Guerrero tiene muchos atractivos turísticos
+  que ofrecer: conócelos.'
+
 ---
 ¿Conoces **Taxco de Alarcón**? Esta población minera localizada en el estado de **Guerrero** y considerada **Pueblo Mágico** es un lugar famoso por su joyería en **plata**, por la **Iglesia de Santa Prisca** y por muchos otros atractivos turísticos. Si no la has visitado últimamente , aquí te proponemos **cinco cosas que hacer** allí.
 

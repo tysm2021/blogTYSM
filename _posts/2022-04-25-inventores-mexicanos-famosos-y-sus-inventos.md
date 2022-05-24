@@ -1,6 +1,6 @@
 ---
 categories: CULTURA
-subcategorie:
+subcategorie: CIENCIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -20,9 +20,11 @@ cover: "/images/2022-04-25-gonzalezcamarena.jpeg"
 tags: cultura inventos inventores mexicanos
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
+summary: Además de la TV a color de González Camarena, ¿qué otros grandes inventos
+  son mexicanos?
+
 ---
-Los mexicanos somos un pueblo lleno de talento e inventiva. Por eso, desde los principios de su historia ha habido toda una serie de **inventores** que gracias a su esfuerzo y creatividad <!--more--> han aportado grandes e innovadoras soluciones al mundo. Pero, ¿**quiénes son** los más **famosos** y cuáles son sus **inventos** más notables?
+Los mexicanos somos un pueblo lleno de talento e inventiva. Por eso, desde los principios de su historia ha habido toda una serie de **inventores** que, gracias a su esfuerzo y creatividad, han aportado grandes e innovadoras soluciones al mundo. Pero, ¿**quiénes son** los más **famosos** y cuáles son sus **inventos** más notables?
 
 A continuación te presentamos a algunos inventores y sus creaciones, en estricto orden cronológico. Aunque en algunos casos la creación mexicana sirvió de base para el invento que todos conocemos, seguramente te sorprenderá saber que muchos de estos adelantos los debemos a un mexicano.
 

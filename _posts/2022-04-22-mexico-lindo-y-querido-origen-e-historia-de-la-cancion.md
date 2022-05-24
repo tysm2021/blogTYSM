@@ -16,11 +16,13 @@ title: 'México lindo y querido: origen e historia de la canción'
 author: Francisco Massé
 cover: "/images/2022-04-22-jorgenegrete.jpg"
 categories: CULTURA
-subcategorie:
+subcategorie: MUSICA
 tags: cultura musica canciones
 show_author_profile: false
 comment: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit. 
+summary: "¿Conoces el origen de esta canción y la historia que la relaciona con el
+  gran Jorge Negrete?"
+
 ---
 Esta **canción** es una de esas que, como el Huapango de Moncayo y la Marcha de Zacatecas, se consideran casi un segundo himno nacional del México. Pero, ¿conoces cuál fue el **origen** de “**México lindo y querido**”, de la inspiración del compositor **Chucho Monge**, y cuál fue la **historia** que la hizo famosa?
 
