@@ -55,40 +55,43 @@ _articles -%}
 
              </div>
             <small class="slide-label">{{post.categories}}</small>
-          </a>
+            </a>
             {% endfor %}
           </div>
 
           <div class="slide-item">
             {% for post in site.categories.HISTORIA limit:1 %}
+            <a href="{{ site.baseurl }}{{ post.url }}">
             <img src="{{post.cover}}">
             <div class="slide-title">
-              <a href="{{ site.baseurl }}{{ post.url }}"></a>
                 <h2 class="slide-text">{{post.title}}</h2>
              </div>
             <small class="slide-label">{{post.categories}}</small>
+          </a>
             {% endfor %}
           </div>
           
           <div class="slide-item">
             {% for post in site.categories.CULTURA limit:1 %}
+            <a href="{{ site.baseurl }}{{ post.url }}">
             <img src="{{post.cover}}">
             <div class="slide-title">
-              <a href="{{ site.baseurl }}{{ post.url }}"></a>
                 <h2 class="slide-text">{{post.title}}</h2>
              </div>
             <small class="slide-label">{{post.categories}}</small>
+          </a>
             {% endfor %}
           </div>
 
           <div class="slide-item">
             {% for post in site.categories.GASTRONOMIA limit:1 %}
-            <img src="{{post.cover}}">
-            <div class="slide-title">
-              <a href="{{ site.baseurl }}{{ post.url }}"></a>
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              <img src="{{post.cover}}">
+              <div class="slide-title">
                 <h2 class="slide-text">{{post.title}}</h2>
-             </div>
-            <small class="slide-label">{{post.categories}}</small>
+              </div>
+              <small class="slide-label">{{post.categories}}</small>
+            </a>
             {% endfor %}
           </div>
     
@@ -194,21 +197,23 @@ _articles -%}
  <div class="the-most-view">
     <h1>Lo último en Historia</h1>
     <div class="article-list grid grid--p-3">
-      {% for post in site.categories.HISTORIA limit:3 %}
+    {% for post in site.categories.HISTORIA limit:3 %}
       <div class="cell cell--12 cell--md-6 cell--lg-4">
         <div class="card card--flat">
+          <a href="{{ site.baseurl }}{{ post.url }}">
           <div class="card__image">
             <img src="{{ post.cover }}" alt="" class="image" />
             <div class="card__header">
-              <a href="{{ site.baseurl }}{{ post.url }}"></a>
+
               <h2 class="card__text">{{post.title}}</h2>
               <p class="card__summary">{{post.summary}}</p>
             </div>
           </div>
+        </a>
         </div>
       </div>
-      {% endfor %}
-      </div>
+    {% endfor %}
+    </div>
  </div>
 
 <div class="section-cat gastronomia">
@@ -220,14 +225,15 @@ _articles -%}
     {% for post in site.categories.GASTRONOMIA limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
+        <a href="{{ site.baseurl }}{{ post.url }}">
         <div class="card__image">
           <img src="{{ post.cover }}" alt="" class="image" />
           <div class="card__header">
-            <a href="{{ site.baseurl }}{{ post.url }}"></a>
             <h2 class="card__text">{{post.title}}</h2>
             <p class="card__summary">{{post.summary}}</p>
           </div>
         </div>
+      </a>
       </div>
     </div>
     {% endfor %}
@@ -244,14 +250,15 @@ _articles -%}
     {% for post in site.categories.GASTRONOMIA limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
+        <a href="{{ site.baseurl }}{{ post.url }}">
         <div class="card__image">
           <img src="{{ post.cover }}" alt="" class="image" />
           <div class="card__header">
-            <a href="{{ site.baseurl }}{{ post.url }}"></a>
-            <h2 class="card__text">{{post.title}}</h2>
-            <p class="card__summary">{{post.summary}}</p>
+              <h2 class="card__text">{{post.title}}</h2>
+              <p class="card__summary">{{post.summary}}</p>
           </div>
-        </div>
+          </div>          
+        </a>
       </div>
     </div>
     {% endfor %}
@@ -267,14 +274,16 @@ _articles -%}
     {% for post in site.categories.TURISMO limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
+        <a href="{{ site.baseurl }}{{ post.url }}">
         <div class="card__image">
           <img src="{{ post.cover }}" alt="" class="image" />
           <div class="card__header">
-            <a href="{{ site.baseurl }}{{ post.url }}"></a>
-            <h2 class="card__text">{{post.title}}</h2>
-            <p class="card__summary">{{post.summary}}</p>
+
+              <h2 class="card__text">{{post.title}}</h2>
+              <p class="card__summary">{{post.summary}}</p>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
       </div>
       {% endfor %}
@@ -290,14 +299,15 @@ _articles -%}
     {% for post in site.categories.TURISMO limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
+        <a href="{{ site.baseurl }}{{ post.url }}">
         <div class="card__image">
           <img src="{{ post.cover }}" alt="" class="image" />
           <div class="card__header">
-            <a href="{{ site.baseurl }}{{ post.url }}"></a>
             <h2 class="card__text">{{post.title}}</h2>
             <p class="card__summary">{{post.summary}}</p>
           </div>
         </div>
+      </a>
       </div>
     </div>
     {% endfor %}
@@ -312,14 +322,17 @@ _articles -%}
     {% for post in site.categories.CULTURA limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
-        <div class="card__image">
-          <img src="{{ post.cover }}" alt="" class="image" />
-          <div class="card__header">
-            <a href="{{ site.baseurl }}{{ post.url }}"></a>
-            <h2 class="card__text">{{post.title}}</h2>
-            <p class="card__summary">{{post.summary}}</p>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+
+          <div class="card__image">
+            <img src="{{ post.cover }}" alt="" class="image" />
+            <div class="card__header">
+              <h2 class="card__text">{{post.title}}</h2>
+              <p class="card__summary">{{post.summary}}</p>
+            </div>
           </div>
-        </div>
+        </a>
+
       </div>
     </div>
     {% endfor %}
@@ -335,14 +348,17 @@ _articles -%}
     {% for post in site.categories.CULTURA limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
-        <div class="card__image">
-          <img src="{{ post.cover }}" alt="" class="image" />
-          <div class="card__header">
-            <a href="{{ site.baseurl }}{{ post.url }}"></a>
-            <h2 class="card__text">{{post.title}}</h2>
-            <p class="card__summary">{{post.summary}}</p>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+
+          <div class="card__image">
+            <img src="{{ post.cover }}" alt="" class="image" />
+            <div class="card__header">
+              <h2 class="card__text">{{post.title}}</h2>
+              <p class="card__summary">{{post.summary}}</p>
+            </div>
           </div>
-        </div>
+        </a>
+          
       </div>
     </div>
     {% endfor %}
@@ -352,20 +368,23 @@ _articles -%}
 
 <div class="section-cat folclore">
   <div class="header-cat">
-    <h1 class="article__text">ASÍ ES MÉXICO</h1>
+    <h1 class="article__text">MEXICANISIMOS</h1>
    </div>
   <div class="article-list grid grid--p-3">
-    {% for post in site.categories.ASIESMEXICO limit:3 %}
+    {% for post in site.categories.MEXICANISMOS limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
-        <div class="card__image">
-          <img src="{{ post.cover }}" alt="" class="image" />
-          <div class="card__header">
-            <a href="{{ site.baseurl }}{{ post.url }}"></a>
-            <h2 class="card__text">{{post.title}}</h2>
-            <p class="card__summary">{{post.summary}}</p>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+
+          <div class="card__image">
+            <img src="{{ post.cover }}" alt="" class="image" />
+            <div class="card__header">
+              <h2 class="card__text">{{post.title}}</h2>
+              <p class="card__summary">{{post.summary}}</p>
+            </div>
           </div>
-        </div>
+        </a>
+          
       </div>
     </div>
     {% endfor %}
@@ -376,19 +395,22 @@ _articles -%}
 </div>
 
 <div class="the-most-view">
-  <h1>Lo último en ASÍ ES MÉXICO</h1>
+  <h1>Lo último en MEXICANISIMOS</h1>
   <div class="article-list grid grid--p-3">
-    {% for post in site.categories.ASIESMEXICO limit:3 %}
+    {% for post in site.categories.MEXICANISIMOS limit:3 %}
     <div class="cell cell--12 cell--md-6 cell--lg-4">
       <div class="card card--flat">
-        <div class="card__image">
-          <img src="{{ post.cover }}" alt="" class="image" />
-          <div class="card__header">
-            <a href="{{ site.baseurl }}{{ post.url }}"></a>
-            <h2 class="card__text">{{post.title}}</h2>
-             <p class="card__summary">{{post.summary}}</p>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+
+          <div class="card__image">
+            <img src="{{ post.cover }}" alt="" class="image" />
+            <div class="card__header">
+              <h2 class="card__text">{{post.title}}</h2>
+              <p class="card__summary">{{post.summary}}</p>
+            </div>
           </div>
-        </div>
+        </a>
+
       </div>
     </div>
     {% endfor %}
