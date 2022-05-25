@@ -1,6 +1,6 @@
 ---
 title: Blog Tysm
-timezone: UTC
+timezone: America/Mexico_City
 collections:
   posts:
     title: Posts
