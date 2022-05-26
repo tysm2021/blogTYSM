@@ -67,3 +67,7 @@ Finalizamos este breve recorrido con una hermosa **ex hacienda** que perteneció
 Además de las **salas del museo**, destacan los amplios y esmerados jardines, que constituyen un espacio ideal para tomar un café o un trago —hay servicio de cafetería y de bar—, leer, conversar, leer un libro o simplemente perderse en la contemplación del paisaje.
 
 Está abierto al público de lunes a domingo, de 9 a 18 horas.
+
+<div>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/lUd9SQCkDj0](https://www.youtube.com/embed/lUd9SQCkDj0 "https://www.youtube.com/embed/lUd9SQCkDj0")" allowfullscreen></iframe>
+</div>
