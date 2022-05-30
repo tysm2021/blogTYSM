@@ -28,7 +28,7 @@ fields:
     al equipo de desarrollo para agregar a un nuevo "Autor")
   config:
     required: true
-  default: Refacción TYSM
+  default: Redacción TYSM
 - type: file
   name: cover
   label: Carátula
@@ -53,40 +53,6 @@ fields:
       file: 
       path: 
   label: Categorías
-- name: subcategorie
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - PREHISPANICOYCOLONIAL
-    - SIGLOXIX
-    - REVOLUCIÓN
-    - SIGLOXX
-    - CULTURAPOPULAR
-    - CIENCIA
-    - MUSICA
-    - ARTES
-    - LETRAS
-    - PLAYAS
-    - PUEBLOSMAGICOS
-    - ARQUEOLOGIA
-    - VIAJES
-    - BEBIDAS
-    - DEGORDOS
-    - RECETAS
-    - NUESTRACOCINA
-    - NUESTROCINE
-    - ASIHABLAMOS
-    - ASISOMOS
-    - FOLCLOR
-    - CIUDADES
-    source:
-      type: simple
-      section: jekyll-posts
-      file: 
-      path: 
-  label: Subcategoría
 - type: text
   name: tags
   label: Etiquetas
