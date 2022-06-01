@@ -28,3 +28,13 @@ Para quienes no temen a las alturas, un **paseo en globo aerostático** es una e
 Antes de aventurarte, eso sí, te recomendamos que verifiques que estás en condiciones de salud para hacerlo y que te cerciores de que el servicio que contratas cuenta con certificaciones y cumple con todas las medidas de seguridad.
 
 TE PUEDE INTERESAR:
+
+## Teotihuacan
+
+¿Quieres ver las ancestrales Pirámides del Sol y de la Luna desde una insólita perspectiva? Pues aventúrate a tomar uno de los muchos viajes en globo que se ofrecen en esta zona arqueológica del Estado de México y contémplalas desde las alturas. 
+
+Hay diversas compañías que ofrecen todo tipo de viajes y de paquetes, y hay algunas que incluyen la transportación desde la Ciudad de México en el costo del boleto, y hay globos con capacidad desde dos personas hasta veinte. Te recomendamos que te cerciores de que la empresa que contrates cumpla con todas las medidas de seguridad y que sus pilotos estén certificados. Eso sí: tendrás que madrugar, pero valdrá la pena…
+
+![](/images/2022-06-01-teotihuacan-2713130_1280.jpeg)
+
+XXX
