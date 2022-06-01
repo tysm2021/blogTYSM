@@ -1,5 +1,5 @@
 ---
-categories: TURISMO
+categories: ''
 subcategorie: VIAJES
 layout: article
 excerpt_separator: "<!--more-->"
