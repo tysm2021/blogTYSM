@@ -31,12 +31,22 @@ TE PUEDE INTERESAR:
 
 ## Teotihuacan
 
-¿Quieres ver las ancestrales **Pirámides del Sol y de la Luna** desde una insólita perspectiva? Pues aventúrate a tomar uno de los muchos viajes en globo que se ofrecen en esta z**ona arqueológica del Estado de México** y contémplalas desde las alturas. 
+¿Quieres ver las ancestrales **Pirámides del Sol y de la Luna** desde una insólita perspectiva? Pues aventúrate con tu pareja a tomar uno de los muchos viajes en globo que se ofrecen en esta z**ona arqueológica del Estado de México** y contémplenlas desde las alturas. 
 
-Hay diversas compañías que ofrecen todo tipo de **viajes y de paquetes**, y hay algunas que incluyen la t**ransportación desde la Ciudad de México** en el costo del boleto, y hay globos con capacidad desde dos personas hasta veinte. Te recomendamos que te cerciores de que la empresa que contrates cumpla con todas las medidas de seguridad y que sus pilotos estén certificados. Eso sí: tendrás que madrugar, pero valdrá la pena…
+Hay diversas compañías que ofrecen todo tipo de **viajes y de paquetes**, y hay algunas que incluyen la t**ransportación desde la Ciudad de México** en el costo del boleto, y hay globos con capacidad desde sólo dos personas hasta veinte. Te recomendamos que te cerciores de que la empresa que contrates cumpla con todas las medidas de seguridad y que sus pilotos estén certificados. Eso sí: tendrán que madrugar, pero valdrá la pena…
 
 ![](/images/2022-06-01-teotihuacan-2713130_1280.jpeg)
 
 ## Tequisquiapan
 
-Ahora bien, si lo tuyo no es la arqueología, no te preocupes: otra opción atractiva y muy emocionante es conocer este poblado del estado de Querétaro a bordo de un globo aerostático y así poderlo contemplar desde lo alto, logrando una vista inmejorable de los viñedos que lo rodean.
+Ahora bien, si lo suyo no es la arqueología, no se preocupen: otra opción atractiva y muy emocionante es conocer este poblado del estado de Querétaro a bordo de un globo aerostático y así poderlo contemplar desde lo alto, logrando una vista inmejorable de los viñedos que lo rodean.
+
+Algunas compañías ofrecen, en el mismo costo del boleto, transportación desde la ciudad de Querétaro, desayuno tipo bufet e incluso un paseo por la ruta del vino y del queso, famosa en esta región queretana, o bien —y para darle más encanto al romance— el hospedaje en alguno de los hermosos hoteles de Tequisquiapan.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tequisquiapan_Quer%C3%A9taro.jpg/1280px-Tequisquiapan_Quer%C3%A9taro.jpg)
+
+## San Miguel de Allende
+
+Esta es, sin duda, una de las ciudades más hermosas y románticas del país, y conocerla a bordo de un globo se antoja como una experiencia de ensueño. Así pues, una vez que se encuentren en la ciudad podrán seleccionar alguno de los paquetes que diversas empresas ofrecen, algunas de las cuales pasan a recogerte al hotel donde te encuentres.
+
+Y para las parejas hay viajes especiales que 'paquetean' el vuelo con otras agradables experiencias, tales como cena romántica para dos, un paseo por los viñedos cercanos —Toyan o Dos Búhos son excelentes opciones—, e incluso un tratamiento en un spa para que ambos descarguen la adrenalina del viaje y el cansancio de la desmañanada. ¿Qué dicen? ¿Se animan?…
