@@ -39,7 +39,7 @@ fields:
   type: select
   default: []
   config:
-    required: false
+    required: true
     options:
     - CULTURA
     - HISTORIA
@@ -57,6 +57,8 @@ fields:
   name: tags
   label: Etiquetas
   description: Para ingresar varias etiquetas separe con espacio.
+  config:
+    required: true
 - type: text
   name: layout
   label: layout
