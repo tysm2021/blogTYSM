@@ -16,7 +16,6 @@ title: 'Premios Nobel mexicanos: cuántos y quiénes son '
 author: Francisco Massé
 cover: "/images/2022-04-22-nobel_prize_medal_in_chemistry.jpeg"
 categories: CULTURA
-categories: CULTURAPOPULAR
 tags: cultura premios mexico
 show_author_profile: false
 comment: false
