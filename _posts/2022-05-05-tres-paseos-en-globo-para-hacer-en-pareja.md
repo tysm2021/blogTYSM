@@ -1,5 +1,5 @@
 ---
-categories: ''
+categories: CULTURA
 subcategorie: VIAJES
 layout: article
 excerpt_separator: "<!--more-->"
@@ -31,11 +31,11 @@ TE PUEDE INTERESAR:
 
 ## Teotihuacan
 
-¿Quieres ver las ancestrales **Pirámides del Sol y de la Luna** desde una insólita perspectiva? Pues aventúrate con tu pareja a tomar uno de los muchos viajes en globo que se ofrecen en esta z**ona arqueológica del Estado de México** y contémplenlas desde las alturas. 
+¿Quieres ver las ancestrales **Pirámides del Sol y de la Luna** desde una insólita perspectiva? Pues aventúrate con tu pareja a tomar uno de los muchos viajes en globo que se ofrecen en esta z**ona arqueológica del Estado de México** y contémplenlas desde las alturas.
 
 Hay diversas compañías que ofrecen todo tipo de **viajes y de paquetes**, y hay algunas que incluyen la t**ransportación desde la Ciudad de México** en el costo del boleto, y hay globos con capacidad desde sólo dos personas hasta veinte. Te recomendamos que te cerciores de que la empresa que contrates cumpla con todas las medidas de seguridad y que sus pilotos estén certificados. Eso sí: tendrán que madrugar, pero valdrá la pena…
 
-![](/images/2022-06-01-teotihuacan-2713130_1280.jpeg)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FEdomexTurismo%2Fposts%2F384653793702023&show_text=false&width=500" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ## Tequisquiapan
 
