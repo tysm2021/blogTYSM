@@ -56,3 +56,11 @@ Este museo se encuentra en el Centro Histórico de la **Ciudad de México**, a u
 ## Museo del Palacio de Bellas Artes
 
 ### 642,368 visitantes
+
+En este hermoso palacio de mármol, que se encuentra entre la Alameda Central y el primer cuadro de la Ciudad de México, en el Centro Histórico, se montan exposiciones temporales de artistas mexicanos y extranjeros, en torna a diversas temáticas del arte. Además, se pueden contemplar los murales de Diego Rivera, José Clemente Orozco, David Alfaro Siqueiros, Rufino Tamayo y otros artistas de gran talla.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2014-10-13%2C_DD_37.JPG/1280px-Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2014-10-13%2C_DD_37.JPG)
+
+Museo de Arte Moderno
+
+El último de los museos en este conteo también se encuentra en el Bosque de Chapultepec, y se especializa en el arte producido durante el siglo XX en México y otros países. Además de la colección permanente, que tiene obras de pintores como Frida Kahlo y Remedios Varo, se pueden contemplar
