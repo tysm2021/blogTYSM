@@ -53,4 +53,6 @@ Este museo se encuentra en el Centro Histórico de la **Ciudad de México**, a u
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tlaltecuhtli.JPG/1280px-Tlaltecuhtli.JPG)
 
-Museo
+## Museo del Palacio de Bellas Artes
+
+### 642,368 visitantes
