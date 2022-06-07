@@ -61,6 +61,14 @@ En este hermoso palacio de mármol, que se encuentra entre la Alameda Central y 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2014-10-13%2C_DD_37.JPG/1280px-Palacio_de_Bellas_Artes%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2014-10-13%2C_DD_37.JPG)
 
-Museo de Arte Moderno
+## Museo de Arte Moderno
 
-El último de los museos en este conteo también se encuentra en el Bosque de Chapultepec, y se especializa en el arte producido durante el siglo XX en México y otros países. Además de la colección permanente, que tiene obras de pintores como Frida Kahlo y Remedios Varo, se pueden contemplar
+### 606,714 visitantes
+
+El último de los museos en este conteo también se encuentra en el **Bosque de Chapultepec**, y se especializa en el arte producido durante el siglo XX en México y otros países. Además de la colección permanente, que tiene obras de pintores como Frida Kahlo y Remedios Varo, se pueden contemplar las numerosas estatuas que adornan sus jardines.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Museo_de_Arte_Moderno_DSC0023_%2835557149325%29.jpg/1280px-Museo_de_Arte_Moderno_DSC0023_%2835557149325%29.jpg)
+
+A estos museos les siguen, en orden descendente de acuerdo al número de visitantes anuales, el **Museo Nacional de las Culturas**, el **Museo Nacional de Arte** —también conocido como Munal—, ubicados en el centro de la CdMx, y el **Museo Nacional de Arquitectura**, ubicado en la planta alta del Palacio de Bellas Artes. Ya fuera de la capital, los de mayor concurrencia son el **Museo Regional de Guanajuato**, ubicado en la Alhóndiga de Granaditas, y el **Museo del Fuerte de San Juan de Ulúa**, en el bello puerto de Veracruz. 
+
+¿Qué tal? ¿Ya los conoces todos?…
