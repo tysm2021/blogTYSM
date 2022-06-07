@@ -33,7 +33,7 @@ TE RECOMENDAMOS:
 
 ### 2'661,615 visitantes
 
-Para quienes no lo conocen con ese nombre, se trata nada menos que del museo que se encuentra alojado en el famoso Castillo de Chapultepec, en la Ciudad de México. Además de poder admirar el magnífico edificio donde algún día vivieron los emperadores Maximiliano y Carlota, también podrás observar objetos representativos de cuatro siglos de la historia de México.
+Para quienes no lo conocen con ese nombre, se trata nada menos que del **museo** que se encuentra alojado en el famoso **Castillo de Chapultepec**, en la **Ciudad de México**. Además de poder admirar el magnífico edificio donde algún día vivieron los emperadores Maximiliano y Carlota, también podrás observar objetos representativos de cuatro siglos de la **historia** de **México**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jardines_del_Castillo_de_Chapultepec_4.jpg/1280px-Jardines_del_Castillo_de_Chapultepec_4.jpg)
 
@@ -41,7 +41,7 @@ Para quienes no lo conocen con ese nombre, se trata nada menos que del museo que
 
 ### 2'596.725 visitantes
 
-Una visita obligada, tanto para los estudiantes de educación media como para los visitantes a la Ciudad de México, es este fabuloso recinto, que también se encuentra en el Bosque de Chapultepec. Además de admirarte con la célebre fuente paraguas del patio central, podrás hacer un recorrido por las distintas salas que muestran lo mejor del arte y la arquitectura de nuestro pasado prehispánico, incluyendo la famosa Piedra del Sol, mejor conocida como Calendario Azteca.
+Una visita obligada, tanto para los estudiantes de educación media como para los visitantes a la **Ciudad de México**, es este fabuloso recinto, que también se encuentra en el **Bosque de Chapultepec**. Además de admirarte con la célebre fuente paraguas del patio central, podrás hacer un recorrido por las distintas salas que muestran lo mejor del arte y la arquitectura de nuestro pasado **prehispánico**, incluyendo la famosa Piedra del Sol, mejor conocida como **Calendario Azteca**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Museo_Nacional_de_Antropolog%C3%ADa_-_Wiki_takes_Antropolog%C3%ADa_134.jpg/1280px-Museo_Nacional_de_Antropolog%C3%ADa_-_Wiki_takes_Antropolog%C3%ADa_134.jpg)
 
@@ -49,4 +49,8 @@ Una visita obligada, tanto para los estudiantes de educación media como para lo
 
 ### 977,275 visitantes
 
-Este museo se encuentra en el Centro Histórico de la Ciudad de México, a unos pasos del Zócalo, y en él además del recinto también se puede visitar la zona arqueológica que muestra lo que queda de las etapas constructivas del Huey Teocalli o Templo Mayor de México-Tenochtitlan. Las dos piezas principales son el monolito de la diosa lunar Coyolxauhqui, cuyo hallazgo dio pie a la fundación del museo, y la Tlaltecuhtli, exhibida en el vestíbulo del museo.
+Este museo se encuentra en el Centro Histórico de la **Ciudad de México**, a unos pasos del Zócalo, y en él además del recinto también se puede visitar la zona arqueológica que muestra lo que queda de las etapas constructivas del Huey Teocalli o Templo Mayor de México-Tenochtitlan. Las dos piezas principales son el monolito de la diosa lunar **Coyolxauhqui**, cuyo hallazgo dio pie a la fundación del museo, y la **Tlaltecuhtli**, exhibida en el vestíbulo del museo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tlaltecuhtli.JPG/1280px-Tlaltecuhtli.JPG)
+
+Museo
