@@ -37,10 +37,10 @@ Un día, platicando con su esposa, le dice que lo que más le gustaría sería c
 
 Es a ésta última a quien decide darle la mitad, y a cambio la Parca le da el poder de saber quién va a morir. Con ese extraordinario poder, **Macario** empieza a hacerse famoso y a acumular una gran fortuna, pero ni con eso logra eludir a su amiga, la **Muerte**, que finalmente llega por él…
 
-La película fue estrenada en 1960. La dirección estuvo a cargo de **Roberto Gavaldón**, quien también hizo la adaptación cinematográfica junto con el dramaturgo **Emilio Carballido**, basándose en la novela corta homónima de **B. Traven**, a quien algunos llaman también Bruno Traven y era el seudónimo que usaba el alemán Otto Feige.
+La película fue estrenada en 1960. La dirección estuvo a cargo de **Roberto Gavaldón**, quien también hizo la adaptación cinematográfica junto con el dramaturgo **Emilio Carballido**, basándose en la novela corta homónima de **B. Traven**, a quien algunos llaman también Bruno Traven y era el seudónimo que usaba el alemán Otto Feige, el cual a su vez se basó en el cuento "La muerte madrina" de los hermanos Grimm.
 
 ![](https://m.media-amazon.com/images/M/MV5BMzcyMmJkMjctNTU0Yy00MzdkLWI0YjItY2JlMWMwMmVmMzJkXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_.jpg)
 
-En los papeles principales estuvieron **Ignacio López Tarso** (Macario), Pina Pellicer (la esposa), Enrique Lucero (la **Muerte**), Mario Alberto Rodríguez (don Ramiro), José Gálvez (el Diablo), José Luis Jiménez (Dios) y Eduardo Fajardo (el Virrey). 
+En los papeles principales estuvieron **Ignacio López Tarso** (Macario), Pina Pellicer (la esposa), Enrique Lucero (la **Muerte**), Mario Alberto Rodríguez (don Ramiro), José Gálvez (el Diablo), José Luis Jiménez (Dios) y Eduardo Fajardo (el Virrey).
 
 La cinta está considerada entre las 100 mejores películas del cine mexicano, e incluso fue la primera producción mexicana en ser nominada al Premio de la Academia como **Mejor Película** Extranjera. Por su fuera poco, también estuvo nominada a la Palma de Oro en el prestigiado **Festival de Cannes**. Y tú, ¿qué dices? ¿Ya la viste o te dieron ganas de verla?…
