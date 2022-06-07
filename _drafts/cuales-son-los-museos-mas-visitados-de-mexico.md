@@ -23,8 +23,24 @@ show_author_profile: false
 comment: false
 
 ---
-México es un país con mucha historia, desde nuestro pasado prehispánico, pasando por el Virreinato, el México independiente, hasta llegar al siglo XX. Eso se refleja en la cantidad y la calidad de nuestros museos, los cuales ponen al alcance del público la cultura, las artes y los vestigios de todo nuestro pasado. Pero, ¿sabes cuáles son los museos más visitados del país?
+México es un país con mucha **historia**, desde nuestro pasado prehispánico, pasando por el Virreinato, el México independiente, hasta llegar al siglo XX. Eso se refleja en la cantidad y la calidad de nuestros **museos**, los cuales ponen al alcance del público la **cultura**, las **artes** y los vestigios de todo nuestro pasado. Pero, ¿sabes **cuáles son los museos más visitados de México**?
 
-A continuación, te compartimos una lista con los diez recintos museísticos que más visitantes recibieron en un año. Cabe aclarar que, debido a la pandemia por covid, que mantuvo cerrados muchos de estos recintos desde marzo de 2020 hasta hace relativamente poco, no existen cifras recientes al respecto.
+A continuación, te compartimos una lista con los diez recintos museísticos que **más visitantes** recibieron en un año. Cabe aclarar que, debido a la pandemia por covid, que mantuvo cerrados muchos de estos recintos desde marzo de 2020 hasta hace relativamente poco, no existen cifras recientes al respecto; así, consignamos los registros correspondientes a 2019, reportados en enero de 2020.
 
 TE RECOMENDAMOS:
+
+## Museo Nacional de Historia
+
+### 2'661,615 visitantes
+
+Para quienes no lo conocen con ese nombre, se trata nada menos que del museo que se encuentra alojado en el famoso Castillo de Chapultepec, en la Ciudad de México. Además de poder admirar el magnífico edificio donde algún día vivieron los emperadores Maximiliano y Carlota, también podrás observar objetos representativos de cuatro siglos de la historia de México.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jardines_del_Castillo_de_Chapultepec_4.jpg/1280px-Jardines_del_Castillo_de_Chapultepec_4.jpg)
+
+## Museo Nacional de Antropología
+
+### 2'596.725 visitantes
+
+Una visita obligada, tanto para los estudiantes de educación media como para los visitantes a la Ciudad de México, es este fabuloso recinto, que también se encuentra en el Bosque de Chapultepec. Además de admirarte con la célebre fuente paraguas del patio central, podrás hacer un recorrido por las distintas salas que muestran lo mejor del arte y la arquitectura de nuestro pasado prehispánico, incluyendo la famosa Piedra del Sol, mejor conocida como Calendario Azteca.
+
+Museo
