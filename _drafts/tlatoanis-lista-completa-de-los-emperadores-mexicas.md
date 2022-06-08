@@ -49,11 +49,15 @@ TE RECOMENDAMOS:
 
 **(1415-1427)**
 
+![](https://pueblosoriginarios.com/textos/tovar/imagenes/chimalpopoca.jpg)
+
 "Escudo humeante". Hijo de Huitzilíhutil, nieto de Tezozómoc. Durante su reinado se construyó un acueducto que llevaba agua desde Chapultepec hasta Tenochtitlan. Fue asesinado.
 
-Iztcóatl
+## Iztcóatl
 
-(1427-1440)
+**(1427-1440)**
+
+"Serpiente de obsidiana". Hijo del primer tlatoani, Acamapichtli. Durante su gobierno se consolidó la triple alianza entre Tenochtiltlan, Tlacopan y Texcoco, que dio fin al dominio de los tepanecas y a la caída de Azcapotzalco.
 
 Moctezuma Ilhuicamina
 
