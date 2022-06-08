@@ -71,7 +71,11 @@ TE RECOMENDAMOS:
 
 ## Axayácatl
 
-(1469-1481)
+**(1469-1481)**
+
+![](https://pueblosoriginarios.com/textos/tovar/imagenes/axayacatl.jpg)
+
+"Rostro de agua". Nieto de Itzcóatl, sometió a Tlatelolco y mandó esculpir la Piedra del Sol o "calendario azteca". Intentó conquistar al poderoso Imperio Purépecha, sin éxito.
 
 Tízoc
 
