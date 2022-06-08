@@ -23,23 +23,33 @@ show_author_profile: false
 comment: false
 
 ---
-Los mexicas o aztecas fueron un pueblo que dominó el área conocida como Mesoamérica durante los siglos XIV y XV, hasta la Conquista por parte de los españoles. Durante ese tiempo, fueron gobernados por una serie de emperadores a los que llamaban tlatoani, palabra náhuatl que significa "el que gobierna" o "el que habla". A continuación, te presentamos la lista completa de los emperadores mexicas, en orden cronológico según sus años de gobierno.
+Los **mexicas** o **aztecas** fueron un pueblo que dominó el área conocida como Mesoamérica durante los siglos XIV y XV, hasta la Conquista por parte de los españoles. Durante ese tiempo, fueron **gobernados** por una serie de **emperadores** a los que llamaban **_tlatoani_**, palabra náhuatl que significa "el que gobierna" o "el que habla". A continuación, te presentamos la **lista completa** de los **emperadores mexicas**, en orden cronológico según sus años de gobierno.
 
-Recordemos que este cargo era hereditario y para acceder a él, el gobernante debía pertenecer a una de las familias nobles que durante dos siglos reinaron en el Valle del Anáhuac y conquistaron una buena porción de lo que ahora es México y parte de Centroamérica.
+Recordemos que este cargo era hereditario y para acceder a él, el gobernante debía pertenecer a una de las familias nobles que durante dos siglos y medio reinaron en el Valle del Anáhuac y conquistaron una buena porción de lo que ahora es México y parte de Centroamérica.
 
 TE RECOMENDAMOS:
 
-Acamapichtli
+## Acamapichtli
 
-(1366-1387)
+**(1366-1387)**
 
-Huitzilíhuitl
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Acamapichtli%2C_the_First_Aztec_King_%28Reigned_1376%E2%80%9395%29_WDL6718.png/1280px-Acamapichtli%2C_the_First_Aztec_King_%28Reigned_1376%E2%80%9395%29_WDL6718.png)
 
-(1391-1415)
+"El que empuña la caña" o "Puño cerrado con cañas". Fue el primer tlatoani de los mexicas y consolidó la alianza con el vecino reino de los tepanecas y con su capital, Azcapotzalco.
 
-Chimalpopoca
+## Huitzilíhuitl
 
-(1415-1427)
+**(1391-1415)**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Huitzil%C3%A1ihuitl%2C_the_Second_Aztec_King_%28Reigned_1395%E2%80%931417%29_WDL6719.png/1280px-Huitzil%C3%A1ihuitl%2C_the_Second_Aztec_King_%28Reigned_1395%E2%80%931417%29_WDL6719.png)
+
+"Pluma de colibrí". Cuarto hijo de Acamapichtli, se casó con la hija de Tezozómoc, rey de Azcapotzalco, y a su nombre conquistó los reinos de Chalco y Cuautitlán. 
+
+## Chimalpopoca
+
+**(1415-1427)**
+
+"Escudo humeante". Hijo de Huitzilíhutil, nieto de Tezozómoc. Durante su reinado se construyó un acueducto que llevaba agua desde Chapultepec hasta Tenochtitlan. Fue asesinado.
 
 Iztcóatl
 
@@ -59,8 +69,16 @@ Tízoc
 
 Ahuízotl
 
+(1486-1502)
+
 Moctezuma Xocoyotzin
+
+(1502-1520)
 
 Cuitláhuac
 
+(1520)
+
 Cuauhtémoc
+
+(1520-1521)
