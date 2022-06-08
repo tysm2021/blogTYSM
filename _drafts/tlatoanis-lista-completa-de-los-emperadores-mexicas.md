@@ -23,8 +23,30 @@ show_author_profile: false
 comment: false
 
 ---
-Los mexicas o aztecas fueron un pueblo que dominó el área conocida como Mesoamérica durante los siglos XIV y XV, hasta la Conquista por parte de los españoles. Durante ese tiempo, fueron gobernados por una serie de emperadores a los que llamaban tlatoani, palabra náhuatl que significa "el que gobierna" o "el que habla". A continuación, te presentamos la lista completa de los emperadores mexicas, en orden cronológico.
+Los mexicas o aztecas fueron un pueblo que dominó el área conocida como Mesoamérica durante los siglos XIV y XV, hasta la Conquista por parte de los españoles. Durante ese tiempo, fueron gobernados por una serie de emperadores a los que llamaban tlatoani, palabra náhuatl que significa "el que gobierna" o "el que habla". A continuación, te presentamos la lista completa de los emperadores mexicas, en orden cronológico según sus años de gobierno.
 
 Recordemos que este cargo era hereditario y para acceder a él, el gobernante debía pertenecer a una de las familias nobles que durante dos siglos reinaron en el Valle del Anáhuac y conquistaron una buena porción de lo que ahora es México y parte de Centroamérica.
 
 TE RECOMENDAMOS:
+
+Acamapichtli
+
+Huitzilíhuitl
+
+Chimalpopoca
+
+Iztcóatl
+
+Moctezuma Ilhuicamina
+
+Axayácatl
+
+Tízoc
+
+Ahuízotl
+
+Moctezuma Xocoyotzin
+
+Cuitláhuac
+
+Cuauhtémoc
