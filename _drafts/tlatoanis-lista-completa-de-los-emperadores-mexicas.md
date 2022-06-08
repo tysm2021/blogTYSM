@@ -57,11 +57,15 @@ TE RECOMENDAMOS:
 
 **(1427-1440)**
 
-"Serpiente de obsidiana". Hijo del primer tlatoani, Acamapichtli. Durante su gobierno se consolidó la triple alianza entre Tenochtiltlan, Tlacopan y Texcoco, que dio fin al dominio de los tepanecas y a la caída de Azcapotzalco.
+![](https://pueblosoriginarios.com/textos/tovar/imagenes/itzcoatl.jpg)
+
+"Serpiente de obsidiana". Hijo del primer tlatoani, Acamapichtli. Durante su gobierno se consolidó la triple alianza entre Tenochtiltlan, Tlacopan y Texcoco, que dio fin al dominio de los tepanecas y propició la caída de Azcapotzalco y la expansión del Imperio Mexica.
 
 Moctezuma Ilhuicamina
 
 (1440-1469)
+
+"
 
 Axayácatl
 
