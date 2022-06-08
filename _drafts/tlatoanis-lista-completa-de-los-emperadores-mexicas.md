@@ -51,9 +51,11 @@ Moctezuma Ilhuicamina
 
 Axayácatl
 
-(
+(1469-1481)
 
 Tízoc
+
+(1481-1486)
 
 Ahuízotl
 
