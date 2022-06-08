@@ -61,13 +61,15 @@ TE RECOMENDAMOS:
 
 "Serpiente de obsidiana". Hijo del primer tlatoani, Acamapichtli. Durante su gobierno se consolidó la triple alianza entre Tenochtiltlan, Tlacopan y Texcoco, que dio fin al dominio de los tepanecas y propició la caída de Azcapotzalco y la expansión del Imperio Mexica.
 
-Moctezuma Ilhuicamina
+## Moctezuma Ilhuicamina
 
-(1440-1469)
+**(1440-1469)**
 
-"
+![](https://pueblosoriginarios.com/textos/tovar/imagenes/moctezuma1.jpg)
 
-Axayácatl
+"Señor encolerizado, flechador del cielo". También llamado Moctezuma I, fue hijo de Huitzilíhuitl, medio hermano de Chimalpopoca y sobrino de Itzcóatl. Expandió el Imperio hacia el territorio actual de Guerrero, Puebla, Oaxaca y Veracruz.
+
+## Axayácatl
 
 (1469-1481)
 
