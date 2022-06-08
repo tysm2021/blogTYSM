@@ -77,22 +77,42 @@ TE RECOMENDAMOS:
 
 "Rostro de agua". Nieto de Itzcóatl, sometió a Tlatelolco y mandó esculpir la Piedra del Sol o "calendario azteca". Intentó conquistar al poderoso Imperio Purépecha, sin éxito.
 
-Tízoc
+## Tízoc
 
-(1481-1486)
+**(1481-1486)**
 
-Ahuízotl
+![](https://pueblosoriginarios.com/biografias/imagenes/tizoc.jpg)
 
-(1486-1502)
+"Pierna atravesada" o "Agujerado con esmeraldas". Hermano de Axayácatl, más que conquistar se dedicó a administrar las conquistas, pero por su carácter débil orilló a una conjura que derivó en su asesinato por envenenamiento.
 
-Moctezuma Xocoyotzin
+## Ahuízotl
 
-(1502-1520)
+**(1486-1502)**
 
-Cuitláhuac
+![](https://pueblosoriginarios.com/textos/tovar/imagenes/ahuitzotl.jpg)
+
+"Nutria" o "Espinoso de agua". Fue un emperador aguerrido que dirigió las conquistas hacia el sur de México hasta llegar a Guatemala. En su reinado se inauguró el Gran Teocalli o Templo Mayor. 
+
+## Moctezuma Xocoyotzin
+
+**(1502-1520)**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coronaci%C3%B3n_de_Moctezuma_II%2C_en_el_folio_152.png/1116px-Coronaci%C3%B3n_de_Moctezuma_II%2C_en_el_folio_152.png)
+
+"Señor encolerizado, el joven". Durante su reinado se alcanzó la mayor expansión territorial del Imperio y, de forma más notable, le tocó recibir a los conquistadores españoles dirigidos por Hernán Cortés. No se sabe si murió a manos de su propio pueblo o asesinado por los españoles.
+
+## Cuitláhuac
 
 (1520)
 
-Cuauhtémoc
+![](https://upload.wikimedia.org/wikipedia/commons/f/f1/Cuitlahuac.jpg)
 
-(1520-1521)
+"Alga seca" o "Lama del lago". Señor de Iztapalapa y hermano de Moctezuma Xocoyotzin. Tras la muerte de éste, tomó el mando del ejército y venció a los españoles, haciéndolos huir en la "Noche victoriosa", pero murió víctima de la viruela.
+
+## Cuauhtémoc
+
+**(1521)**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/El_suplicio_de_Cuauht%C3%A9moc.jpg/1024px-El_suplicio_de_Cuauht%C3%A9moc.jpg)
+
+"Águila que desciende". Hijo de Ahuízotl y primo de Moctezuma Xocoyotzin. Tras la muerte de Cuitláhuac, reorganizó al ejército, pero al regreso de los españoles con más de cien mil soldados locales (muchos de ellos, tlaxcaltecas) fue derrotado y capturado, dando con ello fin al Imperio Mexica.
