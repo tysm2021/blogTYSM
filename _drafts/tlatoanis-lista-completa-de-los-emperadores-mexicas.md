@@ -31,15 +31,27 @@ TE RECOMENDAMOS:
 
 Acamapichtli
 
+(1366-1387)
+
 Huitzilíhuitl
+
+(1391-1415)
 
 Chimalpopoca
 
+(1415-1427)
+
 Iztcóatl
+
+(1427-1440)
 
 Moctezuma Ilhuicamina
 
+(1440-1469)
+
 Axayácatl
+
+(
 
 Tízoc
 
