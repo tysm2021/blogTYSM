@@ -54,3 +54,28 @@ Este recinto, que es administrado por el Instituto Smithsoniano y de entrada gra
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/National_Museum_of_China_%289835116674%29.jpg/1024px-National_Museum_of_China_%289835116674%29.jpg)
 
 Ahora nos vamos al otro lado del mundo para conocer este museo, que —como su nombre lo indica— está enfocado en la milenaria historia del país chino. Según nuestras fuentes, recibió a **7 millones 450 mil visitantes**, ¿qué tal?
+
+## Museo Nacional del Arte y del Espacio
+
+**Washington D.C., EUA**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/National_Air_and_Space_Museum_Entrance.JPG/1024px-National_Air_and_Space_Museum_Entrance.JPG)
+
+¿Ah, verdad? Seguro que ni sabías la existencia de este museo. En él podrás encontrar objetos relacionados con la historia de los vuelos y de la exploración espacial de los Estados Unidos, tales como el módulo del Apolo 11 —el que llegó a la Luna— y el aeroplano de los hermanos Wright. Por eso tuvo **6 millones 970 mil visitantes** en un año.
+
+## Museo Británico
+
+**Londres, Inglaterra**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/The_British_Museum_today.jpg/1024px-The_British_Museum_today.jpg)
+
+El quinto lugar de este breve conteo lo ocupa este museo de rancio abolengo, dedicado al arte, la historia y la cultura de todo el mundo, poseyendo más de ocho millones de objetos que conforman la colección museística más grande del planeta. Recibía a unos **6 millones 701 mil visitantes** al año, antes de la pandemia.
+
+¿Y ahora, cómo están las cosas? Debido a los cierres y confinamientos, sobre todo en ciudades chinas, europeas y estadounidenses, las cosas cambiaron muchísimo. Aquí va la lista actualizada, con cifras del número de visitantes reportados en 2021:
+
+1. Museo del Louvre (París, Francia) 2'825,000
+2. Museo Ruso (San Petersburgo, Rusia) 2'260,231
+3. Museo de Arte Multimedia (Moscú, Rusia) 2'242,405
+4. Museo Metropolitano de Arte (Nueva York, EUA) 1'958,000
+5. Galería de los Uffizi (Florencia, Italia) 1'721,637
+6. 
