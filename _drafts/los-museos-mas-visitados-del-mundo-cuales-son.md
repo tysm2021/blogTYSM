@@ -73,9 +73,15 @@ El quinto lugar de este breve conteo lo ocupa este museo de rancio abolengo, ded
 
 ¿Y ahora, cómo están las cosas? Debido a los cierres y confinamientos, sobre todo en ciudades chinas, europeas y estadounidenses, las cosas cambiaron muchísimo. Aquí va la lista actualizada, con cifras del número de visitantes reportados en 2021:
 
-1. Museo del Louvre (París, Francia) 2'825,000
-2. Museo Ruso (San Petersburgo, Rusia) 2'260,231
-3. Museo de Arte Multimedia (Moscú, Rusia) 2'242,405
-4. Museo Metropolitano de Arte (Nueva York, EUA) 1'958,000
-5. Galería de los Uffizi (Florencia, Italia) 1'721,637
-6. 
+ 1. Museo del Louvre (París, Francia) 2'825,000
+ 2. Museo Ruso (San Petersburgo, Rusia) 2'260,231
+ 3. Museo de Arte Multimedia (Moscú, Rusia) 2'242,405
+ 4. Museo Metropolitano de Arte (Nueva York, EUA) 1'958,000
+ 5. Galería de los Uffizi (Florencia, Italia) 1'721,637
+ 6. Galería Nacional de Arte (Washington D.C., EUA) 1'704,606
+ 7. Museo del Hermitage (San Petersburgo, Rusia) 1'649,443
+ 8. Museo Reina Sofía (Madrid, España) 1'643,000
+ 9. Museos del Vaticano (Ciudad del Vaticano) 1'612,530
+10. Galería Tretyakov (Moscú, Rusia) 1'580,819
+
+¿Qué te parece? Cómo cambian las cosas, ¿no es así?…
