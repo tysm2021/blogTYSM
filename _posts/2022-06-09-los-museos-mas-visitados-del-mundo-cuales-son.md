@@ -23,17 +23,17 @@ show_author_profile: false
 comment: false
 
 ---
-Para quienes tienen el deseo de viajar por el mundo, aunque sea de forma virtual, sin duda los museos son uno de los destinos favoritos. Y, de todos los que existen, ¿sabes cuáles son los más visitados por los turistas de todo el mundo, antes y después de la pandemia?
+Para quienes tienen el deseo de viajar por el **mundo**, aunque sea de forma virtual, sin duda los **museos** son uno de los destinos favoritos. Y, de todos los que existen, ¿sabes cuáles son **los más visitados** por los turistas de todo el **mundo**, **antes** y **después** de la **pandemia**?
 
-Acá va una lista de los recintos que más visitantes recibieron al año, considerando que algunos de ellos permanecieron cerrados durante casi todo 2020 y 2021, debido a la pandemia por covid de la cual el mundo apenas está recuperándose.
+Acá va una lista de los recintos que **más visitantes** recibieron al año, considerando que algunos de ellos permanecieron cerrados durante casi todo 2020 y 2021, debido a la **pandemia** por covid de la cual el mundo apenas está recuperándose.
 
-TE RECOMENDAMOS: 
+TE RECOMENDAMOS:
 
-Antes de marzo de 2020, cuando el mundo "aún era normal", la lista de los museos más visitados del mundo, según la Red de Museos Europeos (museums.eu) estaba como sigue:
+Antes de marzo de 2020, cuando el mundo "aún era normal", la lista de **los museos más visitados del mundo**, según la Red de Museos Europeos (museums.eu) estaba como sigue:
 
 ## Museo del Louvre
 
-**París, Francia** 
+**París, Francia**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Louvre_at_dusk.JPG/1024px-Louvre_at_dusk.JPG)
 
@@ -45,7 +45,7 @@ Pasan los años, con y sin pandemia, y este museo —como dice la canción— si
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/National_Museum_of_Natural_History_Rotunda_pano.jpg/1024px-National_Museum_of_Natural_History_Rotunda_pano.jpg)
 
-Este recinto, que es administrado por el Instituto Smithsoniano y de entrada gratuita, conserva y exhibe en su interior miles de fósiles, plantas y esqueletos de animales extinguidos, así como rocas y meteoritos. Recibió a nada menos que **8 millones de visitantes**. 
+Este recinto, que es administrado por el Instituto Smithsoniano y de entrada gratuita, conserva y exhibe en su interior miles de fósiles, plantas y esqueletos de animales extinguidos, así como rocas y meteoritos. Recibió a nada menos que **8 millones de visitantes**.
 
 ## Museo Nacional de China
 
