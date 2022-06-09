@@ -33,8 +33,11 @@ Empecemos con los **grillos** o, como les conocemos en las zonas centrales de M�
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/88/Chapulines.001.jpg)
 
-Seguimos con los gusanos de maguey, que son larvas de una especie que crece en las pencas de algunos magueyes. A esos les hacemos los honores doraditos en el comal —algunos sádicos los avientan cuando aún están vivos—, en taquitos, o bien, aderezando una salsita verde de molcajete.
+Seguimos con los **gusanos de maguey**, que son larvas de una especie que crece en las pencas de algunos magueyes. A esos les hacemos los honores doraditos en el comal —algunos sádicos los avientan cuando aún están vivos—, en taquitos, o bien, aderezando una salsita verde de molcajete.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d2/Gusanos.jpg)
 
-Seguimos con los especies de nombre curioso: los acociles y los jumiles. 
+Seguimos con los especies de nombre curioso: los **acociles** y los **jumiles**. Los primeros, también conocidos como langostas de río, son unos crustáceos —como los cangrejos— cuyo sabor es parecido al del camarón y se pone rojo al cocerse; los segundos son pequeñas chinches de monte que se consumen mucho en Morelos y Guerrero.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/romantm/33846350340" title="Acociles con limón y salsa Valentina #cdmx #cdmx #mexicocity #food #foodporn"><img src="https://live.staticflickr.com/2830/33846350340_93d1a0efc5_b.jpg" width="1024" height="1024" alt="Acociles con limón y salsa Valentina #cdmx #cdmx #mexicocity #food #foodporn"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Seguimos con 
