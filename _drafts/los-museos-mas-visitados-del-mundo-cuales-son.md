@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-06-09-1280px-louvre_courtyard-_looking_west.jpeg"
 sharing: true
-title: "¿Cuáles sos museos más visitados del mundo, antes y después de la pandemia?"
+title: "¿Cuáles son museos más visitados del mundo, antes y después de la pandemia?"
 summary: Si te gusta el arte y la cultura, y pudieras hacer un viaje alrededor del
   mundo, ¿cuáles de estos populares museos visitarías?
 cover: "/images/2022-06-09-1280px-louvre_courtyard-_looking_west.jpeg"
