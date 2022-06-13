@@ -51,24 +51,104 @@ layout: base
 
 
 <div class="page__main-inner">
-    <div class="page__content">
-        <div class="main container">        
-            <div class=" article-list grid grid--p-3">
-                {% for post in site.categories.TURISMO %}
-                <div class="cell cell--12 cell--md-6 cell--lg-4">
-                    <div class="card card--flat">
-                        <div class="card__image">
-                            <img src="{{ post.cover }}" alt="" class="image">
-                            <div class="card__header">
-                                <a href="{{ site.baseurl }}{{ post.url }}"></a>
-                                <h2 class="card__text">{{post.title}}</h2>
-                            </div>
-                        </div>
+  <div class="page__content">
+    <div class="main container">
+    <h1>Cuidades</h1>      
+    <div class=" article-list grid grid--p-3 p-5">
+        {% for post in site.tags.cuidades %}
+        <div class="cell cell--12 cell--md-6 cell--lg-4">
+            <div class="card card--flat">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                <div class="card__image">
+                    <img src="{{ post.cover }}" alt="" class="image">
+                    <div class="card__header">
+                        <h2 class="card__text">{{post.title}}</h2>
+                        <p class="card__summary">{{post.summary}}</p>
                     </div>
                 </div>
-                {% endfor %}
+              </a>
             </div>
         </div>
+        {% endfor %}
+    </div>
+
+    <h1>Playas</h1>      
+    <div class=" article-list grid grid--p-3 p-5">
+        {% for post in site.tags.playas %}
+        <div class="cell cell--12 cell--md-6 cell--lg-4">
+            <div class="card card--flat">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                <div class="card__image">
+                    <img src="{{ post.cover }}" alt="" class="image">
+                    <div class="card__header">
+                        <h2 class="card__text">{{post.title}}</h2>
+                        <p class="card__summary">{{post.summary}}</p>
+                    </div>
+                </div>
+              </a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <h1>Pueblos Mágicos</h1>      
+    <div class=" article-list grid grid--p-3 p-5">
+        {% for post in site.tags.pueblos %}
+        <div class="cell cell--12 cell--md-6 cell--lg-4">
+            <div class="card card--flat">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                <div class="card__image">
+                    <img src="{{ post.cover }}" alt="" class="image">
+                    <div class="card__header">
+                        <h2 class="card__text">{{post.title}}</h2>
+                        <p class="card__summary">{{post.summary}}</p>
+                    </div>
+                </div>
+              </a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <h1>Arqueología</h1>      
+    <div class=" article-list grid grid--p-3 p-5">
+        {% for post in site.tags.arqueologia %}
+        <div class="cell cell--12 cell--md-6 cell--lg-4">
+            <div class="card card--flat">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                <div class="card__image">
+                    <img src="{{ post.cover }}" alt="" class="image">
+                    <div class="card__header">
+                        <h2 class="card__text">{{post.title}}</h2>
+                        <p class="card__summary">{{post.summary}}</p>
+                    </div>
+                </div>
+              </a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <h1>Viajes</h1>      
+    <div class=" article-list grid grid--p-3 p-5">
+        {% for post in site.tags.viajes %}
+        <div class="cell cell--12 cell--md-6 cell--lg-4">
+            <div class="card card--flat">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                <div class="card__image">
+                    <img src="{{ post.cover }}" alt="" class="image">
+                    <div class="card__header">
+                        <h2 class="card__text">{{post.title}}</h2>
+                        <p class="card__summary">{{post.summary}}</p>
+                    </div>
+                </div>
+              </a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+
     </div>
 
   

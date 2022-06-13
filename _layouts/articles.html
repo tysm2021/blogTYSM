@@ -65,6 +65,7 @@ _articles -%}
             <img src="{{post.cover}}">
             <div class="slide-title">
                 <h2 class="slide-text">{{post.title}}</h2>
+                <p class="slide-summary">{{post.summary}}</p>
              </div>
             <small class="slide-label">{{post.categories}}</small>
           </a>
@@ -77,6 +78,7 @@ _articles -%}
             <img src="{{post.cover}}">
             <div class="slide-title">
                 <h2 class="slide-text">{{post.title}}</h2>
+                <p class="slide-summary">{{post.summary}}</p>
              </div>
             <small class="slide-label">{{post.categories}}</small>
           </a>
@@ -89,6 +91,7 @@ _articles -%}
               <img src="{{post.cover}}">
               <div class="slide-title">
                 <h2 class="slide-text">{{post.title}}</h2>
+                <p class="slide-summary">{{post.summary}}</p>
               </div>
               <small class="slide-label">{{post.categories}}</small>
             </a>
@@ -128,83 +131,64 @@ _articles -%}
      </div>
 </div>
 
-<h1>Lo mas reciente</h1>  
-  {%- if _type == 'grid' -%} {%- if page.articles.size == 'sm' -%} {%- include
-  article-list.html articles=_articles type='grid' size='sm' -%} {%- else -%}
-  {%- include article-list.html articles=_articles type='grid' -%} {%- endif -%}
-  {%- elsif _type == 'brief' -%} {%- include snippets/assign.html
-  target=site.data.variables.default.page.articles.show_info
-  source0=layout.articles.show_info source1=page.articles.show_info -%} {%-
-  assign _show_info = __return -%} {%- include article-list.html
-  articles=_articles type='brief' show_info=_show_info -%} {%- else -%} {%-
-  include snippets/assign.html
-  target=site.data.variables.default.page.articles.show_cover
-  source0=layout.articles.show_cover source1=page.articles.show_cover -%} {%-
-  assign _show_cover = __return -%} {%- include snippets/assign.html
-  target=site.data.variables.default.page.articles.show_excerpt
-  source0=layout.articles.show_excerpt source1=page.articles.show_excerpt -%}
-  {%- assign _show_excerpt = __return -%} {%- include snippets/assign.html
-  target=site.data.variables.default.page.articles.show_readmore
-  source0=layout.articles.show_readmore source1=page.articles.show_readmore -%}
-  {%- assign _show_readmore = __return -%} {%- include snippets/assign.html
-  target=site.data.variables.default.page.articles.show_info
-  source0=layout.articles.show_info source1=page.articles.show_info -%} {%-
-  assign _show_info = __return -%} {%- assign _article_type =
-  page.articles.article_type | default: layout.articles.article_type -%} {%-
-  assign _cover_size = page.articles.cover_size | default:
-  layout.articles.cover_size -%} {%- assign _excerpt_type =
-  page.articles.excerpt_type | default: layout.articles.excerpt_type -%} {%-
-  include article-list.html articles=_articles type='item'
-  article_type=_article_type show_cover=_show_cover cover_size=_cover_size
-  show_excerpt=_show_excerpt excerpt_type=_excerpt_type
-  show_readmore=_show_readmore show_info=_show_info -%} {%- endif -%}
-  </div>
-{%- endif -%}
+
+ <div class="mh">
+    <h1>Lo mas reciente</h1>  
+      {%- if _type == 'grid' -%} {%- if page.articles.size == 'sm' -%} {%- include
+      article-list.html articles=_articles type='grid' size='sm' -%} {%- else -%}
+      {%- include article-list.html articles=_articles type='grid' -%} {%- endif -%}
+      {%- elsif _type == 'brief' -%} {%- include snippets/assign.html
+      target=site.data.variables.default.page.articles.show_info
+      source0=layout.articles.show_info source1=page.articles.show_info -%} {%-
+      assign _show_info = __return -%} {%- include article-list.html
+      articles=_articles type='brief' show_info=_show_info -%} {%- else -%} {%-
+      include snippets/assign.html
+      target=site.data.variables.default.page.articles.show_cover
+      source0=layout.articles.show_cover source1=page.articles.show_cover -%} {%-
+      assign _show_cover = __return -%} {%- include snippets/assign.html
+      target=site.data.variables.default.page.articles.show_excerpt
+      source0=layout.articles.show_excerpt source1=page.articles.show_excerpt -%}
+      {%- assign _show_excerpt = __return -%} {%- include snippets/assign.html
+      target=site.data.variables.default.page.articles.show_readmore
+      source0=layout.articles.show_readmore source1=page.articles.show_readmore -%}
+      {%- assign _show_readmore = __return -%} {%- include snippets/assign.html
+      target=site.data.variables.default.page.articles.show_info
+      source0=layout.articles.show_info source1=page.articles.show_info -%} {%-
+      assign _show_info = __return -%} {%- assign _article_type =
+      page.articles.article_type | default: layout.articles.article_type -%} {%-
+      assign _cover_size = page.articles.cover_size | default:
+      layout.articles.cover_size -%} {%- assign _excerpt_type =
+      page.articles.excerpt_type | default: layout.articles.excerpt_type -%} {%-
+      include article-list.html articles=_articles type='item'
+      article_type=_article_type show_cover=_show_cover cover_size=_cover_size
+      show_excerpt=_show_excerpt excerpt_type=_excerpt_type
+      show_readmore=_show_readmore show_info=_show_info -%} {%- endif -%}
+ </div>
+</div>
+  {%- endif -%}
+
 
 
 <!-- 
         
 {{ content }} -->
 
-
+  
+<div class="mh">
+  
   <div class="section-cat historia">
-  <div class="header-cat">
-    <h1 class="article__text">HISTORIA</h1>
-     </div>
-  <div class="article-list grid grid--p-3">
-    {% for post in site.categories.HISTORIA limit:3 %}
-    <div class="cell cell--12 cell--md-6 cell--lg-4">
-      <div class="card card--flat">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-        <div class="card__image">
-          <img src="{{ post.cover }}" alt="" class="image" />
-          <div class="card__header">
-            <h2 class="card__text">{{post.title}}</h2>
-            <p class="card__summary">{{post.summary}}</p>
-          </div>
-        </div>
-      </a>
-      </div>
+    <div class="header-cat">
+      <h1 class="article__text">HISTORIA</h1>
     </div>
-    {% endfor %}
-  </div>
-  <div class="footer-cat">
-    <a href="{{site.baseurl}}categories/historia.html" class="btn-cat">Mas notas relacionadas</a>
-  </div>
-  </div>
-
-
- <div class="the-most-view">
-    <h1>Lo último en Historia</h1>
     <div class="article-list grid grid--p-3">
-    {% for post in site.categories.HISTORIA limit:3 %}
+      {% assign sortedPosts = site.categories.HISTORIA | sort: "title" %}
+      {% for post in sortedPosts limit:3 %}
       <div class="cell cell--12 cell--md-6 cell--lg-4">
         <div class="card card--flat">
           <a href="{{ site.baseurl }}{{ post.url }}">
           <div class="card__image">
             <img src="{{ post.cover }}" alt="" class="image" />
             <div class="card__header">
-
               <h2 class="card__text">{{post.title}}</h2>
               <p class="card__summary">{{post.summary}}</p>
             </div>
@@ -212,118 +196,123 @@ _articles -%}
         </a>
         </div>
       </div>
-    {% endfor %}
+      {% endfor %}
     </div>
- </div>
-
-<div class="section-cat gastronomia">
-  <div class="header-cat">
-    <h1 class="article__text">GASTRONOMÍA</h1>
-   
-  </div>
-  <div class="article-list grid grid--p-3">
-    {% for post in site.categories.GASTRONOMIA limit:3 %}
-    <div class="cell cell--12 cell--md-6 cell--lg-4">
-      <div class="card card--flat">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-        <div class="card__image">
-          <img src="{{ post.cover }}" alt="" class="image" />
-          <div class="card__header">
-            <h2 class="card__text">{{post.title}}</h2>
-            <p class="card__summary">{{post.summary}}</p>
+    <div class="footer-cat">
+      <a href="{{site.baseurl}}categories/historia.html" class="btn-cat">Mas notas relacionadas</a>
+    </div>
+    </div>
+  
+  
+   <div class="the-most-view">
+      <h1>Lo último en Historia</h1>
+      <div class="article-list grid grid--p-3">
+      {% for post in site.categories.HISTORIA limit:3 %}
+        <div class="cell cell--12 cell--md-6 cell--lg-4">
+          <div class="card card--flat">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+            <div class="card__image">
+              <img src="{{ post.cover }}" alt="" class="image" />
+              <div class="card__header">
+  
+                <h2 class="card__text">{{post.title}}</h2>
+                <p class="card__summary">{{post.summary}}</p>
+              </div>
+            </div>
+          </a>
           </div>
         </div>
-      </a>
+      {% endfor %}
       </div>
+   </div>
+  
+  <div class="section-cat gastronomia">
+    <div class="header-cat">
+      <h1 class="article__text">GASTRONOMÍA</h1>
+     
     </div>
-    {% endfor %}
-  </div>
-  <div class="footer-cat">
-    <a href="{{site.baseurl}}categories/gastronomia.html" class="btn-cat">Mas notas relacionadas</a>
-  </div>
-</div>
-
-
-<div class="the-most-view">
-  <h1>Lo último en Gastronomía</h1>
-  <div class="article-list grid grid--p-3">
-    {% for post in site.categories.GASTRONOMIA limit:3 %}
-    <div class="cell cell--12 cell--md-6 cell--lg-4">
-      <div class="card card--flat">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-        <div class="card__image">
-          <img src="{{ post.cover }}" alt="" class="image" />
-          <div class="card__header">
-              <h2 class="card__text">{{post.title}}</h2>
-              <p class="card__summary">{{post.summary}}</p>
-          </div>
-          </div>          
-        </a>
-      </div>
-    </div>
-    {% endfor %}
-    </div>
-</div>
-
-<div class="section-cat turismo">
-  <div class="header-cat">
-    <h1 class="article__text">TURISMO</h1>
-  </div>
-
-  <div class="article-list grid grid--p-3">
-    {% for post in site.categories.TURISMO limit:3 %}
-    <div class="cell cell--12 cell--md-6 cell--lg-4">
-      <div class="card card--flat">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-        <div class="card__image">
-          <img src="{{ post.cover }}" alt="" class="image" />
-          <div class="card__header">
-
+  
+    <div class="article-list grid grid--p-3">
+      {% assign sortedPosts = site.categories.GASTRONOMIA | sort: "title" %}
+      {% for post in sortedPosts limit:3 %}
+      <div class="cell cell--12 cell--md-6 cell--lg-4">
+        <div class="card card--flat">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+          <div class="card__image">
+            <img src="{{ post.cover }}" alt="" class="image" />
+            <div class="card__header">
               <h2 class="card__text">{{post.title}}</h2>
               <p class="card__summary">{{post.summary}}</p>
             </div>
           </div>
         </a>
+        </div>
       </div>
+      {% endfor %}
+    </div>
+    <div class="footer-cat">
+      <a href="{{site.baseurl}}categories/gastronomia.html" class="btn-cat">Mas notas relacionadas</a>
+    </div>
+  </div>
+  
+  
+  <div class="the-most-view">
+    <h1>Lo último en Gastronomía</h1>
+    <div class="article-list grid grid--p-3">
+      {% for post in site.categories.GASTRONOMIA limit:3 %}
+      <div class="cell cell--12 cell--md-6 cell--lg-4">
+        <div class="card card--flat">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+          <div class="card__image">
+            <img src="{{ post.cover }}" alt="" class="image" />
+            <div class="card__header">
+                <h2 class="card__text">{{post.title}}</h2>
+                <p class="card__summary">{{post.summary}}</p>
+            </div>
+            </div>          
+          </a>
+        </div>
       </div>
       {% endfor %}
       </div>
-      <div class="footer-cat">
-        <a href="{{site.baseurl}}categories/turismo.html" class="btn-cat">Mas notas relacionadas</a>
-      </div>
-</div>
-
-<div class="the-most-view">
-  <h1>Lo último en Turismo</h1>
-  <div class="article-list grid grid--p-3">
-    {% for post in site.categories.TURISMO limit:3 %}
-    <div class="cell cell--12 cell--md-6 cell--lg-4">
-      <div class="card card--flat">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-        <div class="card__image">
-          <img src="{{ post.cover }}" alt="" class="image" />
-          <div class="card__header">
-            <h2 class="card__text">{{post.title}}</h2>
-            <p class="card__summary">{{post.summary}}</p>
-          </div>
+  </div>
+  
+  <div class="section-cat turismo">
+    <div class="header-cat">
+      <h1 class="article__text">TURISMO</h1>
+    </div>
+  
+    <div class="article-list grid grid--p-3">
+      {% assign sortedPosts = site.categories.TURISMO | sort: "title" %}
+      {% for post in sortedPosts limit:3 %}
+      <div class="cell cell--12 cell--md-6 cell--lg-4">
+        <div class="card card--flat">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+          <div class="card__image">
+            <img src="{{ post.cover }}" alt="" class="image" />
+            <div class="card__header">
+  
+                <h2 class="card__text">{{post.title}}</h2>
+                <p class="card__summary">{{post.summary}}</p>
+              </div>
+            </div>
+          </a>
         </div>
-      </a>
-      </div>
-    </div>
-    {% endfor %}
-    </div>
-</div>
-
-<div class="section-cat cultura">
-  <div class="header-cat">
-    <h1 class="article__text">CULTURA</h1>
+        </div>
+        {% endfor %}
+        </div>
+        <div class="footer-cat">
+          <a href="{{site.baseurl}}categories/turismo.html" class="btn-cat">Mas notas relacionadas</a>
+        </div>
   </div>
-  <div class="article-list grid grid--p-3">
-    {% for post in site.categories.CULTURA limit:3 %}
-    <div class="cell cell--12 cell--md-6 cell--lg-4">
-      <div class="card card--flat">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-
+  
+  <div class="the-most-view">
+    <h1>Lo último en Turismo</h1>
+    <div class="article-list grid grid--p-3">
+      {% for post in site.categories.TURISMO limit:3 %}
+      <div class="cell cell--12 cell--md-6 cell--lg-4">
+        <div class="card card--flat">
+          <a href="{{ site.baseurl }}{{ post.url }}">
           <div class="card__image">
             <img src="{{ post.cover }}" alt="" class="image" />
             <div class="card__header">
@@ -332,135 +321,162 @@ _articles -%}
             </div>
           </div>
         </a>
-
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-  <div class="footer-cat">
-    <a href="{{site.baseurl}}categories/cultura.html" class="btn-cat">Mas notas relacionadas</a>
-  </div>
-</div>
-
-<div class="the-most-view">
-  <h1>Lo último en Cultura</h1>
-  <div class="article-list grid grid--p-3">
-    {% for post in site.categories.CULTURA limit:3 %}
-    <div class="cell cell--12 cell--md-6 cell--lg-4">
-      <div class="card card--flat">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-
-          <div class="card__image">
-            <img src="{{ post.cover }}" alt="" class="image" />
-            <div class="card__header">
-              <h2 class="card__text">{{post.title}}</h2>
-              <p class="card__summary">{{post.summary}}</p>
-            </div>
-          </div>
-        </a>
-          
-      </div>
-    </div>
-    {% endfor %}
-    </div>
-</div>
-
-
-<div class="section-cat folclore">
-  <div class="header-cat">
-    <h1 class="article__text">MEXICANISIMOS</h1>
-   </div>
-  <div class="article-list grid grid--p-3">
-    {% for post in site.categories.MEXICANISIMOS limit:3 %}
-    <div class="cell cell--12 cell--md-6 cell--lg-4">
-      <div class="card card--flat">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-
-          <div class="card__image">
-            <img src="{{ post.cover }}" alt="" class="image" />
-            <div class="card__header">
-              <h2 class="card__text">{{post.title}}</h2>
-              <p class="card__summary">{{post.summary}}</p>
-            </div>
-          </div>
-        </a>
-          
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-  <div class="footer-cat">
-    <a href="{{site.baseurl}}categories/folclore.html" class="btn-cat">Mas notas relacionadas</a>
-  </div>
-</div>
-
-<div class="the-most-view">
-  <h1>Lo último en MEXICANISIMOS</h1>
-  <div class="article-list grid grid--p-3">
-    {% for post in site.categories.MEXICANISIMOS limit:3 %}
-    <div class="cell cell--12 cell--md-6 cell--lg-4">
-      <div class="card card--flat">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-
-          <div class="card__image">
-            <img src="{{ post.cover }}" alt="" class="image" />
-            <div class="card__header">
-              <h2 class="card__text">{{post.title}}</h2>
-              <p class="card__summary">{{post.summary}}</p>
-            </div>
-          </div>
-        </a>
-
-      </div>
-    </div>
-    {% endfor %}
-    </div>
-</div>
-
-
-<div class="section-cat mundo">
-  <div class="header-cat">
-    <h1 class="article__text">MUNDO</h1>
-   </div>
-  <div class="article-list grid grid--p-3">
-    {% for post in site.categories.MUNDO limit:3 %}
-    <div class="cell cell--12 cell--md-6 cell--lg-4">
-      <div class="card card--flat">
-        <div class="card__image">
-          <img src="{{ post.cover }}" alt="" class="image" />
-          <div class="card__header">
-            <a href="{{ site.baseurl }}{{ post.url }}"></a>
-            <h2 class="card__text">{{post.title}}</h2>
-            <p class="card__summary">{{post.summary}}</p>
-
-          </div>
         </div>
       </div>
+      {% endfor %}
+      </div>
+  </div>
+  
+  <div class="section-cat cultura">
+    <div class="header-cat">
+      <h1 class="article__text">CULTURA</h1>
     </div>
-    {% endfor %}
+    <div class="article-list grid grid--p-3">
+      {% assign sortedPosts = site.categories.CULTURA | sort: "title" %}
+      {% for post in sortedPosts limit:3 %}
+      <div class="cell cell--12 cell--md-6 cell--lg-4">
+        <div class="card card--flat">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+  
+            <div class="card__image">
+              <img src="{{ post.cover }}" alt="" class="image" />
+              <div class="card__header">
+                <h2 class="card__text">{{post.title}}</h2>
+                <p class="card__summary">{{post.summary}}</p>
+              </div>
+            </div>
+          </a>
+  
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="footer-cat">
+      <a href="{{site.baseurl}}categories/cultura.html" class="btn-cat">Mas notas relacionadas</a>
+    </div>
   </div>
-  <div class="footer-cat">
-    <a href="{{site.baseurl}}categories/elmundo.html" class="btn-cat">Mas notas relacionadas</a>
+  
+  <div class="the-most-view">
+    <h1>Lo último en Cultura</h1>
+    <div class="article-list grid grid--p-3">
+      {% for post in site.categories.CULTURA limit:3 %}
+      <div class="cell cell--12 cell--md-6 cell--lg-4">
+        <div class="card card--flat">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+  
+            <div class="card__image">
+              <img src="{{ post.cover }}" alt="" class="image" />
+              <div class="card__header">
+                <h2 class="card__text">{{post.title}}</h2>
+                <p class="card__summary">{{post.summary}}</p>
+              </div>
+            </div>
+          </a>
+            
+        </div>
+      </div>
+      {% endfor %}
+      </div>
   </div>
-</div>
-
-<div class="the-most-view">
-  <h1>Lo último en en MUNDO</h1>
-  <div class="article-list grid grid--p-3">
-    {% for post in site.categories.MUNDO limit:3 %}
-    <div class="cell cell--12 cell--md-6 cell--lg-4">
-      <div class="card card--flat">
-        <div class="card__image">
-          <img src="{{ post.cover }}" alt="" class="image" />
-          <div class="card__header">
-            <a href="{{ site.baseurl }}{{ post.url }}"></a>
-            <h2 class="card__text">{{post.title}}</h2>
-            <p class="card__summary">{{post.summary}}</p>
-
+  
+  
+  <div class="section-cat folclore">
+    <div class="header-cat">
+      <h1 class="article__text">MEXICANISIMOS</h1>
+     </div>
+    <div class="article-list grid grid--p-3">
+      {% assign sortedPosts = site.categories.MEXICANISIMOS | sort: "title" %}
+      {% for post in sortedPosts limit:3 %}
+      <div class="cell cell--12 cell--md-6 cell--lg-4">
+        <div class="card card--flat">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+  
+            <div class="card__image">
+              <img src="{{ post.cover }}" alt="" class="image" />
+              <div class="card__header">
+                <h2 class="card__text">{{post.title}}</h2>
+                <p class="card__summary">{{post.summary}}</p>
+              </div>
+            </div>
+          </a>
+            
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="footer-cat">
+      <a href="{{site.baseurl}}categories/folclore.html" class="btn-cat">Mas notas relacionadas</a>
+    </div>
+  </div>
+  
+  <div class="the-most-view">
+    <h1>Lo último en MEXICANISIMOS</h1>
+    <div class="article-list grid grid--p-3">
+      {% for post in site.categories.MEXICANISIMOS limit:3 %}
+      <div class="cell cell--12 cell--md-6 cell--lg-4">
+        <div class="card card--flat">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+  
+            <div class="card__image">
+              <img src="{{ post.cover }}" alt="" class="image" />
+              <div class="card__header">
+                <h2 class="card__text">{{post.title}}</h2>
+                <p class="card__summary">{{post.summary}}</p>
+              </div>
+            </div>
+          </a>
+  
+        </div>
+      </div>
+      {% endfor %}
+      </div>
+  </div>
+  
+  
+  <div class="section-cat mundo">
+    <div class="header-cat">
+      <h1 class="article__text">MUNDO</h1>
+     </div>
+    <div class="article-list grid grid--p-3">
+      {% for post in site.categories.MUNDO limit:3 %}
+      <div class="cell cell--12 cell--md-6 cell--lg-4">
+        <div class="card card--flat">
+          <div class="card__image">
+            <img src="{{ post.cover }}" alt="" class="image" />
+            <div class="card__header">
+              <a href="{{ site.baseurl }}{{ post.url }}"></a>
+              <h2 class="card__text">{{post.title}}</h2>
+              <p class="card__summary">{{post.summary}}</p>
+  
+            </div>
           </div>
         </div>
       </div>
+      {% endfor %}
     </div>
-    {% endfor %}
+    <div class="footer-cat">
+      <a href="{{site.baseurl}}categories/elmundo.html" class="btn-cat">Mas notas relacionadas</a>
     </div>
+  </div>
+  
+  <div class="the-most-view">
+    <h1>Lo último en en MUNDO</h1>
+    <div class="article-list grid grid--p-3">
+      {% for post in site.categories.MUNDO limit:3 %}
+      <div class="cell cell--12 cell--md-6 cell--lg-4">
+        <div class="card card--flat">
+          <div class="card__image">
+            <img src="{{ post.cover }}" alt="" class="image" />
+            <div class="card__header">
+              <a href="{{ site.baseurl }}{{ post.url }}"></a>
+              <h2 class="card__text">{{post.title}}</h2>
+              <p class="card__summary">{{post.summary}}</p>
+  
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+      </div>
+  </div>
 </div>

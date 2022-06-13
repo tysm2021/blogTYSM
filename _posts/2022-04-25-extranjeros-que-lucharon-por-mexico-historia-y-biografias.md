@@ -17,7 +17,7 @@ sharing: true
 title: 'Extranjeros que lucharon por México: historia y biografías'
 author: Francisco Massé
 cover: "/images/2022-04-25-batallonsanpatricio.png"
-tags: historia extranjeros independencia revolucion
+tags: historia extranjeros independencia revolucion prehispanico
 show_author_profile: false
 comment: false
 summary: 'Nuestra historia no sólo tiene héroes mexicanos: también algunos extranjeros

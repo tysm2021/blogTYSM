@@ -1,5 +1,5 @@
 ---
-categories: CULTURA
+
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -21,7 +21,7 @@ show_author_profile: false
 comment: false
 summary: 'Estos actores, actrices y cantantes hicieron historia y siguen vivos: por
   eso decimos que son los más grandes.'
-subcategorie: CULTURAPOPULAR
+categories: CULTURA
 
 ---
 En redes sociales circulan muchos chistes y memes sobre la supuesta inmortalidad de "Chabelo", adjudicándole una muy avanzada edad. Pero, ya hablando en serio y tomando en cuenta cuántos años tienen, ¿quiénes son los actores y las actrices mexicanas más longevos y cuáles son sus edades?
