@@ -185,7 +185,7 @@ show_date: true
         {%- if _full_width == false -%}
           <div class ="main container">
         {%- endif -%}
-            <div class="grid grid--reverse">
+            <div class="grid grid--reverse ">
 
               <div class="col-aside d-print-none js-col-aside">
                 {%- if page.aside -%}
@@ -197,10 +197,10 @@ show_date: true
 
               </div>
 
-              <div class="col-main cell cell--auto">
+              <div class="col-main cell cell--auto ">
                 {%- include main/top/custom.html -%}
                 {%- if _page_type == 'article' -%}
-                  <article itemscope itemtype="http://schema.org/Article">
+                  <article itemscope itemtype="http://schema.org/Article" class="high">
                 {%- elsif _page_type == 'webpage' -%}
                   <article itemscope itemtype="http://schema.org/WebPage">
                 {%- else -%}

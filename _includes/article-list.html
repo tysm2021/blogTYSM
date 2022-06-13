@@ -124,24 +124,26 @@
         </div>
       {%- else -%}
 
-        <div class="cell cell--12 cell--md-6 cell--lg-4 child">
-          <div class="card card--flat">
-            {%- if _article.cover -%}
-            <div class="card__image">
-              <img src="{{ _article_cover }}" />
-              <div class="card__header">
-                <a href="{{ _article_url }}">
-                  <h2 class="card__text">{{ _article.title }}</h2>
-                  <p class="card__summary">{{_article.summary}}</p>
-                </a>
-              </div>
-              <small class="card__text-small">{{_article.categories}}</small>
-              
-              </div>
-            {%- endif -%}
-             
+
+          <div class="cell cell--12 cell--md-6 cell--lg-4 child">
+            <div class="card card--flat">
+              <a href="{{ _article_url }}">
+              {%- if _article.cover -%}
+              <div class="card__image">
+                <img src="{{ _article_cover }}" />
+                <div class="card__header">
+                    <h2 class="card__text">{{ _article.title }}</h2>
+                    <p class="card__summary">{{_article.summary}}</p>
+                  </div>
+                  <small class="card__text-small">{{_article.categories}}</small>
+                  
+                </div>
+                {%- endif -%}
+              </a>
+               
+            </div>
           </div>
-        </div>
+   
       {%- endif -%}
     {%- endif -%}
   {%- endfor -%}

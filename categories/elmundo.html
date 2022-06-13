@@ -49,28 +49,27 @@ layout: base
     </div>
 </div>
 
-
-
 <div class="page__main-inner">
-    <div class="page__content">
-        <div class="main container">        
-            <div class=" article-list grid grid--p-3 m-5">
-                {% for post in site.categories.MUNDO %}
-                <div class="cell cell--12 cell--md-6 cell--lg-4">
-                    <div class="card card--flat">
-                        <div class="card__image">
-                            <img src="{{ post.cover }}" alt="" class="image">
-                            <div class="card__header">
-                                <a href="{{ site.baseurl }}{{ post.url }}"></a>
-                                <h2 class="card__text">{{post.title}}</h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
+  <div class="page__content">
+      <div class="main container">        
+          <div class=" article-list grid grid--p-3 p-5">
+              {% for post in site.categories.MUNDO %}
+              <div class="cell cell--12 cell--md-6 cell--lg-4">
+                  <div class="card card--flat">
+                      <div class="card__image">
+                          <img src="{{ post.cover }}" alt="" class="image">
+                          <div class="card__header">
+                              <a href="{{ site.baseurl }}{{ post.url }}"></a>
+                              <h2 class="card__text">{{post.title}}</h2>
+                              <p class="card__summary">{{post.summary}}</p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              {% endfor %}
+          </div>
+      </div>
+  </div>
 
   
     <script>{%- include scripts/lib/modal.js -%}</script>
