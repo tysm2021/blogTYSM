@@ -31,7 +31,11 @@ TE RECOMENDAMOS:
 
 ## Guanajuato
 
-La ciudad colonial por excelencia.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Teatro_Juarez%2C_Guanajuato.jpg/1024px-Teatro_Juarez%2C_Guanajuato.jpg)
+
+La **ciudad colonial** por excelencia. Aunque durante los tiempos prehispánicos ya había un asentamiento en el lugar de la actual ciudad, su mayor crecimiento tuvo lugar durante el auge minero y alcanzó un gran desarrollo debido a la explotación de sus minas de oro y de plata. Su nombre significa, en purépecha, "lugar montuoso de ranas" y es una **ciudad** que aún conserva un romántico sabor a antiguo que resulta palpable cuando uno recorre sus callejones durante la noche.
+
+Además, tiene una gran importancia histórica, pues jugó un papel importante durante la guerra de Independencia. Los lugares que uno no debe perderse son: el Museo Regional de Guanajuato, ubicado en la **Alhóndiga de Granaditas**; la **Universidad de Guanajuato** y sus famosas escalinatas, el **Teatro Juárez**, la **Plaza de la Paz** y la Basílica Colegiata de Nuestra Señora de Guanajuato, el Templo de San Diego, la **plazuela del Baratillo** y el Monumento al **Pípila**.
 
 ## Zacatecas
 
