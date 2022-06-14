@@ -55,7 +55,7 @@ En el teatro, su obra más conocida es _Los empeños de una casa_, una comedia d
 
 La lírica conforma la mitad de toda la **producción literaria** de **Sor Juana** y abarcó diversas formas poéticas: poemas amorosos, sonetos, poemas de amistad o cortesanos dedicados a la virreina, así como composiciones ocasionales para hechos destacados o personajes de la época. Aquí algunas muestras:
 
-#### En perseguirme, Mundo, ¿qué interesas?
+### En perseguirme, Mundo, ¿qué interesas?
 
 En perseguirme, Mundo, ¿qué interesas?  
 ¿En qué te ofendo, cuando sólo intento  
@@ -75,7 +75,7 @@ teniendo por mejor, en mis verdades,
 consumir vanidades de la vida  
 que consumir la vida en vanidades.
 
-#### Esta tarde, mi bien, cuando te hablaba
+### Esta tarde, mi bien, cuando te hablaba
 
 Esta tarde, mi bien, cuando te hablaba,  
 como en tu rostro y en tus acciones vía  
@@ -95,7 +95,7 @@ con sombras necias, con indicios vanos:
 pues ya en líquido humor viste y tocaste  
 mi corazón deshecho entre tus manos.
 
-#### Hombres necios
+### Hombres necios
 
 Hombres necios que acusáis  
 a la mujer sin razón,  
