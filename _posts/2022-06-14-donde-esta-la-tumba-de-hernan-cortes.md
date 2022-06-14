@@ -12,7 +12,7 @@ article_header:
   background_color: "#203028"
   background_image:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
-    src: "/images/2022-06-14-cortes-_la_llegada.jpeg"
+    src: "/images/2022-06-14-corteshernan.jpg"
 sharing: true
 title: "¿Dónde está la tumba de Hernán Cortés?"
 summary: "¿Tienes idea de dónde quedaron los restos del conquistador español, luego
