@@ -39,9 +39,11 @@ Además, tiene una gran importancia histórica, pues jugó un papel importante d
 
 ## Zacatecas
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/CISOL_2017_-_43.jpg/1024px-CISOL_2017_-_43.jpg)
+
 El centro geográfico exacto de la República Mexicana. Esta ciudad también tuvo su origen en el auge minero durante el Virreinato, pues fue fundada en 1546 a raíz del descubrimiento de yacimientos de plata en la región, por parte de Juan de Tolosa. Su nombre se refiere a una tribu chichimeca que habitaba en las cercanías del Cerro de la Bufa y eran llamados con la palabra náhuatl **zacateca**, que significa "gente de la tierra donde abunda el zacate".
 
-**Zacatecas** es una ciudad donde abundan las calles alargadas, los edificios elaborados con cantera rosa y donde el estilo churrigueresco alcanzó su punto máximo en México, expresando su belleza en la catedral de la ciudad. 
+**Zacatecas** es una ciudad donde abundan las calles alargadas, los edificios elaborados con cantera rosa y donde el estilo churrigueresco alcanzó su punto máximo en México, expresando su belleza en la **Catedral Basílica** de la ciudad. Además de este edificio, hay que conocer: el **cerro de la Bufa**, su mirador y el teleférico que lo conecta con el cerro del Grillo y con la **mina 'El Edén'**, donde existe una discoteca; los **museos** **Pedro Coronel** y **Rafael Coronel**, el museo Francisco Goitia y el Museo de Arte Abstracto Manuel Felguérez; el Palacio de la Mala Noche, la **Plaza de Armas** y el Templo de Nuestra Señora de Fátima.
 
 ## Morelia
 
