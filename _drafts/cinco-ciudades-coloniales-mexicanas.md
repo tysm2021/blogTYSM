@@ -23,3 +23,28 @@ show_author_profile: false
 comment: false
 
 ---
+En América Latina, se le llama "**ciudad colonial**" a un centro urbano construido durante los tres siglos de dominación española, del XVI al XVIII. Y en **México** tenemos varios ejemplos de **ciudades coloniales** que, por su **historia** y atractivos **turísticos**, vale la pena visitar.
+
+A continuación, un breve resumen sobre qué hacer en las **ciudades coloniales** de Guanajuato, Zacatecas, Morelia, San Luis Potosí y Puebla.
+
+TE RECOMENDAMOS:
+
+## Guanajuato
+
+La ciudad colonial por excelencia.
+
+## Zacatecas
+
+El centro geográfico exacto de la República Mexicana. 
+
+## Morelia
+
+Capital de Michoacán, llena de cultura y dulces sabores.
+
+## San Luis Potosí
+
+Una ciudad que nació gracias al auge minero.
+
+## Puebla
+
+Una urbe que inició con un sueño. 
