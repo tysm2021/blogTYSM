@@ -39,4 +39,14 @@ Entonces, el primero de sus múltiples entierros tuvo lugar en el monasterio de 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Templo_del_hospitald_de_jesus.jpg/1024px-Templo_del_hospitald_de_jesus.jpg)
 
-Así fue que la **Iglesia de Jesús Nazareno** —actualmente ubicada en la esquina de las calles de República del Salvador y Pino Suárez, donde supuestamente tuvo lugar el primer encuentro de Cortés con Moctezuma— fue elegida para ser el último descanso del conquistador, quien fue nuevamente sepultado enmedio de una gran ceremonia en la que su tumba se coronó con un busto de "don Hernando".
+Así fue que la **Iglesia de Jesús Nazareno** —actualmente ubicada en la esquina de las calles de República del Salvador y Pino Suárez, donde supuestamente tuvo lugar el primer encuentro de Cortés con Moctezuma— fue elegida para ser el último descanso del conquistador, quien fue nuevamente sepultado enmedio de una gran ceremonia en la que su tumba se coronó con un mausoleo y, en el medio, con un busto de "don Hernando". 
+
+En ese sitio permanecería casi treinta años. No obstante, los vientos de libertad ya soplaban en lo que fuera una colonia española, y en 1821 se consumó oficialmente la Independencia política de nuestro país. Dos años después, un encendido fervor nacionalista en la recién nacida nación hizo temer que el sepulcro de Hernán Cortés, uno de los símbolos más claros de la opresión española, fuera blanco de un ataque de vandalismo, de saqueo o que se intentara profanarla.
+
+Por eso, el 15 de septiembre de 1823 el ministro mexicano Lucas Alamán y el capellán del hospital desmantelaron el mausoleo y escondieron la osamenta debajo de una tarima del Templo del Hospital de Jesús, enviando el busto y los ornatos a Italia para hacer creer a los agitadores que los restos de Hernán Cortés habían salido de México. Debajo de ese escondite de madera quedaron otros trece años.
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg)
+
+En 1836, ya pasados los ánimos independentistas que amenazaban la integridad del sepulcro, Lucas Alamán regresó los restos de Cortés a la Iglesia de Jesús Nazareno, colocándolos en un nicho en la pared e informando a la Embajada Española del entierro clandestino. El secreto fue guardado celosamente durante 110 años hasta 1946, cuando un trabajador de la Embajada filtró los documentos y se comprobó la identidad de quien ahí estaba enterrado.
+
+Hoy, **Hernán Cortés**, el conquistador de México, descansa ahí, en un modesto nicho en una pared de una modesta iglesia, sin más distintivo que una placa metálica colocada por el Gobierno de México, quien entregó la custodia de los restos al Instituto Nacional de Antropología e Historia. Y tú, ¿conoces **la tumba de Cortés**?…
