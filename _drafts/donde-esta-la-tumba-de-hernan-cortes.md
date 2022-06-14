@@ -29,8 +29,14 @@ A continuación te compartimos un breve recuento de los distintos lugares por do
 
 TE PUEDE INTERESAR:
 
-La historia nos cuenta que en 1541, veinte años después de haber consumado la conquista de México-Tenochtitlan, Hernán Cortés regresó a España con la intención de volver un día, pero la muerte lo sorprendió el 2 de diciembre de 1547 en una casa palacio que era propiedad de un amigo suyo, don Alonso Rodríguez, y que hasta el día de hoy está ubicada en Castilleja de la Cuesta, Sevilla.
+La historia nos cuenta que en 1541, veinte años después de haber consumado la conquista de México-Tenochtitlan, Hernán **Cortés** regresó a España con la intención de volver un día, pero la muerte lo sorprendió el 2 de diciembre de 1547 en una casa palacio que era propiedad de un amigo suyo, don Alonso Rodríguez, y que hasta el día de hoy está ubicada en **Castilleja de la Cuesta**, Sevilla.
 
-Cortés había cambiado en su testamento el lugar donde deseaba ser sepultado: si bien cuando vivía en la Nueva España había solicitado que sus restos fueran depositados en la Parroquia de Jesús Nazareno —contigua al Hospital de Jesús que él mismo había fundado— y después cambió su voluntad en favor de un convento en Coyoacán que nunca se construyó, poco antes de morir indicó que su voluntad era ser sepultado en la parroquia de la localidad donde muriera.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Castillo_de_Hern%C3%A1n_Cort%C3%A9s.JPG/1024px-Castillo_de_Hern%C3%A1n_Cort%C3%A9s.JPG)
 
-Así el primero
+**Cortés** había cambiado en su testamento el lugar donde deseaba ser sepultado: si bien cuando vivía en la Nueva España había solicitado que sus restos fueran depositados en la **Iglesia de Jesús Nazareno** —contigua al Hospital de Jesús que él mismo había fundado— y después cambió su voluntad en favor de un convento en Coyoacán que nunca se construyó, poco antes de morir indicó que su voluntad era ser sepultado en la parroquia de la localidad donde muriera.
+
+Entonces, el primero de sus múltiples entierros tuvo lugar en el monasterio de San Isidoro del Campo, muy cerca del lugar de su fallecimiento. Pero, en 1566, por decisión familiar los **restos** de **Cortés** fueron trasladados a la Nueva España y enterrados en el **Templo de San Francisco de Texcoco**, ubicado en dicha localidad del Estado de México. Luego de varias exhumaciones y traslados dentro de la misma propiedad, ahí permanecieron hasta 1794, año en que se decidió cumplir la voluntad del conquistador de ser enterrado en la iglesia contigua al Hospital de Jesús.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Templo_del_hospitald_de_jesus.jpg/1024px-Templo_del_hospitald_de_jesus.jpg)
+
+Así fue que la **Iglesia de Jesús Nazareno** —actualmente ubicada en la esquina de las calles de República del Salvador y Pino Suárez, donde supuestamente tuvo lugar el primer encuentro de Cortés con Moctezuma— fue elegida para ser el último descanso del conquistador, quien fue nuevamente sepultado enmedio de una gran ceremonia en la que su tumba se coronó con un busto de "don Hernando".
