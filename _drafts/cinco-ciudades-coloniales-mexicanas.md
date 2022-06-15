@@ -55,8 +55,16 @@ Los principales atractivos turísticos de la capital michoacana son: la **Catedr
 
 ## San Luis Potosí
 
-Una ciudad que nació gracias al auge minero.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Catedral_SLP_cielo.jpg/1024px-Catedral_SLP_cielo.jpg)
+
+Una ciudad que nació gracias al auge minero. Fue fundada en 1592 y su nombre está dedicado a **San Luis** rey de Francia y hace referencia a las ricas minas del **Potosí**, en Bolivia, por los yacimientos de oro y plata que se encontraron en el vecino cerro de San Pedro. 
+
+En su centro histórico, que fue declarado Patrimonio de la Humanidad por la UNESCO, uno puede visitar: la Plaza de Armas, donde se encuentran la **Catedral** y el Palacio de Gobierno; la **Iglesia de San Francisco** y su jardín aledaño, y a la vuelta está el **Museo Regional Potosino**, construcción religiosa que cuenta con la única capilla en planta alta de México: la **capilla de Aranzazú**; la Plaza Fundadores; el **Teatro de la Paz** y el **Museo Nacional de la Máscara**, el **Museo del Virreinato** y el **Museo Leonora Carrington**.
 
 ## Puebla
 
-Una urbe que inició con un sueño. 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Catedral_de_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_15.JPG/793px-Catedral_de_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_15.JPG)
+
+Una urbe que inició con un sueño. La leyenda dice que los ángeles se comunicaron en sueños con Julián Garcés, primer obispo de Tlaxcala, y le señalaron el lugar donde había de fundarse la nueva ciudad, que era el punto intermedio entre la Ciudad de México y el puerto de Veracruz. Por eso se le llama "Puebla de los Ángeles", aunque actualmente su nombre oficial es Heroica Puebla de Zaragoza, en virtud de la batalla en que el general salió triunfante al enfrentar a los invasores franceses.
+
+El centro histórico poblano —catalogado como Patrimonio de la Humanidad por la UNESCO— tiene un sinfín de atractivos para el visitante: desde su Catedral, una de las más bellas del país, pasando por la Iglesia de
