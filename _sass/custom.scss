@@ -2,11 +2,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@300;800&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&family=Libre+Caslon+Text:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&display=swap');
+
 
 * {
   // font-family: "Catamaran", sans-serif;
   //  font-family: 'Libre Caslon Text', serif;
    font-family: 'Comfortaa', cursive;
+}
+
+p{
+  font-family: 'Libre Caslon Text', serif;
 }
 
 .container,
@@ -1485,7 +1491,7 @@ $mundo: url("https://th.bing.com/th/id/R.46806354e4c4e8e1f2da8ef742e56e80?rik=A%
   position: absolute;
   bottom: 0px;
   padding: 25% 0% 0%;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 70%) !important;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 50%) !important;
   width: 100%;
   border-radius: 10px;
 }
@@ -2120,13 +2126,30 @@ p{
 
 
 .hero h1 {
-  font-size: 3.5rem;
+ 
   line-height: 1.5em;
 
 }
 
 .article__header--overlay .overlay__excerpt {
-  font-size: 2rem;
+
   font-weight: 700;
   line-height: 1.5em;
+}
+
+
+
+.p-5{
+  padding: 2em 0;
+}
+
+
+.list-view a, .list-view a:link, .list-view a:visited, .list-view a:hover {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+
+.list-view ul{
+  list-style: none;
 }

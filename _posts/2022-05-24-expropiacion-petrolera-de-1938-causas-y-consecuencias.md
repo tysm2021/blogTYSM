@@ -16,7 +16,7 @@ article_header:
     src: "/images/2022-04-26-presidente_lazaro_cardenas_reunido_con_sindicato_obrero_veracruzano_en_1938.jpeg"
 sharing: true
 title: 'Expropiación Petrolera de 1938: causas y consecuencias'
-summary: oooooooooooooooooooooooooooooooooo,
+summary: summary
 cover: "/images/2022-04-26-presidente_lazaro_cardenas_reunido_con_sindicato_obrero_veracruzano_en_1938.jpeg"
 tags: prueba ejemplo
 show_author_profile: false
