@@ -38,3 +38,7 @@ El principio es muy sencillo: la unidad **SHU** expresa la cantidad de partes de
 ![](/images/2022-06-15-jalapenos-1320629_1280.jpeg)
 
 Después de esta explicación, ahora sí vamos a **los chiles más picantes**. Empezaremos con los más suavecitos y terminaremos con los más **picosos**. ¡Empezamos!
+
+### Los que no pican
+
+La escala arranca con los **pimientos morrones**, verdes, amarillos, naranjas o rojos, según su grado de maduración, los cuales tienen de 0 a 100 unidades SHU; les siguen los **chiles poblanos,** que normalmente comemos en rajas o rellenos —son los proverbiales chiles en nogada, nada menos— con entre 1000 y 2000 unidades SHU.
