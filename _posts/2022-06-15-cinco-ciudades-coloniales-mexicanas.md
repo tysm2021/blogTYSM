@@ -25,7 +25,7 @@ comment: false
 ---
 En América Latina, se le llama "**ciudad colonial**" a un centro urbano construido durante los tres siglos de dominación española, del XVI al XVIII. Y en **México** tenemos varios ejemplos de **ciudades coloniales** que, por su **historia** y atractivos **turísticos**, vale la pena visitar.
 
-A continuación, un breve resumen sobre qué hacer en las **ciudades coloniales** de Guanajuato, Zacatecas, Morelia, San Luis Potosí y Puebla.
+A continuación, un breve resumen sobre qué hacer en las hermosas **ciudades coloniales** de Guanajuato, Zacatecas, Morelia, San Luis Potosí y Puebla.
 
 TE RECOMENDAMOS:
 
@@ -57,7 +57,7 @@ Los principales atractivos turísticos de la capital michoacana son: la **Catedr
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Catedral_SLP_cielo.jpg/1024px-Catedral_SLP_cielo.jpg)
 
-Una ciudad que nació gracias al auge minero. Fue fundada en 1592 y su nombre está dedicado a **San Luis** rey de Francia y hace referencia a las ricas minas del **Potosí**, en Bolivia, por los yacimientos de oro y plata que se encontraron en el vecino cerro de San Pedro. 
+Una ciudad que nació gracias al auge minero. Fue fundada en 1592 y su nombre está dedicado a **San Luis** rey de Francia y hace referencia a las ricas minas del **Potosí**, en Bolivia, por los yacimientos de oro y plata que se encontraron en el vecino cerro de San Pedro.
 
 En su centro histórico, que fue declarado Patrimonio de la Humanidad por la UNESCO, uno puede visitar: la Plaza de Armas, donde se encuentran la **Catedral** y el Palacio de Gobierno; la **Iglesia de San Francisco** y su jardín aledaño, y a la vuelta está el **Museo Regional Potosino**, construcción religiosa que cuenta con la única capilla en planta alta de México: la **capilla de Aranzazú**; la Plaza Fundadores; el **Teatro de la Paz** y el **Museo Nacional de la Máscara**, el **Museo del Virreinato** y el **Museo Leonora Carrington**.
 
