@@ -47,7 +47,11 @@ El centro geográfico exacto de la República Mexicana. Esta ciudad también tuv
 
 ## Morelia
 
-Capital de Michoacán, llena de cultura y dulces sabores.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Catedral_de_Morelia_vista_de_noche.jpg/768px-Catedral_de_Morelia_vista_de_noche.jpg)
+
+Capital de Michoacán, llena de cultura y dulces sabores. Originalmente recibía el nombre de **Valladolid**, pero en 1828 se le cambió el nombre en honor al insurgente **José María Morelos y Pavón**, quien era oriundo de la ciudad. Actualmente es una ciudad llena de vida cultural, cuyo centro histórico fue declarado Patrimonio de la Humanidad por la UNESCO por su belleza y unidad arquitectónica.
+
+Los principales atractivos turísticos de la capital michoacana son: la **Catedral**, con sus impresionantes torres que son de las más altas del continente americano dentro del estilo barroco; el **Antiguo Templo de la Compañía de Jesús** y otras iglesias de los siglos XVIII y XIX; el **Palacio de Gobierno** y el **Colegio de San Nicolás**, donde estudió y fue rector Miguel Hidalgo y Costilla; las casas natales de Morelos, Iturbide y doña Josefa; el Museo Regional Michoacano, la Fuente de las Tarascas, el Teatro Ocampo, el acueducto y, para los golosos, el Museo del Dulce.
 
 ## San Luis Potosí
 
