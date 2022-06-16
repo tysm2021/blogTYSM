@@ -15,7 +15,7 @@ article_header:
     src: "/images/2022-06-16-all_gizah_pyramids.jpeg"
 sharing: true
 title: Pirámides más altas del mundo
-summary: "¿Sabías que, detrás de las egipicias, dos pirámides mexicanas están entre
+summary: "¿Sabías que, detrás de las egipicias, tres pirámides mexicanas están entre
   las más altas del mundo?"
 cover: "/images/2022-06-16-all_gizah_pyramids.jpeg"
 tags: países arqueología historia
@@ -61,7 +61,13 @@ Dahshur es una antigua necrópolis real —es decir, un lugar donde se enterraba
 
 Muy cerca de la Pirámide Roja se encuentra esta construcción piramidal que fue ordenada por el faraón Seneferu. Recibe ese nombre porque su parte superior se levanta a un ángulo más inclinado del de la base, lo que le da una peculiar apariencia. Es sólo unos cuantos centímetros menos alta que su vecina.
 
-Pirámide de Toniná (Chiapas, México) 75 m
+## Pirámide de Toniná
+
+**Chiapas, México (75 m)**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Templo_Mayor_Tonin%C3%A1_1.jpg/1024px-Templo_Mayor_Tonin%C3%A1_1.jpg)
+
+El sitio arqueológico de **Toniná** se encuentra a unos 13 kilómetros de Ocosingo, en el sureste mexicano. Fue construido por los mayas entre los siglos VI y X de nuestra era, y en él se han encontrado numerosas inscripciones jeroglíficas. La pirámide en cuestión se encuentra semi enterrada en la espesura de la selva, pero por su altura es la más alta del continente americano.
 
 La Danta (Petén, Guatemala) 72 m
 
