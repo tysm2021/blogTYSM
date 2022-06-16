@@ -23,3 +23,10 @@ show_author_profile: false
 comment: false
 
 ---
+En **México**, se celebra el **Día del Estudiante** cada **23 de mayo**, debido a un hecho violento que tuvo **origen** en el año de 1929, cuando mediante diversas movilizaciones los **estudiantes** de entonces buscaban la autonomía universitaria.
+
+Todo empezó en la **Universidad Nacional de México**, actualmente autónoma y que por ello recibe el nombre de UNAM, siendo la más grande de América Latina. Conozcamos esta **historia**:
+
+TE RECOMENDAMOS: 
+
+Según la Comisión Nacional de Derechos Humanos (CNDH), 
