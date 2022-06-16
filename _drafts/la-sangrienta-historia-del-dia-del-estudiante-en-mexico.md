@@ -29,4 +29,10 @@ Todo empezó en la **Universidad Nacional de México**, actualmente autónoma y 
 
 TE RECOMENDAMOS: 
 
-Según la Comisión Nacional de Derechos Humanos (CNDH), 
+Según la Comisión Nacional de Derechos Humanos (CNDH), todo comenzó el 22 de septiembre de 1910, cuando por mandato del presidente Porfirio Díaz se inauguró la **Universidad Nacional de México**. Hasta 1929, el ministro de Instrucción Pública del país fungía como jefe de la universidad, cuyo rector era nombrado por el presidente.
+
+En ese año, por un lado los **estudiantes** se organizaron en comités y en una federación, y por su parte las autoridades decidieron aumentar un año a la educación preparatoria y cambiar los exámenes profesionales en la Facultad de Derecho. Esto provocó la inconformidad de los **estudiantes**, quienes intentaron negociar con las autoridades, pero éstas se negaron.
+
+Ante la negativa, el 5 de mayo de 1929 los **estudiantes** colocaron la bandera rojinegra en la **Facultad de Derecho**; dos días después pero por órdenes del entonces presidente, Emilio Portes Gil, el rector clausuró la factultad. Fue el 9 de mayo que la huelga estudiantil fue declarada oficialmente.
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy celebramos el <a href="https://twitter.com/hashtag/D%C3%ADadelEstudiante?src=hash&amp;ref_src=twsrc%5Etfw">#DíadelEstudiante</a> en reconocimiento a las protestas que se realizaron el 23 de mayo de 1929 por la autonomía universitaria <a href="https://t.co/7ihr67HajR">pic.twitter.com/7ihr67HajR</a></p>&mdash; UNAMdigital (@UNAMdigital) <a href="https://twitter.com/UNAMdigital/status/867033450041266176?ref_src=twsrc%5Etfw">May 23, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+La tensión escaló y poco después se declaró la huelga general.
