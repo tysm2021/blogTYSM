@@ -28,7 +28,7 @@
   position: absolute;
   bottom:0;
   padding: 25% 0% 0%;
-  background: linear-gradient(to bottom,rgba(0,0,0,0) 0%,rgba(0,0,0,.8) 50%)!important;
+background:  linear-gradient(to bottom,rgba(0,0,0, 0) 20%,rgba(0,0,0,1) 100%)!important;
   width: 100%;
   border-radius: 8px;
 
@@ -37,9 +37,11 @@
 
 .card__text{
   position: absolute;
-  bottom:40px;
-  left: 10px;
-  color: #fff;
+  bottom:32px;
+  width: 100%;
+  padding: 0 10px 1px 10px;
+  background: linear-gradient(to bottom,rgba(0,0,0, 0.1) 0%,rgba(0,0,0,1) 60%)!important;
+  color: #fFff00;
   font-size: 18px;
   line-height: 20px;
   
@@ -47,8 +49,10 @@
 
 .card__summary{
   position: absolute;
-  bottom:3px;
-  left: 10px;
+  bottom:0px;
+  width: 100%;
+  padding: 0 10px 2px 10px;
+  background: #000000;
   color: #fff;
   font-size: 15px;
   line-height: 15px;
