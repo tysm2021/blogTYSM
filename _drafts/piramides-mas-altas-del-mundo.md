@@ -35,13 +35,28 @@ TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kheops-Pyramid.jpg/1024px-Kheops-Pyramid.jpg)
 
-Esta joya de la arquitectura antigua es la tumba del faraón **Keops** o Jufú, quien ordenó su construcción, la cual se calcula que terminó alrededor del año 2570 a.C. Junto a ella están también las pirámides de Kefrén y Micerino, las cuales no alcanzan a entrar en este conteo.
+Esta joya de la arquitectura antigua es la tumba del faraón **Keops** o Jufú, quien ordenó su construcción, la cual se calcula que terminó alrededor del año 2570 a.C. Junto a ella también se encuentran otras pirámides, una de las cuales alcanzó a entrar en este conteo…
 
-1. Gran Pirámide (Guiza, Egipto) **138.5 m**
-2. Pirámide de Kefrén (Guiza, Egipto) **136.4 m**
-3. Pirámide Roja (Dahshur, Egipto) **105 m**
-4. Pirámide Acodada (Dahshur, Egipto) **104.7 m**
-5. **Pirámide de Toniná (Chiapas, México) 75 m**
-6. La Danta (Petén, Guatemala) **72 m**
-7. **Pirámide de Cholula (Puebla, México) 66 m**
-8. **Pirámide del Sol (Teotihuacán, México) 65.5 m**
+## Pirámide de Kefrén
+
+**Guiza, Egipto (136.4 m)**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pyramid_of_Khafre_and_Sphinx%2C_Giza%2C_Greater_Cairo%2C_Egypt.jpg/1024px-Pyramid_of_Khafre_and_Sphinx%2C_Giza%2C_Greater_Cairo%2C_Egypt.jpg)
+
+Ubicada junto a la Gran Pirámide de Keops, se encuentra esta otra edificación milenaria, dedicada al faraón que llevó ese nombre y reinó en el antiguo Egipto entre los años 2558 y 2532 a.C. Quienes la conocen dicen que parece ser más alta que su vecina porque fue edificada en una superficie 10 metros arriba del piso de la de Keops.
+
+## Pirámide Roja
+
+**Dahshur, Egipto (105 m)**
+
+Dahshur es una antigua necrópolis real —es decir, un lugar donde se enterraba a los gobernantes— que se encuentra a 40 kilómetros al sur de El Cairo.
+
+Pirámide Acodada (Dahshur, Egipto) 104.7 m
+
+Pirámide de Toniná (Chiapas, México) 75 m
+
+La Danta (Petén, Guatemala) 72 m
+
+Pirámide de Cholula (Puebla, México) 66 m
+
+Pirámide del Sol (Teotihuacán, México) 65.5 m
