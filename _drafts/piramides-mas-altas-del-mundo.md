@@ -53,7 +53,13 @@ Ubicada junto a la Gran Pirámide de Keops, se encuentra esta otra edificación 
 
 Dahshur es una antigua necrópolis real —es decir, un lugar donde se enterraba a los gobernantes— que se encuentra a 40 kilómetros al sur de El Cairo. Y en este sitio se encuentra la **Pirámide Roja**, llamada así por el aspecto rojizo que le da el material usado en su construcción, el cual empezó a mostrarse luego de que la piedra caliza que lo recubría fue saqueada para construir edificios en las ciudades vecinas.
 
-Pirámide Acodada (Dahshur, Egipto) 104.7 m
+## Pirámide Acodada
+
+**Dahshur, Egipto (104.7 m)**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bent_Pyramid_%E6%9B%B2%E6%8A%98%E9%87%91%E5%AD%97%E5%A1%94_-_panoramio.jpg/1024px-Bent_Pyramid_%E6%9B%B2%E6%8A%98%E9%87%91%E5%AD%97%E5%A1%94_-_panoramio.jpg)
+
+Muy cerca de la Pirámide Roja se encuentra esta construcción piramidal que fue ordenada por el faraón Seneferu. Recibe ese nombre porque su parte superior se levanta a un ángulo más inclinado del de la base, lo que le da una peculiar apariencia. Es sólo unos cuantos centímetros menos alta que su vecina.
 
 Pirámide de Toniná (Chiapas, México) 75 m
 
