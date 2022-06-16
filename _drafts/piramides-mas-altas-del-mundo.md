@@ -49,7 +49,9 @@ Ubicada junto a la Gran Pirámide de Keops, se encuentra esta otra edificación 
 
 **Dahshur, Egipto (105 m)**
 
-Dahshur es una antigua necrópolis real —es decir, un lugar donde se enterraba a los gobernantes— que se encuentra a 40 kilómetros al sur de El Cairo.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rote_Pyramide_%28Dahschur%29_04.jpg/1023px-Rote_Pyramide_%28Dahschur%29_04.jpg)
+
+Dahshur es una antigua necrópolis real —es decir, un lugar donde se enterraba a los gobernantes— que se encuentra a 40 kilómetros al sur de El Cairo. Y en este sitio se encuentra la **Pirámide Roja**, llamada así por el aspecto rojizo que le da el material usado en su construcción, el cual empezó a mostrarse luego de que la piedra caliza que lo recubría fue saqueada para construir edificios en las ciudades vecinas.
 
 Pirámide Acodada (Dahshur, Egipto) 104.7 m
 
