@@ -69,7 +69,13 @@ Muy cerca de la Pirámide Roja se encuentra esta construcción piramidal que fue
 
 El sitio arqueológico de **Toniná** se encuentra a unos 13 kilómetros de Ocosingo, en el sureste mexicano. Fue construido por los mayas entre los siglos VI y X de nuestra era, y en él se han encontrado numerosas inscripciones jeroglíficas. La pirámide en cuestión se encuentra semi enterrada en la espesura de la selva, pero por su altura es la más alta del continente americano.
 
-La Danta (Petén, Guatemala) 72 m
+## La Danta
+
+**Petén, Guatemala (72 m)**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flickr_-_archer10_%28Dennis%29_-_Guatemala_1828_-_La_Danta_at_the_Mayan_site_of_El_Mirador.jpg/1024px-Flickr_-_archer10_%28Dennis%29_-_Guatemala_1828_-_La_Danta_at_the_Mayan_site_of_El_Mirador.jpg)
+
+Otra construcción maya, la cual se encuentra en el vecino país centroamericano dentro de la ciudad conocida como El Mirador. La pirámide forma parte de un complejo de construcciones erigidas entre los años 600 y 800 d.C. Cuando se calcula el volumen total de la pirámide con la basa de piedra en la que se construyó, los expertos dicen que es una de las estructuras más grandes del mundo antiguo.
 
 Pirámide de Cholula (Puebla, México) 66 m
 
