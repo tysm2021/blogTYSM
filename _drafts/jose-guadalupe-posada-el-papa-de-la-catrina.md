@@ -18,8 +18,13 @@ title: 'José Guadalupe Posada: el "papá" de la Catrina'
 summary: Este grabador guanajuatense que vivió a principios del siglo XX se especializó
   en la creación de calaveras para burlarse de la alta sociedad
 cover: "/images/2022-06-17-posada.jpg"
-tags: arte grabado catrina sigloxx
+tags: artes grabado catrina sigloxx
 show_author_profile: false
 comment: false
 
 ---
+Mucha gente en el mundo relaciona a la **Catrina**, esa **calavera** estilizada y elegantemente vestida, con el **arte** de **México**. Pero, ¿tú sabías que el grabador **José Guadalupe Posada** fue quien ideó la famosa figura?
+
+Hoy te platicaremos un poco de este gran artista, de su obsesión con las calaveras, de sus demás obras y de la triste forma en que halló la muerte.
+
+TE RECOMENDAMOS:
