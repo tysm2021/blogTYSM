@@ -15,7 +15,7 @@ article_header:
     src: "/images/2022-06-17-posada.jpg"
 sharing: true
 title: 'José Guadalupe Posada: el "papá" de la Catrina'
-summary: Este grabador guanajuatense que vivió a principios del siglo XX se especializó
+summary: Este grabador hidrocálido que vivió a principios del siglo XX se especializó
   en la creación de calaveras para burlarse de la alta sociedad
 cover: "/images/2022-06-17-posada.jpg"
 tags: artes grabado catrina sigloxx
@@ -28,3 +28,5 @@ Mucha gente en el mundo relaciona a la **Catrina**, esa **calavera** estilizada 
 Hoy te platicaremos un poco de este gran artista, de su obsesión con las calaveras, de sus demás obras y de la triste forma en que halló la muerte.
 
 TE RECOMENDAMOS:
+
+José Guadalupe Posada Aguilar nació el 2 de febrero de 1852 en la ciudad de Aguascalientes. 
