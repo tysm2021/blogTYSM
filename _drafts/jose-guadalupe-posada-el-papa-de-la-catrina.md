@@ -35,6 +35,8 @@ A los veinte años salió de Aguascalientes junto con su maestro, y se estableci
 
 Fue a finales de 1888 que llegó a la Ciudad de México, donde aprendió otras técnicas de grabado y empezó a colaborar en revistas como _La Patria Ilustrada_. Poco después, se asoció con el grabador **Antonio Vanegas Arroyo**, con quien hizo una magnífica y fructífera mancuerna de trabajo, pues en esa época **Posada** realizó lo mejor de su producción artística.
 
+![](https://upload.wikimedia.org/wikipedia/commons/7/74/JG_Posada_Print_shop.JPG)
+
 Las obras de **Posada** retratan la vida cotidiana de principios del siglo XX en la Ciudad de México y en la provincia, y reflejan los miedos, las creencias y las prácticas de aquella época, incluyendo los hechos espantosos y grotescos, como los terremotos y los crímenes. Pero fueron dos aspectos de su obra los que lo llevaron a ser recordado, incluso un siglo después de su muerte: la sátira política y sus famosas calaveras.
 
 A través de su obra, **Posada** hizo críticas sobre los abusos y las ineptitudes del gobierno y de las clases poderosas de su tiempo, y se opuso a la explotación que sufría el pueblo durante la última parte del Porfiriato. Las **calaveras**, por su parte, fueron un recurso humorístico del que se valió para ridiculizar a la sociedad de sus tiempos, colocándolos en situaciones cotidiana que, siendo esqueletos, resultan inverosímiles. Además, ellas son una alegoría de la extraña relación que el pueblo mexicano tiene con la muerte.
