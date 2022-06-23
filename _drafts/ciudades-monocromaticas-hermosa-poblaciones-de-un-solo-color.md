@@ -33,4 +33,4 @@ TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pink_City%2C_Jaipur%2C_India_%2821003243120%29.jpg/1024px-Pink_City%2C_Jaipur%2C_India_%2821003243120%29.jpg)
 
-Esta población forma parte la lista del Patrimonio Mundial de la UNESCO desde 2016 y, con justa razón, recibe el nombre de "la ciudad rosa". 
+Esta población forma parte la lista del Patrimonio Mundial de la UNESCO desde 2016 y, con justa razón, recibe el nombre de "la ciudad rosa". El origen de esto es que en el año 1876, bajo el reinado de **Sawai Ram Singh I**, la ciudad fue pintada de **rosa** para dar la bienvenida al príncipe Alberto Eduardo, quien después se convertiría en el rey **Alberto VII de Inglaterra** y emperador de la India. Al día de hoy, muchas construcciones permanecen pintadas de ese color y otras se han unido a la **rosada** costumbre.
