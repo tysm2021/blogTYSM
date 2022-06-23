@@ -40,3 +40,9 @@ Esta población forma parte la lista del Patrimonio Mundial de la UNESCO desde 2
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Izamal_collage.jpg/1015px-Izamal_collage.jpg)
 
 Aunque Mérida, la capital yucateca, recibe el mote de "la ciudad blanca" por el brillante color de sus calles, en esta ocasión hablaremos de este Pueblo Mágico al que por méritos propios se le llama "**ciudad amarilla**". La costumbre de pintar las casas y edificios de este color empezó a mediados del siglo XIX, cuando decayó la industria del henequén, pero adquirió impulso en 1993 con la visita del papa **Juan Pablo II**: fue entonces que el pueblo se pintó con los colores de El Vaticano, el **amarillo** y el blanco, los cuales se oficializaron en 2002.
+
+## Majaelrayo, España
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Arquitectura_negra_de_Majaelrayo02.JPG/1024px-Arquitectura_negra_de_Majaelrayo02.JPG)
+
+Esta ciudad española, ubicada en la de provincia manchega de Guadalajara, es un ejemplo de un estilo de construcción llamado "**arquitectura negra**". Viéndola mejor, se trata más bien de las gamas de grises muy oscuros, violetas, azulados, pardos, plateados o negruzcos, que provienen de las piedras de pizarra que se usan para levantar paredes y cubrir pisos y acabados. 
