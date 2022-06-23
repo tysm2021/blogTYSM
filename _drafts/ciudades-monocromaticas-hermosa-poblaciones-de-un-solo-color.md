@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+A lo largo del mundo, existen algunos pueblos y ciudades que se distinguen por un rasgo característico: en sus casas, calles y edificios predomina un solo color. Por eso, muchas veces se les llama ciudades monocromáticas, y en años recientes han llamado la atención de los turistas.
+
+Algunas veces este hecho obedece a la costumbre local o a los materiales que abundan en el entorno, mientras que en otras siguen una minuciosa planeación urbana que busca lograr una armonía visual que resulte agradable a la vista. Como sea, demos un vistazo a algunas de estas ciudades monocromáticas.
+
+TE RECOMENDAMOS:
