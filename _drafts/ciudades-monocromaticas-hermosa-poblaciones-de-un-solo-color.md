@@ -33,4 +33,10 @@ TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pink_City%2C_Jaipur%2C_India_%2821003243120%29.jpg/1024px-Pink_City%2C_Jaipur%2C_India_%2821003243120%29.jpg)
 
-Esta población forma parte la lista del Patrimonio Mundial de la UNESCO desde 2016 y, con justa razón, recibe el nombre de "la ciudad rosa". El origen de esto es que en el año 1876, bajo el reinado de **Sawai Ram Singh I**, la ciudad fue pintada de **rosa** para dar la bienvenida al príncipe Alberto Eduardo, quien después se convertiría en el rey **Alberto VII de Inglaterra** y emperador de la India. Al día de hoy, muchas construcciones permanecen pintadas de ese color y otras se han unido a la **rosada** costumbre.
+Esta población forma parte la lista del Patrimonio Mundial de la UNESCO desde 2016 y, con justa razón, recibe el nombre de "**la ciudad rosa**". El origen de esto es que en el año 1876, bajo el reinado de **Sawai Ram Singh I**, la ciudad fue pintada de **rosa** para dar la bienvenida al príncipe Alberto Eduardo, quien después se convertiría en el rey **Alberto VII de Inglaterra** y emperador de la India. Al día de hoy, muchas construcciones permanecen pintadas de ese color y otras se han unido a la **rosada** costumbre.
+
+## Izamal, Yucatán
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Izamal_collage.jpg/1015px-Izamal_collage.jpg)
+
+Aunque Mérida, la capital yucateca, recibe el mote de "la ciudad blanca" por el brillante color de sus calles, en esta ocasión hablaremos de este Pueblo Mágico al que por méritos propios se le llama "**ciudad amarilla**". La costumbre de pintar las casas y edificios de este color empezó a mediados del siglo XIX, cuando decayó la industria del henequén, pero adquirió impulso en 1993 con la visita del papa **Juan Pablo II**: fue entonces que el pueblo se pintó con los colores de El Vaticano, el **amarillo** y el blanco, los cuales se oficializaron en 2002.
