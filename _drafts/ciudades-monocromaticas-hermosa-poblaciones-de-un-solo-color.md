@@ -28,3 +28,9 @@ A lo largo del mundo, existen algunos pueblos y ciudades que se distinguen por u
 Algunas veces este hecho obedece a la costumbre local o a los materiales que abundan en el entorno, mientras que en otras siguen una minuciosa planeación urbana que busca lograr una armonía visual que resulte agradable a la vista. Como sea, demos un vistazo a algunas de estas ciudades monocromáticas.
 
 TE RECOMENDAMOS:
+
+## Jaipur, India
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pink_City%2C_Jaipur%2C_India_%2821003243120%29.jpg/1024px-Pink_City%2C_Jaipur%2C_India_%2821003243120%29.jpg)
+
+Esta población forma parte la lista del Patrimonio Mundial de la UNESCO desde 2016 y, con justa razón, recibe el nombre de "la ciudad rosa". 
