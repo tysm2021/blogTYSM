@@ -45,4 +45,10 @@ Aunque Mérida, la capital yucateca, recibe el mote de "la ciudad blanca" por el
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Arquitectura_negra_de_Majaelrayo02.JPG/1024px-Arquitectura_negra_de_Majaelrayo02.JPG)
 
-Esta ciudad española, ubicada en la de provincia manchega de Guadalajara, es un ejemplo de un estilo de construcción llamado "**arquitectura negra**". Viéndola mejor, se trata más bien de las gamas de grises muy oscuros, violetas, azulados, pardos, plateados o negruzcos, que provienen de las piedras de pizarra que se usan para levantar paredes y cubrir pisos y acabados. 
+Esta ciudad española, ubicada en la de provincia manchega de Guadalajara, es un ejemplo de un estilo de construcción llamado "**arquitectura negra**". Viéndola mejor, más que **negros** se trata de gamas de grises muy oscuros, violetas, azulados, pardos, plateados o negruzcos, que provienen de las piedras de pizarra que se usan para levantar paredes y cubrir pisos y acabados. 
+
+## Marrakech, Marruecos
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/City_Walls%2C_Marrakech_%28363261710%29.jpg/1024px-City_Walls%2C_Marrakech_%28363261710%29.jpg)
+
+Esta importante ciudad marroquí es, junto con Fez, Meknes y Rabat, una de las tradicionales cuatro capitales imperiales de Marruecos, y se distingue por el predominante color **rojo** de su paisaje urbano. La razón de este colorido son los materiales utilizados, que son barros y arcillas, los cuales empezaron a emplearse cuando se construyeron los **rojizos** muros que protegían la ciudad durante el reinado de los almohades.
