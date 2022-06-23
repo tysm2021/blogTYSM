@@ -52,3 +52,11 @@ Esta ciudad española, ubicada en la de provincia manchega de Guadalajara, es un
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/City_Walls%2C_Marrakech_%28363261710%29.jpg/1024px-City_Walls%2C_Marrakech_%28363261710%29.jpg)
 
 Esta importante ciudad marroquí es, junto con Fez, Meknes y Rabat, una de las tradicionales cuatro capitales imperiales de Marruecos, y se distingue por el predominante color **rojo** de su paisaje urbano. La razón de este colorido son los materiales utilizados, que son barros y arcillas, los cuales empezaron a emplearse cuando se construyeron los **rojizos** muros que protegían la ciudad durante el reinado de los almohades.
+
+## Oia, Grecia
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Thira_%28Santorini%29_-_Ia-01.jpg/1024px-Thira_%28Santorini%29_-_Ia-01.jpg)
+
+Esta hermosísima aldea en la que predomina el **color blanco** se encuentra en al isla de Santorini, una de las islas griegas que están distribuidas en el Mar Egeo. Antiguamente, su esplendor económico se debió al comercio mercante, que obedecía a su privilegiada posición, geográfica; actualmente, sus habitantes viven del turismo y de los miles de visitantes que año tras año acuden para maravillarse con los impactantes paisajes.
+
+Y tú, ¿qué otras **ciudades monocromáticas** conoces?
