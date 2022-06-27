@@ -55,7 +55,7 @@ La primera constitución en forma de nuestro país se promulgó el  4 de octubre
 
 ## Leyes Constitucionales y Bases Orgánicas
 
-Durante los distintos mandatos de Antonio López de Santa Anna, se revisó la Constitución mediante la publicación de las "Siete Leyes" (1836), que convertían a México en una república central, representativa y popular. Unos años después, en 1843, se promulgaron las Bases de la _Organización Política de la República Mexicana_.
+Durante los distintos mandatos de **Antonio López de Santa Anna**, se revisó la Constitución mediante la publicación de las "Siete Leyes" (1836), que convertían a México en una república central, representativa y popular. Unos años después, en 1843, se promulgaron las Bases de la _Organización Política de la República Mexicana_.
 
 ## Constitución de 1857
 
