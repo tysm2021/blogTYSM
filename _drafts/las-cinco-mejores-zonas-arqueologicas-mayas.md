@@ -23,8 +23,28 @@ show_author_profile: false
 comment: false
 
 ---
-A lo largo de sus muchos siglos de historia, los mayas dejaron importantes vestigios en nuestro país: desde restos de sus ciudades-estado hasta muestras de su arte, arquitectura, pintura y otras manifestaciones. Por eso, aquí te presentamos las cinco zonas arqueológicas mayas más importantes de México.
+A lo largo de sus muchos siglos de historia, los **mayas** dejaron importantes vestigios en nuestro país: desde restos de sus ciudades-estado hasta muestras de su **arte**, arquitectura, pintura y otras manifestaciones. Por eso, aquí te presentamos las cinco **zonas arqueológicas mayas** más **importantes** de **México**.
 
-Recordemos que la civilización maya extendió su dominio hasta América Central, y que en un punto de la historia desaparecieron de un modo misterioso que sigue siendo motivo de discusión por parte de historiadores y arqueólogos.
+Recordemos que la civilización **maya** extendió su dominio hasta América Central, y que en un punto de la historia desaparecieron de un modo misterioso que sigue siendo motivo de discusión por parte de historiadores y arqueólogos.
 
 TE RECOMENDAMOS:
+
+## Uxmal
+
+Yucatán
+
+## Bonampak
+
+Chiapas
+
+## Tulum
+
+Quintana Roo
+
+## Palenque
+
+Chiapas
+
+## Chichén Itza
+
+Yucatán
