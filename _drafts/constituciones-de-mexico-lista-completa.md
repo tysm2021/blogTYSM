@@ -28,3 +28,19 @@ Todos los que fuimos a la primaria aprendimos que la **Constitución Política d
 Aquí va un recuento de las cartas magnas —como también se les conoce a las **constituciones políticas**— que han tenido validez legal en nuestro país, incluso desde los tiempos en que éramos un colonia española y durante los años que duró la Guerra de Independencia.
 
 TE RECOMENDAMOS:
+
+Constitución de Cádiz (1812)
+
+Constitución de Apatzingán (1814)
+
+Reglamento provisional del Imperio Mexicano (1822)
+
+Constitución Federal (1824)
+
+Leyes Constitucionales (1836) y Bases Orgánicas (1843)
+
+Constitución Política de 1857
+
+Estatuto Provisional del Imperio Mexicano (1865)
+
+Constitución Política de los Estados Unidos Mexicanos (1917)
