@@ -55,4 +55,6 @@ Junto con **Tikal** y **Calakmul**, fue una de las ciudades más poderosas del C
 
 ## Chichén Itza
 
-Yucatán
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Templo_Kukulkan_Chichen_Itza_03_2011_1438.jpg/1024px-Templo_Kukulkan_Chichen_Itza_03_2011_1438.jpg)
+
+Quizá la **ciudad maya** mejor conocida en México y en el mundo, fue también una de las últimas en construirse. Se ubica en el estado de Yucatán y es famosa por el juego de luz y sombra que en cada equinoccio ocurre sobre la escalinata del basamento piramidal conocido como **El Castillo**. También hay un cenote sagrado y destacan el juego de pelota, la Plaza de las Mil Columnas, el Observatorio y el Grupo de las Monjas.
