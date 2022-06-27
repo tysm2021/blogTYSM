@@ -23,8 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
-Todos los que fuimos a la primaria aprendimos que la Constitución Política de los Estados Unidos Mexicanos se promulgó el 5 de febrero de 1917 por el congreso constituyente del presidente Venustiano Carranza. Pero, antes de ese documento, ¿cuántas constituciones tuvimos en México?
+Todos los que fuimos a la primaria aprendimos que la **Constitución Política de los Estados Unidos Mexicanos** se promulgó el **5 de febrero de 1917** por el congreso constituyente del presidente **Venustiano Carranza**. Pero, antes de ese documento, ¿**cuántas** **constituciones** tuvimos en **México**?
 
-Aquí va un recuento de las cartas magnas —como también se les conoce a las constituciones políticas— que han tenido validez legal en nuestro país, incluso desde los tiempos en que éramos un colonia española y durante los años que duró la Guerra de Independencia.
+Aquí va un recuento de las cartas magnas —como también se les conoce a las **constituciones políticas**— que han tenido validez legal en nuestro país, incluso desde los tiempos en que éramos un colonia española y durante los años que duró la Guerra de Independencia.
 
 TE RECOMENDAMOS:
