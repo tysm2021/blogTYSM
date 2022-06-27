@@ -53,12 +53,22 @@ La primera constitución en forma de nuestro país se promulgó el  4 de octubre
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Guadalupe_Victoria_-_02.jpg)
 
-## Leyes Constitucionales (1836) y Bases Orgánicas (1843)
+## Leyes Constitucionales y Bases Orgánicas
 
-j
+Durante los distintos mandatos de Antonio López de Santa Anna, se revisó la Constitución mediante la publicación de las "Siete Leyes" (1836), que convertían a México en una república central, representativa y popular. Unos años después, en 1843, se promulgaron las Bases de la _Organización Política de la República Mexicana_.
 
-Constitución Política de 1857
+## Constitución de 1857
 
-Estatuto Provisional del Imperio Mexicano (1865)
+El 5 de febrero de 1857 se promulgó al **Constitución Federal de los Estados Unidos Mexicanos**, la cual constaba de 128 artículos agrupados en 8 títulos, y estuvo vigente hasta 1917. Entre otros principios, establecía la prohibición de la esclavitud, y la libertad de enseñanza, de trabajo y de manifestación de ideas, y sostenía que la soberanía residía "esencial y originariamente en el pueblo". Fue firmada por **Ignacio Comonfort**, presidente sustituto
 
-Constitución Política de los Estados Unidos Mexicanos (1917)
+![](https://upload.wikimedia.org/wikipedia/commons/c/cb/Comonfort.png)
+
+## Estatuto Provisional del Imperio Mexicano (1865)
+
+La intervención francesa en nuestro país terminó imponiendo a **Maximiliano de Habsburgo** como emperador, de tal suerte que el monarca publicó un primer _Estatuto del Imperio_ en el que se establecían las bases de su organización: se garantizaba el respeto a los derechos de igualdad, seguridad personal, propiedad y libertad; sin embargo, no tuvo una aplicación en todo el territorio nacional.
+
+## Constitución Política de los Estados Unidos Mexicanos (1917)
+
+La carta magna vigente hasta nuestros días. Fue convocada por el entonces presidente, **Venustiano Carranza**, y elaborada por el Congreso Constituyente que se reunió en la ciudad de Querétaro. Entre otros principios, destacan los "derechos sociales" —a la salud, a la educación y a la vivienda digna—, y establece la república representativa, democrática, federal como forma de gobierno.
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1c/Congreso_Constituyente_de_1917.jpg)
