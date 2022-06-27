@@ -31,7 +31,9 @@ TE RECOMENDAMOS:
 
 ## Uxmal
 
-Yucatán
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/0073_Uxmal.JPG/1024px-0073_Uxmal.JPG)
+
+Ubicada en el estado de Yucatán, fue ocupada varias veces a lo largo de su historia y se cree que su esplendor tuvo lugar entre los años 600 y 900 d.C. Algunas de sus edificaciones más importantes son la **Pirámide del Adivino**, el **Cuadrángulo de las Monjas** y la **Casa de las Palomas**.
 
 ## Bonampak
 
