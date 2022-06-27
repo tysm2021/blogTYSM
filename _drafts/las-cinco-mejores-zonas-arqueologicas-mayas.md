@@ -25,7 +25,7 @@ comment: false
 ---
 A lo largo de sus muchos siglos de historia, los **mayas** dejaron importantes vestigios en nuestro país: desde restos de sus ciudades-estado hasta muestras de su **arte**, arquitectura, pintura y otras manifestaciones. Por eso, aquí te presentamos las cinco **zonas arqueológicas mayas** más **importantes** de **México**.
 
-Recordemos que la civilización **maya** extendió su dominio hasta América Central, y que en un punto de la historia desaparecieron de un modo misterioso que sigue siendo motivo de discusión por parte de historiadores y arqueólogos.
+Recordemos que la civilización **maya** extendió su dominio hasta América Central, y que en un punto de la historia desaparecieron de un modo misterioso que sigue siendo motivo de discusión por parte de historiadores y arqueólogos. También, que en todos estos lugares existen **Museos de Sitio** administrados y resguardados por el INAH, con valiosa información para el turista interesado en la **arqueología**.
 
 TE RECOMENDAMOS:
 
@@ -37,7 +37,9 @@ Ubicada en el estado de Yucatán, fue ocupada varias veces a lo largo de su hist
 
 ## Bonampak
 
-Chiapas
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bonampak_painting%2Bcontrast.jpg/1024px-Bonampak_painting%2Bcontrast.jpg)
+
+Lo que distingue a esta **zona arqueológica** ubicada en Chiapas son, sin lugar a dudas, los impresionantes **murales** que se conservan en el Edificio 1 y que dan cuenta de una gran batalla ganada por el gobernante Chan Muwan II con el apoyo militar de la vecina ciudad de Yaxchilán. Hay también notables dinteles y hermosas esculturas con gran valor epigráfico —es decir, que tienen escritura plasmada en ellas.
 
 ## Tulum
 
