@@ -43,7 +43,9 @@ Lo que distingue a esta **zona arqueológica** ubicada en Chiapas son, sin lugar
 
 ## Tulum
 
-Quintana Roo
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tulum_-_01.jpg/1024px-Tulum_-_01.jpg)
+
+Se trata del **sitio arqueológico maya** más emblemático de la costa de Quintana Roo por sus sus edificios y pinturas murales. Destaca la construcción conocida como **El Castillo**, el basamento más alto de Tulum, que conserva un templo con tres accesos. También destacan el Templo del Dios Descendente, el Templo de los Frescos, la Casa de las Columnas y la Casa del Halach Uinik.
 
 ## Palenque
 
