@@ -49,7 +49,9 @@ Se trata del **sitio arqueológico maya** más emblemático de la costa de Quint
 
 ## Palenque
 
-Chiapas
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Palenque_temple_2.jpg/1024px-Palenque_temple_2.jpg)
+
+Junto con **Tikal** y **Calakmul**, fue una de las ciudades más poderosas del Clásico **Maya**, y actualmente se ubica en el estado de Chiapas. Destacan el Templo de las Inscripciones, con estelas que narran la vida del gobernante conocido como Pakal el Grande, y ahí fue hallada su cripta funeraria; también, El Templo del Sol, el observatorio y el juego de pelota.
 
 ## Chichén Itza
 
