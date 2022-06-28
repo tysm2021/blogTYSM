@@ -47,6 +47,10 @@ De la capital nos vamos al estado de Jalisco, en específico a su capital, Guada
 
 Ahora jalemos p'al norte, hasta llegar al fronterizo estado de Tamaulipas, donde en la zona sur —principalmente en Tampico, Ciudad Madero y Altamira— se preparan estas **tortas** que originalmente eran de sardinas pero que hoy en día llevan: jamón, queso de puerco, chicharrón de cerdo, frijoles negros refritos, quesos amarillo y blanco, chorizo frito, carne de res deshebrada, aguacate, cebolla y rebanadas de tomate —o jitomate, como se le dice en el centro. Se les llama así porque el primer puesto colindaba con una barda que marcaba los límites de la estación de ferrocarril y los muelles de Tampico. ¿Y sabías que tienen casi cien años de edad?
 
-Pambazo
+## Guacamaya
 
-Guacamaya
+![](/images/2022-06-28-torta-guacamaya.jpeg)
+
+Si uno viaja a la ciudad de León, Guanajuato, en una de esas podrá ver triciclos acondicionados para vender "**guacamayas**", uno de los platillos típicos de la región. Hablamos de **tortas** muy sencillas que llevan chicharrón de cerdo —también se le llama "duro"— y salsa "pico de gallo", elaborada con jitomate, cilantro, cebolla y chile. Hay variantes en las que se le añade sal o algún otro ingrediente, como las "bautizadas" que llevan un baño de salsa de chile de árbol muy picante, y cualquiera de ellas es deliciosa.
+
+Pambazo
