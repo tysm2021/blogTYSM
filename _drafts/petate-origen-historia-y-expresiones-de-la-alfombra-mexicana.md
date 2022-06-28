@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Es una especie de tapete hecho de paja trenzada y tiene tanto arraigo y tradición en nuestro país que incluso existen expresiones populares que incluyen su nombre. Por eso, en esta ocasión te hablaremos de la historia del petate, que tiene su origen en tiempos prehispánicos.
+
+Hoy en día, aunque ya casi ha caído en el desuso, muchos artesanos siguen produciéndolos incluso en una variedad de colores y con funciones más decorativas que prácticas. Pero comencemos por el principio…
+
+TE RECOMENDAMOS:
