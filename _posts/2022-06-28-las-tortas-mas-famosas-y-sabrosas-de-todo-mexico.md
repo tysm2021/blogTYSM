@@ -53,4 +53,8 @@ Ahora jalemos p'al norte, hasta llegar al fronterizo estado de Tamaulipas, donde
 
 Si uno viaja a la ciudad de León, Guanajuato, en una de esas podrá ver triciclos acondicionados para vender "**guacamayas**", uno de los platillos típicos de la región. Hablamos de **tortas** muy sencillas que llevan chicharrón de cerdo —también se le llama "duro"— y salsa "pico de gallo", elaborada con jitomate, cilantro, cebolla y chile. Hay variantes en las que se le añade sal o algún otro ingrediente, como las "bautizadas" que llevan un baño de salsa de chile de árbol muy picante, y cualquiera de ellas es deliciosa.
 
-Pambazo
+## Pambazo
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PambazosDF.JPG/1024px-PambazosDF.JPG)
+
+¡Achis, achis, los mariachis! ¿A poco el **pambazo** también es **torta**? Pues sí, ya que cumple con el requisito de ser un platillo colocado entre una base y una tapa de pan. Para los que no lo conozcan, consiste en un pan —justamente llamado pambazo, que es más blanco y suave que una telera, y sin divisiones— que tradicionalmente se baña con una salsa roja de guajillo, se pasa por un comal para que se dore y se rellena de papas con chorizo, lechuga, crema, queso y salsa. Es un platillo nocturno y, ¿a poco no se antoja nomás de imaginárselo?…
