@@ -15,8 +15,8 @@ article_header:
     src: "/images/2022-06-29-mole-5980185_1280.jpeg"
 sharing: true
 title: 'Mole poblano: origen, leyenda y receta de esta maravilla culinaria'
-summary: Además de sus numerosos ingredientes, el mole tiene un origen anclado en
-  la leyenda…
+summary: Además de sus numerosos ingredientes y sabores, el mole tiene un origen anclado
+  en la leyenda…
 cover: "/images/2022-06-29-mole-5980185_1280.jpeg"
 tags: platillos recetas Puebla
 show_author_profile: false
