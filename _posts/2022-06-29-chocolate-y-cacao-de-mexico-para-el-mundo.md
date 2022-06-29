@@ -12,7 +12,7 @@ article_header:
   background_color: "#203028"
   background_image:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
-    src: "/images/2022-06-29-chocolate-183543_1280.jpeg"
+    src: "/images/2022-06-29-chocolate-183543_1280-1.jpeg"
 sharing: true
 title: 'Chocolate y cacao: de México para el mundo'
 summary: 'Una de las grandes aportaciones gastronómicas de México es el cacao: conoce
