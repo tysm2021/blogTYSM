@@ -31,11 +31,11 @@ TE RECOMENDAMOS:
 
 Los estudiosos afirman que la palabra **mole** deriva del náhuatl _mulli_ o _molli_, que significa "salsa". En tiempos previos a la Conquista, sin embargo, no se le añadía cacao ni chocolate y era básicamente una mezcla de chiles y especias que acompañaban a un guajolote cocido. El **mole poblano**, como su nombre lo indica, tuvo su origen en la ciudad de **Puebla** y existen dos **leyendas** sobre su creación.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Comidas_de_m%C3%A9xico_02.jpg/768px-Comidas_de_m%C3%A9xico_02.jpg)
-
 Una de ellas afirma que el **mole** fue inventado en el Convento de Santa Rosa por Sor Andrea de la Asunción, allá por el año 1681; en el convento se cuenta que la monja dominica dio con la **receta** del **mole** gracias a la inspiración divina, y que el aroma que surgió al prepararlo fue tan exquisito que la madre superiora rompió su voto de silencio y exclamó: “Hermana, ¡qué buen mole!”; las demás monjas rieron y corrigieron a la madre diciendo: “Se dice muele”.
 
 Otra leyenda adjudica la creación del **mole** a un afortunado cocinero llamado **Fray Pascual**, que en una ocasión que debía ofrecer un banquete al virrey Juan de Palafox —a la sazón, también arzobispo de Puebla— estaba tan nervioso en su cocina que acabó tropezando justo enfrente de donde se cocían unos guajolotes y accidentalmente derramó chiles, almendras, trozos de chocolate y especias en la olla de la cocción. Para su sorpresa, el resultado fue magnífico y agradó a su Eminencia.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Comidas_de_m%C3%A9xico_02.jpg/768px-Comidas_de_m%C3%A9xico_02.jpg)
 
 ### Receta del mole poblano
 
