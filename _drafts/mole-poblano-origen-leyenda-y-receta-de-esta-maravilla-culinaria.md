@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Junto con los chiles en nogada, el mole poblano es una de las más preciadas joyas de la gastronomía mexicana. Por su laboriosa elaboración, la cantidad y variedad de sus muchos ingredientes, por su textura y sabor, y porque es sinónimo de fiesta y jolgorio, ningún mexicano podrá negar que es un platillo con un especial arriago en nuestra cultura, al grade de que existen varias leyendas en torno a su origen.
+
+Acompáñanos en este breve recorrido alrededor de la historia de este delicioso platillo, que lo mismo disfrutamos en enchiladas o enmoladas, que bañando unos huevitos estrellados o bañando una pieza de pollo o guajolote, con su respectiva porción de arroz rojo. ¡De rechupete!
+
+TE RECOMENDAMOS:
