@@ -37,4 +37,51 @@ Una de ellas afirma que el **mole** fue inventado en el Convento de Santa Rosa p
 
 Otra leyenda adjudica la creación del **mole** a un afortunado cocinero llamado **Fray Pascual**, que en una ocasión que debía ofrecer un banquete al virrey Juan de Palafox —a la sazón, también arzobispo de Puebla— estaba tan nervioso en su cocina que acabó tropezando justo enfrente de donde se cocían unos guajolotes y accidentalmente derramó chiles, almendras, trozos de chocolate y especias en la olla de la cocción. Para su sorpresa, el resultado fue magnífico y agradó a su Eminencia.
 
-Ahora, una de las tantas recetas que hay del mole poblano:
+### Receta del mole poblano
+
+**Ingredientes**
+
+* 1½ tazas de manteca de cerdo
+* 250 g de chile mulato limpio
+* 125 g de chile pasilla limpio
+* 125 g de chile ancho limpio
+* 4 Ɩ de caldo de pollo
+* 2 cucharadas de manteca de cerdo 
+* 1 taza de almendras sin pelar
+* 2 cucharadas de cacahuates pelados y tostados
+* ½ taza de nuez pelada y entera
+* ¼ de taza de pepitas de calabaza peladas
+* 2 cucharadas de ajonjolí
+* 3 tazas de caldo de pollo
+* ½ taza de manteca de cerdo
+* ½ kg de tomate verde troceado
+* ½ kg de jitomate troceado
+* 1 plátano macho maduro, rebanado y frito
+* ⅔ de taza de pasitas
+* 4 tazas de caldo de pollo
+* 5 clavos asados
+* 1 cucharadita de pimientas negras enteras
+* 5 pimientas gordas
+* 1 cucharadita de comino entero
+* ½ cucharadita de anís entero
+* 1 raja de canela quebrada 
+* ½ cucharadita de tomillo 
+* 1 cucharada de orégano seco
+* 12 dientes de ajo grandes, asados con su piel y luego pelados 
+* 1 cebolla blanca asada y picada en grueso 
+* 2 tazas de caldo de pollo 
+* 1 cucharada de sal 
+* 1 bolillo rebanado y frito en manteca o aceite de maíz 
+* 3 tortillas de maíz cortadas en pedazos y fritas en manteca o aceite de maíz 
+* 2 tazas de caldo de pollo 
+* 3 tablillas de chocolate con azúcar
+* 1 taza de azúcar morena
+* ¼ de taza de ajonjolí tostado (para decorar)
+
+_Para el pollo_
+
+* Pollo 24 piezas de pollo (muslo con pierna)
+* 2 cabezas de ajo cortadas por mitad
+* 1 cebolla blanca cortada en cuarterones
+* 1½ cucharadas de sal
+* 5 Ɩ de agua
