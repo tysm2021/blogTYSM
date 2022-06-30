@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Si uno camina por las calles del Centro Histórico de la Ciudad de México —así como en otros barrios, como el de Coyoacán, y numerosas otras ciudades mexicanas—, es muy probable encontrarse con uno o varios hombres vestidos de color caqui que cargan una pesada caja de la cual, al accionar una manivela, brotan maravillosa melodías que nos transportan a tiempos pasados. Desde luego, hablamos de los organilleros: ¿conoces la historia de cómo llegaron a México?
+
+Aquí te contamos un poco sobre cómo surgió esta tradición que, aunque sigue viva, como tantas otras cosas está en peligro de extinción debido a los embates de la modernidad, la globalización y otros fenómenos propios del siglo XXI.
+
+TE RECOMENDAMOS:
