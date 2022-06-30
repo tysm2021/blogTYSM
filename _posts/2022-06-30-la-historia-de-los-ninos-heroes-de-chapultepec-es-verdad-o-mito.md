@@ -35,4 +35,6 @@ El experto continúa afirmando que, sí, Montes de Oca, Melgar, De la Barrera, S
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/168_Aniversario_de_la_Gesta_Heroica_de_los_Ni%C3%B1os_H%C3%A9roes_de_Chapultepec._%2820773542054%29.jpg/1024px-168_Aniversario_de_la_Gesta_Heroica_de_los_Ni%C3%B1os_H%C3%A9roes_de_Chapultepec._%2820773542054%29.jpg)
 
-El origen del mito, según Rosas, está relacionado con una visita que en 1947 hizo el presidente estadounidense Harry S. Truman con motivo del centenario
+El origen del mito, según Rosas, está relacionado con una visita que en 1947 hizo a **México** el presidente Harry S. Truman con motivo del centenario de la guerra México-Estados Unidos. En esa ocasión, el mandatario estadounidense depositó una ofrenda a los caídos, y este hecho ofendió mucho a los mexicanos. En respuesta, el gobierno anunció el supuesto hallazgo de seis cráneos a los pies del Castillo de **Chapultepec** y se apresuró a confirmar que se trataba de los seis **Niños Héroes** que habían fallecido defendiendo a al Nación.
+
+Fue así, con pocas evidencias físicas que lo comprobaran, que los restos fueron depositados en el **Altar a la Patria** donde, cada **13 de septiembre**, se le rinde culto a una gesta heroica de la que prácticamente no existe fundamentos históricos que confirmen su existencia.
