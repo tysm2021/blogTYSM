@@ -28,3 +28,11 @@ De niños, todos aprendimos en la escuela que los **Niños Héroes** de **Chapul
 A continuación, te explicamos por qué se dice que Fernando Montes de Oca, Agustín Melgar, Juan de la Barrera, Vicente Suárez, Juan Escutia y Francisco Márquez no hicieron todo lo que nos dijeron que hicieron…
 
 TE RECOMENDAMOS:
+
+Según el historiador Alejandro Rosas, todo esto del sacrificio de los **Niños Héroes** es una **mentira** del gobierno en aras de la construcción del Altar a la Patria, situado en la entrada al Bosque de **Chapultepec** y donde supuestamente están enterrados los restos de los pequeños héroes patrios, ya que el gobierno de entonces necesitaba legitimarse y por eso alteró, distorsionó e incluso inventó algunas de las historias.
+
+El experto continúa afirmando que, sí, Montes de Oca, Melgar, De la Barrera, Suárez, Escutia y Márquez permanecieron en el Colegio Militar de **Chapultepec** para defenderlo gallardamente de los invasores. Pero, al parecer, hasta ahí termina la **verdad** histórica, pues los hechos señalan, por ejemplo, que Juan Escutia jamás se lanzó envuelto en el lábaro patrio antes que verlo mancillado, sino que fue abatido a tiros junto con Márques y Montes de Oca al intentar huir.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/168_Aniversario_de_la_Gesta_Heroica_de_los_Ni%C3%B1os_H%C3%A9roes_de_Chapultepec._%2820773542054%29.jpg/1024px-168_Aniversario_de_la_Gesta_Heroica_de_los_Ni%C3%B1os_H%C3%A9roes_de_Chapultepec._%2820773542054%29.jpg)
+
+El origen del mito, según Rosas, está relacionado con una visita que en 1947 hizo el presidente estadounidense Harry S. Truman con motivo del centenario
