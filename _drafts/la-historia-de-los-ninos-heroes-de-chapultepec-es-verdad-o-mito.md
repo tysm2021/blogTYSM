@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+De niños, todos aprendimos en la escuela que los **Niños Héroes** de **Chapultepec** defendieron al país contra los invasores de Estados Unidos y que "**murieron** por la Patria" en situaciones tan heroicas como drásticas. Pero, según algunos estudiosos de la **historia**, todo eso dista mucho de ser **verdad** y entra en el terreno del **mito**.
+
+A continuación, te explicamos por qué se dice que Fernando Montes de Oca, Agustín Melgar, Juan de la Barrera, Vicente Suárez, Juan Escutia y Francisco Márquez no hicieron todo lo que nos dijeron que hicieron…
+
+TE RECOMENDAMOS:
