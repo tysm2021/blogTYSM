@@ -73,4 +73,6 @@ La ciudad de Los Mochis es uno de los destinos finales del Chepe Express, donde 
 
 ## Costos
 
-Actualmente, el Chepe está compuesto por vagones divididos en tres clases (Primera, Ejecutiva y Turista) con una capacidad total para transportar hasta 520 pasajeros.
+Actualmente, el **Chepe** está compuesto por vagones divididos en tres clases (Primera, Ejecutiva y Turista) con una capacidad total para transportar hasta 520 pasajeros. Existen dos grupos de tarifas: las de Temporada Alta (del 22 de junio al 31 de agosto, y del 1 de diciembre al 10 de enero) y las de Temporada Baja (el resto del año). 
+
+![](https://chepe.mx/wp-content/uploads/2022/06/Temporada-Baja-OK-1140x990.png)![](https://chepe.mx/wp-content/uploads/2022/06/Temporada-Alta-ok-1140x996.png)
