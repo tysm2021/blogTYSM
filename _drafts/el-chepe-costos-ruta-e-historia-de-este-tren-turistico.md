@@ -43,9 +43,17 @@ El recorrido completo dura aproximadamente nueve horas, recorriendo más de 350 
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">¿Buscas un tour para viajar por las <a href="https://twitter.com/hashtag/BarrancasDelCobre?src=hash&ref_src=twsrc%5Etfw">#BarrancasDelCobre</a>?<br><br>Haz clic aquí y conoce todos los detalles: <a href="https://t.co/RSbV0xUbam">https://t.co/RSbV0xUbam</a> <a href="https://twitter.com/hashtag/chepe?src=hash&ref_src=twsrc%5Etfw">#chepe</a> <a href="https://twitter.com/hashtag/viaje?src=hash&ref_src=twsrc%5Etfw">#viaje</a> <a href="https://twitter.com/hashtag/M%C3%A9xico?src=hash&ref_src=twsrc%5Etfw">#México</a> <a href="https://twitter.com/hashtag/tren?src=hash&ref_src=twsrc%5Etfw">#tren</a> <a href="https://twitter.com/hashtag/viajes?src=hash&ref_src=twsrc%5Etfw">#viajes</a> <a href="https://twitter.com/hashtag/viajeros?src=hash&ref_src=twsrc%5Etfw">#viajeros</a> <a href="https://twitter.com/hashtag/viajerosporelmundo?src=hash&ref_src=twsrc%5Etfw">#viajerosporelmundo</a></p>— Chepe Express (@chepeexpress) <a href="https://twitter.com/chepeexpress/status/1478127789526167553?ref_src=twsrc%5Etfw">January 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Creel
+### Creel
 
-Divisadero
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Casa_Creel_-_Chihuahua%2C_Chihuahua_-_02.JPG/1024px-Casa_Creel_-_Chihuahua%2C_Chihuahua_-_02.JPG)
+
+La estación **Creel** Sierra Tarahumara, ubicada en el Pueblo Mágico de **Creel**, está a una altitud de 2 mil 240 metros sobre el nivel del mar. Y, gracias a su cercanía con las **Barrancas del Cobre**, es considerada como la puerta de entrada a la Sierra Tarahumara y a los imponentes paisajes de las barrancas.
+
+### Divisadero
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Divisadero%2C_Barrancas_del_Cobre%2C_Chihuahua.jpg/1024px-Divisadero%2C_Barrancas_del_Cobre%2C_Chihuahua.jpg)
+
+Este es probablemente el destino favorito entre quienes buscan paisajes extraordinarios, pues es una zona con las mejores vistas panorámicas de las **barrancas** y cañones de Urique, Tararecua y del Cobre, por lo que se le considera uno de los monumentos naturales más espectaculares de México y del mundo.
 
 Bahuichivo
 
