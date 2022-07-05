@@ -55,9 +55,11 @@ La estación **Creel** Sierra Tarahumara, ubicada en el Pueblo Mágico de **Cree
 
 Este es probablemente el destino favorito entre quienes buscan paisajes extraordinarios, pues es una zona con las mejores vistas panorámicas de las **barrancas** y cañones de Urique, Tararecua y del Cobre, por lo que se le considera uno de los monumentos naturales más espectaculares de México y del mundo.
 
-Bahuichivo
+### Bahuichivo
 
-El Fuerte
+Esta es quizá la parte más tranquila del recorrido. Además de recorrer el pueblo de Cerocahui y los Viñedos, puedes visitar la cascada Huicochi tras una caminata de 8 km alrededor de un arroyo hasta llegar a la cascada, o emprender una caminata hacia "Las Cascaditas" o al "Mirador del Valle del León".
+
+## El Fuerte
 
 Los Mochis
 
