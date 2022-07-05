@@ -57,6 +57,8 @@ Este es probablemente el destino favorito entre quienes buscan paisajes extraord
 
 ### Bahuichivo
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Cascada de Yeparo Cerocahui hermosa!!! <a href="http://t.co/p5hSNZsufR">pic.twitter.com/p5hSNZsufR</a></p>&mdash; IDALI (@Indialy) <a href="https://twitter.com/Indialy/status/313262626496978946?ref_src=twsrc%5Etfw">March 17, 2013</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Esta es quizá la parte más tranquila del recorrido. Además de recorrer el pueblo de Cerocahui y los Viñedos, puedes visitar la cascada Huicochi tras una caminata de 8 km alrededor de un arroyo hasta llegar a la cascada, o emprender una caminata hacia "Las Cascaditas" o al "Mirador del Valle del León".
 
 ## El Fuerte
