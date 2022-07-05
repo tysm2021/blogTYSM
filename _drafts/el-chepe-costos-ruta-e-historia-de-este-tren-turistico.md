@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+En el México del siglo XX, y antes de la abundancia de compañías de autobuses y aerolíneas, era común viajar el tren de una ciudad a otra, ya fuera por negocios o para hacer turismo. Con el tiempo, esta costumbre fue desapareciendo, pero aún queda un sobreviviente: el tren conocido como el Chepe. ¿Sabes cuál es su historia, los costos del boleto y qué ruta recorre?
+
+Aquí te platicamos un poco sobre el tren Chihuahua-Pacífico, cómo puedes hacer un viaje en él y cuáles son los atractivos y destinos que no puedes dejar de visitar.
+
+TE RECOMENDAMOS:
