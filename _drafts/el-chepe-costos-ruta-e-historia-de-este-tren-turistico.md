@@ -36,3 +36,9 @@ Nuestro querido **Chepe** inició operaciones en 1961 y es el último tren de pa
 En 2017, la empresa mexicana Ferromex decidió implementar un servicio enfocado exclusivamente al turismo, con un nuevo tren que fue llamado **Chepe Express**, que reúne aventuras de turismo ecológico, experiencias gastronómicas únicas de la región y un gran confort, a la altura de los mejores trenes del mundo. Así, el **Chepe Express** inició operaciones con cuatro carros para  Clase Ejecutiva, dos para la Clase Primera, además de comedor, bar y una terraza.
 
 ## Ruta del Chepe
+
+El **Chepe** tiene dos **terminales**: el Pueblo Mágico de **Creel**, ubicado en el estado de Chihuahua, y la ciudad de **Los Mochis**, en el estado de Sinaloa. Entre ellas hay tres estaciones: **Divisadero**, Chihuahua; Bahuichivo, Chihuahua; y **El Fuerte**, Sinaloa. 
+
+## Costos
+
+Actualmente, el Chepe está compuesto por vagones divididos en tres clases (Primera, Ejecutiva y Turista) con una capacidad total para transportar hasta 520 pasajeros. 
