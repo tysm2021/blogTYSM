@@ -61,11 +61,11 @@ Este es probablemente el destino favorito entre quienes buscan paisajes extraord
 
 Esta es quizá la parte más tranquila del recorrido. Además de recorrer el pueblo de Cerocahui y los Viñedos, puedes visitar la cascada Huicochi tras una caminata de 8 km alrededor de un arroyo hasta llegar a la cascada, o emprender una caminata hacia "Las Cascaditas" o al "Mirador del Valle del León".
 
-## El Fuerte
+### El Fuerte
 
 El Fuerte es la cuarta ciudad más poblada del estado de Sinaloa. En esta estación conviene visitar el centro ceremonial Tehuoco y pasar por el mirador, el Templo Jesuita que se aprecia desde la Plaza Principal, el espacioso Palacio Municipal y hacer un paseo por el Río El Fuerte.
 
-## Los Mochis
+### Los Mochis
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Watching_the_boats_in_Topolobampo%2C_Sinaloa%2C_Mexico.jpg/1024px-Watching_the_boats_in_Topolobampo%2C_Sinaloa%2C_Mexico.jpg)
 
