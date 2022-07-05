@@ -39,6 +39,9 @@ En 2017, la empresa mexicana Ferromex decidió implementar un servicio enfocado 
 
 El **Chepe** tiene dos **terminales**: el Pueblo Mágico de **Creel**, ubicado en el estado de Chihuahua, y la ciudad de **Los Mochis**, en el estado de Sinaloa. Entre ellas hay tres estaciones: **Divisadero**, Chihuahua; Bahuichivo, Chihuahua; y **El Fuerte**, Sinaloa. 
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Si visitas <a href="https://twitter.com/hashtag/LosMochis?src=hash&amp;ref_src=twsrc%5Etfw">#LosMochis</a>, esta es de las mejores actividades que puedes hacer al aire libre.<br><br>Llega a este destino con <a href="https://twitter.com/hashtag/ChepeExpress?src=hash&amp;ref_src=twsrc%5Etfw">#ChepeExpress</a>, reserva tus boletos aquí:<br> <a href="https://t.co/E0oLyFMds5">https://t.co/E0oLyFMds5</a> <a href="https://twitter.com/hashtag/Viajes?src=hash&amp;ref_src=twsrc%5Etfw">#Viajes</a> <a href="https://twitter.com/hashtag/Mexico?src=hash&amp;ref_src=twsrc%5Etfw">#Mexico</a> <a href="https://t.co/Ut0weuHJjf">pic.twitter.com/Ut0weuHJjf</a></p>&mdash; Chepe Express (@chepeexpress) <a href="https://twitter.com/chepeexpress/status/1521610715316080641?ref_src=twsrc%5Etfw">May 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ## Costos
 
-Actualmente, el Chepe está compuesto por vagones divididos en tres clases (Primera, Ejecutiva y Turista) con una capacidad total para transportar hasta 520 pasajeros. 
+Actualmente, el Chepe está compuesto por vagones divididos en tres clases (Primera, Ejecutiva y Turista) con una capacidad total para transportar hasta 520 pasajeros.
