@@ -41,6 +41,18 @@ El **Chepe** tiene dos **terminales**: el Pueblo Mágico de **Creel**, ubicado e
 
 El recorrido completo dura aproximadamente nueve horas, recorriendo más de 350 km. Uno de los grandes atractivos al hacer el viaje es el paso por las **Barrancas del Cobre**, que son una serie de imponentes cañones que unen a los estados de Sinaloa y Chihuahua.
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¿Buscas un tour para viajar por las <a href="https://twitter.com/hashtag/BarrancasDelCobre?src=hash&ref_src=twsrc%5Etfw">#BarrancasDelCobre</a>?<br><br>Haz clic aquí y conoce todos los detalles: <a href="https://t.co/RSbV0xUbam">https://t.co/RSbV0xUbam</a> <a href="https://twitter.com/hashtag/chepe?src=hash&ref_src=twsrc%5Etfw">#chepe</a> <a href="https://twitter.com/hashtag/viaje?src=hash&ref_src=twsrc%5Etfw">#viaje</a> <a href="https://twitter.com/hashtag/M%C3%A9xico?src=hash&ref_src=twsrc%5Etfw">#México</a> <a href="https://twitter.com/hashtag/tren?src=hash&ref_src=twsrc%5Etfw">#tren</a> <a href="https://twitter.com/hashtag/viajes?src=hash&ref_src=twsrc%5Etfw">#viajes</a> <a href="https://twitter.com/hashtag/viajeros?src=hash&ref_src=twsrc%5Etfw">#viajeros</a> <a href="https://twitter.com/hashtag/viajerosporelmundo?src=hash&ref_src=twsrc%5Etfw">#viajerosporelmundo</a></p>— Chepe Express (@chepeexpress) <a href="https://twitter.com/chepeexpress/status/1478127789526167553?ref_src=twsrc%5Etfw">January 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Creel
+
+Divisadero
+
+Bahuichivo
+
+El Fuerte
+
+Los Mochis
+
 ## Costos
 
 Actualmente, el Chepe está compuesto por vagones divididos en tres clases (Primera, Ejecutiva y Turista) con una capacidad total para transportar hasta 520 pasajeros.
