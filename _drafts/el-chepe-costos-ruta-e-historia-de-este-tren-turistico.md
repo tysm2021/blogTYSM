@@ -57,13 +57,19 @@ Este es probablemente el destino favorito entre quienes buscan paisajes extraord
 
 ### Bahuichivo
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Cascada de Yeparo Cerocahui hermosa!!! <a href="http://t.co/p5hSNZsufR">pic.twitter.com/p5hSNZsufR</a></p>&mdash; IDALI (@Indialy) <a href="https://twitter.com/Indialy/status/313262626496978946?ref_src=twsrc%5Etfw">March 17, 2013</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Cascada de Yeparo Cerocahui hermosa!!! <a href="http://t.co/p5hSNZsufR">pic.twitter.com/p5hSNZsufR</a></p>— IDALI (@Indialy) <a href="https://twitter.com/Indialy/status/313262626496978946?ref_src=twsrc%5Etfw">March 17, 2013</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Esta es quizá la parte más tranquila del recorrido. Además de recorrer el pueblo de Cerocahui y los Viñedos, puedes visitar la cascada Huicochi tras una caminata de 8 km alrededor de un arroyo hasta llegar a la cascada, o emprender una caminata hacia "Las Cascaditas" o al "Mirador del Valle del León".
 
 ## El Fuerte
 
-Los Mochis
+El Fuerte es la cuarta ciudad más poblada del estado de Sinaloa. En esta estación conviene visitar el centro ceremonial Tehuoco y pasar por el mirador, el Templo Jesuita que se aprecia desde la Plaza Principal, el espacioso Palacio Municipal y hacer un paseo por el Río El Fuerte.
+
+## Los Mochis
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Watching_the_boats_in_Topolobampo%2C_Sinaloa%2C_Mexico.jpg/1024px-Watching_the_boats_in_Topolobampo%2C_Sinaloa%2C_Mexico.jpg)
+
+La ciudad de Los Mochis es uno de los destinos finales del Chepe Express, donde podrás disfrutar del ecoturismo y de la gastronomía sinaloense, o bien hacer un recorrido de unos 30 km hacia la hermosa Bahía de Topolobampo, en las inmediaciones del Mar de Cortés.
 
 ## Costos
 
