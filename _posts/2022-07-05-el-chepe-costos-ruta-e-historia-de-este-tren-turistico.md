@@ -73,7 +73,9 @@ La ciudad de Los Mochis es uno de los destinos finales del Chepe Express, donde 
 
 ## Costos
 
-Actualmente, el **Chepe** está compuesto por vagones divididos en tres clases (Primera, Ejecutiva y Turista) con una capacidad total para transportar hasta 520 pasajeros. Existen dos grupos de tarifas: las de Temporada Alta (del 22 de junio al 31 de agosto, y del 1 de diciembre al 10 de enero) y las de Temporada Baja (el resto del año). 
+Actualmente, el **Chepe** está compuesto por vagones divididos en tres clases (Primera, Ejecutiva y Turista) con una capacidad total para transportar hasta 520 pasajeros. Existen dos grupos de tarifas: las de Temporada Alta (del 22 de junio al 31 de agosto, y del 1 de diciembre al 10 de enero) y las de Temporada Baja (el resto del año).
+
+Los **precios** de los **boletos** sencillos oscilan entre los 1,063 y los 4,820 pesos por persona. El **boleto** más caro que uno puede adquirir es el redondo de **Los Mochis** a **Creel** —o sea, la ruta completa— en Primera Clase, que sale en $ 7,383 pesos, mientras que los más baratos son los de Los Mochis a El Fuerte  o Creel a Divisadero (una sola estación) en Clase Turista, que sale en $ 1,063 pesos. Aquí la tabla de costos para 2022 y 2023, extraída del [**sitio oficial**](https://chepe.mx/tren/conoce-las-tarifas-de-chepe-express-2022/ "Chepe") del Chepe. 
 
 ![](https://chepe.mx/wp-content/uploads/2022/06/Temporada-Baja-OK-1140x990.png)![](https://chepe.mx/wp-content/uploads/2022/06/Temporada-Alta-ok-1140x996.png)
 
