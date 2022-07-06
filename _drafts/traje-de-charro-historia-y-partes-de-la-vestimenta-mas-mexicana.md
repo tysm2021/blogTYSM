@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+En todo mundo, una de las vestimentas que más representan a México es el traje de charro. Ya sea de gala o de faena, o incluso de fantasía —como lo portan algunos mariachis y cantantes—, este traje típico tiene una historia profundamente ligada a la tradición del campo mexicano, y consta de una serie de partes que hay que conocer.
+
+Por eso, a continuación te compartimos un poco de ls historia de este traje tan nuestro y que nuestros queridos mariachis usan y lucen con tanto orgullo.
+
+TE RECOMENDAMOS:
