@@ -29,4 +29,14 @@ A continuación, un rápido vistazo al **origen** de la **concha**, que ya sea b
 
 TE RECOMENDAMOS:
 
-La **concha** es el ejemplo clásico de la **panadería** y la **repostería** mexicanas. Consta de un bizcocho de masa dulce, hecha a base de harina de trigo, manteca y azúcar, que en la superficie está cubierta con pasta de azúcar de vainilla o de chocolate. Se le llama así por su parecido con una **concha** marina.
+La **concha** es el ejemplo clásico de la **panadería** y la **repostería** mexicanas. Consta de un bizcocho de masa dulce, hecha a base de harina de trigo, manteca y azúcar, que en la superficie está cubierta con pasta de azúcar glass de vainilla o de chocolate. Se le llama así por el parecido con una **concha** marina que le otorgan las estrías que se le hacen al decorado.
+
+La **historia** de la **concha** en **México** está ligada a la llegada del trigo a nuestras tierras, en el siglo XVI y poco después de la Conquista, pues antes de eso los pueblos indígenas mexicanos acostumbraban consumir productos hechos con maíz. Durante todo el Virreinato, las panaderías estaban en manos de españoles, quienes también eran sus principales consumidores.
+
+Fue en el siglo XVIII, con la llegada de **panaderos** y pasteleros franceses e italianos, que se popularizó en México el bizcocho conocido como **brioche**, el cual se horneaba en muchas formas y variedades. En el siglo XIX, se inauguraron las primeras cafeterías italianas que impusieron una nueva moda, en sustitución del chocolate: tomar café con **pan dulce**.
+
+Fue así que, a finales del siglo XIX y principios del siglo XX, a una de las múltiples variedades que existían del brioche francés se le empezó a decorar como si fuera una **concha** marina y se le llamó justo así: **concha**. Ya entrados en el siglo XX, empezaron a proliferar los cafés de migrantes chinos que popularizaron el café con leche, y los comensales a menudo acompañaban la bebida con una **concha**.
+
+Hoy en día, el dominio de la concha es indiscutible: no hay panadería que tenga al menos las dos versiones clásicas de la concha —blanca y de chocolate—, se consigue en cualquiera de los puestitos ambulantes que venden pan, café o tamales y atole, y en años recientes se han inventado curiosas variantes como el conchamuerto —un pan de muerto combinado con una concha— o la conchas negra, rosa y de otros colores, así como las que tienen forma de animal.
+
+Y a ti, ¿te gustan las conchas? ¿Con qué las acompañas?
