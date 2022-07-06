@@ -42,3 +42,7 @@ Actualmente, el traje básico de charro de los hombres consiste en **pantalones*
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Charros_2.jpg/682px-Charros_2.jpg)
 
 El traje de charra es similar, salvo por una **falda** larga bordada que llega hasta los tobillos y lo suficientemente amplia como para permitir que monte de lado; también puede incluir **camisa** de vestir, **chaparreras**, un **sarape** y otros elementos. En ambos casos, se usan **botas** de tacón alto y los colores permitidos son cafés, azul oscuro, marrón, gris y verde seco, los cuales contrastan con las "grecas" o calados y las botonaduras.
+
+Aquí tenemos a Toño, luciendo un **traje de charro** y con las **partes** obligatorias señaladas:
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftonoysumariachi%2Fposts%2F1796272730581937&show_text=true&width=500" width="500" height="693" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
