@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Las llaves, las contrallaves y las patadas voladoras; los rudos, los técnicos y la máscara contra cabellera: así es el mundo del la lucha libre mexicana, un deporte y un espectáculo que trasciende fronteras. Pero, ¿sabes cuál es su historia y el origen de la famosa AAA?
+
+Aquí en Toño y su mariachi te contamos un poco sobre el pancracio griego, la lucha grecorromana y las primeras luchas que se sostuvieron en la Ciudad de México, que poco a poco convirtieron a la lucha libre en parte de nuestra idiosincrasia y a la Arena México, en su catedral.
+
+TE RECOMENDAMOS:
