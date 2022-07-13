@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Una de las civilizaciones que más destaca en la **historia** del **México** **prehispánico** es el Imperio **Mexica**, aunque también se le llama **Azteca**. ¿Cuál de las dos **palabras** es la **correcta**, dado que era un pueblo que decía venir de la mítica ciudad de Aztlán pero fundó una portentosa capital que se llamaba **México-Tenochtitlan**?
+
+Aunque en el uso común se usan ambas **palabras**, y de hecho es mucho más frecuente que se use el término **azteca** para referirse al pueblo que conquistó casi toda Mesoamérica entre los siglos XIV y XV de nuestra era, consultemos la opinión de los arqueólogos que han dedicado su vida a estudiar al heroico pueblo **mexica** que fue conquistado por los invasores españoles.
+
+TE RECOMENDAMOS:
