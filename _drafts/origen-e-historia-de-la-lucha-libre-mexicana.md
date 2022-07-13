@@ -30,3 +30,13 @@ Aquí en Toño y su mariachi te contamos un poco sobre el pancracio griego, la l
 TE RECOMENDAMOS:
 
 Los expertos dicen que los antecedentes de la lucha libre mexicana se localizan hasta la antigua Grecia: ahí, siglos antes de nuestra era, los fornidos atletas practicaban un deporte llamado "pancracio", el cual con el tiempo se convirtió en lo que hoy conocemos como **lucha grecorromana**. Ya en el siglo XIX, en Francia se practicaba algo llamado _catch-as-catch-can_ y en Inglaterra y los Estados Unidos ya existía el famoso _wrestling_ que permanece hasta nuestros días.
+
+En nuestras tierras, la civilización olmeca también practicaba un estilo de **lucha**: prueba de ello es la escultura del llamado "**luchador**" que se halló en Veracruz y que representa a un atleta de los siglos I al VI de nuestra era.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Olmec_Stone_%22Wrestler%2C%22_Veracruz%2C_Protoclassic%2C_600-100_BC%2C_66cm.jpg/1024px-Olmec_Stone_%22Wrestler%2C%22_Veracruz%2C_Protoclassic%2C_600-100_BC%2C_66cm.jpg)
+
+Fue a mediados del siglo XIX, a raíz de la intervención francesa en nuestro país, que tuvieron lugar las primeras **luchas** en México y la historia señala al gran Enrique Ugartechea, de raíces vascas, como el primer luchador mexicano. Ya en el siglo XX, en 1922, el ex teniente de la Revolución Mexicana y hoy llamado "padre de la lucha libre mexicana", **Salvador Luterroth**, creo la Empresa Mexicana de **Lucha Libre**.
+
+Así, la primera **lucha libre** que oficialmente se celebró en México tuvo lugar el 21 de septiembre de 1933, en la hoy célebre **Arena México**, y en ella se enfrentaron el famoso luchador irlandés "Ciclón" Mckay y el mexicano "Yaqui" Joe, presentado como campeón del mundo. A partir de entonces, empezaron a desarrollarse las técnicas y las reglas que permitían los lances desde la tercera cuerda, las llaves a ras de piso y el uso de las cuerdas para ganar impulso.
+
+En las décadas de 1940 y 1950, luchadores profesionales como Santo, el enmascarado de plata; Blue Demon, el Cavernario Galindo
