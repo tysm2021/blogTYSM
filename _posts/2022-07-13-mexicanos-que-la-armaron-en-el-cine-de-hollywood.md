@@ -63,6 +63,10 @@ Uno de los consentidos del gran público mexicano, por su enorme corazón y su g
 
 Luego de una no muy agradable experiencia con su debut en inglés, la cinta _Mimic_ (2000), regresó a México a dirigir _El espinazo del Diablo_ (2001) pero volvió a Hollwood, esta vez para triunfar con _Hellboy_ (2004), _El laberinto del fauno_ (2006) y _La forma del agua_ (2017). Además, **Del Toro** ha ganado un total de dos Oscares y fue nominado a otras tres estatuillas; actualmente, estamos en espera del estreno de su próxima cinta: la versión live-action de _Pinocho_ (2022).
 
-Alfonso Cuarón
+## Alfonso Cuarón
 
-En 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Desierto_01_%2820880136003%29.jpg/732px-Desierto_01_%2820880136003%29.jpg)
+
+El último lugar, pero no por ello el menos importante, corresponde al cinco veces ganador del Oscar, Alfonso Cuarón, quien nació en la Ciudad de México en el año de 1961. En su filmografía hay tres cintas mexicanas, _Sólo con tu pareja_ (1991), _Y tu mamá también…_ (2001) y _Roma_ (2018), y el resto son producciones internacionales. Destaca la segunda entrega de la saga del mago adolescente más famoso del mundo, _Harry Potter y el prisionero de Azkabán_ (2004), así como la multipremiada _Gravity_ (2007).
+
+Su más reciente película, _Roma_ (2018), es una reflexión casi autobiográfica ambientada en el México de 1970, y le hizo merecedor a tres Premios de la Academia y a dos nominaciones que no pudo llevarse a casa. A **Alfonso Cuarón** se le considera, junto a **Del Toro** y a **Alejandro González Iñárritu**, uno de los tres embajadores del cine mexicano contemporáneo ante los ojos del mundo.
