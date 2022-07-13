@@ -39,6 +39,10 @@ Fue a mediados del siglo XIX, a raíz de la intervención francesa en nuestro pa
 
 Así, la primera **lucha libre** que oficialmente se celebró en México tuvo lugar el 21 de septiembre de 1933, en la hoy célebre **Arena México**, y en ella se enfrentaron el famoso luchador irlandés "Ciclón" Mckay y el mexicano "Yaqui" Joe, presentado como campeón del mundo. A partir de entonces, empezaron a desarrollarse las técnicas y las reglas que permitían los lances desde la tercera cuerda, las llaves a ras de piso y el uso de las cuerdas para ganar impulso.
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La postal más icónica en la historia de la lucha libre mexicana. ¡El Santo y Blue Demon! <a href="https://twitter.com/hashtag/FotoDelRecuerdo?src=hash&amp;ref_src=twsrc%5Etfw">#FotoDelRecuerdo</a> <a href="https://t.co/I6JocOI0pd">pic.twitter.com/I6JocOI0pd</a></p>&mdash; Lucha Libre Y Ya (@LuchaLibreYYa) <a href="https://twitter.com/LuchaLibreYYa/status/1508590209142829063?ref_src=twsrc%5Etfw">March 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La postal más icónica en la historia de la lucha libre mexicana. ¡El Santo y Blue Demon! <a href="https://twitter.com/hashtag/FotoDelRecuerdo?src=hash&ref_src=twsrc%5Etfw">#FotoDelRecuerdo</a> <a href="https://t.co/I6JocOI0pd">pic.twitter.com/I6JocOI0pd</a></p>— Lucha Libre Y Ya (@LuchaLibreYYa) <a href="https://twitter.com/LuchaLibreYYa/status/1508590209142829063?ref_src=twsrc%5Etfw">March 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-En las décadas de 1940 y 1950, luchadores profesionales como Santo, el enmascarado de plata; Blue Demon, el Cavernario Galindo
+En las décadas de 1940 y 1950, luchadores profesionales como **Santo**, el enmascarado de plata; **Blue Demon**, el **Cavernario Galindo** y el **Rayo de Jalisco** empezaron a hacerse de gran fama y a convertirse en estrellas cinematográficas que lo mismo llevaban multitudes a las **arenas** y a las salas de cine. 
+
+Con el tiempo se unieron otros ídolos, como **Mil Máscaras**, **Lizmarck**, **El Tinieblas**, el Perro Aguayo y **Super Porky**, y hasta extranjeros como el **Vampiro Canadiense** y **Conan**. Hoy, la lucha libre mexicana, con todo y pandemia, parece estar más viva que nunca…
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/LuchaLibreObrera082.JPG/1057px-LuchaLibreObrera082.JPG)
