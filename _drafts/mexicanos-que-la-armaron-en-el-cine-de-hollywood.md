@@ -31,7 +31,11 @@ Antes de ser una de las primeras actrices de la Época de Oro del cine mexicano,
 
 Regresó a México a principios de la década de 1940, para estelarizar auténticos clásicos de nuestro cine como _Flor Silvestre_ (1943), _María Candelaria_ (1943) y _La Malquerida_ (1949). Un dato curioso es que **Dolores del Río** estuvo casada con el director artístico estadounidense **Cedric Gibbons**, quien fue nada menos el diseñador de la estatuilla del Premio de la Academia, apodado Oscar.
 
-Anthony Quinn
+## Anthony Quinn
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anthony_Quinn_200.jpg/674px-Anthony_Quinn_200.jpg)
+
+¿A poco sabías que el verdadero nombre de este actor era **Manuel Antonio Rodolfo Quinn Oaxaca**, y que lo de Anthony nomás era su nombre artístico. Pues sí, y nació en la ciudad de Chihuahua en 1913, en plena Revolución Mexicana, hijo de una madre mexicana y de un papá irlandés que, según se decía, había cabalgado al lado de Pancho Villa.
 
 Ricardo Montalbán
 
