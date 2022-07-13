@@ -39,4 +39,6 @@ Fue a mediados del siglo XIX, a raíz de la intervención francesa en nuestro pa
 
 Así, la primera **lucha libre** que oficialmente se celebró en México tuvo lugar el 21 de septiembre de 1933, en la hoy célebre **Arena México**, y en ella se enfrentaron el famoso luchador irlandés "Ciclón" Mckay y el mexicano "Yaqui" Joe, presentado como campeón del mundo. A partir de entonces, empezaron a desarrollarse las técnicas y las reglas que permitían los lances desde la tercera cuerda, las llaves a ras de piso y el uso de las cuerdas para ganar impulso.
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La postal más icónica en la historia de la lucha libre mexicana. ¡El Santo y Blue Demon! <a href="https://twitter.com/hashtag/FotoDelRecuerdo?src=hash&amp;ref_src=twsrc%5Etfw">#FotoDelRecuerdo</a> <a href="https://t.co/I6JocOI0pd">pic.twitter.com/I6JocOI0pd</a></p>&mdash; Lucha Libre Y Ya (@LuchaLibreYYa) <a href="https://twitter.com/LuchaLibreYYa/status/1508590209142829063?ref_src=twsrc%5Etfw">March 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 En las décadas de 1940 y 1950, luchadores profesionales como Santo, el enmascarado de plata; Blue Demon, el Cavernario Galindo
