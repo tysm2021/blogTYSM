@@ -23,3 +23,18 @@ show_author_profile: false
 comment: false
 
 ---
+## Dolores del Río
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bird_of_Paradise_%281932%29_2.jpg/1024px-Bird_of_Paradise_%281932%29_2.jpg)
+
+Antes de ser una de las primeras actrices de la Época de Oro del cine mexicano, esta hermosísima mujer
+
+Anthony Quinn
+
+Ricardo Montalbán
+
+Guillermo del Toro
+
+Alfonso Cuarón
+
+Salma Hayek
