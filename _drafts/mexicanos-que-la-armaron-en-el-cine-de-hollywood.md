@@ -35,7 +35,9 @@ Regresó a México a principios de la década de 1940, para estelarizar auténti
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anthony_Quinn_200.jpg/674px-Anthony_Quinn_200.jpg)
 
-¿A poco sabías que el verdadero nombre de este actor era **Manuel Antonio Rodolfo Quinn Oaxaca**, y que lo de Anthony nomás era su nombre artístico. Pues sí, y nació en la ciudad de Chihuahua en 1913, en plena Revolución Mexicana, hijo de una madre mexicana y de un papá irlandés que, según se decía, había cabalgado al lado de Pancho Villa.
+¿A poco sabías que el verdadero nombre de este actor era **Manuel Antonio Rodolfo Quinn Oaxaca**, y que lo de Anthony nomás era su nombre artístico. Pues sí, y nació en la ciudad de Chihuahua en 1913, en plena Revolución Mexicana, hijo de una madre mexicana y de un papá irlandés que, según se decía, había cabalgado al lado de Pancho Villa. Su infancia, sin embargo, transcurrió entre la ciudad de El Paso, Texas, y Los Angeles, California. Aunque de joven contempló la idea de convertirse en sacerdote, debutó en la pantalla grande en 1936.
+
+Entre los grandes éxitos cinematográficos de **Anthony Quinn** se encuentran: _Viva Zapata!_ (1952) y _Anhelo de vivir_ (1957), por las que ganó sendos Oscares como Mejor Actor Secundario; _La Strada_ (1954), dirigida por Federico Fellini; _Los cañones de Navarone_ (1961), _Lawrence de Arabia_ (1962), _Las sandalias del pescador_ (1968) y su emblemático rol en _Zorba el griego_ (1964), por el que estuvo nominado al Oscar como Mejor Actor.
 
 Ricardo Montalbán
 
