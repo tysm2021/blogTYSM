@@ -28,3 +28,5 @@ Las llaves, las contrallaves y las patadas voladoras; los rudos, los técnicos y
 Aquí en Toño y su mariachi te contamos un poco sobre el pancracio griego, la lucha grecorromana y las primeras **luchas** que se sostuvieron en la Ciudad de México, que poco a poco convirtieron a la **lucha libre** en parte de nuestra idiosincrasia y a la **Arena México**, en su catedral.
 
 TE RECOMENDAMOS:
+
+Los expertos dicen que los antecedentes de la lucha libre mexicana se localizan hasta la antigua Grecia: ahí, siglos antes de nuestra era, los fornidos atletas practicaban un deporte llamado "pancracio", el cual con el tiempo se convirtió en lo que hoy conocemos como **lucha grecorromana**. Ya en el siglo XIX, en Francia se practicaba algo llamado _catch-as-catch-can_ y en Inglaterra y los Estados Unidos ya existía el famoso _wrestling_ que permanece hasta nuestros días.
