@@ -55,6 +55,14 @@ Esta menudita mujer de origen libanés nació en 1966 en la ciudad de Coatzacoal
 
 **Salma** ha hecho toda una carrera en el cine hollywoodense, con papeles que van desde encarnar a la pintora Frida Kahlo en _Frida_ (1992) a encarnar a una superheroína del Universo Marvel en _Eternals_ (2021), pasando por el inolvidable papel de la bailarina exótica Satánico Pandemonium en _Del crepúsculo al amanecer_ (1996).
 
-Guillermo del Toro
+## Guillermo del Toro
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Guillermo_del_Toro_%288608482467%29.jpg/1024px-Guillermo_del_Toro_%288608482467%29.jpg)
+
+Uno de los consentidos del gran público mexicano, por su enorme corazón y su gran generosidad para con sus compatriotas, es sin duda **Guillermo del Toro Gómez**, quién nació en la ciudad de Guadalajara, Jalisco, en 1964, y fue hijo de migrantes españoles que lo criaron en un ambiente rígidamente católico. En México debutó como director de la cinta _Cronos_ (1993), y después estudió efectos especiales en los Estados Unidos.
+
+Luego de una no muy agradable experiencia con su debut en inglés, la cinta _Mimic_ (2000), regresó a México a dirigir _El espinazo del Diablo_ (2001) pero volvió a Hollwood, esta vez para triunfar con _Hellboy_ (2004), _El laberinto del fauno_ (2006) y _La forma del agua_ (2017). Además, **Del Toro** ha ganado un total de dos Oscares y fue nominado a otras tres estatuillas; actualmente, estamos en espera del estreno de su próxima cinta: la versión live-action de _Pinocho_ (2022).
 
 Alfonso Cuarón
+
+En 
