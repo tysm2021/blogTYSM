@@ -45,7 +45,13 @@ Así se le llamaba a María Josefa Crescencia Ortiz Téllez-Girón Domínguez, m
 
 Con este apodo, que se impuso él mismo, se le conoce al general insurgente **José María Morelos y Pavón**, quien mantuvo encendida la llama independentista tras la muerte de Hidalgo. Cuenta la leyenda que las palabras que pronunció fueron: "Soy siervo de la Nación porque ésta asume la más grande, legítima e inviolable de las soberanías. Y yo estoy al servicio de ella".
 
-El quince uñas
+![](https://upload.wikimedia.org/wikipedia/commons/0/05/Retrato_del_excelent%C3%ADsimo_se%C3%B1or_don_Jos%C3%A9_Mar%C3%ADa_Morelos.png)
+
+## El quince uñas
+
+Hay que reconocerlo: es un apodo cruel, pero ingenioso, el que le pusieron a **Antonio López de Santa Anna**, quien además de ocupar la presidencia en once ocasiones —aunque otros dicen que nomás fueron seis, pero con algunas interrupciones—, durante la llamada Guerra de los Pasteles perdió una de sus piernas, por lo que "sólo le quedaron quince uñas para seguir robando". Cosas que dice el pueblo a veces…
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/ed/Oleo_Antonio_Lopez_de_Santa_Anna.PNG)
 
 El barón de Cuatrociénegas
 
