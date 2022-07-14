@@ -15,8 +15,8 @@ article_header:
     src: "/images/2022-07-14-migueldominguez.jpg"
 sharing: true
 title: Apodos y títulos de los héroes y heroínas de la historia de México
-summary: ¿Por qué a los héroes les pusieron los apodos como "El apóstol de la democracia",
-  "El quince uñas" y "La Corregidora"?
+summary: ¿Por qué a nuestros héroes les pusieron los apodos como "El apóstol de la
+  democracia", "El quince uñas" y "La Corregidora"?
 cover: "/images/2022-07-14-migueldominguez.jpg"
 tags: personajes independencia revolución sigloXIX siglo XX
 show_author_profile: false
@@ -53,12 +53,12 @@ Hay que reconocerlo: es un apodo cruel, pero ingenioso, el que le pusieron a **A
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ed/Oleo_Antonio_Lopez_de_Santa_Anna.PNG)
 
-El barón de Cuatrociénegas
+## El manco de Celaya
 
-El manco de Celaya
+Estamos ya en tiempos de la Revolución y fue en estos años que, durante un enfrentamiento entre villistas y obregonistas cerca de la mencionada ciudad de Guanajuato, el general **Álvaro Obregón** perdió uno de sus brazos a consecuencia de la explosión de una granada. Y la cosa no paró ahí: luego de amputada su mano, anduvo de arriba a abajo —y dicen que hasta estuvo un tiempo en un burdel— hasta que Lázaro Cárdenas mandó construir el monumento donde por décadas se exhibió la mano sumergida en formol.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Alvaro_Obreg%C3%B3n.jpg/754px-Alvaro_Obreg%C3%B3n.jpg)
 
 El centauro del norte
 
 El apóstol de la democracia
-
-Benemérito de las Américas
