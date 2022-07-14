@@ -35,15 +35,15 @@ Nos referimos, desde luego, al cura **Miguel Hidalgo y Costilla**, quien entre l
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/ad/General%C3%ADsimo_Miguel_Hidalgo_y_Costilla.png)
 
-La Corregidora
+## La Corregidora
 
-Así se le llama a doña Josefa Ortiz 
+Así se le llamaba a María Josefa Crescencia Ortiz Téllez-Girón Domínguez, mejor conocida como **doña Josefa Ortiz de Domínguez**, quien fuera esposa del señor Miguel Domínguez, a la sazón corregidor de Querétaro. Ella nunca tuvo ese cargo ni desempeñó oficialmente sus funciones.
 
-El siervo de la Nación
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Josefa_Ortiz%2C_%C3%B3leo_sobre_tela.jpg/757px-Josefa_Ortiz%2C_%C3%B3leo_sobre_tela.jpg)
 
-## Benemérita de la Patria
+## El siervo de la Nación
 
-Este título le fue puesto a Leona Vicario, reconocida mujer independentista, benefactora del movimiento insurgente y, por si fuera poco, primera mujer periodista de México. La también esposa de don Andrés Quintana Roo recibió el nombramiento el 25 de agosto de 1843, cuatro días después de su muerte.
+Con este apodo, que se impuso él mismo, se le conoce al general insurgente **José María Morelos y Pavón**, quien mantuvo encendida la llama independentista tras la muerte de Hidalgo. Cuenta la leyenda que las palabras que pronunció fueron: "Soy siervo de la Nación porque ésta asume la más grande, legítima e inviolable de las soberanías. Y yo estoy al servicio de ella".
 
 El quince uñas
 
