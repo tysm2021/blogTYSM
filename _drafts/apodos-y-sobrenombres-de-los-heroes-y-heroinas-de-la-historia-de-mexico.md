@@ -59,6 +59,13 @@ Estamos ya en tiempos de la Revolución y fue en estos años que, durante un enf
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Alvaro_Obreg%C3%B3n.jpg/754px-Alvaro_Obreg%C3%B3n.jpg)
 
-El centauro del norte
+## El centauro del norte
 
-El apóstol de la democracia
+En la mitología griega, un centauro era una criatura fabulosa que tenía el torso de un hombre y, por debajo, las cuatro patas de un caballo. Y justamente así debió de lucir Doroteo Arango, quien pasó a la historia como **Pancho Villa**, quien durante la Revolución Mexicana se encargó de las movilizaciones militares en la porción norte del país.
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/11/Pancho_Villa_Riding_1914.jpg)
+
+## El apóstol de la democracia
+
+Cuando se opuso al régimen de Porfirio Díaz, quien estaba en el poder desde hacía treinta años, **Francisco I. Madero** enarboló el emblema de "Sufragio efectivo, no reelección". Por eso, cuando lo derrotó limpiamente en las urnas el 6 de noviembre de 1911, pronunció la frase: "Estoy más orgulloso por las victorias obtenidas en el campo de la democracia que por las alcanzadas en los campos de batalla".  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Madero_Retrato_%28Castillo_de_Chapultepec%29.png/527px-Madero_Retrato_%28Castillo_de_Chapultepec%29.png)
