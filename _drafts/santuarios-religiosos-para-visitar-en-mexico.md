@@ -41,4 +41,8 @@ Ahora, vayámonos al estado de **Zacatecas**, donde en el poblado de **Plateros*
 
 ## Insigne y Nacional Basílica de Santa María de Guadalupe
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nueva_Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_Guadalupe_-_Outside_-_2.JPG/1024px-Nueva_Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_Guadalupe_-_Outside_-_2.JPG)
+
+Al norte de la capital del país, concretamente a los pies del Cerro del Tepeyac, en la Alcaldía Gustavo A. Madero, se encuentra la Villa de Guadalupe, que además de la "nueva" **Basílica de Guadalupe** también comprende la antigua basílica, el panteón y el museo guadalupanos, las capillas del Cerrito, de Indios y del Pocito, así como jardines y otras instalaciones. Hablamos del **santuario religioso** más concurrido del país y, sin duda, de uno de los más **visitados** del mundo, pues antes de la pandemia se registraron asistencias de hasta casi **20 millones de peregrinos** al año.
+
 ## Santuario del Señor de Chalma
