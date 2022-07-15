@@ -46,3 +46,7 @@ Ahora, vayámonos al estado de **Zacatecas**, donde en el poblado de **Plateros*
 Al norte de la capital del país, concretamente a los pies del Cerro del Tepeyac, en la Alcaldía Gustavo A. Madero, se encuentra la Villa de Guadalupe, que además de la "nueva" **Basílica de Guadalupe** también comprende la antigua basílica, el panteón y el museo guadalupanos, las capillas del Cerrito, de Indios y del Pocito, así como jardines y otras instalaciones. Hablamos del **santuario religioso** más concurrido del país y, sin duda, de uno de los más **visitados** del mundo, pues antes de la pandemia se registraron asistencias de hasta casi **20 millones de peregrinos** al año.
 
 ## Santuario del Señor de Chalma
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Retablo_principal_del_Santuario_del_Se%C3%B1or_de_Chalma_-_4.jpg/768px-Retablo_principal_del_Santuario_del_Se%C3%B1or_de_Chalma_-_4.jpg)
+
+Por último, visitemos este **santuario** que se encuentra en el **Estado de México**, en el municipio de Malinalco, por los rumbos de Toluca. En él se encuentra un Cristo crucificado que data del siglo XVI y que tiene una gran base de fieles que año con año lo visitan para "pagar la manda" y, también, cumplir con la tradición de bañarse en el manantial del poblado vecino de Ocuilan, colocarse una corona de flores para entrar al **santuario** y terminar la visita realizando un baile: de ahí durge la expresión que dice "Ni yendo a bailar a Chalma". 
