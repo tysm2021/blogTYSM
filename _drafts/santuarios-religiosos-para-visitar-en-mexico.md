@@ -33,9 +33,11 @@ Por cierto, la palabra **santuario** deriva del latín _sanctuarium_, y según l
 
 Este importante centro de peregrinación se encuentra, justamente, en la ciudad de **San Juan de los Lagos**, Jalisco, y ahí se adora a una pequeña **imagen** de la **Virgen María**, en su advocación de la Inmaculada Concepción. Los creyentes creen que esta imagen de forma semi triangular es muy milagrosa —su primer milagro reconocido por la Iglesia sucedió hace cuatro siglos, en 1623— y por eso más de ocho millones de fieles van a verla cada año, haciendo de este el segundo **santuario** más **visitado** de todo **México**.
 
-una pequeña imagen de la [Virgen María](https://es.wikipedia.org/wiki/Virgen_Mar%C3%ADa "Virgen María") en su advocación de la [Inmaculada Concepción](https://es.wikipedia.org/wiki/Inmaculada_Concepci%C3%B3n "Inmaculada Concepción")
-
 ## Santuario del Santo Niño de Atocha
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Santuario_del_Santo_Ni%C3%B1o_de_Atocha_02.JPG/768px-Santuario_del_Santo_Ni%C3%B1o_de_Atocha_02.JPG)
+
+Ahora, vayámonos al estado de Zacatecas, donde en la ciudad de Plateros —o "Plateritos", como cariñosamente le dicen los zacatecanos— 
 
 ## Insigne y Nacional Basílica de Santa María de Guadalupe
 
