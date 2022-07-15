@@ -37,7 +37,7 @@ Este importante centro de peregrinación se encuentra, justamente, en la ciudad 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Santuario_del_Santo_Ni%C3%B1o_de_Atocha_02.JPG/768px-Santuario_del_Santo_Ni%C3%B1o_de_Atocha_02.JPG)
 
-Ahora, vayámonos al estado de Zacatecas, donde en la ciudad de Plateros —o "Plateritos", como cariñosamente le dicen los zacatecanos— 
+Ahora, vayámonos al estado de **Zacatecas**, donde en el poblado de **Plateros** —o "Plateritos", como cariñosamente le dicen los zacatecanos—, a unos cinco kilómetros de la ciudad de Fresnillo, se encuentra este santuario donde se venera una imagen del **Santo Niño de Atocha**, una alegoría de Jesús siendo un infante y vestido como peregrino de la Ruta de Santiago. Son más dos millones los fieles que cada año acuden a pedirle un favor al **Santo Niño** o a agradecerle por los milagros concedidos, lo que convierte a esta **iglesia** en la tercera más concurrida en todo el país.
 
 ## Insigne y Nacional Basílica de Santa María de Guadalupe
 
