@@ -24,3 +24,8 @@ show_author_profile: false
 comment: false
 
 ---
+A millones de mexicanos, especialmente en la región del centro del país, al acercarse el mes de septiembre nos encanta preparar y disfrutar del tradicional **pozole** que se prepara con chiles rojos y **carne de cerdo**. Pero, ¿sabías que también existe el **pozole verde** o "**estilo Guerrero**", que aunque también se elabora con puerco lleva una **receta** diferente?
+
+A continuación te hablamos un poco de esta delicia gastronómica que, por cierto, se come con aguacate, con chicharrón crujiente de cerdo, juguito de limón y con las tradicionales tostadas de maíz embadurnadas de crema ácida.
+
+TE RECOMENDAMOS:
