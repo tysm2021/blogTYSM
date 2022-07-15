@@ -29,6 +29,12 @@ Por cierto, la palabra **santuario** deriva del latín _sanctuarium_, y según l
 
 ## Catedral Basílica de Nuestra Señora de San Juan de los Lagos
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bas%C3%ADlica_de_San_Juan_de_los_Lagos.jpg/790px-Bas%C3%ADlica_de_San_Juan_de_los_Lagos.jpg)
+
+Este importante centro de peregrinación se encuentra, justamente, en la ciudad de **San Juan de los Lagos**, Jalisco, y ahí se adora a una pequeña **imagen** de la **Virgen María**, en su advocación de la Inmaculada Concepción. Los creyentes creen que esta imagen de forma semi triangular es muy milagrosa —su primer milagro reconocido por la Iglesia sucedió hace cuatro siglos, en 1623— y por eso más de ocho millones de fieles van a verla cada año, haciendo de este el segundo **santuario** más **visitado** de todo **México**.
+
+una pequeña imagen de la [Virgen María](https://es.wikipedia.org/wiki/Virgen_Mar%C3%ADa "Virgen María") en su advocación de la [Inmaculada Concepción](https://es.wikipedia.org/wiki/Inmaculada_Concepci%C3%B3n "Inmaculada Concepción")
+
 ## Santuario del Santo Niño de Atocha
 
 ## Insigne y Nacional Basílica de Santa María de Guadalupe
