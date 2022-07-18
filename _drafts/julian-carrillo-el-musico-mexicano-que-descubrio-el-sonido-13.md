@@ -28,3 +28,5 @@ Muchos músicos mexicanos han brillado en el firmamento del estrellato, a veces 
 Además del sonido 13, Carrillo brilló con luz propia en México y en el extranjero, fue director de la Orquesta Sinfónica Nacional, así como director del Conservatorio Nacional de Música de la Ciudad de México.
 
 TE RECOMENDAMOS:
+
+El 28 de enero de 1875, nació en el pequeño poblado de Ahualulco, San Luis Potosí, el compositor Julián Carrillo Trujillo. Desde muy pequeño mostró aptitudes para la música, de modo que a los diez años de edad fue llevado a la capital del estado para estudiar música. A los veinte años de edad, ingresó al Conservatorio Nacional de Música como alumno de las clases de composición, violín y acústica. Fue ahí donde escuchó por primera vez "un sonido extraño" que tras años de estudio acabaría recibiendo el nombre de Sonido 13.
