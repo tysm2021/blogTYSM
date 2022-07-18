@@ -23,7 +23,7 @@ show_author_profile: false
 comment: false
 
 ---
-Algunos, atendiendo a su origen mitológico de siglos, dicen que el pulque es "la bebida de los dioses"; otros lo aprecian por su origen, por su historia y por la tradición; y muchos más, simplemente porque es una bebida alcohólica deliciosa y muy mexicana. Por eso, aquí te compartimos algunos datos curiosos sobre el pulque que a lo mejor no conocías.
+Algunos, atendiendo a su origen mitológico de siglos, dicen que el **pulque** es "la **bebida de los dioses**"; otros lo aprecian por su origen, por su historia y por la tradición; y muchos más, simplemente porque es una **bebida** alcohólica deliciosa y muy mexicana. Por eso, aquí te compartimos algunos **datos** **curiosos** sobre el **pulque** que a lo mejor no conocías.
 
 Recuerda que no sólo puedes disfrutarlo al natural, sino que también tenemos una gran variedad de "curados", que vienen mezclados con ingredientes naturales como frutas y verduras, así como con sabores que no niegan que es un producto netamente de estas tierras…
 
@@ -31,7 +31,7 @@ TE RECOMENDAMOS:
 
 ### Surgió con una leyenda
 
-Cuenta una antigua leyenda prehispánica que hace mucho tiempo existió una hermosa y joven diosa que se llamaba **Mayahuel**, cuya abuela la cuidaba celosamente pues tenía una planta con el don de "hacer felices a los hombres". El dios Ehécatl-Quetzalcóatl enamoró a la diosa y juntos huyeron lejos de la furia de la abuela, pero pronto se enteraron de que los hermano de **Mayahuel** los buscaban para matarlos; por eso, tomaron la forma de una planta pero los hermanos identificaron a **Mayahuel** y la destrozaron, para limpiar la deshonra. 
+Cuenta una antigua leyenda prehispánica que hace mucho tiempo existió una hermosa y joven diosa que se llamaba **Mayahuel**, cuya abuela la cuidaba celosamente pues tenía una planta con el don de "hacer felices a los hombres". El dios Ehécatl-Quetzalcóatl enamoró a la diosa y juntos huyeron lejos de la furia de la abuela, pero pronto se enteraron de que los hermano de **Mayahuel** los buscaban para matarlos; por eso, tomaron la forma de una planta pero los hermanos identificaron a **Mayahuel** y la destrozaron, para limpiar la deshonra.
 
 Con el corazón destrozado, Quetzalcóatl rescató los restos de la planta y la regó todos los días con sus lágrimas, pero ni así logró revivir a la hermosa **Mayahuel**, quien se quedó para siempre con la forma de la planta sagrada, que no es otra sino el **agave**, de donde se obtiene el **pulque**, que desde entonces es llamado "la bebida o el néctar de los dioses".
 
