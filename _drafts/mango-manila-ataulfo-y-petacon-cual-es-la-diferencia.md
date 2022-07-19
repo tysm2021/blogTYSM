@@ -40,3 +40,7 @@ Este **mango**, que empieza siendo verde perico y al madurar se va poniendo amar
 ![](https://upload.wikimedia.org/wikipedia/commons/3/34/Mango_ATAULFO_MALLIKA_Asit.jpg)
 
 Esta especie, aunque no es del agrado de todos, es 100% mexicana, pues tuvo su origen en 1963, cuando el productor chiapaneco **Ataulfo Morales Gordillo** experimentó haciendo injertos de diversas especies de **mangos** filipinos hasta encontrar el punto exacto de consistencia, sabor y dulzor. Es ligeramente más ácido que el Manila y su consistencia es más pastosa, por lo que mucha gente prefiere comerlo con chile piquín en polvo.
+
+## Mango petacón
+
+Esta especie de mango es notablemente más grande que las dos anteriores, tiene forma semiesférica y el color de su piel varía ligeramente según la región, pero por lo regular es amarilla con grandes manchas verdes o rojas. Su nombre se debe a su enorme tamaño y peso, pues puede alcanzar los 18 cm de diámetro y pesar hasta 700 gramos. Su pulpa es firme, jugosa, carnosa y dulce, y aunque es muy diferente al Manila, casi goza de la misma popularidad, sobre todo en los puestos callejeros donde se vende picado o trinchado en un palo y cubierto de chile piquín.
