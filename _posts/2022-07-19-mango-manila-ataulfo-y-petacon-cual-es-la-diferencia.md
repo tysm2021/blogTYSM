@@ -43,4 +43,6 @@ Esta especie, aunque no es del agrado de todos, es 100% mexicana, pues tuvo su o
 
 ## Mango petacón
 
-Esta especie de mango es notablemente más grande que las dos anteriores, tiene forma semiesférica y el color de su piel varía ligeramente según la región, pero por lo regular es amarilla con grandes manchas verdes o rojas. Su nombre se debe a su enorme tamaño y peso, pues puede alcanzar los 18 cm de diámetro y pesar hasta 700 gramos. Su pulpa es firme, jugosa, carnosa y dulce, y aunque es muy diferente al Manila, casi goza de la misma popularidad, sobre todo en los puestos callejeros donde se vende picado o trinchado en un palo y cubierto de chile piquín.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mango02_CS_HD_CS_Asit.jpg/1024px-Mango02_CS_HD_CS_Asit.jpg)
+
+Esta especie de **mango** es notablemente más grande que las dos anteriores, tiene forma semiesférica y el color de su piel varía ligeramente según la región, pero por lo regular es amarilla con grandes manchas verdes o rojas. Su nombre se debe a su enorme tamaño y peso, pues puede alcanzar los 18 cm de diámetro y pesar hasta 700 gramos. Su pulpa es firme, jugosa, carnosa y dulce, y aunque es muy diferente al Manila, casi goza de la misma popularidad, sobre todo en los puestos callejeros donde se vende picado o trinchado en un palo y cubierto de chile piquín.
