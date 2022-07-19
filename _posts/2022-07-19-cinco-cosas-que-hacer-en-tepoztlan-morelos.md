@@ -51,7 +51,7 @@ Si bien Tepoztlán abunda en hoteles y restaurantes para todos los presupuestos,
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Convento_de_Tepoztlan_-_panoramio.jpg/1024px-Convento_de_Tepoztlan_-_panoramio.jpg)
 
-Uno de los principales atractivos de Tepoztlán es el Ex Convento de Tepoztlán, de Nuestra Señora de la Natividad. Se trata de una gran nave con hermosos campanarios que, aunque resultó dañada durante los sismos de 2017, aún conserva gran parte de su encanto. No te pierdas el Museo y Centro de Documentación, donde podrás admirar las antiguas celdas con sus pinturas murales.
+Uno de los principales atractivos de Tepoztlán es el Ex Convento de Tepoztlán, de Nuestra Señora de la Natividad. Se trata de una gran nave con hermosos campanarios que, aunque resultó dañada durante los sismos de 2017, aún conserva gran parte de su encanto. No te pierdas también el Museo y Centro de Documentación, donde podrás admirar las antiguas celdas con sus pinturas murales.
 
 ## Cómete una nieve
 
