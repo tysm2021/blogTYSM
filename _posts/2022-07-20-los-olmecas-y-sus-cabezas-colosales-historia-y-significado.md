@@ -36,3 +36,9 @@ Uno de los principales vestigios **arqueológicos** que legaron a la humanidad e
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Olmeca_head_in_Villahermosa.jpg/1085px-Olmeca_head_in_Villahermosa.jpg)
 
 A la fecha se han descubierto un total de 17 **cabezas colosales**, cuyo peso oscila entre las cinco y las 50 toneladas. Están esculpidas en basalto, una piedra volcánica porosa, y todas portan una especie de casco con insignias que hablan de su estirpe y su rango en la sociedad: se ha especulado que se trata de efigies de jugadores de pelota, de guerreros notables o de gobernantes.
+
+En el sitio de La Venta, en la región de los Tuxtlas de Tabasco, fueron halladas cuatro **cabezas colosales**; diez corresponden al sitio de San Lorenzo, y los restantes de Tres Zapotes y alrededores.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/CabezaColosal1_MuseoXalapa.jpg/1024px-CabezaColosal1_MuseoXalapa.jpg)
+
+Por último, al observar las **cabezas** de perfil, resulta evidente la deformación craneal a la que eran sometidos los **olmecas** desde el año y medio de edad, cuando los huesos de sus cabezas aún no soldaban de modo permanente. Otros rasgos observados son la nariz achatada, las mejillas prominentes, las comisuras de la boca hacia abajo y el "estrabismo bilateral convergente", es decir, que eran bizcos.
