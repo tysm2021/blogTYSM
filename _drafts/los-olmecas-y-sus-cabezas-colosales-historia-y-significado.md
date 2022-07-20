@@ -32,3 +32,7 @@ TE RECOMENDAMOS:
 **Olmeca** es el nombre que le damos a una antigua civilización **arqueológica** que vivió en territorio mexicano entre los años 1200 y 400 a.C.; no sabemos cómo se llamaban ellos a sí mismos. Su principal asentamiento se halla en **San Lorenzo**, Veracruz; a su declive, destacaron los sitios de **Tres Zapotes** y **La Venta**.
 
 Uno de los principales vestigios **arqueológicos** que legaron a la humanidad es un grupo de **esculturas** monumentales en piedra que los arqueólogos llaman "**cabezas colosales**", las cuales tiene una forma semiesférica y presentan el rostro de un individuo con la nariz achatada, lo cual muchos estudiosos han vinculado con los rasgos del jaguar, un animal selvático que los **olmecas** adoraban y admiraban.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Olmeca_head_in_Villahermosa.jpg/1085px-Olmeca_head_in_Villahermosa.jpg)
+
+A la fecha se han descubierto un total de 17 **cabezas colosales**, cuyo peso oscila entre las cinco y las 50 toneladas. Están esculpidas en basalto, una piedra volcánica porosa, y todas portan una especie de casco con insignias que hablan de su estirpe y su rango en la sociedad: se ha especulado que se trata de efigies de jugadores de pelota, de guerreros notables o de gobernantes.
