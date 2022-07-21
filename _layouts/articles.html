@@ -133,7 +133,7 @@ _articles -%}
 
 
  <div class="mh">
-    <h1>Lo mas reciente</h1>  
+    <h1>Lo más reciente</h1>  
       {%- if _type == 'grid' -%} {%- if page.articles.size == 'sm' -%} {%- include
       article-list.html articles=_articles type='grid' size='sm' -%} {%- else -%}
       {%- include article-list.html articles=_articles type='grid' -%} {%- endif -%}
@@ -173,8 +173,19 @@ _articles -%}
         
 {{ content }} -->
 
+<div class="external-left  ">
+  <img src=".../images/banner-lateral1.png" class="" alt="">
+</div>
+<div class="external-right">
+  <img src=".../images/banner-lateral2.png" class="" alt="">
+</div>
+
   
 <div class="mh">
+
+  <div>
+    <img src=".../images/banner-principal.png" class="responsive" alt="banner-mexikah">
+  </div>
   
   <div class="section-cat historia">
     <div class="header-cat">
@@ -432,6 +443,8 @@ _articles -%}
       </div>
   </div>
   
+
+
   
   <div class="section-cat mundo">
     <div class="header-cat">
@@ -478,5 +491,9 @@ _articles -%}
       </div>
       {% endfor %}
       </div>
+  </div>
+
+  <div class="external">
+    <img src=".../images/banner-footer.png" class="responsive" alt="banner-mexikah">
   </div>
 </div>
