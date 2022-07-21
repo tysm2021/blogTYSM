@@ -37,4 +37,6 @@ Once años después, el 27 de septiembre de 1821, gracias a la alianza de Vicent
 
 Sin embargo, la primera celebración de "El Grito" tuvo lugar el 16 de septiembre de 1812 en la población de Huichapan, Hidalgo, y estuvo a cargo del general insurgente Ignacio López Rayón, quien había sido secretario de Hidalgo y, a la muerte de éste, tomó temporalmente el mando del movimiento de insurrección. En esa ocasión, se hicieron sonar las campanas y se rememoró el hecho con descargas de artillería.
 
+![](https://upload.wikimedia.org/wikipedia/commons/6/65/Ignacio_Ray%C3%B3n.jpg)
+
 Después de ello, el general José María Morelos y Pavón propuso la idea de "solemnizar la celebración del Grito de Dolores" por su valor simbólico
