@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-06-23-houses-2470398_1280.jpeg"
 sharing: true
-title: 'Ciudades monocromáticas: hermosa poblaciones de un solo color'
+title: 'Ciudades monocromáticas: hermosas poblaciones de un solo color'
 summary: Demos una vuelta por poblaciones en las que domina un solo color en el paisaje
   de sus calles y edificios
 cover: "/images/2022-06-23-houses-2470398_1280.jpeg"
