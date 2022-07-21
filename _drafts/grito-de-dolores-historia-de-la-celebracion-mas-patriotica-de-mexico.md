@@ -23,3 +23,4 @@ show_author_profile: false
 comment: false
 
 ---
+Todos los mexicanos sabemos que, la madrugada del **16 de septiembre de 1810**, el cura **Miguel Hidalgo y Costilla** dio "**El Grito**" en el poblado de **Dolores** para así llamar al pueblo de **México** a luchar por su **Independencia**. Pero, ¿cuál es el **origen** del "**Grito de Dolores**" que cada **15 de septiembre** da el Presidente de la República para recordar esta página de la **historia**?
