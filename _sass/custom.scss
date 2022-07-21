@@ -1338,8 +1338,8 @@ p {
 $margin: 100px 0 100px 0;
 $radius: 10px;
 $gradient: linear-gradient(rgb(5, 12, 7),rgba(5,12,7,.3));
-
 $cultura: url("https://hdnh.es/wp-content/uploads/2017/08/cultura.jpg"); 
+
 .cultura{
   background: $gradient , $cultura;
   background-repeat: no-repeat;
@@ -2156,4 +2156,45 @@ p{
 
 .list-view ul{
   list-style: none;
+}
+
+
+.responsive {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+
+$marginExternal: 70px 0 50px 0;
+.external{
+   margin: $marginExternal;
+}
+
+
+.external-left{
+  position: fixed;
+  top: 130px;
+  z-index: 500;
+  left: 0;
+}
+
+.external-right{
+  position: fixed;
+  top: 130px;
+  z-index: 500;
+  right: 0;
+}
+
+
+
+@media screen and (max-width:1400px) {
+  .external-left{
+    visibility: hidden
+  }
+
+  .external-right{
+    visibility: hidden
+  }
+  
 }
