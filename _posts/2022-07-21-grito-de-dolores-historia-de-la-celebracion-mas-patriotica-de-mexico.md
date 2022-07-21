@@ -39,4 +39,12 @@ Sin embargo, la primera celebración de "**El Grito**" tuvo lugar el **16 de sep
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/65/Ignacio_Ray%C3%B3n.jpg)
 
-Después de ello, el general José María Morelos y Pavón propuso la idea de "solemnizar la celebración del Grito de Dolores" por su valor simbólico
+Después de ello, el general José María Morelos y Pavón propuso la idea de "solemnizar la celebración del **Grito de Dolores**" por su valor simbólico, lo cual fue ratificado en 1814 en la Constitución de Apatzingán. Fue hasta 1825 y con Guadalupe Victoria como presidente, sin embargo, que el **16 de septiembre** tuvo el carácter de fiesta nacional, pidiéndole a la población que decorara e iluminara sus hogares "con cortinas, flámulas y gallardetes", costumbre que permanece hasta hoy.
+
+Resulta irónico que la fiesta más mexicana de todas como la conocemos hoy haya sido oficializada por un extranjero: el entonces emperador de México, **Maximiliano de Habsburgo**, quien en 1864 se traslado hasta **Dolores** y, desde la ventana de la Casa de **Hidalgo**, dio el famoso **Grito de Dolores**.
+
+Existe el rumor de que el presidente **Porfirio Díaz** cambió la celebración de la Independencia del 16 al **15 de septiembre**, para que así coincidiera con su cumpleaños, pero diversos historiadores han desmentido esta versión argumentando que desde que López Rayón dio el primer **Grito de Dolores** lo hizo la noche del 15 de septiembre.
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/03/EPN._Grito_de_Independencia_2.jpg)
+
+Actualmente, al ceremonia toma lugar en el balcón presidencial de Palacio Nacional, donde el **Presidente** en turno sale, con bandera en mano, a recordar a "los héroes que nos dieron Patria, libertad de **Independencia**", mencionando por sus nombres a **Hidalgo**, Morelos, Allende y otros próceres de la Patria; luego de gritar algunas otras consignas, **el Grito** culmina con un "¡Viva México!" que se corea tres veces.
