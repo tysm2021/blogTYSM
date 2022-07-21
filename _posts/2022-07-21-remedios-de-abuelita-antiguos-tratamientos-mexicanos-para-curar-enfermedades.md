@@ -42,3 +42,21 @@ Hay gente muy mala en el mundo, eso que ni qué. Y cuando hay  "un trabajo" de p
 ### Ventosas
 
 Según algunos, este remedio proviene de la milenaria China. Pero aquí en México es muy socorrida para aliviar distintos malestares y enfermedades. El principio es muy simple: se tiende al enfermo o la enferma boca abajo, con la espalda descubierta; se vierte un poco de alcohol en un vaso pequeño y se unta por las paredes del mismo, se le prende fuego y, antes de que se apague, rápidamente se adhiere a la piel del paciente; el vacío que provoca el fuego hará que el vaso "succione" la piel, lo cual —dependiendo del mal y de la habilidad de quien lo aplica— aliviará el malestar… o te dejará una serie de moretones y chupetones en la espalda que mejor ni platicamos.
+
+### Otros remedios
+
+Ahora bien, hablemos de malestares propios del folclor:
+
+**Empacho**
+
+Cuando comes de más o algo de lo que comiste te cayó mal, de peso o "se te quedó pegado", hablamos de que sufres de **empacho**. Para aliviarlo, uno de los remedios clásicos es la "**jalada de cuero**"; y no, no pienses mal: se trata de un jalón de la piel de la espalda, que se estira con los dedos hasta que se produce un chasquido. Es muy doloroso… pero dicen que efectivo.
+
+**Mal de ojo**
+
+Hay gente con "vista pesada", que te mira pero con envidia o coraje, deseando que algo terrible te suceda o que te vaya mal. Contra ello hay varios remedios, desde la ya mencionada **limpia** hasta un **sahumerio**, que no es sino someterte al humo de alguna hierba medicinal siendo quemada, ¿qué dices, te animas?
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_cure.jpg/1024px-The_cure.jpg)
+
+**Espanto**
+
+Por último, hablemos del **espanto** que, como su nombre lo indica, proviene de un **susto** fuerte —por ejemplo, si sufres un accidente automovilístico, te caes de una escalera o estás a punto de ahogarte en una alberca—; los **síntomas** son un desgano profundo, la mirada perdida y, en casos graves, se pierden las ganas de salir a la calle. Para tratarlo, en tiendas de herbolaría, mercados o boticas de colonias populares se venden  "**espíritus de tomar**" y "**espíritus de untar**", aunque el remedio por excelencia en el "**pan puerco**", una pomada que está elaborada con manteca de cerdo. Aunque uno no deja de sospechar que lo que cura, más bien, es el apapacho, la atención y los cuidados, ¿o tú qué opinas?
