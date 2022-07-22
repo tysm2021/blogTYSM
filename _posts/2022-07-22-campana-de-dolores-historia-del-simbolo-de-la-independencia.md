@@ -41,4 +41,6 @@ Fue así que, el 14 de septiembre del mismo año, la histórica **campana** lleg
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores_en_Dolores_Hidalgo%2C_Guanajuato%2C_M%C3%A9xico.jpg/1280px-Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores_en_Dolores_Hidalgo%2C_Guanajuato%2C_M%C3%A9xico.jpg)
 
-Pero no vayas a creer que la Campana de Dolores se ha quedado quieta en su nicho sobre el balcón presidencial de Palacio Nacional: en el año de 1985, con motivo del 175 aniversario del inicio de la Guerra de Independencia, 
+Pero no vayas a creer que la **Campana de Dolores** se ha quedado quieta en su nicho sobre el balcón presidencial de Palacio Nacional: en el año de 1985, con motivo del 175 aniversario del inicio de la Guerra de Independencia, la **campana** original fue bajada de su sitio y llevada en una gira nacional por todos los rincones de la República. 
+
+Hoy en día, la **campana** es uno de los símbolos patrios más reconocidos por todos los mexicanos, que lo mismo aparece en el símbolo de la estación Insurgentes del metro de la Ciudad de México que en los escudos de diversos estados.
