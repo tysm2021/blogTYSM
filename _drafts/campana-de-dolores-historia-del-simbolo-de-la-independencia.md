@@ -36,3 +36,9 @@ La historia de la **Campana de Dolores** empieza el 28 de julio de 1768, cuando 
 Luego de la gesta histórica del 16 de septiembre de 1810, y ya una vez consumada la **Independencia**, la **Campana** fue sustraída de su lugar de origen y llevada a la Ciudad de México por órdenes del entonces presidente, Porfirio Díaz, el 28 de julio de 1896, exactamente 128 años después de su fundición. Fueron dos militares, los generales Sóstenes Rocha e Ignacio Salas, quienes se hicieron cargo del traslado de la reliquia a la capital.
 
 Fue así que, el 14 de septiembre del mismo año, la histórica **campana** llegó a la Ciudad de México y fue instalada sobre el balcón central del Palacio Nacional. A la noche siguiente, el 15 de septiembre de 1896, dio inicio de la tradición de que el Presidente en turno la haga sonar durante la ceremonia de "**El Grito**".
+
+¿Y qué pasó con el **campanario** vacío en **Dolores** Hidalgo? Tuvieron que pasar muchos años para que otro presidente, en esta ocasión Adolgo López Mateos, ordenara fundir 32 réplicas idénticas de la histórica **campana**, una para la capital de cada uno de los 31 estado y la última para sustituir a la original en la parroquia de **Dolores** Hidalgo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores_en_Dolores_Hidalgo%2C_Guanajuato%2C_M%C3%A9xico.jpg/1280px-Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores_en_Dolores_Hidalgo%2C_Guanajuato%2C_M%C3%A9xico.jpg)
+
+Pero no vayas a creer que la Campana de Dolores se ha quedado quieta en su nicho sobre el balcón presidencial de Palacio Nacional: 
