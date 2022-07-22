@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Debido a la expansión del Imperio Español en el continente americano y otras partes del mundo durante los siglos XVI, XVII y XVIII, el español o castellano es una de las lenguas más habladas de todo el mundo. Pero, ¿cuáles son los países con mayor número de hablantes de la llamada "lengua de Cervantes"?
+
+A continuación te presentamos algunas de las cifras estadísticas acerca de los países con el mayor número de personas con las que podrías tener una conversación sin tener que recurrir a un traductor o un diccionario.
+
+TE RECOMENDAMOS:
