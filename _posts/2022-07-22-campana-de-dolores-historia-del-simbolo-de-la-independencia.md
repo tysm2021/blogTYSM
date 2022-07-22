@@ -37,7 +37,7 @@ Luego de la gesta histórica del 16 de septiembre de 1810, y ya una vez consumad
 
 Fue así que, el 14 de septiembre del mismo año, la histórica **campana** llegó a la Ciudad de México y fue instalada sobre el balcón central del Palacio Nacional. A la noche siguiente, el 15 de septiembre de 1896, dio inicio de la tradición de que el Presidente en turno la haga sonar durante la ceremonia de "**El Grito**".
 
-¿Y qué pasó con el **campanario** vacío en **Dolores** Hidalgo? Tuvieron que pasar muchos años para que otro presidente, en esta ocasión Adolgo López Mateos, ordenara fundir 32 réplicas idénticas de la histórica **campana**, una para la capital de cada uno de los 31 estado y la última para sustituir a la original en la parroquia de **Dolores** Hidalgo.
+¿Y qué pasó con el **campanario** vacío en **Dolores** Hidalgo? Tuvieron que pasar muchos años para que, en 1960 y con motivo del 150 aniversario del Grito, el presidente Adolfo López Mateos ordenara fundir 32 réplicas idénticas de la histórica **campana**, una para la capital de cada uno de los 31 estado y la última para sustituir a la original en la parroquia de **Dolores** Hidalgo.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores_en_Dolores_Hidalgo%2C_Guanajuato%2C_M%C3%A9xico.jpg/1280px-Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores_en_Dolores_Hidalgo%2C_Guanajuato%2C_M%C3%A9xico.jpg)
 
