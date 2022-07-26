@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Muchos paisajes de México consideran siempre a una montaña nevada o un volcán al fondo y enmarcando la escena. Y de entre las muchas montañas y volcanes que engalanan nuestra geografía, ¿cuáles son las cinco más altas del país?
+
+A continuación, te decimos el Top 5 de las montañas con mayor altura del país, las cuales —considerando que México está dentro del llamado 'Cinturón de Fuego' y tiene gran actividad sísmica y tectónica— todas son volcanes activos.
+
+TE RECOMENDAMOS:
