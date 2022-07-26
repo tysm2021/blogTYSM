@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+A todos, en las escuelas, nos hacen memorizarlo desde muy pequeños y regularmente lo cantamos las mañanas de todos los lunes mientras hacemos los "honores a la Bandera". Pero, ¿conoces la historia que dio origen al Himno Nacional Mexicano? ¿Quiénes escribieron su letra y su música, cuándo se estrenó y cuántas estrofas tiene?
+
+De todo esto y un poco más te platicaremos en esta breve nota, para que la próxima vez que entonces el famoso "Mexicanos al grito de guerra, el acero aprestad y el bridón…" sepas un poco del contexto del cántico marcial más famoso de México.
+
+TE RECOMENDAMOS:
