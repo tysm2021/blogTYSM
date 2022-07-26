@@ -53,4 +53,8 @@ La "mujer dormida" o "Mujer blanca" en náhuatl es la compañera del Popo, pues 
 
 Al poniente de la Ciudad de México se encuentra la ciudad de  Toluca de Lerdo, capital del Estado de México, y a 22 kilómetros de esta urbe se encuentra esta **montaña**, la cuarta **más alta** de todo el país, que actualmente es conocida con el nombre de Xinantécatl u "hombre desnudo", aunque en tiempos prehispánicos se le conocía como Chicnauhtécatl, que significa "nueve cerros", aludiendo a las nueve cumbres con las que cuenta el **volcán**, cuya **altura** máxima es de **4,645 metros sobre el nivel del mar**. En varios de sus cráteres se han formado lagos que atraen a turistas, senderistas y aficionados al montañismo.
 
-Sierra Negra
+## Sierra Negra
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/87/CerroLaNegraPico.jpg)
+
+Por último se encuentra esta **montaña**, relativamente menos conocida que las anteriores, la cual en la imagen de arriba figura del lado izquierdo, a un lado de su vecino, el imponente Citlaltépetl. Se localiza en el estado de Puebla, muy cerca de su límite con Veracruz, y se alza a una altura de **4,580 metros sobre el nivel del mar**. Un dato importante es que en su cumbre se encuentra el Gran Telescopio Milimétrico Alfonso Serrano (GTM), considerado el más grande radiotelescopio en su radio de frecuencia. Es uno de los pocos **volcanes** mexicanos que, por su falta de actividad sísmica, se considera extinto.
