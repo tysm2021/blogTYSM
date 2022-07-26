@@ -47,6 +47,10 @@ El segundo lugar en esta lista lo ocupa el 'Popo', 'Don Goyo' —como lo conocen
 
 La "mujer dormida" o "Mujer blanca" en náhuatl es la compañera del Popo, pues cuenta la leyenda que se trata de una princesa prehispánica que duerme un sueño eterno siendo vigilada por su valeroso vecino. Ubicado entre los estados de México y Puebla, el 'Izta' tiene una altura de **5,215 metros sobre el nivel del mar**, y el nombre del **volcán** proviene de su perfil nevado, que a la distancia recuerda a la silueta de una mujer recostada y cubierta por un manto blanco. Entre esta montaña y el Popocatépetl se encuentra el histórico Paso de Cortés, que tradicionalmente es el sitio por donde dicho conquistador español arribó al Valle de México y a la imponente capital mexica de Tenochtitlan.
 
-Nevado de Toluca
+## Nevado de Toluca
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vista_del_Nevado_de_Toluca.jpg/1024px-Vista_del_Nevado_de_Toluca.jpg)
+
+Al poniente de la Ciudad de México se encuentra la ciudad de  Toluca de Lerdo, capital del Estado de México, y a 22 kilómetros de esta urbe se encuentra esta **montaña**, la cuarta **más alta** de todo el país, que actualmente es conocida con el nombre de Xinantécatl u "hombre desnudo", aunque en tiempos prehispánicos se le conocía como Chicnauhtécatl, que significa "nueve cerros", aludiendo a las nueve cumbres con las que cuenta el **volcán**, cuya **altura** máxima es de **4,645 metros sobre el nivel del mar**. En varios de sus cráteres se han formado lagos que atraen a turistas, senderistas y aficionados al montañismo.
 
 Sierra Negra
