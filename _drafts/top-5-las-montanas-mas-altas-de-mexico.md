@@ -35,7 +35,11 @@ TE RECOMENDAMOS:
 
 A la cabeza de esta lista se encuentra este **volcán**, el cual se localiza en la frontera de los estados de Puebla y Veracruz, y se alza magnífico a una altura de **5,474 metros sobre el nivel del mar**. En náhuatl se le conoce actualmente con el nombre de **Citlaltépetl**, que quiere decir "cerro o monte de la estrella", pues desde la ciudad de Coscomatepec durante la noche puede verse a Venus —que se conoce como "la estrella más brillante", aunque en realidad es un planeta— ponerse en el cráter del **volcán**. Se cree que antiguamente se le llamaba Poyautécatl, que quiere "el que está donde se adelgaza la niebla".
 
-Popocatépetl
+## Popocatépetl
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Fumarola_del_Popocat%C3%A9petl_%28octubre%2C_2012%29_1.JPG/1024px-Fumarola_del_Popocat%C3%A9petl_%28octubre%2C_2012%29_1.JPG)
+
+El segundo lugar en esta lista lo ocupa el 'Popo', 'Don Goyo' —como lo conocen los lugareños por una leyenda— o "la **montaña** que humea", que es lo que significa su nombre en náhuatl. Eterno vigilante del horizonte del Valle de México, este magnífico **estratovolcán** se alza a **5500 metros sobre el nivel del mar**, y se encuentra en la frontera de los estados de México, Puebla y Morelos. A pesar de que a mitad del siglo XX tuvo un periodo de reposo, el Popocatépetl siempre ha estado en actividad, lanzando fumarolas constantes y con erupciones suaves a cada tanto, que vienen acompañadas de exhalaciones de ceniza.
 
 Iztaccíhuatl
 
