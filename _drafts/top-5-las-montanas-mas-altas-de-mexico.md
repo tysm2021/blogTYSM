@@ -29,7 +29,11 @@ A continuación, te decimos el **Top 5** de las **montañas** con **mayor** **al
 
 TE RECOMENDAMOS:
 
-Pico de Orizaba
+## Pico de Orizaba
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/34/Pico_de_Orizaba_desde_Hidalgo%2C_Puebla.jpg)
+
+A la cabeza de esta lista se encuentra este **volcán**, el cual se localiza en la frontera de los estados de Puebla y Veracruz, y se alza magnífico a una altura de **5,474 metros sobre el nivel del mar**. En náhuatl se le conoce actualmente con el nombre de **Citlaltépetl**, que quiere decir "cerro o monte de la estrella", pues desde la ciudad de Coscomatepec durante la noche puede verse a Venus —que se conoce como "la estrella más brillante", aunque en realidad es un planeta— ponerse en el cráter del **volcán**. Se cree que antiguamente se le llamaba Poyautécatl, que quiere "el que está donde se adelgaza la niebla".
 
 Popocatépetl
 
