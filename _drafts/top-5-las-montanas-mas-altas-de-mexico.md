@@ -41,7 +41,11 @@ A la cabeza de esta lista se encuentra este **volcán**, el cual se localiza en 
 
 El segundo lugar en esta lista lo ocupa el 'Popo', 'Don Goyo' —como lo conocen los lugareños por una leyenda— o "la **montaña** que humea", que es lo que significa su nombre en náhuatl. Eterno vigilante del horizonte del Valle de México, este magnífico **estratovolcán** se alza a **5500 metros sobre el nivel del mar**, y se encuentra en la frontera de los estados de México, Puebla y Morelos. A pesar de que a mitad del siglo XX tuvo un periodo de reposo, el Popocatépetl siempre ha estado en actividad, lanzando fumarolas constantes y con erupciones suaves a cada tanto, que vienen acompañadas de exhalaciones de ceniza.
 
-Iztaccíhuatl
+## Iztaccíhuatl
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lira_038.jpg/1024px-Lira_038.jpg)
+
+La "mujer dormida" o "Mujer blanca" en náhuatl es la compañera del Popo, pues cuenta la leyenda que se trata de una princesa prehispánica que duerme un sueño eterno siendo vigilada por su valeroso vecino. Ubicado entre los estados de México y Puebla, el 'Izta' tiene una altura de **5,215 metros sobre el nivel del mar**, y el nombre del **volcán** proviene de su perfil nevado, que a la distancia recuerda a la silueta de una mujer recostada y cubierta por un manto blanco. Entre esta montaña y el Popocatépetl se encuentra el histórico Paso de Cortés, que tradicionalmente es el sitio por donde dicho conquistador español arribó al Valle de México y a la imponente capital mexica de Tenochtitlan.
 
 Nevado de Toluca
 
