@@ -28,3 +28,13 @@ Muchos paisajes de **México** consideran siempre a una **montaña** nevada o un
 A continuación, te decimos el **Top 5** de las **montañas** con **mayor** **altura** del país, las cuales —considerando que **México** está dentro del llamado 'Cinturón de Fuego' y tiene gran actividad sísmica y tectónica— todas son **volcanes** activos.
 
 TE RECOMENDAMOS:
+
+Pico de Orizaba
+
+Popocatépetl
+
+Iztaccíhuatl
+
+Nevado de Toluca
+
+Sierra Negra
