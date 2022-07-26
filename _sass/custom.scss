@@ -1252,7 +1252,7 @@
 
 .button--secondary, .button--secondary:link, .button--secondary:visited {
     color: white;
-  
+
 }
 
 
@@ -1291,7 +1291,7 @@ p {
   padding: 50px;
  }
 
- 
+
 @media (max-width: 1200px) {
   .section-cat{
     padding: 25px;
@@ -1338,7 +1338,7 @@ p {
 $margin: 100px 0 100px 0;
 $radius: 10px;
 $gradient: linear-gradient(rgb(5, 12, 7),rgba(5,12,7,.3));
-$cultura: url("https://hdnh.es/wp-content/uploads/2017/08/cultura.jpg"); 
+$cultura: url("https://hdnh.es/wp-content/uploads/2017/08/cultura.jpg");
 
 .cultura{
   background: $gradient , $cultura;
@@ -1346,7 +1346,7 @@ $cultura: url("https://hdnh.es/wp-content/uploads/2017/08/cultura.jpg");
   background-size: cover;
   border-radius: $radius;
   margin: $margin;
-} 
+}
 
 .back-cultura{
   background: $gradient , $cultura;
@@ -1387,8 +1387,8 @@ $turismo: url("https://realestatemarket.com.mx/images/2022/01-enero/1801/turismo
   background-size: cover;
 }
 
-$gastronomia: url("https://conceptodefinicion.de/wp-content/uploads/2019/08/Gastronom%C3%ADa-1.jpg") ;  
-.gastronomia{ 
+$gastronomia: url("https://conceptodefinicion.de/wp-content/uploads/2019/08/Gastronom%C3%ADa-1.jpg") ;
+.gastronomia{
   background: $gradient , $gastronomia;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1516,7 +1516,7 @@ $mundo: url("https://th.bing.com/th/id/R.46806354e4c4e8e1f2da8ef742e56e80?rik=A%
   position: absolute;
   bottom:15px;
   width: 100%;
-  padding: 0 10px 2px 10px; 
+  padding: 0 10px 2px 10px;
   color: #fff;
   font-size: 15px;
   line-height: 15px;
@@ -1543,7 +1543,7 @@ $mundo: url("https://th.bing.com/th/id/R.46806354e4c4e8e1f2da8ef742e56e80?rik=A%
   .container-slide img{
   width: 100%;
   height: 100%;
- 
+
  }
 
  .slide-title, .slide-title > a{
@@ -1559,7 +1559,7 @@ $mundo: url("https://th.bing.com/th/id/R.46806354e4c4e8e1f2da8ef742e56e80?rik=A%
   .container-slide img{
   width: 100%;
   height: 100%;
- 
+
  }
 
  .slide-title, .slide-title > a{
@@ -1568,9 +1568,9 @@ $mundo: url("https://th.bing.com/th/id/R.46806354e4c4e8e1f2da8ef742e56e80?rik=A%
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 40%) !important;
  }
 
-  
-  
-  
+
+
+
   .slide-text{
     bottom: 35px;
     font-size: 18px;
@@ -1588,7 +1588,7 @@ $mundo: url("https://th.bing.com/th/id/R.46806354e4c4e8e1f2da8ef742e56e80?rik=A%
   .container-slide img{
   width: 100%;
   height: 100%;
- 
+
  }
 
  .slide-title, .slide-title > a{
@@ -1600,8 +1600,8 @@ $mundo: url("https://th.bing.com/th/id/R.46806354e4c4e8e1f2da8ef742e56e80?rik=A%
   .slide-item{
     max-height: 300px;
   }
-  
-  
+
+
   .slide-text{
     bottom: 35px;
     font-size: 18px;
@@ -1618,14 +1618,14 @@ $mundo: url("https://th.bing.com/th/id/R.46806354e4c4e8e1f2da8ef742e56e80?rik=A%
 @media screen and (max-width: 320px) {
   .container-slide img{
   width: 100%;
- 
+
  }
 
   .slide-item{
     max-height: 195px;
   }
-  
-  
+
+
   .slide-text{
     bottom: 35px;
     font-size: 18px;
@@ -1751,7 +1751,7 @@ input[id="5"]:checked ~ .pagination-slide .item-pagination[for="5"]{
   100%{
     transform: translate3d(calc(-100% * 4), 0, 0);
   }
-  
+
 }
 
 
@@ -1761,7 +1761,7 @@ input[id="5"]:checked ~ .pagination-slide .item-pagination[for="5"]{
   overflow: hidden;
   padding: 16px;
   width: 100%;
-  
+
 }
 
 .demo_wrap h1 {
@@ -1783,7 +1783,7 @@ input[id="5"]:checked ~ .pagination-slide .item-pagination[for="5"]{
   width: 100%;
   height: auto;
   opacity: 0.6;
- 
+
 }
 
 
@@ -2074,7 +2074,7 @@ input[id="5"]:checked ~ .pagination-slide .item-pagination[for="5"]{
   justify-content: center;
   align-items: center;
 }
-  
+
   .header__title {
     margin-right: 0em;
 }
@@ -2130,7 +2130,7 @@ p{
 
 
 .hero h1 {
- 
+
   line-height: 1.5em;
 
 }
@@ -2163,6 +2163,7 @@ p{
   width: 100%;
   height: auto;
   border-radius: 5px;
+  padding: 25px;
 }
 
 
@@ -2196,5 +2197,11 @@ $marginExternal: 70px 0 50px 0;
   .external-right{
     visibility: hidden
   }
-  
+
+}
+
+
+
+.border{
+  padding: 45px;
 }

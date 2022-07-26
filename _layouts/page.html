@@ -152,9 +152,9 @@ show_date: true
                     {%- include article-info.html article=page semantic=false -%}
                     {%- include article-header.html article=page semantic=false -%}
                     {%- if page.excerpt -%}
-    
+
                       <p class="overlay__excerpt">{{ page.summary | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate }}</p>
-                    {%- endif -%} 
+                    {%- endif -%}
                     {%- if page.article_header.actions -%}
                       <ul class="menu">
                         {%- for _action in page.article_header.actions -%}
@@ -188,11 +188,23 @@ show_date: true
             <div class="grid grid--reverse ">
 
               <div class="col-aside d-print-none js-col-aside">
+
                 {%- if page.aside -%}
                   <aside class="page__aside js-page-aside">
                     {%- include aside/toc.html -%}
+
+
+                    <div>
+                      <a href="http://www.bucefalogames.com/Mexikah/index.html" target="_blank">
+                        <img src="/images/banner-lateral1.png" class="responsive border" alt="banner-mexikah">
+                      </a>
+                    </div>
+
                   </aside>
                 {%- endif -%}
+
+
+
 
 
               </div>
@@ -247,13 +259,13 @@ show_date: true
 {%- endif -%}
 {%- if _header != false -%}
   <div class="modal modal--overflow page__search-modal d-print-none js-page-search-modal">{%- include search.html -%}</div>
-  
+
 {%- endif -%}
 </div>
 
 
 <script>
-    {%- include scripts/lib/scroll-to.js -%} 
+    {%- include scripts/lib/scroll-to.js -%}
     {%- include scripts/lib/affix.js -%}
     {%- include scripts/lib/toc.js -%}
     {%- if _lightbox == true -%}

@@ -19,20 +19,20 @@ _articles -%}
 
 <div class="layout--articles">
 
-  
+
   <div class="module-slide">
 
      <div class="container-slide">
       <input type="radio" id="1" name="image-slide" hidden>
 
       <input type="radio" id="2" name="image-slide" hidden>
-    
+
       <input type="radio" id="3" name="image-slide" hidden>
       <input type="radio" id="4" name="image-slide" hidden>
       <input type="radio" id="5" name="image-slide" hidden>
-       
+
       <div class="slide-img">
-    
+
           <div class="slide-item">
             <img src="../images/PortadaBLOG.png">
             <!-- {% for post in site.categories.ASIESMEXICO limit:1 %}
@@ -71,7 +71,7 @@ _articles -%}
           </a>
             {% endfor %}
           </div>
-          
+
           <div class="slide-item">
             {% for post in site.categories.CULTURA limit:1 %}
             <a href="{{ site.baseurl }}{{ post.url }}">
@@ -97,7 +97,7 @@ _articles -%}
             </a>
             {% endfor %}
           </div>
-    
+
         </div>
 
         <div class="pagination-slide">
@@ -133,7 +133,7 @@ _articles -%}
 
 
  <div class="mh">
-    <h1>Lo más reciente</h1>  
+    <h1>Lo más reciente</h1>
       {%- if _type == 'grid' -%} {%- if page.articles.size == 'sm' -%} {%- include
       article-list.html articles=_articles type='grid' size='sm' -%} {%- else -%}
       {%- include article-list.html articles=_articles type='grid' -%} {%- endif -%}
@@ -169,13 +169,13 @@ _articles -%}
 
 
 
-<!-- 
-        
+<!--
+
 {{ content }} -->
 
 <div class="external-left  ">
   <a href="http://www.bucefalogames.com/Mexikah/index.html" target="_blank">
-    <img src="/images/banner-lateral1.png" class="" alt="Mexikah">
+    <img src="/images/banner-lateral1.png" class=""" alt="Mexikah">
 
   </a>
 
@@ -186,7 +186,7 @@ _articles -%}
   </a>
 </div>
 
-  
+
 <div class="mh">
 
   <div>
@@ -194,7 +194,7 @@ _articles -%}
       <img src="/images/banner-principal.png" class="responsive" alt="banner-mexikah">
     </a>
   </div>
-  
+
   <div class="section-cat historia">
     <div class="header-cat">
       <h1 class="article__text">HISTORIA</h1>
@@ -221,8 +221,8 @@ _articles -%}
       <a href="{{site.baseurl}}categories/historia.html" class="btn-cat">Mas notas relacionadas</a>
     </div>
     </div>
-  
-  
+
+
    <div class="the-most-view">
       <h1>Lo último en Historia</h1>
       <div class="article-list grid grid--p-3">
@@ -233,7 +233,7 @@ _articles -%}
             <div class="card__image">
               <img src="{{ post.cover }}" alt="" class="image" />
               <div class="card__header">
-  
+
                 <h2 class="card__text">{{post.title}}</h2>
                 <p class="card__summary">{{post.summary}}</p>
               </div>
@@ -244,13 +244,13 @@ _articles -%}
       {% endfor %}
       </div>
    </div>
-  
+
   <div class="section-cat gastronomia">
     <div class="header-cat">
       <h1 class="article__text">GASTRONOMÍA</h1>
-     
+
     </div>
-  
+
     <div class="article-list grid grid--p-3">
       {% assign sortedPosts = site.categories.GASTRONOMIA | sort: "title" %}
       {% for post in sortedPosts limit:3 %}
@@ -273,8 +273,8 @@ _articles -%}
       <a href="{{site.baseurl}}categories/gastronomia.html" class="btn-cat">Mas notas relacionadas</a>
     </div>
   </div>
-  
-  
+
+
   <div class="the-most-view">
     <h1>Lo último en Gastronomía</h1>
     <div class="article-list grid grid--p-3">
@@ -288,19 +288,19 @@ _articles -%}
                 <h2 class="card__text">{{post.title}}</h2>
                 <p class="card__summary">{{post.summary}}</p>
             </div>
-            </div>          
+            </div>
           </a>
         </div>
       </div>
       {% endfor %}
       </div>
   </div>
-  
+
   <div class="section-cat turismo">
     <div class="header-cat">
       <h1 class="article__text">TURISMO</h1>
     </div>
-  
+
     <div class="article-list grid grid--p-3">
       {% assign sortedPosts = site.categories.TURISMO | sort: "title" %}
       {% for post in sortedPosts limit:3 %}
@@ -310,7 +310,7 @@ _articles -%}
           <div class="card__image">
             <img src="{{ post.cover }}" alt="" class="image" />
             <div class="card__header">
-  
+
                 <h2 class="card__text">{{post.title}}</h2>
                 <p class="card__summary">{{post.summary}}</p>
               </div>
@@ -324,7 +324,7 @@ _articles -%}
           <a href="{{site.baseurl}}categories/turismo.html" class="btn-cat">Mas notas relacionadas</a>
         </div>
   </div>
-  
+
   <div class="the-most-view">
     <h1>Lo último en Turismo</h1>
     <div class="article-list grid grid--p-3">
@@ -345,7 +345,7 @@ _articles -%}
       {% endfor %}
       </div>
   </div>
-  
+
   <div class="section-cat cultura">
     <div class="header-cat">
       <h1 class="article__text">CULTURA</h1>
@@ -356,7 +356,7 @@ _articles -%}
       <div class="cell cell--12 cell--md-6 cell--lg-4">
         <div class="card card--flat">
           <a href="{{ site.baseurl }}{{ post.url }}">
-  
+
             <div class="card__image">
               <img src="{{ post.cover }}" alt="" class="image" />
               <div class="card__header">
@@ -365,7 +365,7 @@ _articles -%}
               </div>
             </div>
           </a>
-  
+
         </div>
       </div>
       {% endfor %}
@@ -374,7 +374,7 @@ _articles -%}
       <a href="{{site.baseurl}}categories/cultura.html" class="btn-cat">Mas notas relacionadas</a>
     </div>
   </div>
-  
+
   <div class="the-most-view">
     <h1>Lo último en Cultura</h1>
     <div class="article-list grid grid--p-3">
@@ -382,7 +382,7 @@ _articles -%}
       <div class="cell cell--12 cell--md-6 cell--lg-4">
         <div class="card card--flat">
           <a href="{{ site.baseurl }}{{ post.url }}">
-  
+
             <div class="card__image">
               <img src="{{ post.cover }}" alt="" class="image" />
               <div class="card__header">
@@ -391,14 +391,14 @@ _articles -%}
               </div>
             </div>
           </a>
-            
+
         </div>
       </div>
       {% endfor %}
       </div>
   </div>
-  
-  
+
+
   <div class="section-cat folclore">
     <div class="header-cat">
       <h1 class="article__text">MEXICANISIMOS</h1>
@@ -409,7 +409,7 @@ _articles -%}
       <div class="cell cell--12 cell--md-6 cell--lg-4">
         <div class="card card--flat">
           <a href="{{ site.baseurl }}{{ post.url }}">
-  
+
             <div class="card__image">
               <img src="{{ post.cover }}" alt="" class="image" />
               <div class="card__header">
@@ -418,7 +418,7 @@ _articles -%}
               </div>
             </div>
           </a>
-            
+
         </div>
       </div>
       {% endfor %}
@@ -427,7 +427,7 @@ _articles -%}
       <a href="{{site.baseurl}}categories/folclore.html" class="btn-cat">Mas notas relacionadas</a>
     </div>
   </div>
-  
+
   <div class="the-most-view">
     <h1>Lo último en MEXICANISIMOS</h1>
     <div class="article-list grid grid--p-3">
@@ -435,7 +435,7 @@ _articles -%}
       <div class="cell cell--12 cell--md-6 cell--lg-4">
         <div class="card card--flat">
           <a href="{{ site.baseurl }}{{ post.url }}">
-  
+
             <div class="card__image">
               <img src="{{ post.cover }}" alt="" class="image" />
               <div class="card__header">
@@ -444,16 +444,16 @@ _articles -%}
               </div>
             </div>
           </a>
-  
+
         </div>
       </div>
       {% endfor %}
       </div>
   </div>
-  
 
 
-  
+
+
   <div class="section-cat mundo">
     <div class="header-cat">
       <h1 class="article__text">MUNDO</h1>
@@ -468,7 +468,7 @@ _articles -%}
               <a href="{{ site.baseurl }}{{ post.url }}"></a>
               <h2 class="card__text">{{post.title}}</h2>
               <p class="card__summary">{{post.summary}}</p>
-  
+
             </div>
           </div>
         </div>
@@ -479,7 +479,7 @@ _articles -%}
       <a href="{{site.baseurl}}categories/elmundo.html" class="btn-cat">Mas notas relacionadas</a>
     </div>
   </div>
-  
+
   <div class="the-most-view">
     <h1>Lo último en en MUNDO</h1>
     <div class="article-list grid grid--p-3">
@@ -492,7 +492,7 @@ _articles -%}
               <a href="{{ site.baseurl }}{{ post.url }}"></a>
               <h2 class="card__text">{{post.title}}</h2>
               <p class="card__summary">{{post.summary}}</p>
-  
+
             </div>
           </div>
         </div>
