@@ -25,7 +25,7 @@ comment: false
 ---
 Muchos paisajes de **México** consideran siempre a una **montaña** nevada o un **volcán** al fondo y enmarcando la escena. Y de entre las muchas **montañas** y **volcanes** que engalanan nuestra geografía, ¿cuáles son las cinco **más altas** del país?
 
-A continuación, te decimos el **Top 5** de las **montañas** con **mayor** **altura** del país, las cuales —considerando que **México** está dentro del llamado 'Cinturón de Fuego' y tiene gran actividad sísmica y tectónica— todas son **volcanes** activos.
+A continuación, te decimos el **Top 5** de las **montañas** con **mayor** **altura** del país, las cuales —considerando que **México** está dentro del llamado 'Cinturón de Fuego' y tiene gran actividad sísmica y tectónica— casi todas son **volcanes** activos.
 
 TE RECOMENDAMOS:
 
@@ -39,7 +39,7 @@ A la cabeza de esta lista se encuentra este **volcán**, el cual se localiza en 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Fumarola_del_Popocat%C3%A9petl_%28octubre%2C_2012%29_1.JPG/1024px-Fumarola_del_Popocat%C3%A9petl_%28octubre%2C_2012%29_1.JPG)
 
-El segundo lugar en esta lista lo ocupa el 'Popo', 'Don Goyo' —como lo conocen los lugareños por una leyenda— o "la **montaña** que humea", que es lo que significa su nombre en náhuatl. Eterno vigilante del horizonte del Valle de México, este magnífico **estratovolcán** se alza a **5500 metros sobre el nivel del mar**, y se encuentra en la frontera de los estados de México, Puebla y Morelos. A pesar de que a mitad del siglo XX tuvo un periodo de reposo, el Popocatépetl siempre ha estado en actividad, lanzando fumarolas constantes y con erupciones suaves a cada tanto, que vienen acompañadas de exhalaciones de ceniza.
+El segundo lugar en esta lista lo ocupa el 'Popo', 'Don Goyo' —como lo conocen los lugareños por una leyenda— o "la **montaña** que humea", que es lo que significa su nombre en náhuatl. Eterno vigilante del horizonte del Valle de México, este magnífico **estratovolcán** se alza a **5500 metros sobre el nivel del mar**, y se encuentra en la frontera de los estados de México, Puebla y Morelos. A pesar de que a mitad del siglo XX tuvo un periodo de reposo, el Popocatépetl siempre ha estado en actividad, lanzando fumarolas constantes y con erupciones suaves a cada tanto, que vienen acompañadas de notables exhalaciones de ceniza.
 
 ## Iztaccíhuatl
 
