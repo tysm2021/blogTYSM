@@ -36,3 +36,9 @@ El **xoloitzcuintle**, **xoloitzcuintli** o **xoloescuintle** es una raza canina
 La palabra náhuatl **_xoloitzcuintli_** tiene varios **significados**: en primer lugar, viene de _xólotl_, que significa 'lampiño o desnudo', y _itzcuintli_, que significa 'perro'; pero, por otro lado, **Xólotl** era el dios del fuego y del relámpago, asimismo deidad de los gemelos, los monstruos, las desgracias, la enfermedad y las deformidades; también se creía que tenía cabeza de perro y que era el guía del alma de los muertos al reino del inframundo.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Xolotl_muz.jpg/1023px-Xolotl_muz.jpg)
+
+Los zoólogos creen que los **xoloescuintles** son originarios del estado de Colima y que la especie tiene de 10 mil a 7 mil años de antigüedad. Debido a la creencia, en la religión mexica, de que los '**xolos**' eran guías de sus dueños en su camino hacia el Mictlán o reino de los muertos, a menudo se les sacrificaba y se les enterraba junto a los muertos que debían conducir en su último tránsito.
+
+Después de la colonización, esta especie estuvo a punto de extinguirse, pues se le consideraba feo o deforme debido a su carencia de pelo. Fue a instancia de artistas como Diego Rivera, que adoptó a algunos ejemplares y los mostró como animales hermosos, y de un esfuerzo de rescate por parte de asociaciones canófilas que los **xoloitzcuintles** fueron revalorados y popularizados como mascotas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Diego_Rivera_with_a_xoloitzcuintle_dog_in_the_Blue_House%2C_Coyoacan_-_Google_Art_Project.jpg/829px-Diego_Rivera_with_a_xoloitzcuintle_dog_in_the_Blue_House%2C_Coyoacan_-_Google_Art_Project.jpg)
