@@ -38,3 +38,9 @@ Ya instalado en la Ciudad de México, **Rulfo** empezó a trabajar como archivis
 Entre 1944 y 1947, los primeros **cuentos** de **Juan Rulfo** empezaron a ser publicados en revistas literarias, y ya entonces empezaba a perfilar la idea de la que sería su gran novela. Finalmente, en septiembre de 1952 el Fondo de Cultura Económica publicó _El llano en llamas y otros cuentos_, en su colección de Letras Mexicanas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/14/Rulfo_por_Lyon.jpg)
+
+Entre 1952 y 1954, Rulfo recibió la beca del Centro Mexicano de Escritores y gracias a ello pudo concluir su **novela**, _Pedro Páramo_, el cual entregó para su publicación al Fondo de Cultura Económica en septiembre de 1954. Unos meses después, en marzo de 1955, el título fue puesto a la venta dentro de la colección Letras Mexicanas. Además de estos dos títulos importantísimos, **Rulfo** también escribió una novela corta titulada _El gallo de oro_, la cual no sería publicada sino hasta 1980.
+
+La publicación de _Pedro Páramo_ fue el acontecimiento más significativo en la carrera literaria de **Juan Rulfo**, y la **novela** obtuvo excelentes reseñas inmediatamente después de su aparición, tanto entre los literatos mexicanos como en el extranjero. La trama es sencilla: Juan Preciado decide ir a Comala, "porque le dijeron que ahí vivía su padre, un tal **Pedro Páramo**"; en ese misterioso pueblo, Juan habrá de conocer a una serie de personajes y vivir episodios que, a medida que avanza la lectura, hacen que uno confunda la realidad con el sueño y deje distinguir a los vivos de quienes ya están muertos.
+
+Además de su relevante papel como uno de los **escritores** mexicanos más importantes del **siglo XX**, **Juan Rulfo** también fue un excelente fotógrafo, historiador y guionista de cine. En 1976, fue elegido miembro de la Academia Mexicana de la Lengua y, el 7 de enero de 1986 falleció a consecuencia del cáncer de pulmón.
