@@ -23,3 +23,10 @@ show_author_profile: false
 comment: false
 
 ---
+En las últimas décadas, en algunas ciudades de México se han puesto de moda unos "**perros pelones**" que desde tiempos prehispánicos conocemos como **xoloitzcuintles**, **xoloescuintles** o, simplemente, '**xolos**'. ¿Cuál es la **historia** de estos curiosos animales, por qué carecen de pelo y qué papel jugaban en la **cultura** y la **religión** de los antiguos mexicanos?
+
+Demos un vistazo a la historia de los queridos **xoloitzcuintles**, un vocablo náhuatl que es el antecedente de "escuincle", una palabra casi arcaica que se usa para designar a los niños, en especial si son muy latosos.
+
+TE RECOMENDAMOS:
+
+El **xoloitzcuintle**, **xoloitzcuintli** o **xoloescuintle** es una raza canina originaria de México, que se caracteriza porque en casi todas las ocasiones carece de pelo. 
