@@ -23,3 +23,23 @@ show_author_profile: false
 comment: false
 
 ---
+Cuando estamos planeando un viaje y a la hora de hacer los presupuestos, mucho importa si el **hotel** que elegimos es de **una estrella**, de **dos**, **tres**, **cuatro** o hasta de **cinco** **estrellas**, pues normalmente a mejor es el **servicio** que ofrece más alta es su **tarifa**. Pero, ¿**qué significa** exactamente este **sistema de clasificación por estrellas**? Y más aún, ¿**quién** o qué autoridad **decide** de **cuántas estrellas** es un **hotel** en **México**?
+
+A diferencia de lo que sucede en otros países, en nuestro país la actividad turística y el servicio que ofrece la industria **hotelera** está regulado por la **Secretaría de Turismo** (Sectur), la cual establece el criterio de **clasificación**.
+
+TE RECOMENDAMOS:
+
+Según se lee en un sitio oficial del gobierno mexicano, en México existe el **Sistema de Clasificación Hotelera** (SCH), una herramienta metodológica que comenzó a funcionar en 2015 y que funciona a través de un mecanismo de autoevaluación regulado por Sectur, para permitir que sean los propios **hoteles** den a conocer la situación de sus instalaciones y servicios ofrecidos, así como identificar áreas de oportunidad.
+
+El reglamento del SCH, que está contemplado en la Ley General de Turismo, cuando se trata de un hotel o establecimiento de hospedaje, considera ocho ejes de desempeño: 
+
+1. Acceso, exterior y generales
+2. Comunicación
+3. Habitación y baño
+4. Alimentos y bebidas
+5. Recepción
+6. Control de temperatura
+7. Servicios
+8. Áreas públicas
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/San_Miguel_de_Allende_%28Mexico%2C_November_2018%29_-_1_%2850997211783%29.jpg/1024px-San_Miguel_de_Allende_%28Mexico%2C_November_2018%29_-_1_%2850997211783%29.jpg)
