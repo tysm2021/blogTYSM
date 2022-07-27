@@ -29,4 +29,10 @@ Demos un vistazo a la historia de los queridos **xoloitzcuintles**, un vocablo n
 
 TE RECOMENDAMOS:
 
-El **xoloitzcuintle**, **xoloitzcuintli** o **xoloescuintle** es una raza canina originaria de México, que se caracteriza porque en casi todas las ocasiones carece de pelo. 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/XoloLarge1.jpg/914px-XoloLarge1.jpg)
+
+El **xoloitzcuintle**, **xoloitzcuintli** o **xoloescuintle** es una raza canina originaria de México, que se caracteriza porque en casi todas las ocasiones carece de pelo. Tiene una vida promedio de 12 a 14 años y, según su talla, se clasifica en tamaños toy, estándar y mediano. Es una raza endémica de nuestro país y tiene un estrecho vínculo con la cultura mexica.
+
+La palabra náhuatl **_xoloitzcuintli_** tiene varios **significados**: en primer lugar, viene de _xólotl_, que significa 'lampiño o desnudo', y _itzcuintli_, que significa 'perro'; pero, por otro lado, **Xólotl** era el dios del fuego y del relámpago, asimismo deidad de los gemelos, los monstruos, las desgracias, la enfermedad y las deformidades; también se creía que tenía cabeza de perro y que era el guía del alma de los muertos al reino del inframundo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Xolotl_muz.jpg/1023px-Xolotl_muz.jpg)
