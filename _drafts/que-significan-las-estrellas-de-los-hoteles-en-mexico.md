@@ -43,3 +43,5 @@ El reglamento del SCH, que está contemplado en la Ley General de Turismo, cuand
 8. Áreas públicas
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/San_Miguel_de_Allende_%28Mexico%2C_November_2018%29_-_1_%2850997211783%29.jpg/1024px-San_Miguel_de_Allende_%28Mexico%2C_November_2018%29_-_1_%2850997211783%29.jpg)
+
+Dentro del Sistema de Clasificación Hotelera, se considera un número de variables que atienden los ocho ejes de desempeño y cada variable confiere una puntuación; así, el total obtenido en esta puntuación corresponde a una **categoría con estrellas**: de 1 a 260 puntos, **una estrella**; 261 a 520, **dos estrellas**; 521 a 780, son **tres estrellas**; de 781 a 1040, **cuatro estrellas**, y de 1041 a 1300, corresponde a **cinco estrellas**.
