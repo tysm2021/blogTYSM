@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Hay autores que consiguen hacerse de fama a base de esfuerzo y de un cierto número de libros publicados y reconocidos; hay otros, en cambio, que les basta con uno o dos títulos para asegurarse un lugar entre los inmortales de la literatura. Ese es el caso de **Juan Rulfo**, quien con tan sólo dos libros, _El llano en llamas_ y _Pedro Páramo_, escribió su nombre con letras de oro como uno de los autores más importantes de la literatura mexicana del siglo XX.
+
+Conozcamos a este escritor jalisciense y, también, examinemos un poco más de cerca su obra, que por su calidad e inspiración es lectura obligada para los estudiantes de educación media en todo el país.
+
+TE RECOMENDAMOS:
