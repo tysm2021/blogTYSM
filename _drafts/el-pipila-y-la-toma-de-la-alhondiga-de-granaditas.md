@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Durante la primera etapa de la Guerra por la **Independencia** de México, uno de los episodios que mejor ejemplifican el fervor del movimiento insurgente es la toma de la **Alhóndiga** de **Granaditas**, una fortaleza en la ciudad de **Guanajuato** donde se había refugiado la población española y que, gracias a la intervención de un héroe conocido como 'el **Pípila**', cayó en manos del ejército dirigido por Miguel Hidalgo. Pero, ¿**quién fue** este personaje y cómo se ganó el histórico **apodo**?
+
+Acompáñanos a dar una vuelta por la historia y lleguemos hasta principios del siglo XIX, cuando el movimiento insurgente que buscaba la independencia de la Nueva España se encontraba a las afueras de la ciudad de Guanajuato…
+
+TE RECOMENDAMOS:
