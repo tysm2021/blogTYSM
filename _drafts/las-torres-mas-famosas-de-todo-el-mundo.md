@@ -41,7 +41,11 @@ Esta **torre** es uno de los monumentos más visitados y fotografiados por turis
 
 Sin duda, es una de las **torres** más **famosas** del **mundo** debido a la notoria inclinación que presenta. Se ubica en la ciudad de Pisa, en Italia, y es la **torre** campanario de la Catedral de Pisa. Tiene una altura aproximada de 56 metros, que pueden subirse mediante una escalinata con cerca de 300 escalones. La **torre** empezó a inclinarse desde su construcción, en el siglo XII, debido a que el suelo era demasiado blando para soportar la estructura. Su diseñador fue el arquitecto **Bonanno Pisano** y un episodio notable de la historia dice que el físico **Galileo Galilei** realizó en esta **torre** inclinada uno de sus más famosos experimentos, en los que dejó caer dos balas de cañón de tamaño distinto para demostrar los efectos de la gravedad.
 
-Torre Latinoamericana
+## Empire State
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Empire_State_Building_during_sunset.jpg/1024px-Empire_State_Building_during_sunset.jpg)
+
+Este rascacielos
 
 Torres Petronas
 
