@@ -23,8 +23,22 @@ show_author_profile: false
 comment: false
 
 ---
-Desde los antiquísimos tiempos de la Biblia se hablaba de torres míticas, como la torre de Babel, donde supuestamente se dividieron las lenguas y la gente dejó de entenderse entre sí. También en el ajedrez hay torres, lo mismo que en las principales del mundo. Hoy en día, las más altas e imponentes de ellas son edificios llamados rascacielos, pero ¿cuáles son las torres más famosas del mundo?
+Desde los antiquísimos tiempos de la Biblia se hablaba de **torres** míticas, como la **torre** de Babel, donde supuestamente se dividieron las lenguas y la gente dejó de entenderse entre sí. También en el ajedrez hay **torres**, lo mismo que en las principales del mundo. Hoy en día, las **más altas** e imponentes de ellas son **edificios** llamados rascacielos, pero ¿cuáles son las **torres** más **famosas** del **mundo**?
 
 Hagamos un breve recorrido por el tiempo y el espacio, para conocer algunas de las edificaciones que han resistido algunas guerras, violentos terremotos y, sobre todo, la acción devastadora del paso de los siglos.
 
 TE RECOMENDAMOS:
+
+## Torre Eiffel
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eiffel_tower_from_trocadero.jpg/1024px-Eiffel_tower_from_trocadero.jpg)
+
+Esta **torre** es uno de los monumentos más visitados y fotografiados por turistas de todo el mundo. Se encuentra en París, en un jardín llamado Champ de Mars. Fue construido entre 1887 y 1889, y se inauguró como una atracción principal de la Feria Mundial de ese año. Diseñada por el ingeniero francés **Gustave Eiffel** —se pronuncia "efel", no "ifel"—, tiene una altura total de 330 metros, y desde sus altos miradores es posible contemplar la capital francesa en todo su esplendor.
+
+Torre de Pisa
+
+Torre Latinoamericana
+
+Torres Petronas
+
+El Big Ben
