@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Es un **monumento** ubicado sobre el Paseo de la Reforma de la **Ciudad de México**, y su dorada silueta angelical se ha convertido en un símbolo visual tanto de la capital como del país entero. ¿Conoces la historia del **Monumento** a la **Independencia**, familiarmente conocido como 'el **Ángel**', y de la escultura que lo corona, llamada 'La **Victoria Alada**'?
+
+A continuación, un breve repaso de la historia de 'El Ángel', que en una ocasión incluso dejó su pedestal y terminó estrellado en el piso a consecuencia de un terremoto. Aquí te lo contamos todo…
+
+TE RECOMENDAMOS:
