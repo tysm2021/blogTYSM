@@ -28,3 +28,7 @@ Es un **monumento** ubicado sobre el Paseo de la Reforma de la **Ciudad de Méxi
 A continuación, un breve repaso de la historia de 'El Ángel', que en una ocasión incluso dejó su pedestal y terminó estrellado en el piso a consecuencia de un terremoto. Aquí te lo contamos todo…
 
 TE RECOMENDAMOS:
+
+Su nombre oficial es **Monumento a la Independencia** o Columna de la Independencia, pero todos los capitalinos y los mexicanos en general lo conocemos por su nombre coloquial: 'el **Ángel**'. Se trata de un monumento honorario que originalmente tenía 45 metros de altura, pero que con las escalinatas que se han tenido que adicionar debido al hundimiento de la **Ciudad de México** ha alcanzado los 49.5 metros.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Monumento_a_la_Independencia_%28El_Angel%29.jpg/682px-Monumento_a_la_Independencia_%28El_Angel%29.jpg)
