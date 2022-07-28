@@ -35,7 +35,11 @@ TE RECOMENDAMOS:
 
 Esta **torre** es uno de los monumentos más visitados y fotografiados por turistas de todo el mundo. Se encuentra en París, en un jardín llamado Champ de Mars. Fue construido entre 1887 y 1889, y se inauguró como una atracción principal de la Feria Mundial de ese año. Diseñada por el ingeniero francés **Gustave Eiffel** —se pronuncia "efel", no "ifel"—, tiene una altura total de 330 metros, y desde sus altos miradores es posible contemplar la capital francesa en todo su esplendor.
 
-Torre de Pisa
+## Torre de Pisa
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/The_Leaning_Tower_of_Pisa_SB.jpeg/672px-The_Leaning_Tower_of_Pisa_SB.jpeg)
+
+Sin duda, es una de las **torres** más **famosas** del **mundo** debido a la notoria inclinación que presenta. Se ubica en la ciudad de Pisa, en Italia, y es la **torre** campanario de la Catedral de Pisa. Tiene una altura aproximada de 56 metros, que pueden subirse mediante una escalinata con cerca de 300 escalones. La **torre** empezó a inclinarse desde su construcción, en el siglo XII, debido a que el suelo era demasiado blando para soportar la estructura. Su diseñador fue el arquitecto **Bonanno Pisano** y un episodio notable de la historia dice que el físico **Galileo Galilei** realizó en esta **torre** inclinada uno de sus más famosos experimentos, en los que dejó caer dos balas de cañón de tamaño distinto para demostrar los efectos de la gravedad.
 
 Torre Latinoamericana
 
