@@ -45,7 +45,7 @@ Sin duda, es una de las **torres** más **famosas** del **mundo** debido a la no
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Empire_State_Building_during_sunset.jpg/1024px-Empire_State_Building_during_sunset.jpg)
 
-Este rascacielos
+Este rascacielos neoyorquino es, sin lugar a dudas, uno de los edificios más célebres del mundo, pues incluso ha sido protagonista de películas, tanto románticas como de gorilas gigantes o de invasión extraterrestre. Ubicado en la isla de Manhattan, este emblemática **torre** fue diseñada por el despacho de arquitectos Shreve, Lamb & Harkon, y se construyó entre 1930 y 1931. Tiene una altura total de 44 metros, considerando su famosa antena, divididos entre sus 102 pisos. Su estilo arquitectónico se ubica dentro del Art Déco, y es uno de los puntos de observación más concurridos en la 'Gran Manzana'. 
 
 Torres Petronas
 
