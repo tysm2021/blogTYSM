@@ -57,4 +57,4 @@ Ante la caída del famoso World Trade Center de Nueva York en 2001, este par de 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Big_Ben_clocks_20160816.jpg/682px-Big_Ben_clocks_20160816.jpg)
 
-La última torre de este breve conteo tiene fama de ser la más puntual del planeta.
+La última **torre** de este breve conteo tiene fama de ser la más puntual del planeta, pues es la **torre-reloj** del Palacio de Westminster, uno de los edificios históricos más importantes de la ciudad de Londres, Inglaterra. De hecho, 'Big Ben' es el apodo de la campana solamente, pero el mote de ha extendido para incluir también al reloj y a la **torre** misma; actualmente, tiene el nombre de Torre Elizabeth, en honor a los 60 años de reinado de la soberana Isabel II. Concluida en el año de 1859, su diseño se acredita a Augustus Pugin y tiene una altura de 96 metros. El origen del apodo de esta famosa **torre** es objeto de debate, pues hay quienes aseguran que alude a sir Benjamin Hall, quien supervisó la construcción, o bien al campeón de boxeo Benjamin Caunt; como sea, señala con precisión cada hora en un país que históricamente se distingue por su puntualidad.
