@@ -53,4 +53,8 @@ Este rascacielos neoyorquino es, sin lugar a dudas, uno de los edificios más c�
 
 Ante la caída del famoso World Trade Center de Nueva York en 2001, este par de enormes **rascacielos** se ganó el apodo de las "**Torres** Gemelas". Se ubican en la ciudad de Kuala Lumpur, capital de Malasia, y tienen una altura de 452 metros, lo que las convierte en las **torres** gemelas más altas del mundo y, de hecho, ostentaron la categoría de los edificios más altos hasta 2004. Su creador fue el arquitecto bangladés Fazlur Rahman Kahn, quien se especializó en el diseño de edificios tubulares de gran altura. Por la belleza de su diseño y su espectacular tamaño, han aparecido en varias películas… a veces, incluso, siendo destruidas por invasores extraterrestres.
 
-El Big Ben
+## El Big Ben
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Big_Ben_clocks_20160816.jpg/682px-Big_Ben_clocks_20160816.jpg)
+
+La última torre de este breve conteo tiene fama de ser la más puntual del planeta.
