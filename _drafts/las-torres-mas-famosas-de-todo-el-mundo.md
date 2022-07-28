@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Desde los antiquísimos tiempos de la Biblia se hablaba de torres míticas, como la torre de Babel, donde supuestamente se dividieron las lenguas y la gente dejó de entenderse entre sí. También en el ajedrez hay torres, lo mismo que en las principales del mundo. Hoy en día, las más altas e imponentes de ellas son edificios llamados rascacielos, pero ¿cuáles son las torres más famosas del mundo?
+
+Hagamos un breve recorrido por el tiempo y el espacio, para conocer algunas de las edificaciones que han resistido algunas guerras, violentos terremotos y, sobre todo, la acción devastadora del paso de los siglos.
+
+TE RECOMENDAMOS:
