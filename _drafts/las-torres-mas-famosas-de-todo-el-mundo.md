@@ -47,6 +47,10 @@ Sin duda, es una de las **torres** más **famosas** del **mundo** debido a la no
 
 Este rascacielos neoyorquino es, sin lugar a dudas, uno de los edificios más célebres del mundo, pues incluso ha sido protagonista de películas, tanto románticas como de gorilas gigantes o de invasión extraterrestre. Ubicado en la isla de Manhattan, este emblemática **torre** fue diseñada por el despacho de arquitectos Shreve, Lamb & Harkon, y se construyó entre 1930 y 1931. Tiene una altura total de 44 metros, considerando su famosa antena, divididos entre sus 102 pisos. Su estilo arquitectónico se ubica dentro del Art Déco, y es uno de los puntos de observación más concurridos en la 'Gran Manzana'. Por si fuera poco, está considerado uno de las Siete Maravillas del Mundo Moderno por la Asociación Internacional de Ingenieros Civiles.
 
-Torres Petronas
+## Torres Petronas
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Petronas_Panorama_II.jpg/466px-Petronas_Panorama_II.jpg)
+
+Ante la caída del famoso World Trade Center de Nueva York en 2001, este par de enormes **rascacielos** se ganó el apodo de las "**Torres** Gemelas". Se ubican en la ciudad de Kuala Lumpur, capital de Malasia, y tienen una altura de 452 metros, lo que las convierte en las **torres** gemelas más altas del mundo y, de hecho, ostentaron la categoría de los edificios más altos hasta 2004. Su creador fue el arquitecto bangladés Fazlur Rahman Kahn, quien se especializó en el diseño de edificios tubulares de gran altura. Por la belleza de su diseño y su espectacular tamaño, han aparecido en varias películas… a veces, incluso, siendo destruidas por invasores extraterrestres.
 
 El Big Ben
