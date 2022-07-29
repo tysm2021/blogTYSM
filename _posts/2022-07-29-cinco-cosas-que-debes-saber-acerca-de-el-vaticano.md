@@ -47,6 +47,14 @@ A pesar de ser un estado minúsculo, el **Vaticano** tiene su propio o cuerpo mi
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Anciens_gardes_suisses_pontificaux_%C3%A0_Lausanne_4.jpg/1024px-Anciens_gardes_suisses_pontificaux_%C3%A0_Lausanne_4.jpg)
 
-Es Patrimonio de la Humanidad
+### Alberga a la Basílica de San Pedro
 
-Alberga la Basílica de San Pedro
+Para los católicos, Roma es la ciudad donde murió **San Pedro**, uno de los apóstoles que recibieron enseñanzas directamente de Jesús y que, según las Sagradas Escrituras, fue a quien el nazareno eligió "como piedra para en ella fundar su iglesia". San Pedro fue martirizado en el año 67 d.C. y, según la tradición, está enterrado justo debajo de donde hoy se alza la majestuosa basílica, la más grande del mundo católico. A San Pedro se le considera el primer Papa de la historia y sus simbólicas "llaves del Cielo" figuran en los escudos de la **Ciudad del Vaticano** y de la Santa Sede.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1024px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg)
+
+### Es Patrimonio de la Humanidad
+
+Además de ser el centro y la sede el gobierno de la Iglesia Católica, la Ciudad del Vaticano cuenta con auténticas joyas de la arquitectura y del arte mundial. Además de la ya mencionada **Basílica**, está la **Plaza de San Pedro**, diseñada por Miguel Ángel Buonarroti; la **Capilla Sixtina**, donde se elige a los nuevos papas y que está decorada con los famosos murales; y los **Museos Vaticanos**, sitios de resguardo de obras artísticas con valor incalculable. Por todo ello, en 1984 la UNESCO nombró Patrimonio de la Humanidad al conjunto de edificios y obras del Ciudad del Vaticano.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Vatican_Museums_Spiral_Staircase_2012.jpg/1024px-Vatican_Museums_Spiral_Staircase_2012.jpg)
