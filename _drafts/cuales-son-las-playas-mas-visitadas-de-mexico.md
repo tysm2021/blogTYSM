@@ -41,7 +41,11 @@ Este destino turístico, en plena Riviera Maya y enclavado en el sureste mexican
 
 Este conjunto turístico, vecino del clásico destino de Puerto Vallarta, se encuentra en el estado de Nayarit —en la llamada Riviera Nayarit, que comprende **playas** tan famosas como Sayulita, San Blas, Guayabitos y Bucerías— y cuenta con un 77.5% de ocupación hotelera durante el año. En sus **playas** podrás practicar deportes acuáticos como el snorkel y el buceo, además de poder convivir con especies como delfines y leones marinos. Aunque debes de cotizar con anticipación, pues algunos de sus hoteles se encuentran entre los más caros del país.
 
-Cancún
+## Cancún
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hotel_Zone_in_Cancun%2C_Mexico.jpg/1024px-Hotel_Zone_in_Cancun%2C_Mexico.jpg)
+
+Desde hace décadas, esta ciudad en el estado de Quintana Roo es uno de los destinos más concurridos
 
 Puerto Vallarta
 
