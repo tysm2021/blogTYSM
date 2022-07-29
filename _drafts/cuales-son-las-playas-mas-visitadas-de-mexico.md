@@ -23,3 +23,26 @@ show_author_profile: false
 comment: false
 
 ---
+Cuando llegan las **vacaciones**, uno de los destinos favoritos de las familias **mexicanas** son las hermosas **playas**. Y es que tienen de todo: sol brillante, una temperatura cálida y reconfortante, el azul de nuestros mares, deliciosos mariscos y amaneceres o puestas de sol impresionantes. Pero de todas las **playas** en el Golfo y el Pacífico **mexicanos**, ¿cuáles son **las más visitadas** y qué **más turistas** reciben al año?
+
+A continuación, las cinco **playas mexicanas más populares**, según estadísticas de la Secretaría de Turismo. Quizá te sorprenda cuáles son, o tal vez decidas que una de ellas es el próximo destino de tus siguientes vacaciones.
+
+TE RECOMENDAMOS:
+
+## Playa del Carmen
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Playa-del-carmen-beach.jpg/1024px-Playa-del-carmen-beach.jpg)
+
+Este destino turístico, en plena Riviera Maya y enclavado en el sureste mexicano, en el estado de **Quintana Roo**, resultó ser la **playa más visitada** **de México**: según estadísticas recientes, mantuvo una ocupación hotelera del 82.6%. Además del azul de sus aguas y de su arena blanca y suave, destaca la famosa Quinta Avenida, con sus bares y restaurantes. Por desgracia, a últimas fechas se ha sabido de casos de inseguridad, amén de que tanto la transportación como el hospedaje se encuentran entre los más caros del país.
+
+## Nuevo Vallarta
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nuevo_Vallarta_2.JPG/1024px-Nuevo_Vallarta_2.JPG)
+
+Este conjunto turístico, vecino del clásico destino de Puerto Vallarta, se encuentra en el estado de Nayarit —en la llamada Riviera Nayarit, que comprende **playas** tan famosas como Sayulita, San Blas, Guayabitos y Bucerías— y cuenta con un 77.5% de ocupación hotelera durante el año. En sus **playas** podrás practicar deportes acuáticos como el snorkel y el buceo, además de poder convivir con especies como delfines y leones marinos. Aunque debes de cotizar con anticipación, pues algunos de sus hoteles se encuentran entre los más caros del país.
+
+Cancún
+
+Puerto Vallarta
+
+Los Cabos
