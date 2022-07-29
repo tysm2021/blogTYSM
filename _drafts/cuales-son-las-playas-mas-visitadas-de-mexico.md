@@ -47,6 +47,8 @@ Este conjunto turístico, vecino del clásico destino de Puerto Vallarta, se enc
 
 Desde hace décadas, esta ciudad en el estado de Quintana Roo es uno de los destinos más concurridos y con el 76.6% de ocupación hotelera promedio, actualmente ocupa el tercer lugar en popularidad de todo el país. Quienes lo visitan dicen que es un lugar que lo tiene todo: espectaculares **playas** de agua cristalina y arenas blancas, sitios arqueológicos, lujosos hoteles y restaurantes, bares y otros lugares de vida nocturna. Además, puedes visitar la vecina Isla Mujeres y llevarte hermosos recuerdos de tu visita.
 
-Puerto Vallarta
+## Puerto Vallarta
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Puerto_Vallarta%2C_Mexico%2C_2021_-_44.jpg/1024px-Puerto_Vallarta%2C_Mexico%2C_2021_-_44.jpg)
 
 Los Cabos
