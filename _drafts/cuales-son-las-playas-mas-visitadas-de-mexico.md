@@ -51,4 +51,8 @@ Desde hace décadas, esta ciudad en el estado de Quintana Roo es uno de los dest
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Puerto_Vallarta%2C_Mexico%2C_2021_-_44.jpg/1024px-Puerto_Vallarta%2C_Mexico%2C_2021_-_44.jpg)
 
-Los Cabos
+Otro destino clásico en el estado de Jalisco, que actualmente tiene un promedio anual del 74.1% de ocupación hotelera. Además de visitar la parte tradicional o el "Vallarta viejo", puedes darte una vuelta por el boulevard y sus numerosos bares y restaurantes, probar los deliciosos mariscos o la especialidad del lugar: el 'pescado a la talla'. Es un lugar que es encuentra entre la **playa** y la montaña, por lo que puedes acceder a hermosos paisajes durante el día o la noche.
+
+## Los Cabos
+
+El último lugar de esta breve lista es una destino al norte del país, en el estado de Baja California: ahí, entre ballenas y otras especies marinas, se encuentra **Los Cabos**, cuyos destinos principales son **Cabo San Lucas**, en cuyas playas se unen las aguas del Mar de Cortés y el Océano Pacífico, y San José del Cabo, la cabecera municipal que también es un extraordinario destino turístico. 
