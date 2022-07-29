@@ -45,7 +45,7 @@ Este conjunto turístico, vecino del clásico destino de Puerto Vallarta, se enc
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hotel_Zone_in_Cancun%2C_Mexico.jpg/1024px-Hotel_Zone_in_Cancun%2C_Mexico.jpg)
 
-Desde hace décadas, esta ciudad en el estado de Quintana Roo es uno de los destinos más concurridos
+Desde hace décadas, esta ciudad en el estado de Quintana Roo es uno de los destinos más concurridos y con el 76.6% de ocupación hotelera promedio, actualmente ocupa el tercer lugar en popularidad de todo el país. Quienes lo visitan dicen que es un lugar que lo tiene todo: espectaculares **playas** de agua cristalina y arenas blancas, sitios arqueológicos, lujosos hoteles y restaurantes, bares y otros lugares de vida nocturna. Además, puedes visitar la vecina Isla Mujeres y llevarte hermosos recuerdos de tu visita.
 
 Puerto Vallarta
 
