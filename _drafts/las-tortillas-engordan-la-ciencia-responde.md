@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Si uno pretende ponerse a dieta para bajar de peso, una de las primeras recomendaciones que recibe es "dejar el pan y la tortilla". Pero artículos científicos recientes han salido a desmentir la creencia generalizada de que la tortilla hace que engordes. ¿Qué tan cierto es esto y qué tan nutritivas son las mexicanísimas tortillas de maíz?
+
+A continuación, la opinión de expertos médicos y nutriólogos, que quizá te sorprenda un poco. Te adelantamos una pista: como en todo, la clave es la cantidad y la moderación.
+
+TE RECOMENDAMOS:
