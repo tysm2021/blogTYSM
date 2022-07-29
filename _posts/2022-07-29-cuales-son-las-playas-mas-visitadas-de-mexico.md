@@ -55,4 +55,6 @@ Otro destino clásico en el estado de Jalisco, que actualmente tiene un promedio
 
 ## Los Cabos
 
-El último lugar de esta breve lista es una destino al norte del país, en el estado de Baja California: ahí, entre ballenas y otras especies marinas, se encuentra **Los Cabos**, cuyos destinos principales son **Cabo San Lucas**, en cuyas playas se unen las aguas del Mar de Cortés y el Océano Pacífico, y San José del Cabo, la cabecera municipal que también es un extraordinario destino turístico. 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Arco_de_Los_Cabos%2C_BCS.JPG/1024px-Arco_de_Los_Cabos%2C_BCS.JPG)
+
+El último lugar de esta breve lista es una destino al norte del país, en el estado de Baja California: ahí, entre ballenas y otras especies marinas, se encuentra **Los Cabos**, cuyos destinos principales son **Cabo San Lucas**, en cuyas playas se unen las aguas del Mar de Cortés y el Océano Pacífico, y San José del Cabo, la cabecera municipal que también es un extraordinario destino turístico. Con el 68.9% de ocupación hotelera al año, este sitio tiene el primer lugar en cuanto a los hoteles y vuelos más caros de todo el país: todo un lujo viajar a él… pero dicen que vale toda la pena del mundo.
