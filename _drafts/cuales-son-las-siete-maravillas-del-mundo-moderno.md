@@ -49,11 +49,11 @@ La segunda **Nueva Maravilla del Mundo** se encuentra en Medio Oriente, en la Go
 
 En **Roma**, la antigua capital del Imperio Romano —y actualmente ciudad capital italiana—, se yergue este espléndido anfiteatro que a la fecha sigue siendo el más grande del mundo. Su construcción empezó en el año 72 d.C., bajo el gobierno de Vespasiano, y culminó ocho años más tarde, siendo emperador su sucesor, Domiciano. Su superficie es una elipse que mide 189 metros de largo y 156 de ancho, y la altura del muro exterior era de 48 metros; se calcula que podía albergar a un total de 65 mil personas y entre sus particularidades estaba que el óvalo central —el escenario, digamos— podía inundarse para escenificar batallas navales. A pesar de su esplendor arquitectónico, para muchos es un sitio que recuerda la tortura y muerte de los primeros mártires cristianos.
 
-## Chichén-Itzá (México)
+## Chichén Itzá (México)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1024px-Chichen_Itza_3.jpg)
 
-¡Fanfarrias para México! El cuarto sitio lo ocupa esta famosísima zona arqueológica construida por los mayas, cuyas construcciones principales fueron erigidas entre los años 800 y 1100 de nuestra era. 
+¡Fanfarrias para **México**! El cuarto sitio lo ocupa esta famosísima zona arqueológica construida por los **mayas**, cuyas construcciones principales fueron erigidas entre los años 800 y 1100 de nuestra era. Ubicado en el estado de Yucatán, **Chichén Itzá** fue inscrito en la Lista de Patrimonios de la Humanidad de l UNESCO en 1988, y sin duda el atractivo más notable del conjunto arquitectónico es el **Templo de Kukulcán**, también conocido como '**El Castillo**', el cual recibe a millones de visitantes al año, muchos de los cuales viajan el día del equinoccio de primavera para presenciar el famoso "descenso de la serpiente" en una de las escalinatas. Además de este, el sitio tiene un cenote sagrado, otros templos y hasta un observatorio.
 
 Machu Picchu (Perú)
 
