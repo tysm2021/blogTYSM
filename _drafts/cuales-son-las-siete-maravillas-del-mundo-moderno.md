@@ -31,7 +31,11 @@ TE RECOMENDAMOS:
 
 Todo empezó en el año 2000, cuando la Fundación para las **Nuevas Maravillas** empezó a promover en internet una selección de entre 200 monumentos previamente seleccionados. Durante años se recibieron las votaciones y fue hasta el 7 de julio de 2007 que se anunciaron a los ganadores en un evento en el Estadio de la Luz de Lisboa, Portugal. Aquí va la lista de las **Siete Nuevas Maravillas del Mundo**.
 
-La Gran Muralla (China)
+## La Gran Muralla (China)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20090529_Great_Wall_8185.jpg/1024px-20090529_Great_Wall_8185.jpg)
+
+Así se le conoce a una serie de construcciones fortificadas que se construyeron a lo largo del país chino para protegerlo de las invasiones enemigas. Si bien la edificación de la **Gran Muralla** empezó en el siglo VII a.C., las partes mejor conservadas y más conocidas corresponden a la Dinastía Ming (siglos XIV al XVII). Se calcula que la extensión completa de los muros es de casi 22 mil kilómetros; sin embargo, a pesar de lo que se afirma en ciertos artículos y sitios de internet, no es visible desde el espacio exterior.
 
 Petra (Jordania)
 
