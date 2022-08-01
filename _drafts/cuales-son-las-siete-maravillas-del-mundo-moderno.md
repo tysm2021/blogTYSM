@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+En nuestras clases de Historia de la primaria y la secundaria, aprendimos que las Siete Maravillas del Mundo Antiguo fueron el Coloso de Rodas, los Jardines Colgantes de Babilonia, el Templo de Diana en Efeso, la Estatua de Zeus en Olimpia, el Mausoleo en Halicarnaso, el Faro de Alejandría y la Gran Pirámide de Guisa, la única que sigue en pie hasta nuestros días. Pero, ¿sabes cuáles son las Siete Maravillas del Mundo Moderno y cuándo se eligieron?
+
+A continuación, te platicamos un poco acerca de este nuevo conteo de monumentos históricos de todo el mundo y de todas las épocas, entre las que se encuentra una pirámide mexcana. Sigue leyendo para enterarte de los detalles.
+
+TE RECOMENDAMOS:
