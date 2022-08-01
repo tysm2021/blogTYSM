@@ -43,7 +43,11 @@ Así se le conoce a una serie de construcciones fortificadas que se construyeron
 
 La segunda **Nueva Maravilla del Mundo** se encuentra en Medio Oriente, en la Gobernatura de Ma'an, en el sur de **Jordania**, y es una ciudad esculpida en las montañas. Originalmente se le conocía como Raqmú y fue construida por los nabateos como su ciudad capital, probablemente en el siglo V antes de nuestra era. Después del esplendor tuvo en el mundo antiguo, fue abandonada y casi cayó en el olvido, hasta que fue redescubierta por Johann Ludwig Burckhardt. Hoy es uno de los más grandes atractivos turísticos de **Jordania** —casi un millón de visitantes al año— y, también, Patrimonio de la Humanidad desde 1985.
 
-El Coliseo (Italia)
+## El Coliseo (Italia)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/1024px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg)
+
+En **Roma**, la antigua capital del Imperio Romano —y actualmente ciudad capital italiana—, se yergue este espléndido anfiteatro que a la fecha sigue siendo el más grande del mundo. Su construcción empezó en el año 72 d.C., bajo el gobierno de Vespasiano, y culminó ocho años más tarde, siendo emperador su sucesor, Domiciano. 
 
 Chichén-Itzá (México)
 
