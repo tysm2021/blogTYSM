@@ -47,7 +47,7 @@ La segunda **Nueva Maravilla del Mundo** se encuentra en Medio Oriente, en la Go
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/1024px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg)
 
-En **Roma**, la antigua capital del Imperio Romano —y actualmente ciudad capital italiana—, se yergue este espléndido anfiteatro que a la fecha sigue siendo el más grande del mundo. Su construcción empezó en el año 72 d.C., bajo el gobierno de Vespasiano, y culminó ocho años más tarde, siendo emperador su sucesor, Domiciano. 
+En **Roma**, la antigua capital del Imperio Romano —y actualmente ciudad capital italiana—, se yergue este espléndido anfiteatro que a la fecha sigue siendo el más grande del mundo. Su construcción empezó en el año 72 d.C., bajo el gobierno de Vespasiano, y culminó ocho años más tarde, siendo emperador su sucesor, Domiciano. Su superficie es una elipse que mide 189 metros de largo y 156 de ancho, y la altura del muro exterior era de 48 metros; se calcula que podía albergar a un total de 65 mil personas y entre sus particularidades estaba que el óvalo central —el escenario, digamos— podía inundarse para escenificar batallas navales. A pesar de su esplendor arquitectónico, para muchos es un sitio que recuerda la tortura y muerte de los primeros mártires cristianos.
 
 Chichén-Itzá (México)
 
