@@ -61,6 +61,10 @@ En **Roma**, la antigua capital del Imperio Romano —y actualmente ciudad capit
 
 En la región de **Cuzco** se encuentra esta impresionante ciudadela, la cual fue construida por la civilización inca alrededor del año 1450 —aunque fue abandonada poco antes de la llegada de los conquistadores españoles—, a una altura de casi 2500 metros sobre el nivel del mar, en plena cordillera de los Andes. En lengua quechua, **Machu Picchu** significa "montaña antigua", y se cree que era una urbe de acceso restringido a sacerdotes, jerarcas y jefes militares. Su superficie tiene 530 metros de largo por 200 de ancho e incluye al menos 172 recintos; por su fuera poco, además de la zona urbana tenía sus propias tierras de cultivo.
 
-El Taj Mahal (India)
+## El Taj Mahal (India)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Taj_Mahal_in_India_-_Kristian_Bertel.jpg/1024px-Taj_Mahal_in_India_-_Kristian_Bertel.jpg)
+
+En su tiempo, el poeta Rabindrantah Tagore describió a este edificio como "una lágrima en la mejilla de tiempo", por la historia de amor que le dio origen, pues se trata nada menos que de la tumba de la esposa favorita del emperador Shah Jahan, llamada **Mumtaz Mahal**, quien murió dando a luz a su décimo cuatro heredero. Se construyó entre los años 1632 y 1653, y mide unos 73 metros de altura; sus paredes exteriores están recubiertas de mármol blanco y destaca el enorme domo central, que tiene una altura aproximada de 35 metros. Es uno de los sitios turísticos más concurridos del mundo, con más de seis millones de visitantes al año, y está inscrito en la lista del Patrimonio de la Humanidad desde el año 1983.
 
 El Cristo Redentor (Brasil)
