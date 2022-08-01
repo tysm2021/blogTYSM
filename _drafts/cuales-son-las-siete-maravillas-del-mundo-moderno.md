@@ -55,7 +55,11 @@ En **Roma**, la antigua capital del Imperio Romano —y actualmente ciudad capit
 
 ¡Fanfarrias para **México**! El cuarto sitio lo ocupa esta famosísima zona arqueológica construida por los **mayas**, cuyas construcciones principales fueron erigidas entre los años 800 y 1100 de nuestra era. Ubicado en el estado de Yucatán, **Chichén Itzá** fue inscrito en la Lista de Patrimonios de la Humanidad de l UNESCO en 1988, y sin duda el atractivo más notable del conjunto arquitectónico es el **Templo de Kukulcán**, también conocido como '**El Castillo**', el cual recibe a millones de visitantes al año, muchos de los cuales viajan el día del equinoccio de primavera para presenciar el famoso "descenso de la serpiente" en una de las escalinatas. Además de este, el sitio tiene un cenote sagrado, otros templos y hasta un observatorio.
 
-Machu Picchu (Perú)
+## Machu Picchu (Perú)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/1024px-Machu_Picchu%2C_Peru.jpg)
+
+En la región de **Cuzco** se encuentra esta impresionante ciudadela, la cual fue construida por la civilización inca alrededor del año 1450 —aunque fue abandonada poco antes de la llegada de los conquistadores españoles—, a una altura de casi 2500 metros sobre el nivel del mar, en plena cordillera de los Andes. En lengua quechua, **Machu Picchu** significa "montaña antigua", y se cree que era una urbe de acceso restringido a sacerdotes, jerarcas y jefes militares. Su superficie tiene 530 metros de largo por 200 de ancho e incluye al menos 172 recintos; por su fuera poco, además de la zona urbana tenía sus propias tierras de cultivo.
 
 El Taj Mahal (India)
 
