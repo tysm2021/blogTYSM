@@ -43,7 +43,11 @@ Para los muchos admiradores de la famosa pintora **Frida Kahlo**, esta es una vi
 
 En el centro de **Coyoacán** —de forma precisa, en la colonia **Villa Coyoacán**— se alza esta iglesia, la más grande e importante de toda la alcaldía, que está dedicada al santo que, además de ser su primo, bautizó a Jesús de Nazaret. Aunque ha pasado por diversas reconstrucciones y remodelaciones a lo largo de cinco siglos, fue construida por la orden franciscana recién terminada la Conquista, en el año de 1522, lo que la convierte en una de las iglesias católicas más antiguas del país. Afuera encontrarás el **Jardín Hidalgo** y el **Jardín Centenario**, donde todos los fines de semana las familias se reúnen a tomar una tradicional nieve, "echarse un churro", comer un elote o una quesadilla en el mercado de comidas de la Calle de la Higuera. No hay pierde…
 
-Fonoteca Nacional
+## Fonoteca Nacional
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Jard%C3%ADn_Sonoro_%28Fonoteca_Nacional%29_-_6.jpg/1024px-Jard%C3%ADn_Sonoro_%28Fonoteca_Nacional%29_-_6.jpg)
+
+Este es quizá uno de los edificios más hermosos y menos conocidos de Coyoacán. Se encuentra sobre en la esquina de Francisco Sosa y Salvador Novo, en el Barrio Santa Catarina, y ostenta en nombre de Casa Alvarado
 
 Los viveros
 
