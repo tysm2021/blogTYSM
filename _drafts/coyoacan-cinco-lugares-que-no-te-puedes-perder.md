@@ -37,7 +37,11 @@ Para los muchos admiradores de la famosa pintora **Frida Kahlo**, esta es una vi
 
 [museofridakahlo.org.mx](https://www.museofridakahlo.org.mx/)
 
-Iglesia de San Juan Bautista
+## Parroquia de San Juan Bautista
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Iglesia_de_San_Juan_Bautista_Coyoacan%2C_Mexico_City_Interior.JPG/1024px-Iglesia_de_San_Juan_Bautista_Coyoacan%2C_Mexico_City_Interior.JPG)
+
+En el centro de **Coyoacán** —de forma precisa, en la colonia **Villa Coyoacán**— se alza esta iglesia, la más grande e importante de toda la alcaldía, que está dedicada al santo que, además de ser su primo, bautizó a Jesús de Nazaret. Aunque ha pasado por diversas reconstrucciones y remodelaciones a lo largo de cinco siglos, fue construida por la orden franciscana recién terminada la Conquista, en el año de 1522, lo que la convierte en una de las iglesias católicas más antiguas del país. Afuera encontrarás el **Jardín Hidalgo** y el **Jardín Centenario**, donde todos los fines de semana las familias se reúnen a tomar una tradicional nieve, "echarse un churro", comer un elote o una quesadilla en el mercado de comidas de la Calle de la Higuera. No hay pierde…
 
 Fonoteca Nacional
 
