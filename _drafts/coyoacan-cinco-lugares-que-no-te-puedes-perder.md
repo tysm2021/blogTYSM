@@ -29,7 +29,13 @@ Desde que el conquistador Hernán Cortés estableció ahí una de sus casas, **C
 
 TE RECOMENDAMOS:
 
-La Casa Azul
+## La Casa Azul
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%E2%80%9CLa_casa_azul%E2%80%9D.jpg/1024px-%E2%80%9CLa_casa_azul%E2%80%9D.jpg)
+
+Para los muchos admiradores de la famosa pintora **Frida Kahlo**, esta es una visita obligada: se trata de la casa donde vivió la famosa pintora, que perteneció a la familia **Kahlo** desde 1904, y donde compartió la vida con su esposo, el también pintor **Diego Rivera**. Aunque su nombre oficial es **Museo Frida Kahlo**, coloquialmente se le conoce como **'La Casa Azul'** y en su interior podrás admirar pinturas y objetos que formaron parte del universo íntimo de la pintora. Se encuentra en el número 247 de la calle de Londres, en el barrio del Carmen.
+
+[museofridakahlo.org.mx](https://www.museofridakahlo.org.mx/)
 
 Iglesia de San Juan Bautista
 
