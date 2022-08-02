@@ -49,6 +49,10 @@ En el centro de **Coyoacán** —de forma precisa, en la colonia **Villa Coyoac�
 
 Este es quizá uno de los edificios más hermosos y menos conocidos de **Coyoacán**. Se encuentra sobre en la esquina de Francisco Sosa y Salvador Novo, en el **Barrio Santa Catarina**, y ostenta en nombre de **Casa Alvarado**, que aunque no tiene relación con el conquistador Pedro de Alvarado es un edificio histórico del siglo XVII, con influencias andaluza y morisca, que de 1997 a 1998 —año de su muerte— fue residencia del Premio Nobel mexicano, el escritor **Octavio Paz**. Además de ser la encargada del resguardo de la memoria sonora de México, en la **Fonoteca Nacional** podrás disfrutar de eventos, conciertos, exposiciones o del hermoso Jardín Sonoro, donde entre columnas, vegetación y el trinar de los pájaros podrás relajarte escuchando música. Y ya si andas por ahí, puedes caminar unos metros y conocer el Museo de la Acuarela Guati Rojo, ubicado en la calle de Salvador Novo.
 
-Los viveros
+## Los viveros
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BabyPlantsViverosCoyoacanDF.JPG/1024px-BabyPlantsViverosCoyoacanDF.JPG)
+
+Abiertos desde las seis de la mañana, para dar cabida a las multitudes de _runners_ que se dan cita en su pista de arcilla, los **Viveros de Coyoacán** son otro sitio infaltable para visitar en esta alcaldía. Fueron creados por el ingeniero **Miguel Ángel de Quevedo**, quien a principios del siglo XX donó una hectárea del su rancho Panzacola para construir un **vivero**; ya con el apoyo del gobierno, los **viveros** fueron ampliándose hasta tener la superficie actual y convertirse en uno de los pulmones del sur de la Ciudad de México. Hoy en día hay criaderos de distintas especies de árboles, que están alineados en "calles" con sus respectivos nombres, además de jardines, áreas verdes y espacios escultóricos donde todos los días es posible practicar deportes como la yoga, el boxeo, artes marciales o "la especialidad de la casa" que es correr en su pista o recorriendo las calles arboladas. Hay una estación del metro a las afueras y multitud de cafés y bistrots con "comida sana" para después de oxigenar tus pulmones.
 
 Barrio de Santa Catarina
