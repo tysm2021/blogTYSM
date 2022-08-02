@@ -23,3 +23,18 @@ show_author_profile: false
 comment: false
 
 ---
+Los que saben de historia dicen que durante la época prehispánica se llamaba **Coyohuacan**, que quiere decir "lugar de **coyotes**". Hoy, lo conocemos simplemente como **Coyoacán**, un sitio mágico, tradicional y romántico al sur de la **CdMx**, en cuyos barrios encontrarás muchos **lugares** de interés **turístico**. Aquí te compartimos cinco que **no te puedes perder**.
+
+Desde que el conquistador Hernán Cortés estableció ahí una de sus casas, **Coyoacán** ha sido hogar de políticos como el presidente Miguel de la Madrid, de intelectuales como Salvador Novo y Octavio Paz, y de gente del cine como Emilio 'Indio' Fernández o la hermosa Dolores del Río. ¿Tú ya lo conoces?
+
+TE RECOMENDAMOS:
+
+La Casa Azul
+
+Iglesia de San Juan Bautista
+
+Fonoteca Nacional
+
+Los viveros
+
+Barrio de Santa Catarina
