@@ -41,7 +41,7 @@ Sin embargo, fue hasta el siglo XIX, con la llegada de migrantes franceses, much
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Durante el Imperio de Maximiliano en México, un soldado belga, Camille Pirotte, cocinero, elaboraba este pan para su compañía establecida en Gdl. A la gente pobre se le regalaba el pan frío y expresaban: “Voy por pan con Birot...” de ahí nace Birote. <a href="https://t.co/uwkWjytWkX">pic.twitter.com/uwkWjytWkX</a></p>— Isai Tejeda Vallejo (@IsaiTejeda) <a href="https://twitter.com/IsaiTejeda/status/1364049935990218753?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Al birote jalisciense y a la baguette francesa se le hicieron algunas modificaciones y así nació el **bolillo** mexicano, el cual empezó a venderse en panaderías, las cuales para distinguirse de la competencia solían venderlo recién salido del horno; de ahí nació la frase "Se vende como pan caliente", que hace referencia a un producto exitoso que se agota casi en cuanto sale al mercado.
+Al birote jalisciense y a la baguette francesa se le hicieron algunas modificaciones y así nació el **bolillo** mexicano, el cual empezó a venderse en panaderías, las cuales para distinguirse de la competencia solían venderlo recién salido del horno; de ahí nació la frase "Se vende como pan caliente", que hace referencia a un producto exitoso que se agota casi en cuanto sale al mercado…
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bread_mexican_pan_mexicano_bolillo_%282%29.jpg/768px-Bread_mexican_pan_mexicano_bolillo_%282%29.jpg)
 
