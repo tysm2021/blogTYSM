@@ -47,7 +47,7 @@ En el centro de **Coyoacán** —de forma precisa, en la colonia **Villa Coyoac�
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Jard%C3%ADn_Sonoro_%28Fonoteca_Nacional%29_-_6.jpg/1024px-Jard%C3%ADn_Sonoro_%28Fonoteca_Nacional%29_-_6.jpg)
 
-Este es quizá uno de los edificios más hermosos y menos conocidos de Coyoacán. Se encuentra sobre en la esquina de Francisco Sosa y Salvador Novo, en el Barrio Santa Catarina, y ostenta en nombre de Casa Alvarado
+Este es quizá uno de los edificios más hermosos y menos conocidos de **Coyoacán**. Se encuentra sobre en la esquina de Francisco Sosa y Salvador Novo, en el **Barrio Santa Catarina**, y ostenta en nombre de **Casa Alvarado**, que aunque no tiene relación con el conquistador Pedro de Alvarado es un edificio histórico del siglo XVII, con influencias andaluza y morisca, que de 1997 a 1998 —año de su muerte— fue residencia del Premio Nobel mexicano, el escritor **Octavio Paz**. Además de ser la encargada del resguardo de la memoria sonora de México, en la **Fonoteca Nacional** podrás disfrutar de eventos, conciertos, exposiciones o del hermoso Jardín Sonoro, donde entre columnas, vegetación y el trinar de los pájaros podrás relajarte escuchando música. Y ya si andas por ahí, puedes caminar unos metros y conocer el Museo de la Acuarela Guati Rojo, ubicado en la calle de Salvador Novo.
 
 Los viveros
 
