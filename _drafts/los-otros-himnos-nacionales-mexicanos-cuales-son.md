@@ -31,9 +31,13 @@ TE RECOMENDAMOS:
 
 ## Cielito lindo
 
-"De la sierra morena viene bajando un par de ojitos negros de contrabando", inicia la letra de esta hermosa y romántica composición que, aunque no ha sido reconocida oficialmente, es interpretada y coreada por miles de aficionados cuando juega la Selección Mexicana de Futbol. Esta canción fue compuesta en 1882 por el xochimilca **Quirino Mendoza y Cortés**, que se la dedicó a su esposa, quien dicen que justamente tenía un lugar junto a la boca. Aunque recientemente se ha demostrado de don Quirino se inspiró y retomó las seguidillas españolas de la región de Andalucía, nadie podrá negar que el "Cielito lindo" es más mexicano que el pozole…
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Cielito_Lindo_Statue_Palacio_Municipal_Tulyehualco.jpg/1024px-Cielito_Lindo_Statue_Palacio_Municipal_Tulyehualco.jpg)
 
-El "Huapango" de Moncayo
+"De la sierra morena vienen bajando un par de ojitos negros de contrabando", inicia la letra de esta hermosa y romántica composición que, aunque no ha sido reconocida oficialmente, es interpretada y coreada por miles de aficionados cuando juega la **Selección Mexicana de Futbol**. Esta canción fue compuesta en 1882 por el xochimilca **Quirino Mendoza y Cortés**, que se la dedicó a su esposa —quien dicen que justamente tenía un lugar junto a la boca—. Aunque recientemente se ha demostrado de don Quirino se inspiró y retomó las seguidillas españolas de la región de Andalucía, nadie podrá negar que el "**Cielito lindo**" es más mexicano que el pozole…
+
+El Huapango de Moncayo
+
+"**Huapango**" es una obra sinfónica del compositor tapatío **José Pablo Moncayo**, a quien los estudiosos de la música ubican dentro de la corriente nacionalista mexicana. Desde su estreno en 1941 en el Palacio de Bellas Artes, ha sido utilizada con mucha frecuencia en películas y documentales que resaltan la riqueza y el empuje de la nación y del pueblo mexicanos, así como en eventos oficiales y dentro de la promoción turística del país. En su estructura musical, Moncayo rescató motivos melódicos y rítmicos de varios sones, entre los que se encuentran "El Siquisiri", "El Balajú" y "El Gavilancito".
 
 ## El Son de la Negra
 
