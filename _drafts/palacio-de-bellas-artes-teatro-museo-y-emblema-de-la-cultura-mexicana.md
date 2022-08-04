@@ -29,10 +29,20 @@ A continuación, un breve recorrido de uno de los edificios más hermosos del pa
 
 TE RECOMENDAMOS:
 
-El origen del Palacio de Bellas Artes se remonta a los principios del siglo XX, durante la presidencia de Porfirio Díaz, cuando el gobierno mexicano emprendió la construcción de varios monumentos en el marco de las celebraciones por el Centenario de la Independencia de México. Así fue que en el año 1900 el ingeniero Gonzalo Garita y el arquitecto italiano Adamo Boari presentaron una serie de proyectos para ampliar el Teatro Nacional, hoy desaparecido. El proyecto fue aceptado, pero pronto la decisión cambió: el Teatro Nacional fue demolido y lo que se construiría sería un teatro totalmente nuevo en un terreno que ocupaba un convento y que fue expropiado para construir ahí el nuevo templo a las bellas artes mexicanas.
+## La historia
 
-El diseño corrió a cargo del ya mencionado Adamo Boari, y la primera piedra la colocó el presidente Díaz el 2 de abril de 1905. En su construcción se utilizó una mezcla de mármoles mexicanos y los afamados mármoles blancos de Carrara, Italia. El mismo Boari viajó a Europa para seleccionar a artistas destacados para elaborar las herrerías, las esculturas de la fachada y de la cúpula, los vitrales emplomados del plafón, las fuentes de los alrededores, las lámparas y demás elementos de la decoración.
+El origen del **Palacio de Bellas Artes** se remonta a los principios del siglo XX, durante la presidencia de **Porfirio Díaz**, cuando el gobierno mexicano emprendió la construcción de varios monumentos en el marco de las celebraciones por el Centenario de la Independencia de México. Así fue que en el año 1900 el ingeniero **Gonzalo Garita** y el **arquitecto** italiano **Adamo Boari** presentaron una serie de proyectos para ampliar el Teatro Nacional, hoy desaparecido. El proyecto fue aceptado, pero pronto la decisión cambió: el Teatro Nacional fue demolido y lo que se construiría sería un teatro totalmente nuevo en un terreno que ocupaba un convento y que fue expropiado para construir ahí el nuevo templo a las **bellas artes** mexicanas.
+
+El diseño corrió a cargo del ya mencionado **Adamo Boari**, y la primera piedra la colocó el presidente Díaz el 2 de abril de 1905. En su construcción se utilizó una mezcla de mármoles mexicanos y los afamados mármoles blancos de Carrara, Italia. El mismo **Boari** viajó a Europa para seleccionar a artistas destacados para elaborar las herrerías, las esculturas de la fachada y de la cúpula, los vitrales emplomados del plafón, las fuentes de los alrededores, las lámparas y demás elementos de la decoración.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Mexico_-_Mexico_City_-_new_opera_house_under_constr.%3B_full_view%2C_from_across_busy_square_LCCN2007677277.jpg/1024px-Mexico_-_Mexico_City_-_new_opera_house_under_constr.%3B_full_view%2C_from_across_busy_square_LCCN2007677277.jpg)
 
-Todo iba bien… hasta que empezó la Revolución de 1910, la cual obligó a la salida al exilio del presidente Díaz —a la postre, también Boari abandonaría México, dada la inestabilidad económica y política que reinaba en el país—, por lo que la obra prácticamente se detuvo durante casi veinte años. 
+Todo iba bien… hasta que empezó la Revolución de 1910, la cual obligó a la salida al exilio del presidente **Díaz** —a la postre, también **Boari** abandonaría **México**, dada la inestabilidad económica y política que reinaba en el país—, por lo que la obra prácticamente se detuvo durante quince años años. Fue hasta 1931 cuando las obras se retomaron, ahora bajo la dirección del arquitecto mexicano **Federico Mariscal** y el ya oficialmente llamado **Palacio de Bellas Artes** se inauguró oficialmente el 29 de septiembre de 1934 con el estreno de la obra _La verdad sospechosa_, del dramaturgo mexicano Juan Ruiz de Alarcón. La inauguración del edificio llevaría a la fundación del Instituto Nacional de Bellas Artes en 1946, bajo el mandato de Miguel Alemán Valdez.
+
+## ¿Qué hay en el Palacio?
+
+Actualmente, el **Palacio de Bellas Artes** alberga dentro al **Museo del Palacio de Bellas Artes**, que es sede de importantes exposiciones temporales con lo mejor del arte mundial; al Teatro del Palacio de Bellas Artes, que es sede de la Orquesta Sinfónica Nacional y se considera uno de los recintos operísticos más relevantes en la esfera mundial; el Museo de Arquitectura, situado en la planta alta del edificio, y el espacio de los murales realizados ex profeso por los mejores muralistas mexicanos. Revisemos cada uno de ellos…
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palacio_de_Bellas_Artes_00_%282%29.JPG/1024px-Palacio_de_Bellas_Artes_00_%282%29.JPG)
+
+Museo del Palacio de Bellas Artes
