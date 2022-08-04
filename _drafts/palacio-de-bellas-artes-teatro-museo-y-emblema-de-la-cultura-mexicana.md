@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Cualquier turista o visitante a la Ciudad de México lo ha visto alguna vez: blanco, imponente y con una cúpula de colores anaranjados, el Palacio de Bellas Artes es desde hace más de un siglo el símbolo de la cultura y de la vida artística del país, pues es a la vez museo —de hecho, alberga dos museos—, espacio muralista, teatro y monumento. ¿Conoces su historia, quién fue el arquitecto que lo diseño y qué obras contiene?
+
+A continuación, un breve recorrido de uno de los edificios más hermosos del país, que se encuentra en pleno Centro Histórico de la Ciudad de México, sobre el importante Eje Central, y prácticamente a los pies del primer rascacielos mexicano: la Torre Latinoamericana.
+
+TE RECOMENDAMOS:
