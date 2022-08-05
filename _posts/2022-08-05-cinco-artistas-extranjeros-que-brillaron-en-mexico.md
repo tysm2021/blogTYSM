@@ -61,4 +61,10 @@ Aunque nacionalizada **mexicana**, Leonora nació en el seno de una familia aris
 
 La obra de **Carrington** refleja la compleja vida interna de la artista, donde se cuelan las mitologías célticas y medievales a las que estuvo expuesta durante su niñez en Gran Bretaña, los tintes de locura y la experiencia traumática que vivió en España, y todo el bagaje surrealista que le transmitió **Max Ernst** y otros artistas surrealistas como **André Breton**. Sus obras están exhibidas en sitios tan importantes como el **Museo de Arte Moderno**, y en la ciudad de **San Luis Potosí** hay un museo entero dedicado a su obra. Falleció a la edad de 94 en la Ciudad de México.
 
-Vlady
+## Vlady
+
+El último **artista** de esta lista tiene un nombre casi impronunciable para los mexicanos: **Vladímir Víktorovich Kibálchich Rusakov**; por eso, cariñosamente se le puso el mote de **Vlady**, con el que fue conocido en el mundo artístico. Nació en San Petersburgo, Rusia, el 15 de junio de 1920. Su familia era opositora del régimen de Stalin, por lo que sufrieron persecuciones e incluso estuvieron encarcelados durante un tiempo. Luego de ser exiliados a Bélgica, Vlady y su familia empezaron un largo peregrinaje por Francia, de donde huyeron ante el avance nazi, luego llegaron a Martinica, República Dominicana y Cuba, de donde fueron rechazados por su filiación comunista. Finalmente fueron recibidos en **México** en 1941.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Biblioteca_Miguel_Lerdo_de_Tejada.jpg/1024px-Biblioteca_Miguel_Lerdo_de_Tejada.jpg)
+
+Ya nacionalizado **mexicano**, se vinculó con la corriente de pintores conocido como la 'Generación de la Ruptura', que buscaba distanciarse del nacionalismo impuesto por Rivera, Siqueiros y Orozco. Dentro de su vasta obra, destaca que en 1971 fue invitado por el presidente Luis Echeverría para realizar murales en la ß. En el barrio de Mixcoac existe una casa con su nombre, donde existe más de un millar de obras suyas. **Vlady** murió en Cuernavaca, Morelos, en el año 2005.
