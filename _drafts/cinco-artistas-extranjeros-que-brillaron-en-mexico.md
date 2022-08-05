@@ -23,3 +23,18 @@ show_author_profile: false
 comment: false
 
 ---
+Desde hace más de 500 años, **México** ha sido una tierra hospitalaria que ha recibido a **migrantes** de muchas naciones europeas, asiáticas y de otras latitudes. Españoles, franceses, alemanes, británicos, rusos, irlandeses, libaneses, sirios, orientales y gente de otras nacionalidades ha llegado a nuestras tierras con la esperanza de hacer una nueva vida, y ha echado raíces que permean en nuestra **cultura**. Y las artes no son la excepción: por eso hoy te presentamos a **cinco artistas extranjeros** que realizaron lo mejor de su producción en tierras **mexicanas**.
+
+Hablamos del muralista francés **Jean Charlot**, de la pintora española **Remedios Varo**, del arquitecto y escultor alemán **Mathias Goerit**z, de la surrealista británica **Leonora Carrington** y de un pintor ruso que cariñosamente recibió el apodo de **Vlady**. Conozcamos un poco sobre sus vidas y obras.
+
+TE RECOMENDAMOS:
+
+Jean Charlot
+
+Remedios Varo
+
+Mathias Goeritz
+
+Leonora Carrington
+
+Vlady
