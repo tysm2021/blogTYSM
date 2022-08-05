@@ -31,6 +31,8 @@ TE RECOMENDAMOS:
 
 Jean Charlot
 
+Empezamos con un artista relativamente poco conocido, pero que tiene una relevancia determinante en la vida artística de México. Nos referimos a Louis Henri Jean Charlot, quien nació en París, Francia, el 8 de febrero de 1898. 
+
 ## Remedios Varo
 
 María de los **Remedios** Alicia Rodriga **Varo** y Uranga, que era su nombre completo, nació en España, específicamente en Anglès, provincia de Gerona, el 16 de diciembre de 1908. La historia nos dice que en 1937 se trasladó a París y, ante la llegada del ejército nazi a la capital francesa, se exilió en México en el año 1941 y nunca regresó a su patria.
