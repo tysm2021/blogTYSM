@@ -28,3 +28,7 @@ comment: false
 Hablemos un poco de este **fruto**, que normalmente es verde pero que cuando es rojizo o morado recibe el nombre de **xoconostle**, y es un ingrediente esencial en un mole de olla.
 
 TE RECOMENDAMOS:
+
+La **tuna** es una fruta que proviene del **nopal tunero**, una especie de la familia de las cactáceas, la cual produce **tunas** de una gran variedad de tonalidades, sabores, formas y tamaños. Tiene cáscara gruesa y cubierta de minúsculas espinas, y su pulpa es dulce y jugosa, aunque abundante en semillas. La temporada de cosecha de la **tuna** abarca de abril a noviembre, con una mayor producción entre los meses de julio a septiembre. La variedad más conocida en México es aquella llamada Alfajayucan, de la que se producen 166 toneladas anuales.
+
+Por otro lado, además de su sabor, la **tuna** tiene un gran valor **nutritivo**: aporta vitaminas, minerales y proteínas, y tiene excelentes propiedades para mejorar la digestión debido a la fibra contenida en sus semillas. Además, tradicionalmente la **tuna** se ha usado como un remedio natural para aliviar algunos trastornos estomacales —dicen las abuelitas, por ejemplo, que si comes demasiadas "te tapas"; es decir, que sufrirás de estreñimiento—, resfriados y niveles de colesterol altos. Por si fuera poco, en años recientes se ha descubierto que sus azucares son un excelente alimento para diabéticos.
