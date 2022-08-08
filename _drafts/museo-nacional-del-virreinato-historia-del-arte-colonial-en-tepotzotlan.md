@@ -23,8 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
-Si uno va manejando por la carretera México-Querétaro, al pasar el municipio de Cuautitlán Izcalli encontrará la salida para dirigirse al Pueblo Mágico de Tepotzotlán. Y en el centro de esta pintoresca población se encuentra el Colegio Jesuita de San Francisco Javier, el cual actualmente es la sede del Museo Nacional del Virreinato, periodo de la historia de México que comprende tres siglos: desde la caída de Tenochtitlan a manos de los conquistadores españoles en 1521, hasta la Consumación de la Independencia en septiembre de 1821.
+Si uno va manejando por la carretera México-Querétaro, al pasar el municipio de Cuautitlán Izcalli encontrará la salida para dirigirse al **Pueblo Mágico** de **Tepotzotlán**. Y en el centro de esta pintoresca población se encuentra el **Colegio Jesuita de San Francisco Javier**, el cual actualmente es la sede del **Museo Nacional del Virreinato**, periodo de la historia de México que comprende tres siglos: desde la caída de Tenochtitlan a manos de los conquistadores españoles en 1521, hasta la Consumación de la Independencia en septiembre de 1821.
 
-Acompáñanos a un breve recorrido por esta joya del churrigueresco, que además tiene una importante colección de pinturas, esculturas, enconchados, arte plumario, vidrio y cerámica proveniente del periodo cuando México era conocido como la Nueva España…
+Acompáñanos a un breve recorrido por este museo, que es una joya del arte churrigueresco y, además, tiene una importante colección de **pinturas**, **esculturas**, enconchados, arte plumario, vidrio y cerámica proveniente del periodo cuando México era conocido como la Nueva España…
 
 TE RECOMENDAMOS:
