@@ -45,11 +45,17 @@ Cuando algo es excelente o magnífico, podemos decir que "**está del uno**", po
 
 ## Poner un cuatro
 
-Hay varios orígenes posibles de esta expresión, que en esencia significa tenderle una trampa a alguien o 
+Hay varios orígenes posibles de esta expresión, que en esencia significa tenderle una trampa a alguien. El origen más socorrido habla de una especie de número cuatro que se arma con varitas y que sirve, justamente, como mecanismo que activa una trampa para venados en el bosque. Si conoces un boy-scout, quizá el pueda confirmarte lo anterior —en cuyo caso, vienes y nos lo platicas, por favor.
 
-Ni un cinco
+## Ni un cinco
 
-Dejar de a seis
+Aunque más comúnmente se dice "ni un quinto", ambas expresiones se refieren a lo mismo, que es la antigua, arcaica y actualmente en desuso moneda de **cinco centavos**, a la cual desde hace décadas se les conoce como "**quintos**". Es muy probable que esta expresión provenga de tiempos de la Revolución Mexicana, aunque a decir verdad cinco centavos no han servido para comprar mucho en cualquier etapa de la historia.
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/37/5-centavos-de-Durango-de-1914-%2801%29-%28cobre%29.jpg)
+
+## Dejar de a seis
+
+Con el ojo cuadrado, asombrados, estupefactos, incrédulos: así es como se queda uno cuando alguien hace algo que nos deja "**de a seis**". 
 
 Salir con su domingo siete
 
