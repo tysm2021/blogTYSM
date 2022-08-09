@@ -55,12 +55,22 @@ Aunque más comúnmente se dice "ni un quinto", ambas expresiones se refieren a 
 
 ## Dejar de a seis
 
-Con el ojo cuadrado, asombrados, estupefactos, incrédulos: así es como se queda uno cuando alguien hace algo que nos deja "**de a seis**". 
+Con el ojo cuadrado, asombrados, estupefactos, incrédulos: así es como se queda uno cuando alguien hace algo que nos deja "**de a seis**". Al parecer, esta frase tiene un origen militar: en algún tiempo, los cañones venían en dos diámetros, de a cuatro y de a **seis** pulgadas, y los daños que hacían éstos últimos naturalmente eran mayores y, digamos, "asombrosos". Por eso es que, con el tiempo, "dejar **de a seis**" o "quedarse **de a seis**" se relacionó en nuestra habla popular con algo que nos deja atónitos.
 
-Salir con su domingo siete
+## Salir con su domingo siete
 
-Ni que ocho cuartos
+En estricto sentido, hablamos de un embarazo no deseado ni planeado, en especial si se trata de una adolescente o de la hija menor que andaba de novia y que por descuidada "salió con su domingo siete". El origen es muy largo de contar y tiene que ver con un hombre que se escondió para espiar a un grupo de brujas que cantaba: "Lunes y martes / y miércoles, tres; jueves y viernes / y sábado seis" y que cuando les contestó "…y domingo, siete", lo golpearon porque este es el Día del Señor, opuesto a las prácticas brujeriles. Por eso esta frase se usa también cuando alguien dice algo que resulta totalmente inoportuno o inadecuado para la situación.
 
-Sacarse un diez
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Witchcraft%3B_a_white-faced_witch_meeting_a_black-faced_witch_Wellcome_V0025811ETC.jpg/1166px-Witchcraft%3B_a_white-faced_witch_meeting_a_black-faced_witch_Wellcome_V0025811ETC.jpg)
 
-Meterse en camisa de once varas
+## Ni que ocho cuartos
+
+Aquí hablamos de monedas medievales españolas que eran de cobre y se llamaban "**cuartos**", y de otras que se llamaban "realillos" y equivalían a **ocho cuartos** de peseta. Se dice que era un moneda muy usada para pagar alimentos y suministros básicos como el pan, y que en algún momento de escasez o de carestía alguien usó la frase "Que tres pesetas **ni que ocho cuartos**" para expresar su descontento y su desaprobación, sentido con el que la frase llegó hasta nuestros días.
+
+## Sacarse un diez
+
+Como no encontramos frases con el **nueve**, pasemos al **diez**. Esta frase tiene que ver con los sistemas de calificación y evaluación de la educación en México, cuya escala normalmente va del cero al diez, siendo ésta la calificación más alta posible y que se otorga a un examen o a una tarea impecables y sin errores. Así "**sacarse un diez**" significa realizar algo de forma excelente, dar con una idea genial o, simplemente, llevar a cabo una acción de forma que los involucrados en ella quedan complacidos… como cuando hace muchísimo calor y alguien llega a tu casa con "chelas" bien frías.
+
+## Meterse en camisa de once varas
+
+Y como no hubo **nueve**, te damos un pilón con el número **once**. Esta expresión alude a situaciones en las que una persona voluntariamente se somete a algo muy arduo o penoso, asume una tarea muy pesada y difícil. Esto viene a colación con una forma antigua de medir que usaba varas para calcular los diámetros de ciertas cosas, y en la que "once varas" equivaldría a una camisa ajustada y muy complicada de usar… 
