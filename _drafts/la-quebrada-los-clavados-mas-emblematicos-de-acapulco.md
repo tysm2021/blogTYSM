@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Hasta hace algunos años, el puerto de Acapulco era la playa mexicana por excelencia; además, su relativa cercanía a la Ciudad de México lo convertía en el lugar ideal para que miles de "chilangos" se dieran una escapada de fin de semana. Y sin duda uno de los sitios más emblemáticos del puerto es La Quebrada, un acantilado donde desde hace décadas osados clavadistas desafían a la muerte lanzándose en una caída de 35 metros.
+
+Recordemos juntos este sitio emblemático, que incluso ha aparecido en películas como la que protagonizó en 1963 el rey del rock, Elvis Presley, y que llevó por nombre Fun in Acapulco.
+
+TE RECOMENDAMOS:
