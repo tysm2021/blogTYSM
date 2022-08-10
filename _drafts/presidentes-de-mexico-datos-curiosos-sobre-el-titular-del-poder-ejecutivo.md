@@ -34,3 +34,23 @@ TE RECOMENDAMOS:
 Como dijimos ya, aunque desde 1824 y hasta hoy México ha sido una república con división de poderes —Ejecutivo, Legislativo y Judicial—, hubo en nuestra historia dos emperadores de México. El primero fue **Agustín de Iturbide**, que el 19 de mayo de 1822 fue nombrado Agustín I Emperador de México, pero este Primer Imperio Mexicano tuvo muy corta duración, pues Iturbide se vio obligado a abdicar diez meses después, en marzo de 1823. El segundo emperador fue **Maximiliano de Habsburgo**, un noble austriaco que junto con su esposa, la emperatriz Carlota, gobernó el Segundo Imperio Mexicano de 1863 a 1867, cuando fue derrotado por Benito Juárez y **Maximiliano** fue fusilado en el Cerro de las Campanas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f8/Emperador_Maximiliano_I_de_Mexico.jpg)
+
+## El más insistente
+
+Aunque a lo largo de dos siglos de independencia ha habido diversos personajes que han ocupado la silla presidencial más de una vez, hay dos que merecen una mención especial por el número de veces que fueron elegidos o nombrados presidentes.  El primero es **Antonio López de Santa Anna**, quien ocupó la Presidencia de la República en seis ocasiones: en 1833, de 1834 a 1835, en 1839, de 1841 a 1842, de 1844 a 1849, y de 1853 a 1855, aunque si tomamos en cuenta sus renuncias y licencias, Santa Anna asumió el poder en un total de **once ocasione**s.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Antonio_L%C3%B3pez_de_Santa_Anna%2C_siglo_XIX%2C_%C3%B3leo_sobre_tela.png/862px-Antonio_L%C3%B3pez_de_Santa_Anna%2C_siglo_XIX%2C_%C3%B3leo_sobre_tela.png)
+
+## Más veces reelegido
+
+Algunos lo consideran el mejor presidente que ha tenido México, pues modernizó al país trayendo progreso e industrialización; otros, un dictador cuyas políticas beneficiaron grandemente a las clases altas y a los inversionistas extranjeros, empobreciendo a las clases bajas, casi esclavizando a los campesinos y eliminando de tajo a cualquier opositor. Así fue **Porfirio Díaz Mori**, quien ostenta el récord del presidente con más reelecciones, pues después de ser presidente en 1876, y luego de 1877 a 1880, ocupó la presidencia en 1884 y **se hizo reelegir seis veces**: en 1888, 1892, 1896, 1900, 1904 y 1910, sumando un tiempo efectivo de **treinta y un año**s.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Porfirio_Diaz.jpg/717px-Porfirio_Diaz.jpg)
+
+## El gobierno más breve
+
+Este dudoso honor lo ostenta el presidente **Pedro Lascuráin**, quien ocupó la silla presidencial **sólo 45 minutos**, de las 17:15 a las 18:00 horas del 19 de febrero de 1913. Lo anterior se explica así: ante el exilio de Díaz, **Francisco I. Madero** tomó la presidencia con **José María Pino Suárez** como vicepresidente; sin embargo, el traidor Victoriano Huerta dio un golpe de estado e hizo firmar una renuncia forzada a ambos; ante tal situación, la Constitución estipulaba que el Secretario de Relaciones Exteriores —cargo que ocupaba Lascuráin— asumiera la presidencia interina. Los únicos dos actos que hizo en su gestión fue nombrar secretario de Gobernación a Huerta y, acto seguido, presentar su renuncia para dejar a ésta la presidencia en bandeja de plata.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pedro_Lascurain.jpg/751px-Pedro_Lascurain.jpg)
+
+El primero que murió 
