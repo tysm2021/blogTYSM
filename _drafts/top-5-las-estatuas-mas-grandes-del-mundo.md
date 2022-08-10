@@ -34,3 +34,9 @@ TE RECOMENDAMOS:
 ![](/images/2022-08-10-belief1.jpg)
 
 Vayamos en orden inverso, para mayor emoción, y comenzamos con esta imponente **estatua** del dios **Shiva** —uno de los tres más importantes dentro de la religión brahmánica que se practica en la India—, y se titula en inglés _Statue of Belief_. Se ubica en la ciudad de Nathdwara, en **la India**, y su construcción terminó apenas en el otoño de 2019. La estatua en sí **mide 107 metros**, a los que hay que sumar otros 34 del pedestal, y se dice que es visible desde una distancia de 20 kilómetros.
+
+## #4 Nacimiento del Nuevo Mundo
+
+![](/images/2022-08-10-statue-5032604_1920.jpeg)
+
+Esta es la única **estatua** dentro del **Top 5** que no se encuentra en Asia. Representa al navegante genovés Cristóbal Colón a bordo de una de las carabelas con las que llegó a tierras americanas y por eso recibe el nombre en inglés de _Birth of the New World_. Se localiza en **Puerto Rico**, en la localidad de Arecibo, su construcción terminó en 2016, está elaborada con cerca de 600 toneladas de bronce y tiene **una altura de 110 metros**: la más alta en el continente americano.
