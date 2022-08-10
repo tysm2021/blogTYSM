@@ -70,7 +70,9 @@ Muchos de nuestros presidentes fueron militares y, como tales, sufrieron heridas
 Para culminar con este breve recorrido, van cinco datos extra, uno tras otro: 
 
 * **Miguel Miramón** ha sido el presidente más joven que ha tenido México, pues llegó al poder por parte del Partido Conservador en febrero de 1859 a la edad de 27 años; en contraste, el presidente más longevo fue Porfirio Díaz, quien dejó el cargo el 1811 a la edad de 81 años.
-* Los siguientes **presidentes** eran solteros —o, al menos, no habían contraído matrimonio— en el momento que asumieron la **presidencia**: **Guadalupe Victoria**, **Anastasio Bustamante**, **Pedro María Anaya**, **Ignacio Comonfort**, **Sebastián Lerdo de Tejada**, **Francisco S. Carvajal** y **Francisco Lagos Cházaro**.
+* Los siguientes **presidentes** eran solteros —o, al menos, no habían contraído matrimonio— en el momento que asumieron la **presidencia**: Guadalupe Victoria, Anastasio Bustamante, Pedro María Anaya, **Ignacio Comonfort**, Sebastián Lerdo de Tejada, Francisco S. Carvajal y Francisco Lagos Cházaro.
+
+  ![](https://upload.wikimedia.org/wikipedia/commons/c/cb/Comonfort.png)
 * Sólo tres **presidentes** han fallecido durante el ejercicio de su cargo: **Miguel Barragán**, de muerte natural (1836), **Benito Juáre**z, de una angina de pecho (1872), y **Venustiano Carranza**, asesinado (1920).
 * Por su parte, los que murieron fusilados o asesinados al dejar el poder fueron: Agustín de Iturbide, Vicente Guerrero, Manuel Robles Pezuela, Maximiliano de Habsburgo, Miguel Miramón y Francisco I. Madero.
 * No todos los presidentes descansan en territorio nacional, pues los siguientes están sepultados en el extranjero: **Porfirio Díaz**, en París; **Juan Bautista Ceballos**, en París; **Francisco León de la Barra**, en Biarritz, y **Victoriano Huerta**, en El Paso, Texas.
