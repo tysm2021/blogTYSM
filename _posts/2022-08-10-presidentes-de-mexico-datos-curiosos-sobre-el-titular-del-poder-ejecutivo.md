@@ -75,4 +75,4 @@ Para culminar con este breve recorrido, van cinco datos extra, uno tras otro:
   ![](https://upload.wikimedia.org/wikipedia/commons/c/cb/Comonfort.png)
 * Sólo tres **presidentes** han fallecido durante el ejercicio de su cargo: **Miguel Barragán**, de muerte natural (1836), **Benito Juáre**z, de una angina de pecho (1872), y **Venustiano Carranza**, asesinado (1920).
 * Por su parte, los que murieron fusilados o asesinados al dejar el poder fueron: Agustín de Iturbide, Vicente Guerrero, Manuel Robles Pezuela, Maximiliano de Habsburgo, Miguel Miramón y Francisco I. Madero.
-* No todos los presidentes descansan en territorio nacional, pues los siguientes están sepultados en el extranjero: **Porfirio Díaz**, en París; **Juan Bautista Ceballos**, en París; **Francisco León de la Barra**, en Biarritz, y **Victoriano Huerta**, en El Paso, Texas.
+* No todos los presidentes descansan en territorio nacional, pues los siguientes están sepultados en el extranjero: **Porfirio Díaz**, en París; **Juan Bautista Ceballos**, en París; **Francisco León de la Barra**, en Biarritz, y **Victoriano Huerta**, en El Paso, Texas. ¿Qué tal?
