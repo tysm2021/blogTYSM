@@ -52,3 +52,11 @@ Esta estatua monumental fue construida en la aldea de Khatakan Taung, en **Myanm
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/%E6%B2%B3%E5%8D%97%E4%B8%AD%E5%8E%9F%E5%A4%A7%E4%BD%9B_-_panoramio.jpg/1024px-%E6%B2%B3%E5%8D%97%E4%B8%AD%E5%8E%9F%E5%A4%A7%E4%BD%9B_-_panoramio.jpg)
 
 En el condado de **Lushan**, en la milenaria **China**, se encuentra esta otra representación monumental del Buda, en su advocación Vairocana. Se trata de una estatua de cobre que tiene **128 metros de altura** descontando el "trono" en forma de loto y el basamento, con los que el conjunto despunta por encima de los 200 metros. El nombre de la estatua proviene de un manantial próximo, ubicado en Tianrui, cuyas aguas tienen fama de ser curativas.
+
+## #1 Estatua de la Unidad
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Statue_of_Unity.jpg/682px-Statue_of_Unity.jpg)
+
+Te presentamos a la estatua más alta del mundo, que se encuentra en el estado de **Gujarat**, en la **India**. Tiene una espectacular **altura total de 182 metros**, y es una representación del político indio **Vallabhbhai Patel**, quien fue el primer viceprimer ministro de la India entre 1947 y 1950 y es considerado uno de los actores clave en la independencia de la India, integrándolo como una nación unida. Su construcción se culminó en octubre de 2018, y en el interior de la estatua hay cinco niveles, en los cuales hay un museo, un área de exhibiciones, un mezzanine y una terraza.
+
+Para darnos una idea de la magnitud de la **Estatua de la Unidad**, ésta tiene el doble de altura que la Estatua de la Libertad de Nueva York, que mide sólo se alza a 93 metros, y mide exactamente lo mismo que la famosa Torre Latinoamericana de la Ciudad de México. ¿Te imaginas una estatua con la misma altura que un rascacielos?…
