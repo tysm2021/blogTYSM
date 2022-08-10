@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+A diferencia de un edificio, un monumento o una escultura, una estatua es una obra artística que tiene forma humana o, en su defecto, de un animal. Y aunque en todo el mundo podemos contemplar estatuas de gran altura, y algunas son tan famosas como la Estatua de la Libertad de Nueva York, el Cristo Redentor de Río de Janeiro —o el del Cubilete, en el estado de Guanajuato—, en este artículo veremos el Top 5 de las estatuas más altas del mundo.
+
+Llama la atención que, salvo contadas sola excepción, las diez estatuas más altas del mundo han sido erigidas en países de Asia Oriental, tales como China, La India, Myanmar o Japón. Pero no le demos más vueltas y entrémosle al Top 5. Eso sí: si sufres de megalofobia, que es el miedo incontrolable a los objetos enormes, mejor pasa al siguiente artículo, no te nos vayas a desmayar por aquí…
+
+TE RECOMENDAMOS:
