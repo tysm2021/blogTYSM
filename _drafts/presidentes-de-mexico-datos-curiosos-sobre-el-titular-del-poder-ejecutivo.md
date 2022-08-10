@@ -53,4 +53,8 @@ Este dudoso honor lo ostenta el presidente **Pedro Lascuráin**, quien ocupó la
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pedro_Lascurain.jpg/751px-Pedro_Lascurain.jpg)
 
-El primero que murió 
+## Los mutilados
+
+Muchos de nuestros presidentes fueron militares y, como tales, sufrieron heridas de guerra. Por eso, hay dos casos particulares de presidentes que perdieron una extremidad en batalla y, aun así, siguieron en sus respectivas luchas. El primero fue el ya mencionado **Antonio López de Santa Anna**, quien el 5 de diciembre de 1838, durante la defensa del puerto de Veracruz ante los invasores franceses, resultó herido por una bala de cañón en **una pierna, la cual acabó perdiendo**; se dice que la enterró con honores militares. El segundo caso es el del general **Álvaro Obregón**, quien el 3 de julio de 1915 durante una batalla contra los villistas fue herido en una acción armada por un obús, **perdiendo en el acto el brazo derecho**, por lo que se le conoció como "El manco de Celaya".
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/%C3%81lvaro_Obreg%C3%B3n_Salido.jpg/707px-%C3%81lvaro_Obreg%C3%B3n_Salido.jpg)
