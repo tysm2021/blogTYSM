@@ -29,6 +29,12 @@ Recordemos que desde 1824 México adoptó la forma de gobierno republicana y con
 
 TE RECOMENDAMOS:
 
+## Cambio de nombre
+
+El primer **presidente** constitucional electo que tuvo **México** fue **Guadalupe Victoria**, quien asumió el poder tres años después de consumada la Independencia, el 10 de octubre de 1824. Su periodo de gobierno duró poco más de cuatro años, al término de los cuales se retiró de la vida pública. Pero el dato no es ese, sino que su nombre verdadero era **José Miguel Ramón Adaucto Fernández y Félix**; fue a raíz de la toma de la ciudad de Oaxaca en 1812 a manos del ejército insurgente dirigido por José María Morelos y Pavón que decidió cambiar su nombre a **Guadalupe**, "por su devoción hacia la virgen de Guadalupe, y **Victoria** por la gran victoria que habían obtenido".
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Guadalupe_Victoria_-_02.jpg)
+
 ## Hubo dos emperadores
 
 Como dijimos ya, aunque desde 1824 y hasta hoy México ha sido una república con división de poderes —Ejecutivo, Legislativo y Judicial—, hubo en nuestra historia dos emperadores de México. El primero fue **Agustín de Iturbide**, que el 19 de mayo de 1822 fue nombrado Agustín I Emperador de México, pero este Primer Imperio Mexicano tuvo muy corta duración, pues Iturbide se vio obligado a abdicar diez meses después, en marzo de 1823. El segundo emperador fue **Maximiliano de Habsburgo**, un noble austriaco que junto con su esposa, la emperatriz Carlota, gobernó el Segundo Imperio Mexicano de 1863 a 1867, cuando fue derrotado por Benito Juárez y **Maximiliano** fue fusilado en el Cerro de las Campanas.
@@ -58,3 +64,13 @@ Este dudoso honor lo ostenta el presidente **Pedro Lascuráin**, quien ocupó la
 Muchos de nuestros presidentes fueron militares y, como tales, sufrieron heridas de guerra. Por eso, hay dos casos particulares de presidentes que perdieron una extremidad en batalla y, aun así, siguieron en sus respectivas luchas. El primero fue el ya mencionado **Antonio López de Santa Anna**, quien el 5 de diciembre de 1838, durante la defensa del puerto de Veracruz ante los invasores franceses, resultó herido por una bala de cañón en **una pierna, la cual acabó perdiendo**; se dice que la enterró con honores militares. El segundo caso es el del general **Álvaro Obregón**, quien el 3 de julio de 1915 durante una batalla contra los villistas fue herido en una acción armada por un obús, **perdiendo en el acto el brazo derecho**, por lo que se le conoció como "El manco de Celaya".
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/%C3%81lvaro_Obreg%C3%B3n_Salido.jpg/707px-%C3%81lvaro_Obreg%C3%B3n_Salido.jpg)
+
+## Curiosidades varias
+
+Para culminar con este breve recorrido, van cinco datos extra, uno tras otro: 
+
+* **Miguel Miramón** ha sido el presidente más joven que ha tenido México, pues llegó al poder por parte del Partido Conservador en febrero de 1859 a la edad de 27 años; en contraste, el presidente más longevo fue Porfirio Díaz, quien dejó el cargo el 1811 a la edad de 81 años.
+* Los siguientes **presidentes** eran solteros —o, al menos, no habían contraído matrimonio— en el momento que asumieron la **presidencia**: **Guadalupe Victoria**, **Anastasio Bustamante**, **Pedro María Anaya**, **Ignacio Comonfort**, **Sebastián Lerdo de Tejada**, **Francisco S. Carvajal** y **Francisco Lagos Cházaro**.
+* Sólo tres **presidentes** han fallecido durante el ejercicio de su cargo: **Miguel Barragán**, de muerte natural (1836), **Benito Juáre**z, de una angina de pecho (1872), y **Venustiano Carranza**, asesinado (1920).
+* Por su parte, los que murieron fusilados o asesinados al dejar el poder fueron: Agustín de Iturbide, Vicente Guerrero, Manuel Robles Pezuela, Maximiliano de Habsburgo, Miguel Miramón y Francisco I. Madero.
+* No todos los presidentes descansan en territorio nacional, pues los siguientes están sepultados en el extranjero: **Porfirio Díaz**, en París; **Juan Bautista Ceballos**, en París; **Francisco León de la Barra**, en Biarritz, y **Victoriano Huerta**, en El Paso, Texas.
