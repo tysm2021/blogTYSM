@@ -46,3 +46,9 @@ Esta es la única **estatua** dentro del **Top 5** que no se encuentra en Asia. 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/%E1%80%99%E1%80%AF%E1%80%B6%E1%80%9B%E1%80%BD%E1%80%AC%E1%80%99%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%B7%E1%80%99%E1%80%BE_%E1%80%9B%E1%80%95%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%99%E1%80%B0%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%80%E1%80%BC%E1%80%AE%E1%80%B8.jpg/576px-%E1%80%99%E1%80%AF%E1%80%B6%E1%80%9B%E1%80%BD%E1%80%AC%E1%80%99%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%B7%E1%80%99%E1%80%BE_%E1%80%9B%E1%80%95%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%99%E1%80%B0%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%80%E1%80%BC%E1%80%AE%E1%80%B8.jpg)
 
 Esta estatua monumental fue construida en la aldea de Khatakan Taung, en **Myanmar**, y se alza a **una altura de 116 metros** —considerando el pedestal, serían 129 en total—; representa a Gautama Buda de pie y vistiendo ropajes dorados —el color de la sabiduría dentro del budismo—, y se encuentra junto a otra del Buda reclinado, reproduciendo la escena del Mahaparinirvana, que es el estado espiritual que alcanzan quienes lograron la iluminación en vida. 
+
+## Buda del Templo del Manantial
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/%E6%B2%B3%E5%8D%97%E4%B8%AD%E5%8E%9F%E5%A4%A7%E4%BD%9B_-_panoramio.jpg/1024px-%E6%B2%B3%E5%8D%97%E4%B8%AD%E5%8E%9F%E5%A4%A7%E4%BD%9B_-_panoramio.jpg)
+
+En el condado de **Lushan**, en la milenaria **China**, se encuentra esta otra representación monumental del Buda, en su advocación Vairocana. Se trata de una estatua de cobre que tiene 128 metros de altura descontando el "trono" en forma de loto, con el que alcanza 
