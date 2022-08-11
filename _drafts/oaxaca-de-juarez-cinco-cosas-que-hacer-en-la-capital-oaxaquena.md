@@ -31,15 +31,19 @@ TE RECOMENDAMOS:
 
 ## Recorre el Centro Histórico
 
-Al llegar a la ciudad de Oaxaca de Juárez, lo primero que te recomendamos en un recorrido por el centro. 
+Al llegar a la ciudad de Oaxaca de Juárez, lo primero que te recomendamos en un recorrido por el Centro Histórico, que es Patrimonio de la Humanidad. Partiendo del Zócalo, ahí encontrarás la **Catedral**, que tiene la particularidad de estar construida con cantera verde —a diferencia de muchas catedrales coloniales del centro y norte, que lucen fachadas de cantera rosa—; a unas cuadras está el **Ex Convento de Santo Domingo de Guzmán**, una de las edificaciones más importantes y que contiene a la fastuosa Capilla del Rosario oaxaqueña.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/RUTA_INDEPENDENCIA%2C_Centro%2C_Oaxaca%2C_Oax.%2C_Mexico_-_panoramio_%281%29.jpg/1024px-RUTA_INDEPENDENCIA%2C_Centro%2C_Oaxaca%2C_Oax.%2C_Mexico_-_panoramio_%281%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Santo_Domingo_de_Guzman_Convent.JPG/1024px-Santo_Domingo_de_Guzman_Convent.JPG)
+
+También podrás admirar el **Ex Convento de Santa Catalina de Siena** y la **Basílica de Nuestra Señora de la Soledad**. Además de iglesias, también podrás encontrar numerosos restaurantes donde probar la gastronomía local, así como tiendas de artesanías donde realizar tus compras, o de plano irte a un mercado —te recomendamos el Mercado Juárez y el 20 de Noviembre— donde encontrarás de todo, como en botica.
 
 ## Prueba una tlayuda
 
-Se trata de un platillo típico oaxaqueño
+Se trata de un platillo típico oaxaqueño que consiste en una delgada y crujiente tortilla de maíz, cocida a las brasas, mucho más grande que las "normales" —puede medir hasta 40 centímetros— y con un sabor único. Lo más común es comerla "preparada"; es decir, con una capa de asiento, pasta de frijol —con hoja santa—, quesillo, col y, tradicionalmente, tasajo de res.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TLAYUDA.jpg/1024px-TLAYUDA.jpg)
+
+Como podrás ver en la foto, esa es la preparación básica: hay gente que le añade chapulines, aguacate, salsas, pepitas, rabanitos, chorizo o longaniza asada. Es un platillo muy llenador, así que seguramente con una **tlayuda** quedarás más que satisfecho.
 
 ## Échate un mezcal
 
