@@ -55,12 +55,16 @@ Si eres nuevo en esto de los mezcales, te recomendamos empezar por lo más senci
 
 ## Vista Monte Albán
 
-Aunque no está propiamente en la ciudad de Oaxaca, se encuentra a una cómoda distancia que puedes recorrer en veinte o treinta minutos.
+Aunque no está propiamente en la ciudad de Oaxaca, se encuentra a una cómoda distancia de 8 Km, que puedes recorrer en veinte o treinta minutos. **Monte Albán** fue la ciudad más importante de la cultura zapoteca, la cual floreció durante la época prehispánica. Se piensa que ésta fue una de las ciudades principales y más antiguas de toda Mesoamérica.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Monte_Alban_temple_2006_08.JPG/1024px-Monte_Alban_temple_2006_08.JPG)
 
+Actualmente, en la zona es posible recorrer los restos de las plataformas piramidales que sostenían las edificaciones de piedra que estaban dedicadas al culto religioso, a la administración pública o eran conjuntos habitacionales. En **Monte Albán** hay resto de numerosos edificios, un juego de pelota, un observatorio, la Plaza de los Danzantes y abundantes piedras talladas y estelas que dan fe del paso de este pueblo prehispánico por la zona.
+
 ## Sumérgete en sus museos
 
-Algo que distingue al pueblo oaxaqueño es su enorme producción cultural: tomemos en cuenta que dos de los más grandes pintores y artistas plásticos del siglo XX en México, Rufino Tamayo y Francisco Toledo, eran nativos de esta ciudad.
+Algo que distingue al pueblo oaxaqueño es su enorme producción **cultural**: tomemos en cuenta que dos de los más grandes pintores y artistas plásticos del siglo XX en México, Rufino Tamayo y Francisco Toledo, eran nativos del estado. Así, te recomendamos cinco museos para que deleites tus sentidos, empezando por el **Museo de las Culturas de Oaxaca**, que se encuentra en el Ex Convento de San Domingo y está abierto sólo de martes a viernes, de las 10 a las 15 hrs. Otro sitio recomendable es el **Museo Textil de Oaxaca**, que además de estar albergado en el hermoso edificio que aquí puedes contemplar, se especializa en la producción de telas y tejidos del estado.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Museo_Textil_de_Oaxaca_%28MTO%29.jpg/1024px-Museo_Textil_de_Oaxaca_%28MTO%29.jpg)
+
+No pueden faltar el **Museo de Arte Prehispánico de México Rufino Tamayo**, donde se exhibe la importante colección de piezas que el artista donó al pueblo oaxaqueño, y el Museo de Arte Contemporáneo de Oaxaca (MACO), especializado en piezas de arte de manufactura reciente. Cierra este breve conteo —y el artículo, de paso— el **Museo de Filatelia de Oaxaca** (MUFI), donde se exhiben timbres, sobres, cancelaciones, hojillas, arte, cartas y todo lo relacionado con el arte filatélico.
