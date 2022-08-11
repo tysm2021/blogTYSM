@@ -46,3 +46,5 @@ El **sitio de Cuautla** duró más de sesenta días, en los que **Morelos** cons
 ![](https://upload.wikimedia.org/wikipedia/commons/2/25/Mexico.JoseMariaMorelos.01.jpg)
 
 En noviembre de 1812, luego de tomar Tehuacán y Orizaba, **Morelos** se lanzó a la toma de la ciudad de Oaxaca, la cual capituló a finales de mes, y ahí se estableció la Junta insurgente.  En diciembre del mismo año, de ahí se dirigió a cumplir la misión que dos años antes le había encargado **Hidalgo**: tomar el puerto de **Acapulco**. Luego de un sitio que duró cuatro meses, el Fuerte de San Diego se rindió en agosto de 1813.
+
+El 13 de septiembre de ese año, **Morelos** organizó el Congreso de Chilpancingo —también llamado Congreso de Anáhuac—, el cual era la primera reunión oficial de los insurgentes donde se declaró la independencia de América septentrional. En ese congreso **Morelos** dio lectura al famoso documento **"Sentimientos de la Nación"**, donde destacó la importancia de los derechos humanos y de la libertad; ese documento se considera el primer antecedente de la constitución política mexicana.
