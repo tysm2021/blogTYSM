@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Todo mundo recuerda a **Miguel Hidalgo** porque, con su **Grito de Dolores**, dio inicio a la guerra armada por la **Independencia** de **México**; sin embargo, otro personaje central en el movimiento insurgente fue **José María Morelos**, quien continuó la lucha tras la muerte de **Hidalgo** y se nombró a sí mismo 'El **Siervo de la Nación**'. Conozcamos un poco de su **biografía**, su **obra** y su **vida** de servicio a la Patria.
+
+Todo empezó en la ciudad de Valladolid, que en tiempos de la Nueva España tenía ese nombre inspirado en el de una urbe española, pero que tras la Independencia fue conocida como **Morelia** en honor a este **insurgente**, y actualmente es la capital del estado de Michoacán.
+
+TE RECOMENDAMOS:
