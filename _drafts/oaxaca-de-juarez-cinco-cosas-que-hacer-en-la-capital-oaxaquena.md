@@ -43,9 +43,11 @@ Se trata de un platillo típico oaxaqueño
 
 ## Échate un mezcal
 
-Quien va a Oaxaca y no prueba el mezcal… es como si no hubiera ido.
+Quien va a **Oaxaca** y no prueba el **mezcal**… es como si no hubiera ido. Conocido por la calidad de sus destilados de agave, **Oaxaca** es el estado emblemático en la producción de **mezcal**, sobre todo en municipios como Santiago Matatlán o Sola de Vega y en Miahuatlán de Porfirio Díaz. Así que si andas en la capital, es muy probable que puedas acceder a botellas procedentes de todas partes del estado, las cuales han ganado fama nacional o internacional.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mezcal_y_naranja.jpg/1024px-Mezcal_y_naranja.jpg)
+
+Si eres nuevo en esto de los mezcales, te recomendamos empezar por lo más sencillo, que sería un **mezcal** de agave Espadín, ya sea blanco o reposado. Después, ya puedes empezar a explorar los sabores de agaves y **mezcales** como el Tobalá, que es fuerte, o el Madre cuixe, de sabor mineral más moderado. Eso sí: no pierdas el control, porque si no estás habituado es muy fácil que el alcohol se te suba a la cabeza.
 
 ## Vista Monte Albán
 
