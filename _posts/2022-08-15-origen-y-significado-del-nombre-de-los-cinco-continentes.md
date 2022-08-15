@@ -52,3 +52,9 @@ Esta historia es un poco más complicada. La versión más socorrida es que su o
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Map_of_Europe_in_1920%2C_after_the_Paris_Peace_Conference.jpg/1024px-Map_of_Europe_in_1920%2C_after_the_Paris_Peace_Conference.jpg)
 
 Ésta es relativamente fácil, pues en la mitología griega **Europa** era el nombre de una princesa fenicia que fue hija de Agénor y Telefasa. El mito dice que el dios Zeus la vio en una playa divirtiéndose con sus amigas y quedó prendado de su belleza, por lo que se transformó en un manso toro blanco, se le acercó y cuando **Europa** lo montó, éste emprendió el vuelo hasta la isla de Creta, donde concibieron a sus hijos Minos —quien llegó a ser rey— y Sarpedón. La primera vez que se usó para designar "el mundo conocido" entre los griegos fue en siglo VI a.C., por parte del filósofo y geógrafo Anaximandro. Como dato curioso, una de las lunas del planeta Júpiter también recibe ese nombre.
+
+## Oceanía
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/1814_Thomson_Map_of_Australia%2C_New_Zealand_and_New_Guinea_-_Geographicus_-_Australia-thomson-1814.jpg/951px-1814_Thomson_Map_of_Australia%2C_New_Zealand_and_New_Guinea_-_Geographicus_-_Australia-thomson-1814.jpg)
+
+La última de estas historias se va muy al sur, al continente de **Oceanía**, nombre que significa "tierras oceánicas". Fue en los primeros años del siglo XIX que el geógrafo francés Conrad Malte-Brun usó el término _terres océaniques_ para referirse al conjunto de islas que rodean a la gran isla de Australia; unos años despúes otro francés, Adrian-Hubert Brué, abrevió el término a simplemente _Océanie_ y la identificó como un quinto continente unido por el océano. Hay que decir que algunos geógrafos muy estrictos no consideran a **Oceanía** un continente como tal, sino como la quinta "parte del mundo".
