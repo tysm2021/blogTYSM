@@ -23,3 +23,10 @@ show_author_profile: false
 comment: false
 
 ---
+Todos, o casi todos, desde las clases de historia y geografía en la primaria aprendimos que en el mundo existen cinco continentes y que sus nombres son: África, América, Asia, Europa y Oceanía. Hasta ahí, todo bien; pero, ¿cuál es el significado y el origen de esos nombres, quién se los puso y cuándo sucedió eso?
+
+A continuación, te explicamos en breves palabras por qué cada una de estas regiones del mundo recibe ese nombre. Te adelantamos que la respuesta involucra a marineros, a ciertas diosas y a la mitología antigua.
+
+TE RECOMENDAMOS:
+
+África
