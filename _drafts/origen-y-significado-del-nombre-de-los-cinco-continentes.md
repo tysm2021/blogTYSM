@@ -40,3 +40,9 @@ Muchos científicos creen que el género humano —es decir, la especie _Homo sa
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/America_noviter_delineata.jpg/1012px-America_noviter_delineata.jpg)
 
 Esta muchos nos la sabemos: si bien la historia le concede al navegante **Cristóbal Colón**, o Cristoforo Colombo en italiano, el honor de haber "descubierto" este **continente**, el nombre deriva del de otro italiano: **Américo Vespucio** (1454-1512), o Amerigo Vespucci en italiano, quien fue cartógrafo al servicio del reino de Castilla. Durante uno de los viajes que hizo a estas tierras, dio con el hallazgo de que en realidad se trataba de un **continente** nuevo y desconocido para los europeos, y no de "Las Indias", como lo aseguraba **Colón**. En origen, el nombre de **América** fue puesto sólo a una una región de Sudamérica, pero con el tiempo se aplicó a todo el **continente**, siendo en 1507 que el nombre apareció en un libro fue en 1507, en el _Cosmographiae Introductio_ del alemán Mathias Ringmann.
+
+## Asia
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/1550_map_of_Asia_by_Sebastian_M%C3%BCnster.jpg/987px-1550_map_of_Asia_by_Sebastian_M%C3%BCnster.jpg)
+
+Esta historia es un poco más complicada. La versión más socorrida es que su origen es griego, y que con ese nombre se conocía a la región localizada al este del Mar Egeo. La palabra tiene su origen en el vocablo _Aswia_, del antiguo griego micénico, una entidad política en la península de Anatolia —actualmente Turquía— que el pueblo hitita conocía como Assuwa. Entre los posibles significados de esta palabra están: "lleno de barro", "salir afuera" o "rebelarse". El nombre también se vincula con una deidad de la mitología griega, la oceánide **Asia**, que fue hija de Océano y de la diosa Tetis, a la cual no hay que confundir con la otra diosa del mismo nombre que fue madre del héroe Aquiles.
