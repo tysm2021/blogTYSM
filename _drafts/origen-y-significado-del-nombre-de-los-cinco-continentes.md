@@ -34,3 +34,9 @@ TE RECOMENDAMOS:
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Large-scale-old-map-of-africa-16xx.jpg/993px-Large-scale-old-map-of-africa-16xx.jpg)
 
 Muchos científicos creen que el género humano —es decir, la especie _Homo sapiens_— se generó en **África**, hace cerca de 300 mil años. Pero la historia del nombre de este continente es mucho más reciente: el **origen** más probable es que deriva del latín, ya que los antiguos romanos le llamaban así a la región que se encuentra al oeste del río Nilo; la palabra en sí, que los conocedores denominan como un "topónimo", proviene de una tribu local que era conocida como los **Afri**, nombre que a su vez deriva del griego ifri, que significa 'caverna'. Suponemos, entonces, que dicho pueblo bereber solía vivir en cuevas, ¿será?
+
+## América
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/America_noviter_delineata.jpg/1012px-America_noviter_delineata.jpg)
+
+Esta muchos nos la sabemos: si bien la historia le concede al navegante Cristóbal Colón —Cristoforo Colombo, en italiano— 
