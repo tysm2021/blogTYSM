@@ -46,3 +46,9 @@ Esta muchos nos la sabemos: si bien la historia le concede al navegante **Crist�
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/1550_map_of_Asia_by_Sebastian_M%C3%BCnster.jpg/987px-1550_map_of_Asia_by_Sebastian_M%C3%BCnster.jpg)
 
 Esta historia es un poco más complicada. La versión más socorrida es que su origen es griego, y que con ese nombre se conocía a la región localizada al este del Mar Egeo. La palabra tiene su origen en el vocablo _Aswia_, del antiguo griego micénico, una entidad política en la península de Anatolia —actualmente Turquía— que el pueblo hitita conocía como Assuwa. Entre los posibles significados de esta palabra están: "lleno de barro", "salir afuera" o "rebelarse". El nombre también se vincula con una deidad de la mitología griega, la oceánide **Asia**, que fue hija de Océano y de la diosa Tetis, a la cual no hay que confundir con la otra diosa del mismo nombre que fue madre del héroe Aquiles.
+
+## Europa
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Map_of_Europe_in_1920%2C_after_the_Paris_Peace_Conference.jpg/1024px-Map_of_Europe_in_1920%2C_after_the_Paris_Peace_Conference.jpg)
+
+Ésta es relativamente fácil, pues Europa era el nombre de una antigua diosa 
