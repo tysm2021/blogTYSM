@@ -63,7 +63,7 @@ El estado de Guanajuato tiene una tradición minera de siglos. Por eso, una visi
 
 Para muchos, **San Miguel de Allende** es sinónimo de cultura y de arte. Y dada la abundancia de extranjeros jubilados que vienen a México en plan de retiro, hay abundantes sitios donde éstos pueden comprar obras de arte de numerosos estilos, con precios en dólares. Destacan las galerías que se encuentran en la **Fábrica La Aurora**, que era una fábrica de textiles y cuyos espacios ahora están consagrados a la venta de arte. Ahí es posible admirar y adquirir tanto obras de artistas emergentes como piezas de arte de pintores consagrados como Pablo Picasso o Joan Miró. Eso sí: los precios no están al alcance de cualquiera… pero por mirar no cobran, ¡eso que ni qué!
 
-Disfruta del mirador
+### Disfruta del mirador
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/ce/San_Miguel_de_Allende_Mirador.jpg)
 
