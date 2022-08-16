@@ -51,11 +51,15 @@ Nadie discute que, para calles bellas y dignas de una foto, pocos lugares compit
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lunch_at_Delicioso_Micasa.jpg/1024px-Lunch_at_Delicioso_Micasa.jpg)
 
-Otra fama bien ganada de esta población es que, por su importancia turística, cuenta con una variada y rica oferta gastronómica, desde modestas fondas hasta restaurantes de talla internacional donde se dan cita platillos típicos de nuestra cocina tradicional, así como las más novedosas propuestas culinarias de chefs nacionales y extranjeros. Así que, si te da hambre, déjate guiar por tu olfato, dale rienda suelta a tu espíritu aventurero y prueba algo totalmente nuevo, ¿te animas?
+Otra fama bien ganada de esta población es que, por su importancia turística, cuenta con una variada y rica oferta **gastronómica**, desde modestas fondas hasta **restaurantes** de talla internacional donde se dan cita **platillos** típicos de nuestra cocina tradicional, así como las más novedosas propuestas culinarias de chefs nacionales y extranjeros. Así que, si te da hambre, déjate guiar por tu olfato, dale rienda suelta a tu espíritu aventurero y prueba algo totalmente nuevo, ¿te animas?
 
-Compra joyería
+### Compra joyería
+
+El estado de Guanajuato tiene una tradición minera de siglos. Por eso, una visita a las muchas joyerías —y hasta a los puestos callejeros— que hay en San Miguel de Allende te abrirá la puerta a un sinfín de posibilidades: desde sencillos aretes o arracadas de plata hasta juegos o servicios completos, pasando por collares, dijes, prendedores y anillos, algunos de los cuales vienen con piedras preciosas engarzadas. Eso sí: hay para todos los gustos… y todos los presupuestos.
 
 ### Conoce las galerías
+
+Para muchos, **San Miguel de Allende** es sinónimo de cultura y de arte. Y dada la abundancia de extranjeros jubilados que vienen a México en plan de retiro, hay abundantes sitios donde éstos pueden comprar obras de arte de numerosos estilos, con precios en dólares. Destacan las galerías que se encuentran en la **Fábrica La Aurora**, que era una fábrica de textiles y cuyos espacios ahora están consagrados a la venta de arte. Ahí es posible admirar y adquirir tanto obras de artistas emergentes como piezas de arte de pintores consagrados como Pablo Picasso o Joan Miró. Eso sí: los precios no están al alcance de cualquiera… pero por mirar no cobran, ¡eso que ni qué!
 
 Disfruta del mirador
 
