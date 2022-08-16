@@ -34,3 +34,13 @@ Conocer la Parroquia de San Miguel Arcángel
 Visita la Casa de Allende
 
 Toma fotografías de sus calles 
+
+Come en un restaurante
+
+Compra joyería
+
+Conoce las galerías
+
+Disfruta del mirador
+
+Prueba un churro
