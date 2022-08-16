@@ -23,3 +23,14 @@ show_author_profile: false
 comment: false
 
 ---
+Ubicada en Guanajuato, la ciudad de San Miguel de Allende es un destino turísticos primordial del estado y tiene fama de ser una de las mejores ciudades para vivir en México, por su alto nivel de vida, la seguridad y la belleza de sus calles. Por eso, aquí te compartimos un breve resumen de los atractivos de la ciudad y algunas cosas que hacer si vas en plan turista.
+
+Esta ciudad durante algún tiempo recibió el nombre de San Miguel el Grande, pues el santo patrón es San Miguel Arcángel; pero como ahí fue el sitio de nacimiento del insurgente Ignacio Allende, fue que se le puso el nombre con que la conocemos hoy en día. Conozcámosla un poco mejor…
+
+TE RECOMENDAMOS:
+
+Conocer la Parroquia de San Miguel Arcángel
+
+Visita la Casa de Allende
+
+Toma fotografías de sus calles 
