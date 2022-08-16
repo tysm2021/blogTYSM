@@ -23,10 +23,12 @@ show_author_profile: false
 comment: false
 
 ---
-Con sus más de siete siglos de historia, la **Ciudad de México** —antes llamada México-Tenochtitlan— es una megalópolis donde abundan los vestigios arqueológicos, los monumentos y palacios coloniales, edificios modernos como los rascacielos, y también hay una dinámica vida cultural, así como una abundante producción artística, lo que se refleja en el gran número de museos públicos y privados que existen en ella, lo que ha llevado a afirmar que es la ciudad con más museos en el mundo.
+Con sus más de siete siglos de historia, la **Ciudad de México** —antes llamada México-Tenochtitlan— es una megalópolis donde abundan los vestigios arqueológicos, los monumentos y palacios coloniales, edificios modernos como los rascacielos, y también hay una dinámica vida cultural, así como una abundante producción artística, lo que se refleja en el gran número de **museos** públicos y privados que existen en ella, lo que ha llevado a afirmar que es **la ciudad con más museos en el mundo**.
 
-Pero, ¿qué tan cierta es esta afirmación que se ha popularizado en años recientes? Revisemos cierta información estadística para hallar la verdad…
+Pero, ¿qué tan cierta es esta afirmación que se ha popularizado en años recientes? Revisemos cierta información estadística de distintas fuentes periodísticas y en bases de datos, para hallar la verdad…
 
 TE RECOMENDAMOS:
 
-Empezando por su Centro Histórico, y siguiendo por zonas de animosa vida cultural como Chapultepec, Polanco, Coyoacán, San Ángel o la Ciudad Universitaria, la Ciudad de México sin duda cuenta con una enorme oferta museística, teniendo decenas de museos para todos los gustos, edades, afinidades, pasatiempos o disciplinas de estudio. Pero no: tristemente, la CdMx no es la ciudad con más museos en el mundo.
+Empezando por su Centro Histórico, y siguiendo por zonas de animosa vida cultural como Chapultepec, Polanco, Coyoacán, San Ángel o la Ciudad Universitaria, la **Ciudad de México** sin duda cuenta con una enorme oferta museística, teniendo decenas de **museos** para todos los gustos, edades, afinidades, pasatiempos o disciplinas de estudio. Pero no: tristemente, la **CdMx no es la ciudad con más museos en el mundo**.
+
+Según la Secretaría de Cultura, a través del Sistema de Información Cultural (SIC), **el número oficial de museos que existen en la Ciudad de México es de 171**, entre museos nacionales como el de Antropología o el de Historia, museos de sitio como el del Templo Mayor, museos regionales o de las alcaldías, museos universitarios, especializados, tecnológicos, privados, galerías y pinacotecas. Si deseas consultar el listado completo, puedes verlo haciendo clic [**aquí**](https://sic.cultura.gob.mx/lista.php?table=museo&estado_id=9&municipio_id=-1).
