@@ -47,11 +47,15 @@ A un costado de la inconfundible Parroquia se ubica la que fuera la casa del ins
 
 Nadie discute que, para calles bellas y dignas de una foto, pocos lugares compiten con San Miguel de Allende. Así que no lo planees mucho: simplemente sal a caminar sin rumbo, piérdete por sus calles y seguramente hallarás más de un rincón y distintos paisajes y encuadres que te invitarán a sacar tu cámara —o, al menos, tu celular— para inmortalizar el momento.
 
-Come en un restaurante
+### Come en un restaurante
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lunch_at_Delicioso_Micasa.jpg/1024px-Lunch_at_Delicioso_Micasa.jpg)
+
+Otra fama bien ganada de esta población es que, por su importancia turística, cuenta con una variada y rica oferta gastronómica, desde modestas fondas hasta restaurantes de talla internacional donde se dan cita platillos típicos de nuestra cocina tradicional, así como las más novedosas propuestas culinarias de chefs nacionales y extranjeros. Así que, si te da hambre, déjate guiar por tu olfato, dale rienda suelta a tu espíritu aventurero y prueba algo totalmente nuevo, ¿te animas?
 
 Compra joyería
 
-Conoce las galerías
+### Conoce las galerías
 
 Disfruta del mirador
 
