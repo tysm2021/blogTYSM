@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-08-16-san_miguel_de_allende_sky.jpeg"
 sharing: true
-title: 'San Miguel de Allende: qué hacer en sus atractivos turísiticos'
+title: 'San Miguel de Allende: qué hacer en sus atractivos turísticos'
 summary: 'Esta ciudad guanajuantense tiene fama de ser una de las mejores para vivir
   en México: conoce qué hacer y sus principales destinos'
 cover: "/images/2022-08-16-san_miguel_de_allende_sky.jpeg"
