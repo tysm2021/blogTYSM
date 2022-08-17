@@ -36,3 +36,9 @@ Los hospitales de la zona norte no se daban abasto atendiendo a los cientos de a
 ![](https://upload.wikimedia.org/wikipedia/commons/5/51/Mimosa_tenuiflora_%E2%80%94_Jo%C3%A3o_de_Deus_Medeiros_003.jpg)
 
 Pero, ¿qué es el **tepezcohuite**? Su nombre científico es _Mimosa tenuiflora_ o _Mimosa hostilis_, y en otras partes del mundo se le conoce también como **jurema**, **jurema preta** o **catinga**. Se trata de una especie de arbusto de la familia de las fabáceas —a la que pertenecen también el huizache y el guaje—, nativo de México y de otras partes de América; es un árbol espinoso que puede llegar hasta los 6 metros de altura, con espinas muy punzantes, y que tiene una **corteza** color rojizo castaño, la cual tiene diversas propiedades medicinales.
+
+Dentro de la medicina tradicional, se menciona en libros desde la década de 1970, diciendo que "su cáscara se hace polvo y cura heridas. En cuanto al **significado**, según el _Diccionario de Aztequismos_, **tepezcohuite** deriva del náhuatl _tépetl_, 'cerro' y _cuahuitl_, 'árbol', es decir "árbol del cerro", aunque por su uso se popularizó la versión de que su nombre significa **"árbol de la piel"**.
+
+![](/images/2022-08-17-tepezcohuite-1024x1024.png)
+
+La efectividad del **tepezcohuite** radica en el poder cicatrizante de su corteza, la cual se muele y se transforma en un polvo con el que se tratan las heridas; estudios médicos realizados entre 1985 y 1987, demostraron que" la piel nueva no sufría ninguna degeneración, obteniendo las mismas células sin alteraciones patológicas"; en otras palabras, gracias a esta planta la gente con quemaduras no quedaba con cicatrices o éstas eran mucho menores.
