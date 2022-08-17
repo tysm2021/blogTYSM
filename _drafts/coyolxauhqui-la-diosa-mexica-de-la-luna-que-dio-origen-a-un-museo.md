@@ -23,3 +23,18 @@ show_author_profile: false
 comment: false
 
 ---
+Se trata de un enorme monolito de color blanco calizo, en el que está labrada una mujer desmembrada y con diversos adornos en todo el cuerpo. Se trata de la **diosa** **mexica** de la **Luna**, **Coyolxauhqui**, cuya escultura fue hallada en el Centro Histórico de la Ciudad de México en 1978, durante unos trabajos de excavación. ¿**Quién fue** esta **diosa**, **por qué** acabó así y cómo fue que su hallazgo dio origen al **Museo del Templo Mayor**?
+
+A continuación te contamos lo que la leyenda cuenta sobre **Coyolxauhqui**, la historia sobre su asombroso **hallazgo** y las consecuencias que este hecho histórico tuvo en la cultura de México y en el conocimiento acerca del pueblo **mexica**.
+
+TE RECOMENDAMOS:
+
+La leyenda dice que, estando en el mítico cerro de Coatepec, la diosa madre **Coatlicue** estaba barriendo su casa cuando encontró un plumón —una especie de diente de león—, el cual recogió y "lo guardó en su seno", como cuando las señoras se guardan el monedero entre los pechos. Acto seguido, quedó embarazada del dios **Huitzilopochtli**, deidad máxima de los mexicas y dios de la guerra. Sin embargo, su otra hija, la diosa lunar **Coyolxauhqui**, no estaba conforme con el embarazo de su madre y, argumentando una deshonra, azuzó a sus hermanos —los 400 surianos o las cuatrocientas estrellas del sur— para levantarse contra su madre y matarla.
+
+**Coatlicue** estaba aterrada. Pero, desde su vientre, la voz de **Huitzilopochtli** la tranquilizada, diciéndole que él la defendería de sus coléricos hermanos. Y así fue: cuando **Coyolxauhqui** y sus hermanos llegaron para asesinar a su madre, **Huitzilopochtli** ya había nacido y no con la forma de un indefenso bebé: en cambio, surgió con tamaño adulto y con todos las armas y los atavíos de guerra. Poderoso e implacable como era, mató a sus cuatrocientos hermanos y los mandó al Cielo, y a su hermana la despeñó desde la cima del cerro, por lo que al caer terminó despedazada y desmembrada.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mexico-3980_-_Coyolxauhqui_Stone_%282508259597%29.jpg/1075px-Mexico-3980_-_Coyolxauhqui_Stone_%282508259597%29.jpg)
+
+El monolito hallado —que, se presume, estaba colocado al pie de un templo para recordar su caída desde el cerro de Coatepec— representa justamente a la **diosa lunar Coyolxauhqui** desmembrada, luciendo sus adornos con forma de calavera, y es un mudo recordatorio del triunfo del Sol, en la forma de **Huitzilopochtli**, sobre la Luna y las estrellas, a las que somete cada noche para iluminar al mundo. Pero con la Conquista, este monolito u muchos otros vestigios quedaron sepultados bajo las construcciones españolas, esperando el momento para volver a surgir y ser vistos por los descendientes de los valerosos mexicas.
+
+Muchos siglos después, sucedió el milagro: la madrugada del 21 de febrero de 1985, trabajadores de Luz y Fuerza del Centro —hoy convertida en la Comisión Federal de Electricidad (CFE)— realizaban excavaciones en el Centro Histórico, cuando uno de los picos que usaban para cavar dio con un objeto duro y pétreo. Al darse cuenta de lo que habían hallado, reportaron el hallazgo ante el Instituto Nacional de Antropología e Historia (INAH), quienes confirmaron que, en efecto, se trataba de la diosa Coyolxauhqui, que casi cinco siglos después volvía a ver la luz.
