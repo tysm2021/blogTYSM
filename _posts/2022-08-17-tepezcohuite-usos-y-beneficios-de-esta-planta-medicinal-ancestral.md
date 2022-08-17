@@ -39,7 +39,7 @@ Pero, ¿qué es el **tepezcohuite**? Su nombre científico es _Mimosa tenuiflora
 
 Dentro de la medicina tradicional, se menciona en libros desde la década de 1970, diciendo que "su cáscara se hace polvo y cura heridas. En cuanto al **significado**, según el _Diccionario de Aztequismos_, **tepezcohuite** deriva del náhuatl _tépetl_, 'cerro' y _cuahuitl_, 'árbol', es decir "árbol del cerro", aunque por su uso se popularizó la versión de que su nombre significa **"árbol de la piel"**.
 
-![](/images/2022-08-17-tepezcohuite-1024x1024.png)
+![](/images/2022-08-17-tepezcohuite-1024x1024.jpg)
 
 La efectividad del **tepezcohuite** radica en el poder cicatrizante de su corteza, la cual se muele y se transforma en un polvo con el que se tratan las heridas; estudios médicos realizados entre 1985 y 1987, demostraron que" la piel nueva no sufría ninguna degeneración, obteniendo las mismas células sin alteraciones patológicas"; en otras palabras, gracias a esta planta la gente con quemaduras no quedaba con cicatrices o éstas eran mucho menores.
 
