@@ -23,3 +23,10 @@ show_author_profile: false
 comment: false
 
 ---
+Hace algunas décadas, una tragedia de grandes dimensiones trajo a la luz esta planta ancestral, que dentro de la herbolaria y la medicina tradicional durante siglos ha servido para tratar quemaduras y diversas enfermedades o afecciones de la piel. ¿Qué es el tepezcohuite, para qué sirve y cuáles son sus usos y beneficios? A continuación te lo contamos.
+
+Aunque actualmente es un remedio conocido que se puede encontrar en forma de pomada casi cualquier farmacia o en negocios de herbolaria y medicina alternativa, fue hasta hace relativamente poco que su uso se popularizó. Aquí te contamos la historia…
+
+TE RECOMENDAMOS:
+
+El 19 de noviembre de 1984, el norte de la Ciudad de México se despertó de súbito debido a varias explosiones que hicieron cimbrar las casas y rompieron o hicieron vibrar vidrios y ventanas. ¿La razón? Que en el pueblo de San Juan Ixhuatepec —mejor conocido como San Juanico—, un accidente hizo que explotaran varias de las gaseras que ahí se ubicaban, por lo que los quemados se contaban por decenas y una gran nube de humo daba fe de la tragedia que sucedía en esta colonia de la alcadía Gustavo A. Madero.
