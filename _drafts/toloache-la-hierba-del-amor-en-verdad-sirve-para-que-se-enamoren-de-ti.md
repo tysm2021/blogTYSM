@@ -32,3 +32,5 @@ TE RECOMENDAMOS:
 El nombre científico del **toloache** es _Datura ferox_, y los biólogos dicen que es una planta herbácea de la familia de las solanáceas. Sus hojas son semi ovaladas, con una punta o ápice bien definido y nervadura central, y da flores alargadas normalmente de color blanco; sus frutos son una especie de cápsulas espinosas del tamaño aproximado de una pelota de golf, las cuales contienen muchas semillas que germinan con las primeras lluvias del verano.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Datura_feroz_%288706452554%29.jpg)
+
+Para más allá de su morfología y lo que se dice en la botánica sobre esta planta, lo que nos interesa son los usos del **toloache** dentro de la **herbolaria**, la **magia** y la **medicina tradicional**, pues durante siglos ha tenido fama de poseer cualidades que la hacen adecuada para elaborar "**filtros de amor**" o "**pócimas de amo**r", las cuales al ser ingeridas provocan que la persona desarrolle una intensa emoción de **amor** y **pasión** por aquella que se la ofreció. ¿Qué tan **cierto** es esto?
