@@ -30,3 +30,5 @@ Por acá te contamos todo acerca de esta **planta**, en torno a la cual se cuent
 TE RECOMENDAMOS:
 
 El nombre científico del **toloache** es _Datura ferox_, y los biólogos dicen que es una planta herbácea de la familia de las solanáceas. Sus hojas son semi ovaladas, con una punta o ápice bien definido y nervadura central, y da flores alargadas normalmente de color blanco; sus frutos son una especie de cápsulas espinosas del tamaño aproximado de una pelota de golf, las cuales contienen muchas semillas que germinan con las primeras lluvias del verano.
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Datura_feroz_%288706452554%29.jpg)
