@@ -29,9 +29,15 @@ Empecemos diciendo que **Einstein** nació en Ulm, Alemania, el 14 de marzo de 1
 
 TE RECOMENDAMOS:
 
-No reprobó matemáticas de niño
+## No reprobó matemáticas de niño
 
-Renunció a la ciudadanía alemana
+Una leyenda popular, de esas que hasta los maestros de primaria nos cuentan con el fin de alentarnos, es que siendo pequeño **Albert Einstein** fue tomado por un niño un poco lento de aprendizaje e, incluso, por alguien sin talento para las **matemáticas**, al grado de que fue reprobado en esta materia con la que después desentrañaría la naturaleza del universo. Pero lo cierto es que el joven **Albert** era un alumno brillante en esta disciplina mientras estudió la educación básica en Múnich —aunque sí hay registros de que no le gustaba mucho la rigidez de la enseñanza—, y que si dejó sus estudios a los 15 años fue para salir de Alemania y evitar ser enrolado en el ejército. 
+
+## Renunció a la ciudadanía alemana
+
+Es un hecho que **Einstein** odiaba cualquier tipo de ideología nacionalista, incluyendo la que se gestaba en su propia nación, Alemania, por lo que a la edad de 16 años renunció a la ciudadanía **alemana** y fue un "ciudadano del mundo" hasta 1901, cuando adquirió la ciudadanía suiza. Años después, ante el auge del nazismo en Europa, emigró a los **Estados Unidos** en 1933 y finalmente adquirió la **ciudadanía estadounidense** en 1940.
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/b2/Albert_Einstein_c1890s.jpg)
 
 Se casó con la única mujer de su clase
 
