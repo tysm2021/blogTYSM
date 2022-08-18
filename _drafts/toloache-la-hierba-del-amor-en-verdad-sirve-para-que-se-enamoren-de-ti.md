@@ -37,4 +37,4 @@ Para más allá de su morfología y lo que se dice en la botánica sobre esta pl
 
 La razón por la que se cree que el **toloache** sirve para elaborar fórmulas para "sorberle el seso" a alguien y que quede perdidamente **enamorado** o enamorada de ti, provienen del hecho de que la _Datura ferox_ contiene una sustancia llamada **escopolamina**, la cual es un alcaloide que, en dosis bajas, tiene produce un efecto sedante: relaja y genera un estado similar al atolondramiento que tradicionalmente asociamos con quien está "locamente" enamorado. 
 
-Sin embargo, investigadores del Centro de Investigación y de Estudios Avanzados del IPN (Cinvestav) advierten que la **escopolamina** es potencialmente tóxica, y que en altas concentraciones 
+Sin embargo, investigadores del Centro de Investigación y de Estudios Avanzados del IPN (Cinvestav) advierten que la **escopolamina** es potencialmente **tóxica**, y que en altas concentraciones puede resultar **dañino** e incluso mortal, pues al preparar brebajes con sus hojas o semillas, "causa privación del juicio, visiones, delirios y, en determinados casos, la muerte".
