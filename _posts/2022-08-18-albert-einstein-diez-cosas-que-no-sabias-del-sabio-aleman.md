@@ -69,6 +69,10 @@ Como si fuera una película de espionaje, en la que el brillante científico se 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Albert_Einstein%2C_1947%2C_3b46036u.tif/lossy-page1-827px-Albert_Einstein%2C_1947%2C_3b46036u.tif.jpg)
 
-Se le ofreció al presidencia de Israel
+## Se le ofreció al presidencia de Israel
 
-Tras su muerte, su cerebro fue robado
+Aunque no era un practicante ortodoxo del judaísmo, **Einstein** sí se identificaba profundamente con su herencia judía y era una voz pública en contra del antisemitismo que imperaba en Europa. Quizá por eso fue que, en 1952, cuando falleció el jefe de estado israelí Chaim Weizmann, se le ofreció ser el presidente sucesor. Einstein se sintió halagado, pero con humildad rechazó el ofrecimiento, argumentando que toda su vida había estado acostumbrado a lidiar con situaciones concretas y que carecías de las habilidades políticas que se requerían para el puesto.
+
+## Tras su muerte, su cerebro fue robado
+
+Si eres considerado como una de las personas más inteligentes que han existido en la historia de la humanidad, no es de extrañar que alguien quiera poseer tu **cerebro**, ya se para estudiarlo o como una especie de fetiche o de amuleto, para "que contagie la inteligencia". Y eso fue justamente lo que pasó con **Albert Einstein**, pues cuando murió en 1955, a pesar de que él expresamente había solicitado que se le cremara, el patólogo a cargo de su autopsia le extrajo el **cerebro** con la esperanza de estudiarlo y así desentrañar el misterio de su inteligencia deslumbrante. Autorizados por su hijo, diversos estudios de han realizado con los fragmentos que se obtuvieron del órgano vital del alemán, uno de los cuales asevera que la materia gris del genio contaba con más pliegues de los normales en el lóbulo parietal, normalmente asociado con las habilidades espacio-matemáticas. ¿Qué tal?…
