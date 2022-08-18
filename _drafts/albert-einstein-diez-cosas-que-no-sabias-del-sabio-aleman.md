@@ -43,7 +43,7 @@ Es un hecho que **Einstein** odiaba cualquier tipo de ideología nacionalista, i
 
 Hasta el día de hoy, es un hecho triste que a menudo en las clases de física, matemáticas y en las ingenierías no hay muchas mujeres estudiantes. Será por esa razón que Albert terminó casándose con la única mujer estudiante en su clase de física en el Politécnico de Zúrich, una joven serbia que se llamaba **Mileva Maric**, con quien estuvo casado de 1903 a 1919, y procreó tres hijos: una niña, **Lieserl**, que desaparece de la historia en algún momento, y dos niños, **Hans Albert** y **Eduard**.
 
-![](https://upload.wikimedia.org/wikipedia/commons/4/4c/Mileva_Maric.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Albert_Einstein_and_his_wife_Mileva_Maric.jpg/1024px-Albert_Einstein_and_his_wife_Mileva_Maric.jpg)
 
 ## Tuvo una hija ilegítima y nadie sabe que fue de ella
 
