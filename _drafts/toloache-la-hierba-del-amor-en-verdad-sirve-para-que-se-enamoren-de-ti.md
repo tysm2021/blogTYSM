@@ -29,8 +29,12 @@ Por acá te contamos todo acerca de esta **planta**, en torno a la cual se cuent
 
 TE RECOMENDAMOS:
 
-El nombre científico del **toloache** es _Datura ferox_, y los biólogos dicen que es una planta herbácea de la familia de las solanáceas. Sus hojas son semi ovaladas, con una punta o ápice bien definido y nervadura central, y da flores alargadas normalmente de color blanco; sus frutos son una especie de cápsulas espinosas del tamaño aproximado de una pelota de golf, las cuales contienen muchas semillas que germinan con las primeras lluvias del verano.
+El nombre científico del **toloache** es _Datura ferox_, y los biólogos dicen que es una planta herbácea de la familia de las solanáceas. Sus hojas son semi ovaladas, con una punta o ápice bien definido y nervadura central, y da flores alargadas normalmente de color blanco; sus frutos son una especie de cápsulas espinosas del tamaño aproximado de una pelota de golf, las cuales contienen muchas semillas que germinan con las primeras lluvias del verano. Se dice que entre sus usos está que tiene la capacidad de reducir el mareo…
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Datura_feroz_%288706452554%29.jpg)
 
 Para más allá de su morfología y lo que se dice en la botánica sobre esta planta, lo que nos interesa son los usos del **toloache** dentro de la **herbolaria**, la **magia** y la **medicina tradicional**, pues durante siglos ha tenido fama de poseer cualidades que la hacen adecuada para elaborar "**filtros de amor**" o "**pócimas de amo**r", las cuales al ser ingeridas provocan que la persona desarrolle una intensa emoción de **amor** y **pasión** por aquella que se la ofreció. ¿Qué tan **cierto** es esto?
+
+La razón por la que se cree que el **toloache** sirve para elaborar fórmulas para "sorberle el seso" a alguien y que quede perdidamente **enamorado** o enamorada de ti, provienen del hecho de que la _Datura ferox_ contiene una sustancia llamada **escopolamina**, la cual es un alcaloide que, en dosis bajas, tiene produce un efecto sedante: relaja y genera un estado similar al atolondramiento que tradicionalmente asociamos con quien está "locamente" enamorado. 
+
+Sin embargo, investigadores del Centro de Investigación y de Estudios Avanzados del IPN (Cinvestav) advierten que la **escopolamina** es potencialmente tóxica, y que en altas concentraciones 
