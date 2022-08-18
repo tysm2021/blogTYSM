@@ -55,11 +55,19 @@ Considerando su país de origen, una **Alemania** donde el nazismo alzaba el vue
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/780px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg)
 
-Ofreció su Premio Nobel para divorciarse
+## Ofreció su Premio Nobel para divorciarse
 
-Tuvo un romance con una espía rusa
+Cuando quiso divorciarse de **Mileva** para casarse con su propia prima, Elsa, **Einstein** ofreció a la serbia el monto que él suponía que ganaría con su **Premio Nobel**, que era de unos 32 mil dólares, los cuales hoy en día equivaldrían aproximadamente a  un millón de dólares. Maric aceptó, confiando en que su ex pareja, en efecto, se llevaría el galardón que otorga la Academia Sueca, lo cual finalmente sucedió en 1922, año en que la primera esposa de **Einstein** recibió su pequeña fortuna.
 
-Nunca dijo muchas de sus frases célebres
+## Tuvo un romance con una espía rusa
+
+Como si fuera una película de espionaje, en la que el brillante científico se involucra con una _femme fatale_ al servicio del enemigo, se cuenta que Albert Einstein sostuvo un romance con una mujer rusa que le presentó su hija adoptiva, la cual se llamaba **Margartia Kokenkov**a. Aunque oficialmente nunca se reconoció, biógrafos posteriores afirman que **Kokenkova** era una **espía** encubierta al servicio del Kremlin.
+
+## Nunca dijo muchas de sus frases célebres
+
+"Locura es hacer lo mismo una y otra vez, y esperar resultados distintos", "Todo es relativo", "Sólo hay dos cosas infinitas: el Universo y la estupidez humana, aunque no estoy completamente convencido de la primera" y "Me niego a creer que Dios juega a los dados con el universo", son algunas de las muchas **frases célebres** y **máximas** **atribuidas** erróneamente a **Albert Einstein**, pero que **nunca dijo**. De hecho, hay páginas de internet y libros dedicados enteramente a analizar las **frases** atribuidas al genio alemán y las evidencias que existen acerca de la supuesta autoría, y lo cierto es que la gran mayoría provienen de otras fuentes o fueron inventadas por un autor anónimo y achacadas al físico para dotarlas de credibilidad.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Albert_Einstein%2C_1947%2C_3b46036u.tif/lossy-page1-827px-Albert_Einstein%2C_1947%2C_3b46036u.tif.jpg)
 
 Se le ofreció al presidencia de Israel
 
