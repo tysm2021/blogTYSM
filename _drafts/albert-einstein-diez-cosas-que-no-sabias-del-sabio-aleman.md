@@ -43,11 +43,15 @@ Es un hecho que **Einstein** odiaba cualquier tipo de ideología nacionalista, i
 
 Hasta el día de hoy, es un hecho triste que a menudo en las clases de física, matemáticas y en las ingenierías no hay muchas mujeres estudiantes. Será por esa razón que Albert terminó casándose con la única mujer estudiante en su clase de física en el Politécnico de Zúrich, una joven serbia que se llamaba **Mileva Maric**, con quien estuvo casado de 1903 a 1919, y procreó tres hijos: una niña, **Lieserl**, que desaparece de la historia en algún momento, y dos niños, **Hans Albert** y **Eduard**.
 
-Tuvo una hija ilegítima y nadie sabe que fue de ella
+![](https://upload.wikimedia.org/wikipedia/commons/4/4c/Mileva_Maric.jpg)
 
-La historia de Lieserl, la primera hija de Einstein y de Mileva, es un poco más complicada de lo que parece. Todo parece indicar que los jóvenes científicos "metieron la pata", quedando ella embarazada antes de que ellos contrajeran matrimonio, por lo que el destino de la niña es incierto —de hecho, Albert nunca le habló de ella, y los biógrafos supieron de su existencia hasta la década de 1980, cuando otra hija de Einstein, Evelyn, encontró un paquete de cartas entre su padre y Mileva—. Algunos suponen que la pequeña murió de escarlatina, o bien, que fue dada en adopción. Se han escrito libros al respecto de este misterio…
+## Tuvo una hija ilegítima y nadie sabe que fue de ella
 
-Fue espiado por el FBI durante años
+La historia de Lieserl, la primera hija de **Einstein** y de Mileva, es un poco más complicada de lo que parece. Todo parece indicar que los jóvenes científicos "metieron la pata", quedando ella embarazada antes de que ellos contrajeran matrimonio, por lo que el destino de la niña es incierto —de hecho, **Albert** nunca le habló de ella, y los biógrafos supieron de su existencia hasta la década de 1980, cuando otra hija de **Einstein**, Evelyn, encontró un paquete de cartas entre su padre y Mileva—. Algunos suponen que la pequeña murió de escarlatina, o bien, que fue dada en adopción. Se han escrito libros al respecto de este misterio…
+
+## Fue espiado por el FBI durante años
+
+Considerando su país de origen, una **Alemania** donde el nazismo alzaba el vuelo y ensombrecía el panorama mundial, y las filiaciones políticas de **Einstein**, que apoyaba el pacifismo, los derechos humanos, las causas sociales y otras ideologías consideradas "de izquierda", no es de extrañar que el FBI de los Estados Unidos no confiara plenamente en **Albert** y lo mantuviera espiado durante más de dos décadas. Según datos oficiales, la vigilancia sobre **Einstein** empezó en 1933, cuando llegó a establecerse a los Estados Unidos, y se prolongó durante 22 años, conformando un expediente de unas 1200 páginas.
 
 Ofreció su Premio Nobel para divorciarse
 
