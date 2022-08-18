@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Según la sabiduría popular del pueblo mexicano, cuando un hombre —aunque no se descarta que le suceda a las mujeres también— se enamora profundamente y de golpe, no duerme bien ni puede dejar de pensar en la mujer amada, se dice que puede que le "hayan dado toloache" o que está "entoloachado", haciendo referencia a una planta que, según se dice, tiene propiedades herbolarias capaces de hacer que una persona se enamore de otra. Pero, ¿qué tan cierto que con toloache puede elaborarse una 'pócima de amor'? Y, sobre todo, ¿hay riesgos o peligros al beberla?
+
+Por acá te contamos todo acerca de esta planta, en torno a la cual se cuentan muchas leyendas y que en otros países se conoce como "trompeta de ángel", "cardo cuco" o "chamico".
+
+TE RECOMENDAMOS:
