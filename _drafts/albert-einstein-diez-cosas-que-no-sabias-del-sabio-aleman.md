@@ -53,6 +53,8 @@ La historia de Lieserl, la primera hija de **Einstein** y de Mileva, es un poco 
 
 Considerando su país de origen, una **Alemania** donde el nazismo alzaba el vuelo y ensombrecía el panorama mundial, y las filiaciones políticas de **Einstein**, que apoyaba el pacifismo, los derechos humanos, las causas sociales y otras ideologías consideradas "de izquierda", no es de extrañar que el FBI de los Estados Unidos no confiara plenamente en **Albert** y lo mantuviera espiado durante más de dos décadas. Según datos oficiales, la vigilancia sobre **Einstein** empezó en 1933, cuando llegó a establecerse a los Estados Unidos, y se prolongó durante 22 años, conformando un expediente de unas 1200 páginas.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/780px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg)
+
 Ofreció su Premio Nobel para divorciarse
 
 Tuvo un romance con una espía rusa
