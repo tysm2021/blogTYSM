@@ -34,3 +34,5 @@ TE RECOMENDAMOS:
 Un rasgo característico del **olinalá** es el **aroma** agradable que despide la madera del árbol conocido como **lináloe** —cuyo nombre científico es _Bursera linanoe_—, el cual de hecho dio nombre a la entidad. La fragancia intensa y cítrica que despide esta materia prima es muy apreciada entre los coleccionistas y compradores de **artesanías**, que mucho se complacen cuando abren una de estas cajas y perciben el tenue perfume de la pieza.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Olinala204.jpg/1024px-Olinala204.jpg)
+
+Esta técnica y la materia prima que se usa son tan particulares que la **madera de Olinalá** tiene una de las 16 **denominaciones de origen** que han sido otorgadas a México; esto quiere decir que sólo puede producirse en este lugar, donde tuvo origen, y siguiendo los pasos y procedimientos tradicionales con los que durante siglos los artesanos han producido las piezas que le han dado fama mundial al **olinalá**.
