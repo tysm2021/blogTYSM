@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-08-19-1280px-baul_de_madera_con_base_de_olinala-_guerrero-_mexico.jpeg"
 sharing: true
-title: 'Madera de Olinalá: la fragante y colorida artesanía del estado de Guerrero'
+title: 'Madera de Olinalá: fragante y colorida artesanía del estado de Guerrero'
 summary: 'Se distingue por sus colores y por el peculiar aroma que despide: conoce
   la madera de Olinalá y las hermosas artesanías que se hacen con ella'
 cover: "/images/2022-08-19-1280px-baul_de_madera_con_base_de_olinala-_guerrero-_mexico.jpeg"
