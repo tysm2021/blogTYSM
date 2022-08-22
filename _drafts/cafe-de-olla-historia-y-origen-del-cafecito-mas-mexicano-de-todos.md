@@ -23,10 +23,14 @@ show_author_profile: false
 comment: false
 
 ---
-Para muchos, una buena taza de café por la mañana es el impulso que se necesita para terminar de despertar y cobrar las energías necesarias para enfrentar un nuevo día. Y de entre la infinita variedad de maneras en que se puede preparar un café, a los mexicanos nos encanta el "café de olla", en especial si se sirve en un jarrito de barro y se acompaña con un pancito dulce para romper el ayuno. ¿Cuál es el origen de esta bebida y cómo se prepara?
+Para muchos, una buena taza de **café** por la mañana es el impulso que se necesita para terminar de despertar y cobrar las energías necesarias para enfrentar un nuevo día. Y de entre la infinita variedad de maneras en que se puede preparar un **café**, a los **mexicanos** nos encanta el "**café de oll**a", en especial si se sirve en un jarrito de barro y se acompaña con un pancito dulce o con pan de pueblo para romper el ayuno. ¿Cuál es el **origen** de esta **bebida** y **cómo se prepara**?
 
-A continuación, un pequeño repaso de la historia de esta bebida calientita, energética y deliciosa, así como unos consejos para prepararla según una añeja tradición que data de principios del siglo XX…
+A continuación, un pequeño repaso de la **historia** de esta bebida calientita, energética y deliciosa, así como unos consejos para prepararla según una añeja tradición que data de principios del siglo XX…
 
 TE RECOMENDAMOS:
 
-Cuando uno ama el café, es muy común que prefiera beberlo solo y sin azúcar, quizá en el tamaño exprés o espresso —que es pequeño y muy concentrado—, o en la muy popular modalidad de café americano, que es más ligero y al que normalmente se le añade un poco de azúcar y de leche o de crema. Los más sofisticados elegirán, quizás, un capuchino con su leche espumada, o un moka con su pizca de chocolate. Pero si uno viaja a la provincia o a un Pueblo Mágico, por ejemplo, nada es más adecuado que un café de olla, en especial servido en su coqueto jarrito de barro.
+Cuando uno ama el **café**, es muy común que prefiera beberlo solo y sin azúcar, quizá en el tamaño exprés o espresso —que es pequeño y muy concentrado—, o en la muy popular modalidad de **café** americano, que es más ligero y al que normalmente se le añade un poco de azúcar y de leche o de crema. Los más sofisticados elegirán, quizás, un capuchino con su leche espumada, o un moka con su pizca de chocolate. Pero si uno viaja a la provincia o a un Pueblo Mágico, por ejemplo, nada es más adecuado que un **café de olla**, en especial servido en su coqueto jarrito de barro.
+
+El **café de olla** es una bebida caliente que se elabora, justamente, en una **olla** de barro y de preferencia al calor del anafre; entre sus ingredientes, además del **café**, están el piloncillo —que son pilones de azúcar de caña sin refinar, que son duros, de color café y con forma cónica— y la canela, los cuales le dan su característico aroma y su sabor dulce que a todos nos encanta, y que es ideal para acompañar un pan dulce típico o un pan de pueblo, de esos que se venden durante las fiestas patronales o las ferias locales o estatales.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Caf%C3%A9_de_Olla_y_pan_de_pueblo.jpg/1024px-Caf%C3%A9_de_Olla_y_pan_de_pueblo.jpg)
