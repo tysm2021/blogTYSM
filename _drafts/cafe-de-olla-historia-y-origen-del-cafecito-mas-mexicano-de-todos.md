@@ -28,3 +28,5 @@ Para muchos, una buena taza de café por la mañana es el impulso que se necesit
 A continuación, un pequeño repaso de la historia de esta bebida calientita, energética y deliciosa, así como unos consejos para prepararla según una añeja tradición que data de principios del siglo XX…
 
 TE RECOMENDAMOS:
+
+Cuando uno ama el café, es muy común que prefiera beberlo solo y sin azúcar, quizá en el tamaño exprés o espresso —que es pequeño y muy concentrado—, o en la muy popular modalidad de café americano, que es más ligero y al que normalmente se le añade un poco de azúcar y de leche o de crema. Los más sofisticados elegirán, quizás, un capuchino con su leche espumada, o un moka con su pizca de chocolate. Pero si uno viaja a la provincia o a un Pueblo Mágico, por ejemplo, nada es más adecuado que un café de olla, en especial servido en su coqueto jarrito de barro.
