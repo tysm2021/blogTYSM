@@ -41,6 +41,6 @@ Existe un caso en particular en el que **San Antonio**, de forma generosa y casi
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9e/San_Antonio_de_Padua_%28Torreblanca%29.JPG)
 
-De hecho, la tradición completa dice que para que el ritual surta efecto la joven soltera —porque normalmente son mujeres quienes recurren a él, pero no se descarta a los solteros— debe reunir trece monedas, que deben ser regaladas por trece personas diferentes, las cuales serán ofrecidas a **San Antonio** para que que socorra e interceda en tal petición. A pesar de lo famosa que es esta práctica, desde hace décadas la Iglesia Católica la ha condenado, diciendo que no es la forma correcta de conseguir marido.
+De hecho, la tradición completa dice que para que el ritual surta efecto la joven soltera —porque normalmente son mujeres quienes recurren a él, pero no se descarta a los solteros— debe reunir trece monedas, que deben ser regaladas por trece personas diferentes, las cuales serán ofrecidas a **San Antonio** para que que socorra e interceda en tal petición. A pesar de lo famosa que es esta práctica, desde hace décadas la Iglesia Católica la ha condenado, argumentando que no es la forma correcta de conseguir marido.
 
 ¿Y tú qué piensas? ¿Has puesto alguna vez **de cabeza** a **San Antonio**, para conseguir novio, novia o marido?
