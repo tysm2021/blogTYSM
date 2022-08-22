@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Para muchos, una buena taza de café por la mañana es el impulso que se necesita para terminar de despertar y cobrar las energías necesarias para enfrentar un nuevo día. Y de entre la infinita variedad de maneras en que se puede preparar un café, a los mexicanos nos encanta el "café de olla", en especial si se sirve en un jarrito de barro y se acompaña con un pancito dulce para romper el ayuno. ¿Cuál es el origen de esta bebida y cómo se prepara?
+
+A continuación, un pequeño repaso de la historia de esta bebida calientita, energética y deliciosa, así como unos consejos para prepararla según una añeja tradición que data de principios del siglo XX…
+
+TE RECOMENDAMOS:
