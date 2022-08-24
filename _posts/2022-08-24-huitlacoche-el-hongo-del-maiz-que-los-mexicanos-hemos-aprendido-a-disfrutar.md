@@ -29,7 +29,7 @@ En temporada de lluvias y debido a la humedad, algunas mazorcas del **maíz** ll
 
 TE RECOMENDAMOS:
 
-El **huitlacoche** o **cuitlacoche**, cuyo nombre científico es _Ustilado maydis_, es un **hongo** que crece entre las mazorcas del **maíz** y que tiene una larga historia en el cultivo y el aprovechamiento de este grano dentro de la **gastronomía** mexicana, al grado de convertirse en uno de los alimentos tradicionales de nuestra cocina.
+El **huitlacoche** o **cuitlacoche**, cuyo nombre científico es _Ustilado maydis_, es un **hongo** que crece entre las mazorcas del **maíz** y que tiene una larga historia en el cultivo y el aprovechamiento de este grano dentro de la **gastronomía** mexicana, al grado de convertirse en uno de los **alimentos** tradicionales de nuestra cocina.
 
 Acerca del origen de su nombre, hay varias versiones. Una de ellas dice que el nombre más correcto es **cuitlacoche**, palabra que deriva del náhuatl _cuítlatl_, 'excremento', y _cochi_, 'dormir'; de hecho, se piensa que el término original hacía referencia a un ave que se alimentaba justamente de este **hongo del maíz** y tenía por costumbre dormir sobre los antiguos estercoleros. Otra versión, sin embargo, señala que _cuítlatl_ ha sido mal traducido y que en realidad significa 'excrecencia', y como el crecimiento de ésta impide que la mazorca crezca, los antiguos pensaron que era como si estuvieran "dormidas".
 
