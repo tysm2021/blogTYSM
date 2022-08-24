@@ -46,3 +46,9 @@ Las recetas originales del _kebab_, el _gyro_ y la _shawarma_ de ningún modo in
 ## Son un alimento balanceado
 
 Aunque no lo aparente, un taco al pastor contiene todos los grupos nutricionales necesarios para una correcta alimentación: lleva proteína de la carne, carbohidratos en la tortilla, vitaminas de la piña y el limón y, por supuesto, los minerales del perejil, la cebolla y la salsa. Desde luego, hay que evitar comer demasiados y procurar que en su preparación no queden demasiado grasosos, pues eso además de dificultar la digestión hace que poco a poco los molestos kilos de más vayan acumulándose en la cintura.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Orden_de_tacos_al_pastor_en_Tlaxcala_02.jpg/1024px-Orden_de_tacos_al_pastor_en_Tlaxcala_02.jpg)
+
+## Fueron considerados el mejor platillo del mundo
+
+En 2019, la afamada guía gastronómica mundial TasteAtlas nombró a los **tacos al pastor** como el mejor platillo del mundo. El método de selección no pudo ser más fiable y democrático, pues cada año decenas de miles de comensales y entusiastas culinarios de todo el mundo acuden a ese sitio a depositar su voto electrónico; de este modo fue que nuestros queridos tacos obtuvieron una calificación global de 4.4 (el máximo es 5.0), lo que los colocó a la cabeza de la lista. Por eso, como dice el refrán: "A falta de amor… ¡unos **tacos al pastor**!"
