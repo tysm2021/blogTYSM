@@ -49,6 +49,6 @@ Aunque no lo aparente, un taco al pastor contiene todos los grupos nutricionales
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Orden_de_tacos_al_pastor_en_Tlaxcala_02.jpg/1024px-Orden_de_tacos_al_pastor_en_Tlaxcala_02.jpg)
 
-## Fueron considerados el mejor platillo del mundo
+## Fueron nombrados el mejor platillo del mundo
 
 En 2019, la afamada guía gastronómica mundial TasteAtlas nombró a los **tacos al pastor** como el mejor platillo del mundo. El método de selección no pudo ser más fiable y democrático, pues cada año decenas de miles de comensales y entusiastas culinarios de todo el mundo acuden a ese sitio a depositar su voto electrónico; de este modo fue que nuestros queridos tacos obtuvieron una calificación global de 4.4 (el máximo es 5.0), lo que los colocó a la cabeza de la lista. Por eso, como dice el refrán: "A falta de amor… ¡unos **tacos al pastor**!"
