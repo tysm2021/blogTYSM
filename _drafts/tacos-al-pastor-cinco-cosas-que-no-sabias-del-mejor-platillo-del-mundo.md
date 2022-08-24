@@ -42,3 +42,7 @@ Aunque en otros lados se les conoce con otros nombres —en algunas ciudades del
 ## Ponerle piña es un invento mexicano
 
 Las recetas originales del _kebab_, el _gyro_ y la _shawarma_ de ningún modo incluye una rebanada de **piña**, por lo que se ha concluido que se trata de una adición que se hizo en tierras mexicanas, pues la **piña** es un fruto propio de países tropicales como México, y no está presente en las cocinas griega o libanesa. Una teoría señala que estos frutos, por su abundancia en azúcar y en una sustancia llamada bromelina, ayuda a digerir la grasa y la condimentada proteína animal de la carne **al pastor**.
+
+## Son un alimento balanceado
+
+Aunque no lo aparente, un taco al pastor contiene todos los grupos nutricionales necesarios para una correcta alimentación: lleva proteína de la carne, carbohidratos en la tortilla, vitaminas de la piña y el limón y, por supuesto, los minerales del perejil, la cebolla y la salsa. Desde luego, hay que evitar comer demasiados y procurar que en su preparación no queden demasiado grasosos, pues eso además de dificultar la digestión hace que poco a poco los molestos kilos de más vayan acumulándose en la cintura.
