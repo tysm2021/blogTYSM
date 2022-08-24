@@ -23,8 +23,10 @@ show_author_profile: false
 comment: false
 
 ---
-En temporada de lluvias y debido a la humedad, algunas mazorcas del maíz llegan a cubrirse con un hongo que los mexicanos llamamos huitlacoche o cuitlacoche, el cual supuestamente tiene una tradición gastronómica que puede trazarse hasta tiempos prehispánicos, y que hoy en día se considera un manjar y hasta "alimento de los dioses".
+En temporada de lluvias y debido a la humedad, algunas mazorcas del **maíz** llegan a cubrirse con un **hongo** que los mexicanos llamamos **huitlacoche** o **cuitlacoche**, el cual supuestamente tiene una tradición **gastronómica** que puede trazarse hasta tiempos prehispánicos, y que hoy en día se considera un manjar y hasta "alimento de los dioses".
 
-¿Cuál es el origen de este hongo y cómo fue que se convirtió en uno de los alimentos más ricos, exóticos y codiciados de nuestra gastronomía, sobre todo en el centro de México? Sigue leyendo para enterarte de los detalles…
+¿Cuál es el origen de este **hongo** y cómo fue que se convirtió en uno de los alimentos más ricos, exóticos y codiciados de nuestra gastronomía, sobre todo en el centro de **México**? Sigue leyendo para enterarte de los detalles…
 
 TE RECOMENDAMOS:
+
+El **huitlacoche** o **cuitlacoche**, cuyo nombre científico es _Ustilado maydis_, 
