@@ -32,3 +32,13 @@ TE RECOMENDAMOS:
 El **Museo del Louvre** se encuentra en la orilla derecha del río Sena, en **París**, la capital de Francia, en un edificio que originalmente era conocido como el Palacio Real (Palais Royal) o **Palacio del Louvre**. Se le considera el **museo** nacional de Francia, y está consagrado al arte universal, con piezas de todas las bellas artes así como de la arqueología y de las artes decorativas. Según estadísticas de los últimos años, ha sido y sigue siendo el museo más visitado del todo el mundo.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Louvre_at_night_centered.jpg/1024px-Louvre_at_night_centered.jpg)
+
+Originalmente, el edificio que hoy alberga al **Museo del Louvre** fue un palacio real cuya construcción empezó en el siglo XII. Ya para mediados del siglo XIV, el rey francés Carlos V —no confundirlo con el emperador de España y Alemania, que se hizo famoso por aparecer en una marca de chocolates— empezó a acumular ahí sus tesoros artísticos, costumbre que fue seguida por los monarcas subsecuentes. En el siglo XVII, con la construcción del Palacio de Versalles por parte de Luis XIV, la familia real abandonó el **Palacio del Louvre** y ahí se instaló la Academia Francesa.
+
+Tras la Revolución Francesa que empezó en 1789, la cual logró abolir la monarquía, el **Palacio** fue destinado a funciones artísticas y científicas. Fue en julio de 1793 que en el lugar se crea el Muséum Central des Arts, y en agosto del mismo año se inauguró, simbólicamente, la Gran Galería del **Louvre**, antecedente del museo actual.
+
+### Las colecciones
+
+El **Museo del Louvre** tiene una superficie de exhibición de poco más de 60,000 m2, los cuales se dividen en cinco plantas y tres alas arquitectónicas que se comunican entre sí. Los expertos dividen las colecciones en: Antigüedades egipcias; Antigüedades del Cercano Oriente; Arte griego, etrusco y romano; Arte del Islam; Escultura; Artes decorativas; Impresiones y dibujos, y desde luego, la afamada sección de Pintura, que alberga algunas de las obras maestras más representativas del arte universal.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Venus_de_Milo.003_-_Louvre_%28Paris%29.jpg/768px-Venus_de_Milo.003_-_Louvre_%28Paris%29.jpg)
