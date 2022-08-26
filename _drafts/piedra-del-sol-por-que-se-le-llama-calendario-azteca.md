@@ -23,5 +23,10 @@ show_author_profile: false
 comment: false
 
 ---
+Se trata, sin duda, de la pieza **arqueológica** más famosa del mundo prehispánico: es la **Piedra del Sol**, perteneciente a la cultura **mexica**, aunque casi todos los mexicanos y extranjeros la conocen con el nombre de **Calendario Azteca**. Y uno se pregunta: ¿**por qué** le llamamos así y cuál era su función? ¿Era un **calendario** o tenía otro uso? ¿Qué significan los múltiples símbolos que luce?
+
+A continuación, una breve historia de la **Piedra del Sol**, que actualmente se exhibe en la **Sala Mexica** del Museo Nacional de Antropología, y también una pequeña historia de su descubrimiento y de sus posibles interpretaciones.
+
+TE RECOMENDAMOS:
 
 Se ha sugerido que fue un _temalácatl_, la piedra sobre la que se realizaba el sacrificio gladiatorio, o un gran _cuauhxicalli_, el recipiente en el que se colocaban los corazones de los sacrificados. En su conjunto los relieves de esta extraordinaria escultura, dispuestos en círculos concéntricos, se refieren al ciclo solar, las eras por las que ha pasado el mundo y el calendario
