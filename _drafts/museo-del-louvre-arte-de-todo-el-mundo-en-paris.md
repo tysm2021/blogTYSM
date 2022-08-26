@@ -23,3 +23,10 @@ show_author_profile: false
 comment: false
 
 ---
+Ubicado en la ciudad de París, Francia el Museo del Louvre —Musée du Louvre, en su idioma original— es una de las instituciones culturales y artísticas europeas más visitadas del mundo, y hogar de la famosa 'Mona Lisa' de Leonardo da Vinci. Conozcamos un poco más a fondo este histórico edificio, que resguarda y expone algunas de las obras maestras más relevantes de arte universal.
+
+Quienes lo conocen, dicen que su colección es tan vasta y su edificio tan grandioso, que un día no basta para conocerlo completo; esa es la razón por la que el ticket de entrada es útil para varios días.
+
+TE RECOMENDAMOS: 
+
+El Museo del Louvre se encuentra en la orilla derecha del río Sena, en París, la capital de Francia, en un edificio que originalmente era conocido como el Palacio Real (Palais Royal) o Palacio del Louvre. Se le considera el museo nacional de Francia, y está consagrado al arte universal, con piezas de todas las bellas artes así como de la arqueología y de las artes decorativas. Según estadísticas de los últimos años, ha sido y sigue siendo el museo más visitado del todo el mundo.
