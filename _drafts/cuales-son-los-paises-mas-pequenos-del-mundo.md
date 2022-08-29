@@ -51,6 +51,6 @@ Oficialmente llamado República de **San Marino**, este país está enclavado en
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Menen_Hotel_%2815219270317%29.jpg/1024px-Menen_Hotel_%2815219270317%29.jpg)
 
-Otro pequeño país insular que se halla en el centro del Océano Pacífico, y consta de una sola isla situada justo sobre la línea del Ecuador. La capital de la República de **Nauru** se llama Yaren, y la población total del país es de unos 11 mil 500 habitantes. 
+Otro pequeño país insular que se halla en el centro del Océano Pacífico, en la región conocida como la Micronesia, y consta de una sola isla situada justo sobre la línea del Ecuador. La capital de la República de **Nauru** se llama Yaren, y la población total del país es de unos 11 mil 500 habitantes, que ocupan los 23.1 kilómetros cuadrados de superficie que tiene su isla. 
 
 Ciudad del Vaticano
