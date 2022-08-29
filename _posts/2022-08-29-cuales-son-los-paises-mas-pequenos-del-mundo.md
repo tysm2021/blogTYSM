@@ -12,7 +12,7 @@ article_header:
   background_color: "#203028"
   background_image:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
-    src: "/images/2022-08-29-globe-3383088_1280.jpeg"
+    src: "/images/2022-08-29-globe-3383088_1280-1.jpeg"
 sharing: true
 title: "¿Cuáles son los países más pequeños del mundo?"
 summary: Bien sabemos que países como Rusia, China o la India son gigantescos; pero,
