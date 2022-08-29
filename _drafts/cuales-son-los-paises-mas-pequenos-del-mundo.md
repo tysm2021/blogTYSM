@@ -25,7 +25,7 @@ comment: false
 ---
 En el mundo actual, dividido entre países y sus fronteras, al mirar un mapa nos damos cuenta de que hay Estados enormes como Rusia, Canadá, los Estados Unidos de América, Brasil, China o la India. Pero, en contraste, hay otros que miden apenas unos kilómetros cuadrados pero son estados libres; entonces, ¿cuáles son los países más pequeños del mundo?
 
-A continuación, te decimos cómo se llaman y cuánto miden estos "micro países" que cuentan con su propia bandera, su moneda y todas las instituciones que los hacen un estado libre, además del reconocimiento del resto de los países del mundo —descartamos de esta lista a los territorios o dependencias de otros países.
+A continuación, te decimos cómo se llaman y cuánto miden estos "micro países" que cuentan con su propia bandera, su moneda y todas las instituciones que los hacen un estado libre, además del reconocimiento del resto de los países del mundo —descartamos de esta lista a los territorios, regiones o dependencias de otros países.
 
 TE RECOMENDAMOS:
 
