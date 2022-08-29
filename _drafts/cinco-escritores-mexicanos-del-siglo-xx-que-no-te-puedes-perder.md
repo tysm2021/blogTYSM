@@ -57,6 +57,8 @@ Algunas de las **obras** más recomendables de **Elena Garro** son sus tres prim
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/21/Juan_Jos%C3%A9_Arreola.jpg)
 
-**Juan José Arreola Zúñiga** nació en Zapotlán el Grande —Hoy Ciudad Guzmán—, Jalisco, el 21 de septiembre de 1918, y murió en Guadalajara el 3 de diciembre de 2001. 
+**Juan José Arreola Zúñiga** nació en Zapotlán el Grande —Hoy Ciudad Guzmán—, Jalisco, el 21 de septiembre de 1918, y murió en Guadalajara el 3 de diciembre de 2001. Además de escritor, Arreola fue editor y académico. Desde muy joven trabajó dentro de la industria editorial, de la impresión y el encuadernado; inició su carrera literaria dentro del teatro, y en la década de 1940 empezó a publicar sus primeros cuentos. En 1946 empezó a trabajar como traductor y corrector en el Fondo de Cultura Económica. Fue un personaje polémico, histriónico, que gustaba de las cámaras y de estar bajo el ojo del público.
+
+Sus obras más recomendables para iniciarse en la lectura son: _La Feria_ (1963), la única novela que escribió y está compuesta por casi 300 fragmentos que pueden leerse de forma independiente; _Bestiario_ (1959), donde con su prosa hermosa y brillante describe a una serie de animales reales y fantásticos, y Confabulario (1952), una colección de cuentos breves que, a decir de algunos, resumen en pocas páginas todo el estilo y el universo que creó Arreola con su pluma.
 
 Carlos Monsiváis
