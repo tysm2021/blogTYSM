@@ -53,6 +53,10 @@ Entre sus **obras** más destacadas se encuentran: _La región más transparente
 
 Algunas de las **obras** más recomendables de **Elena Garro** son sus tres primeros libros: _Un hogar sólido_ (1958), _Los recuerdos del porvenir_ (1963) y _La semana de colores_ (1964), que a decir de muchos críticos iniciaron el movimiento literario del "realismo mágico" junto con la obra de Rulfo. Según sus críticos, para entender su obra hay que tener apertura hacia la temática feminista y a la "desacralización de la violencia revolucionaria", tan en boga entre los escritores nacionalistas. Muchos de sus adeptos señalan que la sombra que proyectó sobre ella su esposo, Octavio Paz, fue tan grande que en vida Elena no obtuvo el reconocimiento que merecía.
 
-Juan José Arreola
+## Juan José Arreola
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/21/Juan_Jos%C3%A9_Arreola.jpg)
+
+**Juan José Arreola Zúñiga** nació en Zapotlán el Grande —Hoy Ciudad Guzmán—, Jalisco, el 21 de septiembre de 1918, y murió en Guadalajara el 3 de diciembre de 2001. 
 
 Carlos Monsiváis
