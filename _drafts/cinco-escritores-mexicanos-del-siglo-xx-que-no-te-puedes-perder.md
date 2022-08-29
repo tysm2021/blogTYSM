@@ -45,7 +45,13 @@ La muy merecida fama de **Juan Rulfo** se debe, básicamente, a dos **obras**: _
 
 Entre sus **obras** más destacadas se encuentran: _La región más transparente_ (1958), que es una enorme parábola literaria sobre la Ciudad de México, nombrada así por el también escritor Alfonso Reyes; _Aura_ (1962), una **novela** corta —ideal para iniciarse en su obra— sobre un joven que se presenta a una casa antigua por un empleo, sin imaginar la misteriosa identidad de su empleadora; y _La muerte de Artemio Cruz_ (1962). La obra de Fuentes gira en torno a las distintas visiones de la historia de México, desde el pasado prehispánico y la herencia española, pasando por el convulsionado siglo XIX, la Revolución y el México moderno. Además, vale la pena leer ensayos suyos, como _El espejo enterrado_, título que hace alusión a la búsqueda de la identidad que está sepultada bajo la tierra.
 
-Elena Garro
+## Elena Garro
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Elena_Garro.jpg/698px-Elena_Garro.jpg)
+
+**Elena Delfina Garro Navarro** nació en Puebla el 11 de noviembre de 1916, y murió en la ciudad de Cuernavaca, el 22 de agosto de 1998. Además de escribir obras que refrescaron la literatura fantástica y el género conocido como "realismo mágico", fue una espléndida dramaturga cuyas obras coqueteaban con el llamado "teatro del absurdo". Estuvo casada con el también escritor, poeta y ensayista Octavio Paz, con quien procreó una hija.
+
+Algunas de las obras más recomendables de Elena Garro son: 
 
 Juan José Arreola
 
