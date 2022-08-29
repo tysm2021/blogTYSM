@@ -41,4 +41,10 @@ Este pequeño **país** europeo se encuentra en medio de los Alpes, entre Austri
 
 Oficialmente llamado República de **San Marino**, este país está enclavado en los Montes Apeninos, rodeado por todos lados por Italia. Su capital también se llama **San Marino**, y la mayor parte de su territorio se encuentra en las laderas del Monte Titano. Su superficie es de 61.2 kilómetros cuadrados y se encuentra 10 km del Mar Adriático, pero no tiene salida al mar. Tiene una población de 33,500 sanmarinenses, cuya principal actividad es el turismo, y como obtuvo el reconocimiento de su independencia en el año 1631, oficialmente es el Estado soberano más antiguo del mundo, ¿qué tal?
 
+## Tuvalu
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tuvalu_Funafuti_atoll_beach.jpg/1024px-Tuvalu_Funafuti_atoll_beach.jpg)
+
+¿Habías oído hablar de **Tuvalu**? Nosotros tampoco, pero se trata de un país insular —es decir, de una isla que se constituye en **Estado** independiente— de apenas 26 kilómetros cuadrados de superficie y con una población de 11,900 personas, cifra que lo convierte en el segundo **país** con la menor población del mundo, sólo detrás de la Ciudad del Vaticano. Se encuentra en el continente de Oceanía, en la región polinesia, a unos 4 mil kilómetros de distancia de Australia y de Hawai, consta de cuatro arrecifes de coral y cinco atolones, y su ciudad capital se llama **Funafuti**. 
+
 Ciudad del Vaticano
