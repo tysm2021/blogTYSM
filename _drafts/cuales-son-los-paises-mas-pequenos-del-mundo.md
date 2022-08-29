@@ -52,3 +52,15 @@ Oficialmente llamado República de **San Marino**, este país está enclavado en
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Menen_Hotel_%2815219270317%29.jpg/1024px-Menen_Hotel_%2815219270317%29.jpg)
 
 Otro pequeño país insular que se halla en el centro del Océano Pacífico, en la región conocida como la Micronesia, y consta de una sola isla situada justo sobre la línea del Ecuador. La capital de la República de **Nauru** se llama Yaren, y la población total del país es de unos 11 mil 500 habitantes, que ocupan los 23.1 kilómetros cuadrados de superficie que tiene su isla. Es un **Estado** independiente desde 1968, cuando se emancipó de Australia, y gran parte de su prosperidad económica se debe a la explotación de los depósitos de fosfato que se encuentran en la isla, el cual se usa como fertilizante y se exporta mayormente a la vecina Australia. 
+
+## Mónaco
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vista_de_M%C3%B3naco%2C_2016-06-23%2C_DD_12.jpg/1024px-Vista_de_M%C3%B3naco%2C_2016-06-23%2C_DD_12.jpg)
+
+El Principado de **Mónaco** es una ciudad estado de apenas 2.02 kilómetros cuadrados, ubicado muy cerca de la frontera entre Francia e Italia, entre los Alpes franceses y el Mar Mediterráneo, en la Riviera Francesa. Se trata de una monarquía constitucional que en algún tiempo fue muy famosa por su familia real, pues el príncipe Rainero contrajo nupcias con la famosa actriz estadounidense Grace Kelly, y tuvieron tres hijos que se convirtieron en celebridades: Alberto —quien ahora es el Príncipe Soberano—, Carolina y Estefanía. Tiene una población de 38 mil habitantes, los cuales tienen uno de los mejores niveles de vida del mundo.
+
+## Ciudad del Vaticano
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Vatikanische_Gaerten_Museen_Rom.jpg/1024px-Vatikanische_Gaerten_Museen_Rom.jpg)
+
+Finalmente, llegamos al país más pequeño del mundo, pues como su nombre lo indica se trata sólo de una ciudad adyacente a Roma, donde se encuentra la Basílica de San Pedro y la Sede Papal, pues el jefe de estado es el Papa de la Iglesia Católica. 
