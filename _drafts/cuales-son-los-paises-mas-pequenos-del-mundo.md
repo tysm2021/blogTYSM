@@ -35,4 +35,10 @@ TE RECOMENDAMOS:
 
 Este pequeño **país** europeo se encuentra en medio de los Alpes, entre Austria y Suiza, y se le considera un Estado independiente cuya forma de gobierno es la monarquía constitucional, con el Príncipe de **Liechtenstein** como jefe de estado. Con una superficie que apenas alcanza los **160 kilómetros cuadrados**, tiene una población de poco más de 38 mil habitantes, y su capital es una ciudad llamada **Vaduz**. Su principal actividad económica son los servicios financieros, lo que lo convierte en uno de los países con mayor ingreso per cápita del mundo.
 
+## San Marino
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Fortress_of_Guaita_2013-09-19.jpg/1024px-Fortress_of_Guaita_2013-09-19.jpg)
+
+Oficialmente llamado República de **San Marino**, este país está enclavado en los Montes Apeninos, rodeado por todos lados por Italia. Su capital también se llama **San Marino**, y la mayor parte de su territorio se encuentra en las laderas del Monte Titano. Su superficie es de 61.2 kilómetros cuadrados y se encuentra 10 km del Mar Adriático, pero no tiene salida al mar. Tiene una población de 33,500 sanmarinenses, cuya principal actividad es el turismo, y como obtuvo el reconocimiento de su independencia en el año 1631, oficialmente es el Estado soberano más antiguo del mundo, ¿qué tal?
+
 Ciudad del Vaticano
