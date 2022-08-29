@@ -29,7 +29,13 @@ Además de presentarte a grandes rasgos al autor, también te recomendamos sus o
 
 TE RECOMENDAMOS:
 
-Juan Rulfo
+## Juan Rulfo
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/14/Rulfo_por_Lyon.jpg)
+
+Empezamos con un clásico de clásicos. **Juan Nepomuceno Carlos Pérez Rulfo Vizcaíno** —que era su nombre completo— nació el 16 de mayo de 1917 en Apualco, Jalisco, y murió el 7 de enero de 1986 en la Ciudad de México. Además de **escritor**, **novelista** y **cuentista**, fue guionista cinematográfico y un impresionante fotógrafo. Los estudiosos de la literatura ubican su obra dentro del movimiento conocido como el "boom" latinoamericano de mediados del siglo XX, cuando un gran número de autores desde México a la Argentina publicaron libros con narrativas novedosas que asombraron a los lectores europeos y de otras lenguas.
+
+La muy merecida fama de **Juan Rulfo** se debe, básicamente, a dos **obras**: _El llano en llamas_ (1953), una colección de cuentos cortos en los que, con un uso del lenguaje que rescata el habla de la provincia mexicana de tiempos de la Revolución, aborda temas como la familia, la pobreza y la gran marginación del campo mexicano; y, desde luego, _Pedro Páramo_ (1955), una de las mejores novelas mexicanas del siglo XX, cuyo inicio —"Vine a Comala porque me dijeron que aquí vivía mi padre, un tal **Pedro Páramo**"— abre la puerta a un mundo donde los vivos y los muertos parecen convivir, en un estilo de narrativa fragmentado donde el lector arma un rompecabezas para darle sentido a la obra.
 
 Carlos Fuentes
 
