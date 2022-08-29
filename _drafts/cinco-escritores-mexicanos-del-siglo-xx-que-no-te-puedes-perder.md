@@ -51,7 +51,7 @@ Entre sus **obras** más destacadas se encuentran: _La región más transparente
 
 **Elena Delfina Garro Navarro** nació en Puebla el 11 de noviembre de 1916, y murió en la ciudad de Cuernavaca, el 22 de agosto de 1998. Además de escribir obras que refrescaron la literatura fantástica y el género conocido como "realismo mágico", fue una espléndida dramaturga cuyas obras coqueteaban con el llamado "teatro del absurdo". Estuvo casada con el también escritor, poeta y ensayista Octavio Paz, con quien procreó una hija.
 
-Algunas de las obras más recomendables de Elena Garro son: 
+Algunas de las **obras** más recomendables de **Elena Garro** son sus tres primeros libros: _Un hogar sólido_ (1958), _Los recuerdos del porvenir_ (1963) y _La semana de colores_ (1964), que a decir de muchos críticos iniciaron el movimiento literario del "realismo mágico" junto con la obra de Rulfo. Según sus críticos, para entender su obra hay que tener apertura hacia la temática feminista y a la "desacralización de la violencia revolucionaria", tan en boga entre los escritores nacionalistas. Muchos de sus adeptos señalan que la sombra que proyectó sobre ella su esposo, Octavio Paz, fue tan grande que en vida Elena no obtuvo el reconocimiento que merecía.
 
 Juan José Arreola
 
