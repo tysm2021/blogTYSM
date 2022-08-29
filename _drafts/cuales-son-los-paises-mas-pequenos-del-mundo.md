@@ -23,10 +23,16 @@ show_author_profile: false
 comment: false
 
 ---
-En el mundo actual, dividido entre países y sus fronteras, al mirar un mapa nos damos cuenta de que hay Estados enormes como Rusia, Canadá, los Estados Unidos de América, Brasil, China o la India. Pero, en contraste, hay otros que miden apenas unos kilómetros cuadrados pero son estados libres; entonces, ¿cuáles son los países más pequeños del mundo?
+En el mundo actual, dividido entre **países** y sus fronteras, al mirar un mapa nos damos cuenta de que hay Estados enormes como Rusia, Canadá, los Estados Unidos de América, Brasil, China o la India. Pero, en contraste, hay otros que miden apenas unos kilómetros cuadrados pero son estados libres; entonces, ¿**cuáles son los países más pequeños del mundo**?
 
-A continuación, te decimos cómo se llaman y cuánto miden estos "micro países" que cuentan con su propia bandera, su moneda y todas las instituciones que los hacen un estado libre, además del reconocimiento del resto de los países del mundo —descartamos de esta lista a los territorios, regiones o dependencias de otros países.
+A continuación, te decimos cómo se llaman y **cuánto miden** estos "micro países" que cuentan con su propia bandera, su moneda y todas las instituciones que los hacen un **estado** libre, además del reconocimiento del resto de los **países** del mundo —descartamos de esta lista a los territorios, regiones o dependencias de otros **países**.
 
 TE RECOMENDAMOS:
+
+## Liechtenstein
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/84/Schlossvaduz.jpg)
+
+Este pequeño **país** europeo se encuentra en medio de los Alpes, entre Austria y Suiza, y se le considera un Estado independiente cuya forma de gobierno es la monarquía constitucional, con el Príncipe de **Liechtenstein** como jefe de estado. Con una superficie que apenas alcanza los **160 kilómetros cuadrados**, tiene una población de poco más de 38 mil habitantes, y su capital es una ciudad llamada **Vaduz**. Su principal actividad económica son los servicios financieros, lo que lo convierte en uno de los países con mayor ingreso per cápita del mundo.
 
 Ciudad del Vaticano
