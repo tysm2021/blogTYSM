@@ -61,4 +61,10 @@ Algunas de las **obras** más recomendables de **Elena Garro** son sus tres prim
 
 Sus obras más recomendables para iniciarse en la lectura son: _La Feria_ (1963), la única novela que escribió y está compuesta por casi 300 fragmentos que pueden leerse de forma independiente; _Bestiario_ (1959), donde con su prosa hermosa y brillante describe a una serie de animales reales y fantásticos, y Confabulario (1952), una colección de cuentos breves que, a decir de algunos, resumen en pocas páginas todo el estilo y el universo que creó Arreola con su pluma.
 
-Carlos Monsiváis
+## Carlos Monsiváis
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/48/Monsivais.jpg)
+
+**Carlos Monsiváis Aceves** nació el 4 de mayo de 1938 la Ciudad de México, y murió el 19 de junio de 2010 en la misma ciudad. Fue periodista, escritor y ensayista, con un gran interés por la cultura popular de nuestro país, especialmente de la capital, abordando temas como las figuras del Cine de Oro, el cine de ficheras, los ídolos populares como el Santo, Pedro Infante y Juan Gabriel, y la música popular, además de interesarse en la política. Gran parte de su trabajo lo publicó en periódicos, revistas, suplementos y semanarios.
+
+Entre sus libros destacan: _Días de guardar_ (1971), _Amor perdido_ (1977), _Nuevo catecismo para indios remisos_ (1982) y _Escenas de pudor y liviandad_ (1988). Mucha gente también lo recuerda por el gran amor que sentía por los gatos, además de ser un vocero de la diversidad sexual y la despenalización del aborto, y en contra del autoritarismo o la tauromaquia. Parte de su legado como coleccionista se encuentra en el Museo del Estanquillo, situado en la esquina de las calles de Madero e Isabel la Católica, en el Centro Histórico de la Ciudad de México.
