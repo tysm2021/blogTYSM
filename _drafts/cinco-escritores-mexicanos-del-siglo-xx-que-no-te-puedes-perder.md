@@ -23,4 +23,18 @@ show_author_profile: false
 comment: false
 
 ---
-¿Te gusta la literatura? 
+¿Te gusta la literatura? Si es así, y eres amante de las novelas, los cuentos y otras narrativas, te presentamos a cinco autores y autoras mexicanas del siglo XX, cuya obra debes conocer. Y no es que sea una obligación, como si estuviéramos en la escuelita, sino que la riqueza de su lenguaje y la manera en que retratan al espíritu del mexicano y abren la mente hacia nuevas narrativas, definitivamente son algo que vale la pena no perderse.
+
+Además de presentarte a grandes rasgos al autor, también te recomendamos sus obras más conocidas, o bien, aquellas con las que resulta más fácil iniciarse en la lectura. Y el que los libros cada día estén más caros no es pretexto, pues aún sigue habiendo bibliotecas públicas y librerías de segunda mano, donde podrás dar rienda suelta a tus ganas de leer.
+
+TE RECOMENDAMOS:
+
+Juan Rulfo
+
+Carlos Fuentes
+
+Elena Garro
+
+Juan José Arreola
+
+Carlos Monsiváis
