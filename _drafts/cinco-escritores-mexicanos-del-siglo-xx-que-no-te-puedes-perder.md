@@ -37,7 +37,13 @@ Empezamos con un clásico de clásicos. **Juan Nepomuceno Carlos Pérez Rulfo Vi
 
 La muy merecida fama de **Juan Rulfo** se debe, básicamente, a dos **obras**: _El llano en llamas_ (1953), una colección de cuentos cortos en los que, con un uso del lenguaje que rescata el habla de la provincia mexicana de tiempos de la Revolución, aborda temas como la familia, la pobreza y la gran marginación del campo mexicano; y, desde luego, _Pedro Páramo_ (1955), una de las mejores novelas mexicanas del siglo XX, cuyo inicio —"Vine a Comala porque me dijeron que aquí vivía mi padre, un tal **Pedro Páramo**"— abre la puerta a un mundo donde los vivos y los muertos parecen convivir, en un estilo de narrativa fragmentado donde el lector arma un rompecabezas para darle sentido a la obra.
 
-Carlos Fuentes
+## Carlos Fuentes
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Carlos_Fuentes%2C_Paris_-_Mar_2009_%284%29.jpg/682px-Carlos_Fuentes%2C_Paris_-_Mar_2009_%284%29.jpg)
+
+**Carlos Fuentes Macías** nació en Panamá, el 11 de noviembre de 1928, y murió en la Ciudad de México el 15 de mayo de 2012. También considerado dentro del llamado "boom" de la literatura latinoamericana, además de cuentista, novelista y ensayista fue diplomático, al igual que su padre —por eso nació en Panamá—, y de igual manera fue catedrático, guionista cinematográfico y periodista. Entre sus múltiples premios estuvieron: el Rómulo Gallegos, el Premio Cervantes y el Premio Príncipe de Asturias; además, ganó diversos doctorados _honoris causa_ de universidades prestigiosas como Harvard y Cambridge.
+
+Entre sus **obras** más destacadas se encuentran: _La región más transparente_ (1958), que es una enorme parábola literaria sobre la Ciudad de México, nombrada así por el también escritor Alfonso Reyes; Aura (1962), una novela corta —ideal para iniciarse en su obra— sobre un joven que se presenta a una casa antigua por un empleo, sin imaginar la misteriosa identidad de su empleadora; y _La muerte de Artemio Cruz_ (1962). La obra de Fuentes gira en torno a las distintas visiones de la historia de México, desde el pasado prehispánico y la herencia española, pasando por el convulsionado siglo XIX, la Revolución y el México moderno. Además, vale la pena leer ensayos suyos, como El espejo enterrado, título que hace alusión a la búsqueda de la identidad que está sepultada bajo la tierra.
 
 Elena Garro
 
