@@ -23,7 +23,7 @@ show_author_profile: false
 comment: false
 
 ---
-Las hemos visto en tianguis, mercados y tiendas de autoservicio, y a menudo uno se confunde o hay gente que usa los dos nombres de forma indistinta. Pero no son lo mismo: aquí te contamos cuáles son las semejanzas entre la pitaya y la pitahaya, así como los beneficios que su consumo aporta a tu salud y digestión.
+Las hemos visto en tianguis, mercados y tiendas de autoservicio, y a menudo uno se confunde o hay gente que usa los dos nombres de forma indistinta. Pero no son lo mismo: aquí te contamos cuáles son las **semejanzas** entre la **pitaya** y la **pitahaya**, así como sus **diferencias** y los **beneficios** que su consumo aporta a tu **salud** y digestión.
 
 Lo que sí es un hecho es que, aunque sus nombres pueden confundirnos, ambas frutas se consideran "exóticas" y son igualmente deliciosas y nutritivas.
 
