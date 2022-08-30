@@ -31,8 +31,12 @@ TE RECOMENDAMOS:
 
 Las **pitayas** y las **pitahayas** son frutas consideradas exóticas y son nativas de algunas regiones de México y de América Central; tienen un origen común, pero son diferentes. Su nombre proviene de la lengua antillana y significa "**fruta** escamosa", aunque en otros lugares se les conoce como frutas del dragón o _dragonfruits_, en inglés. Para los biólogos, ambas pertenecen a la familia de las _Cactaceae_, pero pertenecen a géneros distintos: la pitahaya pertenece al género _Hylocereus_ y la pitaya, al _Selenicereus_.
 
-La manera más sencilla de distinguirlas son las espinas: las **pitahayas**, aunque son el **fruto** de un cactus, no tienen espinas, y las **pitayas** sí. En general, la pitahaya es una fruta de forma ovoide, un poco redondeada y alargada, y su pulpa puede ser roja, blanca o amarilla con pequeñas semillas negras; su sabor es menos dulce que el de la **pitaya**.
+La manera más sencilla de distinguirlas son las espinas: las **pitahayas**, aunque son el **fruto** de un cactus, no tienen espinas, y las **pitayas** sí. En general, la pitahaya es una fruta de forma ovoide, un poco redondeada y alargada, y su pulpa puede ser roja, blanca o amarilla con pequeñas semillas negras; su sabor es menos dulce que el de la **pitaya**. En cuanto al color de la piel, puede ser rosa o amarillo.
 
  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pitaya_cross_section_ed2.jpg/941px-Pitaya_cross_section_ed2.jpg)
+
+Las **pitayas**, por su parte, son frutos espinosos también de forma ovoide y semiredondeada, cuya pulpa es blanca, roja, amarilla, morada o de un color rojo-violeta, y tiene una gran cantidad de pequeñas semillas negras. Su sabor es muy dulce, un tanto similar al de las tunas.
+
+![](https://www.gob.mx/cms/uploads/image/file/287335/pitaya.jpg)
 
 En cuanto a los **beneficios** que reporta su consumo, tanto la **pitaya** como la **pitahaya** tienen grandes propiedades nutritivas, pues son ricas en vitaminas C y complejo B (B1 o tiamina, B3 o niacina y B2 o rivoflavina), así como en minerales como el potasio, el hierro, el calcio y el fósforo; además, con bajas en calorías y ayudan a la digestión por ser ricas en fibra. Así que, ya sea que te guste la una o la otra, no dejes que la confusión te prive de estos deliciosos y coloridos frutos…
