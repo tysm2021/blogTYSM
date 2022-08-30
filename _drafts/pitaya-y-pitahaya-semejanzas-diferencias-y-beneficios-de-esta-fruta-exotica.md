@@ -25,8 +25,8 @@ comment: false
 ---
 Las hemos visto en tianguis, mercados y tiendas de autoservicio, y a menudo uno se confunde o hay gente que usa los dos nombres de forma indistinta. Pero no son lo mismo: aquí te contamos cuáles son las **semejanzas** entre la **pitaya** y la **pitahaya**, así como sus **diferencias** y los **beneficios** que su consumo aporta a tu **salud** y digestión.
 
-Lo que sí es un hecho es que, aunque sus nombres pueden confundirnos, ambas frutas se consideran "exóticas" y son igualmente deliciosas y nutritivas.
+Lo que sí es un hecho es que, aunque sus nombres pueden confundirnos, ambas **frutas** se consideran "**exóticas**" y son igualmente deliciosas y nutritivas.
 
 TE RECOMENDAMOS:
 
-Las pitayas y las pitahayas tienen un origen común, pero son distintas. Su nombre proviene de la lengua antillana y significa "fruta escamosa", aunque en otros lugares se les conoce como frutas del dragón o dragonfruits, en inglés. 
+Las **pitayas** y las **pitahayas** tienen un origen común, pero son diferentes. Su nombre proviene de la lengua antillana y significa "**fruta** escamosa", aunque en otros lugares se les conoce como frutas del dragón o _dragonfruits_, en inglés. Para los biólogos, ambas pertenecen a la familia de las _Cactaceae_, y llevan el nombre científico de _Hylocereus_ o _Selenicereus_  _megalanthus_.
