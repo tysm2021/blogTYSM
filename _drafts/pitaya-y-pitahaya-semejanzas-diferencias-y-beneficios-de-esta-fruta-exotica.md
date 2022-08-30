@@ -29,6 +29,8 @@ Lo que sí es un hecho es que, aunque sus nombres pueden confundirnos, ambas **f
 
 TE RECOMENDAMOS:
 
-Las **pitayas** y las **pitahayas** tienen un origen común, pero son diferentes. Su nombre proviene de la lengua antillana y significa "**fruta** escamosa", aunque en otros lugares se les conoce como frutas del dragón o _dragonfruits_, en inglés. Para los biólogos, ambas pertenecen a la familia de las _Cactaceae_, y llevan el nombre científico de _Hylocereus_ o _Selenicereus_  _megalanthus_. Son frutas consideradas exóticas y son nativas de algunas regiones de México y de América Central.
+Las **pitayas** y las **pitahayas** son frutas consideradas exóticas y son nativas de algunas regiones de México y de América Central; tienen un origen común, pero son diferentes. Su nombre proviene de la lengua antillana y significa "**fruta** escamosa", aunque en otros lugares se les conoce como frutas del dragón o _dragonfruits_, en inglés. Para los biólogos, ambas pertenecen a la familia de las _Cactaceae_, pero pertenecen a géneros distintos: la pitahaya pertenece al género _Hylocereus_ y la pitaya, al _Selenicereus_.
 
-En cuanto a los beneficios que reporta su consumo, tanto la pitaya como la pitahaya tienen grandes propiedades nutritivas, pues son ricas en vitaminas C y complejo B (B1 o tiamina, B3 o niacina y B2 o rivoflavina), así como en minerales como el potasio, el hierro, el calcio y el fósforo; además, con bajas en calorías y ayudan a la digestión por ser ricas en fibra. Así que, ya sea que te guste la una o la otra, no dejes que la confusión te prive de estos deliciosos y coloridos frutos…
+ 
+
+En cuanto a los **beneficios** que reporta su consumo, tanto la **pitaya** como la **pitahaya** tienen grandes propiedades nutritivas, pues son ricas en vitaminas C y complejo B (B1 o tiamina, B3 o niacina y B2 o rivoflavina), así como en minerales como el potasio, el hierro, el calcio y el fósforo; además, con bajas en calorías y ayudan a la digestión por ser ricas en fibra. Así que, ya sea que te guste la una o la otra, no dejes que la confusión te prive de estos deliciosos y coloridos frutos…
