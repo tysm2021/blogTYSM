@@ -35,7 +35,7 @@ La manera más sencilla de distinguirlas son las espinas: las **pitahayas**, aun
 
  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pitaya_cross_section_ed2.jpg/941px-Pitaya_cross_section_ed2.jpg)
 
-Las **pitayas**, por su parte, son frutos espinosos también de forma ovoide y semiredondeada, cuya pulpa es blanca, roja, amarilla, morada o de un color rojo-violeta, y tiene una gran cantidad de pequeñas semillas negras. Su sabor es muy dulce, un tanto similar al de las tunas.
+Las **pitayas**, por su parte, son frutos espinosos también de forma ovoide y semiredondeada, cuya pulpa es blanca, roja, amarilla, morada o de un color rojo-violeta, y tiene una gran cantidad de pequeñas semillas negras. Su sabor es muy dulce, un tanto similar al de las tunas. En cuanto a la producción de estos frutos, según cifras del Gobierno de México, el estado de Oaxaca es el principal productor de pitayas, pues genera el 43% de la producción total en el país; en cuanto a las pitahayas, destaca Yucatán, con casi el 70% del producto nacional.
 
 ![](https://www.gob.mx/cms/uploads/image/file/287335/pitaya.jpg)
 
