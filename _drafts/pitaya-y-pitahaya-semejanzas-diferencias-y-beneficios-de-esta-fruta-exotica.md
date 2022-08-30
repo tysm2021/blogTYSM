@@ -29,4 +29,4 @@ Lo que sí es un hecho es que, aunque sus nombres pueden confundirnos, ambas **f
 
 TE RECOMENDAMOS:
 
-Las **pitayas** y las **pitahayas** tienen un origen común, pero son diferentes. Su nombre proviene de la lengua antillana y significa "**fruta** escamosa", aunque en otros lugares se les conoce como frutas del dragón o _dragonfruits_, en inglés. Para los biólogos, ambas pertenecen a la familia de las _Cactaceae_, y llevan el nombre científico de _Hylocereus_ o _Selenicereus_  _megalanthus_.
+Las **pitayas** y las **pitahayas** tienen un origen común, pero son diferentes. Su nombre proviene de la lengua antillana y significa "**fruta** escamosa", aunque en otros lugares se les conoce como frutas del dragón o _dragonfruits_, en inglés. Para los biólogos, ambas pertenecen a la familia de las _Cactaceae_, y llevan el nombre científico de _Hylocereus_ o _Selenicereus_  _megalanthus_. Son frutas consideradas exóticas y son nativas de algunas regiones de México y de América Central.
