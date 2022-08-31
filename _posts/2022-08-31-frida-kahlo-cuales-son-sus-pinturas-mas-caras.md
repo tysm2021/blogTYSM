@@ -41,6 +41,12 @@ Empezamos con esta obra temprana de **Frida** —también conocida como _El tiem
 
 Se trata de una **obra** de 1946 que muchos calificarían de surrealista, pues **Frida** posa con el pelo suelto, tendida en la tierra resquebrajada, usando un largo vestido color bermellón y de su pecho abierto brotan plantas cuyas raíces parecen alimentarse de la misma Tierra, en una especie de ciclo vital. En su tiempo, la pintura fue la más cara de una artista latinoamericana, alcanzando la cifra de **$5,616,000 dólares** en una subasta en la casa Sotheby's. Los críticos dicen que se trata de uno de sus autorretratos más pacíficos, quizá debido a que lo pintó cuando recién se había vuelto a casa con Diego Rivera, un artista que de alguna manera estuvo siempre presente en su obra.
 
+## #2 Dos desnudos en el bosque
+
+![](/images/2022-08-31-frida_desnudos.jpeg)
+
+Esta obra de 1939, de corte netamente surrealista, también se conoce como _La tierra misma_; en ella aparecen dos mujeres desnudas —una es mestiza y la otra, indígena— sentadas en la tierra, una recargando su cabeza en el regazo de la otra; al fondo, ramas retorcidas, hojas y un simio que se asoma parecen atestiguar la escena. Aunque no se trata propiamente de un autorretrato, los críticos afirman que las mujeres son una alegoría de cómo **Frida** se percibía a sí misma como un ser de múltiples personalidades, con una raíz europea y una mexicana, y también de su bisexualidad y su relación con las mujeres. La obra se vendió por la astronómica suma de **$8,005,000 dólares** en la casa Christie's de Nueva York, en el año 2016. 
+
 ## #1 Diego y yo
 
 ![](/images/2022-08-31-frida_diegoyyo.jpeg)
