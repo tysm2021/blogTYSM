@@ -29,4 +29,6 @@ A continuación, hagamos un breve recorrido virtual por estas fantásticas **gru
 
 TE RECOMENDAMOS:
 
-Cuenta la historia que, desde hace siglos, estas **grutas** y cuevas eran conocidas por los pueblos locales —en especial, los chontales—, los cuales las usaban para realizar ceremonias y rituales religiosos. La palabra **Cacahuamilpa** deriva de las palabras del náhuatl _cacahuatl_, 'cacao', _milli_, 'parcela, sembradío' y _pan_, 'encima de', por lo que la traducción más aceptada es "sobre el sembradío de cacao".
+Cuenta la historia que, desde hace siglos, estas **grutas** y cuevas eran conocidas por los pueblos locales —en especial, los chontales—, los cuales las usaban para realizar ceremonias y rituales religiosos. La palabra **Cacahuamilpa** deriva de las palabras del náhuatl _cacahuatl_, 'cacao', _milli_, 'parcela, sembradío' y _pan_, 'encima de', por lo que la traducción más aceptada es "sobre el sembradío de cacao". Con la Conquista cayeron en desuso y permanecieron ocultas hasta el año 1834, cuando fueron redescubiertas por Manuel Sainz de la Peña Miranda.
+
+ 
