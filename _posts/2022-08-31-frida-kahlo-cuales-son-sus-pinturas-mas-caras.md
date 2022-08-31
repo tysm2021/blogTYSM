@@ -49,6 +49,6 @@ Esta obra de 1939, de corte netamente surrealista, también se conoce como _La t
 
 ## #1 Diego y yo
 
-![](/images/2022-08-31-frida_diegoyyo2.jpg)
+![](/images/2022-08-31-frida_diegoyyo3.jpg)
 
 Llegamos a la cima de este breve conteo. La obra en cuestión es un autorretrato —bueno, OTRO autorretrato, ya que en prácticamente toda la obra de **Frida** ella misma es la protagonista— donde su esposo, el pintor Diego Rivera, aparece como si estuviera grabado en su frente, siempre en su pensamiento. Fue el pasado 17 de noviembre de 2021 que el lienzo rompió récords durante una subasta en la casa Sotheby's de Nueva York, alcanzado la irreal suma de **34.9 millones de dólares**. El feliz comprador fue el coleccionista Eduardo F. Constantini, fundador del Museo de Arte Latinoamericano de Buenos Aires (MALBA), donde ahora se exhibe la obra.
