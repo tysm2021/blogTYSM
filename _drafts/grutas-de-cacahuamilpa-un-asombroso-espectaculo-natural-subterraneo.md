@@ -40,3 +40,5 @@ Aunque el Parque mide casi 1600 hectáreas, el recorrido por las **grutas** es d
 Además de la travesía por el cauce natural del río San Jerónimo, el atractivo principal consiste en la contemplación de las formaciones, las cuales tienen formas de animales, de caras, de fuentes y hay algunos que incluso afirman que una de ellas asemeja una catedral. Para los escaladores y espeleólogos profesionales, hay opciones para realizar descenso y escalada, o bien recorrer los ríos subterráneos que aún subsisten debajo de las grutas.
 
 El recorrido completo dura unas dos horas, cuenta con iluminación natural y artificial, y hay guías que te acompañan a lo largo de la travesía. Al salir de las grutas, es posible realizar un picnic, practicar el senderismo de montaña o saciar el hambre en algunos de los restaurantes ubicados a las afueras de la galería. Asimismo, hay opciones de alojamiento para quienes desean pasar la noche enmedio de la naturaleza.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Grutas_de_Cacahumilpa_%282488338075%29.jpg/1024px-Grutas_de_Cacahumilpa_%282488338075%29.jpg)
