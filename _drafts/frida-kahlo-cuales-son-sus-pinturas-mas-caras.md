@@ -35,6 +35,10 @@ TE RECOMENDAMOS:
 
 Empezamos con esta obra temprana de **Frida** —también conocida como _El tiempo vuela_—, fechada en 1929, cuando ella tenía apenas 22 años y estaba recién casada con Diego Rivera; en el lienzo, la pintora aparece con el cabello recogido, luciendo unos aretes enormes y un collar de jade de apariencia prehispánica, como si estuviera posando en una habitación; detrás de ella, se ve un reloj que marca las 2:55. Afuera, desde el hueco de una ventana, se ve un avión de hélice que surca el firmamento. En el año 2000, esta obra fue vendida en la cantidad de **$5,065,750 dólares** en la casa Sotheby's de Nueva York, y en su momento fue la obra más cara de una pintora mujer. 
 
+\#3 Raíces
+
+Se trata de una **obra** de 1946 que muchos calificarían de surrealista, pues **Frida** posa con el pelo suelto, tendida en la tierra resquebrajada, usando un largo vestido color bermellón y de su pecho abierto brotan plantas cuyas raíces parecen alimentarse de la misma Tierra, en una especie de ciclo vital. En su tiempo, la pintura fue la más cara de una artista latinoamericana, alcanzando la cifra de **$5,616,000 dólares** en una subasta en la casa Sotheby's. Los críticos dicen que se trata de uno de sus autorretratos más pacíficos, quizá debido a que lo pintó cuando recién se había vuelto a casa con Diego Rivera, un artista que de alguna manera estuvo siempre presente en su obra.
+
 ## #1 Diego y yo
 
 ![](/images/2022-08-31-frida_diegoyyo.jpeg)
