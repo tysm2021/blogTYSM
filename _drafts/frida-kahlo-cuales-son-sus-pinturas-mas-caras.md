@@ -28,3 +28,11 @@ Sin lugar a dudas, **Frida Kahlo** se ha convertido en una de las **artistas mex
 A continuación, un conteo con los cuatro lienzos más costosos de la coyoacanense, actualizado a septiembre de 2022, pues en esto del comercio y la venta de obras de arte… todo puede cambiar de un día para otro.
 
 TE RECOMENDAMOS:
+
+\#4 
+
+## #1 Diego y yo
+
+![](/images/2022-08-31-frida_diegoyyo.jpeg)
+
+Y llegamos a la cima de este breve conteo. La obra en cuestión es un autorretrato —bueno, OTRO autorretrato, ya que en prácticamente toda la obra de **Frida** ella misma es la protagonista— donde su esposo, el pintor Diego Rivera, aparece como si estuviera grabado en su frente, siempre en su pensamiento. Fue el pasado 17 de noviembre de 2021 que el lienzo rompió récords durante una subasta en la casa Sotheby's de Nueva York, alcanzado la irreal suma de **34.9 millones de dólares**. El feliz comprador fue el coleccionista Eduardo F. Constantini, fundador del Museo de Arte Latinoamericano de Buenos Aires (MALBA), donde ahora se exhibe la obra.
