@@ -42,3 +42,5 @@ Además de la travesía por el cauce natural del río San Jerónimo, el atractiv
 El recorrido completo dura unas dos horas, cuenta con iluminación natural y artificial, y hay guías que te acompañan a lo largo de la travesía. Al salir de las grutas, es posible realizar un picnic, practicar el senderismo de montaña o saciar el hambre en algunos de los restaurantes ubicados a las afueras de la galería. Asimismo, hay opciones de alojamiento para quienes desean pasar la noche enmedio de la naturaleza.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Grutas_de_Cacahumilpa_%282488338075%29.jpg/1024px-Grutas_de_Cacahumilpa_%282488338075%29.jpg)
+
+El Parque Nacional Grutas de Cacahuamilpa está abierto al público de lunes a domingo de 10:00 a 17:00 horas, y el costo del boleto de entrada es de $65 pesos
