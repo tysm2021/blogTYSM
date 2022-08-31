@@ -31,7 +31,7 @@ TE RECOMENDAMOS:
 
 ## #4 Autorretrato con aeroplano
 
-![](/images/2022-08-31-frida_aeroplano.jpg)
+![](/images/2022-08-31-frida_aeroplano2.jpg)
 
 Empezamos con esta obra temprana de **Frida** —también conocida como _El tiempo vuela_—, fechada en 1929, cuando ella tenía apenas 22 años y estaba recién casada con Diego Rivera; en el lienzo, la pintora aparece con el cabello recogido, luciendo unos aretes enormes y un collar de jade de apariencia prehispánica, como si estuviera posando en una habitación; detrás de ella, se ve un reloj que marca las 2:55. Afuera, desde el hueco de una ventana, se ve un avión de hélice que surca el firmamento. En el año 2000, esta obra fue vendida en la cantidad de **$5,065,750 dólares** en la casa Sotheby's de Nueva York, y en su momento fue la obra más cara de una pintora mujer. 
 
