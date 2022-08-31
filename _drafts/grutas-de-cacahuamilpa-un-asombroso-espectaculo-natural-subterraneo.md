@@ -23,8 +23,10 @@ show_author_profile: false
 comment: false
 
 ---
-Ubicado en la Sierra Madre del Sur, en el estado de Guerrero, se encuentra el Parque Nacional Grutas de Cacahuamilpa, una área natural protegida por la Secretaría del Medio Ambiente y Recursos Naturales (SEMARNAT). Al recorrer este impactante espectáculo natural subterráneo, uno puede admirar formaciones rocosas que tomaron siglos en formarse y que los lugareños han bautizado con nombres a partir de las formas que aparentan tomar.
+Ubicado en la Sierra Madre del Sur, en el estado de **Guerrero**, se encuentra el **Parque Nacional Grutas de Cacahuamilpa**, una área natural protegida por la Secretaría del Medio Ambiente y Recursos Naturales (SEMARNAT). Al recorrer este impactante espectáculo natural subterráneo, uno puede admirar **formaciones rocosas** que tomaron siglos en formarse y que los lugareños han bautizado con nombres a partir de las formas que aparentan tomar.
 
-A continuación, hagamos un breve recorrido virtual por estas fantásticas grutas, las cuales son uno de los destinos consentidos por los amantes del turismo de naturaleza y las aventuras subterráneas. Aunque, eso sí, no es recomendable para mujeres embarazadas, gente con problemas de movilidad o para quienes sufren de claustrofobia o de cualquier otro desorden de ansiedad nerviosa.
+A continuación, hagamos un breve recorrido virtual por estas fantásticas **grutas**, las cuales son uno de los destinos consentidos por los amantes del **turismo** de naturaleza y las aventuras subterráneas. Aunque, eso sí, no es recomendable para mujeres embarazadas, gente con problemas de movilidad o para quienes sufren de claustrofobia o de cualquier otro desorden de ansiedad nerviosa.
 
 TE RECOMENDAMOS:
+
+Cuenta la historia que, desde hace siglos, estas **grutas** y cuevas eran conocidas por los pueblos locales —en especial, los chontales—, los cuales las usaban para realizar ceremonias y rituales religiosos. La palabra **Cacahuamilpa** deriva de las palabras del náhuatl _cacahuatl_, 'cacao', _milli_, 'parcela, sembradío' y _pan_, 'encima de', por lo que la traducción más aceptada es "sobre el sembradío de cacao".
