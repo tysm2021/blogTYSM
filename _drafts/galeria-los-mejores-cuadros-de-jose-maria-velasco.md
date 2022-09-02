@@ -45,4 +45,10 @@ Quienes conocen el centro de la capital oaxaqueña, recordarán su primorosa cat
 
 ### La Alameda de México
 
-Hubo un tiempo en el que la Ciudad de México no era esa monstruosa y caótica megalópolis llena de autos y de gente, sino una apacible ciudad que se limitaba a lo que hoy llamamos Centro Histórico, cuyos alrededores lucían esplendorosos paisajes naturales. Y en 1866, año en que Velasco produjo esta obra, la hoy Alameda Central era justamente eso: un bosque de álamos y de otros árboles, con otros elementos de ornato. En esta hermosa pintura, vemos además a hombres y mujeres de la alta sociedad capitalina disfrutando de un día de campo junto a una de las fuentes.
+Hubo un tiempo en el que la Ciudad de México no era esa monstruosa y caótica megalópolis llena de autos y de gente, sino una apacible ciudad que se limitaba a lo que hoy llamamos Centro Histórico, cuyos alrededores lucían esplendorosos paisajes naturales. Y en 1866, año en que **Velasco** produjo esta obra, la hoy Alameda Central era justamente eso: un bosque de álamos y de otros árboles, con otros elementos de ornato. En esta hermosa pintura, vemos además a hombres y mujeres de la alta sociedad capitalina disfrutando de un día de campo junto a una de las fuentes.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jos%C3%A9_Mar%C3%ADa_Velasco_-_The_San_%C3%81ngel_Goatherd_-_Google_Art_Project.jpg/1018px-Jos%C3%A9_Mar%C3%ADa_Velasco_-_The_San_%C3%81ngel_Goatherd_-_Google_Art_Project.jpg)
+
+### El cabrío de San Ángel
+
+Si observas con atención, en la parte inferior izquierda verás a un pastorcillo que está arreando a sus cabras. Pero la verdadera protagonista de esta obra es la cascada de Tizapán, un barrio que hasta la fecha conserva ese nombre y se encuentra en los sureños rumbos de San Ángel. A la derecha se aprecia la Fábrica La Hormiga, que aprovechaba la caída natural del agua para su producción de textiles.
