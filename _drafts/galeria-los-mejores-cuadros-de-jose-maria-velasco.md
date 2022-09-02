@@ -52,3 +52,9 @@ Hubo un tiempo en el que la Ciudad de México no era esa monstruosa y caótica m
 ### El cabrío de San Ángel
 
 Si observas con atención, en la parte inferior izquierda verás a un pastorcillo que está arreando a sus cabras. Pero la verdadera protagonista de esta obra es la cascada de Tizapán, un barrio que hasta la fecha conserva ese nombre y se encuentra en los sureños rumbos de San Ángel. A la derecha se aprecia la Fábrica La Hormiga, que aprovechaba la caída natural del agua para su producción de textiles.
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d8/Jose_Maria_Velasco.jpg)
+
+### Autorretrato
+
+Como casi todos los pintores naturalistas, **José María Velasco** se pintó a sí mismo en 1894, a la edad de 54 años. Además de la profundidad y brillantez de los negros, que hacen resaltar aún más la blancura de su camisa y los reflejos de su rostro, destaca la profundidad y la fuerza de la mirada del pintor. Unos años después, sufriría un ataque al corazón que casi terminaría con su vida, pero aún así conservó la energía para seguir pintando, aunque prácticamente postrado en su casa, ubicada en la Villa de Guadalupe.
