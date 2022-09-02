@@ -58,3 +58,9 @@ Si observas con atención, en la parte inferior izquierda verás a un pastorcill
 ### Autorretrato
 
 Como casi todos los pintores naturalistas, **José María Velasco** se pintó a sí mismo en 1894, a la edad de 54 años. Además de la profundidad y brillantez de los negros, que hacen resaltar aún más la blancura de su camisa y los reflejos de su rostro, destaca la profundidad y la fuerza de la mirada del pintor. Unos años después, sufriría un ataque al corazón que casi terminaría con su vida, pero aún así conservó la energía para seguir pintando, aunque prácticamente postrado en su casa, ubicada en la Villa de Guadalupe.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jos%C3%A9_Mar%C3%ADa_Velasco_-_The_Valley_of_Mexico_from_the_Santa_Isabel_Mountain_Range_-_Google_Art_Project.jpg/1024px-Jos%C3%A9_Mar%C3%ADa_Velasco_-_The_Valley_of_Mexico_from_the_Santa_Isabel_Mountain_Range_-_Google_Art_Project.jpg)
+
+### El Valle de México desde el cerro de Santa Isabel
+
+Muy al norte de la Ciudad de México, a un par de kilómetros del cerro del Tepeyac y de la Basílica de Guadalupe, se encuentra el cerro de Santa Isabel Tola, al cual **Velasco** subía con sus pinturas y caballete para plasmar el espléndido paisaje desde aquellas alturas. Si uno observa el detalle, verá que casi al centro se encuentra, justamente, la antigua Villa de Guadalupe, de la cual surgen las dos calzadas que la unían con la Ciudad de México —actualmente, de los Misterios y de Guadalupe— y, del lado izquierdo, el lago de Texcoco y los volcanes Popocatépetl e Iztaccíhuatl. En la parte superior derecha, una lluvia riega el sur del Valle de México…
