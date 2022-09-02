@@ -48,3 +48,5 @@ De la última etapa de la Independencia, conocida como la Consumación, en el Á
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5d/Vicente_Ram%C3%B3n_Guerrero_Salda%C3%B1a.png)
 
 Otro de los consumadores de la Independencia, y que fue primer presidente constitucional de México, fue **Guadalupe Victoria**, quien en realidad se llamaba José Miguel Ramón Adaucto Fernández y Félix, y murió a causa de una enfermedad en 1843. El último héroe que debemos mencionar es **Nicolás Bravo**, un brillante militar al mando de Hermenegildo Galeana —quien, a su vez, servía bajo el mando de Morelos—, famoso por haber indultado a soldados realistas como represalia por la muerte de su padre; Bravo llegó a ser presidente de México en tres ocasiones.
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/45/Nicolas_Bravo.jpg)
