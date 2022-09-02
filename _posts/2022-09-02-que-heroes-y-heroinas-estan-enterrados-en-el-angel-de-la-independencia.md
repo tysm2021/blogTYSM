@@ -50,3 +50,5 @@ De la última etapa de la Independencia, conocida como la Consumación, en el Á
 Otro de los consumadores de la Independencia, y que fue primer presidente constitucional de México, fue **Guadalupe Victoria**, quien en realidad se llamaba José Miguel Ramón Adaucto Fernández y Félix, y murió a causa de una enfermedad en 1843. El último héroe que debemos mencionar es **Nicolás Bravo**, un brillante militar al mando de Hermenegildo Galeana —quien, a su vez, servía bajo el mando de Morelos—, famoso por haber indultado a soldados realistas como represalia por la muerte de su padre; Bravo llegó a ser presidente de México en tres ocasiones.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/45/Nicolas_Bravo.jpg)
+
+Por último, aunque por ahí corre el rumor de que el irlandés Guillen de Lampart también está sepultado en el Ángel, lo cierto es que el precursor de la Independencia falleció quemado en la hoguera por la Santa Inquisición mucho antes del movimiento insurgente, en 1659; lo cierto es que en el Ángel existe una estatua suya a manera de reconocimiento y homenaje del pueblo mexicano…
