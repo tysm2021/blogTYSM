@@ -40,3 +40,9 @@ En esta obra de 1893, **Velasco** quiso reflejar el avance tecnológico del paí
 ### Catedral de Oaxaca
 
 Quienes conocen el centro de la capital oaxaqueña, recordarán su primorosa catedral y los matices de color que le otorga su fachada de cantera verde. Y justo esa tonalidad fue la que el artista mexiquense deseó plasmar en este lienzo de 1883, en el que además del edificio religioso podemos apreciar un pequeño mercado situado a las afueras del atrio, el cual da fe que desde entonces la iglesia era el centro de la vida cívica y comercial de Oaxaca.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jos%C3%A9_Mar%C3%ADa_Velasco_-_The_Mexico_City_Alameda_-_Google_Art_Project.jpg/1024px-Jos%C3%A9_Mar%C3%ADa_Velasco_-_The_Mexico_City_Alameda_-_Google_Art_Project.jpg)
+
+### La Alameda de México
+
+Hubo un tiempo en el que la Ciudad de México no era esa monstruosa y caótica megalópolis llena de autos y de gente, sino una apacible ciudad que se limitaba a lo que hoy llamamos Centro Histórico, cuyos alrededores lucían esplendorosos paisajes naturales. Y en 1866, año en que Velasco produjo esta obra, la hoy Alameda Central era justamente eso: un bosque de álamos y de otros árboles, con otros elementos de ornato. En esta hermosa pintura, vemos además a hombres y mujeres de la alta sociedad capitalina disfrutando de un día de campo junto a una de las fuentes.
