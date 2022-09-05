@@ -29,6 +29,16 @@ Enseguida te platicamos un poco sobre el sangriento origen del mexicanísimo **p
 
 TE RECOMENDAMOS:
 
-A mediados del mes de septiembre, los mexicanos nos unimos para festejar al unísono un aniversario más de nuestra independencia. Y así, en la llamada "Noche Mexicana" del 15 de septiembre, además de los tequilas, las tostadas y los famosos chiles en nogada, uno de los platillos preferidos para tan patriótica ocasión es el pozole, ya sea blanco, rojo —también llamado estilo Jalisco— o verde, originario del estado de Guerrero. Y aunque ahora algunos lo prefieren vegetariano o con carne de pollo, la manera más tradicional de consumirlo es con carne de cerdo, especialmente con cabeza o, para que quede más limpio, con pulpa también conocida como "maciza".
+A mediados del mes de septiembre, los mexicanos nos unimos para festejar al unísono un aniversario más de nuestra independencia. Y así, en la llamada "Noche Mexicana" del 15 de septiembre, además de los tequilas, las tostadas y los famosos chiles en nogada, uno de los platillos preferidos para tan patriótica ocasión es el **pozole**, ya sea blanco, rojo —también llamado estilo Jalisco— o verde, originario del estado de Guerrero. Y aunque ahora algunos lo prefieren vegetariano o con carne de pollo, la manera más tradicional de consumirlo es con **carne de cerdo**, especialmente con cabeza o, para que quede más limpio, con pulpa también conocida como "maciza".
 
-Lo que quizá muchos ignoran es que 
+Lo que quizá muchos ignoran es que este platillo tiene orígenes ancestrales que se rastrean hasta antes de la Conquista, y lo más sorprendente es que la **carne de cerdo** no era el ingrediente original y fue un sustituto de otra que hoy nos horrorizaríamos en consumir: la **carne humana**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pozole.jpg/1024px-Pozole.jpg)
+
+Así como lo lees. Pero, antes de que salgas corriendo, hagamos un poco de historia. Quizá recuerdes que en los libros sobre el México **prehispánico** se menciona que una de las prácticas religiosas de pueblos como el de los **mexicas**, era el sacrificio humano, el cual no se realizaba por crueldad sino como un acto simbólico en el que se ofrecía el corazón del sacrificado para alimentar al Sol o al dios Huitzilopochtli, el cual tenía que combatir a la oscuridad y a las tinieblas y la noche, para emerger victorioso al día siguiente. Y para ello, pues, era necesario "alimentarlo" con sangre humana y con la carne de los corazones humanos.
+
+En las crónicas donde se describe esta práctica —que los conquistadores calificaron de "bárbara" y que hasta hoy sigue levantando ámpula entre los estudiosos y la población en general, se menciona también que el cuerpo inerte de la víctima era arrojado por las escaleras del templo y, una vez abajo, era recogido por los sacerdotes, quienes se lo llevaban, lo destazaban y, acto seguido, con la **carne** preparaban un platillo con maíz y chile, el cual es un antecedente de nuestro actual **pozole**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/53/Codex_Magliabechiano_%28141_cropped%29.jpg)
+
+En una publicación del Gobierno de México se dice que **pozole** proviene del náhuatl _pozolli_, palabra que deriva de _tlapozonalli_, que significa 'espumoso'. Aclara, además, que se trata de un caldo elaborado a base de granos de **maíz cacahuazintle**, el cual se precoce durante dos horas para que los granos de maíz pierdan la cáscara fibrosa que los cubre y cuando hierven se abren como flor, lo cual "les da una apariencia de espuma".
