@@ -23,4 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
-Llegando el mes de septiembre, millones de mexicanos empiz
+Llegando el mes de septiembre, millones de mexicanos empiezan a saborearse el clásico **pozole**, que tradicionalmente se elabora con **maíz** y **carne de cerdo**, y que se adereza con chile, limón, orégano, lechuga, rábano y cebolla, acompañado con sus tostadas. Pero, ¿sabías que, en principio, nuestros antepasados **prehispánicos**, en lugar de carne de **puerco**, lo preparaban con **carne humana**?
+
+Enseguida te platicamos un poco sobre el sangriento origen del mexicanísimo **pozole**, un platillo impregnado de tradición y que está relacionado con las prácticas religiosas del pasado prehispánico, que entre otras cosas incluía el **sacrificio humano** y la ingestión de **carne humana.**
+
+TE RECOMENDAMOS:
