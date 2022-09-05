@@ -28,3 +28,7 @@ Llegando el mes de septiembre, millones de mexicanos empiezan a saborearse el cl
 Enseguida te platicamos un poco sobre el sangriento origen del mexicanísimo **pozole**, un platillo impregnado de tradición y que está relacionado con las prácticas religiosas del pasado prehispánico, que entre otras cosas incluía el **sacrificio humano** y la ingestión de **carne humana.**
 
 TE RECOMENDAMOS:
+
+A mediados del mes de septiembre, los mexicanos nos unimos para festejar al unísono un aniversario más de nuestra independencia. Y así, en la llamada "Noche Mexicana" del 15 de septiembre, además de los tequilas, las tostadas y los famosos chiles en nogada, uno de los platillos preferidos para tan patriótica ocasión es el pozole, ya sea blanco, rojo —también llamado estilo Jalisco— o verde, originario del estado de Guerrero. Y aunque ahora algunos lo prefieren vegetariano o con carne de pollo, la manera más tradicional de consumirlo es con carne de cerdo, especialmente con cabeza o, para que quede más limpio, con pulpa también conocida como "maciza".
+
+Lo que quizá muchos ignoran es que 
