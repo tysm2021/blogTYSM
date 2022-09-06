@@ -33,9 +33,9 @@ TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Teatro_Juarez_-_panoramio.jpg/1024px-Teatro_Juarez_-_panoramio.jpg)
 
-## Empezamos con esta belleza arquitectónica que uno se topa cuando visita la ciudad de **Guanajuato**, y que ha sido sede del Festival Internacional Cervantino desde el año de 1972. Su construcción inició en 1872, con un diseño de José Noriega, aunque después su edificación fue terminada por el afamado Antonio Rivas Mercado. Se inauguró el 27 de octubre de 1903 por el entonces presidente, Porfirio Díaz, y el evento elegido para el magno evento fue la ópera _Aída_, de Giuseppe Verdi. Desde el punto de vista arquitectónico, el **Teatro Juárez** destaca su fachada que está inspirada en los templos griegos, con columnas dóricas y ocho esculturas de bronce, que representan a las musas que dan inspiración a los artistas.
+Empezamos con esta belleza arquitectónica que uno se topa cuando visita la ciudad de **Guanajuato**, y que ha sido sede del Festival Internacional Cervantino desde el año de 1972. Su construcción inició en 1872, con un diseño de José Noriega, aunque después su edificación fue terminada por el afamado Antonio Rivas Mercado. Se inauguró el 27 de octubre de 1903 por el entonces presidente, Porfirio Díaz, y el evento elegido para el magno evento fue la ópera _Aída_, de Giuseppe Verdi. Desde el punto de vista arquitectónico, el **Teatro Juárez** destaca su fachada que está inspirada en los templos griegos, con columnas dóricas y ocho esculturas de bronce, que representan a las musas que dan inspiración a los artistas.
 
-Teatro de la Paz
+## Teatro de la Paz
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e0/Teatro_de_la_Paz_%28SLP%29.jpg)
 
@@ -54,3 +54,9 @@ En **Guadalajara**, capital del estado de Jalisco, se encuentra este teatro cuyo
 Este inmueble histórico se encuentra en la ciudad de **Querétaro**. Su edificación dio inicio en el año de 1845, y fue inaugurado el 2 de mayo de 1852 con la presentación de la obertura "Iturbide", de Bonifacio Sánchez, y la obra picaresca _Por dinero baila el perro y por el pan si se lo dan_. Originalmente se llamó Gran Teatro de Iturbide y Teatro Iturbide, en honor a quien fuera el primer emperador de México, Agustín de Iturbide; en 1922, sin embargo, cambió su nombre a **Teatro de la República**.
 
 Además de sus funciones como centro de entretenimiento, cultura y espectáculos, el teatro ha sido escenario de grandes **acontecimientos históricos**: entre mayo y junio de 1867, fue el lugar donde se llevó a cabo el consejo de guerra donde se condenó a muerte a Maximiliano de Habsburgo, junto con los conservadores Miramón y Mejía; el 5 de febrero de 1917, fue el lugar donde el Congreso solemnemente juró la Constitución Política que sigue vigente hoy en día; en 1929, fue sede de la primera convención del Partido Nacional Revolucionario, hoy PRI, y cuatro años después ahí se formuló el Plan Sexenal, que estipula el periodo presidencial de seis años.
+
+## Teatro Macedonio Alcalá
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Teatro_Macedonio_Alcal%C3%A1_Oaxaca_Centro.jpg/1024px-Teatro_Macedonio_Alcal%C3%A1_Oaxaca_Centro.jpg)
+
+Culminamos este recorrido teatral en la ciudad de Oaxaca —pues el único **teatro** emblemático que nos faltaría, el Teatro del Palacio de Bellas Artes, ya lo abordamos en otro artículo—, con esta bella edificación que originalmente recibía el nombre de Teatro Casino Luis Mier y Terán, aunque en tiempos de la Revolución se rebautizó como Teatro General Jesús Carranza y, finalmente, en la década de 1930 se le nombró **Teatro Macedonio Alcalá**, en honor al músico y compositor oaxaqueño. 
