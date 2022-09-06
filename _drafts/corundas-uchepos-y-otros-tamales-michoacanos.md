@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Nuestra herencia gastronómica es tan vasta que hasta para un alimento tan simple como el tamal, nuestro ingenio y los ingredientes locales generan una amplia gama de variantes: desde los tamales "oaxaqueños", envueltos en hoja de plátano, hasta los del chiltepín, pasando por los clásicos verdes, de mole y de dulce en hoja de maíz que se venden en cualquier calle de la Ciudad de México y sus alrededores. Y en el estado de Michoacán destacan tres suculentas variedades: las corundas, los uchepos y los nacatamales. ¿Los has probado?
+
+Recorramos virtualmente este hermoso estado, donde en ciudades como Morelia, Uruapan, Zamora o Pátzcuaro es posible encontrar estas delicias culinarias hechas con masa de maíz, manteca y algunas variedades de carne, sin descontar las maravillosas y picosísimas salsas con las que los sazonamos o acompañamos. ¡Ven con nosotros!
+
+TE RECOMENDAMOS:
