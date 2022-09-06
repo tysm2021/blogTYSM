@@ -46,3 +46,9 @@ Ubicado en el Centro Histórico de la ciudad de **San Luis Potosí**, en la herm
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Teatro_Degollado_en_Guadalajara_%2816705874844%29.jpg/1024px-Teatro_Degollado_en_Guadalajara_%2816705874844%29.jpg)
 
 En **Guadalajara**, capital del estado de Jalisco, se encuentra este teatro cuyo nombre hace honor al general **Santos Degollado**, que fue gobernador de aquel estado. Los trabajos de construcción iniciaron en 1856 y culminaron diez años después, debido a la convulsionada situación política del país debida a la Guerra de Reforma. Originalmente iba a llamarse Teatro Alarcón, el honor al dramaturgo novohispano Juan Ruiz de Alarcón, pero dado que **Degollado** murió en batalla en 1861, se decidió cambiarle el nombre. La magna inauguración tuvo lugar el 13 de septiembre de 1866 con la ópera _Lucía de Lammermoor_, de Gaetano Donizetti, con la soprano Ángela Peralta —apodada "el ruiseñor mexicano"— en el papel principal. En el frontón de inspiración griega, se aprecian un bajorrelieve donde se representa a las nueve musas de la antigüedad. Actualmente, es la sede de la Orquesta Filarmónica de Jalisco.
+
+## Teatro de la República
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/5d/Teatro_de_la_Republica%2C_Quer%C3%A9taro_%2832498115863%29.jpg)
+
+Este inmueble histórico se encuentra en la ciudad de **Querétaro**. 
