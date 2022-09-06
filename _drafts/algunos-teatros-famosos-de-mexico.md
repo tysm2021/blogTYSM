@@ -23,3 +23,14 @@ show_author_profile: false
 comment: false
 
 ---
+Herederos como somos de toda una tradición de teatro y dramaturgia venida de España, en el México colonial y del siglo XIX se construyó una multitud de teatros a lo largo y ancho del país, muchos de los cuales ya desaparecieron, como el extinto Teatro Nacional de México, donde alguna vez  se estrenó nuestro Himno Nacional. Pero, por fortuna, muchos de ellos aún siguen en pie y son mudos testigos de toda una amalgama de literatura, arte dramático y arquitectura.
+
+Conozcamos, pues, algunos de los teatros más antiguos y más hermosos de México. Muchos de ellos continúan como centros de entretenimiento y cultura activos, y siguen presentando obras y otros espectáculos, y otros están cerrados o cambiaron de giro, pero continúan de pie. Veamos…
+
+TE RECOMENDAMOS:
+
+## Teatro Juárez
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Teatro_Juarez_-_panoramio.jpg/1024px-Teatro_Juarez_-_panoramio.jpg)
+
+Empezamos con esta belleza arquitectónica que uno se topa cuando visita la ciudad de Guanajuato
