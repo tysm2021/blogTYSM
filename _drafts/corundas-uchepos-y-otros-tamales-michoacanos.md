@@ -37,4 +37,6 @@ En general, se trata de una porción de **masa de maíz**, aderezada a veces con
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TianguiaPurhepechaFood34.JPG/1024px-TianguiaPurhepechaFood34.JPG)
 
-Este
+Esta variedad de **tamal** es originaria de la zona norte y la zona lacustre de **Michoacán**, y es una especialidad de la zona del Lago de Pátzcuaro. La tradición dicta que se conoce desde tiempos prehispánicos y es una herencia del poderoso Imperio Purépecha, el cual nunca fue sometido por los mexicas. Se prepara con masa de maíz con **manteca de cerdo**, que se envuelve en hojas del tallo de la planta del maíz fresco —no en las hojas del elote, como sucede con los tamales más conocidos, del centro de México.
+
+Una **corunda** normalmente tiene forma triangular, aunque algunas variedades llegan a tener hasta siete puntas. También existe un tipo llamado "**de ceniza**", que van envueltas en hojas de carrizo. También está la opción de rellenarlas de queso, rajas de chilaca —un chile verde fresco, largo y muy poco picante—, carne de puerco, vegetales o legumbres. 
