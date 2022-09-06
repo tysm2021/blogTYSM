@@ -29,6 +29,12 @@ Recorramos virtualmente este hermoso estado, donde en ciudades como **Morelia**,
 
 TE RECOMENDAMOS:
 
-Según algunos estudiosos y sus teorías, la palabra tamal proviene del náhuatl tamalli, que significaría 'envuelto'; aunque hay quienes discuten su origen, en general se acuerda que se trata de un antojito originario de México, del cual —como ya dijimos— existen muchas variantes, dependiendo del estado en que nos encontremos. En general, se trata de una porción de masa de maíz, aderezada a veces con sal y manteca, que se pone a cocer al vapor envuelta en una hoja vegetal, principalmente de mazorca de maíz o del árbol del plátano; las principales diferencias tienen que ver con los distintos rellenos que se añaden, tales como carnes, guisados y salsas, así como frutillas y, en algunas ocasiones, quesos u otros ingredientes. Por último, está la forma en que se doblan y se sirven.
+Según algunos estudiosos y sus teorías, la palabra **tamal** proviene del náhuatl _tamalli_, que significaría 'envuelto'; aunque hay quienes discuten su origen, en general se acuerda que se trata de un antojito originario de **México**, del cual —como ya dijimos— existen muchas variantes, dependiendo del estado en que nos encontremos. 
 
-Corundas
+En general, se trata de una porción de **masa de maíz**, aderezada a veces con sal y manteca, que se pone a cocer al vapor envuelta en una hoja vegetal, principalmente de mazorca de maíz o del árbol del plátano; las principales diferencias tienen que ver con los distintos rellenos que se añaden, tales como carnes, guisados y salsas, así como frutillas y, en algunas ocasiones, quesos u otros ingredientes. Por último, está la forma en que se doblan y se sirven. Veamos algunas de las variedades de **tamal** oriundas del estado de **Michoacán**.
+
+## Corundas
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TianguiaPurhepechaFood34.JPG/1024px-TianguiaPurhepechaFood34.JPG)
+
+Este
