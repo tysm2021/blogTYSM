@@ -39,7 +39,7 @@ Teatro de la Paz
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e0/Teatro_de_la_Paz_%28SLP%29.jpg)
 
-Ubicado en el Centro Histórico de la ciudad de **San Luis Potosí**, en la hermosa Plaza del Carmen, a primera vista el **teatro** destaca por la inconfundible tonalidad de la cantera rosa que se usó en su fachada. Fue construido entre 1889 y 1894, durante el gobierno de Porfirio Díaz, y se inauguró el 4 de diciembre de 1894, presentándose la obra _Lucrecia Borgia_ de Gaetano Donizetti. Al igual que el **Teatro Juárez**, fue diseñado por el arquitecto José Noriega, aunque a lo largo del tiempo ha sufrido algunas remodelaciones. El frontispicio del **Teatro** presenta columnas de tipo corintio, y además del foro principal, cuenta con dos salas anexas; la sala Flavio F. Carlos, que se usa para conciertos, y la sala Germán Gedovius, en la que se presentan exposiciones.
+Ubicado en el Centro Histórico de la ciudad de **San Luis Potosí**, en la hermosa Plaza del Carmen, a primera vista el **teatro** destaca por la inconfundible tonalidad de la cantera rosa que se usó en su fachada. Fue construido entre 1889 y 1894, durante el gobierno de Porfirio Díaz, y se inauguró el 4 de diciembre de 1894, presentándose la obra _Lucrecia Borgia_ de Gaetano Donizetti. Al igual que el **Teatro Juárez**, fue diseñado por el arquitecto José Noriega, aunque a lo largo del tiempo ha sufrido algunas remodelaciones, como la que se realizó a su característica cúpula metálica. El frontispicio del **Teatro** presenta columnas de tipo corintio, y además del foro principal, cuenta con dos salas anexas; la sala Flavio F. Carlos, que se usa para conciertos, y la sala Germán Gedovius, en la que se presentan exposiciones.
 
 ## Teatro Degollado
 
