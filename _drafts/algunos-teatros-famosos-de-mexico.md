@@ -51,4 +51,6 @@ En **Guadalajara**, capital del estado de Jalisco, se encuentra este teatro cuyo
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5d/Teatro_de_la_Republica%2C_Quer%C3%A9taro_%2832498115863%29.jpg)
 
-Este inmueble histórico se encuentra en la ciudad de **Querétaro**. 
+Este inmueble histórico se encuentra en la ciudad de **Querétaro**. Su edificación dio inicio en el año de 1845, y fue inaugurado el 2 de mayo de 1852 con la presentación de la obertura "Iturbide", de Bonifacio Sánchez, y la obra picaresca _Por dinero baila el perro y por el pan si se lo dan_. Originalmente se llamó Gran Teatro de Iturbide y Teatro Iturbide, en honor a quien fuera el primer emperador de México, Agustín de Iturbide; en 1922, sin embargo, cambió su nombre a **Teatro de la República**.
+
+Además de sus funciones como centro de entretenimiento, cultura y espectáculos, el teatro ha sido escenario de grandes **acontecimientos históricos**: entre mayo y junio de 1867, fue el lugar donde se llevó a cabo el consejo de guerra donde se condenó a muerte a Maximiliano de Habsburgo, junto con los conservadores Miramón y Mejía; el 5 de febrero de 1917, fue el lugar donde el Congreso solemnemente juró la Constitución Política que sigue vigente hoy en día; en 1929, fue sede de la primera convención del Partido Nacional Revolucionario, hoy PRI, y cuatro años después ahí se formuló el Plan Sexenal, que estipula el periodo presidencial de seis años.
