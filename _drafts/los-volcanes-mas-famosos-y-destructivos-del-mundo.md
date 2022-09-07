@@ -35,11 +35,23 @@ TE RECOMENDAMOS:
 
 Este es, quizás, el **volcán** más famoso de la historia. Se encuentra en la bahía de Nápoles, a nueve kilómetros de la ciudad italiana del mismo nombre, y es famoso por su erupción del año 79 d.C., la cual destruyó y sepultó bajo las cenizas a las ciudades romanas de **Pompeya** y **Herculano**. Tras ese episodio —que ha sido descrito en abundantes películas, documentales y libros—, el **volcán** **Vesubio** ha hecho erupción varias veces más, por lo que está considerado como uno de los **volcanes** más peligrosos del mundo, ya que a su alrededor viven unos tres millones de personas.
 
-Krakatoa
+## Krakatoa
 
-Monte Etna
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Krakatoa_eruption_lithograph.jpg/805px-Krakatoa_eruption_lithograph.jpg)
 
-Santa Helena
+El **Krakatoa** o **Krakatau** fue un **volcán** ubicado en el estrecho de Sonda, entre Java y Sumatra, al suroeste de Indonesia. Su actividad empezó en mayo de 1883, con una serie de erupciones que se prolongaron hasta octubre del mismo año, cuando una violenta explosión destruyó la isla que lo albergaba e hizo desaparecer gran parte del archipiélago aledaño. Se ha estimado que dicha explosión liberó una fuerza de 350 megatones —es decir, 23 mil veces más energía que la que liberó la bomba atómica de Hiroshima—, y fue percibida por uno de cada diez habitantes de todo el mundo, desde Madagascar hasta Australia. La cantidad de ceniza que expulsó viajó por el mundo durante tres años, tiñendo de rojo los atardeceres de todo el mundo.
+
+## Monte Etna
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mount_Etna_2021_eruption.jpg/1024px-Mount_Etna_2021_eruption.jpg)
+
+Se trata de uno de los **volcanes** más activos del mundo actualmente. Su nombre deriva de la mitología griega, pues se creía que era el **volcán** donde se encontraba la fragua del dios del fuego, Hefesto. Se ubica muy cerca de la ciudad de Catania, en la isla italiana de **Sicilia**. Tiene alrededor de 3357 metros de altura y está en actividad constante, pues tiene cuatro cráteres en su cumbre y más de 60 ventilaciones en las laderas. Tan sólo en el siglo XX y lo que va del siglo XXI, se han registrado más de 30 erupciones. 
+
+## Monte Santa Helena
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mount_St._Helens5.jpg/1024px-Mount_St._Helens5.jpg)
+
+Este volcán se localiza en los **Estados Unidos**, en el estado de Washington. 
 
 Kilauea
 
