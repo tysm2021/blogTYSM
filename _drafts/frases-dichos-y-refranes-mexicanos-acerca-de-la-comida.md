@@ -52,3 +52,7 @@ Esta frase alude, desde luego, a los mexicanísimos chiles, pues quien sabe de e
 ¿Quién no ha conocido a alguien así? Una persona que, como dice otro refrán, ni picha, ni cacha, ni deja batear… ¡y ya ni es del equipo! Alude a los perros entrenados por los que tienen hortalizas, que ladran y ahuyentan a todos los que se acercan pero, desde luego, no tocan el producto que están cuidando. Puede referirse a personas avaras o mezquinas, que prefieren que la comida se les eche a perder antes que compartirla, o bien, a cualquiera que no disfruta de la vida y sus delicias, y de pilón impide que los demás también lo hagan. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fuegian_dog_%281863%29.jpg/1024px-Fuegian_dog_%281863%29.jpg)
+
+### Es ajonjolí de todos los moles
+
+Muchos de nuestros deliciosos moles se sirven bañados con un puño de ajonjolí, ese grano que le otorga un matiz al sabor que resulta delicioso. Y el que parece andar en todos lados, saberle a todo y conocer a medio mundo, es justamente como si fuera una pizca de ajonjolí que le viene bien a prácticamente cualquier situación… o, al menos, eso cree dicha persona.
