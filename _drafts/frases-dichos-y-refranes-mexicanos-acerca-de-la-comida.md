@@ -64,3 +64,5 @@ Como lo leíste, no es una falta de ortografía, pues en el campo mexicano mucha
 ### No hay que buscarle ruido al chicharrón
 
 Esa deliciosa fritura de piel de cerdo que solemos comer en tacos, bien troceadito y con sus salsas, añade al gusto de sus sabor el delicioso crujido cuando lo mordemos: es parte de su naturaleza. Y esta frase, similar a "No hay que buscarle tres pies al gato… sabiendo que tiene cuatro", significa que a veces no hay que darle tantas vueltas a las cosas, pues éstas son como son. ¿Qué no?…
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Chicharron.jpg/766px-Chicharron.jpg)
