@@ -46,3 +46,9 @@ Esta frase proviene del campo, en especial de los estados donde se cosechan o ra
 ### Chiquito, ¡pero picoso!
 
 Esta frase alude, desde luego, a los mexicanísimos chiles, pues quien sabe de ellos podrá dar fe de que casi siempre los más pequeños —como el chile de árbol, el chile piquín o el chile habanero—, a pesar de su apariencia inofensiva y su reducido tamaño, suelen dar la sorpresa y ser los más "bravos" o picantes. Este refrán tiene varias interpretaciones: una de ellas, tiene que ver con la estatura de una persona, pues hay gente chaparrita que es valiente, arrojada, emprendedora, conquistadora o triunfadora; otra interpretación, más propia de los albures, tiene que ver con las dimensiones de los atributos masculinos de un hombre, ámbito en el que no siempre lo más grande es lo mejor.
+
+### Como el perro del hortelano: ni come, ni deja comer
+
+¿Quién no ha conocido a alguien así? Una persona que, como dice otro refrán, ni picha, ni cacha, ni deja batear… ¡y ya ni es del equipo! Alude a los perros entrenados por los que tienen hortalizas, que ladran y ahuyentan a todos los que se acercan pero, desde luego, no tocan el producto que están cuidando. Puede referirse a personas avaras o mezquinas, que prefieren que la comida se les eche a perder antes que compartirla, o bien, a cualquiera que no disfruta de la vida y sus delicias, y de pilón impide que los demás también lo hagan. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fuegian_dog_%281863%29.jpg/1024px-Fuegian_dog_%281863%29.jpg)
