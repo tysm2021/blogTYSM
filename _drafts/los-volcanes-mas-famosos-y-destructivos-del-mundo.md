@@ -55,6 +55,12 @@ Este volcán se localiza en los **Estados Unidos**, en el estado de Washington, 
 
 Kilauea
 
+No, no nos referimos al juego mecánico de un conocido centro de atracciones de la CDMX, sino al original: un volcán
+
 Mount Pelée
 
-Mauna Loa
+## Monte Pinatubo
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Pinatubo_Ausbruch_1991.jpg)
+
+Por último, hablemos de este **volcán** que se localiza en la isla de Luzón, en las **Filipinas**, y que hizo erupción en 1991, tras 500 años de inactividad. Todo empezó el 2 de abril, cuando el **Pinatubo** despertó con pequeñas erupciones cerca de la cumbre y abundante actividad sísmica, que se prolongó durante el mes de mayo; el 3 de junio se presentó la primera erupción magmática y, cuatro días después, una explosión que generó una columna de ceniza de 7 km de altura;  
