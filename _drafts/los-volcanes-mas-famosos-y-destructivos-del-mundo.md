@@ -53,14 +53,14 @@ Se trata de uno de los **volcanes** más activos del mundo actualmente. Su nombr
 
 Este volcán se localiza en los **Estados Unidos**, en el estado de Washington, a unos 150 kilómetros de la ciudad de Seattle. Tiene una altura aproximada de 2550 metros sobre el nivel del mar, y es muy conocido por su catastrófica **erupción** del 18 de mayo de 1980, la más violenta, mortífera y costosa en la historia del país vecino: se estima que murieron 57 personas, además de que 47 puentes, 24 kilómetros de vías de tren y 300 kilómetros de carreteras quedaron totalmente destruidos. La erupción causó una avalancha de escombros que redujo su altura casi 400 metros. Actualmente, luce un cráter en forma de herradura que es como un mudo testigo de aquella fenomenal **erupción**.
 
-Kilauea
+## Kilauea
 
-No, no nos referimos al juego mecánico de un conocido centro de atracciones de la CDMX, sino al original: un volcán
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/K%C4%ABlauea_-_Volcano_eruption.jpg/1023px-K%C4%ABlauea_-_Volcano_eruption.jpg)
 
-Mount Pelée
+No, no nos referimos al juego mecánico de un conocido centro de atracciones de la CDMX, sino al original: un **volcán** ubicado en la isla mayor del archipiélago de **Hawai**, considerándose uno de los más antiguos del planeta —se estima que emergió del mar hace unos 70 mil años—, el más activo de los cinco que hay en la isla y uno de los más activos de la Tierra, pues actualmente está pasando por una etapa eruptiva que empezó en septiembre de 2021. Muy cerca de él se encuentra el **Mauna Loa** —y no, no es el restaurante—, cuya última erupción se registró en abril de 1984.
 
 ## Monte Pinatubo
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Pinatubo_Ausbruch_1991.jpg)
 
-Por último, hablemos de este **volcán** que se localiza en la isla de Luzón, en las **Filipinas**, y que hizo erupción en 1991, tras 500 años de inactividad. Todo empezó el 2 de abril, cuando el **Pinatubo** despertó con pequeñas erupciones cerca de la cumbre y abundante actividad sísmica, que se prolongó durante el mes de mayo; el 3 de junio se presentó la primera erupción magmática y, cuatro días después, una explosión que generó una columna de ceniza de 7 km de altura;  
+Por último, hablemos de este **volcán** que se localiza en la isla de Luzón, en las **Filipinas**, y que hizo erupción en 1991, tras 500 años de inactividad. Todo empezó el 2 de abril, cuando el **Pinatubo** despertó con pequeñas erupciones cerca de la cumbre y abundante actividad sísmica, que se prolongó durante el mes de mayo; el 3 de junio se presentó la primera erupción magmática y, cuatro días después, una explosión que generó una columna de ceniza de 7 km de altura; una segunda explosión tuvo lugar entre el 13 y el 15 de junio, y fue considerada la segunda más violenta del siglo XX; por si fuera poco, ese mismo día un tifón golpeó la isla, lo que empeoró la situación. Los efectos de la erupción se sintieron en todo el mundo, generando una capa global de ácido sulfúrico y un descenso de la temperatura en todo el mundo de 0.5 ºC. Impactante…
