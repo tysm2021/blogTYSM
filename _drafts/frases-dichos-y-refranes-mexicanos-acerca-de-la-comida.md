@@ -31,7 +31,7 @@ TE RECOMENDAMOS:
 
 ### Al que nace pa' tamal, del cielo le caen las hojas
 
-Esta frase alude al destino o, más propiamente, a las circunstancias adversas o desfavorables con las que nace cualquier individuo o persona, pues pareciera que a quien está destinado a triunfar todo se le da de modo fácil, y los que están marcados para sufrir y terminar como humildes tamales, pues… del cielo les caen las hojas. Ya nomás falta qe se las pongan.
+Esta frase —similar a "El que nace pa' panzón, aunque lo fajen de chico— alude al destino o, más propiamente, a las circunstancias adversas o desfavorables con las que nace cualquier individuo o persona, pues pareciera que a quien está destinado a triunfar todo se le da de modo fácil, y los que están marcados para sufrir y terminar como humildes tamales, pues… del cielo les caen las hojas. Ya nomás falta que se las pongan.
 
 ### A la mejor cocinera se le queman los frijoles
 
