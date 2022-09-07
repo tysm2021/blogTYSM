@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Al pueblo mexicano, hay que decirlo, simple y sencillamente le encanta la **comida**: desde la selección de los ingredientes, los rituales y procesos de la preparación, los olores que van despidiéndose de las cocinas, la forma de servir los platillos y de compartirlos, la dicha y el placer del primer bocado, hasta la satisfacción plena del que quedó saciado por un soberbio banquete, pareciera que nuestra vida gira en torno a la **comida**: de ahí la cantidad de **dichos**, **frases populares** y **refranes** que la tienen como elemento central.
+
+Estas **expresiones** se cuentan por cientos, o quizá hasta por miles. Pero como este espacio es limitado, acá compartiremos y explicaremos algunas de las más usadas, **famosas** o singulares, o como se dice coloquialmente: "hay de chile, de dulce y de manteca". 
+
+TE RECOMENDAMOS:
