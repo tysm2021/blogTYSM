@@ -51,7 +51,7 @@ Se trata de uno de los **volcanes** más activos del mundo actualmente. Su nombr
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mount_St._Helens5.jpg/1024px-Mount_St._Helens5.jpg)
 
-Este volcán se localiza en los **Estados Unidos**, en el estado de Washington. 
+Este volcán se localiza en los **Estados Unidos**, en el estado de Washington, a unos 150 kilómetros de la ciudad de Seattle. Tiene una altura aproximada de 2550 metros sobre el nivel del mar, y es muy conocido por su catastrófica **erupción** del 18 de mayo de 1980, la más violenta, mortífera y costosa en la historia del país vecino: se estima que murieron 57 personas, además de que 47 puentes, 24 kilómetros de vías de tren y 300 kilómetros de carreteras quedaron totalmente destruidos. La erupción causó una avalancha de escombros que redujo su altura casi 400 metros. Actualmente, luce un cráter en forma de herradura que es como un mudo testigo de aquella fenomenal **erupción**.
 
 Kilauea
 
