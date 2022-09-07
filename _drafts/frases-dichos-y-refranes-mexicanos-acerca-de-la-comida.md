@@ -56,3 +56,11 @@ Esta frase alude, desde luego, a los mexicanísimos chiles, pues quien sabe de e
 ### Es ajonjolí de todos los moles
 
 Muchos de nuestros deliciosos moles se sirven bañados con un puño de ajonjolí, ese grano que le otorga un matiz al sabor que resulta delicioso. Y el que parece andar en todos lados, saberle a todo y conocer a medio mundo, es justamente como si fuera una pizca de ajonjolí que le viene bien a prácticamente cualquier situación… o, al menos, eso cree dicha persona.
+
+### El maiz crece cuando crece
+
+Como lo leíste, no es una falta de ortografía, pues en el campo mexicano muchas veces las personas así le llaman al maíz. Este refrán es muy sabio: quiere decir que no importa que lo riegues dos veces, que lo asolees el doble, o que le eches tres veces la cantidad requerida de abono: el maíz tiene y toma su tiempo, y crece cuando tiene que crecer, no antes y ni aunque tengas mucha prisa de ya cosechar los frutos de tu trabajo. Es otra forma de decir "No comas ansias".
+
+### No hay que buscarle ruido al chicharrón
+
+Esa deliciosa fritura de piel de cerdo que solemos comer en tacos, bien troceadito y con sus salsas, añade al gusto de sus sabor el delicioso crujido cuando lo mordemos: es parte de su naturaleza. Y esta frase, similar a "No hay que buscarle tres pies al gato… sabiendo que tiene cuatro", significa que a veces no hay que darle tantas vueltas a las cosas, pues éstas son como son. ¿Qué no?…
