@@ -66,3 +66,7 @@ Como lo leíste, no es una falta de ortografía, pues en el campo mexicano mucha
 Esa deliciosa fritura de piel de cerdo que solemos comer en tacos, bien troceadito y con sus salsas, añade al gusto de sus sabor el delicioso crujido cuando lo mordemos: es parte de su naturaleza. Y esta frase, similar a "No hay que buscarle tres pies al gato… sabiendo que tiene cuatro", significa que a veces no hay que darle tantas vueltas a las cosas, pues éstas son como son. ¿Qué no?…
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Chicharron.jpg/766px-Chicharron.jpg)
+
+### Ya comí, ya bebí… ya no me hallo aquí
+
+Si a uno lo invitan a comer, se espera que sea uno un buen comensal, disfrute de los alimentos en compañía de nuestros anfitriones y departa con la demás gente; pero, llegada la hora, también es del buen invitado saber el momento de partir. Lo mismo sucede en muchas situaciones de la vida, como las relaciones amorosas o, incluso, muchos trabajos, pues cuando uno ya obtuvo lo que necesitaba y ya no hay necesidad de permanecer en una situación, lo mejor es aplicar aquello de "Aquí se rompió una taza… y cada quien para su casa".
