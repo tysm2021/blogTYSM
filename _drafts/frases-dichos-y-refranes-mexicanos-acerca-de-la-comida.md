@@ -35,7 +35,7 @@ Esta frase —similar a "El que nace pa' panzón, aunque lo fajen de chico, aunq
 
 ### A la mejor cocinera se le queman los frijoles
 
-También se dice que "se le humea la olla", o que "Al mejor cocinero se le va un tomate entero". Esta sentencia expresa que no importa cuán experto, experimentado o excelente sea uno en su trabajo, siempre es susceptible de cometer un error grave, de esos que sólo cometen los principiantes. Por eso hay que fijarse bien siempre, y no caer en el pecado de soberbia.
+También se dice que "se le humea la olla", o que "Al mejor cocinero se le va un tomate entero" o "Al mejor cazador se le va la liebre". Esta sentencia expresa que no importa cuán experto, experimentado o excelente sea uno en su trabajo, siempre es susceptible de cometer un error grave, de esos que sólo cometen los principiantes. Por eso hay que fijarse bien siempre, y no caer en el pecado de soberbia.
 
 ### Bueno es raspar, pero no arrancar los magueyes
 
