@@ -47,9 +47,15 @@ Aunque popularmente se le conoce como **queso Oaxaca**, este es su nombre correc
 
 Este **queso** que, justamente, se elabora en ese estado del norte del país, tiene una gran influencia de los **quesos** alemanes, por la fuerte migración de comunidades menonitas que tuvo lugar a principios del siglo XX. Es un **queso** de pasta semidura y madurada, hecho con leche entera de vaca, de color amarillo dorado, que se rebana fácilmente, con un gusto cremoso, un rico sabor y aroma lácteo. Se puede comer seco o fundido, adquiriendo una consistencia cremosa y semilíquida. Se puede comer en quesadillas —con tortillas de harina de trigo, eso sí— o con unos buenos frijoles bayos refritos.
 
-Queso Zacatecas
+## Añejo de Zacatecas
 
-Doble crema chiapas
+Del meritito centro de la República Mexicana proviene este afamado **queso**, el cual se distingue por el color anaranjado rojizo de su corteza que le da el enchilado con chile pasilla. Uno de los lugares emblemáticos que lo producen es el municipio de Valparaíso, y se trata de un **queso** muy similar al queso Chihuahua, hecho con leche de vaca, de gusto salado, muy bueno para fundir, para comer seco en trozo —o en tajo, como le dicen los lugareños—, acompañando algunos de los guisos típicos del estado.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D447624720718075%26set%3Da.447624680718079&show_text=true&width=500" width="500" height="534" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+Doble crema Chiapas
+
+Es un queso suave que, como su nombre lo i
 
 Ranchero
 
