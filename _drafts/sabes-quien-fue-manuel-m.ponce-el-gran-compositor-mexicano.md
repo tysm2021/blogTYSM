@@ -31,4 +31,8 @@ TE RECOMENDAMOS:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QyW2Yb6eG4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Manuel María Ponce Cuéllar**, mejor conocido como Manuel M. Ponce, nació en la ciudad minera de Fresnillo, Zacatecas, el 8 de diciembre de 1882. Sus padres eran nativos de la ciudad de Aguascalientes, a la que retornaron cuando Manuel tenía apenas unos meses de edad.
+**Manuel María Ponce Cuéllar**, mejor conocido como **Manuel M. Ponce**, nació en la ciudad minera de Fresnillo, Zacatecas, el 8 de diciembre de 1882. Sus padres eran nativos de la ciudad de Aguascalientes, a la que retornaron cuando **Manuel** tenía apenas unos meses de edad. Desde muy pequeño mostró aptitudes **musicales** y sus primeros estudios los hizo con su hermana mayor, Josefina —conocida como "Pepita"—, por lo que a los seis años ya era capaz de interpretar melodías de cierta complejidad. 
+
+Formó parte del coro infantil del Templo de San Diego en Aguaacalientes, y a los 17 años ya era ayudante de órgano y titular de este instrumento. En el año de 1900 se trasladó a la Ciudad de México para estudiar con maestros particulares, y poco después ingresó al **Conservatorio Nacional de México**. En 1904 viajó a Europa para avanzar en sus estudios, primero en la Escuela de Música de Bolonia, en Italia, y después en Alemania, donde se especializó con un discípulo del pianista húngaro Franz Liszt. En 1908 regresó a México y se dedicó a la docencia musical, a la composición y empezó a dar sus **primeros conciertos**.
+
+![](/images/2022-09-08-manuelmponce2.jpeg)
