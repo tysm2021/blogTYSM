@@ -23,3 +23,12 @@ show_author_profile: false
 comment: false
 
 ---
+Además de grandes pintores, notables literatos, bailarines y escultores, México ha dado al mundo toda una pléyade de músicos, tanto intérpretes y compositores, que han llevado muy lejos los sonidos y el sentimiento de nuestra tierra. Entre los nombres que más resuenan están los de Silvestre Revueltas, Juventino Rosas, Carlos Chávez y, desde luego, el de Manuel M. Ponce, quien fue un notable pianista y compositor a que recordamos por piezas como "Estrellita". Conozcamos un poco de su biografía y de sus obras más notables.
+
+Así pues, te recomendamos que, antes de empezar a leer, le des clic al video que adjuntamos a continuación, para que tu lectura se vea acompañada por la apacible y hermosa música del zacatecano… ¡Música, maestro!
+
+TE RECOMENDAMOS:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QyW2Yb6eG4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+MANUEL
