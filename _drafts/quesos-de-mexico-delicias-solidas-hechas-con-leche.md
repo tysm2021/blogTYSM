@@ -53,9 +53,11 @@ Del meritito centro de la República Mexicana proviene este afamado **queso**, e
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D447624720718075%26set%3Da.447624680718079&show_text=true&width=500" width="500" height="534" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-Doble crema Chiapas
+## Doble crema Chiapas
 
-Es un queso suave que, como su nombre lo i
+![](/images/2022-09-08-qsantacruzz.jpeg)
+
+Es un queso suave que, como su nombre lo indica, se elabora sólo en el estado de Chiapas, particularmente en las zonas de Ocosingo y la Costa. Al probarlo, nos damos cuenta de que es un queso blanco, de textura muy cremosa y sabor notablemente ácido, lechoso, salado y muy fresco; en cuanto a la textura, se asemeja al queso de cabra y se presenta envuelto en un papel aluminio muy distintivo, para conservar su frescura. Es muy diferente del queso crema comercial, al que se agregan grasas vegetales. Se puede dejar secar para espolvorearlo mejor —adquiere un olor muy fuerte— en platillos como los típicos tamales de chiltepín o en chilaquiles o tostadas.
 
 Ranchero
 
