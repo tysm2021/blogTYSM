@@ -57,12 +57,16 @@ Del meritito centro de la República Mexicana proviene este afamado **queso**, e
 
 ![](/images/2022-09-08-qsantacruzz.jpeg)
 
-Es un queso suave que, como su nombre lo indica, se elabora sólo en el estado de Chiapas, particularmente en las zonas de Ocosingo y la Costa. Al probarlo, nos damos cuenta de que es un queso blanco, de textura muy cremosa y sabor notablemente ácido, lechoso, salado y muy fresco; en cuanto a la textura, se asemeja al queso de cabra y se presenta envuelto en un papel aluminio muy distintivo, para conservar su frescura. Es muy diferente del queso crema comercial, al que se agregan grasas vegetales. Se puede dejar secar para espolvorearlo mejor —adquiere un olor muy fuerte— en platillos como los típicos tamales de chiltepín o en chilaquiles o tostadas.
+Es un queso **suave** que, como su nombre lo indica, se elabora sólo en el estado de **Chiapas**, particularmente en las zonas de Ocosingo y la Costa. Al probarlo, nos damos cuenta de que es un **queso** blanco, de textura muy cremosa y sabor notablemente ácido, lechoso, salado y muy fresco; en cuanto a la textura, se asemeja al queso de cabra y se presenta envuelto en un papel aluminio muy distintivo, para conservar su frescura. Es muy diferente del queso crema comercial, al que se agregan grasas vegetales. Se puede dejar secar para espolvorearlo mejor —adquiere un olor muy fuerte— en platillos como los típicos tamales de chiltepín o en chilaquiles o tostadas.
 
-Ranchero
+## Panela
 
-De tenate
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/WikiCheese_-_Queso_Panela_01.jpg/1024px-WikiCheese_-_Queso_Panela_01.jpg)
 
-Panela
+Es quizás el más noble de los quesos, pues es fresco, suave pero firme y de colr blanco, hecho a base de leche pasteurizada y descremada de vaca, por lo que además es bajo en grasas. Su sabor es ligero, levemente salado, y con frecuencia se expende en las canastas donde fue elaborado, por lo que puede conocerse como **Queso canasto**. Se come en trozo, en cubitos como botana, en rebanadas pata acompañar una torta o un sandwich, o rallado para espolvorear en chilaquiles, enchiladas o como relleno de unos pambazos.
 
-Botanero
+## Queso bola
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/WikiCheese_-_Queso_Bola_de_Ocosingo_01.jpg/1024px-WikiCheese_-_Queso_Bola_de_Ocosingo_01.jpg)
+
+O **queso de bola**, también proviene del estado de Chiapas, especialmente de la región de Ocosingo. Es un producto elaborado con la cuajada de leche 100% de vaca, y está compuesto por una bola de **queso doble crema** —como el que describimos líneas arriba—, la cual forrada después de 21 días de maduración por una capa de **queso descremado**, para darle su aspecto característico. Su interior se puede comer rebanado o desmoronado.
