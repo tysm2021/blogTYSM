@@ -41,7 +41,11 @@ Empecemos con la joya de la corona, pues éste es el único **queso mexicano** q
 
 Aunque popularmente se le conoce como **queso Oaxaca**, este es su nombre correcto y como se le conoce en ese prolífico estado. Se trata de un queso de hebra, muy fácil de gratinar, elaborado en los Valles Centrales de Oaxaca con leche entera de vaca. Es uno de los quesos más populares del país y se usa en quesadillas, en queso fundido y para mezclarlo con chorizo o, a veces, con chistorra. También es uno de los ingredientes principales de las emblemáticas tlayudas oaxaqueñas.
 
-Queso Chihuahua
+## Queso Chihuahua
+
+![](/images/2022-09-08-quesochiahua.jpeg)
+
+Este **queso** que, justamente, se elabora en ese estado del norte del país, tiene una gran influencia de los **quesos** alemanes, por la fuerte migración de comunidades menonitas que tuvo lugar a principios del siglo XX. Es un **queso** de pasta semidura y madurada, hecho con leche entera de vaca, de color amarillo dorado, que se rebana fácilmente, con un gusto cremoso, un rico sabor y aroma lácteo. Se puede comer seco o fundido, adquiriendo una consistencia cremosa y semilíquida. Se puede comer en quesadillas —con tortillas de harina de trigo, eso sí— o con unos buenos frijoles bayos refritos.
 
 Queso Zacatecas
 
