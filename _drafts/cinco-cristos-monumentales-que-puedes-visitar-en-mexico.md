@@ -45,4 +45,4 @@ Esta dramática escultura de un **Cristo** sin un brazo ni una pierna se encuent
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ChristSculptTaxco2.JPG/685px-ChristSculptTaxco2.JPG)
 
-Este monumento, que con sus brazos extendidos parece ser un vigilante del Pueblo Mágico de Taxco de Alarcón, Guerrero, se encuentra en la cima del 
+Este monumento, que con sus brazos extendidos parece ser un vigilante del Pueblo Mágico de **Taxco de Alarcón, Guerrero**, se encuentra en la cima del Cerro de Atachi, a las afueras de la ciudad. 
