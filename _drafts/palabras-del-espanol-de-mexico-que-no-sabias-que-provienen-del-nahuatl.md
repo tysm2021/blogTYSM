@@ -23,3 +23,30 @@ show_author_profile: false
 comment: false
 
 ---
+Los lingüistas y demás estudiosos de la lengua española saben bien que el español que se habla, por ejemplo, en España o en Argentina, no es igual ni tiene el mismo vocabulario que el español de México. Esto no está mal ni tiene nada de extraño, pues se debe a la influencia de lo que se llama "el sustrato lingüístico", término que se refiere a las distintas lenguas indígenas que se hablaban en nuestro país antes de la imposición del español o castellano. Por eso es que en el habla cotidiana de los mexicanos, especialmente en la región central donde alguna vez se ubicó el Imperio Mexica, usamos una gran cantidad de voces, vocablos y palabras que provienen de la lengua náhuatl, que son llamadas nahuatlismos.
+
+A continuación, te compartimos una breve lista de las más usuales o de las más sorprendentes, porque según los diccionarios existen miles de ellas, fruto de la mezcla de nuestras dos raíces étnicas, culturales y lingüísticas más importantes, la española y la indígena.
+
+TE RECOMENDAMOS:
+
+Tlapalería
+
+Chipi chipi
+
+Achicopalado
+
+Tlacoyo
+
+Aguacate
+
+Ajolote
+
+Cacahuate
+
+Chocolate
+
+Mole
+
+### Apapachar
+
+Al último dejamos esta voz, que según el _Diccionario del Español de México_, significa "manifestar amor, ternura o compasión mediante cariños, besos y trato cuidadoso y delicado" o "hacer que una persona se sienta apreciada y tomada en cuenta". Contrario a una versión y a una serie de memes que se popularizaron en nuestro país hace años, no proviene de palabras **náhuatl** que significan "acariciar con el alma", sino de la palabra _patzoa_, que significa 'apretar', especialmente para saber si un fruto ya está maduro.
