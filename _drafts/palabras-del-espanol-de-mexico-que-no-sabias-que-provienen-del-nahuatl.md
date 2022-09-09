@@ -43,7 +43,7 @@ Según el _Diccionario del mejicanismos_ —una fuente un poco antigua y, sí, e
 
 ### Ajolote
 
-Este simpático y tierno animalito es nativo de México, y tiene la particularidad de que puede regenerarse con increíble facilidad. Los antiguos **mexicas** solían 
+Este simpático y tierno animalito es nativo de México, y tiene la particularidad de que puede regenerarse con increíble facilidad. Los antiguos **mexicas** solían llamarle _axólotl_, que significa 'monstruo de agua', porque seguramente a ellos les parecía de apariencia espantosa. De la misma raíz deriva la palabra _guajolote_, que viene del **náhuatl** _huaxólotl_, que quiere decir 'monstruo viejo'.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ambystoma_mexicanum_%286337857516%29.jpg/1024px-Ambystoma_mexicanum_%286337857516%29.jpg)
 
