@@ -33,7 +33,9 @@ TE RECOMENDAMOS:
 
 Si has visitado uno de estos establecimientos, te darás cuenta de que uno de los principales artículos que se venden son las pinturas. Quizá sea por esa razón que el nombre de dicho lugar deriva de la voz _tlapalli_, que puede traducirse como 'color' —aunque algunos han propuesto una versión de "líquido de fuego", quizá aludiendo a las pinturas líquidas.
 
-Chipi chipi
+### Chipi chipi
+
+Esta expresión se refiere a una lluvia muy ligera, muy menuda. Y no, aunque no lo creas, no se trata de una onomatopeya —es decir, una palabra derivada del sonido, tales como ¡guau! o ¡pum!— de las gotas al caer, sino de la palabra náhuatl _chichipictli_, que significa 'gota'. 
 
 ### Achicopalarse
 
