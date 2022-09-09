@@ -29,7 +29,9 @@ A continuación, te compartimos una breve lista de las más usuales o de las má
 
 TE RECOMENDAMOS:
 
-Tlapalería
+### Tlapalería
+
+Si has visitado uno de estos establecimientos, te darás cuenta de que uno de los principales artículos que se venden son las pinturas. Quizá sea por esa razón que el nombre de dicho lugar deriva de la voz _tlapalli_, que puede traducirse como 'color' —aunque algunos han propuesto una versión de "líquido de fuego", quizá aludiendo a las pinturas líquidas.
 
 Chipi chipi
 
@@ -45,8 +47,12 @@ Cacahuate
 
 Chocolate
 
-Mole
+### Mole
+
+Esta palabra, que de inmediato nos abre el apetito, tiene su origen en la **palabra** **náhuatl** _molli_ o _mulli_, que se puede traducir como 'salsa' o 'mezcla', pues todos sabemos que cualquier mole implica la mezcla —ya sea en licuadora o en metate— de chiles, semillas, especias, hierbas, pan, tortilla y chocolate.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Comida_en_la_Feria_del_Mole_2014_10.JPG/1024px-Comida_en_la_Feria_del_Mole_2014_10.JPG)
 
 ### Apapachar
 
-Al último dejamos esta voz, que según el _Diccionario del Español de México_, significa "manifestar amor, ternura o compasión mediante cariños, besos y trato cuidadoso y delicado" o "hacer que una persona se sienta apreciada y tomada en cuenta". Contrario a una versión y a una serie de memes que se popularizaron en nuestro país hace años, no proviene de palabras **náhuatl** que significan "acariciar con el alma", sino de las palabras _papatzoa_ o _patzoa_, que significan 'apretar', especialmente para saber si un fruto ya está maduro, o también de _pachoa_, que se refiere al acto de cubrir, como cuando una gallina empolla sus huevos.
+Al último dejamos esta voz, que según el _Diccionario del Español de México_, significa "manifestar amor, ternura o compasión mediante cariños, besos y trato cuidadoso y delicado" o "hacer que una persona se sienta apreciada y tomada en cuenta". Contrario a una versión y a una serie de memes que se popularizaron en nuestro país hace años, no proviene de **palabras** **náhuatl** que significan "acariciar con el alma", sino de las **palabras** _papatzoa_ o _patzoa_, que significan 'apretar', especialmente para saber si un fruto ya está maduro, o también de _pachoa_, que se refiere al acto de cubrir, como cuando una gallina empolla sus huevos.
