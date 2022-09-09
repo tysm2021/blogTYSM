@@ -40,3 +40,9 @@ También conocido como el **Cristo de la Montaña** y como **Cristo Rey de la Pa
 ![](https://upload.wikimedia.org/wikipedia/commons/1/19/Cristo_Roto.jpg)
 
 Esta dramática escultura de un **Cristo** sin un brazo ni una pierna se encuentra en la Presa Presidente Plutarco Elías Calles, en el poblado de **San José de Gracia, Aguascalientes**. La leyenda dice que el **Cristo** original llegó en una caja, a lomo de un burro que al parecer no tenía dueño, y que cuando el sacerdote local quiso repararlo, el propio **Cristo** lo reprendió, instándolo a dedicarse, mejor, a sus hermanos que estaban "rotos por dentro". La escultura mide 25 metros de altura, más tres metros de la base, y para visitar el santuario situado en un islote, es necesario tomar una lancha a la orilla de la presa. Los lugareños dicen que es un recordatorio del éxodo que sufrió el pueblo original debido a la construcción de la presa.
+
+## Cristo de Taxco
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ChristSculptTaxco2.JPG/685px-ChristSculptTaxco2.JPG)
+
+Este monumento, que con sus brazos extendidos parece ser un vigilante del Pueblo Mágico de Taxco de Alarcón, Guerrero, se encuentra en la cima del 
