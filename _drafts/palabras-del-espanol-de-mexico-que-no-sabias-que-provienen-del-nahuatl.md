@@ -35,7 +35,9 @@ Si has visitado uno de estos establecimientos, te darás cuenta de que uno de lo
 
 Chipi chipi
 
-Achicopalado
+### Achicopalarse
+
+Según el _Diccionario del mejicanismos_ —una fuente un poco antigua y, sí, escrita con J—, significa "abatirse, desanimarse, entristecerse en exceso"; actualmente, una persona **achicopalada** es alguien que está deprimida, desanimada pero sin caer en la tristeza total o el llanto. Pues bien, su raíz se encuentra en la voz _tzípitl_, que se refiere al "niño intranquilo y triste que reclama muestras de cariño por el embarazo de la madre". Otra palabra que deriva de esta raíz es **chípil**, que se refiere justamente a los niños que están tristes por la ausencia de cariño o a los adultos que experimentan un sentimiento similar.
 
 Tlacoyo
 
