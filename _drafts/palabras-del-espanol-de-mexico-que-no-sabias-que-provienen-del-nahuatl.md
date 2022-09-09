@@ -53,6 +53,8 @@ Esta deliciosa pieza de masa de maíz, ya sea amarillo o azul, de forma semi rom
 
 ### Aguacate
 
+Uno de los frutos más populares y deliciosos de **México**, con el que se elabora el delicioso guacamole, también tiene un nombre derivado de la lengua **náhuatl**. En este caso, proviene de _ahuacatl_, que literalmente significa 'testículo'; y es que cualquiera que tenga la paciencia de comparar la forma de ambos objetos orgánicos, podrá hallar el parecido…
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/El_aguacate_Hass.jpg/1024px-El_aguacate_Hass.jpg)
 
 Cacahuate
