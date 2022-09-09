@@ -34,3 +34,9 @@ TE RECOMENDAMOS:
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cristo_Rey_-_Cerro_del_Cubilete_-_Silao%2C_Guanajuato_-_3.jpg/768px-Cristo_Rey_-_Cerro_del_Cubilete_-_Silao%2C_Guanajuato_-_3.jpg)
 
 También conocido como el **Cristo de la Montaña** y como **Cristo Rey de la Pa**z, esta estatua monumental de un **Cristo** con los brazos extendidos se encuentra en la cima del Cerro del Cubilete, muy cerca de la ciudad de Silao, Guanajuato. A sus pies se encuentra un santuario que se encuentra entre los centros religiosos más visitados del país, y que luce una impresionante corona de espinas monumental. La escultura de bronce tiene una altura de 20.5 metros y no es el monumento original, pues éste fue dinamitado en 1928 por órdenes del entonces presidente, Plutarco Elías Calles.
+
+## Cristo Roto
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/19/Cristo_Roto.jpg)
+
+Esta dramática escultura de un **Cristo** sin un brazo ni una pierna se encuentra en la Presa Presidente Plutarco Elías Calles, en el poblado de **San José de Gracia, Aguascalientes**. La leyenda dice que el **Cristo** original llegó en una caja, a lomo de un burro que al parecer no tenía dueño, y que cuando el sacerdote local quiso repararlo, el propio **Cristo** lo reprendió, instándolo a dedicarse, mejor, a sus hermanos que estaban "rotos por dentro". La escultura mide 25 metros de altura, más tres metros de la base, y para visitar el santuario situado en un islote, es necesario tomar una lancha a la orilla de la presa. Los lugareños dicen que es un recordatorio del éxodo que sufrió el pueblo original debido a la construcción de la presa.
