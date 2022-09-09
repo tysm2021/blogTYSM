@@ -57,8 +57,6 @@ Uno de los frutos más populares y deliciosos de **México**, con el que se elab
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/El_aguacate_Hass.jpg/1024px-El_aguacate_Hass.jpg)
 
-Cacahuate
-
 ### Chocolate
 
 En esencia, el chocolate proviene del árbol llamado cacaotero, que da unos frutos del cual se obtiene el cacao, el cual ya procesado en industrializado se convierte en cocoa, un polvo del que se obtiene el preciado chocolate. Sobre esta palabra, hay distintas versiones: una dice que proviene de _xococ_, 'agrio' y atl, 'agua'; mientras que otra sostiene que las raíces son _póchotl_, 'semilla de ceiba' con _cacáuatl '_cacao' y atl, 'agua', de donde saldría _pocho-cacaua-atl_ ‘bebida de cacao y ceiba’, abreviado por los españoles en _chocauatl._
