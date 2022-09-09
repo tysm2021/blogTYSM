@@ -23,3 +23,4 @@ show_author_profile: false
 comment: false
 
 ---
+Aunque quizá no es tan famoso como el Museo del Louvre, en París, el Museo del Prado madrileño o el Museo Británico de Londres, el Museo del Hermitage —ubicado en la ciudad de San Petersburgo, Rusia— es, sin lugar a dudas, uno de los museos más importantes del mundo y sede de una de las pinacotecas más vastas, importantes y hermosas de todo el mundo. Acompáñanos en un breve recorrido por su historia, sus salas y conozcamos juntos un poco de las obras de arte que están contenidas en su interior.
