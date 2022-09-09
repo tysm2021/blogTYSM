@@ -33,10 +33,6 @@ TE RECOMENDAMOS:
 
 Si has visitado uno de estos establecimientos, te darás cuenta de que uno de los principales artículos que se venden son las pinturas. Quizá sea por esa razón que el nombre de dicho lugar deriva de la voz _tlapalli_, que puede traducirse como 'color' —aunque algunos han propuesto una versión de "líquido de fuego", quizá aludiendo a las pinturas líquidas.
 
-### Chipi chipi
-
-Esta expresión se refiere a una lluvia muy ligera, muy menuda. Y no, aunque no lo creas, no se trata de una onomatopeya —es decir, una palabra derivada del sonido, tales como ¡guau! o ¡pum!— de las gotas al caer, sino de la palabra náhuatl _chichipictli_, que significa 'gota'. 
-
 ### Achicopalarse
 
 Según el _Diccionario del mejicanismos_ —una fuente un poco antigua y, sí, escrita con J—, significa "abatirse, desanimarse, entristecerse en exceso"; actualmente, una persona **achicopalada** es alguien que está deprimida, desanimada pero sin caer en la tristeza total o el llanto. Pues bien, su raíz se encuentra en la voz _tzípitl_, que se refiere al "niño intranquilo y triste que reclama muestras de cariño por el embarazo de la madre". Otra palabra que deriva de esta raíz es **chípil**, que se refiere justamente a los niños que están tristes por la ausencia de cariño o a los adultos que experimentan un sentimiento similar.
@@ -47,7 +43,13 @@ Este simpático y tierno animalito es nativo de México, y tiene la particularid
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ambystoma_mexicanum_%286337857516%29.jpg/1024px-Ambystoma_mexicanum_%286337857516%29.jpg)
 
-Tlacoyo
+### Chipi chipi
+
+Esta expresión se refiere a una lluvia muy ligera, muy menuda. Y no, aunque no lo creas, no se trata de una onomatopeya —es decir, una palabra derivada del sonido, tales como ¡guau! o ¡pum!— de las gotas al caer, sino de la palabra náhuatl _chichipictli_, que significa 'gota'. 
+
+### Tlacoyo
+
+Esta deliciosa pieza de masa de maíz, ya sea amarillo o azul, de forma semi romboidal, que puede ir relleno de frijol, requesón o habas molidas, proviene de una voz del náhuatl: _tlatlaolli_, que se puede traducir como 'maíz molido', refiriéndose desde luego a la masa con la que se elaboran.
 
 Aguacate
 
