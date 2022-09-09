@@ -51,7 +51,9 @@ Esta expresión se refiere a una lluvia muy ligera, muy menuda. Y no, aunque no 
 
 Esta deliciosa pieza de masa de maíz, ya sea amarillo o azul, de forma semi romboidal, que puede ir relleno de frijol, requesón o habas molidas, proviene de una voz del náhuatl: _tlatlaolli_, que se puede traducir como 'maíz molido', refiriéndose desde luego a la masa con la que se elaboran.
 
-Aguacate
+### Aguacate
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/El_aguacate_Hass.jpg/1024px-El_aguacate_Hass.jpg)
 
 Cacahuate
 
