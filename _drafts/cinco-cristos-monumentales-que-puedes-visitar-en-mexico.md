@@ -45,4 +45,4 @@ Esta dramática escultura de un **Cristo** sin un brazo ni una pierna se encuent
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ChristSculptTaxco2.JPG/685px-ChristSculptTaxco2.JPG)
 
-Este monumento, que con sus brazos extendidos parece ser un vigilante del Pueblo Mágico de **Taxco de Alarcón, Guerrero**, se encuentra en la cima del Cerro de Atachi, a las afueras de la ciudad. 
+Este monumento, que con sus brazos extendidos parece ser un vigilante del Pueblo Mágico de **Taxco de Alarcón, Guerrero**, se encuentra en la cima del Cerro de Atachi, a las afueras de la ciudad. Su altura total es de 18 metros, correspondiendo 15 a la estatua en sí y 3 metros de base, y su construcción tuvo lugar en el año de 2002, siendo el autor el escultor Alejo Hernández. Es uno de los atractivos turísticos más visitados del lugar, junto con la Iglesia de Santa Prisca, la cual puede ser contemplada en todo su esplendor desde el mirador que se encuentra a los pies de este Cristo Taxqueño.
