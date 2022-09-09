@@ -45,4 +45,16 @@ Esta dramática escultura de un **Cristo** sin un brazo ni una pierna se encuent
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ChristSculptTaxco2.JPG/685px-ChristSculptTaxco2.JPG)
 
-Este monumento, que con sus brazos extendidos parece ser un vigilante del Pueblo Mágico de **Taxco de Alarcón, Guerrero**, se encuentra en la cima del Cerro de Atachi, a las afueras de la ciudad. Su altura total es de 18 metros, correspondiendo 15 a la estatua en sí y 3 metros de base, y su construcción tuvo lugar en el año de 2002, siendo el autor el escultor Alejo Hernández. Es uno de los atractivos turísticos más visitados del lugar, junto con la Iglesia de Santa Prisca, la cual puede ser contemplada en todo su esplendor desde el mirador que se encuentra a los pies de este Cristo Taxqueño.
+Este monumento, que con sus brazos extendidos parece ser un vigilante del Pueblo Mágico de **Taxco de Alarcón, Guerrero**, se encuentra en la cima del Cerro de Atachi, a las afueras de la ciudad. Su altura total es de 18 metros, correspondiendo 15 a la estatua en sí y 3 metros de base, y su construcción tuvo lugar en el año de 2002, siendo el autor el escultor Alejo Hernández. Es uno de los atractivos turísticos más visitados del lugar, junto con la Iglesia de Santa Prisca, la cual puede ser contemplada en todo su esplendor desde el mirador que se encuentra a los pies de este **Cristo Taxqueño**.
+
+## Cristo Rey de Los Álamos
+
+![](/images/2022-09-09-cristo-rey-los-alamos-tijuana-foto-megaconstrucciones-net_.jpg)
+
+En la ciudad fronteriza de **Tijuana, Baja California**, se encuentra este **Cristo Monumental** de color blanco, cuya Parroquia se encuentra en el interior del Fraccionamiento Los Álamos y por eso se le conoce así, aunque su nombre oficial es Cristo Rey Año 2000. Su construcción tardó dos años, de 1997 a 1999, tiene una altura de **23.3 metros**, está hecho yeso, resina y fibra de vidrio, y está colocado sobre una cúpula de color azul que representa el cielo estrellado. Es considerada el segundo Cristo más grande de México, sólo detrás del Cristo Roto de Aguascalientes.
+
+## Cristo del Sagrado Corazón
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Cristo_del_Sagrado_Corazon_%2851432194755%29.jpg/768px-Cristo_del_Sagrado_Corazon_%2851432194755%29.jpg)
+
+El último Cristo monumental de esta lista se encuentra al norte del país, a ocho kilómetros de la ciudad de Rosarito, **Baja California**, en una localidad conocida como **El Morro**. A diferencia de muchas de estas gigantescas esculturas religiosas, este Cristo está pintado con vivos colores, y representa la imagen del Sagrado Corazón de Jesús. Está hecho con acero y fibra de vidrio, y tiene una altura de 23 metros sin contar la cúpula que le sirve de base, pesa 40 toneladas y fue encargada por el señor Antonio Pequeño, que quiso ser sepultado en la cima de ese cerro.
