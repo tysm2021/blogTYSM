@@ -49,7 +49,9 @@ El **Códice Mendocino** consta de 71 hojas organizadas en forma de biombo y est
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e2/Codex_Mendoza_folio_2r.jpg)
 
-Códice Boturini
+## Códice Boturini
+
+El _Codex Boturini_ también es conocido como la **Tira de la Peregrinación**, pues es una descripción en forma horizontal y alargada de la **migración mexica** desde la mítica y sagrada ciudad de Aztlán hasta la llegada al Valle de México, donde fundaron su ciudad capital: Mexico-Tenochtitlan. Consta de 21 láminas de papel amate recubiertas de estuco, y se presume que es una copia del original que habría sido elaborado en tiempos anteriores a la Conquista. 
 
 Matrícula de Tributos
 
