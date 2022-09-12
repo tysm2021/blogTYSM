@@ -51,9 +51,15 @@ El **Códice Mendocino** consta de 71 hojas organizadas en forma de biombo y est
 
 ## Códice Boturini
 
-El _Codex Boturini_ también es conocido como la **Tira de la Peregrinación**, pues es una descripción en forma horizontal y alargada de la **migración mexica** desde la mítica y sagrada ciudad de Aztlán hasta la llegada al Valle de México, donde fundaron su ciudad capital: Mexico-Tenochtitlan. Consta de 21 láminas de papel amate recubiertas de estuco, y se presume que es una copia del original que habría sido elaborado en tiempos anteriores a la Conquista. 
+El _Codex Boturini_ también es conocido como la **Tira de la Peregrinación**, pues es una descripción en forma horizontal y alargada de la **migración mexica** desde la mítica y sagrada ciudad de Aztlán hasta la llegada al Valle de México, donde fundaron su ciudad capital: Mexico-Tenochtitlan. Consta de 21 láminas de papel amate recubiertas de estuco, y se presume que es una copia del original que habría sido elaborado en tiempos anteriores a la **Conquista**. Este códice sí se encuentra en **México**, pues es parte del patrimonio resguardado en el Museo Nacional de Antropología.
 
-Matrícula de Tributos
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Boturini_Codex_%28folio_15%29.JPG/1005px-Boturini_Codex_%28folio_15%29.JPG)
+
+## Códice Florentino
+
+Este códice fue encargado a **Fray Bernardino de Sahagún** en 1558, y en él está vertida gran parte de la historia y cultura del **México** **prehispánico**, sobre todo del pueblo **mexica**. Está dividido en doce libros que contienen información sobre las deidades y fiestas, astrología, agüeros, filosofía y retórica, historia de algunos señores y sus formas de gobierno, costumbres, flora y fauna y, finalmente, episodios de la Conquista de México. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Florentine_Codex_Fol_1_mercaderes_plumas_ropa_metales.png/1019px-Florentine_Codex_Fol_1_mercaderes_plumas_ropa_metales.png)
 
 Códice Dresde
 
