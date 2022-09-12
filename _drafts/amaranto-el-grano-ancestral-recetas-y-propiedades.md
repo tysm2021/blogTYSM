@@ -30,3 +30,9 @@ Así pues, démosle "una mordida" a la **historia** del **amaranto** y veamos la
 TE RECOMENDAMOS:
 
 Resulta curioso que usemos una palabra extranjera para referirnos a esta planta tan mexicana, pues **amaranto** proviene del griego _amaranthos_, que significa 'siempre viva', refiriéndose a las bracteas de las inflorescencias, que nunca se marchitan. En el México antiguo se le llamaba _huauhtli_ en náhuatl, _ahparie_ en purépecha, _tez_ o _xtes_ en maya, y era conocido como _wa’ve_ entre los wixáricas y como _guegui_ entre los rarámuri —a quienes erróneamente llamamos tarahumaras—; como podemos ver, es una planta que ha sido utilizada por múltiples generaciones de los pueblos originarios.
+
+Aunque no se sabe con precisión cuándo se domesticó esta planta, investigadores han encontrado semillas de amaranto en el Valle de Tehuacán, Puebla, el mismo sitio donde se domesticó el maíz hace 7 mil años. Lo cierto es que tenía una gran importancia en la religión mexica: con la semilla de amaranto o _huauhtli_ reventada por el calor del comal se elaboraba una masa llamada _tzoalli_, a la que se mezclaba una miel de maguey, y con esa masa se elaboraban figurillas de diversas deidades que los fieles despedazaban e ingerían en una especie de "teofagia".
+
+## Propiedades
+
+omo verdura tiene propiedades alimenticias parecidas a la espinaca y su semilla, clasificada como pseudocereal, al igual que la quinua andina, es rica en proteínas de alta calidad, sobre todo por su abundancia en lisina, aminoácido que es escaso en otros cereales.
