@@ -31,6 +31,12 @@ TE RECOMENDAMOS:
 
 La palabra **códice** deriva del latín _codex_, _codicis_, que significa 'libro manuscrito', y en el contexto del estudio de los pueblos y las culturas del **México prehispánico** se refiere a una serie de documentos escritos y pictóricos que, supuestamente, son copias fieles de documentos perdidos que provendrían de la época anterior a la Conquista. En náhuatl se les conocía como  _amoxtli_, y desde épocas muy antiguas en ellos se plasmaban los avances culturales y científicos, las creencias religiosas, los ritos y ceremonias, las genealogías y alianzas de los gobernantes, los conocimientos geográficos, el sistema económico y las cronologías de hechos.
 
-Aunque los códices más famosos son los del pueblo mexica, también se han encontrado códices hechos por los pueblos mayas, mixtecos, zapotecos, otomís y purépechas. Dichos documentos escritos se siguieron produciendo hasta el siglo XVII, y siguen siendo una rica fuente de conocimientos para estudiar nuestro pasado. A continuación, una breve revisión a algunos de los códices prehispánicos más famosos.
+Aunque los **códices** más **famosos** son los del pueblo **mexica**, también se han encontrado códices hechos por los pueblos **mayas**, **mixtecos**, **zapotecos**, **otomís** y **purépechas**. Dichos documentos escritos se siguieron produciendo hasta el siglo XVII, y siguen siendo una rica fuente de conocimientos para estudiar nuestro pasado. A continuación, una breve revisión a algunos de los **códices** **prehispánicos** más **famosos**.
 
 Códice Borbónico
+
+Códice Mendocino
+
+Códice Boturini
+
+Matrícula de Tributos
