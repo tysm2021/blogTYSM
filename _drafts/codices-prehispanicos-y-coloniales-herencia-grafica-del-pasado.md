@@ -41,7 +41,13 @@ Una sección de menor tamaño muestra a la pareja primordial de la **religión m
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0b/Codex_Borbonicus_%28p._9%29.jpg)
 
-Códice Mendocino
+## Códice Mendocino
+
+También conocido como _Códice Mendoza_ o _Codex Mendoza_,  es un códice de manufactura **mexica**, elaborado por escribas o tlacuilos en 1540 en papel europeo; recibe ese nombre porque fue encargado por el primer virrey de la Nueva España, **Antonio de Mendoza**, quien lo envió al emperador Carlos V. Actualmente se encuentra en la Biblioteca Bodleiliana de la Universidad de Oxford, en Londres, Inglaterra, aunque ya no se exhibe al público en vista de su delicado estado.
+
+El **Códice Mendocino** consta de 71 hojas organizadas en forma de biombo y está dividido en tres partes: en la primera, se enlistan los gobernantes **mexicas** y sus conquistas desde 1325 a 1521; la segunda, por su parte, enumera los reinos sometidos al poderío **mexica** y sus tributos; y en la tercera se dibujaron aspectos de la vida cotidiana de los **mexicas**. Cabe destacar que una de las primeras representaciones de nuestro actual escudo nacional, que recupera el mito de la fundación de Tenochtitlan, proviene justamente de este importante códice.
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/e2/Codex_Mendoza_folio_2r.jpg)
 
 Códice Boturini
 
