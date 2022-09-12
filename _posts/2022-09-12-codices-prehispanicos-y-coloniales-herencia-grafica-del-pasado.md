@@ -61,6 +61,19 @@ También se le conoce como _Historia general de las cosas de Nueva Españ_a. Est
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Florentine_Codex_Fol_1_mercaderes_plumas_ropa_metales.png/1019px-Florentine_Codex_Fol_1_mercaderes_plumas_ropa_metales.png)
 
-Códice Dresde
+## Códice Durán
 
-Códice Nuttall
+Su nombre es el de **Historia de las Indias de Nueva España es Islas de Tierra Firme**, y es un **códice** novohispano elaborado después de la **Conquista** de **México**. Actualmente forma parte de la colección de la Biblioteca Nacional de España, y recibe su nombre en honor al fraile dominico Diego Durán, quien se encargó de su elaboración en 1581. Este códice comprende la historia de los mexicas, desde su salida de Chicomóztoc —que sería el lugar de origen o un sitio de paso de la migración desde la mítica ciudad de Aztlán— hasta su derrota a manos de los conquistadores españoles, enfocándose en la grandeza y la ruina de la ciudad de México-Tenochtitlan.
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/36/Codex_Duran%2C_page_1.jpg)
+
+## Códice Dresde
+
+También llamado _Códice de Dresde_ o _Dresden Codex_, a diferencia de todos los anteriores éste fue elaborado por el **pueblo maya** entre los siglos XI y XII de nuestra era, y se cree que el original es aún anterior a esa época. Recibe su nombre porque se encuentra en la Biblioteca del Estado Sajón, en la ciudad de **Dresde**, Alemania, y consta de 39 hojas, con escritura en ambos lados, teniendo una longitud total de 3.56 metros. El estudio de este **códice** ha sido de vital importancia para la comprensión de los **glifos mayas**, incluyendo los numerales. Es uno de los tres **códices** **mayas** que se consideran auténticos, y aunque su lugar de resguardo fue alcanzado por las bombas durante la II Guerra Mundial, fue meticulosamente restaurado.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dresden_codex%2C_page_2.jpg/472px-Dresden_codex%2C_page_2.jpg)
+
+## Códice Nuttall
+
+Por último, hablemos de este códice —también conocido como _Códice Tonindeye_ o _Zouche-Nuttall—_, que proviene de la cultura mixteca, la cual se desarrolló en el actual estado de Oaxaca, y es probable que date del siglo XIV de nuestra era. Es uno de los únicos seis **códices mexicanos** que anteceden a la Conquista de México y que aún existen. Está conformado por 16 piezas de piel de venado unidas por los extremos, para formar una larga tira de 11.4 metros de largo. En él se describen hechos históricos, alianzas políticas y militares, así como la genealogía de algunos gobernantes mixtecos. Actualmente se encuentra en el Museo Británico de Londres, Inglaterra.  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Codex_Zouche-Nuttall_01.jpg/1024px-Codex_Zouche-Nuttall_01.jpg)
