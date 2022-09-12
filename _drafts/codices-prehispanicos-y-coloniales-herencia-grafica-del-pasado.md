@@ -35,7 +35,11 @@ Aunque los **códices** más **famosos** son los del pueblo **mexica**, también
 
 ## Códice Borbónico
 
-Este códice es uno de los más importantes para estudiar la cultura mexica. Está elaborado en papel amate, plegado en forma de acordeón, y sus hojas miden aproximadamente 40 centímetros por lado. En él se representaban el calendario mexica, así como las deidades y rituales asociados, y está dividido en 
+Este **códice** es uno de los más importantes para estudiar la cultura mexica. Se le llama también _Codex Borbonicus_ por el Palacio Borbón en París, Francia, y está resguardado en la Biblioteca de la Asamblea Nacional, que justo se encuentra en ese edificio. Está elaborado en papel amate, plegado en forma de acordeón, y sus hojas miden aproximadamente 40 centímetros por lado. En él se representaban el calendario mexica, así como las deidades y rituales asociados, y está dividido en dos secciones principales, la primera que contiene el **calendario de 260 días**, y la segunda muestra los ritos asociados con cada una de las 18 ceremonias anuales. 
+
+Una sección de menor tamaño muestra a la pareja primordial de la **religión mexica** —Oxomoco y Cipactónal—, y a Quetzalcóatl con Tezcatlipoca, dioses todos relacionados con el tiempo y el calendario. Otra sección menor contiene un ciclo de 52 años, incompleto por la pérdida de las páginas originales.
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/0b/Codex_Borbonicus_%28p._9%29.jpg)
 
 Códice Mendocino
 
