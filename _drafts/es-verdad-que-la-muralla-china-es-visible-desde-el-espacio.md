@@ -23,3 +23,10 @@ show_author_profile: false
 comment: false
 
 ---
+La **Muralla China**, también conocida como la **Gran Muralla**, es una magnífica construcción que consta de varios segmentos y que fue erigida a lo largo de varios siglos para defender a **China** de las invasiones. Su tamaño es tal que incluso se ha llegado a decir que la **Muralla China es la única construcción hecha por el hombre que es visible desde el espacio exterior** o, según otra versión, visible desde **la Luna**; aunque esta afirmación se ha repetido a lo largo de décadas y es reproducida en memes y páginas de internet que popularizan **datos curiosos**, vale la pena preguntarse si es **cierto** o se trata solamente de un **mito** o una **falacia**.
+
+En Toño y su mariachi investigamos la verdad detrás de este **rumor** tan popular en internet y encontramos una explicación lógica a todo ello, además del origen de esta afirmación tan popular. Aquí te la compartimos…
+
+TE RECOMENDAMOS:
+
+La **Gran Muralla China** es una construcción monumental fortificada que bordea el territorio **chino** y fue elevada con la finalidad de proteger al Imperio Chino de las incursiones militares mongolas y de las tribus xiongnu. Se calcula que en total, desde la frontera con Corea y hasta el desierto de Gobi, mide poco más de **21 mil kilómetros** de longitud, con una altura promedio de entre 6 y 7 metros, por entre 4 y metros de ancho. Su construcción tomo siglos, pues se estima que los primeros tramos se erigieron en el siglo V a.C. y los últimos se levantaron alrededor del siglo XVI; actualmente, sólo se conserva el 30 por ciento de las construcción originales y son una de las atracciones más visitadas por los turistas extranjeros.
