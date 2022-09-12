@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Desde tiempos inmemoriales, el amaranto ha formado parte de nuestras dietas y ha sido una de las principales plantas domesticadas por los antiguos mexicanos. Recientemente, el mundo descubrió su enorme poder nutricional e incluso se le ha considerado un "súper alimento" y una alternativa para combatir el hambre en el mundo. Aunque actualmente la forma más popular de consumirlo es en las famosas "Alegrías", la historia y las propiedades de este cereal van mucho más allá.
+
+Así pues, démosle "una mordida" a la historia del amaranto y veamos la importancia que ha tenido en nuestra historia, para después revisar sus propiedades nutricionales y las distintas maneras en que podemos consumirlo, ya sea por deleite o como complemento a nuestra alimentación.
+
+TE RECOMENDAMOS:
