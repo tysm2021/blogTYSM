@@ -43,8 +43,16 @@ La escultura que nos ocupa en este artículo representa a nadie menos que al fam
 
 ### ¿Cuándo se esculpió?
 
-Luego de que dos notables escultores empezaron a tallar un enorme bloque del afamado mármol traído de Carrara, Italia, **Miguel Ángel** convenció a la poderosa unión de comerciantes florentinos de la lana, de que él era el escultor adecuado para completar la tarea de esculpir al monumental rey **David**. Así, empezó a trabajar en el bloque la mañana del 13 de septiembre d
+Luego de que dos notables escultores empezaron a tallar un enorme bloque del afamado mármol traído de Carrara, Italia, **Miguel Ángel** convenció a la poderosa unión de comerciantes florentinos de la lana, de que él era el escultor adecuado para completar la tarea de esculpir al monumental rey **David**. Así, empezó a trabajar en el bloque la mañana del 13 de septiembre de **1501** y terminó la escultura a mediados del mes de junio de **1504**. 
 
-¿Dónde está?
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Michelangelo%27s_David.JPG/685px-Michelangelo%27s_David.JPG)
 
-¿Cuánto mide?
+## ¿Dónde está?
+
+Miguel Ángel esculpió la obra en su taller y, al término de los trabajos, la escultura terminada —cuyo destino final originalmente era la catedral de Florencia— fue trasladada a la entrada del Palazzo della Signoria, actualmente conocido como **Palazzo Vecchio**. Sin embargo, para protegerlo del daño, en el año de 1873 el **David** fue trasladado a la **Galleria dell'Accademia di Firenze** —o Galería de la Academia de Florencia— que actualmente funciona como museo y donde se encuentra actualmente, siendo sin duda la atracción principal.
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/37/David_by_Michelangelo_in_The_Gallery_of_the_Accademia_di_Belle_Arti.jpg)
+
+### ¿Cuánto mide?
+
+Su estatura es espectacular, pues mide **5.17 metros** de **altura** por 1.99 metros de ancho máximo, descontando su pedestal. La escultura representa a **David** momentos antes de su batalla contra Goliat, y presenta un leve giro en su cuerpo, con los ojos dirigidos hacia Roma. Su desnudez no es gratuita, pues es acorde con los cánones de las esculturas de los héroes griegos y fiel a lo dicho en la Biblia, que describe que David se despojó de su casco y armadura antes de hacer frente al gigante. Como dato adicional, en 1991 un sujeto de nombre Piero Cannata atentó contra la obra con un martillo que escondió bajo su chaqueta: el daño a la obra maestra aún es visible en el pie izquierdo de la misma…
