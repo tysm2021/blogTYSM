@@ -41,7 +41,9 @@ La escultura que nos ocupa en este artículo representa a nadie menos que al fam
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/%27David%27_by_Michelangelo_Fir_JBU035.jpg/1024px-%27David%27_by_Michelangelo_Fir_JBU035.jpg)
 
-¿Cuándo se esculpió?
+### ¿Cuándo se esculpió?
+
+Luego de que dos notables escultores empezaron a tallar un enorme bloque del afamado mármol traído de Carrara, Italia, **Miguel Ángel** convenció a la poderosa unión de comerciantes florentinos de la lana, de que él era el escultor adecuado para completar la tarea de esculpir al monumental rey **David**. Así, empezó a trabajar en el bloque la mañana del 13 de septiembre d
 
 ¿Dónde está?
 
