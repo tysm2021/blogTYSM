@@ -23,3 +23,10 @@ show_author_profile: false
 comment: false
 
 ---
+A pesar de que **México** es un país moderno, con grandes avances científicos, médicos y tecnológicos, y una **cultura** para presumirle al mundo, entre nuestra gente existen aún una serie de **creencias**, **supersticiones** muy arraigadas que, aunque bien se sabe que no son ciertas, forman parte de nuestra idiosincrasia y del **folclor** de nuestras tierras. Muchas de ellas son una herencia **prehispánica**, otras derivan del **cristianismo** y otras tantas más no tiene un **origen** definido.
+
+Demos un breve repaso a algunas de estas **supercherías** que, aunque a muchos les dan miedo o las juzgan propias de gente ignorante, constituyen una herencia cultural de nuestros ancestros.
+
+TE RECOMENDAMOS:
+
+Empecemos con las cosas que las mamás o las abuelitas nos dicen cuando somos niños. Por ejemplo, ¿a quién no le dijeron que si se portaba mal se lo iba a llevar **El Coco**?
