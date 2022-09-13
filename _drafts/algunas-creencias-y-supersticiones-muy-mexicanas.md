@@ -29,4 +29,10 @@ Demos un breve repaso a algunas de estas **supercherías** que, aunque a muchos 
 
 TE RECOMENDAMOS:
 
-Empecemos con las cosas que las mamás o las abuelitas nos dicen cuando somos niños. Por ejemplo, ¿a quién no le dijeron que si se portaba mal se lo iba a llevar **El Coco**?
+Empecemos con las cosas que las mamás o las abuelitas nos dicen cuando somos niños. Por ejemplo, ¿a quién no le dijeron que si se portaba mal se lo iba a llevar **El Coco**? Y uno podría preguntarse qué es o quién es ese temible personaje, pero lo cierto es que —a diferencia de otros espectros, como **La Llorona**— nadie lo ha visto ni sabe qué apariencia tiene. Algunos estudiosos afirman que la expresión, que hoy se usa para designar algo que nos da miedo o nos cuesta mucho trabajo —"las matemáticas son mi coco"—, tiene que ver con una especie de espantapájaros que se montaba en la antigüedad y a la que se lo ponía un coco en lugar de cabeza. Pero la verdad es que no se sabe…
+
+Así como algunos le temían al **Coco**, otros hablaban del **"viejo del costal"** que se llevaba a los niños latosos o desobedientes, o del **"robachicos"** que justo hacía eso con los chamacos que les gustaba andar en la calle; tristemente, la realidad alcanzó a la ficción y hoy todos los días sabemos de niños y niños desaparecidos. Pero hablando de modos de amedrentar a los niños para que se estuvieran quietos, muchos se nos decía que si nos levantábamos a media comida "se nos iba a **enchuecar la boca**"; o que si comíamos pan con agua nos iban a "salir lombrices", refiriéndose a las solitarias o tenias que parasitan a ciertas personas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pintura_de_un_%C3%A1ngel_en_el_techo_del_Santuario_Parroquial_de_Nuestra_Se%C3%B1ora_de_los_Dolores.JPG/1024px-Pintura_de_un_%C3%A1ngel_en_el_techo_del_Santuario_Parroquial_de_Nuestra_Se%C3%B1ora_de_los_Dolores.JPG)
+
+En otro orden de ideas, hay muchas creencias ligadas a la religión católica. Por ejemplo, que la lluvia se puede espantar clavando **un cuchillo en la tierra**; que para ahuyentar las malas vibras, a las brujas o a las presencias demoniacas, hay que poner unas **tijeras o un par de agujas en forma de cruz**; 
