@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+En el estado de Puebla, a tan sólo 8 kilómetros de distancia de la capital del estado —en el municipio de San Andrés Cholula—, se encuentra Cholula de Rivadavia, una ciudad de gran importancia histórica desde tiempos prehispánicos que desde el año 2012 fue nombrado Pueblo Mágico. Conozcamos un poco de su historia, de sus atractivos turísticos —como la Gran Pirámide de Cholula—, las actividades que se pueden realizar y cómo se puede llegar a ella.
+
+Además, hay que tomar en cuenta que se trata de la ciudad mexicana más antigua que aún sigue habitada, pues los primeros vestigios de ocupación humana datan del siglo XII antes de nuestra era.
+
+TE RECOMENDAMOS:
