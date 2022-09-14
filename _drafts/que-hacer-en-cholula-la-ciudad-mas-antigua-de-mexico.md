@@ -29,10 +29,16 @@ Además, hay que tomar en cuenta que se trata de **la ciudad mexicana más antig
 
 TE RECOMENDAMOS:
 
+### Historia
+
 La actual ciudad de **Cholula** —cuyo nombre oficial es **Cholula de Rivadavia**, en honor a un ciudadano argentino de nombre **Bernardino de Rivadavia** y como una forma de compensar que en Buenos Aires una avenida lleva el nombre de Benito Juárez—  se encuentra en el municipio de **San Andrés Cholula** y muy cerca de lo que fuera el asentamiento original o la ciudad sagrada de _Chollolan_, que en náhuatl significa 'lugar de huída', aunque algunos también lo han llegado a interpretar como 'Agua que cae en el lugar de huida', lo cual se refiere a los grupos toltecas que llegaron a la región luego de su expulsión de Tula, cerca del año 1000 d.C.
 
 En su tiempo de esplendor, la ciudad de **Chollolan** competía en esplendor y poderío con Teotihuacan. A la llegada de los españoles en 1519, el propio Hernán Cortés se asombró con su magnificencia y declaró que en **Cholula** había “dos mil casas hermosas” y “tantos templos como días en el año”, dicho que se conserva hasta la fecha, pues se dice que en la ciudad hay "una iglesia para cada día del año". A pesar de ello, el conquistador sometió por la fuerza a sus habitantes, asediándolos con un sitio y masacrándolos en la famosa **Matanza de Cholula**, en la que se dice que los muertos fueron tantos que la sangre corría por las calles como agua de lluvia.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/99/Matanza_de_Cholula_por_conquistadores_espa%C3%B1oles_Lienzo_de_Tlaxcala.jpg)
 
-Tras la Conquista, el 27 de octubre de 1537 el emperador Carlos V —Carlos I de España— concedió a **Cholula** el título de ciudad. Así, durante la Colonia se construyeron más de un centenar de iglesias, sin llegar a las 365 que pregona el dicho popular. Actualmente la ciudad cuenta con unos 90 mil habitantes y se encuentra circunscrita a la Zona Metropolitana Puebla-Tlaxcala, siendo prácticamente una ciudad conurbada a la capital del estado, la heroica Puebla de Zaragoza. Una publicación del Gobierno de México dice que "Cholula es conocida por combinar la historia viva de un pueblo prehispánico con la riqueza arquitectónica y cultural de las construcciones coloniales".
+Tras la Conquista, el 27 de octubre de 1537 el emperador Carlos V —Carlos I de España— concedió a **Cholula** el título de ciudad. Así, durante la Colonia se construyeron más de un centenar de iglesias, sin llegar a las 365 que pregona el dicho popular. Actualmente la ciudad cuenta con unos 90 mil habitantes y se encuentra circunscrita a la Zona Metropolitana Puebla-Tlaxcala, siendo prácticamente una ciudad conurbada a la capital del estado, la heroica Puebla de Zaragoza. Una publicación del Gobierno de México dice que "**Cholula** es conocida por combinar la historia viva de un pueblo prehispánico con la riqueza arquitectónica y cultural de las construcciones coloniales".
+
+### Turismo
+
+Hay dos atractivos principales que no pueden dejar de conocerse si uno visita la ciudad de **Cholula**: la **Gran Pirámide**, en cuya cima se encuentra el Santuario de la Virgen de los Remedios, y el Ex-convento Franciscano de San Gabriel, uno de los conventos más antiguos de América. Además, no hay que perderse el majestuoso **Templo de San Francisco Acatepec**, que ostenta una increíble fachada elaborada con piezas de Talavera, así como los numerosos restaurantes, bares y comercios que soportan el nombramiento de **Cholula** como Pueblo Mágico. Pero vamos por partes…
