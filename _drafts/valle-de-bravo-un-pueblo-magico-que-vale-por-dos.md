@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+En la porción poniente del Estado de México, rodeados de bosques de coníferas, se encuentra el Pueblo Mágico de Valle de Bravo, un sitio privilegiado y con un clima bondadoso donde lo mismo pueden practicarse deportes acuáticos o comer a la orilla de su famoso lago, que disfrutar del clima boscoso en su pintoresco centro. Conozcamos juntos este lugar, su historia, sus artesanías y, sobre todo, los atractivos que ofrece a los turistas.
+
+Todo inicia cuando el poblado era llamado Pameje, un nombre de origen mazahua que durante los primeros años de la Colonia fue cambiando a San Francisco del Valle de Temascaltepec o Temascaltepec de Indios. Después se le llamó Villa del Valle y, finalmente, Valle de Bravo en honor al héroe insurgente Nicolás Bravo.
+
+TE RECOMENDAMOS:
