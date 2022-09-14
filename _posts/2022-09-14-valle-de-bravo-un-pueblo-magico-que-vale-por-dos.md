@@ -41,4 +41,6 @@ Dejando atrás el **lago**, y subiendo por alguna de las muchas calles que se di
 
 Llegando al Centro, lo primero que destaca es la **Parroquía de San Francisco de Asís**, la iglesia principal de **Valle de Bravo**. También es posible conocer el **Centro Cultural Joaquín Arcadio Pagaza**, un poeta que nació justamente en este lugar, así como los **portales** y la **Plaza Independencia**, donde lo más tradicional es disfrutar una nieve artesanal. También hay numerosos hoteles para todos los precios —algunos incluyen servicio de spa o tienen categoría internacional— y restaurantes con comida típica o internacional. También vale la pena conocer el barrio de Santa María Ahuacatlán, con su famoso Cristo Negro, así como el antiquísimo ahuehuete que se encuentra en la calle Joaquín Arcadio Pagaza. 
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Architectural_Detail_-_Valle_de_Bravo_-_Mexico_-_01_%2816488272262%29.jpg/1024px-Architectural_Detail_-_Valle_de_Bravo_-_Mexico_-_01_%2816488272262%29.jpg)
+
 Total que, como dijimos, **Valle de Bravo** equivale a visitar dos pueblos en uno. ¿Qué dices, te animas a conocerlo?
