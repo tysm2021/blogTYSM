@@ -33,4 +33,6 @@ TE RECOMENDAMOS:
 
 Estuvo al lado de **Hidalgo** en la famosa Batalla del Monte de las Cruces, el 30 de octubre de 1810. Al año siguiente, el 17 de enero, participó en la Batalla de Puente de Calderón, donde los insurgentes fueron derrotados por los realistas encabezados por Félix María Calleja, pero López Rayón pudo rescatar 300 mil pesos enmedio de la reyerta. El 16 de marzo del mismo año, fue nombrado **Comandante de las Fuerzas Insurgentes** y se quedó apostado en Saltillo, Coahuila. Poco después, los jefes insurgentes fueron capturados en Acatita de Baján, y Rayón pasó por las armas a Rafael Iriarte, que había traicionado la causa.
 
- 
+ ![](https://upload.wikimedia.org/wikipedia/commons/7/77/General_Ignacio_L%C3%B3pez_Ray%C3%B3n.png)
+
+**Rayón** salió de Saltillo y derrotó a los realistas en la Batalla de Puerto de los Piñones. El 15 de abril de 1811, **López Rayón** logró la hazaña de tomar la ciudad de Zacatecas. Después, tomó la ciudad de Zitácuaro, desde donde escribió al cura **José María Morelos** y lo invitó a reunirse con él en lo que después se conocería como **Junta de Zitácuaro** o Suprema Junta Nacional Americana, a la que también asistieron los jefes insurgentes José María Liceaga y José Sixto Verduzco; en ella, **Ignacio López Rayón** fue elegido Ministro Universal de la Nación y Presidente de la Suprema Corte.
