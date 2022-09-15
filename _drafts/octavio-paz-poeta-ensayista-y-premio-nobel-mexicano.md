@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Uno de los **escritores** **mexicanos** más importantes del siglo XX fue, sin lugar a dudas, **Octavio Paz**, quien incursionó en la **poesía** y el **ensayo**, además de ser un importante editor y diplomático, y por su trabajo en pro de las letras fue galardonado con el **Premio Nobel de Literatura**, honor que comparte con apenas otros cuatro connacionales. Conozcamos un poco de su **biografía**, así como sus **obras** más importantes.
+
+Cabe mencionar que la casa donde pasó sus últimos días, llamada Casa de Alvarado —en la calle de Francisco Sosa, en Coyoacán—, le fue otorgada como reconocimiento por el Gobierno de México, y actualmente es la sede de la Fonoteca Nacional.
+
+TE RECOMENDAMOS:
