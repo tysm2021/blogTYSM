@@ -28,3 +28,7 @@ Uno de los **escritores** **mexicanos** más importantes del siglo XX fue, sin l
 Cabe mencionar que la casa donde pasó sus últimos días, llamada Casa de Alvarado —en la calle de Francisco Sosa, en Coyoacán—, le fue otorgada como reconocimiento por el Gobierno de México, y actualmente es la sede de la Fonoteca Nacional.
 
 TE RECOMENDAMOS:
+
+**Octavio Irineo Paz Lozano** nació en la Ciudad de México el 31 de marzo de 1914, en plena Revolución Mexicana. Su padre fue el abogado y periodista Octavio Irineo Paz Solórzano, quien se unió al Ejército Zapatista. Por esta razón, el pequeño **Octavio** vivió en casa de su abuelo, Irineo Paz —un soldado retirado, intelectual liberal y novelista—, en el barrio de Mixcoac, entonces un pequeño poblado al sur poniente de la CDMX. Ahí pasó sus primeros años, hasta que la familia tuvo que partir al exilio en Los Angeles.
+
+La educación temprano de Paz la realizó en los Estados Unidos. Cursó el bachillerato en la Escuela Nacional Preparatoria, en el Colegio de San Ildefonso, 
