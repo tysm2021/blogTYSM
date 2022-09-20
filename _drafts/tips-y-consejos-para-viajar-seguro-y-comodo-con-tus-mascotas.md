@@ -45,7 +45,9 @@ Después, empieza con **trayectos cortos** de unos diez minutos de duración, **
 
 ## Viajen seguros
 
-Aunque resulta emblemática la imagen de un perro feliz, sacando la lengua y sintiendo el golpe del aire mientras saca la cabeza de un auto en movimiento, **no es recomendable** que haga esto. Si se trata de una mascota pequeña —un perro o un gato—, aunque uno quisiera llevarlos en brazos lo mejor es que viajen en su jaula viajera, por seguridad de ambos, ya que nunca se debe descartar un frenado de emergencia o, ¡Dios no lo quiera!, un accidente. Si es muy grande, llévalo con su collar y su cadena, la cual deberás asegurar a un cinturón de seguridad, y **evitar a toda costa que saque la cabeza**… pues es algo que ni los humanos debemos hacer y puede ser que la ansiedad lo lleve a saltar fuera del auto en movimiento, con las fatales consecuencias que se pueden esperar.
+Aunque resulta emblemática la imagen de un perro feliz, sacando la lengua y sintiendo el golpe del aire mientras saca la cabeza de un auto en movimiento, **no es recomendable** que haga esto. Si se trata de una mascota pequeña —un perro o un gato—, aunque uno quisiera llevarlos en brazos lo mejor es que viajen en su jaula viajera, por seguridad de ambos. ¡Ah!, y evita caer en el error de la fotografía de aquí abajo: procura que viaje siempre en el asiento trasero, ya que nunca se debe descartar un frenado de emergencia o, ¡Dios no lo quiera!, un accidente. 
+
+Si es muy grande, llévalo con su collar y su cadena, la cual deberás asegurar a un cinturón de seguridad, y **evitar a toda costa que saque la cabeza**… pues es algo que ni los humanos debemos hacer y puede ser que la ansiedad lo lleve a saltar fuera del auto en movimiento, con las fatales consecuencias que se pueden esperar. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Labrador_retriever_and_Great_Pyriness_dog_happy_in_car_2019_%283%29.jpg/768px-Labrador_retriever_and_Great_Pyriness_dog_happy_in_car_2019_%283%29.jpg)
 
