@@ -23,4 +23,4 @@ show_author_profile: false
 comment: false
 
 ---
-Hay mucha gente
+Hay mucha gente que, sencillamente, no puede separarse de sus mascotas… ni para viajar. Por fortuna para ellos, actualmente existen muchas facilidades para viajar acompañado de tu perro o tu gato, así como líneas aéreas que los admiten bajo ciertas condiciones y, desde luego, hoteles y otras opciones de hospedaje que son pet-friendly. Por eso, acá te damos algunos tips y consejos para viajar con tu mascota.
