@@ -33,11 +33,7 @@ TE RECOMENDAMOS
 
 Como sucede con cualquier viaje, la planeación y la investigación son vitales para sacarle el mejor jugo a tu viaje. Lo primero es investigar qué **destinos** son adecuados para tu **mascota**, pues no es lo mismo caminar kilómetros tú solo o sola, que hacerlo acompañado, digamos, con tu perro. En segundo lugar, es indispensable verificar qué **hoteles** u opciones de **alojamiento** _pet-friendly_ están disponibles en el lugar al que vas a llegar. 
 
-Si vas a viajar en **autobús** o en **avión**, verifica que te permitan llevar a tu mascota, pues seguramente te exigirán que viaje en una jaula, y es probable que debas dejarla en el compartimiento de equipaje, por lo que quizá tengas que sedarla… algo que inquieta a muchos dueños. Por último, si viajas al extranjero, es muy probable que en el país al que llegues te soliciten un certificado de vacunaciones, así que infórmate muy bien para evitar que tu o tus peludos pasen un momento amargo antes o durante el viaje, o bien cuando lleguen a su destinio.
-
-Practica antes de viajar
-
-Prepara un kit para tu mascota
+Si vas a viajar en **autobús** o en **avión**, verifica que te permitan llevar a tu **mascota**, pues seguramente te exigirán que viaje en una jaula, y es probable que debas dejarla en el compartimiento de equipaje, por lo que quizá tengas que sedarla… algo que inquieta a muchos dueños. Por último, si **viajas al extranjero**, es muy probable que, por cuestiones sanitarias, en el país al que llegues te soliciten un **certificado de vacunaciones**, así que infórmate muy bien para evitar que tú o tus peludos pasen un momento amargo antes o durante el **viaje**, o bien cuando lleguen a su destino.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Pet_health_certificates%2C_Essential_for_International_PCS_travel_160503-F-YM181-002.jpg/1024px-Pet_health_certificates%2C_Essential_for_International_PCS_travel_160503-F-YM181-002.jpg)
 
