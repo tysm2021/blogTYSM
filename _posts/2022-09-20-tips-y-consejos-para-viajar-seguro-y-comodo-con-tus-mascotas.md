@@ -55,4 +55,8 @@ Si es muy grande, llévalo con su collar y su cadena, la cual deberás asegurar 
 
 Durante el viaje, deberás contar con lo siguiente: alimento, medicinas, cadena, collar —¡no olvides que éste tenga su nombre y alguna forma de contactarte, en caso de extravío!—, sus juguetes, agua potable y un tazón para que pueda beber; si es un gato, es recomendable llevar su arenero con arena fresca y limpia…¡a menos que quieras que tus vestiduras terminen oliendo a pipí!; si es un perro, lleva bolsa para la popó, papel periódico y toallitas sanitarias. Si te es posible, consigue una cubierta impermeable para cubrir el asiento y el piso trasero —se pueden conseguir en tiendas para mascotas—, para evitar que termine sucio o, peor, vomitado.
 
-Mantente listo para emergencias
+## Cánsalo y mantente atento
+
+Antes del viaje, es recomendable llevar a tu **mascota** a tomar un paseo largo o, si es joven, incluso que corra un poco; si es un gato, juega con él y hazlo que persiga algo hasta que se vea agotado. De este modo, descargará sus energías y estará menos inquieto en el trayecto. Si el viaje será largo, no descartes pedirle a tu veterinario que lo sede ligeramente para que se duerma durante el viaje. También es recomendable hacer paradas para que pueda bajar y "estirar las patas" —siempre muy bien cuidado y con su collar y cadena, eso sí—, y ten todo lo necesario por si se marea y vomita, o por cualquier otra eventualidad.
+
+¡Listo! Ahora sí están listos para **viajar**. Buen camino y que los disfruten.
