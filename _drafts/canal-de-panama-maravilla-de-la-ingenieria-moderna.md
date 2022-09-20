@@ -16,7 +16,7 @@ article_header:
 sharing: true
 title: 'Canal de Panamá: maravilla de la ingeniería moderna'
 summary: En la parte más angosta del continente americano se encuentra esta obra de
-  ingeniería civil e hidráulica que conecta el Océano Pacífico con el Atlántico
+  ingeniería civil e hidráulica que conecta el Océano Pacífico con el Mar Caribe
 cover: "/images/2022-09-20-panama_canal_trip_1994_01.jpeg"
 tags: mundo paises datos
 show_author_profile: false
