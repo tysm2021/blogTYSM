@@ -51,6 +51,8 @@ Si es muy grande, llévalo con su collar y su cadena, la cual deberás asegurar 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Labrador_retriever_and_Great_Pyriness_dog_happy_in_car_2019_%283%29.jpg/768px-Labrador_retriever_and_Great_Pyriness_dog_happy_in_car_2019_%283%29.jpg)
 
-Ajusta las horas de alimentación
+## Prepara un kit con todo lo necesario
+
+Durante el viaje, deberás contar con lo siguiente: alimento, medicinas, cadena, collar —¡no olvides que éste tenga su nombre y alguna forma de contactarte, en caso de extravío!—, sus juguetes, agua potable y un tazón para que pueda beber; si es un gato, es recomendable llevar su arenero con arena fresca y limpia…¡a menos que quieras que tus vestiduras terminen oliendo a pipí!; si es un perro, lleva bolsa para la popó, papel periódico y toallitas sanitarias. Si te es posible, consigue una cubierta impermeable para cubrir el asiento y el piso trasero —se pueden conseguir en tiendas para mascotas—, para evitar que termine sucio o, peor, vomitado.
 
 Mantente listo para emergencias
