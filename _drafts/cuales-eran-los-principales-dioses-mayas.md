@@ -29,9 +29,15 @@ Conozcamos, pues, a los principales **dioses** y **diosas** **mayas**, los cuale
 
 TE RECOMENDAMOS:
 
-Hunab Ku
+### Hunab Ku
 
-Itzamná
+El dios principal de los mayas. Su nombre significa "un solo dios" o "dios único", y se le considera dios creador y dador del movimiento y de la vida.
+
+![](/images/2022-09-21-1024px-hunabku.jpg)
+
+### Itzamná
+
+Otro dios principal entre los mayas, que se considera dios de los cielos, del día y de la noche, así como un dios creador. Se le representa como un sacerdote o un anciano sin dientes.
 
 Ix Chebel Ya'ax
 
