@@ -49,7 +49,7 @@ Regresando al primer cuadro del **Centro Histórico**, vale la pena dar un vista
 
 ## Catedral de Tlaxcala
 
-La Catedral de Nuestra Señora de la Asunción forma parte del 
+La **Catedral de Nuestra Señora de la Asunción** forma parte del Conjunto Conventual y Catedralicio de Nuestra Señora de la Asunción de Tlaxcala, el cual recientemente fue declarado Patrimonio de la Humanidad por la UNESCO.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Templo_y_Ex_Convento_de_San_Francisco_de_la_Asunci%C3%B3n_de_Nuestra_Se%C3%B1ora%2C_Tlaxcala%2C_Tlax._M%C3%A9xico..JPG/1024px-Templo_y_Ex_Convento_de_San_Francisco_de_la_Asunci%C3%B3n_de_Nuestra_Se%C3%B1ora%2C_Tlaxcala%2C_Tlax._M%C3%A9xico..JPG)
 
