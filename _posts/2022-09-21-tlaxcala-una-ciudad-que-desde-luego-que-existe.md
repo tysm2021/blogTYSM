@@ -49,8 +49,8 @@ Regresando al primer cuadro del **Centro Histórico**, vale la pena dar un vista
 
 ## Catedral de Tlaxcala
 
-La **Catedral de Nuestra Señora de la Asunción** forma parte del Conjunto Conventual y Catedralicio de Nuestra Señora de la Asunción de Tlaxcala, el cual recientemente fue declarado Patrimonio de la Humanidad por la UNESCO.
+La **Catedral de Nuestra Señora de la Asunción** forma parte del Conjunto Conventual y Catedralicio de Nuestra Señora de la Asunción de Tlaxcala, el cual recientemente fue declarado Patrimonio de la Humanidad por la UNESCO. Fue conocido como Templo de San Francisco y es una de las construcciones religiosas más antiguas de México, pues data del año 1530. Cuenta con un pequeño atrio, una capilla abierta y una capilla posa —es decir, una construcción abovedada en una de las esquinas del atrio—, varias capillas internas, un sagrario y el altar principal. 
+
+Además, está el **ex convento** franciscano, que es visible cuando uno ingresa a la ciudad desde San Martín Texmelucan. Y, por si fuera poco, en lo que fuera el claustro del convento se encuentra el **Museo Regional de Tlaxcala**, que consta de cinco salas y donde existen muestras del arte y la arqueología del pueblo **tlaxcalteca**, así como obras de arte sacro, objetos y pinturas de la época colonial. Con todo lo anterior, ¿nos queda claro que **Tlaxcala** sí existe?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Templo_y_Ex_Convento_de_San_Francisco_de_la_Asunci%C3%B3n_de_Nuestra_Se%C3%B1ora%2C_Tlaxcala%2C_Tlax._M%C3%A9xico..JPG/1024px-Templo_y_Ex_Convento_de_San_Francisco_de_la_Asunci%C3%B3n_de_Nuestra_Se%C3%B1ora%2C_Tlaxcala%2C_Tlax._M%C3%A9xico..JPG)
-
-Sitio arqueológico de Tizatlán
