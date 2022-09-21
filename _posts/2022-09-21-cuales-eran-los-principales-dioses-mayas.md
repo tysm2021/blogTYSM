@@ -67,6 +67,6 @@ Su nombre significa "el descarnado", en este sentido similar al dios Xipe-Tótec
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ah_Puch.svg/551px-Ah_Puch.svg.png)
 
-Xtabay
+### Ixtab
 
-Ixtab
+Se le considera **diosa del suicidio**. Su nombre significa "la de la cuerda" y era esposa de **Ah Puch**, el dios de la muerte maya. Curiosamente, en la cultura maya el suicidio era una manera extremadamente honorable de morir, a un nivel similar al de las víctimas del sacrificio humano.
