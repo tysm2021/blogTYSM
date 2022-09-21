@@ -70,3 +70,5 @@ Su nombre significa "el descarnado", en este sentido similar al dios Xipe-Tótec
 ### Ixtab
 
 Se le considera **diosa del suicidio**. Su nombre significa "la de la cuerda" y era esposa de **Ah Puch**, el dios de la muerte maya. Curiosamente, en la cultura maya el suicidio era una manera extremadamente honorable de morir, a un nivel similar al de las víctimas del sacrificio humano.
+
+![](/images/2022-09-21-1024px-itxab.jpg)
