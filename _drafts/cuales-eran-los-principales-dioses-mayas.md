@@ -37,9 +37,11 @@ El dios principal de los mayas. Su nombre significa "un solo dios" o "dios únic
 
 ### Itzamná
 
-Otro dios principal entre los mayas, que se considera dios de los cielos, del día y de la noche, así como un dios creador. Se le representa como un sacerdote o un anciano sin dientes.
+También llamado **Zamná**. Otro dios principal entre los mayas, que se considera **dios de los cielos**, del día y de la noche, así como un dios creador. Se le representa como un sacerdote o un anciano sin dientes.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Zamn%C3%A1_imagen_de_texto..jpg/915px-Zamn%C3%A1_imagen_de_texto..jpg)Ix Chebel Ya'ax
+
+Esposa de 
 
 ### Kukulcán
 
