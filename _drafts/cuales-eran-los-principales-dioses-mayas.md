@@ -39,11 +39,11 @@ El dios principal de los mayas. Su nombre significa "un solo dios" o "dios únic
 
 También llamado **Zamná**. Otro dios principal entre los mayas, que se considera **dios de los cielos**, del día y de la noche, así como un dios creador. Se le representa como un sacerdote o un anciano sin dientes.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Zamn%C3%A1_imagen_de_texto..jpg/915px-Zamn%C3%A1_imagen_de_texto..jpg)Ix Chebel Ya'ax
+### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Zamn%C3%A1_imagen_de_texto..jpg/915px-Zamn%C3%A1_imagen_de_texto..jpg)Ix Chebel Ya'ax
 
-Esposa de 
+Esposa del del dios Zamná. Se le considera diosa de la pintura y del bordado. Se le representaba con una serpiente enroscada en la cabeza y un rollo de algodón.
 
-### Kukulcán
+### ![](/images/2022-09-21-1024px_ixchebel.jpg)Kukulcán
 
 La serpiente emplumada de los mayas, al cual muchos relacionan con el Quetzalcóatl de los toltecas, teotihuacanos y mexicas. Se le reconoce como **dios del viento** o, bien, como dios del trueno.
 
@@ -55,7 +55,11 @@ La serpiente emplumada de los mayas, al cual muchos relacionan con el Quetzalcó
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Chac_%28La_Iglesia%2C_Chich%C3%A9n_Itz%C3%A1%29_2.JPG/1024px-Chac_%28La_Iglesia%2C_Chich%C3%A9n_Itz%C3%A1%29_2.JPG)
 
-Ixchel
+### Ixchel
+
+**Diosa de la Luna.** También se le considera diosa del amor, de la gestación, del agua y de la medicina. También podía convertirse en una diosa maléfica, que vertía cántaros de cólera sobre el mundo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/7a/Ixchel_Dresden_Codex.jpg)
 
 Ah Puch
 
