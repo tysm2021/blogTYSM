@@ -61,7 +61,11 @@ La serpiente emplumada de los mayas, al cual muchos relacionan con el Quetzalcó
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7a/Ixchel_Dresden_Codex.jpg)
 
-Ah Puch
+### Ah Puch
+
+Su nombre significa "el descarnado", en este sentido similar al dios Xipe-Tótec de los mexicas. Se le considera **dios de la muerte** y rey del **Xibalba**, que era el inframundo o reino de los muertos mayas, comparable al Mictlán de los mexicas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ah_Puch.svg/551px-Ah_Puch.svg.png)
 
 Xtabay
 
