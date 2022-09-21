@@ -33,7 +33,13 @@ TE RECOMENDAMOS:
 
 Como buena ciudad mexicana de traza colonial, una buena manera de empezar a recorrerla es llegando al Centro Histórico, donde se pueden ver los edificios principales, que revisaremos más a detalle líneas abajo: la Plaza de la Constitución, la **Catedral**, el **Museo Regional de Tlaxcala**, el **Palacio de Gobierno**, la **Plaza Xicoténcatl**, la Parroquia de San José y los Portales, donde uno puede sentarse a desayunar, comer o tomar un café para tomar energías y seguir con el recorrido.
 
-Basílica de Ocotlán
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Centro%2C_Tlaxcala_de_Xicoht%C3%A9ncatl%2C_Tlax.%2C_Mexico_-_panoramio_%2855%29.jpg/1024px-Centro%2C_Tlaxcala_de_Xicoht%C3%A9ncatl%2C_Tlax.%2C_Mexico_-_panoramio_%2855%29.jpg)
+
+## Basílica de Ocotlán
+
+Se encuentra un poco retirada del Centro y hay que caminar cuesta arriba, pero la vista vale toda la pena del mundo. Su nombre completo es **Santuario y Basílica de Nuestra Señora de Ocotlán**, palabra que se ha traducido como "ocote que arde". Este espléndido conjunto arquitectónico consta del atrio, de unos 50 por 70 metros, bardeado con un muro de ladrillos rojos; la fachada, con su dos esbeltas torres blanqueadas de 33 metros de altura; la fachada, también blanca, que asemeja un retablo cubierto por una concha; la nave del templo, con sus hermosos retablos; el camarín, la antesacristía, las Ocho columnas de tipo salomónico y el Pocito, cuyas aguas —según los creyentes— son curativas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/BasilicadeOcotlan.jpg/1024px-BasilicadeOcotlan.jpg)
 
 Murales del Palacio de Gobierno
 
