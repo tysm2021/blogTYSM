@@ -28,3 +28,13 @@ En memes y redes sociales desde hace algunos años circula la broma de decir que
 A continuación te compartimos algunos de los sitios de mayor interés de la **capital tlaxcalteca**, destacando las **iglesias** y **ex conventos** de su **Centro** Histórico, y siguiendo por algunos **museos** y edificaciones de interés.
 
 TE RECOMENDAMOS:
+
+## Centro Histórico
+
+Como buena ciudad mexicana de traza colonial, una buena manera de empezar a recorrerla es llegando al Centro Histórico, donde se pueden ver los edificios principales, que revisaremos más a detalle líneas abajo: la Plaza de la Constitución, la **Catedral**, el **Museo Regional de Tlaxcala**, el **Palacio de Gobierno**, la **Plaza Xicoténcatl**, la Parroquia de San José y los Portales, donde uno puede sentarse a desayunar, comer o tomar un café para tomar energías y seguir con el recorrido.
+
+Basílica de Ocotlán
+
+Murales del Palacio de Gobierno
+
+Catedral de Tlaxcala
