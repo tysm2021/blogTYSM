@@ -47,6 +47,10 @@ Regresando al primer cuadro del **Centro Histórico**, vale la pena dar un vista
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Palacio_de_Gobierno_de_Tlaxcala_-_Mayo_2019_%283%29.jpg/1024px-Palacio_de_Gobierno_de_Tlaxcala_-_Mayo_2019_%283%29.jpg)
 
-Catedral de Tlaxcala
+## Catedral de Tlaxcala
 
-Museo Regional de Tlaxcala
+La Catedral de Nuestra Señora de la Asunción forma parte del 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Templo_y_Ex_Convento_de_San_Francisco_de_la_Asunci%C3%B3n_de_Nuestra_Se%C3%B1ora%2C_Tlaxcala%2C_Tlax._M%C3%A9xico..JPG/1024px-Templo_y_Ex_Convento_de_San_Francisco_de_la_Asunci%C3%B3n_de_Nuestra_Se%C3%B1ora%2C_Tlaxcala%2C_Tlax._M%C3%A9xico..JPG)
+
+Sitio arqueológico de Tizatlán
