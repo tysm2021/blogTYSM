@@ -35,11 +35,15 @@ Itzamná
 
 Ix Chebel Ya'ax
 
-Kukulcán
+### Kukulcán
+
+La serpiente emplumada de los mayas, al cual muchos relacionan con el Quetzalcóatl de los toltecas, teotihuacanos y mexicas. Se le reconoce como **dios del viento** o, bien, como dios del trueno.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Serpent_head_at_the_base_of_El_Castillo.jpg/1024px-Serpent_head_at_the_base_of_El_Castillo.jpg)
 
 ### Chaac
 
-Dios de la lluvia y de las aguas
+**Dios de la lluvia** y de las aguas, similar al Tláloc de los mexicas. Se le reconoce por su nariz o trompa de forma ganchuda.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Chac_%28La_Iglesia%2C_Chich%C3%A9n_Itz%C3%A1%29_2.JPG/1024px-Chac_%28La_Iglesia%2C_Chich%C3%A9n_Itz%C3%A1%29_2.JPG)
 
