@@ -41,6 +41,12 @@ Se encuentra un poco retirada del Centro y hay que caminar cuesta arriba, pero l
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/BasilicadeOcotlan.jpg/1024px-BasilicadeOcotlan.jpg)
 
-Murales del Palacio de Gobierno
+## Murales del Palacio de Gobierno
+
+Regresando al primer cuadro del **Centro Histórico**, vale la pena dar un vistazo al **Palacio de Gobierno**, que en algún tiempo fue nada menos que una de las casas del conquistador **Hernán Cortés**, cuya construcción empezó en 1545 y que ha albergado a la Alcaldía, la Alhóndiga a las Casas Reales y al gobierno estatal.y donde se pueden admirar unos **murales**, en los que se narra la historia de **Tlaxcala** desde tiempos prehispánicos, y son obra de muralista **tlaxcalteca** Desiderio Hernández **Xochitiotzin**. Algo que que llama mucho la atención es la visión tan distinta que ofrecen de la Conquista, pues muestran a un pueblo tlaxcalteca victorioso y aliado de los españoles, sometiendo a un Imperio Mexica empequeñecido y temeroso.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Palacio_de_Gobierno_de_Tlaxcala_-_Mayo_2019_%283%29.jpg/1024px-Palacio_de_Gobierno_de_Tlaxcala_-_Mayo_2019_%283%29.jpg)
 
 Catedral de Tlaxcala
+
+Museo Regional de Tlaxcala
