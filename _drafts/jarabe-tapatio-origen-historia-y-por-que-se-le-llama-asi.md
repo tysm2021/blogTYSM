@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Todos conocemos —o eso queremos pensar— el Himno Nacional Mexicano, ese que cantábamos todos los lunes en las ceremonias cívicas de las primarias. Pero entre la gente se habla de piezas musicales que son como "**segundos himnos**" que nos representan ante el mundo, tales como el "Huapango" de Moncayo, el "Cielito lindo" o la pieza que nos ocupa en esta ocasión: el "**Jarabe tapatío**". ¿Cuál es el **origen** y la **historia** de esta reconocido **baile regional**, y **por qué se le llama** jarabe, si no es medicinal?
+
+A continuación, una breve semblanza a una de las composiciones más famosas y más sentidas por todos los mexicanos, así como algunos datos curiosos sobre ella.
+
+TE RECOMENDAMOS:
