@@ -37,10 +37,8 @@ Justo enfrente de la casa, en una de los edificios vecinas del oscuro y estrecho
 
 Los enamorados tenían la fortuna de que, debido a lo angosto del callejón, podían tocarse y expresarse su amor con tan sólo estirar un poco sus brazos. Eso les dio la idea de **darse un beso** sin que el padre de la chica los descubriera, pues Don Emiliano era un hombre de armas que, además de buscar siempre a un buen partido de sangre española para casar a su hija, jamás le permitiría que conversara siquiera con alguien que no perteneciera a su misma clase social.
 
-Lamentablemente el plan no funcionó, ya que su papá la descubrió, amenazando de muerte al chico, pero Ana no creyó la amenaza de su padre.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Callejon_del_Beso%2C_terraza_de_los_amantes.JPG/1024px-Callejon_del_Beso%2C_terraza_de_los_amantes.JPG)
 
-Al día siguiente, Don Emiliano al percatarse de que su hija de nueva cuenta se estaba besando con el minero, entró a la habitación empuñando una daga afilada, matando al instante a su propia hija, Carlos asustado y sin poder hacer nada, salió corriendo de la casa de enfrente para no volver jamás.
+Lamentablemente el plan de permanecer a la sombra de Don Emiliano no funcionó, pues el padre de Ana la descubrió, amenazando de muerte al chico si volvía a acercarse a la joven. Pero Ana no creyó la amenaza de su padre y le insistió para que siguieran viéndose todas las noches. A la noche siguiente, Don Emiliano sigilosamente se introdujo a la habitación de su hija, para descubrir que su hija nuevamente se estaba besando con el minero. Así, preso de la ira, entró a la habitación empuñando una filosa daga y, sin dudarlo ni un solo instante, apuñaló a su propia hija, matándola al instante. El pobre Carlos, asustado y sin poder hacer nada, salió corriendo de la casa de enfrente y no se le volvió a ver jamás.
 
-Cuenta la leyenda que si tú visitas el callejón del Beso tienes que darle un beso a tu pareja subiendo hasta el tercer escalón de la parte más angosta del callejón para así tener 15 años de prosperidad y amor.
-
-Si no lo haces, corres el riesgo de padecer siete años de mala suerte.
+Hoy en día, el **Callejón del Beso** es uno de los sitios más visitados del centro de Guanajuato, y todo el tiempo hay guías, niños y personas que se ofrecen a contarte de viva voz la leyenda que se ha transmitido de generación en generación, a cambio de unas monedas. Pero ten cuidado: también cuenta la leyenda que, si visitas el **Callejón del Beso**, tienes que darle un **beso** a tu pareja subiendo hasta el tercer escalón de la parte más angosta del callejón para así gozar de quince años de prosperidad y amor. Porque, si no lo haces, corres el riesgo de padecer siete años de mala suerte…
