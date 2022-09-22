@@ -39,4 +39,4 @@ Cabe mencionar que algunas de las posibles influencias que dieron origen al Jara
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Folkloric_Dance_of_Jalisco%2C_Mexico_in_Puerto_Vallarta.jpg/647px-Folkloric_Dance_of_Jalisco%2C_Mexico_in_Puerto_Vallarta.jpg)
 
-Sobre la denominación de "jarabe", existen dos probables explicaciones
+Sobre la denominación de "**jarabe**", existen dos probables explicaciones: una sostiene que esta palabra, que alude a la sustancia espesa y almibarada que se prepara con caramelo o con frutas, se refiere a la dulzura que derraman las parejas de baile, pues —como ya dijimos— la danza representa un cortejo como el de las aves, el que al final llevaría al apareamiento —no por nada los "jarabes" se prohibieron en la mojigata Colonia—; la otra versión dice que esto obedece a que es una composición compuesta por varias piezas musicales.
