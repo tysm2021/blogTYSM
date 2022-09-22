@@ -23,8 +23,24 @@ show_author_profile: false
 comment: false
 
 ---
-La ciudad de Guanajuato, capital del estado del mismo nombres, es una urbe que aún conserva un sabor y un espíritu propios de la época del Virreinato en México. Sus calles empedradas, sus pasos a desnivel y, sobre todo, en su angostos callejones, cuentan historias y leyendas que ensalzan algunas virtudes o, bien, que erizan la piel por el miedo. La más famosa de ellas, sin duda, es la del Callejón del Beso, un lugar marcado por la fatalidad, los celos y el amor apasionado de dos jóvenes.
+La ciudad de **Guanajuato**, capital del estado del mismo nombres, es una urbe que aún conserva un sabor y un espíritu propios de la época del **Virreinato** en México. Sus calles empedradas, sus pasos a desnivel y, sobre todo, en su angostos callejones, cuentan **historias** y **leyendas** que ensalzan algunas virtudes o, bien, que erizan la piel por el miedo. La más famosa de ellas, sin duda, es la **leyenda** del **Callejón del Beso**, un lugar marcado por la fatalidad, los celos y el **amor** apasionado de dos jóvenes.
 
-Conozcamos de qué va esta famosa leyenda, y sepamos también qué es lo que tenemos que hacer cuando visitemos este pintoresco lugar… no vaya a ser que nos caiga la maldición si no cumplimos con el ritual.
+Conozcamos de qué va esta famosa **leyenda**, y sepamos también qué es lo que tenemos que hacer cuando visitemos este pintoresco lugar… no vaya a ser que nos caiga la maldición si no cumplimos con el ritual.
 
 TE RECOMENDAMOS:
+
+**Guanajuato** fue una población minera que poco a poco fue creciendo y poblándose de gente que resultaba atraída por la riqueza del lugar y por el hallazgo de la abundante plata que era extraída de sus yacimientos. Pero, en un principio, estaba poblada prácticamente sólo por españoles y criollos, los cuales eran muy devotos y celosos de la moral y de los preceptos católicos.
+
+Cuenta la leyenda que, en uno de los muchos callejones de la ciudad Guanajuato vivía una familia acaudalada proveniente del viejo continente, los cuales al llegar a la Nueva España hicieron una fortuna aún mayor gracias a la minería y la habilidad de los negocios que tenía **Don Emiliano**, el patriarca de la familia, quien tenía fama de ser muy estricto con su esposa y con su hija, que se llamaba **Ana** y era una joven muy hermosa a la que le gustaba asomarse al balcón por las noches para poder observar la Kuna y las estrellas.
+
+Justo enfrente de la casa, en una de los edificios vecinas del oscuro y estrecho callejón, estaba una pequeña habitación que ocupaba **Carlos**, un joven mestizo, humilde y sencillo, pero apuesto y de buen corazón, que trabajaba como minero en la rica mina de La Valenciana. Una noche, descubrió a Ana mirando las estrellas y, prendado de su belleza, quedó perdidamente enamorado de ella. Al igual que Ana, él también disfrutaba de la noche, que además le permitía admirar la belleza de la joven española, pues daba la casualidad de que su aposento se ubicaba justo enfrente del balcón de su amada. Esa enorme coincidencia les permitió conocerse, tratarse y, al descubrir muchas afinidades entre ellos, enamorarse.
+
+Los enamorados tenían la fortuna de que, debido a lo angosto del callejón, podían tocarse y expresarse su amor con tan sólo estirar un poco sus brazos. Eso les dio la idea de **darse un beso** sin que el padre de la chica los descubriera, pues Don Emiliano era un hombre de armas que, además de buscar siempre a un buen partido de sangre española para casar a su hija, jamás le permitiría que conversara siquiera con alguien que no perteneciera a su misma clase social.
+
+Lamentablemente el plan no funcionó, ya que su papá la descubrió, amenazando de muerte al chico, pero Ana no creyó la amenaza de su padre.
+
+Al día siguiente, Don Emiliano al percatarse de que su hija de nueva cuenta se estaba besando con el minero, entró a la habitación empuñando una daga afilada, matando al instante a su propia hija, Carlos asustado y sin poder hacer nada, salió corriendo de la casa de enfrente para no volver jamás.
+
+Cuenta la leyenda que si tú visitas el callejón del Beso tienes que darle un beso a tu pareja subiendo hasta el tercer escalón de la parte más angosta del callejón para así tener 15 años de prosperidad y amor.
+
+Si no lo haces, corres el riesgo de padecer siete años de mala suerte.
