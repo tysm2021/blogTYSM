@@ -1827,7 +1827,7 @@ input[id="5"]:checked ~ .pagination-slide .item-pagination[for="5"]{
 
 
 
-.main-menu .nav li a {
+.main-menu .nav li .nav-link {
   color: #FFF;
   font-size: 5vh;
   font-weight: 600;
@@ -2204,4 +2204,30 @@ $marginExternal: 70px 0 50px 0;
 
 .border{
   padding: 45px;
+}
+
+
+.text-white{
+  color: #fff;
+}
+
+.bg-black{
+  background-color: #000;
+color: #fff;
+}
+
+
+.main-menu .nav li .nav-title{
+    color: #FFF;
+    font-size: 2vh;
+    font-weight: 600;
+    text-decoration:none
+
+}
+.main-menu .nav li .nav-links{
+    color: #FFF;
+    font-size: 3vh;
+    font-weight: 600;
+    text-decoration:none
+
 }
