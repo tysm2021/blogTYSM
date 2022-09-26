@@ -35,6 +35,10 @@ Aunque mucho se ha dicho que la tradición del **Día de Muertos** es netamente 
 
 El origen del **Pan de Muerto** está íntimamente ligado a la mezcla de razas y de religiones que tuvo lugar en nuestro país con la Conquista y la colonización española, pues por un lado estaban las tradiciones de los pueblos originarios, pero su existencia no podría justificarse sin la llegada del trigo traído del Europa, así como de la tradición panadera y bizcochera de países como España y Francia. Así, una de las raíces que uno encuentra es el Pan de Ánimas, el cual se bendice y se dedica a los muertos en localidades españolas como Castilla y Aragón, así como en Portugal y Sicilia. Esa tradición, dicen, se mezcló con la de los sacrificios humanos propia de los mexicas y otros pueblos prehispánicos, que servía para ofrendar corazones al dios Huitzilopochtli; con la llegada del cristianismo, tal practica se prohibió y la carne humana fue sustituida con pan.
 
-Lo cierto es que historiadores y arqueólogos actuales han puesto en duda el supuesto origen prehispánico del Pan de Muerto, al que le adjudican más que nada un ánimo nacionalista, concluyendo que su historia está más vinculada con la tradición católica española que con las religiones del México antiguo.
+Lo cierto es que historiadores y arqueólogos actuales han puesto en duda el supuesto origen prehispánico del P**an de Muerto**, al que le adjudican más que nada un ánimo nacionalista, concluyendo que su historia está más vinculada con la tradición católica española que con las religiones del México antiguo.
 
-Simbolismo y significado
+## Simbolismo y significado
+
+El propósito original del **Pan de Muerto** era el de ser colocado en el Altar u **Ofrenda de Muertos**, el cual se coloca los últimos días de octubre, o bien, el 1 de noviembre, cuando se recuerda a los "muertos chicos", que son los niños fallecidos por diversas causas. Aunque hay panes de muerto de diversas formas y "sabores" —por ejemplo, están los panes con forma humana y de color rosado, o los que vienen cubiertos de ajonjolí—, el más reconocido es de forma circular u ovalada, con una bola de pan en la punta y formaciones de pan llamadas "huesos", que es bañado en crema o mantequilla para después ser bañado en azúcar. Algunas variantes modernas los rellenan de nata o crema pastelera, los cubren de chocolate o de amaranto, e incluso les dan formas exóticas como la "conchamuerto".
+
+A continuación, el significado de cada una de sus partes:
