@@ -41,4 +41,26 @@ Lo cierto es que historiadores y arqueólogos actuales han puesto en duda el sup
 
 El propósito original del **Pan de Muerto** era el de ser colocado en el Altar u **Ofrenda de Muertos**, el cual se coloca los últimos días de octubre, o bien, el 1 de noviembre, cuando se recuerda a los "muertos chicos", que son los niños fallecidos por diversas causas. Aunque hay panes de muerto de diversas formas y "sabores" —por ejemplo, están los panes con forma humana y de color rosado, o los que vienen cubiertos de ajonjolí—, el más reconocido es de forma circular u ovalada, con una bola de pan en la punta y formaciones de pan llamadas "huesos", que es bañado en crema o mantequilla para después ser bañado en azúcar. Algunas variantes modernas los rellenan de nata o crema pastelera, los cubren de chocolate o de amaranto, e incluso les dan formas exóticas como la "conchamuerto".
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Entrega_de_pan_de_muerto_2992_%2845336985534%29.jpg/1024px-Entrega_de_pan_de_muerto_2992_%2845336985534%29.jpg)
+
 A continuación, el significado de cada una de sus partes:
+
+#### Forma circular
+
+Según la tradición, el círculo hace alusión al ciclo sin fin de vida y de muerte, el cual también está relacionado con la estación del otoño, cuando los árboles pierden sus hojas y todo parece estar "muriendo", para después renacer en la primavera.
+
+#### Sabor
+
+A menudo, al Pan de Muerto se le añade agua de anís o agua de azahar, la cual es una flor que recuerda a las de los panteones, y alude al recuerdo de los ya fallecidos. Para algunos, el propio pan representa una tumba.
+
+#### Bola superior
+
+A esta bola se le llama "cráneo" y como tal recuerda a la parte principal de un esqueleto, que corresponde a la cabeza. 
+
+#### Canillas
+
+Representan a los huesos de la osamenta, que son el único testimonio material que sobrevive a los siglos después de que una persona muerta. Normalmente se colocan en forma de cruz, por alusión a la "cristiana sepultura".
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pan_de_Muerto_-_4115486988.jpg/1024px-Pan_de_Muerto_-_4115486988.jpg)
+
+Y a ti, ¿te gusta el Pan de Muerto?
