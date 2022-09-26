@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Una de las tradiciones mexicanas más arraigadas y más reconocidas en el extranjero es la del Día de Muertos. De igual forma, uno de los aspectos que más nos gusta a muchos —en especial, a los tragones de la redacción de Toño y su mariachi— es la del delicioso Pan de Muerto, el cual desde finales de septiembre empieza a aparecer en panaderías y en todas sus variantes: tradicional, relleno o en formas exóticas como el "conchamuerto". Pero, a todo eso, ¿conoces su origen, su historia y el significado o simbolismo que esconde detrás de su peculiar forma?
+
+Adentrémonos en esta interesante historia, de preferencia con un chocolatito o un atole, acompañados de una rebanada de Pan de Muerto, para saber un poco más del folclor, las tradiciones y la gastronomía de nuestro hermoso país.
+
+TE RECOMENDAMOS:
