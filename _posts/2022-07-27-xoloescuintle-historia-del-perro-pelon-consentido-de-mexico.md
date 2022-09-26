@@ -27,7 +27,7 @@ En las últimas décadas, en algunas ciudades de México se han puesto de moda u
 
 Demos un vistazo a la historia de los queridos **xoloitzcuintles**, un vocablo náhuatl que es el antecedente de "escuincle", una palabra casi arcaica que se usa para designar a los niños, en especial si son muy latosos.
 
-TE RECOMENDAMOS:
+TE RECOMENDAMOS: 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/XoloLarge1.jpg/914px-XoloLarge1.jpg)
 
