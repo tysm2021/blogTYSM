@@ -37,4 +37,6 @@ Pero de lo que queremos hablar en esta ocasión no es de geología, sino de una 
 
 ### La leyenda
 
-Una de las tantas versiones dice que 'Don Goyo' —que es como se les llama cariñosa o familiarmente a los Gregorios— 
+Una de las tantas versiones dice que '**Don Goyo**' —que es como se les llama cariñosa o familiarmente a los Gregorios— es en realidad un anciano de nombre **Gregorio Chino Popocatépetl**, el cual aparecía de repente en los poblados ubicados a las faldas del coloso, asegurando ser el espíritu encarnado del **volcán**, cuya misión era la de advertir a los pobladores de la futura actividad y erupción del mismo.
+
+Así, los habitantes de **Santiago** **Xalitzintla**, un poblado ubicado en el municipio de San Nicolás de los Ranchos, Estado de México, contiguo al volcán, empezaron a referirse al **Popocatépetl** como **Don Goyo**, mote que empezó a popularizarse entre la población del Valle de México. Los habitantes de ese pueblo, que se ubica a sólo 12 km de la montaña, aseguran ser "los elegidos" para poder comunicarse con el espíritu del **volcán**, razón por la cual los días 12 de marzo de cada año, cuando se celebra a San Gregorio Magno, hacen una fiesta y le hacen ofrendas de flores y alimentos.
