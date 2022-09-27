@@ -23,8 +23,14 @@ show_author_profile: false
 comment: false
 
 ---
-Ya sea por los hermosos paisajes que nos regala, o cuando despierta entre explosiones, fumarolas y emisiones de ceniza, los habitantes del centro de México tienen siempre presente al volcán Popocatépetl, al cual cariñosamente se le conoce con el apodo de 'Don Goyo'. ¿Sabías que, detrás del origen de este sobrenombre existe una leyenda que circula entre quienes habitan a las faldas del poderoso volcán?
+Ya sea por los hermosos paisajes que nos regala, o cuando despierta entre explosiones, **fumarolas** y emisiones de ceniza, los habitantes del centro de **México** tienen siempre presente al **volcán** **Popocatépetl**, al cual cariñosamente se le conoce con el **apodo** de '**Don Goyo**'. ¿Sabías que, detrás del **origen** de este **sobrenombre** existe una **leyenda** que circula entre quienes habitan a las faldas del poderoso **volcán**?
 
-A continuación te contamos una de las tantas versiones que se cuentan de esta leyenda, la cual ha pasado de generación en generación y dan fe del respeto que se le tiene a este coloso que, Dios no lo quiera, cualquier día puede despertar…
+A continuación te contamos una de las tantas versiones que se cuentan de esta **leyenda**, la cual ha pasado de generación en generación y dan fe del respeto que se le tiene a este coloso que, Dios no lo quiera, cualquier día puede despertar…
 
 TE RECOMENDAMOS:
+
+El **Popocatépetl** —cuyo nombre, en náhuatl, significa "cerro que humea"— es un **volcán** activo que se encuentra en la frontera de los estados de Puebla, Morelos y el Estado de México. Se alza a unos 5500 metros sobre el nivel del mar y desde que se reactivó en diciembre de 1994, con frecuencia presenta explosiones, fumarolas, emisiones de gas y ceniza, y ocasionalmente erupciones que hasta el momento no han sido demasiado graves.
+
+Pero de lo que queremos hablar en esta ocasión no es de geología, sino de una de las tantas leyendas que circulan acerca de "El Popo", como también se le conoce entre los habitantes del Valle de México, pues así como se habla de que en un origen fue un poderoso guerrero que vela el sueño del volcán vecino, su amada Iztaccíhuatl, "la mujer dormida", también se dice que uno de sus nombres es Don Goyo, el cual a veces se aparece en forma de anciano para advertir a los pobladores de una futura erupción. Acompáñanos a conocer esta leyenda.
+
+La leyenda
