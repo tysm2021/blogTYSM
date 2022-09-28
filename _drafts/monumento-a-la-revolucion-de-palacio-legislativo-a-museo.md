@@ -28,3 +28,7 @@ Si uno sale del Centro Histórico de la CDMX con dirección a la Alameda Central
 Pero, ¿sabías que originalmente iba a ser el **Palacio Legislativo** del gobierno de Porfirio Díaz, que fue abandonado y que después la estructura metálica se adaptó para convertirse en el **monumento** que conocemos actualmente? Acompáñanos a conocer esta apasionante **historia**…
 
 TE RECOMENDAMOS:
+
+A finales del siglo XIX, el entonces presidente Porfirio Díaz lanzó una convocatoria para diseñar y construir el nuevo Palacio Legislativo, pero como nadie resultó ganador, el propio Díaz designó al arquitecto francés Émile Bernard para encargarse de tal magna obra. Sin embargo, el estallido de la Revolución Mexicana echó por tierra el proyecto, ya que Don Porfirio sólo pudo poner la primera piedra el 23 de septiembre de 1910, y tras el conflicto armado, su renuncia al poder y la inestabilidad política que reinó en el país, la obra quedó inconclusa.
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/8c/Palacio_Legislativo_Mexico_%28Maqueta%29.jpg)
