@@ -23,8 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
-Si uno sale del Centro Histórico de la CDMX con dirección a la Alameda Central y el Paseo de la Reforma, se topa con su colosal e inconfundible figura, la cual ha sido reproducida en los símbolos de una estación del metro y del metrobús, y hasta en el logotipo de un extinto partido político. Se trata del Monumento a la Revolución, que además de tener una gran explanada con fuentes, un mirador, y de resguardar los restos de algunos de los héroes de la Revolución Mexicana, alberga al Museo de la Revolución.
+Si uno sale del Centro Histórico de la CDMX con dirección a la Alameda Central y el Paseo de la Reforma, se topa con su colosal e inconfundible figura, la cual ha sido reproducida en los símbolos de una estación del metro y del metrobús, y hasta en el logotipo de un extinto partido político. Se trata del **Monumento a la Revolución**, un homenaje a nuestra **historia** que, además de tener una gran explanada con fuentes, un mirador y resguardar los restos de algunos de los héroes de la **Revolución Mexicana**, alberga al **Museo de la Revolución**.
 
-Pero, ¿sabías que originalmente iba a ser el Palacio Legislativo del gobierno de Porfirio Díaz, que fue abandonado y que después la estructura metálica se adaptó para convertirse en el monumento que conocemos actualmente? Acompáñanos a conocer esta apasionante historia…
+Pero, ¿sabías que originalmente iba a ser el **Palacio Legislativo** del gobierno de Porfirio Díaz, que fue abandonado y que después la estructura metálica se adaptó para convertirse en el **monumento** que conocemos actualmente? Acompáñanos a conocer esta apasionante **historia**…
 
 TE RECOMENDAMOS:
