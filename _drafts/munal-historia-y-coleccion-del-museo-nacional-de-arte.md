@@ -23,8 +23,15 @@ show_author_profile: false
 comment: false
 
 ---
-En nuestro país, los museos más grandes e importantes son llamados Museo Nacionales, como el de Antropología, el de Historia y, en este caso, el **Museo Nacional de Arte**, ubicado en la calle de **Tacuba** del Centro Histórico de la CDMX, en lo que fuera el Palacio de la Secretaría de Comunicaciones y Obras Públicas, y contiene valiosas piezas y obras de arte de prácticamente toda la historia del país, desde el periodo virreinal hasta el siglo XX. Además, el edificio en sí mismo es bellísimo y a las afueras del mismo, en la Plaza Manuel Tolsá, su arquitectura se ve adornada con la famosa escultura conocida como "El Caballito".
+En nuestro país, los museos más grandes e importantes son llamados Museo Nacionales, como el de Antropología, el de Historia y, en este caso, el **Museo Nacional de Arte**, ubicado en la calle de **Tacuba** del Centro Histórico de la CDMX, en lo que fuera el **Palacio de la Secretaría de Comunicaciones y Obras Públicas**, y contiene valiosas piezas y obras de **arte** de prácticamente toda la historia del país, desde el periodo virreinal hasta el siglo XX. Además, el edificio en sí mismo es bellísimo y a las afueras del mismo, en la **Plaza Manuel Tols**á, su arquitectura se ve adornada con la famosa escultura conocida como "**El Caballito**".
 
-Recorramos juntos, pues, este importante museo y parte de su colección, adentrándonos así en una parte esencial de la historia del arte mexicano de los siglos XVI al XX.
+Recorramos juntos, pues, este importante **museo** y parte de su colección, adentrándonos así en una parte esencial de la historia del arte mexicano de los siglos XVI al XX.
 
 TE RECOMENDAMOS:
+
+Según se dice en su [**página web**](http://www.munal.mx/es/visita) oficial, "El **Museo Nacional de Arte** tiene la función de conservar, exhibir, estudiar y difundir **obras de arte** producidas en **México** entre la segunda mitad del siglo XVI y la primera mitad del siglo XX, con lo cual ofrece una visión global y sintetizada de la historia del arte mexicano de este periodo". Se ubica en lo que fuera el antiguo Palacio de las Secretaría de Comunicaciones y Obras Públicas, el cual fue construido entre 1904 y 1911, bajo las órdenes del presidente Porfirio Díaz y con el diseño original de italiano Silvio Contri.
+
+El **MUNAL** —como se le conoce coloquial y cariñosamente por los asistentes— fue inaugurado en el año de 1982, y su colección permanente está dividida en tres grandes secciones, ordenadas cronológicamente: Asimilación de Occidente 1550-1821; La Academia de San Carlos, Ilustración e Independencia; y El Siglo XX en el XXI, Colección del Museo Nacional de Arte. Además, está la llamada Gliptoteca, donde se exhiben esculturas mexicanas de los siglos XIX y XX.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Museo_Nacional_de_Arte_%28MUNAL%29_-_Ciudad_de_M%C3%A9xico_-_Escultura.jpg/1024px-Museo_Nacional_de_Arte_%28MUNAL%29_-_Ciudad_de_M%C3%A9xico_-_Escultura.jpg)  
+ 
