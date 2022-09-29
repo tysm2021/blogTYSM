@@ -34,4 +34,6 @@ Según se dice en su [**página web**](http://www.munal.mx/es/visita) oficial, "
 El **MUNAL** —como se le conoce coloquial y cariñosamente por los asistentes— fue inaugurado en el año de 1982, y su colección permanente está dividida en tres grandes secciones, ordenadas cronológicamente: Asimilación de Occidente 1550-1821; La Academia de San Carlos, Ilustración e Independencia; y El Siglo XX en el XXI, Colección del Museo Nacional de Arte. Además, está la llamada Gliptoteca, donde se exhiben esculturas mexicanas de los siglos XIX y XX.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Museo_Nacional_de_Arte_%28MUNAL%29_-_Ciudad_de_M%C3%A9xico_-_Escultura.jpg/1024px-Museo_Nacional_de_Arte_%28MUNAL%29_-_Ciudad_de_M%C3%A9xico_-_Escultura.jpg)  
- 
+La primera parte de la colección permanente inicia con el periodo virreinal, donde destaca la obra pictórica de artistas como José de Ibarra, Baltasar de Echave, Cristóbal de Villalpando y el gran **Miguel Cabrera**, considerado por los expertos como uno de los más grandes exponente de la pintura novohispana, que aunque tenía gran influencia de la academia española, contaba con rasgos propios que la distinguían como los principios de la **pintura** y del arte netamente mexicanos.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Miguel_Cabrera_-_The_Virgin_of_the_Apocalypse_-_Google_Art_Project.jpg/1067px-Miguel_Cabrera_-_The_Virgin_of_the_Apocalypse_-_Google_Art_Project.jpg)
