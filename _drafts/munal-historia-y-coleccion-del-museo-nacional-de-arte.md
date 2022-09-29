@@ -23,3 +23,4 @@ show_author_profile: false
 comment: false
 
 ---
+En nuestro país, los museos más grandes e importantes son llamados Museo Nacionales, como el de Antropología, el de Historia y, en este caso, el Museo Nacional de Arte, ubicado en la calle de Tacuba del Centro Histórico de la CDMX. 
