@@ -23,4 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
-En nuestro país, los museos más grandes e importantes son llamados Museo Nacionales, como el de Antropología, el de Historia y, en este caso, el Museo Nacional de Arte, ubicado en la calle de Tacuba del Centro Histórico de la CDMX. 
+En nuestro país, los museos más grandes e importantes son llamados Museo Nacionales, como el de Antropología, el de Historia y, en este caso, el **Museo Nacional de Arte**, ubicado en la calle de **Tacuba** del Centro Histórico de la CDMX, en lo que fuera el Palacio de la Secretaría de Comunicaciones y Obras Públicas, y contiene valiosas piezas y obras de arte de prácticamente toda la historia del país, desde el periodo virreinal hasta el siglo XX. Además, el edificio en sí mismo es bellísimo y a las afueras del mismo, en la Plaza Manuel Tolsá, su arquitectura se ve adornada con la famosa escultura conocida como "El Caballito".
+
+Recorramos juntos, pues, este importante museo y parte de su colección, adentrándonos así en una parte esencial de la historia del arte mexicano de los siglos XVI al XX.
+
+TE RECOMENDAMOS:
