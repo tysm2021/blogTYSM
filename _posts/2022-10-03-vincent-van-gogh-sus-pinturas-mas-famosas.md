@@ -33,7 +33,7 @@ TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg/781px-Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg)
 
-Comenzamos con esta pintura, que es muy conocida y ha sido reproducida infinidad de veces en cuadro para decorar cualquier casa, playeras, bolsos y otros productos. Se trata de un óleo sobre tela que **Van Gogh** pintó en el año 1888 y forma parte de una serie de naturalezas muertas. Es una de las muchas obras que realizó en el pueblo francés de Arlés, donde llevó a cabo gran parte de su mejor producción. El cuadro mide 92.1 × 73 centímetros y se exhibe en la National Gallery de Londres, Inglaterra.
+Comenzamos con esta pintura, que es muy conocida y ha sido reproducida infinidad de veces en cuadros para decorar cualquier casa, playeras, bolsos y otros productos. Se trata de un óleo sobre tela que **Van Gogh** pintó en el año 1888 y forma parte de una serie de naturalezas muertas. Es una de las muchas obras que realizó en el pueblo francés de Arlés, donde llevó a cabo gran parte de su mejor producción. El cuadro mide 92.1 × 73 centímetros y se exhibe en la National Gallery de Londres, Inglaterra.
 
 ## La noche estrellada
 
