@@ -28,3 +28,9 @@ comment: false
 Como en Toño y su mariachi nos gusta conocer y compartir todo lo bueno de México y del mundo, a continuación conoceremos algunas de l**as pinturas más famosas de Vincent van Gogh**, varias de las cuales son **autorretratos** del **pintor**, que fue un ser atormentado y un **artista** incomprendido en su tiempo.
 
 TE RECOMENDAMOS:
+
+## Girasoles
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg/781px-Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg)
+
+Comenzamos con esta pintura, que es muy conocida y ha sido reproducida infinidad de veces en cuadro para decorar cualquier casa, playeras, bolsos y otros productos. Se trata de un óleo sobre tela que **Van Gogh** pintó en el año 1888 y forma parte de una serie de naturalezas muertas. Es una de las muchas obras que realizó en el pueblo francés de Arles, donde llevó a cabo gran parte de su mejor producción. El cuadro mide 92.1 × 73 centímetros y se exhibe en la National Gallery de Londres, Inglaterra.
