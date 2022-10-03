@@ -23,8 +23,12 @@ show_author_profile: false
 comment: false
 
 ---
-El sureste mexicano, con sus abundantes ríos y su clima selvático, es ampliamente conocido por su maravillas naturales que invitan a realizar el llamado turismo de aventura y el ecoturismo. Una de esas impresionantes maravillas de la naturaleza es el Cañón del Sumidero, que se encuentra en el estado de Chiapas, y que es un impresionante y angosto canal natural formado por el cauce del río Grijalva.
+El sureste mexicano, con sus abundantes ríos y su clima selvático, es ampliamente conocido por su maravillas naturales que invitan a realizar el llamado **turismo de aventura** y el **ecoturismo**. Una de esas impresionantes maravillas de la naturaleza es el **Cañón del Sumidero**, que se encuentra en el estado de **Chiapas**, y que es un impresionante y angosto canal natural formado por el cauce del **río Grijalva**.
 
-Acompáñanos a recorrer, aunque sea de forma electrónica, este famoso cañón mexicano, conoce un poco de su historia y de las maravillosas actividades que, como turista, puedes realizar en él.
+Acompáñanos a recorrer, aunque sea de forma electrónica, este famoso cañón mexicano, conoce un poco de su **historia** y de las maravillosas **actividades** que, como **turista**, puedes realizar en él.
 
 TE RECOMENDAMOS: 
+
+El fabuloso **Cañón del Sumidero** es un paso estrecho natural de gran profundidad, que se encuentra a cinco kilómetros de la ciudad de Tuxtla Gutiérrez, en el municipio de Chiapa de Corzo, **Chiapas**. Su formación se le debe al cauce del caudaloso **río Grijalva**, que tiene una profundidad de 250 metros, y el Cañón tiene un acantilado que alcanza los 1000 metros sobre el nivel del mar. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Canyon_sumidero_desde_arriba.jpg/682px-Canyon_sumidero_desde_arriba.jpg)
