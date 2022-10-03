@@ -33,10 +33,16 @@ TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg/781px-Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg)
 
-Comenzamos con esta pintura, que es muy conocida y ha sido reproducida infinidad de veces en cuadro para decorar cualquier casa, playeras, bolsos y otros productos. Se trata de un óleo sobre tela que **Van Gogh** pintó en el año 1888 y forma parte de una serie de naturalezas muertas. Es una de las muchas obras que realizó en el pueblo francés de Arles, donde llevó a cabo gran parte de su mejor producción. El cuadro mide 92.1 × 73 centímetros y se exhibe en la National Gallery de Londres, Inglaterra.
+Comenzamos con esta pintura, que es muy conocida y ha sido reproducida infinidad de veces en cuadro para decorar cualquier casa, playeras, bolsos y otros productos. Se trata de un óleo sobre tela que **Van Gogh** pintó en el año 1888 y forma parte de una serie de naturalezas muertas. Es una de las muchas obras que realizó en el pueblo francés de Arlés, donde llevó a cabo gran parte de su mejor producción. El cuadro mide 92.1 × 73 centímetros y se exhibe en la National Gallery de Londres, Inglaterra.
 
 ## La noche estrellada
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/970px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 
 Probablemente la **pintura** más **famosa** de **Van Gogh** y, sin duda, uno de los cuadros más célebres en todo el mundo. La obra es un óleo sobre tela de 73.7×92.1 centímetros que retrata el cielo nocturno de Saint-Rémy-de-Provence, desde el punto de vista de la ventana del cuarto que **Vincent** ocupaba en el manicomio local, y fue pintada en junio de 1889. Según el propio autor le contó a su hermano en las cartas que le escribía, ese era el panorama que veía poco antes del amanecer, aunque añadió una aldea imaginaria. La obra ha sido estudiada, analizada e interpretada por especialistas, quienes han visto en ella simbolismos religiosos, espirituales, astronómicos y hasta signos de las enfermedades físicas y mentales que sufría el holandés.
+
+## El dormitorio en Arlés
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg/968px-Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg)
+
+Otra de las **obras** más **celebres** del artista, que como su nombre lo indica retrata la modesta habitación en la que vivía en el poblado francés de Arlés. Este óleo sobre tela de 72 x90 centímetros forma parte de una serie de pinturas similares —alfo que Van Gogh hacía con frecuencia: pintar varias veces el mismo objeto o paisaje, las cuales se distinguen entre sí por los cuadros que cuelgan en las paredes. 
