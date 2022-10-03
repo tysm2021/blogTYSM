@@ -52,3 +52,9 @@ Otra de las **obras** más **celebres** del artista, que como su nombre lo indic
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1e/Portrait_of_Dr._Gachet.jpg)
 
 Este cuadro de un sujeto de expresión melancólica, recargado en su brazo derecho que apoya sobre unos libros situados en una mesa donde, además, se aprecia un vaso que hace las veces de florero, es una obra que **Van Gogh** pintó en 1890 y es la primera versión de otra de sus series. El sujeto retratado no es sino **Paul Gachet**, quien era el médico de cabecera de **Vincent** y quien cuidó de él durante sus últimos meses de vida. Esta versión fue comprada en una subasta por el japonés Ryoei Saito, y forma parte de su colección privada; una segunda versión perteneció al propio doctor **Gachet**, la cual fue donada por sus herederos al estado francés y actualmente se exhibe en el Museo d'Orsay.
+
+## Autorretrato
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Self-Portrait_%28Van_Gogh_September_1889%29.jpg/851px-Self-Portrait_%28Van_Gogh_September_1889%29.jpg)
+
+Los estudios de su vida y obra dicen que **Vincent van Gogh** pintó más de cuarenta **autorretratos**, a veces con barba, otras sin ella, con sombrero o sin él, y hasta con un vendaje de cuando se cortó —o le cortaron— la oreja derecha. La **obra** que aquí presentamos es, quizá, la más famosa de esta enorme serie de **retratos** que el artista pintó de sí mismo y data de septiembre de 1889; se le reconoce por la tupida barba rojiza, por la mirada firme hacia el espectador, por la cabeza girada a la derecha —para disimular su oreja faltante— y por los vigorosos trazos azules que conforman el fondo. Este célebre óleo mide 65x54 centímetros y se exhibe en el Museo d'Orsay.
