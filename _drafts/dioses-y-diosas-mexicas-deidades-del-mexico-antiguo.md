@@ -39,13 +39,21 @@ Así como en el cristianismo se habla de Adán y Eva, en la religión de los mex
 
 ### Huitzilopochtli
 
-El dios principal de los mexicas. Su nombre significa 'colibrí zurdo' o 'colibrí del sur'. Se le reconoce principalmente como dios de la guerra, aunque también se le asocia con el Sol y con el fuego. Fue él quien ordenó a las tribus nahuatlacas salir de la mítica Aztlán y migrar hacia el Valle de México. En su honor se levantó una de las torres del Templo Mayor y se le dedicaban sacrificios humanos. También se le vinculaba con las águilas, que son cazadoras diurnas. 
+El dios principal de los mexicas. Su nombre significa 'colibrí zurdo' o 'colibrí del sur'. Se le reconoce principalmente como **dios de la guerra**, aunque también se le asocia con el Sol y con el fuego. Fue él quien ordenó a las tribus nahuatlacas salir de la mítica Aztlán y migrar hacia el Valle de México. En su honor se levantó una de las torres del Templo Mayor y se le dedicaban sacrificios humanos. También se le vinculaba con las águilas, que son cazadoras diurnas. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Huitzilopochtli_V.svg/712px-Huitzilopochtli_V.svg.png)
 
-Quetzalcóatl
+## Quetzalcóatl
 
-Tláloc
+Uno de los dioses más complejos del panteón mexica. Su nombre significa 'serpiente emplumada' o 'serpiente de plumas preciosas' y fue uno de los primeros dioses que fueron creados. Principalmente se le conoce como **dios de la vida**, de la luz, la fertilidad, la civilización y el conocimiento, aunque también es señor de los vientos, en su manifestación de Ehécatl. También se le asociaba con el planeta Venus o "estrella matutina" y se le consideraba el 'gemelo precioso' de Xólotl, la estrella vespertina.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Quetzalcoatl_V.svg/878px-Quetzalcoatl_V.svg.png)
+
+### Tláloc
+
+Otro de los dioses principales de los mexicas, pues siendo **dios de la lluvia** de él dependían las cosechas que proveían el alimento y, por ende, el sustento del imperio. También fue uno de los primeros dioses creados, y en su honor se erigió la segunda torre del Templo Mayor. Se le consideraba también la deidad del rayo y de los terremotos. Sus colores eran el turquesa y el negro, y en su honor también se realizaban sacrificios de animales y humanos.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tlaloc_glyph.svg/609px-Tlaloc_glyph.svg.png)
 
 Tezcatlipoca
 
