@@ -107,7 +107,7 @@ Diosa lunar o **diosa de la Luna**, función que cumple de forma parelela con la
 
 ### Ehécatl
 
-Dios del viento. Se le considera una de las advocaciones o manifestaciones del dios Quetzalcóatl y se le representaba con un caracol.
+**Dios del viento**. Se le considera una de las advocaciones o manifestaciones del dios Quetzalcóatl y se le representaba con un caracol.
 
 ### Tonatiuh
 
@@ -115,10 +115,18 @@ Dios del viento. Se le considera una de las advocaciones o manifestaciones del d
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/94/Tonatiuh_1.jpg)
 
-Ameyalli
+### Centéotl
 
-Centéotl
+Dios del maíz, se le consideraba de gran importancia por ser el grano principal en la alimentación del pueblo mexica.
 
-Xochipilli
+### Xochiquetzal
 
-Mayáhuel
+'Flor preciosa', era la diosa asociada a la belleza, las flores, el amor carnal, el placer amoroso y las artes. Se creía que había nacido de los cabellos de la diosa madre.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Xochiquetzal.svg/699px-Xochiquetzal.svg.png)
+
+### Mayáhuel
+
+**Diosa del maguey**, del pulque y, por extensión, de las bebidas alcohólicas obtenidas del agave y de la embriaguez.
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/2e/May%C3%A1huel_1.jpg)
