@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Durante los siglos XIV, XV y parte del siglo XVI, el centro de México y gran parte de nuestro territorio actual —e incluso partes de Centroamérica— fue dominado por el gran Imperio Mexica, el cual impuso un sistema religioso basado en un conjunto de dioses y dioses con profundos simbolismos y funciones sociales, económicas y militares. Pero, en resumen, ¿cuáles eran los principales dioses y diosas mexicas?
+
+Acá te compartimos una breve lista de las deidades más relevantes del mundo mexica, las cuales eran representadas en esculturas, relieves, pinturas y otras manifestaciones de arte, y a las cuales se les rendía culto en templos y palacios, e incluso se les ofrecían sacrificios de animales… y de humanos.
+
+TE RECOMENDAMOS: 
