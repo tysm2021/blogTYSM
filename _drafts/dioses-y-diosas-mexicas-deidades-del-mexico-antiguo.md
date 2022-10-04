@@ -37,9 +37,11 @@ Así como en el cristianismo se habla de Adán y Eva, en la religión de los mex
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Omecihuatl-Ometecuhtli_borgia.jpg/923px-Omecihuatl-Ometecuhtli_borgia.jpg)
 
-Huitzilopochtli
+### Huitzilopochtli
 
-El dios principal de los 
+El dios principal de los mexicas. Su nombre significa 'colibrí zurdo' o 'colibrí del sur'. Se le reconoce principalmente como dios de la guerra, aunque también se le asocia con el Sol y con el fuego. Fue él quien ordenó a las tribus nahuatlacas salir de la mítica Aztlán y migrar hacia el Valle de México. En su honor se levantó una de las torres del Templo Mayor y se le dedicaban sacrificios humanos. También se le vinculaba con las águilas, que son cazadoras diurnas. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Huitzilopochtli_V.svg/712px-Huitzilopochtli_V.svg.png)
 
 Quetzalcóatl
 
