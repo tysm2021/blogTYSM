@@ -55,7 +55,11 @@ Otro de los dioses principales de los mexicas, pues siendo **dios de la lluvia**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tlaloc_glyph.svg/609px-Tlaloc_glyph.svg.png)
 
-Tezcatlipoca
+### Tezcatlipoca
+
+Podría considerarse como el gran antagonista de los dioses mexicas. Su nombre se traduce como 'espejo que humea' y fue uno de los dioses primigenios y su interpretación es muy compleja: también se le considera gemelo de Quetzalcóatl —que sería el lado blanco, mientras que Tezcatlipoca es el negro— y, de hecho, algunos lo consideran la principal deidad en toda Mesoamérica. Se le llama dios de la providencia, de lo invisible, de la oscuridad, creador del Cielo y la Tierra y señor de todas las cosas, que otorga y quita a su voluntad.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Black_Tezcatlipoca.jpg/1024px-Black_Tezcatlipoca.jpg)
 
 Xipe Tótec
 
