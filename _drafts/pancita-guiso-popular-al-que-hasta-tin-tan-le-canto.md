@@ -29,7 +29,10 @@ Revisemos la historia, alguna receta y los detalles de la "rica pancita", como s
 
 TE RECOMENDAMOS:
 
-Dice la lyenda
+Dice una **leyenda** que la **pancita** o el **menudo** tienen su origen en España, donde se le conocía como "callos" o "pedazos de estómago". Aunque es en los terrenos conquistados como las Filipinas, el Perú y la Nueva España —que no es otra cosa sino el nombre que recibía México durante el Virreinato— donde adquirió la receta y el sabor que conocemos hoy.
 
+Una leyenda sobre este origen virreinal dice que, antiguamente, los carniceros vendían muy cara la pulpa de res —es decir, la carne—, razón por la cual los más pobres —es decir, los indígenas y los mestizos— no podían adquirirla. Otra versión dice que, más bien, no se les pegaba la gana expenderla, pues decían que "era comida para blancos, no para indios", de modo que éstos tenían que conformarse con las vísceras, las tripas y el estómago.
+
+Así fue —continúa el relato— que a alguno le vino la afortunada
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uoN_7PVRrX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
