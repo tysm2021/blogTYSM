@@ -74,3 +74,13 @@ Xólotl
 Ehécatl
 
 Mictlatecuhtli
+
+Tonatiuh
+
+Ameyalli
+
+Centéotl
+
+Xochipilli
+
+Mayáhuel
