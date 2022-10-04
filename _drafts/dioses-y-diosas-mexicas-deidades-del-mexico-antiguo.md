@@ -49,4 +49,28 @@ Tezcatlipoca
 
 Xipe Tótec
 
- Xiuhtecuhtli
+Xiuhtecuhtli
+
+## Diosas principales
+
+Coatlicue
+
+Chalchiuhtlicue
+
+Tonantzin
+
+Cihuacóatl
+
+### Coyoxauhqui
+
+Meztli
+
+Mictecacíhuatl
+
+## Otras deidades
+
+Xólotl
+
+Ehécatl
+
+Mictlatecuhtli
