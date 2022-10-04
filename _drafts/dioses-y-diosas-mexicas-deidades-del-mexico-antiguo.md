@@ -57,21 +57,35 @@ Otro de los dioses principales de los mexicas, pues siendo **dios de la lluvia**
 
 ### Tezcatlipoca
 
-Podría considerarse como el gran antagonista de los dioses mexicas. Su nombre se traduce como 'espejo que humea' y fue uno de los dioses primigenios y su interpretación es muy compleja: también se le considera gemelo de Quetzalcóatl —que sería el lado blanco, mientras que Tezcatlipoca es el negro— y, de hecho, algunos lo consideran la principal deidad en toda Mesoamérica. Se le llama dios de la providencia, de lo invisible, de la oscuridad, creador del Cielo y la Tierra y señor de todas las cosas, que otorga y quita a su voluntad.
+Podría considerarse como el gran antagonista de los dioses mexicas. Su nombre se traduce como 'espejo que humea' y fue uno de los dioses primigenios y su interpretación es muy compleja: también se le considera gemelo de Quetzalcóatl —que sería el lado blanco, mientras que Tezcatlipoca es el negro— y, de hecho, algunos lo consideran la principal deidad en toda Mesoamérica. Se le llama **dios de la providencia**, de lo invisible, de la oscuridad, creador del Cielo y la Tierra y señor de todas las cosas, que otorga y quita a su voluntad.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Black_Tezcatlipoca.jpg/1024px-Black_Tezcatlipoca.jpg)
 
-Xipe Tótec
+### Xipe Tótec
 
-'Nuestro señor el desollado', se le representaba como un hombre al que se le había arrancado la piel. En su honor se realizaba ese cruel sacrificio y se le considera uno de los dioses más antiguos de los mexicas, probablemente traído desde su migración del norte de México. 
+'Nuestro señor el desollado', se le representaba como un hombre al que se le había arrancado la piel. En su honor se realizaba ese cruel sacrificio y se le considera uno de los dioses más antiguos de los mexicas, probablemente traído desde su migración del norte de México. Es una **deidad de vida, muerte y resurrección**, asociada a la agricultura y a la vegetación
 
-Xiuhtecuhtli
+![](https://upload.wikimedia.org/wikipedia/commons/f/f1/Xipetotec_Codex_Borgia.jpg)
+
+### Xiuhtecuhtli
+
+Su nombre completo era Huehuetéotl Xiuhtecuhtli, que significa 'Nuestro viejo señor del fuego', pues se le representaba como un anciano. Esencialmente era **dios del fuego y del calor**, y su representación era un alacrán, por la sensación caliente que genera su picadura.
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/be/Xiuhtecuhtli_3.jpg)
 
 ## Diosas principales
 
-Coatlicue
+### Coatlicue
 
-Chalchiuhtlicue
+'La de la falda de serpientes', era la diosa madre de Huitzilopochtli, de Coyolxauhqui y de los cuatrocientos surianos, que no son otros sino las estrellas del firmamento. Era la **diosa de la fertilidad** y se le veneraba como la madre de los dioses.
+
+ ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/20041229-Coatlicue_%28Museo_Nacional_de_Antropolog%C3%ADa%29_MQ-3.jpg/494px-20041229-Coatlicue_%28Museo_Nacional_de_Antropolog%C3%ADa%29_MQ-3.jpg)
+
+### Chalchiuhtlicue
+
+'La que tiene su falda de jade', era la **diosa de las aguas, de los lagos y las corrientes de agua**. Esposa del Tláloc, dios de la lluvia. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chalchiuhtlicue_copy.jpg/640px-Chalchiuhtlicue_copy.jpg)
 
 Tonantzin
 
@@ -81,8 +95,6 @@ Cihuacóatl
 
 Meztli
 
-Mictecacíhuatl
-
 ## Otras deidades
 
 Xólotl
@@ -90,6 +102,8 @@ Xólotl
 Ehécatl
 
 Mictlatecuhtli
+
+Mictecacíhuatl
 
 Tonatiuh
 
