@@ -77,7 +77,7 @@ Su nombre completo era Huehuetéotl Xiuhtecuhtli, que significa 'Nuestro viejo s
 
 ### Coatlicue
 
-'La de la falda de serpientes', era la diosa madre de Huitzilopochtli, de Coyolxauhqui y de los cuatrocientos surianos, que no son otros sino las estrellas del firmamento. Era la **diosa de la fertilidad** y se le veneraba como la madre de los dioses.
+'La de la falda de serpientes', era la **diosa madre** de Huitzilopochtli, de Coyolxauhqui y de los cuatrocientos surianos, que no son otros sino las estrellas del firmamento. Era la **diosa de la fertilidad** y se le veneraba como la madre de los dioses.
 
  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/20041229-Coatlicue_%28Museo_Nacional_de_Antropolog%C3%ADa%29_MQ-3.jpg/494px-20041229-Coatlicue_%28Museo_Nacional_de_Antropolog%C3%ADa%29_MQ-3.jpg)
 
@@ -109,7 +109,11 @@ Diosa lunar o **diosa de la Luna**, función que cumple de forma parelela con la
 
 Dios del viento. Se le considera una de las advocaciones o manifestaciones del dios Quetzalcóatl y se le representaba con un caracol.
 
-Tonatiuh
+### Tonatiuh
+
+'El que calienta', es el **dios del Sol**. Asociado a Huitzilopochtli, su rostro es el que aparece en el centro de la Piedra del Sol, mejor conocida como Calendario Azteca.
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/94/Tonatiuh_1.jpg)
 
 Ameyalli
 
