@@ -23,8 +23,30 @@ show_author_profile: false
 comment: false
 
 ---
-Durante los siglos XIV, XV y parte del siglo XVI, el centro de México y gran parte de nuestro territorio actual —e incluso partes de Centroamérica— fue dominado por el gran Imperio Mexica, el cual impuso un sistema religioso basado en un conjunto de dioses y dioses con profundos simbolismos y funciones sociales, económicas y militares. Pero, en resumen, ¿cuáles eran los principales dioses y diosas mexicas?
+Durante los siglos XIV, XV y parte del siglo XVI, el centro de **México** y gran parte de nuestro territorio actual —e incluso partes de Centroamérica— fue dominado por el gran **Imperio Mexica** —incorrectamente llamado **Azteca**—, el cual impuso un sistema religioso basado en un conjunto de **dioses** y **dioses** con profundos **simbolismos** y funciones sociales, económicas y militares. Pero, en resumen, ¿cuáles eran los **principales** **dioses** y **diosas** **mexicas**?
 
-Acá te compartimos una breve lista de las deidades más relevantes del mundo mexica, las cuales eran representadas en esculturas, relieves, pinturas y otras manifestaciones de arte, y a las cuales se les rendía culto en templos y palacios, e incluso se les ofrecían sacrificios de animales… y de humanos.
+Acá te compartimos una breve **lista** de las **deidades** más relevantes del mundo **mexica**, las cuales eran representadas en **esculturas**, **relieves**, **pinturas** y otras manifestaciones de arte, y a las cuales se les rendía **culto** en **templos** y palacios, e incluso se les ofrecían sacrificios de animales… y de humanos.
 
 TE RECOMENDAMOS: 
+
+## Dioses principales
+
+### Ometecuhtli y Omecíhuatl
+
+Así como en el cristianismo se habla de Adán y Eva, en la religión de los mexicas se creía en una pareja primigenia, primordial o creadora: **Ometecuhtli**, el hombre, y **Omecíhuatl**, la mujer, que en conjunto se llamaban Ometeotl y habían surgido del dios principal, Omeyotl. Se les consideraba dioses de la dualidad, generadores de almas y deidades de la Creación.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Omecihuatl-Ometecuhtli_borgia.jpg/923px-Omecihuatl-Ometecuhtli_borgia.jpg)
+
+Huitzilopochtli
+
+El dios principal de los 
+
+Quetzalcóatl
+
+Tláloc
+
+Tezcatlipoca
+
+Xipe Tótec
+
+ Xiuhtecuhtli
