@@ -63,6 +63,8 @@ Podría considerarse como el gran antagonista de los dioses mexicas. Su nombre s
 
 Xipe Tótec
 
+'Nuestro señor el desollado', se le representaba como un hombre al que se le había arrancado la piel. En su honor se realizaba ese cruel sacrificio y se le considera uno de los dioses más antiguos de los mexicas, probablemente traído desde su migración del norte de México. 
+
 Xiuhtecuhtli
 
 ## Diosas principales
