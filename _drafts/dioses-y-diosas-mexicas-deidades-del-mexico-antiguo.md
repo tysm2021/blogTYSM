@@ -25,7 +25,7 @@ comment: false
 ---
 Durante los siglos XIV, XV y parte del siglo XVI, el centro de **México** y gran parte de nuestro territorio actual —e incluso partes de Centroamérica— fue dominado por el gran **Imperio Mexica** —incorrectamente llamado **Azteca**—, el cual impuso un sistema religioso basado en un conjunto de **dioses** y **dioses** con profundos **simbolismos** y funciones sociales, económicas y militares. Pero, en resumen, ¿cuáles eran los **principales** **dioses** y **diosas** **mexicas**?
 
-Acá te compartimos una breve **lista** de las **deidades** más relevantes del mundo **mexica**, las cuales eran representadas en **esculturas**, **relieves**, **pinturas** y otras manifestaciones de arte, y a las cuales se les rendía **culto** en **templos** y palacios, e incluso se les ofrecían sacrificios de animales… y de humanos.
+Acá te compartimos una breve **lista** de las **deidades** más relevantes del mundo **mexica**, las cuales eran representadas en **esculturas**, **relieves**, **pinturas**, **códices** y otras manifestaciones de arte, y a las cuales se les rendía **culto** en **templos** y palacios, e incluso se les ofrecían sacrificios de animales… y de humanos.
 
 TE RECOMENDAMOS: 
 
@@ -87,23 +87,27 @@ Su nombre completo era Huehuetéotl Xiuhtecuhtli, que significa 'Nuestro viejo s
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chalchiuhtlicue_copy.jpg/640px-Chalchiuhtlicue_copy.jpg)
 
-Tonantzin
+### Tonantzin
 
-Cihuacóatl
+Es la **madre de los dioses** y también se usa como un genérico para describir a otras diosas madres como **Coatlicue**, **Omecíhuatl** y Tocih. Su templo estaba en el cerro del Tepeyac, el cual fue destruido y en su lugar se instauró el culto a la Virgen de Guadalupe.
 
 ### Coyoxauhqui
 
-Meztli
+Diosa lunar o **diosa de la Luna**, función que cumple de forma parelela con la diosa **Meztli**. 'La de cascabeles en la cara', era hija de Coatlicue y hermana de Huitzilopochtli; cuando su madre estaba embarazada del mismo, amenazó con matarla, pero su hermano luchó contra ella, la venció y la despeño desde el cerro sagrado de Coatepec, por eso luce un cuerpo desmembrado. Es famosa por el monolito en el que está representada, cuyo hallazgo dio origen al Museo del Templo Mayor.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Coyolx%C4%81uhqui.jpg/760px-Coyolx%C4%81uhqui.jpg)
 
 ## Otras deidades
 
-Xólotl
+### Mictlantecuhtli
 
-Ehécatl
+**Dios de la muerte y del inframundo**. Junto con su esposa, Mictecacíhuatl, eran señores del reino de los muertos.
 
-Mictlatecuhtli
+![](https://upload.wikimedia.org/wikipedia/commons/3/32/Mictlanteuctli_-_Codice_Fej%C3%A9rvary_Mayer.png)
 
-Mictecacíhuatl
+### Ehécatl
+
+Dios del viento. Se le considera una de las advocaciones o manifestaciones del dios Quetzalcóatl y se le representaba con un caracol.
 
 Tonatiuh
 
