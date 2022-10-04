@@ -23,3 +23,13 @@ show_author_profile: false
 comment: false
 
 ---
+La pancita, como se le llama en la Ciudad de México y los estados cercano, o menudo, como se le conoce en otros estados, es un guiso picante y caldoso que se elabora con el estómago de la res, el cual consta de varias partes. Su origen humilde se pierde entre la historia y la leyenda, y sus supuestas propiedades "curativas" para remediar la resaca o "cruda" lo han convertido en un platillo popular emblemático, al que hasta artistas como Tin-Tan le dedicaron una canción.
+
+Revisemos la historia, alguna receta y los detalles de la "rica pancita", como se le llama en mercados y puestos callejeros, pues aunque no es del gusto de todos, sin duda es un platillo mexicanísimo.
+
+TE RECOMENDAMOS:
+
+Dice la lyenda
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uoN_7PVRrX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
