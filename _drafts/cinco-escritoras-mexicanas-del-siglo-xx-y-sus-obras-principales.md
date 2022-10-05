@@ -45,6 +45,12 @@ Nacida en 1925 y fallecida en 1974, es considerada una de las más grandes escri
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/81/Rosario_Castellanos_conversa_sentada_tras_un_escritorio%2C_retrato.png)
 
-Laura Esquivel
+## Laura Esquivel
 
-Amparo Dávila
+Otra autora que ha ganado gran fama debido a su narrativa sencilla y amena —muchos la calificarían de "comercial"—, la cual ha facilitado su acceso a la pantalla grande. Empezó escribiendo guiones para televisión y cine, y sin duda su gran éxito ha sido _Como agua para chocolate_ (1989), la cual fue magistralmente llevada al cine tres años después por su entonces esposo, el director Alfonso Arau. Otras obras relevantes de Esquivel son: _La ley del amor_ (2015), _Malinche_ (2016) y _Mi negro pasado_ (2017), una continuación de _Como agua para chocolate._
+
+![](/images/2022-10-05-lauraesquivel1.jpg)
+
+## Amparo Dávila
+
+Por último, está esta escritora relativamente poco conocida entre el público, pero muy aclamada por los críticos literarios mexicanos, a tal grado que en 2015 se le otorgó la Medalla Bellas Artes por su destacada carrera literaria. En su obra los temas principales son la locura, el peligro y la muerte, y generalmente tienen a una mujer como protagonista. Sus libros más destacados son: _Muerte en el bosque_ (1959), _Tiempo destrozado_ (1959) y _El huésped y otros relatos siniestros_, una colección de cuentos ideal para iniciarse en esta lectura de esta inquietante escritora mexicana.
