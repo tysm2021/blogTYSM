@@ -37,6 +37,8 @@ Muchos reconocen a esta escritora nacida en Puebla en 1916, y que murió en 1998
 
 A esta famosa escritora —también poblana y nacida en 1949— se le reconoce sobre todo por su primera novela, _Arráncame la vida_, la cual incluso fue llevada al cine con Ana Claudia Talancón y Daniel Giménez Cacho en los papeles principales. Otros libros recomendables son _Mal de amores_ (1997) y _El viento de las horas_ (2016), así como la colección de cuentos Mujeres de ojos grandes (1985).
 
+![](/images/2022-10-05-arrancame.jpg)
+
 Rosario Castellanos
 
 Laura Esquivel
