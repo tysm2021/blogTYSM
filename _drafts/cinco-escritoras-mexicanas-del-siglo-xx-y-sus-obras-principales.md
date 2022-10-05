@@ -39,7 +39,11 @@ A esta famosa escritora —también poblana y nacida en 1949— se le reconoce s
 
 ![](/images/2022-10-05-arrancame.jpg)
 
-Rosario Castellanos
+## Rosario Castellanos
+
+Nacida en 1925 y fallecida en 1974, es considerada una de las más grandes escritoras del siglo XX. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/81/Rosario_Castellanos_conversa_sentada_tras_un_escritorio%2C_retrato.png)
 
 Laura Esquivel
 
