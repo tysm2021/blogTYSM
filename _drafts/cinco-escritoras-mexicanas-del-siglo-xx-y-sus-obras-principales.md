@@ -41,7 +41,7 @@ A esta famosa escritora —también poblana y nacida en 1949— se le reconoce s
 
 ## Rosario Castellanos
 
-Nacida en 1925 y fallecida en 1974, es considerada una de las más grandes escritoras del siglo XX. 
+Nacida en 1925 y fallecida en 1974, es considerada una de las más grandes escritoras del siglo XX. Su obra trata de temas políticos y tiene claros tintes feministas. Su primera novela, _Balún Canán_ (1957), tiene lugar en Chiapas, donde ella pasó gran parte de su infancia y adolescencia en la hacienda familiar. También destacan _Ciudad Real_ (1960), un libro de cuentos, y _Oficio de tiniebla_s (1962). Además está su vasta producción poética. También era diplomática y falleció en Tel Aviv, Israel, al recibir accidentalmente un descarga eléctrica por salir a contestar el teléfono a mitad de un baño. Tenía 49 años.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/81/Rosario_Castellanos_conversa_sentada_tras_un_escritorio%2C_retrato.png)
 
