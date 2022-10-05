@@ -54,3 +54,5 @@ Otra autora que ha ganado gran fama debido a su narrativa sencilla y amena —mu
 ## Amparo Dávila
 
 Por último, está esta escritora relativamente poco conocida entre el público, pero muy aclamada por los críticos literarios mexicanos, a tal grado que en 2015 se le otorgó la Medalla Bellas Artes por su destacada carrera literaria. En su obra los temas principales son la locura, el peligro y la muerte, y generalmente tienen a una mujer como protagonista. Sus libros más destacados son: _Muerte en el bosque_ (1959), _Tiempo destrozado_ (1959) y _El huésped y otros relatos siniestros_, una colección de cuentos ideal para iniciarse en esta lectura de esta inquietante escritora mexicana.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Amparo_D%C3%A1vila_%28cropped%29.jpg/1024px-Amparo_D%C3%A1vila_%28cropped%29.jpg)
