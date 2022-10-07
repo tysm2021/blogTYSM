@@ -23,8 +23,10 @@ show_author_profile: false
 comment: false
 
 ---
-Aunque mucha gente piensa que era español, en realidad este escritor y dramaturgo nació en lo que hoy es México —entonces la Nueva España—, en el pueblo de Taxco, Guerrero. Sus obras de teatro estaban a la altura de las mejores del Siglo de Oro español, y se siguen representando hasta hoy, siendo uno de los mejores representantes de la literatura de nuestro país en los siglos XVI y XVII, incluso antes de la afamada Sor Juana Inés de la Cruz. Nos referimos a Juan Ruiz de Alarcón, en cuyo honor el mencionado Pueblo Mágico de llama Taxco de Alarcón.
+Aunque mucha gente piensa que era español, en realidad este escritor y dramaturgo nació en lo que hoy es **México** —entonces la **Nueva España**—, en el pueblo de **Taxco**, Guerrero. Sus **obras de teatro** estaban a la altura de las mejores del **Siglo de Oro español**, y se siguen representando hasta hoy, siendo uno de los mejores representantes de la **literatura** de nuestro país en los siglos XVI y XVII, incluso antes de la afamada Sor Juana Inés de la Cruz. Nos referimos a **Juan Ruiz de Alarcón**, en cuyo honor el mencionado Pueblo Mágico de llama **Taxco de Alarcón**.
 
-Conozcamos un poco de la vida y de las obras de este ilustre escritor mexicano, que con su obra de teatro La verdad sospechosa puso en alto las letras que es escribían en castellano de este lado del Océano Atlántico.
+Conozcamos un poco de la vida y de las obras de este ilustre **escritor mexicano,** que con su obra de teatro _La verdad sospechosa_ puso en alto las letras que es escribían en castellano de este lado del Océano Atlántico.
 
 TE RECOMENDAMOS:
+
+**Juan Ruiz de Alarcón y Mendoza** nació el 2 de octubre de 1581 en el pueblo de **Taxco**, actual estado de Guerrero. Aunque él mismo afirmaba haber nacido en la Ciudad de México, los documentos y los estudios sobre su vida apuntan a que era natural de ese hermoso pueblo minero. Poco se sabe sobre su vida temprana, pero al parecer era de ascendencia 
