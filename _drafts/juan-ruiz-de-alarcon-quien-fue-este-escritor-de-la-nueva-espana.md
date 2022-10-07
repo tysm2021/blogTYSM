@@ -29,4 +29,4 @@ Conozcamos un poco de la vida y de las obras de este ilustre **escritor mexicano
 
 TE RECOMENDAMOS:
 
-**Juan Ruiz de Alarcón y Mendoza** nació el 2 de octubre de 1581 en el pueblo de **Taxco**, actual estado de Guerrero. Aunque él mismo afirmaba haber nacido en la Ciudad de México, los documentos y los estudios sobre su vida apuntan a que era natural de ese hermoso pueblo minero. Poco se sabe sobre su vida temprana, pero al parecer era de ascendencia 
+**Juan Ruiz de Alarcón y Mendoza** nació el 2 de octubre de 1581 en el pueblo de **Taxco**, actual estado de Guerrero. Aunque él mismo afirmaba haber nacido en la Ciudad de México, los documentos y los estudios sobre su vida apuntan a que era natural de ese hermoso pueblo minero. Poco se sabe sobre su vida temprana, y a pesar de que corrían rumores de una supuesta ascendencia judía o mora —la cual era mal vista en aquellos tiempos de marcado catolicismo—, es muy probable que viniera de una familia acomodada con raíces en España y avecindada en el recientemente formado Virreinato de la Nueva España.
