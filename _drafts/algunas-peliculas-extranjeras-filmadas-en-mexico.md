@@ -28,4 +28,8 @@ A continuación, haremos un breve recuento de algunas de las **cintas** **extran
 
 TE RECOMENDAMOS:
 
-Empecemos con un género clásico: el western o las películas de vaqueros. En este sentido, los estados del norte —en especial Durango— se llevan las palmas, pues en sus desiertos, haciendas y pueblos se han filmado algunas cintas clásicas, entre las que destacan las protagonizadas por John Wayne: Los hijos de Katie Elder, 
+Empecemos con un género clásico: el _western_ o las películas de vaqueros. En este sentido, los estados del norte —en especial Durango— se llevan las palmas, pues en sus desiertos, haciendas y pueblos se han **filmado** algunas **cintas** clásicas, entre las que destacan las protagonizadas por **John Wayne**: _Los hijos de Katie Elde_r, _Lucha de gigantes_, _Chisum rey del Oeste_ y _Los chacales del Oeste_. Otros westerns famosos filmados en ese estado son la emblemática _El bueno, el malo y el feo_ con **Clint Eastwood**; _Patt Garrett y Billy the Kid_, con **James Coburn**; _El rostro impenetrable_, con **Marlon Brando** y _Un hombre llamado caballo_, con **Richard Harris**.
+
+![](/images/2022-10-10-1024_goodbadugly.jpg)
+
+Mención aparte merece la cinta _Butch Cassidy & Sundance Kid_, protagonizada por los galanes Paul Newman y Robert Redford, la cual fue filmada en parte en el Pueblo Mágico de **Tlayacapan**, Morelos, un sitio en el que también se rodaron _Dos mulas para la hermana Sara_, con Clint Eastwood y Shirley McClaine. 
