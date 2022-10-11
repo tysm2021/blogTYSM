@@ -24,3 +24,8 @@ show_author_profile: false
 comment: false
 
 ---
+Una de las conmemoraciones que une a prácticamente todos los mexicanos, desde la Baja California hasta la península de Yucatán, es la tradición del Día de Muertos, que se celebra entre el 1 y el 2 noviembre en casi todo el país. Y se dice que esta conmemoración tiene sus raíces en tradiciones prehispánicas y en el culto que los antiguos pueblos de México hacían a sus difuntos, el cual incluía al copal y a la flor de cempasúchitl. Pero, ¿qué tan cierto es esto? ¿Qué opinan los historiadores y los estudiosos sobre el origen y la historia del Día de Muertos?
+
+A continuación, revisaremos algunas posturas sobre los orígenes de la tradición del Día de Muertos, tanto las que afirman que se trata de un ritual con raíces prehispánicas, como quienes desmienten esto y sostienen que su origen tiene más que ver con el catolicismo que se impuso en nuestro país tras la Conquista española.
+
+TE RECOMENDAMOS:
