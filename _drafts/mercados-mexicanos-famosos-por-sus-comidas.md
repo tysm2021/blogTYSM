@@ -44,3 +44,9 @@ Como lo podrás suponer, este famoso mercado se encuentra en la ciudad de Guadal
 El mercado San Juan de Dios está en la esquina de la Calz. Independencia y la Av. Javier Mina, a un costado de la Plaza Tapatía y del Instituto Cultural Cabañas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/ab/Mercado_san_juan_de_dios_guadalajara_interior.jpg)
+
+### Mercado de comidas de Coyoacán
+
+No, no nos referimos al más famoso de los mercados, ubicado en las calles de Ignacio Allende, Malitzin y Xicoténcatl, sino al mercado de las comidas, el cual se encuentra en la esquina de la calle de la Higuera —que desemboca en la Plaza de la Conchita— y Caballocalco, a espaldas de la Iglesia de San Juan Bautista y del Jardín Hidalgo, en el centro de Coyoacán. Ahí hay dos especialidades: las muy célebres quesadillas, que dan nombre al mercado y pueden ser de ingredientes como queso, papa, flor de calabaza, tinga de res o de pollo, picadillos o chicharrón prensado, y van fritas —sumergidas en aceite— o asadas al comal; la otra especialidad, que sólo se puede encontrar por las noches y los fines de semana, son los famoso hot-cakes que, desde hace décadas, una familia prepara con las más vistosas formas que a uno se le ocurran. Además, hay un pozole que hay que probar, además de tacos y tostadas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Quesadilla_de_queso.jpg/1024px-Quesadilla_de_queso.jpg)
