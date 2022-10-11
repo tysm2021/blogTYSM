@@ -42,3 +42,5 @@ El mercado se encuentra a cinco minutos del Zócalo de Puebla, en la avenida 21 
 Como lo podrás suponer, este famoso mercado se encuentra en la ciudad de Guadalajara y es todo un festín para los sentidos. El edificio consta de tres niveles, y en ellos podrás adquirir sombreros típicos, bolsas de todos tipos, jorongos, huaraches y piezas de cerámica como los famosos jarritos. Pero lo principal es la comida, que podrás hallar en el segundo piso: entre otras maravillas de la cocina tapatía, las protagonistas son la tradicional birria, que puedes probar en plato, en tacos, tradicional o tatemada, así como las famosas tortas ahogadas —que consisten en una pieza de pan llamada birote, rellena de carnitas de cerdo y bañada en una salsa roja que puede ser picante o muy picante—, las cuales se expenden en muchos de los locales que ahí existen.
 
 El mercado San Juan de Dios está en la esquina de la Calz. Independencia y la Av. Javier Mina, a un costado de la Plaza Tapatía y del Instituto Cultural Cabañas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/ab/Mercado_san_juan_de_dios_guadalajara_interior.jpg)
