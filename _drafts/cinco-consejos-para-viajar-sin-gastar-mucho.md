@@ -37,9 +37,13 @@ Una de las ventajas de vivir en la década de 2020 es que tenemos acceso a much�
 
 ## Compra y reserva con anticipación
 
-Otra idea útil se basa en la planeación, pues tanto los hoteles como muchas aerolíneas, agencias de viajes y líneas de autobuses ofrecen **descuentos** importantes por **compra anticipada**. Eso sí: toma en cuenta que debes estar muy seguro de que podrás viajar en esas fechas —apartando, por ejemplo, tus días de asueto o vacaciones con tus jefes con la anticipación suficiente—, pues en el caso de que por un imprevisto no puedas efectuar tu viaje, será muy difícil obtener un reembolso o cambiar de fecha o de condiciones del viaje o el hospedaje.
+Otra idea útil se basa en la planeación, pues tanto los hoteles como muchas aerolíneas, agencias de viajes y líneas de autobuses ofrecen **descuentos** importantes por **compra anticipada**, o pagos a **mensualidades sin intereses** con tu tarjeta de crédito. Eso sí: toma en cuenta que debes estar muy seguro de que podrás viajar en esas fechas —apartando, por ejemplo, tus días de asueto o vacaciones con tus jefes con la anticipación suficiente—, pues en el caso de que por un imprevisto no puedas efectuar tu viaje, será muy difícil obtener un reembolso o cambiar de fecha o de condiciones del viaje o el hospedaje.
 
-Lleva un presupuesto
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hotel-room-renaissance-columbus-ohio.jpg/1024px-Hotel-room-renaissance-columbus-ohio.jpg)
+
+## Lleva un presupuesto
+
+Esto es más sencillo de lo que parece. Si eres de los que compra por impulso o no puede dejar de comprar "recuerditos" de cada lugar y para todos tus amigos o los miembros de tu familia, toma en cuenta que es justamente en estos "**gastos** hormiga" donde puedes terminar desfalcado. Para evitarlo, haz una simple suma de cuánto te costará el transporte —gasolina, casetas y comida, si viajas en auto; pasajes de ida y de regreso, así como taxis, si lo haces por tu cuenta—, el hospedaje y la alimentación —es útil informarte en cuánto andan los desayunos, comidas y cenas en el lugar a dónde irás—, y considera cuánto dinero más estás dispuesto a gastar por cada día. Sin duda, hay que llevar un "guardadito" para emergencias y no tiene nada de malo darse un lujo, que para eso es que uno trabaja; pero si la idea es no acabar pagando e 
 
 Comparte gastos
 
