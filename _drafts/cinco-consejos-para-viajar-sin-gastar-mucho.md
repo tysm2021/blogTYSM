@@ -43,7 +43,9 @@ Otra idea útil se basa en la planeación, pues tanto los hoteles como muchas ae
 
 ## Lleva un presupuesto
 
-Esto es más sencillo de lo que parece. Si eres de los que compra por impulso o no puede dejar de comprar "recuerditos" de cada lugar y para todos tus amigos o los miembros de tu familia, toma en cuenta que es justamente en estos "**gastos** hormiga" donde puedes terminar desfalcado. Para evitarlo, haz una simple suma de cuánto te costará el transporte —gasolina, casetas y comida, si viajas en auto; pasajes de ida y de regreso, así como taxis, si lo haces por tu cuenta—, el hospedaje y la alimentación —es útil informarte en cuánto andan los desayunos, comidas y cenas en el lugar a dónde irás—, y considera cuánto dinero más estás dispuesto a gastar por cada día. Sin duda, hay que llevar un "guardadito" para emergencias y no tiene nada de malo darse un lujo, que para eso es que uno trabaja; pero si la idea es no acabar pagando e 
+Esto es más sencillo de lo que parece. Si eres de los que compra por impulso o no puede dejar de comprar "recuerditos" de cada lugar y para todos tus amigos o los miembros de tu familia, toma en cuenta que es justamente en estos "**gastos** hormiga" donde puedes terminar desfalcado. Para evitarlo, haz una simple suma de cuánto te costará el **transporte** —gasolina, casetas y comida, si viajas en auto; pasajes de ida y de regreso, así como taxis, si lo haces por tu cuenta—, el **hospedaje** y la **alimentación** —es útil informarse en cuánto andan los desayunos, comidas y cenas en el lugar a dónde irás—, y considera cuánto dinero más estás dispuesto a gastar por cada día. Sin duda, hay que llevar un "guardadito" para emergencias y no tiene nada de malo darse un lujo, que para eso es que uno trabaja; pero si la idea es no acabar pidiendo prestado después o formado en el Monte de Piedad para terminar de pagar el viaje.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Czech_Wallet.jpg/1024px-Czech_Wallet.jpg)
 
 Comparte gastos
 
