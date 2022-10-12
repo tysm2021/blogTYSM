@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Los mexicanos, como muchos pueblos del mundo, creemos en la existencia de la buena y de la mala suerte. Y una de las maneras en que nos expresamos al respecto es usando frases que involucran a la sal: "Echar la sal", "estar salado" y otras que aluden a esta fatalidad, superstición o "mala pata" con la que muchas personas parecen haber nacido. Pero, ¿cuál es el origen o la historia de estas expresiones? ¿De dónde viene esta relación de la sal con la mala suerte?
+
+A continuación, una breve explicación acerca de dichas expresiones, las cuales están presentes en el habla de los mexicanos desde tiempos muy remotos.
+
+TE RECOMENDAMOS:
