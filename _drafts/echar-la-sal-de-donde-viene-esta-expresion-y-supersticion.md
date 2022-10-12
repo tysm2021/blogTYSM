@@ -23,8 +23,10 @@ show_author_profile: false
 comment: false
 
 ---
-Los mexicanos, como muchos pueblos del mundo, creemos en la existencia de la buena y de la mala suerte. Y una de las maneras en que nos expresamos al respecto es usando frases que involucran a la sal: "Echar la sal", "estar salado" y otras que aluden a esta fatalidad, superstición o "mala pata" con la que muchas personas parecen haber nacido. Pero, ¿cuál es el origen o la historia de estas expresiones? ¿De dónde viene esta relación de la sal con la mala suerte?
+Los **mexicanos**, como muchos pueblos del mundo, creemos en la existencia de la buena y de la **mala suerte**. Y una de las maneras en que nos expresamos al respecto es usando **frases** que involucran a la **sal**: "**Echar la sal**", "**estar salado**" y otras que aluden a esta fatalidad, **superstición** o "mala pata" con la que muchas personas parecen haber nacido. Pero, ¿cuál es el **origen** o la **historia** de estas **expresiones**? ¿**De dónde viene esta** relación de la **sal** con la **mala suerte**?
 
-A continuación, una breve explicación acerca de dichas expresiones, las cuales están presentes en el habla de los mexicanos desde tiempos muy remotos.
+A continuación, una breve explicación acerca de dichas expresiones, las cuales están presentes en el habla de los mexicanos desde eras muy remotas.
 
 TE RECOMENDAMOS:
+
+Desde tiempos muy antiguos, la **sal** ha sido un polvo muy apreciado. En la antigua Roma, por ejemplo, parte del pago que recibían los trabajadores se efectuaba en bolsas de sal —de hecho, de ahí provienen las palabras del español salario y asalariado—, y era un bien tan escaso que tirarla o derramarla era considerado un mal augurio, un acto desafortunado. Después, en la Edad Media europea, estaba muy arraigada la creencia supersticiosa de que derramar sal en público acarreaba mala suerte, pues ésta era un símbolo de amistad; por esa razón, quien había tirado el condimento debía arrojar un poco más sobre su hombro izquierdo, ya que se creía que ese lado era siniestro y que allí se agrupaban los espíritus malignos
