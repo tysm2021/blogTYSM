@@ -47,6 +47,12 @@ Esto es más sencillo de lo que parece. Si eres de los que compra por impulso o 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Czech_Wallet.jpg/1024px-Czech_Wallet.jpg)
 
-Comparte gastos
+### Comparte gastos
+
+Por simples matemáticas, resulta más económico viajar en parejas o en grupos pequeños, siempre que cada uno de los integrantes de la "excursión" aporten su parte proporcional. Por ejemplo, si viajas en auto, **dividir los gastos** en gasolina —cuyo consumo, sin duda, será un poco mayor si viajas con tres personas más, pero no al grado de triplicarse— y en casetas es una muy buena manera de abatir costos. De igual forma, los **hoteles** mexicanos en general tienen **tarifas** por habitación, de tal suerte que no importa si en una habitación doble entran una o dos personas, y este **gasto** se dividirá entre dos personas; algo similar sucede con, por ejemplo, habitaciones cuádruples: el **costo** final no es cuatro veces mayor al de una habitación sencilla. 
+
+Lo único que hay que considerar es que habrá que hacer ciertos sacrificios, como la falta de privacidad, y considerar si estás dispuesto o dispuesta, si es necesario, a compartir la cama con alguien. Y por último, recuerda lo que dice el refrán: "Si quieres conocer a alguien, viaja con esa persona", así que echa mano de tu paciencia, pues no toda la gente tiene el mismo sentido de la prisa, de la puntualidad, del espacio personas, ni los mismo hábitos de higiene, sin contar que a veces los intereses pueden ser diferentes.
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/92/Pointe_de_Grave_toeristische_trein_2019_04.jpg)
 
 Salte de lo comercial
