@@ -25,6 +25,6 @@ comment: false
 ---
 Una frase muy usada para referirse al antiguo paisaje del Valle de México, donde se asentó la ciudad de México-Tenochtitlan, capital del país que en algún tiempo se llamó Distrito Federal y que actualmente se conoce como Ciudad de México, era "la región más transparente del aire". Aunque actualmente esa transparencia sólo vive en el recuerdo, pues es una de las urbes más contaminadas de América Latina y del mundo, resulta interesante averiguar quién acuñó, escribió o dijo por primera vez esa frase.
 
-Hagamos un poco de historia y veamos, entre dimes y diretes, a quién podemos adjudicar esa frase del recuerdo, pues algunos se la atribuyen a un alemán, otros a un regiomontano y hay quien dice que fue un afamado escritor capitalino. Veamos.
+Hagamos un poco de historia y veamos, entre dimes y diretes, a quién podemos adjudicar esa frase del recuerdo, pues algunos se la atribuyen a un alemán, otros a un regiomontano y hay quien dice que fue un afamado escritor mexicano, nacido en Panamá, pero avecindado justamente en la Ciudad de México. Veamos…
 
 TE RECOMENDAMOS:
