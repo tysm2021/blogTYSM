@@ -33,13 +33,13 @@ TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WhiteHouseSouthFacade.JPG/1024px-WhiteHouseSouthFacade.JPG)
 
-La residencia oficial y oficina del presidente de los Estados Unidos de América podría considerarse el edificio principal del National Mall, un parque al aire libre donde se asientan los principales edificios y monumentos del centro de Washington, D.C. En ella han vivido todos y cada uno de los mandatarios estadounidenses desde John Adams, en el año 1800. En su Ala Oeste —West Wing— se encuentra la famosa Oficina Oval donde despacha el presidente en turno. Se estima que recibe a unos 30 mil visitantes a la semana.
+La residencia oficial y oficina del presidente de los E**stados Unidos de América** podría considerarse el edificio principal del National Mall, un parque al aire libre donde se asientan los principales edificios y monumentos del centro de Washington, D.C. En ella han vivido todos y cada uno de los mandatarios estadounidenses desde John Adams, en el año 1800. En su Ala Oeste —West Wing— se encuentra la famosa Oficina Oval donde despacha el presidente en turno. Se estima que recibe a unos 30 mil visitantes a la semana.
 
 ### El Capitolio
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/United_States_Capitol_west_front_edit2.jpg/1024px-United_States_Capitol_west_front_edit2.jpg)
 
-Mm
+Este célebre edificio, que recuerda a las construcciones de la Roma imperial y del Renacimiento italiano, es la sede del Congreso estadounidense, en el que reside el poder legislativo del país vecino. Es reconocible por su enorme domo, en cuyo interior hay una pintura mural y bajo el cual se encuentra la rotonda. En este edificio tienen lugar las sesiones de la Cámara de representantes de los Estados Unidos.
 
 ### Edificio de la Reserva Federal
 
