@@ -81,4 +81,4 @@ Este impactante monolito fue oficialmente inaugurado en 1888 y rinde homenaje al
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Jefferson_Memorial_At_Dusk_1.jpg/1024px-Jefferson_Memorial_At_Dusk_1.jpg)
 
-nn
+Cerramos con este memorial, construido entre 1939 y 1943 en honor al presidente estadounidense **Thomas Jefferson**, principal autor de la Declaración de Independencia de los Estados Unidos. Su estilo arquitectónico es neoclásico, con influencia de la arquitectura clásica griega, con sus columnas y su frontón triangular tan representativos, y una cúpula que recuerda al Panteón de la Roma imperial. En el interior se encuentra una estatua de bronce de Jefferson de 5.8 metros de altura.
