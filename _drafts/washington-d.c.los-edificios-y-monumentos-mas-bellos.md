@@ -25,7 +25,7 @@ comment: false
 ---
 Ubicada al noreste de los **Estados Unidos de América**, la ciudad de **Washington D.C.** —acrónimo de Distrito de Columbia—, así nombrada en honor a George Washington, considerado "padre de la nación" americana, además de su importancia política como **capital** de uno de los países más poderosos del mundo, es una urbe llena de **atractivos turísticos**, tales como **museos**, **edificios** públicos y **monumentos**.  En este artículo mencionaremos brevemente los más **importantes**, para que —al menos de manera virtual— los conozcas.
 
-Empezaremos con los **edificios públicos** donde radica el poder político estadounidense, como la **Casa Blanca**, el **Capitolio** y el **Pentágono**, seguiremos con **museos** y otras instituciones culturales, para finalizar con los **monumentos** más célebres.
+Empezaremos con los **edificios públicos** donde radica el poder político estadounidense, como la **Casa Blanca**, el **Capitolio** y la **Reserva Federal**, seguiremos con **museos** y otras instituciones culturales, para finalizar con los **monumentos** más célebres.
 
 TE RECOMENDAMOS:
 
@@ -40,3 +40,9 @@ Ahí
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/United_States_Capitol_west_front_edit2.jpg/1024px-United_States_Capitol_west_front_edit2.jpg)
 
 Mm
+
+### Reserva Federal
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1024px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg)
+
+nn
