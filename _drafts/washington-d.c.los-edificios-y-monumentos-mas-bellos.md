@@ -33,7 +33,7 @@ TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WhiteHouseSouthFacade.JPG/1024px-WhiteHouseSouthFacade.JPG)
 
-Ahí
+La residencia oficial del presidente de los Estados Unidos de América podría considerarse el edificio principal del National Mall, un parque al aire libre donde se asientan los principales edificios y monumentos del centro de Washington, D.C. 
 
 ### El Capitolio
 
@@ -63,7 +63,7 @@ nn
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Washington_October_2016-12.jpg/1024px-Washington_October_2016-12.jpg)
 
-nn
+Este importante museo de arte , donde también residen 
 
 ### Memorial de Lincoln
 
