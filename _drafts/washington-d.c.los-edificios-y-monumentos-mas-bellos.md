@@ -63,7 +63,7 @@ nn
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Washington_October_2016-12.jpg/1024px-Washington_October_2016-12.jpg)
 
-Este importante museo de arte , donde también residen 
+Esta importante galería de arte, que está permanente abierta al público de forma gratuita, es uno de los museos más importantes museos de los Estados Unidos. Se inauguró en 1937 y además del Edificio Oeste —que se muestra en la imagen— y el Edificio Este, también incluye un Jardín de Esculturas. Su valiosa colección incluye obras maestras del renacimiento italiano —Da Vinci, Rafael y otros pintores—, del Romanticismo, del Impresionismo y de los más grandes maestros de la pintura universal.
 
 ### Memorial de Lincoln
 
