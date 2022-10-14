@@ -23,3 +23,4 @@ show_author_profile: false
 comment: false
 
 ---
+Ubicada al noreste de los Estados de América, la ciudad de Washington D.C. —acrónimo de Distrito de Columbia—, así nombrada en honor a George Washington, considerado "padre de la nación" americana, además de su importancia política como capital de uno de los países más poderosos del mundo, es una urbe llena de atractivos turísticos, tales como museos, edificios públicos y monumentos. 
