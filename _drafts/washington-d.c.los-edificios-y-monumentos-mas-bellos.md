@@ -51,7 +51,7 @@ En realidad, hablamos del **Edificio Marriner S. Eccles**, donde se concentra la
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/LOC_Main_Reading_Room_Highsmith.jpg/1024px-LOC_Main_Reading_Room_Highsmith.jpg)
 
-nn
+Es la biblioteca nacional de los Estados Unidos y está distribuida en tres edificios, conteniendo una de las colecciones bibliográficas más grandes del mundo, con más de 158 millones de documentos, entre los que se cuentan 36.8 millones de libros escritos en 470 idiomas, más de 68 millones de manuscritos y la colección más grande del mundo de libros raros y valiosos, tales como una Biblia de Gutenberg original y la Declaración de Independencia de los Estados Unidos.
 
 ### Museo Nacional de Historia Natural
 
