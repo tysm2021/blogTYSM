@@ -69,7 +69,7 @@ nn
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lincoln_Memorial.jpg/1024px-Lincoln_Memorial.jpg)
 
-nn
+Muy cerca de su vecino, el **Monumento a Washington**, se encuentra este **Memorial**, dedicado al presidente **Abraham Lincoln**, quien en su tiempo abolió la esclavitud en los Estados Unidos. Se trata de otro edificio de estilo neoclásico que recuerda a las construcciones de la Grecia y la Roma antiguas. En su interior se encuentra la famosísima estatua de **Lincoln**, quien está sentado y mirando hacia el horizonte; dicha estatua de mármol mide 5.8 metros de altura y es uno de los monumentos más reconocibles de la ciudad de **Washington**.
 
 ### Monumento a Washington
 
