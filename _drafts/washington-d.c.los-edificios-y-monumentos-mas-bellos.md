@@ -28,3 +28,15 @@ Ubicada al noreste de los **Estados Unidos de América**, la ciudad de **Washing
 Empezaremos con los **edificios públicos** donde radica el poder político estadounidense, como la **Casa Blanca**, el **Capitolio** y el **Pentágono**, seguiremos con **museos** y otras instituciones culturales, para finalizar con los **monumentos** más célebres.
 
 TE RECOMENDAMOS:
+
+### La Casa Blanca
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WhiteHouseSouthFacade.JPG/1024px-WhiteHouseSouthFacade.JPG)
+
+Ahí
+
+### El Capitolio
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/United_States_Capitol_west_front_edit2.jpg/1024px-United_States_Capitol_west_front_edit2.jpg)
+
+Mm
