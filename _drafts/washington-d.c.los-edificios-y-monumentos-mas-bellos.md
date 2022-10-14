@@ -33,7 +33,7 @@ TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WhiteHouseSouthFacade.JPG/1024px-WhiteHouseSouthFacade.JPG)
 
-La residencia oficial del presidente de los Estados Unidos de América podría considerarse el edificio principal del National Mall, un parque al aire libre donde se asientan los principales edificios y monumentos del centro de Washington, D.C. 
+La residencia oficial y oficina del presidente de los Estados Unidos de América podría considerarse el edificio principal del National Mall, un parque al aire libre donde se asientan los principales edificios y monumentos del centro de Washington, D.C. En ella han vivido todos y cada uno de los mandatarios estadounidenses desde John Adams, en el año 1800. En su Ala Oeste —West Wing— se encuentra la famosa Oficina Oval donde despacha el presidente en turno. Se estima que recibe a unos 30 mil visitantes a la semana.
 
 ### El Capitolio
 
@@ -51,7 +51,7 @@ En realidad, hablamos del **Edificio Marriner S. Eccles**, donde se concentra la
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/LOC_Main_Reading_Room_Highsmith.jpg/1024px-LOC_Main_Reading_Room_Highsmith.jpg)
 
-Es la biblioteca nacional de los Estados Unidos y está distribuida en tres edificios, conteniendo una de las colecciones bibliográficas más grandes del mundo, con más de 158 millones de documentos, entre los que se cuentan 36.8 millones de libros escritos en 470 idiomas, más de 68 millones de manuscritos y la colección más grande del mundo de libros raros y valiosos, tales como una Biblia de Gutenberg original y la Declaración de Independencia de los Estados Unidos.
+Es la biblioteca nacional de los **Estados Unidos** y está distribuida en tres edificios, conteniendo una de las colecciones bibliográficas más grandes del mundo, con más de 158 millones de documentos, entre los que se cuentan 36.8 millones de libros escritos en 470 idiomas, más de 68 millones de manuscritos y la colección más grande del mundo de libros raros y valiosos, tales como una Biblia de Gutenberg original y la Declaración de Independencia de los **Estados Unidos**.
 
 ### Museo Nacional de Historia Natural
 
