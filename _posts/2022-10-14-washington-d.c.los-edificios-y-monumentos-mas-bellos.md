@@ -57,7 +57,7 @@ Es la biblioteca nacional de los **Estados Unidos** y está distribuida en tres 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/National_Museum_of_Natural_History%2C_Washington.jpg/1020px-National_Museum_of_Natural_History%2C_Washington.jpg)
 
-nn
+Este es uno de los museos dedicados a las ciencias naturales más grandes e importantes del mundo, pues cuenta con más de 45 millones de especímenes, entre plantas, animales, fósiles, restos minerales, rocas, meteoritos, restos humanos y de especies anteriores al _Homo sapiens_, y otros objetos de interés antropológico. Su colección se considera la más extensa en cuanto a la historia natural de nuestro planeta.
 
 ### Galería Nacional de Arte
 
