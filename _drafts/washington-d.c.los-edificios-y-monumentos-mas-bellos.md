@@ -41,11 +41,11 @@ Ahí
 
 Mm
 
-### Reserva Federal
+### Edificio de la Reserva Federal
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1024px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg)
 
-nn
+En realidad, hablamos del **Edificio Marriner S. Eccles**, donde se concentra la administración central y la Junta de Directores del Sistema de la Reserva Federal, que no es otra cosa sino el banco central de los Estados Unidos. Se trata de un edificio de estilo neoclásico, sobrio y elegante, que transmite una sensación de poderío pero sin caer en ningún exceso ni lujo.
 
 ### Biblioteca del Congreso
 
