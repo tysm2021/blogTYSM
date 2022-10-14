@@ -75,7 +75,7 @@ nn
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Washington_Monument_2022.jpg/768px-Washington_Monument_2022.jpg)
 
-nn
+Este impactante monolito fue oficialmente inaugurado en 1888 y rinde homenaje al fundador de los Estados Unidos de América, el general **George Washington**. Está hecho de mármol, granito y una roca azulosa llamada gneiss y es, a la vez, la estructura más alta de la capital estadounidense y el obelisco más alto del mundo, con sus 169.2 metros de altura. 
 
 ### Memorial de Jefferson
 
