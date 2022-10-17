@@ -12,7 +12,7 @@ article_header:
   background_color: "#203028"
   background_image:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
-    src: "/images/2022-04-26-majahuitas_pinterest.jpeg"
+    src: "/images/2022-10-17-1280px-guacamole_imgp1271.jpeg"
 sharing: true
 title: 'El mexicanísimo guacamole: historia y recetas'
 summary: Aunque para nosotros es una salsa de sobra conocida, el guacamole ha ganado
