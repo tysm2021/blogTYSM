@@ -41,7 +41,11 @@ Empezamos con este pueblo que, en años recientes, se ha hecho muy famoso por su
 
 La fama de este **Pueblo Mágico** se debe, en gran parte, al magnífico monolito conocido como la **Peña de Bernal**, el cual es uno de los más grandes de América Latina y es un destino preferido por montañistas, excursionistas y deportistas extremos. Pero, más allá de la Peña, **Bernal** ofrece al viajero la posibilidad de hospedarse en hoteles de época, de recorrer las hermosas calles del Centro y deleitarse con la comida queretana que se vende en sus numerosos restaurantes, y de visitar el famoso **Museo de la Máscara**, el cual se encuentra albergado en una construcción conocida como **El Castillo**, la cual data del siglo XVIII y está inspirada en los castillos medievales europeos. Saliendo un poco del Pueblo, podrás tomar alguno de los muchos _tours_ y visitar un viñedo, muchas veces con catas de quesos y vinos incluidas.
 
-Cadereyta
+## Cadereyta
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Plaza_Principal_de_Cadereyta_de_Montes%2C_Quer%C3%A9taro_%2824172888469%29.jpg/687px-Plaza_Principal_de_Cadereyta_de_Montes%2C_Quer%C3%A9taro_%2824172888469%29.jpg)
+
+En la Sierra Gorda queretana, son famosas las llamadas "misiones franciscanas", las cuales son edificaciones religiosas construidas durante los años del Virreinato, justo, por órdenes franciscanas, y que tienen estilos arquitectónicos similares. Una de ellas se encuentra en Cadereyta de Montes, localidad que no hay que confundir con su homónima en el estado de Nuevo León. En este hermoso Pueblo Mágico queretano es imperdible la visita a la **Plaza Principal**, donde encontrarás la famosa Parroquia de **San Pedro y San Pablo**, la cual tiene un retablo de estilo churrigueresco detrás de su fachada neoclásica. Además de visitar otros templos de interés, hay que probar la afamada barbacoa de borrego del lugar y adentrarse en los jardines botánicos. Saliendo un poco del pueblo, uno encuentra atractivos naturales como la hermosa **Presa Zimapán** o las **cascadas** **Chuveje**, **Velo de Novia** y **El Salto**.
 
 Jalpan de Serra
 
