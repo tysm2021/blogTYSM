@@ -31,9 +31,15 @@ TE RECOMENDAMOS:
 
 ## Amealco
 
-Empezamos con este pueblo que, en años recientes, se ha hecho muy famoso por su artesanía más conocida: las famosas muñecas de Amealco, que son pequeñas niñas y mujeres hechas de tela, las cuales han llegado a todos los mercados mexicanos e incluso son conocidas en el extranjero.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amealco_Parroquia_de_Santa_Mar%C3%ADa.jpg/1024px-Amealco_Parroquia_de_Santa_Mar%C3%ADa.jpg)
 
-Bernal
+Empezamos con este pueblo que, en años recientes, se ha hecho muy famoso por su artesanía más conocida: las famosas muñecas de **Amealco**, que son pequeñas niñas y mujeres hechas de tela, las cuales han llegado a todos los mercados mexicanos e incluso son conocidas en el extranjero. Pero, además de sus famosas muñecas, este Pueblo Mágicos tiene otros muchos atractivos, tales como la **Parroquia de Santa María**, edificada en el siglo XVII, las ruinas las ruinas del Antiguo Templo de San Ildefonso Tultepec y el Museo de la Muñeca Artesanal. Y no puedes irte de **Amealco** sin probar su famoso **pan de pulque**.
+
+## Bernal
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pe%C3%B1a_de_Bernal%2C_Quer%C3%A9taro_en_d%C3%ADa_lluvioso.jpg/768px-Pe%C3%B1a_de_Bernal%2C_Quer%C3%A9taro_en_d%C3%ADa_lluvioso.jpg)
+
+La fama de este Pueblo Mágico se debe, en gran parte, al magnífico monolito conocido como la Peña de Bernal, el cual es uno de los más grandes de América Latina y es un destino preferido por montañistas, excursionistas y deportistas extremos. Pero, más allá de la Peña, Bernal ofrece al viajero la posibilidad de hospedarse en hoteles de época, de recorrer las hermosas calles del Centro y deleitarse con la comida queretana que se vende en sus numerosos restaurantes, y de visitar el famoso Museo de la Máscara, el cual se encuentra albergado en una construcción conocida como El Castillo, la cual data del siglo XVIII y está inspirada en los castillos medievales europeos. Saliendo un poco del Pueblo, podrás tomar alguno de los muchos tours y visitar un viñedo, muchas veces con catas de quesos y vinos incluidas.
 
 Cadereyta
 
