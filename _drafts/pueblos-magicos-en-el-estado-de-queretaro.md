@@ -47,7 +47,9 @@ La fama de este **Pueblo Mágico** se debe, en gran parte, al magnífico monolit
 
 En la Sierra Gorda queretana, son famosas las llamadas "misiones franciscanas", las cuales son edificaciones religiosas construidas durante los años del Virreinato, justo, por órdenes franciscanas, y que tienen estilos arquitectónicos similares. Una de ellas se encuentra en Cadereyta de Montes, localidad que no hay que confundir con su homónima en el estado de Nuevo León. En este hermoso Pueblo Mágico queretano es imperdible la visita a la **Plaza Principal**, donde encontrarás la famosa Parroquia de **San Pedro y San Pablo**, la cual tiene un retablo de estilo churrigueresco detrás de su fachada neoclásica. Además de visitar otros templos de interés, hay que probar la afamada barbacoa de borrego del lugar y adentrarse en los jardines botánicos. Saliendo un poco del pueblo, uno encuentra atractivos naturales como la hermosa **Presa Zimapán** o las **cascadas** **Chuveje**, **Velo de Novia** y **El Salto**.
 
-Jalpan de Serra
+## Jalpan de Serra
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Misi%C3%B3n_de_Jalpan%2C_Jalpan_de_Serra%2C_Queretaro.jpg/1024px-Misi%C3%B3n_de_Jalpan%2C_Jalpan_de_Serra%2C_Queretaro.jpg)
 
 San Joaquín
 
