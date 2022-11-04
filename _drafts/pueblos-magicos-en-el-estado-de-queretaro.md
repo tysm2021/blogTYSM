@@ -28,3 +28,17 @@ Desde su arranque hace poco más de veinte años, el programa **Pueblos Mágicos
 Así pues, prepara tu mochila virtual para recorrer juntos, al menos con la vista y la imaginación, estos seis poblados llenos de encanto, impresionantes vistas, deliciosa gastronomía, folclor, artesanías y todo lo que uno espera encontrar al visitar la hermosa provincia mexicana.
 
 TE RECOMENDAMOS:
+
+## Amealco
+
+Empezamos con este pueblo que, en años recientes, se ha hecho muy famoso por su artesanía más conocida: las famosas muñecas de Amealco, que son pequeñas niñas y mujeres hechas de tela, las cuales han llegado a todos los mercados mexicanos e incluso son conocidas en el extranjero.
+
+Bernal
+
+Cadereyta
+
+Jalpan de Serra
+
+San Joaquín
+
+Tequisquiapan
