@@ -63,4 +63,6 @@ La mejor forma de admirar este **Pueblo Mágico** es desde las alturas. Y quizá
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/72/Tequisquiapan_Pueblo.jpg)
 
-Por último, llegamos a este pintoresco Pueblo Mágico, famoso por los vinos y los quesos que se producen y venden en él. Pero antes de beber y de comer, quizá te interese conocer la Plaza de Armas, donde destaca la hermosa **Parroquia de Santa María de la Asunción** y podrás comer un helado disfrutando de la vista. 
+Por último, llegamos a este pintoresco Pueblo Mágico, famoso por los vinos y los quesos que se producen y venden en él. Pero antes de beber y de comer, quizá te interese conocer la Plaza de Armas, donde destaca la hermosa **Parroquia de Santa María de la Asunción** y podrás comer un helado disfrutando de la vista. A unos metros encontrarás el Parque de La Pila y el Museo México Me Encanta. Y ya entrados en gastos, puedes recorrer su famosa Mina de Ópalo, situada a 12 kilómetros en el pueblo de La Trinidad, o tomar algunos de los paseos que salen del Pueblo y visitan los viñedos cercanos, lo cual es especialmente atractivo en la época de vendimia.
+
+Y a ti, ¿cuál de estas opciones te gustó más?…
