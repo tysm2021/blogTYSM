@@ -37,4 +37,16 @@ Actualmente, la ciudad recibe el nombre de **Tula de Allende**, en honor al hér
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TulaSite117.JPG/1024px-TulaSite117.JPG) 
 
-La leyenda dice que **Tula** fue fundada por el mítico rey **Ce Ácatl Topiltzin Quetzalcóatl**, en cual gobernó gentilmente, trajo la prosperidad a su pueblo e impuso el culto al dios Quetzalcóatl, la serpiente emplumada, vinculada con el planeta Venus. Las primeras evidencias de ocupación en esta zona corresponden al mismo momento en que la ciudad de Teotihuacán iniciaba su declive como centro rector de Mesoamérica. Históricamente, los conflictos con los seguidores del dios Tezcatlipoca, el "gemelo perverso" de Quetzalcóatl, terminó en la expulsión de los toltecas, los cuales migraron hacia el sureste, con evidencias que fueron ellos quienes fundaron la ciudad maya de Chichén Itzá.
+La leyenda dice que **Tula** fue fundada por el mítico rey **Ce Ácatl Topiltzin Quetzalcóatl**, en cual gobernó gentilmente, trajo la prosperidad a su pueblo e impuso el culto al dios Quetzalcóatl, la serpiente emplumada, vinculada con el planeta Venus. Las primeras evidencias de ocupación en esta zona corresponden al mismo momento en que la ciudad de Teotihuacán iniciaba su declive como centro rector de Mesoamérica. La historia y la leyenda coinciden en que los conflictos con los seguidores del dios Tezcatlipoca, el "gemelo perverso" de Quetzalcóatl, terminó en la expulsión de los toltecas, los cuales migraron hacia el sureste, con evidencias que fueron ellos quienes fundaron la ciudad maya de Chichén Itzá.
+
+El dominio de la ciudad de **Tollan-Xicocotitlan** llegó a su fin hacia la mitad del siglo XII, debido a la incursión de grupos de filiación mexica y a disputas internas. Una de las polémicas más interesantes en torno a la ciudad de Tula es la que se refiere al mito del destierro de Quetzalcóatl, el cual sería una alegoría del desplazamiento político y militar que sufrieron los toltecas a manos de grupos venidos del norte y de ascendencia chichimeca, como los mexicas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/4e/Quetzalc%C3%B3atl_5.jpg)
+
+Los arqueólogos distinguen un primer asentamiento, llamado Tula Chico, que cubre una superficie de tres km2 aproximadamente, siguiendo el cauce del río Tula. Después, en el siglo X, se fundó lo que se conoce como **Tula Grande**, cuya orientación se determinó mediante la observación de fenómenos estelares y, a partir de ella, se construyeron edificaciones más importantes de la urbe tolteca, misma que se agrupó en barrios donde se erigieron templos y palacios.
+
+Actualmente, la zona arqueológica está presidida por los **Atlantes**, los cuales deben de haber servido como columnas que sostenían el techo de un templo y se encuentran en la cima de una edificación de piedra. También destacan el Palacio de Quetzalcóatl, el Palacio Quemado, el Templo de Tlahuizcaltpantecuhtli o Señor de la Estrella de la Mañana, un tzompantli o muro de calaveras, y dos canchas para el juego de pelota.
+
+## Los atlantes
+
+Los llamados **Atlantes de Tula** son cuatro esculturas antropomorfas de piedra, con 4.6 metros de altura, que están decoradas con representaciones de guerreros, los cuales portan pectorales en forma de mariposa, un átlatl o lanzadardos, un cuchillo de obsidiana y un copil o tocado como parte de su atuendo. 
