@@ -23,7 +23,7 @@ show_author_profile: false
 comment: false
 
 ---
-Desde su arranque hace poco más de veinte años, el programa Pueblos Mágicos ha exaltado la belleza y los atractivos históricos. culturales y naturales de diversos pueblos a lo largo y ancho de México, promoviéndolos como importantes destinos turísticos ante el visitante nacional y extranjero. En esta ocasión, nos referiremos a los seis pueblos del estado de Querétaro, que son: Amealco, Bernal, Cadereyta, Jalpan de Serra, San Joaquín y Tequisquiapan.
+Desde su arranque hace poco más de veinte años, el programa **Pueblos Mágicos** ha exaltado la belleza y los atractivos históricos. culturales y naturales de diversos **pueblos** a lo largo y ancho de **México**, promoviéndolos como importantes destinos turísticos ante el visitante nacional y extranjero. En esta ocasión, nos referiremos a los **seis** **Pueblos Mágicos** del estado de **Querétaro**, que son: **Amealco**, **Bernal**, **Cadereyta**, **Jalpan de Serra**, **San Joaquín** y **Tequisquiapan**.
 
 Así pues, prepara tu mochila virtual para recorrer juntos, al menos con la vista y la imaginación, estos seis poblados llenos de encanto, impresionantes vistas, deliciosa gastronomía, folclor, artesanías y todo lo que uno espera encontrar al visitar la hermosa provincia mexicana.
 
