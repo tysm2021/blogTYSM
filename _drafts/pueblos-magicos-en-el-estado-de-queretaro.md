@@ -53,6 +53,14 @@ En la Sierra Gorda queretana, son famosas las llamadas "misiones franciscanas", 
 
 Otro de los **Pueblos Mágicos** queretanos enclavados en la Sierra Gorda y que cuentan con una de las misiones franciscanas es **Jalpan de Serra**. En su Plaza principal encontrarás la **Misión de Santiago de Jalpan**, la cual tiene una hermosa fachada de cantera rosa decorada con flores e imágenes religiosas. También podrás encontrar el **Museo Histórico de la Sierra Gorda**, cuyo edificio fue construido como presidio militar en 1576; ahí encontrarás fotografías, piezas arqueológicas y objetos de uso cotidiano de los pueblos de la Sierra Gorda, como los pames, los más antiguos pobladores de la región. También están cerca la zona arqueológica de **Tancamá** y la Reserva de la Biósfera de la Sierra Gorda, que tiene unos paisajes que quitan el aliento.
 
-San Joaquín
+## San Joaquín
 
-Tequisquiapan
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mirador_de_San_Joaqu%C3%ADn.jpg/1024px-Mirador_de_San_Joaqu%C3%ADn.jpg)
+
+La mejor forma de admirar este **Pueblo Mágico** es desde las alturas. Y quizás el mejor punto para hacerlo es el **Mirador La Crucita**, también conocido como **Mirador de San Joaquín**, que se encuentra a las afueras del pueblo y desde el cual podrás localizar los principales edificios y admirar las casas, con sus techumbres de teja rojiza. Si lo tuyo es la **arqueología**, puedes encontrar las zonas de **Ranas** y **Toluquilla**, que cuentan con un espectacular juego de pelota. O bien, puedes internarte en la Gruta de los Herrera, cuyas escalactitas y escalagmitas asemejan figuras como un león o un cocodrilo. Por último, está el **Museo Comunitario Mineral de San Joaquín**, así como los comercios y restaurantes donde podrás disfrutar comida típica o comprar alguna artesanía.
+
+## Tequisquiapan
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/72/Tequisquiapan_Pueblo.jpg)
+
+Por último, llegamos a este pintoresco Pueblo Mágico, famoso por los vinos y los quesos que se producen y venden en él. Pero antes de beber y de comer, quizá te interese conocer la Plaza de Armas, donde destaca la hermosa **Parroquia de Santa María de la Asunción** y podrás comer un helado disfrutando de la vista. 
