@@ -45,8 +45,12 @@ El dominio de la ciudad de **Tollan-Xicocotitlan** llegó a su fin hacia la mita
 
 Los arqueólogos distinguen un primer asentamiento, llamado Tula Chico, que cubre una superficie de tres km2 aproximadamente, siguiendo el cauce del río Tula. Después, en el siglo X, se fundó lo que se conoce como **Tula Grande**, cuya orientación se determinó mediante la observación de fenómenos estelares y, a partir de ella, se construyeron edificaciones más importantes de la urbe tolteca, misma que se agrupó en barrios donde se erigieron templos y palacios.
 
-Actualmente, la zona arqueológica está presidida por los **Atlantes**, los cuales deben de haber servido como columnas que sostenían el techo de un templo y se encuentran en la cima de una edificación de piedra. También destacan el Palacio de Quetzalcóatl, el Palacio Quemado, el Templo de Tlahuizcaltpantecuhtli o Señor de la Estrella de la Mañana, un tzompantli o muro de calaveras, y dos canchas para el juego de pelota.
+Actualmente, la zona arqueológica está presidida por los **Atlantes**, los cuales deben de haber servido como columnas que sostenían el techo del Templo de Tlahuizcaltpantecuhtli —o Señor de la Estrella de la Mañana— y se encuentran en la cima de una edificación de piedra conocida como Pirámide B. También destacan el Palacio de Quetzalcóatl, el Palacio Quemado, un tzompantli o muro de calaveras, y dos canchas para el juego de pelota.
 
 ## Los atlantes
 
-Los llamados **Atlantes de Tula** son cuatro esculturas antropomorfas de piedra, con 4.6 metros de altura, que están decoradas con representaciones de guerreros, los cuales portan pectorales en forma de mariposa, un átlatl o lanzadardos, un cuchillo de obsidiana y un copil o tocado como parte de su atuendo. 
+Los llamados **Atlantes de Tula** son cuatro esculturas antropomorfas de piedra, con 4.6 metros de altura, que están decoradas con representaciones de guerreros, los cuales portan pectorales en forma de mariposa, un átlatl o lanzadardos, en su mano derecha un haz de flechas, un cuchillo de obsidiana, un faldellín con un gran cinturón anudado al frente, en la parte posterior un disco solar, y sobre la cabeza un copil o tocado como parte de su atuendo. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/El_Atlante_de_Tula.jpg/674px-El_Atlante_de_Tula.jpg)
+
+Se considera que son representaciones de **Quetzalcóatl** como la Estrella de la Mañana, que como sabemos no es una estrella sino más bien el planeta Venus, que poco antes del amanecer fulgura como si fuera una estrellas. Quienes los conocen de primera mano dicen que es como si estas magníficas esculturas hubieran sido edificadas para custodiar eternamente la que fuera la gran capital de la civilización tolteca.
