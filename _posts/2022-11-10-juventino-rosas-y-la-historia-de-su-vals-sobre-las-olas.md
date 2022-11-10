@@ -36,3 +36,7 @@ Tras la muerte de sus padres, en 1885 **Juventino** ingresó al Conservatorio Na
 Como haya sido, el vals oficialmente fue dedicado a la señora Calixta Gutiérrez de Alfaro, con arreglo para piano de Miguel Ríos Toledano, quien cambió el nombre a "**Sobre las olas**", publicado así en 1888 por los editores Wagner y Levien, quienes pagaron al joven autor 45 pesos por este vals y por el chotis "Lazos de amor".
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/95/OverTheWaves.jpg)
+
+Ese mismo año, 1888, compuso "Carmen", un vals dedicado a doña Carmen Romero Rubio, esposa del presidente Porfirio Díaz, quien como agradecimiento le regaló un piano de cola, mismo que Rosas vendió para saldar deudas. Pero, sin importar cómo haya sido su origen, el vals "**Sobre las olas**" fue el que tuvo un éxito sin precedentes en México y en el mundo, aunque esto no reportó ningún beneficio económico al compositor pues la empresa que compró la pieza no le daba regalías, por lo que **Juventino Rosas** se vio obligado a desempeñarse como músico itinerante con distintas agrupaciones, con las que recorrió el norte de México y llegó hasta a los Estados Unidos.
+
+Ahí, en la ciudad de Chicago, se unió a la Orquesta Italo-Mexicana del cubano Eduardo González, con la que inició una gira por Cuba a principios de 1894. A punto de terminar esta gira, el joven **Juventino** cayó enfermo de mielitis transversa y fue internado en el Hospital Nuestra Señora del Rosario, en el poblado de Batabanó, al sur de La Habana, donde murió el 9 de julio de 1894, a la tierna edad de 26 años.
