@@ -41,4 +41,12 @@ Como sucede con el Museo del Louvre, en París, o la Galería de los Uffizi, en 
 
 ## La Colección
 
-El inventario de bienes artísticos comprendía, en febrero de 2017, más de 35 000 objetos y obras de arte, que se desglosan en: 8045 pinturas, 9561 dibujos, 5973 estampas, 971 esculturas —además de 154 fragmentos—, 1189 piezas de artes decorativas, 38 armas y armaduras, 2155 medallas y monedas, además de unas 15 000 fotografías. Al visitarlo, el Museo se puede dividir en cuatro secciones: Pintura, con cinco subdivisiones; Dibujos, estampas y fotografía; Escultura y Artes Decorativas. La sección de pintura se divide en: pintura española, la más representada, y pinturas italiana, flamenca, alemana, francesa, británica, neerlandesa y de otras escuelas.
+El inventario de bienes artísticos comprendía, en febrero de 2017, más de 35 000 objetos y obras de arte, que se desglosan en: 8045 pinturas, 9561 dibujos, 5973 estampas, 971 esculturas —además de 154 fragmentos—, 1189 piezas de artes decorativas, 38 armas y armaduras, 2155 medallas y monedas, además de unas 15 000 fotografías. Al visitarlo, el **Museo** se puede dividir en cuatro secciones: **Pintura**, con cinco subdivisiones; **Dibujos**, estampas y fotografía; **Escultura** y **Artes Decorativas**. La sección de **pintura** se divide en: pintura **española**, la más representada, y pinturas italiana, flamenca, alemana, francesa, británica, neerlandesa y de otras escuelas.
+
+Hablando de **pintura española**, el museo cuenta con más de 5 mil piezas que trazan la historia del arte plástico en la península, desde el siglo XII hasta los primeros años del siglo XX. Entre sus obras, destacan _Las Meninas_ de **Diego Velázquez**, _La Inmaculada Concepción_ de **Bartolomé Murillo**, _El caballero de la mano en el pecho_ y _La Anunciación_, de **El Greco**, _La maja desnuda_ y _Los fusilamientos_ de **Francisco de Goya**; también destacan obras de Pedro Berruguete, Francisco Zurbarán, José de Ribera y Juan de Zurbarán.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Las_Meninas_01.jpg/889px-Las_Meninas_01.jpg)
+
+Pasando a la pintura italiana, sobresalen _El tránsito de la Virgen_ de **Andrea Mantegna**, obras de Antonello da Messina y de Fra Angelico, como _La Anunciación_; lienzos de **Rafael Sanzio** tan relevantes como _La Virgen del pez_ o _La sagrada familia con San Juan_; _La gloria_ de **Tiziano** , _David vencedor de Goliat_, de **Caravaggio** —abajo de este párrafo—, 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/David_and_Goliath_by_Caravaggio.jpg/908px-David_and_Goliath_by_Caravaggio.jpg)
