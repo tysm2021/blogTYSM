@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Ubicado en **Madrid**, la capital de lo que fuera el Imperio Español, se encuentra el **Museo del Prado**, el cual durante sus más de doscientos años de existencia ha acumulado una importante **colección** de **pinturas** y **obras** artísticas, tanto de autores **españoles** como de otras nacionalidades, las cuales vale la pena conocer aunque sea de modo virtual. Por eso aquí te hablamos un poco de la historia del museo y te decimos cuáles son sus obras más importantes.
+
+Actualmente, y tras un par de años de pandemia, el Museo del Prado sigue siendo una de las instituciones culturales y artísticas más visitadas del mundo. Conozcámoslo un poco…
+
+TE RECOMENDAMOS:
