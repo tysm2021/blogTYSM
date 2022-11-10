@@ -47,6 +47,6 @@ Hablando de **pintura española**, el museo cuenta con más de 5 mil piezas que 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Las_Meninas_01.jpg/889px-Las_Meninas_01.jpg)
 
-Pasando a la pintura italiana, sobresalen _El tránsito de la Virgen_ de **Andrea Mantegna**, obras de Antonello da Messina y de Fra Angelico, como _La Anunciación_; lienzos de **Rafael Sanzio** tan relevantes como _La Virgen del pez_ o _La sagrada familia con San Juan_; _La gloria_ de **Tiziano** , _David vencedor de Goliat_, de **Caravaggio** —abajo de este párrafo—, 
+Pasando a la pintura italiana, sobresalen _El tránsito de la Virgen_ de **Andrea Mantegna**, obras de Antonello da Messina y de Fra Angelico, como _La Anunciación_; lienzos de **Rafael Sanzio** tan relevantes como _La Virgen del pez_ o _La sagrada familia con San Juan_; _La gloria_ de **Tiziano**, obras de Tintoretto y de Veronés, así como _David vencedor de Goliat_, de **Caravaggio** —abajo de este párrafo—; 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/David_and_Goliath_by_Caravaggio.jpg/908px-David_and_Goliath_by_Caravaggio.jpg)
