@@ -28,3 +28,9 @@ Ubicado en **Madrid**, la capital de lo que fuera el Imperio Español, se encuen
 Actualmente, y tras un par de años de pandemia, el Museo del Prado sigue siendo una de las instituciones culturales y artísticas más visitadas del mundo. Conozcámoslo un poco…
 
 TE RECOMENDAMOS:
+
+El edificio que alberga actualmente al **Museo Nacional del Prado** —que es su nombre oficial— fue concebido inicialmente a finales del siglo XVIII por José Moñino y Redondo, conde de Floridablanca y primer secretario de Estado del rey **Carlos III**, como un sitio destinado a convertirse en el Real Gabinete de Historia Natural. Para la construcción del inmueble, el monarca español confió el proyecto a uno de sus arquitectos favoritos, **Juan de Villanueva**, cuyo proyecto inicial de pinacoteca fue aprobado por **Carlos III** en 1786, año en que empezaron también los trabajos de edificación.
+
+Las obras continuaron durante el reinado de **Carlos IV** y se prolongaron hasta inicios del siglo XIX, pero la invasión de las tropas francesas y la Guerra de Independencia de España hicieron mella en el proyecto, pues el edificio fue destinado a servir como cuartel de caballería y algunos de los herrajes con los que estaba provisto terminaron siendo fundidos para convertirse en balas de artillería. Fue por interés del siguiente monarca, el rey **Fernando VI**I, que en 1818 se reanudaron las obras, se restauró el edificio que había quedado casi en ruinas y, finalmente, el 19 de noviembre de 1819 se inauguró discretamente el **Museo Real de Pinturas**, que fue la denominación inicial de la institución.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Vista_general_Museo_del_Prado.JPG/1024px-Vista_general_Museo_del_Prado.JPG)
