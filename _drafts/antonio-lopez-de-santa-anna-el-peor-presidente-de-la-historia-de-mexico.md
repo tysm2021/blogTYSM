@@ -34,3 +34,5 @@ Antonio de Padua María Severino López de Santa Anna y Pérez de Lebrón, que e
 Antonio López de Santa Anna nació en el seno de una familia aristócrata y criolla de la Nueva España. Sus inicios en la milicia fueron como cadete en el Ejército Real de la Nueva España, y en 1811 fue convocado a sofocar el movimiento insurgente que había iniciado Miguel Hidalgo. Después, marchó hacia el norte, donde estuvo bajo el mando del coronel José Joaquín Arredondo. En 1821, formó parte del Ejército Trigarante de Iturbide y de Guerrero, y con su habilidad diplomática fue haciéndose de posiciones y cargos, y en 1829 llegó a la gobernatura de su estado, Veracruz.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ed/Oleo_Antonio_Lopez_de_Santa_Anna.PNG)
+
+Poco tiempo después, en 1833, Santa Anna llegó a la presidencia. Es un mito común decir que ocupó once veces la silla presidencial, pero esto es impreciso: en realidad fueron seis las ocasiones e que recibió la máxima investidura de la Nación, pero se habla de once periodos por las numerosas licencias que pidió mientras ocupaba esos cargos.
