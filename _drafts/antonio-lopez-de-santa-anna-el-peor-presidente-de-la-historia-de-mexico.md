@@ -36,3 +36,5 @@ TE RECOMENDAMOS:
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ed/Oleo_Antonio_Lopez_de_Santa_Anna.PNG)
 
 Poco tiempo después, en 1833, **Santa Anna** llegó por primera vez a la **presidencia**. Es un mito común decir que ocupó once veces la silla presidencial, pero esto es impreciso: en realidad fueron seis las ocasiones e que recibió la máxima investidura de la Nación, pero se habla de once periodos por las numerosas licencias que pidió mientras ocupaba esos cargos.
+
+En total, **López de Santa Anna ocupó la Presidencia de la República en seis ocasiones**: en 1833, dividido en tres periodos: del 16 de mayo al 3 de junio, del 18 de junio al 5 de julio, y del 27 de octubre al 15 de diciembre; la segunda fue del 24 de abril de 1834 al 27 de enero de 1835; el tercer periodo fue en 1839, del 23 de marzo al 10 de julio; el cuarto, del 10 de octubre de 1841 al 26 de octubre de 1842; una quinta presidencia fue entre el 14 de mayo y el 6 de septiembre de 1843, y del 4 de junio12 de septiembre de 1844; y su sexto periodo fue en 1847, del 21 de marzo al 2 de abril y del 20 de mayo al 16 de septiembre de 1847.
