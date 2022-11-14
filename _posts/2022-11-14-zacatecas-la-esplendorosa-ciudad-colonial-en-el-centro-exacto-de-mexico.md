@@ -59,4 +59,6 @@ Al este del Centro Histórico de **Zacatecas** se encuentra una elevación natur
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0d/Our_Lady_of_Fatima_Church%2C_Zacatecas_city%2C_Zacatecas_state%2C_Mexico_02.jpg)Además de la Catedral, en el centro zacatecano destaca esta espigada y hermosa **parroquia**, de estilo neogótico y construida con **cantera rosa** y naranja. La primera piedra fue colocada en el año de 1950, tiene forma de cruz latina, con capillas en ambos lados y cuenta con tres naves separas por columnas. Su cúpula es octagonal y tiene vitrales que muestran diferentes pasajes de la biblia, así como la aparición de la virgen de Fátima. Por las noches, la iluminación es espectacular, pues destaca su altura y los matices de color del material empleado en su construcción.
 
-¿Y qué hay de comer?
+### ¿Y qué hay de comer?
+
+No puedes irte de esta ciudad sin probar el legendario **queso Zacatecas**, un producto lácteo semi maduro, de sabor ligeramente salado y que gratina muy bien, el cual se vende en piezas redondas completas y por kilo, y se puede distinguir por su color naranja rojizo, debido al recubrimiento con chile que se le da a las piezas. Y ahora sí, ¿no se te antojó conocer **Zacatecas**?
