@@ -41,7 +41,7 @@ En el Centro Histórico de la ciudad se encuentra esta joya del estilo barroco c
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Museo_Rafael_Coronel%2C_Jard%C3%ADn_-_panoramio.jpg/1024px-Museo_Rafael_Coronel%2C_Jard%C3%ADn_-_panoramio.jpg)
 
-Este museo ocupa lo que fuera el ex Convento de San Francisco, cuya construcción inició en el siglo XVI y concluyó en el siglo XVIII. 
+Este museo ocupa lo que fuera el ex Convento de San Francisco, cuya construcción inició en el siglo XVI y concluyó en el siglo XVIII. Actualmente es un importante recinto cultural que resguarda un acervo de más de 16 mil piezas entre máscaras, dibujos, ollas, terracotas, objetos prehispánicos, títeres, exvotos, cuadros, artesanías, instrumentos musicales y muebles coloniales. Lleva el nombre del pintor zacatecano **Rafael Coronel**, el cual nació en esta ciudad en 1932, y como museo fue inaugurado el 5 de julio de 1990. Los expertos consideran su colección de máscaras como la más grande del mundo y posee, también, una colección de obras de Diego Rivera-
 
 ### Cerro de la Bufa y teleférico
 
