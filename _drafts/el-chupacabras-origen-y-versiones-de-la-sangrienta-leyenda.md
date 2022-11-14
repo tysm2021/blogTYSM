@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+En la década de 1990, una era aún dominada por internet, se hizo famosa la leyenda de una espantosa criatura que, supuestamente, durante las noches se alimentaba de la sangre de las cabras y de otros animales, los cuales al día siguiente aparecían muertos, exangües y con huellas de colmillos en el cuello. El imaginario popular le llamó "el Chupacabras"y durante algún tiempo mantuvo ocupada a la prensa de aquellos tiempos. ¿De qué se trató, cuál fue el origen y la explicación de esta leyenda?
+
+Recordemos este episodio del folclor mexicano del siglo XX, el cual trasladó numerosas leyendas, creencias y supersticiones a escenarios en grandes ciudades, dando lugar a las llamadas "leyendas urbanas".
+
+TE RECOMENDAMOS:
