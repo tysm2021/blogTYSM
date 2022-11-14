@@ -53,7 +53,7 @@ Al este del Centro Histórico de **Zacatecas** se encuentra una elevación natur
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d6/Mina_El_Ed%C3%A9n_Zacatecas_M%C3%A9xico.jpg)
 
-xx
+¿Recuerdas que dijimos que **Zacatecas** fue una urbe opulenta  gracias a la explotación de la plata? Pues gran parte de la fama de la ciudad se debe al noble metal que fue extraído de esta **mina**, la cual estuvo en funciones desde el siglo XVI hasta la década de 1960, cuando se agotó y fue abandonada. Hoy, para recordar los tiempos del esplendor minero zacatecano, puedes visitarla y recorrer dos kilómetros de túneles y galerías excavados del **Cerro del Grillo**. Y si lo tuyo es "el reventón", podrás darle rienda suelta a tus ganas de bailar y divertirte en el **Mina Club**, una discoteca que está abierta de las 10 de la noche a las 3 de la mañana del día siguiente.
 
 ### Parroquia de Nuestra Señora de Fátima
 
