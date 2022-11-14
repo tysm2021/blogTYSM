@@ -31,9 +31,15 @@ TE RECOMENDAMOS:
 
 Debido a los beneficios obtenidos por la extracción de plata en sus minas, en algún tiempo Zacatecas fue considerada la segunda ciudad más importante económicamente en la Nueva España, tan sólo detrás de la Ciudad de México. Después, a principios del siglo XX, fue el escenario de una de las batallas más importantes de la Revolución Mexicana: la toma de Zacatecas por Pancho Villa. Después, entre las décadas de 1910 y 1920, con la decadencia de la industria minera la ciudad empezó a despoblarse. Actualmente es una discreta y hermosa ciudad colonial, la cual hay que visitar para conocer los siguientes atractivos.
 
-Catedral de Zacatecas
+### Catedral de Zacatecas
 
-Museo Rafael Coronel
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Catedral%2C_Arquitectura_Colonial%2C_Zacatecas_%2816461248359%29.jpg/1024px-Catedral%2C_Arquitectura_Colonial%2C_Zacatecas_%2816461248359%29.jpg)
+
+xxx
+
+### Museo Rafael Coronel
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Museo_Rafael_Coronel%2C_Jard%C3%ADn_-_panoramio.jpg/1024px-Museo_Rafael_Coronel%2C_Jard%C3%ADn_-_panoramio.jpg)
 
 Cerro de le Bufa y teleférico
 
