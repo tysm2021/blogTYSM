@@ -55,8 +55,8 @@ Al este del Centro Histórico de **Zacatecas** se encuentra una elevación natur
 
 ¿Recuerdas que dijimos que **Zacatecas** fue una urbe opulenta  gracias a la explotación de la plata? Pues gran parte de la fama de la ciudad se debe al noble metal que fue extraído de esta **mina**, la cual estuvo en funciones desde el siglo XVI hasta la década de 1960, cuando se agotó y fue abandonada. Hoy, para recordar los tiempos del esplendor minero zacatecano, puedes visitarla y recorrer dos kilómetros de túneles y galerías excavados del **Cerro del Grillo**. Y si lo tuyo es "el reventón", podrás darle rienda suelta a tus ganas de bailar y divertirte en el **Mina Club**, una discoteca que está abierta de las 10 de la noche a las 3 de la mañana del día siguiente.
 
-### Parroquia de Nuestra Señora de Fátima
+### Templo de Nuestra Señora de Fátima
 
-![](https://upload.wikimedia.org/wikipedia/commons/0/0d/Our_Lady_of_Fatima_Church%2C_Zacatecas_city%2C_Zacatecas_state%2C_Mexico_02.jpg)Además de la Catedral, en el centro zacatecano destaca esta espigada y hermosa **parroquia**, de estilo neogótico y construida con **cantera rosa**. 
+![](https://upload.wikimedia.org/wikipedia/commons/0/0d/Our_Lady_of_Fatima_Church%2C_Zacatecas_city%2C_Zacatecas_state%2C_Mexico_02.jpg)Además de la Catedral, en el centro zacatecano destaca esta espigada y hermosa **parroquia**, de estilo neogótico y construida con **cantera rosa** y naranja. Tiene forma de cruz latina, con capillas en ambos lados y con tres naves separas por columnas; 
 
 ¿Y qué hay de comer?
