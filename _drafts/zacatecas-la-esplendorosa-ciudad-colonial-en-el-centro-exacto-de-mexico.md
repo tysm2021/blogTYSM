@@ -23,3 +23,4 @@ show_author_profile: false
 comment: false
 
 ---
+La ciudad de Zacatecas es capital del estado del mismo nombre, ubicado en el centro exacto de la República Mexicana, así como cabecera municipal del estado homónimo. En algún tiempo fue una de las ciudades más ricas del país y hoy, como ciudad colonial, sigue siendo un gran destino turístico para el visitante, con numerosos atractivos culturales, gastronómicos y arquitectónicos. Demos un breve recorrido y veamos qué hacer, a dónde ir, qué comer y qué comprar en esta hermosa ciudad.
