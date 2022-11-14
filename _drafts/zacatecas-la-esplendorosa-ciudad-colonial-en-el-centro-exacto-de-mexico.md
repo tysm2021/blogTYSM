@@ -35,7 +35,7 @@ Debido a los beneficios obtenidos por la extracción de plata en sus minas, en a
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Catedral%2C_Arquitectura_Colonial%2C_Zacatecas_%2816461248359%29.jpg/1024px-Catedral%2C_Arquitectura_Colonial%2C_Zacatecas_%2816461248359%29.jpg)
 
-xxx
+En el Centro Histórico de la ciudad se encuentra esta joya del estilo barroco churrigueresco mexicano, la cual está catalogada dentro de la Lista del Patrimonio Mundial de la UNESCO. La actual **Catedral de Zacatecas** —dedicada a al Virgen de la Asunción—  empezó a construirse a mediados del siglo XVIII y tomó mas de cien años para completarse. Destaca por su fachada realizada en cantera rosa, la cual está construida en tres cuerpos con motivos vegetales y motivos de ángeles y de la vida de los santos; se dice que las tonalidades de la cantera van variando a lo largo del día, y al ser iluminada por las noches ofrece al viajero una vista espectacular.
 
 ### Museo Rafael Coronel
 
