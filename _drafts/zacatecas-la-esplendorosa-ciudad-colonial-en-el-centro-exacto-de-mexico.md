@@ -47,8 +47,16 @@ xxx
 
 xx
 
-Mina El Encanto
+### Mina El Edén
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d6/Mina_El_Ed%C3%A9n_Zacatecas_M%C3%A9xico.jpg)
+
+xx
 
 Parroquia de Nuestra Señora de Fátima
 
-Queso zacatecano
+![](https://upload.wikimedia.org/wikipedia/commons/0/0d/Our_Lady_of_Fatima_Church%2C_Zacatecas_city%2C_Zacatecas_state%2C_Mexico_02.jpg)
+
+xx
+
+¿Qué comer?
