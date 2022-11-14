@@ -41,6 +41,8 @@ En el Centro Histórico de la ciudad se encuentra esta joya del estilo barroco c
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Museo_Rafael_Coronel%2C_Jard%C3%ADn_-_panoramio.jpg/1024px-Museo_Rafael_Coronel%2C_Jard%C3%ADn_-_panoramio.jpg)
 
+Este museo ocupa lo que fuera el ex Convento de San Francisco, cuya construcción inició en el siglo XVI y concluyó en el siglo XVIII. 
+
 ### Cerro de la Bufa y teleférico
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zacatecas_Panoramic_View.jpg/1024px-Zacatecas_Panoramic_View.jpg)
