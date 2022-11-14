@@ -23,8 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
-La ciudad de Zacatecas es capital del estado del mismo nombre, ubicado en el centro exacto de la República Mexicana, así como cabecera municipal del estado homónimo. En algún tiempo fue una de las ciudades más ricas del país y hoy, como ciudad colonial, sigue siendo un gran destino turístico para el visitante, con numerosos atractivos culturales, gastronómicos y arquitectónicos. Demos un breve recorrido y veamos qué hacer, a dónde ir, qué comer y qué comprar en esta hermosa ciudad.
+La **ciudad** de **Zacatecas** es capital del estado del mismo nombre, ubicado en el centro exacto de la República Mexicana, así como cabecera municipal del estado homónimo. En algún tiempo fue una de las ciudades más ricas del país y hoy, como ciudad colonial, sigue siendo un gran **destino turístico** para el visitante, con numerosos **atractivos** **culturales**, **gastronómicos** y **arquitectónicos**. Demos un breve recorrido y veamos **qué hacer**, a **dónde ir**, **qué comer** y **qué comprar** en esta hermosa ciudad.
 
-La historia de Zacatecas empieza con la de los pueblos zacatecas, una tribu chichimeca que se estableció en el valle que hoy ocupa la ciudad. Tras la Conquista, en el año de 1546 el explorador Juan de Tolosa descubrió en la región ricos yacimientos de plata, lo que dio lugar a la fundación del Real de Minas de Nuestra Señora de los Zacatecas, el cual en 1588 fue nombrada "Muy Noble y Muy Leal Ciudad" por el rey Felipe II de España, en virtud de las grandes riquezas con las que proveyó a la corona española.
+La historia de **Zacatecas** empieza con la de los pueblos zacatecas, una tribu chichimeca que se estableció en el valle que hoy ocupa la ciudad. Tras la Conquista, en el año de 1546 el explorador **Juan de Tolosa** descubrió en la región ricos yacimientos de plata, lo que dio lugar a la fundación del Real de Minas de Nuestra Señora de los Zacatecas, el cual en 1588 fue nombrada "Muy Noble y Muy Leal Ciudad" por el rey Felipe II de España, en virtud de las grandes riquezas con las que proveyó a la corona española.
 
 TE RECOMENDAMOS:
