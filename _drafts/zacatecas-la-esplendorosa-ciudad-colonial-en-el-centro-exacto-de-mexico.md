@@ -41,7 +41,11 @@ xxx
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Museo_Rafael_Coronel%2C_Jard%C3%ADn_-_panoramio.jpg/1024px-Museo_Rafael_Coronel%2C_Jard%C3%ADn_-_panoramio.jpg)
 
-Cerro de le Bufa y teleférico
+### Cerro de la Bufa y teleférico
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zacatecas_Panoramic_View.jpg/1024px-Zacatecas_Panoramic_View.jpg)
+
+xx
 
 Mina El Encanto
 
