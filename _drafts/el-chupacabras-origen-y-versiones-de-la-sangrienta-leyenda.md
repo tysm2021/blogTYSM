@@ -29,6 +29,12 @@ Recordemos este episodio del folclor mexicano del siglo XX, el cual trasladó nu
 
 TE RECOMENDAMOS:
 
-A mediados de la década de 1990, numerosos medios noticiosos mexicanos empezaron a reportar las misteriosas muertes que, principalmente en el norte de México sufrían reses, cabras, ovejas y otros animales de ganado. Lo que llamaba atención de esas muertes es que mostraban huellas de colmillos en el cuello y era como si les hubieran vaciado toda la sangre. Poco después, hubo unos supuestos avistamientos de la criatura responsable, a la cual la gente empezo a conocer como "El Chupacabras".
+A mediados de la década de 1990, numerosos medios noticiosos mexicanos empezaron a reportar las misteriosas muertes que, principalmente en el norte de México sufrían reses, **cabras**, ovejas y otros animales de ganado. Lo que llamaba atención de esas muertes es que mostraban huellas de colmillos en el cuello y era como si les hubieran vaciado toda la **sangre**. Poco después, hubo unos supuestos avistamientos de la **criatura** responsable, a la cual la gente empezo a conocer como "**El Chupacabras**".
 
-Las descripciones de la supuesta criatura son variados, pero en general coincidían en que se trataba de un animal del tamaño de un oso pequeño con aspecto reptiloide que andaba en dos patas —tendría una altura aproximada de entre 1.20 y 1.50 metros—, con ojos grandes y de un rojo encendido, púas en la espaldas y grandes garras afiladas. Para cuando se encontraron los primeros cadáveres de este monstruo, "El Chupacabras" ya era famoso en todo el mundo. Pero, ¿qué hay de cierto en su supuesta existencia y en sus sangrientos ataques?
+Las descripciones de la supuesta **criatura** son variados, pero en general coincidían en que se trataba de un animal del tamaño de un oso pequeño con aspecto reptiloide que andaba en dos patas —tendría una altura aproximada de entre 1.20 y 1.50 metros—, con ojos grandes y de un rojo encendido, púas en la espaldas y grandes garras afiladas. Para cuando se encontraron los primeros cadáveres de este monstruo, "**El Chupacabras**" ya era famoso en todo el mundo. Pero, ¿qué hay de cierto en su supuesta existencia y en sus sangrientos ataques?
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chupacabra_B%26W.jpg/999px-Chupacabra_B%26W.jpg)
+
+## El origen
+
+Pues aunque creas que esta leyenda es mexicana y que la criatura forma parte del folclor mexicano, resulta que no es así, puesto que la primera supuesta aparición del "**Chupacabras**" tuvo lugar en **Puerto Rico** en el año de **1995**. El nombre de la persona que lo vio por primera vez era Madeylen Tolentino, quien vivía en el pueblo puertorriqueño de Canóvanas. 
