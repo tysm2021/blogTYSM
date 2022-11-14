@@ -47,7 +47,7 @@ Este museo ocupa lo que fuera el ex Convento de San Francisco, cuya construcció
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zacatecas_Panoramic_View.jpg/1024px-Zacatecas_Panoramic_View.jpg)
 
-xx
+Al este del Centro Histórico de **Zacatecas** se encuentra una elevación natural que enmarca el perfil de la ciudad, llamada **Cerro de la Bufa** por Juan de Tolosa, pues al conquistador le recordó la forma de una vejiga de cerdo, que es lo que significa la palabra. Y uno de los recorridos infaltables consiste en tomar el **teleférico** que, en un tiempo de siete a ocho minutos, podrás contemplar la ciudad desde las alturas; puedes abordar este transporte en la **Mina El Edén** y subir hasta la **Bufa**, o tomarlo en sentido inverso. Ya que estés arriba, no pierdas la oportunidad de visitar el **Museo de la Toma de Zacatecas**.
 
 ### Mina El Edén
 
@@ -61,4 +61,4 @@ xx
 
 xx
 
-¿Qué comer?
+¿Y qué hay de comer?
