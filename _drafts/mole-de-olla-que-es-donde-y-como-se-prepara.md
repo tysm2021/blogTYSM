@@ -28,3 +28,9 @@ Una de las variedades de los mexicanísimos moles —palabra que proviene del n�
 A diferencia de otros **moles** que van molidos, triturados o en pasta, en el **mole de olla** los ingredientes se añaden en trozos en una olla —de ahí su nombre— y, a golpe de hervor, se deja que sus sabores se entremezclen.
 
 TE RECOMENDAMOS:
+
+La historia que el Gobierno de México nos cuenta sobre el **mole de olla** dice que éste tuvo su origen durante la Conquista, al adaptar los pucheros europeos, que solían hacerse con trozos de carnero, garbanzos y hortalizas, con los recursos de la milpa mexicana de los que disponían los pueblos originarios. Así, el carnero se sustituyó con res, y se añadieron otros ingredientes nativos de estas tierras.
+
+Los cocineros tradicionales coinciden en que un buen **mole de olla** lleva las siguientes **verduras**: ejotes, elote en trozo o en granos, chayote, col, calabacita y papa; también se suele sazonar con distintas hierbas aromáticas, sobre todo con epazote. La carne utilizada puede ser **espinazo** o **chambarete** con hueso de **res**.
+
+![](/images/2022-11-15-mole_de_olla.jpeg)
