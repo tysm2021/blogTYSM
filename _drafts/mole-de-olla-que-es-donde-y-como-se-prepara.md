@@ -23,8 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
-Una de las variedades de los mexicanísimos moles —palabra que proviene del náhuatl mulli, que significa 'salsa'— es el mole de olla que se prepara en el centro de México con carne roja y verduras. En este artículo te contaremos un poco sobre su origen, los elementos que lleva, las variantes por región y estado, y hasta una receta para prepararlo.
+Una de las variedades de los mexicanísimos moles —palabra que proviene del náhuatl _mulli_, que significa 'salsa'— es el **mole de olla** que se prepara en el **centro** de **México** con carne roja y verduras. En este artículo te contaremos un poco sobre su **origen**, los **elementos** que lleva, las **variantes** por región y estado, y hasta una **receta** para prepararlo.
 
-A diferencia de otros moles que van molidos, triturados o en pasta, en el mole de olla los ingredientes se añaden en trozos en una olla —de ahí su nombre— y, a golpe de hervor, se deja que sus sabores se entremezclen.
+A diferencia de otros **moles** que van molidos, triturados o en pasta, en el **mole de olla** los ingredientes se añaden en trozos en una olla —de ahí su nombre— y, a golpe de hervor, se deja que sus sabores se entremezclen.
 
 TE RECOMENDAMOS:
