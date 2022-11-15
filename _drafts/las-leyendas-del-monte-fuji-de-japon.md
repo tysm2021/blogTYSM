@@ -23,8 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
-El Monte Fuji, también conocido como Fuijiyama —aunque esto es un error—, es un volcán activo situado en la isla de Honshu, en el lejano Japón, y con sus casi 3 mil 800 metros de altura es la montaña más alta de todo el país. Además de su hermosura y de su peculiar forma, en torno a él existe una serie de mitos y leyendas que provienen de distintas fuentes y épocas del folclor japonés.
+El **Monte Fuji**, también conocido como **Fujiyama** —aunque esto es un error—, es un **volcán** activo situado en la isla de Honshu, en el lejano **Japón**, y con sus casi 3 mil 800 metros de altura es la **montaña** más alta de todo el país. Además de su hermosura y de su peculiar forma, en torno a él existe una serie de **mitos** y **leyendas** que provienen de distintas fuentes y épocas del **folclor** **japonés**.
 
-Conozcamos, entonces, algunas de estas leyendas que hablan de dioses y de diosas, del origen de la montaña, de los tiempos cuando estaba en erupción, y de otros rasgos que convierten al Fuji en el monte más emblemático del Japón.
+Conozcamos, entonces, algunas de estas **leyendas** que hablan de dioses y de diosas, del origen de la montaña, de los tiempos cuando estaba en erupción, y de otros rasgos que convierten al **Fuji** en el **monte** más emblemático del **Japón**.
 
 TE RECOMENDAMOS:
