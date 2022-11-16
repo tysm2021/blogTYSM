@@ -31,6 +31,8 @@ TE RECOMENDAMOS:
 
 La historia que el Gobierno de México nos cuenta sobre el **mole de olla** dice que éste tuvo su origen durante la Conquista, al adaptar los pucheros europeos, que solían hacerse con trozos de carnero, garbanzos y hortalizas, con los recursos de la milpa mexicana de los que disponían los pueblos originarios. Así, el carnero se sustituyó con res, y se añadieron otros ingredientes nativos de estas tierras.
 
-Los cocineros tradicionales coinciden en que un buen **mole de olla** lleva las siguientes **verduras**: ejotes, elote en trozo o en granos, chayote, col, calabacita y papa; también se suele sazonar con distintas hierbas aromáticas, sobre todo con epazote. La carne utilizada puede ser **espinazo** o **chambarete** con hueso de **res**.
+Los cocineros tradicionales coinciden en que un buen **mole de olla** lleva las siguientes **verduras**: ejotes, elote en trozo o en granos, chayote, col, calabacita y papa; también se suele sazonar con distintas hierbas aromáticas, sobre todo con epazote. La carne utilizada puede ser **espinazo** —con tuétano es lo mejor— o **chambarete** con hueso de **res**.
 
 ![](/images/2022-11-15-mole_de_olla.jpeg)
+
+Sobre el caldillo, éste se elabora con una base de jitomate o tomate rojo, a la cual se añaden **chiles** **guajillos** y **anchos**. Normalmente se sirve con cebolla picada y abundante jugo de limón. Por todos estos ingredientes, se le considera un platillo nutritivo y balanceado en vitaminas, minerales, antioxidantes, hierro y ácido fólico, carbohidratos, proteínas y fibra.
