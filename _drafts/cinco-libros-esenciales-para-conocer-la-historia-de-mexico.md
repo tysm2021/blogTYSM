@@ -39,7 +39,7 @@ Este importante volumen fue escrito en el siglo XVI por **Bernal Díaz del Casti
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Visi%C3%B3n_de_los_vencidos_1ra_ed.png/750px-Visi%C3%B3n_de_los_vencidos_1ra_ed.png)
 
-Esta obra, escrita por el experto **Miguel León-Portilla** y con el subtítulo de "Relaciones indígenas de la Conquista", es la otra cara de la moneda que expone Bernal Díaz del Castillo en su _Historia Verdadera de la Conquista de la Nueva España_. 
+Esta obra, escrita por el experto **Miguel León-Portilla** y con el subtítulo de "Relaciones indígenas de la Conquista", es la otra cara de la moneda que expone Bernal Díaz del Castillo en su _Historia Verdadera de la Conquista de la Nueva España_. Se trata de una recopilación de crónicas y otras narrativas que los pueblos indígenas de **México** hicieron del proceso militar y social que tuvo lugar durante la **Conquista** de **México**, particularmente de textos nahuas —es decir, escritos en náhuatl del centro del país— surgidos en el mismo siglo XVI y que rechazaron la presencia de extranjeros. Es una obra fundamental porque ofrece las historias detalladas de la **Conquista** desde el punto de vista de los pueblos indígenas, el cual raramente es estudiado por el público en general.
 
 México a través de los siglos
 
