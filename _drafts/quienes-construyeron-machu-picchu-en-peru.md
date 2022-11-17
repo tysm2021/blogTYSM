@@ -32,3 +32,5 @@ TE RECOMENDAMOS:
 **Machu Picchu**, expresión que en quechua significa 'monte viejo', es el nombre que actualmente recibe un antiguo poblado incaica situado a más de dos mil metros de altura en plena cordillera de los **Andes**. Según algunos estudiosos, su nombre original pudo haber sido Llaqtapata y se trató de una llacta, que era una urbe o ciudadela que funcionaba como centro administrativo del **Imperio Inca** en el siglo XV. Está ubicada en el departamento de Cusco, en el Valle Sagrado de los Incas, muy cerca de la ribera del río Urubamba.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg/1024px-Machu_Picchu%2C_Peru_%282018%29.jpg)
+
+Esta obra arquitectónica es considerada una obra maestra de la construcción y la ingeniería en la América precolombina. Su uso aún se discute, pero se cree que tenía un carácter más o menos privado —es decir, su acceso estaba limitado a militares, sacerdotes y dignatarios— 
