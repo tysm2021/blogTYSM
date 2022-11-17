@@ -23,8 +23,24 @@ show_author_profile: false
 comment: false
 
 ---
-Algo que distingue a los seguidores de Toño y su mariachi es que, en general, somos apasionados de la historia de México. Ya sea que hablemos de nuestros pueblos prehispánicos, de la epoca del Virreinato, de la Guerra de Independencia, del siglo XIX y del México independiente, del movimiento de la Revolución o de los hechos del siglo XX, nadie puede negar que la vida del país podrá ser lo que uno quiera, menos aburrida. Y a todo esto, ¿qué recomendaciones de libros podemos dar para saber más sobre historia nacional?
+Algo que distingue a los seguidores de Toño y su mariachi es que, en general, somos apasionados de la **historia de México**. Ya sea que hablemos de nuestros pueblos **prehispánicos**, de la epoca del **Virreinato**, de la Guerra de **Independencia**, del siglo XIX y del **México** independiente, del movimiento de la **Revolución** o de los hechos del siglo XX, nadie puede negar que la vida del país podrá ser lo que uno quiera, menos aburrida. Y a todo esto, ¿qué **recomendaciones** de **libros** podemos dar para saber más sobre **historia nacional**?
 
-A continuación te compartimos cinco títulos de libros, colecciones o volúmenes que, si lo que nos interesa es la historia, hay que conocer para enriquecer nuestra cultura general y el conocimiento sobre nuestro propio país y nuestra identidad.
+A continuación te compartimos cinco **títulos** de **libros**, colecciones o volúmenes que, si lo que nos interesa es la historia, hay que conocer para enriquecer nuestra cultura general y el conocimiento sobre nuestro propio país y nuestra identidad.
 
 TE RECOMENDAMOS:
+
+### Historia verdadera de la Conquista de la Nueva España
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Historia_verdadera_conquista_Nueva_Espa%C3%B1a_portada.jpg/712px-Historia_verdadera_conquista_Nueva_Espa%C3%B1a_portada.jpg)
+
+Este importante volumen fue escrito en el siglo XVI por **Bernal Díaz del Castillo**, uno de los soldados que acompañó a **Hernán Corté**s durante la **Conquista** de lo que hoy es México, y da cuenta del aspecto y de las costumbres de las ciudades y los pueblos prehispánicos que encontraron los conquistadores españoles en la llamada Nueva España, durante su incursión que duró de 1519 a 1521, así como de las acciones militares que condujeron al sometimiento militar de estos grupos humanos y al establecimiento de los distintos virreinatos americanos. Los historiadores coinciden en que la fecha de conclusión del manuscrito fue el año 1568, dieciséis años antes de la muerte de **Bernal Díaz del Castillo**, quién habría escribió esta "historia verdadera" como prueba de sus servicios a la Corona y como respuesta a las _Cartas de relación_ de Cortés, en las que reclamaba toda la gloria de la Conquista para sí mismo.
+
+La visión de los vencidos
+
+México a través de los siglos
+
+Historia General de México
+
+Historia mínima de México
+
+Érase una vez México
