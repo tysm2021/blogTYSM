@@ -45,7 +45,13 @@ Esta obra, escrita por el experto **Miguel León-Portilla** y con el subtítulo 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/fa/Mexicoatravsde.jpg)
 
-Historia General de México
+Esta, más que un **libro**, es toda una **enciclopedia** sobre **historia** de **México**. Su primera edición fue fue publicada en 1884 por las editoriales Espasa (España) y J. Ballescá (México), siendo un proyecto que contó con la dirección editorial del político, jurista y escritor Vicente Riva Palacio, y en su autoría participaron historiadores de la talla de Alfredo Chavero, Juan de Dios Arias, Enrique de Olavarría y Ferrari, José María Vigil y Julio Zárate. Esta importante colección está dividida en diez tomos que cubren la historia completa de México hasta el momento de su publicación, dividiéndose en: Historia antigua y de la Conquista, Historia del Virreinato, la Guerra de Independencia, el México independiente y la Guerra de Reforma. Además de ser un recuento extenso, detallado y preciso de hechos históricos, está bella y profusamente ilustrado: todo un deleite para los amantes de la **historia**.
+
+### Historia General de México
+
+![](/images/2022-11-17-h007-00-720x1024.jpeg)
+
+Este libro importantísimo fue editado por el prestigioso **Colegio de México** y está acreditado al historiador insigne **Daniel Cosío Villegas**. Su primera edición fue en el año 1976 y comprende la **historia** completa del país: las regiones de México, la prehistoria, el mundo mexica, el siglo XVI, el siglo XVIII, las primeras décadas del México independiente, la cultura mexicana del siglo XIX, así como la política y economía del México contemporáneo. Recientemente se lanzó una nueva edición, titulada Edición 2000, con sensibles mejoras y actualizaciones. Y si lo que quieres es dar un rápido vistazo al pasado, puedes consultar la _Historia Mínima de México_, editada también por el Colmex.
 
 Historia mínima de México
 
