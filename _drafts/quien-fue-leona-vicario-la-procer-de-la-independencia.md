@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Durante nuestra Guerra de **Independencia** la participación de las mujeres fue trascendental y hasta hace poco no había sido muy reconocida. Una de las heroínas que tuve un papel importante fue la insurgente **Leona Vicario**, nombrada Benemérita y Dulcísima **Madre de la Patria**. ¿**Quién fue** esta importante mujer, qué hizo durante su **vida** y por qué se le concedió ese nombramiento a nivel nacional?
+
+A continuación te presentamos una breve **biografía** de esta mujer, que además de haber sido un apoyo crucial para el movimiento independentista es considerada por muchos como la primera mujer periodista de México.
+
+TE RECOMENDAMOS:
