@@ -39,7 +39,7 @@ Este importante volumen fue escrito en el siglo XVI por **Bernal Díaz del Casti
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Visi%C3%B3n_de_los_vencidos_1ra_ed.png/750px-Visi%C3%B3n_de_los_vencidos_1ra_ed.png)
 
-Esta obra, escrita por el experto Miguel León-Portilla, es la otra cara de la moneda que expone Bernal Díaz del Castillo
+Esta obra, escrita por el experto **Miguel León-Portilla** y con el subtítulo de "Relaciones indígenas de la Conquista", es la otra cara de la moneda que expone Bernal Díaz del Castillo en su _Historia Verdadera de la Conquista de la Nueva España_. 
 
 México a través de los siglos
 
