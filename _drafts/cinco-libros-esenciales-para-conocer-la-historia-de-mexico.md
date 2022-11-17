@@ -35,7 +35,11 @@ TE RECOMENDAMOS:
 
 Este importante volumen fue escrito en el siglo XVI por **Bernal Díaz del Castillo**, uno de los soldados que acompañó a **Hernán Corté**s durante la **Conquista** de lo que hoy es México, y da cuenta del aspecto y de las costumbres de las ciudades y los pueblos prehispánicos que encontraron los conquistadores españoles en la llamada Nueva España, durante su incursión que duró de 1519 a 1521, así como de las acciones militares que condujeron al sometimiento militar de estos grupos humanos y al establecimiento de los distintos virreinatos americanos. Los historiadores coinciden en que la fecha de conclusión del manuscrito fue el año 1568, dieciséis años antes de la muerte de **Bernal Díaz del Castillo**, quién habría escribió esta "historia verdadera" como prueba de sus servicios a la Corona y como respuesta a las _Cartas de relación_ de Cortés, en las que reclamaba toda la gloria de la Conquista para sí mismo.
 
-La visión de los vencidos
+### Visión de los vencidos
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Visi%C3%B3n_de_los_vencidos_1ra_ed.png/750px-Visi%C3%B3n_de_los_vencidos_1ra_ed.png)
+
+Esta obra, escrita por el experto Miguel León-Portilla, es la otra cara de la moneda que expone Bernal Díaz del Castillo
 
 México a través de los siglos
 
