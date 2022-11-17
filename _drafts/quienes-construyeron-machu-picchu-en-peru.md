@@ -23,8 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
-Esta ciudad de piedra, ubicada a 2430 metros sobre el nivel en la cordillera de los Andes, en Perú, es quizá uno de los sitios arqueológicos más enigmáticos del mundo. ¿Quiénes construyeron Machu Picchú, qué significa su nombre y cuál es la historia de este palacio y santuario religioso inca, situado a 80 kilómetros de la ciudad de Cuzco?
+Esta ciudad de piedra, ubicada a 2430 metros sobre el nivel en la cordillera de los Andes, en **Perú**, es quizá uno de los sitios **arqueológicos** más enigmáticos del mundo. ¿**Quiénes** construyeron **Machu Picchu**, qué **significa** su nombre y cuál es la **historia** de este palacio y santuario religioso **inca**, situado a 80 kilómetros de la ciudad de **Cuzco**?
 
-Conozcamos juntos esta sorprendente urbe precolonial, la cual está inscrita en la Lista el Patrimonio Mundial de la UNESCO y, también, está considerada dentro de las Siete Maravillas del Mundo Moderno.
+Conozcamos juntos esta sorprendente urbe precolonial, la cual está inscrita en la Lista el **Patrimonio Mundial** de la UNESCO y, también, está considerada dentro de las Siete **Maravillas del Mundo** Moderno.
 
 TE RECOMENDAMOS:
