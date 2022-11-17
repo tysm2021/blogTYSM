@@ -28,3 +28,7 @@ Esta ciudad de piedra, ubicada a 2430 metros sobre el nivel en la cordillera de 
 Conozcamos juntos esta sorprendente urbe precolonial, la cual está inscrita en la Lista el **Patrimonio Mundial** de la UNESCO y, también, está considerada dentro de las Siete **Maravillas del Mundo** Moderno.
 
 TE RECOMENDAMOS:
+
+**Machu Picchu**, expresión que en quechua significa 'monte viejo', es el nombre que actualmente recibe un antiguo poblado incaica situado a más de dos mil metros de altura en plena cordillera de los **Andes**. Según algunos estudiosos, su nombre original pudo haber sido Llaqtapata y se trató de una llacta, que era una urbe o ciudadela que funcionaba como centro administrativo del **Imperio Inca** en el siglo XV.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg/1024px-Machu_Picchu%2C_Peru_%282018%29.jpg)
