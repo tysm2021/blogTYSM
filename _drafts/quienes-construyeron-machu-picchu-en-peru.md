@@ -34,3 +34,5 @@ TE RECOMENDAMOS:
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg/1024px-Machu_Picchu%2C_Peru_%282018%29.jpg)
 
 Esta obra arquitectónica es considerada una obra maestra de la construcción y la ingeniería en la América precolombina. Su uso aún se discute, pero se cree que tenía un carácter más o menos privado —es decir, su acceso estaba limitado a militares, sacerdotes y dignatarios—, se usaba como recinto o fortaleza militar y, al mismo tiempo, como palacio, como adoratorio o como centro ceremonial. **Machu Picchu** fue construido en el clásico estilo **inca**, con paredes de piedra pulida; sus tres estructuras principales son el Intihuatana, el _T_emplo del Sol y la Sala de las Tres Ventanas, y gran parte de los edificios que las rodean han sido reconstruidos para dar una mejor idea de cómo eran originalmente.
+
+La historia cuenta que fue el monarca **inca** **Pachacútec** quien, alrededor del año 1450, mandó construir dentro de la geografía sagrada cusqueña este complejo urbano con edificaciones civiles y religiosas de gran lujo. 
