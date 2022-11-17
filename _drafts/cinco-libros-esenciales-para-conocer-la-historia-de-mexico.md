@@ -53,6 +53,8 @@ Esta, más que un **libro**, es toda una **enciclopedia** sobre **historia** de 
 
 Este libro importantísimo fue editado por el prestigioso **Colegio de México** y está acreditado al historiador insigne **Daniel Cosío Villegas**. Su primera edición fue en el año 1976 y comprende la **historia** completa del país: las regiones de México, la prehistoria, el mundo mexica, el siglo XVI, el siglo XVIII, las primeras décadas del México independiente, la cultura mexicana del siglo XIX, así como la política y economía del México contemporáneo. Recientemente se lanzó una nueva edición, titulada Edición 2000, con sensibles mejoras y actualizaciones. Y si lo que quieres es dar un rápido vistazo al pasado, puedes consultar la _Historia Mínima de México_, editada también por el Colmex.
 
-Historia mínima de México
+### Érase una vez México
 
-Érase una vez México
+![](/images/2022-11-17-eraseunavezmx.jpg)
+
+Esta es, sin duda, la obra más comercial de las listadas en este artículo. Fue escrita por el historiador **Alejandro Rosas** y por **Sandra Molina**, y está dividida en tres volúmenes: I. De las cavernas al virreinato, II. Del grito a la revolución y III. Del gobierno de Madero al regreso del PRI. Con el estilo ligero, ameno y divertido que los caracteriza, los autores revisan los sucesos históricos, políticos, sociales y militares que dieron rostro a nuestra nación a lo largo de los siglos, en una narrativa que de lo ligera parece novelada. Algunos críticos muy puristas de la historia podrán decir que un best seller no puede tomarse muy en serio, pero aun así es un excelente modo de iniciarse en el conocimiento y en la lectura profunda de la **historia** mexicana.
