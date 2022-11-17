@@ -39,4 +39,4 @@ La historia cuenta que fue el monarca **inca** **Pachacútec** quien, alrededor 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Machupicchu_intihuatana.JPG/1024px-Machupicchu_intihuatana.JPG)
 
-**Machu Picchu** cubre una superficie de 530 metros de largo por 200 de ancho e incluye al menos 172 recinto. Está dividida en dos zonas principales: la zona agrícola, formada por conjuntos de terrazas de cultivo, y la zona urbana, donde vivieron sus ocupantes y se desarrollaron las actividades civiles y religiosas. 
+**Machu Picchu** cubre una superficie de 530 metros de largo por 200 de ancho e incluye al menos 172 recinto. Está dividida en dos zonas principales: la zona agrícola, formada por conjuntos de terrazas de cultivo, y la zona urbana, donde vivieron sus ocupantes y se desarrollaron las actividades civiles y religiosas. En esta zona destacan algunas construcciones como el recinto curvo del **Templo del Sol** (en la imagen arriba de este párrafo), la residencia real, la Plaza sagrada y la Pirámide Intihuatana; además, están las numerosas escalinatas, las terrazas, los recintos y las casas, y la asombrosa infraestructura hidráulica y de pisos. 
