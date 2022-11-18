@@ -46,8 +46,8 @@ Esta tiene lugar en el Pueblo Mágico de Tequisquiapan, estado de Querétaro, el
 
 ### Feria Tabasco
 
-Vámonos ahora al sureste. es una feria realizada anualmente en Villahermosa de tipo cultural, artística, comercial, turística, industrial, agrícola y ganadera
+Vámonos ahora al sureste, a una feria que se realiza anualmente en la capital del estado, Villahermosa, y que incluye actividades de tipo cultural, artística, comercial, turístico, industrial, agrícola y ganadero. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Feria_Tabasco.Parque_Tabasco_8.jpg/1024px-Feria_Tabasco.Parque_Tabasco_8.jpg)
 
 Feria Nacional de Durango
-
-Feria Internacional del Caballo
