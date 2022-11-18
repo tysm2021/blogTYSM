@@ -27,3 +27,5 @@ comment: false
 Acompáñanos a conocer, aunque sea de pasadita, la hermosa **isla** de **Cozumel**, la cual desde el año 2016 está inscrita en la lista de Red Mundial de Reservas de la Biósfera de la UNESCO.
 
 TE RECOMENDAMOS:
+
+El nombre de **Cozumel** proviene del maya _Kosom lumil_, que quiere decir 'golondrina' o 'tierra de golondrinas'. Se trata de una **isla** ubicada en el **Mar Caribe** que mide aproximadamente 48 km de largo, de norte a sur, por 14.8 km de ancho, de este a oeste; se localiza a 20 km al este del litoral oriental de la península de Yucatán, a 60 km al sur de Cancún, con una extensión de 647.3 kilómetros cuadrados que la convierte en la tercera isla más grande de México, tan sólo detrás de la Isla del Tiburón y la Isla Ángel de la Guarda.
