@@ -50,4 +50,6 @@ Vámonos ahora al sureste, a esta **feria** que se realiza anualmente —en los 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Feria_Tabasco.Parque_Tabasco_8.jpg/1024px-Feria_Tabasco.Parque_Tabasco_8.jpg)
 
-Feria Nacional de Durango
+### Feria Nacional de Durango
+
+Finalizamos con esta feria, que se lleva a cabo en la capital del estado de Durango, entre los meses de junio y julio de cada año, en honor al aniversario de la fundación de la ciudad de Victoria de Durango. Comprende exposiciones y actividades de entretenimiento, cultura, tradiciones, deportivas y culinarias. Debido a que es una de las más extensas e importantes en la categoría de **feria-exposición**, la de **Durango** es la segunda **feria** más importante del país, sólo detrás de la de San Marcos.
