@@ -35,3 +35,5 @@ La historia de **Cozumel** se remonta al pasado maya y a  los tiempos de la Conq
 ![](https://upload.wikimedia.org/wikipedia/commons/3/32/Cozumel_Punta_Morena_Beach.JPG)
 
 Actualmente, la principal actividad económica de la isla es el **turismo**, pues entre hoteles, restaurantes, tiendas, servicios y negocios dedicados al buceo, se da empleo a casi toda la población. Y las razones que hacen de **Cozumel** un destino **turístico** privilegiado tienen que ver con su ubicación, con sus playas de **arena** blanca y fina, con sus **aguas** cristalinas y con el azul profundo de sus cielos y de sus mares, que puede apreciarse en hermosos paisajes al amanecer o durante la puesta del Sol.
+
+Cozumel es un destino perfecto para relajarse frente al mar, degustando una bebida o un platillo típico hecho con pescados y mariscos, o bien para realizar algún **deporte acuático** como el **buceo** o el **snorkel**, para descubrir los encantos y la biodiversidad de un **arrecife** o para internarse en alguno de los vestigios de la **cultura maya** que aún quedan en pie.
