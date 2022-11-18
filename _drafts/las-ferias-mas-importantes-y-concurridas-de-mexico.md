@@ -46,7 +46,7 @@ Esta tiene lugar en el Pueblo Mágico de Tequisquiapan, estado de Querétaro, el
 
 ### Feria Tabasco
 
-Vámonos ahora al sureste, a una feria que se realiza anualmente en la capital del estado, Villahermosa, y que incluye actividades de tipo cultural, artística, comercial, turístico, industrial, agrícola y ganadero. 
+Vámonos ahora al sureste, a esta **feria** que se realiza anualmente —en los meses de **abril y mayo**— en la capital del estado, **Villahermosa**, y que incluye actividades de tipo cultural, artística, comercial, turístico, industrial, agrícola y ganadero. Es una de las más antiguas, pues sus antecedentes datan de finales del siglo XIX, aunque fue en 1928 que se hizo oficial. Cada año, recibe a más de 2 millones de visitantes y a más de mil expositores durante 10 días de **feria**. Además, se realiza un certamen de belleza entre representantes de los 17 municipios del estado, que culmina con la elección de la Flor de Oro o "flor más bella de **Tabasco**".
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Feria_Tabasco.Parque_Tabasco_8.jpg/1024px-Feria_Tabasco.Parque_Tabasco_8.jpg)
 
