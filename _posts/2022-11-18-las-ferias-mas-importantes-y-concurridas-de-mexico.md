@@ -44,6 +44,8 @@ Feria Nacional del Vino y el Queso
 
 Esta tiene lugar en el Pueblo Mágico de Tequisquiapan, estado de Querétaro, el cual está enclavado en una zona de abundante producción vinícola y quesera. Es una feria relativamente joven, pues se realiza en **mayo y junio** desde 1976, cuando se llevó a cabo el Primer Festival Gastronómico de Queso y Vino que tuvo México, con la participación de productores locales, nacionales e internacionales. Actualmente es una **feria** muy visitada por amantes de la gastronomía, quienes además de catas y degustaciones, pueden disfrutar de exposiciones artísticas y eventos musicales.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Iglesia_Tequisquiapan_-_panoramio.jpg/1024px-Iglesia_Tequisquiapan_-_panoramio.jpg)
+
 ### Feria Tabasco
 
 Vámonos ahora al sureste, a esta **feria** que se realiza anualmente —en los meses de **abril y mayo**— en la capital del estado, **Villahermosa**, y que incluye actividades de tipo cultural, artística, comercial, turístico, industrial, agrícola y ganadero. Es una de las más antiguas, pues sus antecedentes datan de finales del siglo XIX, aunque fue en 1928 que se hizo oficial. Cada año, recibe a más de 2 millones de visitantes y a más de mil expositores durante 10 días de **feria**. Además, se realiza un certamen de belleza entre representantes de los 17 municipios del estado, que culmina con la elección de la Flor de Oro o "flor más bella de **Tabasco**".
@@ -53,3 +55,5 @@ Vámonos ahora al sureste, a esta **feria** que se realiza anualmente —en los 
 ### Feria Nacional de Durango
 
 Finalizamos con esta feria, que se lleva a cabo en la capital del estado de Durango, entre los meses de junio y julio de cada año, en honor al aniversario de la fundación de la ciudad de Victoria de Durango. Comprende exposiciones y actividades de entretenimiento, cultura, tradiciones, deportivas y culinarias. Debido a que es una de las más extensas e importantes en la categoría de **feria-exposición**, la de **Durango** es la segunda **feria** más importante del país, sólo detrás de la de San Marcos. Con más de 54 hectáreas de superficie, cuenta con zonas especiales como el **Parque de la Velaria**, un espacio verde que cuenta con un lago artificial, establecimientos gastronómicos, juegos mecánicos, áreas comerciales y un palenque o centro de entretenimiento, con una capacidad de casi 5 mil personas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Durango_de_noche.JPG/1024px-Durango_de_noche.JPG)
