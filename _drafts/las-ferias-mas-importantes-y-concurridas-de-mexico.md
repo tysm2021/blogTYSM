@@ -31,7 +31,7 @@ TE RECOMENDAMOS:
 
 ### Feria Nacional de San Marcos
 
-Esta feria, que se lleva a cabo en la ciudad de **Aguascalientes**. Ags., es tan famosa que hasta tiene su propia canción ranchera y es, sin duda, la feria más grande, más importante, más antigua y más visitada de las que se realizan en el país. 
+Esta **feria**, que se lleva a cabo en la ciudad de **Aguascalientes**. Ags., es tan famosa que hasta tiene su propia canción ranchera y es, sin duda, la feria más grande, más importante, más antigua y más visitada de las que se realizan en el país. Se lleva a cabo durante los meses de abril y mayo en un recinto ferial de 90 hectáreas donde se realizan corridas de toros, eventos culturales, peleas de gallos, presentaciones masivas de artistas y una importante feria ganadera. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/San_marcos_bullfight_01.jpg/960px-San_marcos_bullfight_01.jpg)
 
