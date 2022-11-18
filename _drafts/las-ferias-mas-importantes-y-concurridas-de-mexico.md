@@ -35,10 +35,14 @@ Esta **feria**, que se lleva a cabo en la ciudad de **Aguascalientes**. Ags., es
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/San_marcos_bullfight_01.jpg/960px-San_marcos_bullfight_01.jpg)
 
-Feria Estatal de León
+### Feria Estatal de León
+
+Esta se lleva a cabo en la ciudad de Léon, Guanajuato, durante los meses de enero y febrero de cada año. Se le considera una tradición, no sólo estatal sino del país completo, y cada año ha recibido un promedio de seis millones de visitantes, lo que la convierte en una de las más relevantes de México. Consiste en exposiciones artesanales, comerciales y ganaderas, presentaciones artísticas, festivales taurinos, juegos mecánicos y shows de pirotecnia y música durante 26 días. Se realiza en las instalaciones propias de la Feria, donde se encuentran recintos como el Domo de la Feria, el Teatro del Pueblo, el Polifórum León, el Centro de Espectáculos, la Mega Velaria, el Parque Explora, el Centro de Ciencias Explora y el Foro del Lago.
 
 Feria Nacional del Vino y el Queso
 
-Feria de Tabasco
+Feria Tabasco
+
+Feria Nacional de Durango
 
 Feria Internacional del Caballo
