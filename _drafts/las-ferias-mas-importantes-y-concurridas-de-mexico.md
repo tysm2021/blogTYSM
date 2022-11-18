@@ -44,7 +44,9 @@ Feria Nacional del Vino y el Queso
 
 Esta tiene lugar en el Pueblo Mágico de Tequisquiapan, estado de Querétaro, el cual está enclavado en una zona de abundante producción vinícola y quesera. Es una feria relativamente joven, pues se realiza en **mayo y junio** desde 1976, cuando se llevó a cabo el Primer Festival Gastronómico de Queso y Vino que tuvo México, con la participación de productores locales, nacionales e internacionales. Actualmente es una **feria** muy visitada por amantes de la gastronomía, quienes además de catas y degustaciones, pueden disfrutar de exposiciones artísticas y eventos musicales.
 
-Feria Tabasco
+### Feria Tabasco
+
+Vámonos ahora al sureste. es una feria realizada anualmente en Villahermosa de tipo cultural, artística, comercial, turística, industrial, agrícola y ganadera
 
 Feria Nacional de Durango
 
