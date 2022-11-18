@@ -22,3 +22,8 @@ show_author_profile: false
 comment: false
 
 ---
+**Cozumel** es una **isla** mexicana que pertenece al estado de **Quintana Roo** y, además de ser la tercera más grande del país y la segunda más poblada, por su privilegiada ubicación en el **Mar Caribe** y frente a las costas de la **Riviera Maya**, es un lugar lleno de encanto, deliciosa **comida**, extraordinarios paisajes y, desde luego, innumerables **atractivos** para el **turista**.
+
+Acompáñanos a conocer, aunque sea de pasadita, la hermosa **isla** de **Cozumel**, la cual desde el año 2016 está inscrita en la lista de Red Mundial de Reservas de la Biósfera de la UNESCO.
+
+TE RECOMENDAMOS:
