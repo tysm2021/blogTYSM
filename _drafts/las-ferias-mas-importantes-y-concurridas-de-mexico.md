@@ -42,7 +42,7 @@ Esta se lleva a cabo en la ciudad de Léon, Guanajuato, durante los meses de **e
 ### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Circo_Robert%27s.jpg/1024px-Circo_Robert%27s.jpg)  
 Feria Nacional del Vino y el Queso
 
-Esta tiene lugar en el Pueblo Mágico de Tequisquiapan, estado de Querétaro, el cual está enclavado en una zona de abundante producción vinícola y quesera. Es una feria relativamente joven, pues se realiza desde 1976, cuando se llevó a cabo el Primer Festival Gastronómico de Queso y Vino que tuvo México, con la participación de productores locales, nacionales e internacionales. Actualmente es una **feria** muy visitada por amantes de la gastronomía, quienes además de catas y degustaciones, pueden disfrutar de exposiciones artísticas y eventos musicales.
+Esta tiene lugar en el Pueblo Mágico de Tequisquiapan, estado de Querétaro, el cual está enclavado en una zona de abundante producción vinícola y quesera. Es una feria relativamente joven, pues se realiza en **mayo y junio** desde 1976, cuando se llevó a cabo el Primer Festival Gastronómico de Queso y Vino que tuvo México, con la participación de productores locales, nacionales e internacionales. Actualmente es una **feria** muy visitada por amantes de la gastronomía, quienes además de catas y degustaciones, pueden disfrutar de exposiciones artísticas y eventos musicales.
 
 Feria Tabasco
 
