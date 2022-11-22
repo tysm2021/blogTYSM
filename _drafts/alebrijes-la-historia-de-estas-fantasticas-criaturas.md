@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Algunos reclaman que su origen está en la **Ciudad de Méxic**o y que son de cartón pintado de colores; otros, más aventurados, sostienen que en realidad están hechos de madera y son **oaxaqueños**. Pero, a todo esto, ¿quién creó a los famosos **alebrijes**, **qué representa** esta **artesanía**, qué **significa** su nombre, cómo se **fabrican** y dónde están los talleres que los vieron nacer?
+
+Tratemos de rastrear la **historia** de los **alebrijes**, perdida entre los pasillos del tiempo y del polvoso y desordenado taller de un artesano que, preso de una enfermedad, entre delirios tuvo una visión que habría de cambiar la historia de las artesanías mexicanas.
+
+TE RECOMENDAMOS:
