@@ -32,3 +32,5 @@ TE RECOMENDAMOS:
 Cuenta la leyenda que, hace ya muchos años, don **Pedro Linares** —un **artesano** cartonero, avecindado en un barrio popular de la Ciudad de México— cayó gravemente enfermo. Fue tan grave su enfermedad que terminó inconsciente por varios días, en una especie de coma con altas fiebres. Como no tenían muchos recursos económicos, la familia le suministró una serie de remedios basados en la herbolaria, con la esperanza de que mejorara.
 
 Quiso el destino que, en efecto, don **Pedro** saliera avante de la enfermedad. Ya convaleciente, le contaba a su familia que, entre los delirios causados por la fiebre, veía una extrañas **criaturas** zoomorfas, terroríficas, fantásticas, con alas, cuernos y garras, de cuyas bocas brotaba una palabra que no existía: "¡**Alebrije**! ¡**Alebrije**!"
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alebrije20171109p1.jpg/755px-Alebrije20171109p1.jpg)
