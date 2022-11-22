@@ -28,3 +28,5 @@ Algunos reclaman que su origen está en la **Ciudad de Méxic**o y que son de ca
 Tratemos de rastrear la **historia** de los **alebrijes**, perdida entre los pasillos del tiempo y del polvoso y desordenado taller de un artesano que, preso de una enfermedad, entre delirios tuvo una visión que habría de cambiar la historia de las artesanías mexicanas.
 
 TE RECOMENDAMOS:
+
+Cuenta la leyenda que, hace ya muchos años, don Pedro Linares —un artesano cartonero, avecindado en un barrio popular de la Ciudad de México— cayó gravemente enfermo. 
