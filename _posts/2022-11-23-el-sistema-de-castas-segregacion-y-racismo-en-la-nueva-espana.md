@@ -63,3 +63,5 @@ Las clasificaciones o castas son muchas, pero algunas de las más importantes so
 * De campamulato con cambuja: **tente en el aire**.
 * De tente en el aire con mulata: **no te entiendo**.
 * De no te entiendo con india: **torna atrás**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/5a/Mestizo.jpg)
