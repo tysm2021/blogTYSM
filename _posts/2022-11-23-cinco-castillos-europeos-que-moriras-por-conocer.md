@@ -43,6 +43,10 @@ Esta imponente edificación fortificada se encuentra en la localidad de **Conwy*
 
 ## Castillo de Chillon
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg/1024px-001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg)
+
+No, no es "chillón" sino que se pronuncia "chilón" —creo que sale peor— y es un castillo que está construido sobre la enorme roca del mismo nombre, la cual se encuentra 
+
 ## Castillo de Hohenzollern
 
 Castillo de Alnwick
