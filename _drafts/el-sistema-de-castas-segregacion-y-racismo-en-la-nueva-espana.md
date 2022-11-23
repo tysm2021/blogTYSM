@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Dentro de la historia de México, se le llama época de la **Colonia** o, más propiamente, del **Virreinato** al periodo entre el año 1521, cuando cayó la ciudad de México-Tenochtitlan ante el invasor español, y el 1821, cuando la **Nueva España** declaró su independencia y se hizo llamar México. Y en gran parte de ese periodo la sociedad estuvo dividida en un **sistema de castas** basadas en el color de la piel y el origen étnico, las cuales otorgaban o negaban derechos y privilegios.
+
+Conozcamos, pues, este sistema de castas, el cual según algunos historiadores fue una de las mechas que encendieron la llama independentista en las colonias españolas a principios del siglo XIX.
+
+TE RECOMENDAMOS:
