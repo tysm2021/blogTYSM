@@ -37,6 +37,10 @@ Este primoroso **castillo** se encuentra en la región de Baviera, cerca de la c
 
 ## Castillo de Conwy
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Conwy_Castle_12.jpg/1024px-Conwy_Castle_12.jpg)
+
+Esta imponente edificación fortificada se encuentra en la localidad de **Conwy**, ubicada en la costa norte del país de **Gales**. Fue construida en el siglo XIII por el rey **Eduardo I** —apodado "Piernas Largas" o "Zanquilargo"— durante la conquista de Gales, entre 1283 y 1289. Fue diseñado por el arquitecto constructor James of St. George y está dividido en dos patios, uno exterior y otro interior, separados por una gruesa muralla y rodeados por cuatro torres cada uno, para un total de ocho torres de unos 21 metros de altura y 9 de diámetro, con paredes de 4.5 metros de espesor. Es un gran atractivo turístico que fue enlistado como Patrimonio de la Humanidad por la Unesco en 1986.
+
 ## Castillo de Chillon
 
 ## Castillo de Hohenzollern
