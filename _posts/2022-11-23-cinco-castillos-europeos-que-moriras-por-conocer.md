@@ -51,6 +51,10 @@ No, no es "chillón" sino que se pronuncia "chilón" —creo que sale peor— y 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Hohenzollern_%281._Burg%2C_1000-1267_%5E_3._Burg_1850-1867%29_-_panoramio_%287%29.jpg/1024px-Burg_Hohenzollern_%281._Burg%2C_1000-1267_%5E_3._Burg_1850-1867%29_-_panoramio_%287%29.jpg)
 
-Otro **castillo** alemán que nos hace pensar en nobles a caballo, damiselas hechizadas por un malvado brujo, espadas mágicas y dragones ocultos en calabozos. Este se encuentra en la cima del monte Hohenzollern, a una altitud de 855 metros, en **Alemania**, a unos 50 kilómetros de la ciudad de Stuttgart. Se trata un edificio muy antiguo, pues la primera construcción data del siglo XI y fue consumida por un incendio, siendo sustituida por un segundo castillo, que empezó a erigirse en el siglo XIV y quedó en el abandono en el siglo XVIII. El **castillo** actual se levantó entre entre 1846 y 1867 por órdenes del rey **Federico Guillermo IV de Prusia**. 
+Otro **castillo** alemán que nos hace pensar en nobles a caballo, damiselas hechizadas por un malvado brujo, espadas mágicas y dragones ocultos en calabozos. Este se encuentra en la cima del monte Hohenzollern, a una altitud de 855 metros, en **Alemania**, a unos 50 kilómetros de la ciudad de Stuttgart. Se trata un edificio muy antiguo, pues la primera construcción data del siglo XI y fue consumida por un incendio, siendo sustituida por un segundo castillo, que empezó a erigirse en el siglo XIV y quedó en el abandono en el siglo XVIII. El **castillo** actual se levantó entre entre 1846 y 1867 por órdenes del rey **Federico Guillermo IV de Prusia**. También es uno de los destinos turísticos más visitados de Alemania.
 
-Castillo de Alnwick
+## Castillo de Alnwick
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Alnwick_Castle_02.jpg)
+
+El último de nuestra lista es esta famoso **castillo** inglés, el cual recientemente ha sido escenario de famosas películas y series de televisión. Se encuentra en la localidad del mismo nombre, dentro del condado de **Northumberland**, siendo la residencia de los duques del lugar que fue construida en el siglo XI, inmediatamente después de la conquista normanda. Fue construido para defender la frontera norte inglesa de las invasiones escocesas, y actualmente sigue siendo la residencia de Ralph Percy, duque de Northumberland. Su patio aparece durante las locaciones en exteriores de algunas películas de Harry Potter y en la serie _Downtown Abbey_, ¿lo reconoces?
