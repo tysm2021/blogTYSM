@@ -23,3 +23,18 @@ show_author_profile: false
 comment: false
 
 ---
+Según una definición de diccionario, un **castillo** es un tipo de edificación fortificada —es decir, construida sólidamente y con el objetivo de resistir embates militares armados— que predominó durante la **Edad** **Media** en **Europa**, y que era comúnmente edificada por **reyes**, por la nobleza y por ciudadanos ricos que deseaban proteger sus propiedades. En el imaginario, los **castillos** **europeos** son **famosos** porque en ellos tienen lugar justas y batallas caballerescas, intrigas de las cortes y épicos rescates de damiselas en peligro.
+
+A continuación, y aunque hay un océano de por medio, te invitamos a conocer —al menos virtualmente— cinco de los **castillos** **europeos** más **famosos** de la historia. Recuerda que en México también tenemos un **castillo**, el de Chapultepec, el cual fue residencial imperial, colegio militar y casa presidencial.
+
+TE RECOMENDAMOS:
+
+## Palacio de Neuschwanstein
+
+## Castillo de Conwy
+
+## Castillo de Chillon
+
+## Castillo de Hohenzollern
+
+Castillo de Alnwick
