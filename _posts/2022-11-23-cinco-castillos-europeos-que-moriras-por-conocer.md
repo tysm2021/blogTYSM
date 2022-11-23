@@ -45,7 +45,7 @@ Esta imponente edificación fortificada se encuentra en la localidad de **Conwy*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg/1024px-001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg)
 
-No, no es "chillón" sino que se pronuncia "chilón" —creo que sale peor— y es un castillo que está construido sobre la enorme roca del mismo nombre, la cual se encuentra 
+No, no es "chillón" sino que se pronuncia "chilón" —creo que sale peor— y es un **castillo** que está construido sobre la enorme roca del mismo nombre, la cual se encuentra a las orillas del Lago Ginebra o Lago Lemán, en la comunidad de Veytaux, en **Suiza**. En el lugar existían edificaciones desde la Era del Bronce y de la Roma imperial, aunque la construcción de este castillo empezó en el siglo X y se concluyó entre los siglos XIII y XIV, ya siendo propiedad de la Casa de Saboya. Entre las paredes de este misterioso **castillo** hallaron la inspiración dos famosos escritores ingleses románticos: el poeta Lord Byron y el novelista Henry James. Actualmente recibe a más de 300 mil visitantes al año.
 
 ## Castillo de Hohenzollern
 
