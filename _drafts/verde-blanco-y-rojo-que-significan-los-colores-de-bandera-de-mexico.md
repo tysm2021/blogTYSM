@@ -24,3 +24,8 @@ show_author_profile: false
 comment: false
 
 ---
+Desde que somos niños y, en la escuela primaria, aprendemos las estrofas del Himno Nacional Mexicano y el coro del Toque de Bandera, se nos enseña a rendir honores al lábaro patrio, el cual luce sus tres colores —el verde, el blanco y el rojo— con su escudo nacional en el centro. Pero, ¿te has preguntado cuál es el significado y el simbolismo de los colores de la bandera mexicana?
+
+A continuación, hacemos un breve repaso de la historia de la bandera mexicana, la cual nos permitirá entender cuáles fueron, desde el principio, los significados de los tres colores del lábaro patrio de todos los mexicanos.
+
+TE RECOMENDAMOS:
