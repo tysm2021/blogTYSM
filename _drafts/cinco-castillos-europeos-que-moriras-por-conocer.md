@@ -31,6 +31,10 @@ TE RECOMENDAMOS:
 
 ## Palacio de Neuschwanstein
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/1024px-Schloss_Neuschwanstein_2013.jpg)
+
+Este primoroso **castillo** se encuentra en la región de Baviera, cerca de la ciudad de Füssen, en Alemania, y su construcción fue ordenada en 1869 por el rey Luis II de Baviera. 
+
 ## Castillo de Conwy
 
 ## Castillo de Chillon
