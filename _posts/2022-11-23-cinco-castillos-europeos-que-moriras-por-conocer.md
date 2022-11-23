@@ -33,7 +33,7 @@ TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/1024px-Schloss_Neuschwanstein_2013.jpg)
 
-Este primoroso **castillo** se encuentra en la región de Baviera, cerca de la ciudad de Füssen, en Alemania, y su construcción fue ordenada en 1869 por el rey Luis II de Baviera. 
+Este primoroso **castillo** se encuentra en la región de Baviera, cerca de la ciudad de Füssen, en **Alemania**, y su construcción fue ordenada en 1869 por el rey **Luis II de Baviera**. Originalmente su nombre era el de Nuevo Castillo de Hohenschwangau, donde el rey había pasado su infancia, pero a su muerte el título fue cambiado por **Neuschwanstein**, que significa "la nueva roca del cisne". La intención del monarca fue la de erigir un palacio "al estilo auténtico de los antiguos castillos alemanes" sobre el desfiladero de Pöllat. De diseño más estético que funcional, es el **castillo** más fotografiado de toda Alemania y fue la inspiración para que Walt Disney creara el famoso **castillo** de Cenicienta, el cual es el emblema de Disneyland y de la compañía del ratoncito.
 
 ## Castillo de Conwy
 
