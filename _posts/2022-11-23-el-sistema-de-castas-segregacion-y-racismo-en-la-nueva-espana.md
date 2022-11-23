@@ -65,3 +65,7 @@ Las clasificaciones o castas son muchas, pero algunas de las más importantes so
 * De no te entiendo con india: **torna atrás**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5a/Mestizo.jpg)
+
+Quizá algunas de estas denominaciones te parezcan peculiares o hasta chistosas, y también es probable que hasta el día de hoy algunas, como "mulata", "cambujo" o "cholo", te resulten familiares aunque quizá en otro contexto. Algunos autores y sociólogos sostienen que, aunque oficialmente fue abolido como forma de **segregación** social, el **sistema de castas** permeó lo suficiente en la sociedad novohispana como para que, en los siglos siguientes, la sociedad mexicana heredara los prejuicios y la idea de la discriminación a partir de la pigmentación de la piel y el origen africano o indígena de las personas.
+
+El sistema fue abolido a principios del siglo XIX y a medida que las colonias americanas fueron emancipándose, adoptaron los principios de igualdad promovidos por la Revolución Francesa y normativas como la Declaración Universal de los Derechos del Hombre, la cual prohíbe cualquier clasificación por motivos de casta u origen étnico y pronuncia que "Todos los seres humanos nacen libres e iguales en dignidad y derechos".
