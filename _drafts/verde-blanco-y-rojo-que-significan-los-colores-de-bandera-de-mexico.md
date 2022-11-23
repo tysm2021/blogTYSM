@@ -40,4 +40,4 @@ Toda vez que se consumó la independencia y de que finalizó el imperio de Agust
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_del_Ej%C3%A9rcito_Constitucionalista_Mexico.jpg)
 
-A mediados del siglo XIX, con la llegada de Benito Juárez a la presidencia del país, se cambió el significado de sus colores , como consecuencia de la separación del estado con la iglesia: Verde: Esperanza; Blanco: Unidad y Rojo: la sangre de los héroes nacionales.
+A mediados del siglo XIX, con la llegada de Benito Juárez a la presidencia y a consecuencia de la separación del Estado y la Iglesia católica, se cambió el **significado** de los **colores** de la **bandera** **mexicana**: el **verde** representa la esperanza; el blanco, la unidad —y algunos dicen que la nieve de nuestros volcanes—, y el **rojo** simboliza la sangre de los héroes nacionales. Actualmente, ese es el **simbolismo** "oficial" y el uso, medidas y estándares para la confección del lábaro patrio están contenidos en la  Ley sobre el Escudo, la **Bandera** y el Himno Nacionales, la cual entró en vigencia el 24 de febrero de 1984.
