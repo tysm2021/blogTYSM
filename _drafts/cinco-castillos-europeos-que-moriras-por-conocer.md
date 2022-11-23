@@ -15,8 +15,8 @@ article_header:
     src: "/images/2022-11-23-bavaria_neuschwanstein_-9812963924.jpeg"
 sharing: true
 title: Cinco castillos europeos que morirás por conocer
-summary: En la Edad Media, nobles europeos levantaron construcciones fortificadas
-  conocidas como "castillos", que representaban el poder y la riqueza de sus habitantes.
+summary: En la Edad Media europea ser levantaron construcciones fortificadas conocidas
+  como "castillos", que representaban el poder y la riqueza de sus habitantes.
 cover: "/images/2022-11-23-bavaria_neuschwanstein_-9812963924.jpeg"
 tags: mundo europa paises
 show_author_profile: false
