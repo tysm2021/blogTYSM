@@ -29,3 +29,15 @@ Desde que somos niños y, en la escuela primaria, aprendemos las estrofas del Hi
 A continuación, hacemos un breve repaso de la historia de la **bandera** **mexicana**, la cual nos permitirá entender cuáles fueron, desde el principio, los **significados** de los tres **colores** del lábaro patrio.
 
 TE RECOMENDAMOS:
+
+Poco antes de que se consumara la Independencia de nuestro país, alrededor del año 1821, los generales Vicente Guerrero y Agustín de Iturbide unieron sus fuerzas para emancipar a la nación del dominio español, y para hacerlo formaron al **Ejército Trigarante**, el cual tomaba su nombre de las **tres garantías** que ofrecía: Religión católica, como la única valida en México; Independencia de la corona española, y Unión de los dos bandos de la guerra. Así, confeccionaron una **bandera** que simbolizaba las tres garantías, con tres **colores** que simbolizaban cada una de ellas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bandera_Ej%C3%A9rcito_Trigarante_del_Regimiento_de_Infanter%C3%ADa_de_Iturbide.jpg/1024px-Bandera_Ej%C3%A9rcito_Trigarante_del_Regimiento_de_Infanter%C3%ADa_de_Iturbide.jpg)
+
+Una publicación del Gobierno de México explica: "En 1821, Agustín de Iturbide se inspiró en dar garantías a los mexicanos declarando la Independencia de México, es entonces cuando nace nuestra **Bandera**. En la declaración del Plan de Iguala, Iturbide llevaba la bandera trigarante (**verde**, **blanca** y **rojo**), pero en franjas diagonales. Los **colores** de la **bandera** garantizaban algunos derechos: el **blanco** representaba la religión católica; el **verde** representaba la independencia de México ante España y el **rojo**, la igualdad y la unión de los mexicanos con los españoles y las castas".
+
+Toda vez que se consumó la independencia y de que finalizó el imperio de Agustín de Iturbide en 1823, el Congreso Constituyente instauró oficialmente la **Bandera** Nacional conservando los colores **verde**, **blanco** y **rojo**, pero con algunas modificaciones: al águila se le quitó la corona imperial, pues ya no había imperio, y se agregaron los símbolos republicanos: dos ramas de laurel y encino.
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_del_Ej%C3%A9rcito_Constitucionalista_Mexico.jpg)
+
+A mediados del siglo XIX, con la llegada de Benito Juárez a la presidencia del país, se cambió el significado de sus colores , como consecuencia de la separación del estado con la iglesia: Verde: Esperanza; Blanco: Unidad y Rojo: la sangre de los héroes nacionales.
