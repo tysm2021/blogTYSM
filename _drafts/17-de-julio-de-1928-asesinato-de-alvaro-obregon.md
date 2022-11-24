@@ -39,4 +39,4 @@ En 1927, hacia el final de la presidencia de **Calles** y en plena Guerra Criste
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OBREGON%2C_ALVARO._GENERAL_OF_MEXICO_LCCN2016868544.jpg/754px-OBREGON%2C_ALVARO._GENERAL_OF_MEXICO_LCCN2016868544.jpg)
 
-b
+El **17 de julio de 1928**, haciendo caso omiso a las advertencias que hablaban de rumores acerca de su asesinato, **Obregón** acudió a comer invitado por los diputados de Guanajuato al restaurante La Bombilla, ubicado en el tradicional barrio de San Ángel, al sur de la Ciudad de México. Ahí lo esperaba **José de León Toral**, un fanático religioso que, utilizando sus habilidades como dibujante, se hizo pasar por caricaturista y realizó retratos de varios de los políticos que estaban ahí, hasta llegar con el presidente electo. Cuando le mostraba la caricatura que había hecho de él, Toral le disparó a **Obregón** un total de seis veces con una pistola española de marca Star calibre 32.
