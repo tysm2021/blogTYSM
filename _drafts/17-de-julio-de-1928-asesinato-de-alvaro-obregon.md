@@ -35,4 +35,8 @@ TE RECOMENDAMOS:
 
 Obregón fue general de división del Ejército Constitucionalista de **Carranza** y, en ese cargo, derrotó varias veces a los federales de Huerta. Al producirse la ruptura entre los revolucionarios Villa, Zapata y Carranza, **Obregón** siguió siendo leal a éste último, persiguió a Villa hasta el norte del país y lo derrotó en la batalla de Celaya, donde por desgracia perdió el brazo a consecuencia de una herida de granada. Renunció en 1917 a su puesto en el gabinete de Carranza, a quien luego combatió y, tras el interinato de Adolfo de la Huerta, acabó siendo presidente de México de 1920 a 1924. Al término de su periodo presidencial, se retiró a su hacienda.
 
-En 1928, tras la presidencia de **Calles** y en plena Guerra Cristera —un conflicto en el que el pueblo se rebeló al gobierno y salió a las calles a defender la religión católica—, Obregón decidió lanzar su candidatura para una reelección como presidente de la República. 
+En 1927, hacia el final de la presidencia de **Calles** y en plena Guerra Cristera —un conflicto en el que el pueblo se rebeló al gobierno y salió a las calles a defender la religión católica—, **Obregón** decidió lanzar su candidatura para una reelección como presidente de la República. En noviembre del mismo año, durante una corrida de toros sufrió un atentado con bomba, del que por fortuna resultó ileso. El **15 de julio de 1928**, pocos días después de haber sido proclamado vencedor en las elecciones presidenciales, **Obregón** llegó a la Ciudad de México en un tren, escoltado por un contingente de hombres.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OBREGON%2C_ALVARO._GENERAL_OF_MEXICO_LCCN2016868544.jpg/754px-OBREGON%2C_ALVARO._GENERAL_OF_MEXICO_LCCN2016868544.jpg)
+
+b
