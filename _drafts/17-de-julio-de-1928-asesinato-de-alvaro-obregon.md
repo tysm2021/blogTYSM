@@ -40,3 +40,11 @@ En 1927, hacia el final de la presidencia de **Calles** y en plena Guerra Criste
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OBREGON%2C_ALVARO._GENERAL_OF_MEXICO_LCCN2016868544.jpg/754px-OBREGON%2C_ALVARO._GENERAL_OF_MEXICO_LCCN2016868544.jpg)
 
 El **17 de julio de 1928**, haciendo caso omiso a las advertencias que hablaban de rumores acerca de su asesinato, **Obregón** acudió a comer invitado por los diputados de Guanajuato al restaurante La Bombilla, ubicado en el tradicional barrio de San Ángel, al sur de la Ciudad de México. Ahí lo esperaba **José de León Toral**, un fanático religioso que, utilizando sus habilidades como dibujante, se hizo pasar por caricaturista y realizó retratos de varios de los políticos que estaban ahí, hasta llegar con el presidente electo. Cuando le mostraba la caricatura que había hecho de él, Toral le disparó a **Obregón** un total de seis veces con una pistola española de marca Star calibre 32.
+
+Los seis tiros fueron a dar, el primero, a cinco centímetros del rostro de la víctima; cuatro tiros más dieron en la espalda y el sexto disparo fue hacia el muñón del brazo derecho de **Obregón**, quien murió al instante en el lugar. Toral fue aprehendido de inmediato, y aunque varios policías y soldados pretendían ejecutarlo ahí mismo, fueron detenidos con el argumento de que el asesino tenía que rendir su testimonio para dar con los autores intelectuales del magnicidio. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/9a/JoseDeLeonToral_%28cropped%29.JPG)
+
+¿Y quién era el joven que apretó el gatillo y por qué le había quitado la vida al presidente electo? **José de León Toral** fue un cristero que nació en Matehuala, S.L.P. en 1900, el cual en julio de 1928 tomó la decisión de convertirse en mártir de la **Guerra Cristera** e, influenciado por las palabras de la **Madre Conchita** —una monja llamada en realidad Concepción Acevedo de la Llata—, quien había pronunciado que la muerte de Obregón y de Elías Calles era la única manera de terminar con la guerra, fue que decidió viajar a la capital para matar a Obregón.
+
+Toral y la madre Conchita fueron enjuiciados por el asesinato de Álvaro Obregón. 
