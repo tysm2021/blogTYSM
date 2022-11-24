@@ -28,3 +28,9 @@ Desde tiempos prehispánicos y hasta el día de hoy, la base de la alimentación
 Revisemos un poco la historia del **maíz** para después enterarnos de cuántas **especies** nativas han crecido en **México**, cuáles son sus usos, sus diversos aspectos y sus diferencias.
 
 TE RECOMENDAMOS:
+
+El **maíz** no es una especie vegetal que crezca de modo espontáneo en la naturaleza. Por el contrario, desde hace unos 10 mil años ha sido objeto de un proceso llamado "domesticación", que consiste en la siembra selectiva de los mejores **granos** o de especies específicas, en la creación de parcelas o sembradíos donde el **maíz** crece junto con otras plantas que le ayudan a desarrollarse, en el establecimiento de ciclos agrícolas y en la creación de **especies**, **tipos** o **razas** de **maíz** que son más benéficas para el consumo humano.
+
+En México, el **maíz** se siembra en condiciones muy diferentes de altura, humedad y temperatura, pues hay maizales desde al nivel del mar hasta los 3 mil 400 metros sobre el nivel del mar, en climas tropicales, cálidos y húmedos, en climas boscosos o en ecosistemas desérticos con poca precipitación de lluvia y temperaturas extremas. Todas esas circunstancias provocan que en **México** se reconozcan un total de **al menos 59 razas nativas de maíz**, originadas a través de la selección por los agricultores.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Starr-120606-7054-Zea_mays-ears_for_sale-Laulima_Farm_Kipahulu-Maui_%2825026486812%29.jpg/1024px-Starr-120606-7054-Zea_mays-ears_for_sale-Laulima_Farm_Kipahulu-Maui_%2825026486812%29.jpg)
