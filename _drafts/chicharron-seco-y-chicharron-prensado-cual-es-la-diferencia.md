@@ -23,8 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
-Todos conocemos el famoso chicharrón, hasta en los refranes, y sabemos que hay chicharrones de harina, como los que venden enchilados y con limón en las ferias, y chicharrón de cerdo, elaborado con la piel del animal, que es salada y frita en manteca. Pero también existe el chicharrón prensado, que ya sea en trocitos o molidos sirve como relleno para gorditas y quesadillas, o como guisado para comerse en tacos. Y a todo esto, ¿cuál es la diferencia entre el seco y el prensado? ¿Cómo se elabora el uno y el otro?
+Todos conocemos el famoso **chicharrón**, hasta en los refranes, y sabemos que hay **chicharrones** de harina, como los que venden enchilados y con limón en las ferias, y **chicharrón** de **cerdo**, elaborado con la piel del animal, que es salada y frita en manteca. Pero también existe el **chicharrón** **prensado**, que ya sea en trocitos o molidos sirve como relleno para gorditas y quesadillas, o como guisado para comerse en tacos. Y a todo esto, ¿**cuál es la diferencia** entre el **seco** y el **prensado**? ¿**Cómo se elabora** el uno y el otro?
 
-Dice el dicho que "aquí nomás mis chicharrones truenan", refiriéndose sin duda al crujiente chicharrón seco recién hecho. También hay una expresión un poco antigua de los bajos mundos que habla de "darle chicharrón" a alguien, refiriéndose a asesinarlo, pues en los pueblos se tiene la costumbre, justo, de darle chicharrón a un perro para que se agache a comerlo y en ese momento, matarlo de un balazo. Pero volvamos a la diferencia con el chicharrón prensado.
+Dice el dicho que "aquí nomás mis **chicharrones** truenan", refiriéndose sin duda al crujiente **chicharrón** **seco** recién hecho. También hay una expresión un poco antigua de los bajos mundos que habla de "darle **chicharrón**" a alguien, refiriéndose a asesinarlo, pues en los pueblos se tiene la costumbre de, justo, darle **chicharrón** a un perro para que se agache a comerlo y en ese momento matarlo de un balazo. Pero volvamos a las **diferencias** con el **chicharrón** **prensado**.
 
 TE RECOMENDAMOS:
