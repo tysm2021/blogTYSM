@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Desde tiempos prehispánicos y hasta el día de hoy, la base de la alimentación del pueblo de México ha sido el maíz, a tal grado se dice que los mexicanos somos los "hombres de maíz", pues incluso hay una leyenda mexica que afirma que los dioses crearon a la especie humana a partir de este grano. Pero, ¿cuántos tipos de maíz existen en México? ¿Son todos comestibles? ¿Cómo se llaman y en qué se distinguen?
+
+Revisemos un poco la historia del maíz para después enterarnos de cuántas especies nativas han crecido en México, cuáles son sus usos, sus diversos aspectos y sus diferencias.
+
+TE RECOMENDAMOS:
