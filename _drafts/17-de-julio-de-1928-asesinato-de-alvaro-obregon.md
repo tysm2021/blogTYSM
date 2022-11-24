@@ -28,3 +28,5 @@ A diferencia de la Guerra de Independencia, que inició en un día específico c
 Conozcamos esta historia, sabiendo primero un poco de la vida de **Obregón**, cómo fue que llegó al poder, dónde perdió el brazo y por qué se había hecho de enemigos que al final acabaron con su vida.
 
 TE RECOMENDAMOS:
+
+**Álvaro Obregón Salido** nació en la Hacienda Siquisiva, en Navojoa, Sonora, el 19 de febrero de 1880. Quedó huérfano de padre al año de edad, de modo que fue criado por sus hermanos mayores y fue a la escuela donde uno de ellos era director. A la edad de 32 años y siendo alcalde de Huatabampo, armó un ejército para defender al gobierno de Madero y combatir a Pascual Orozco, un militar que se había rebelado; una vez vencido el sublevado, regresó a su haciendo pero no por mucho tiempo, pues en 1913 se unió a Venustiano Carranza para combatir a Victoriano Huerta, quien había dado un golpe de estado a Madero y se había quedado con el poder.
