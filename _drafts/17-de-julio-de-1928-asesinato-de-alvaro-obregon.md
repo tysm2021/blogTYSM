@@ -23,8 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
-A diferencia de la Guerra de Independencia, que inició en un día específico con un levantamiento armado y terminó en una fecha determinada con la firma de un tratado, la Revolución Mexicana es un periodo de la historia que no tiene un final reconocido de forma unánime. Si bien todo empezó con el rechazo a las reelecciones de Porfirio Díaz en 1910, durante más de diez años los principales caudillos se disputaron la silla que quedó vacía y todos terminaron asesinados. Ese fue el caso de Álvaro Obregón, quien incluso llegó a presidente pero igual fue ejecutado una mañana de 1928 en un restaurante de San Ángel, en la capital del país.
+A diferencia de la Guerra de Independencia, que inició en un día específico con un levantamiento armado y terminó en una fecha determinada con la firma de un tratado, la **Revolución Mexicana** es un periodo de la historia mexicana que no tiene un final reconocido de forma unánime. Si bien todo empezó con el rechazo a las reelecciones de Porfirio Díaz en 1910, durante más de diez años los principales caudillos se disputaron la silla que quedó vacía y todos terminaron **asesinados**. Ese fue el caso de **Álvaro Obregón**, un caudillo revolucionario que incluso llegó a presidente pero igual fue ejecutado una mañana de **1928** en un restaurante de **San Ángel**, en la capital del país.
 
-Conozcamos esta historia, sabiendo primero un poco de la vida de Obregón, cómo fue que llegó al poder, dónde perdió el brazo y por qué se había hecho de enemigos que al final acabaron con su vida.
+Conozcamos esta historia, sabiendo primero un poco de la vida de **Obregón**, cómo fue que llegó al poder, dónde perdió el brazo y por qué se había hecho de enemigos que al final acabaron con su vida.
 
 TE RECOMENDAMOS:
