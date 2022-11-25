@@ -40,3 +40,9 @@ Sin duda, la **playa** **brasileña** más **famosa** y un emblema de **Brasil**
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ipanema_%28176566569%29.jpeg/1024px-Ipanema_%28176566569%29.jpeg)
 
 Ahora que lo pensamos mejor, ¿quién dijo que **Copacabana** es la **playa** más **famosa** de Brasil? Porque **Ipanema** se puso en boca de todo el mundo en la década de 1960 gracias a la canción "La chica de Ipanema" —de Antonio Carlos Jobim y Vinicius de Moraes— y es una de las **playas** más célebres del mundo. También se encuentra en la parte sur de **Río de Janeiro**, pero a diferencia de su vecina, **Ipanema** es más sofisticada y una de las zonas más caras para vivir en la ciudad, con abundantes cafés, galerías, teatros y restaurantes, amén de que es la preferida de los surfistas extranjeros, de los _hippies_ —incluso hay una feria anual— y de los intelectuales, que se reunen en la zona conocida como Posto 9.
+
+## Azeda
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Buzios-PraiaAzeda2.jpg/1024px-Buzios-PraiaAzeda2.jpg)
+
+Esta **playa** es la menos conocida de las tres, pero tiene su historia. Está ubicada en el pueblo costero de **Armação dos Búzios**, localizado a unos 170 kilómetros al este de Río de Janeiro, el cual había sido completamente ignorado por el mundo hasta la visita de la actriz de cine francesa Brigitte Bardot, quien llegó ahí llevada por su novio brasileño, y quedó fascinada con el lugar, que de inmediato se convirtió en uno de los favoritos de la alta sociedad de Río de Janeiro, así como de celebridades del jet-set internacional. De las muchas playas que hay en Búzios, Azeda se distingue por sus aguas tranquilas y cristalinas, por las que en muchos lugares uno puede caminar sin problemas —con el agua a la cintura o a los hombros— y observar el fondo marino, con peces y crustáceos nadando.
