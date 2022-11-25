@@ -28,3 +28,7 @@ Es un **árbol** de tronco delgado con hojas puntiagudas y alargadas, las cuales
 Visitemos la historia de este **árbol** que proviene de un continente muy alejado de México, donde es consumido por marsupiales como los koalas, y conozcamos cómo usarlo para remediar, tratar y curar algunas enfermedades comunes.
 
 TE RECOMENDAMOS:
+
+Lo que llamamos **eucalipto** en realidad es una familia de árboles de la familia de las mirtáceas, de la que hay cerca de 700 variedades. El nombre científico de su género es _Eucalyptus_, que en griego quiere decir "bien cubierto", refiriéndose a su semilla que está perfectamente encapsulada. Esta especie es originaria del continente de Oceanía, principalmente de **Australia** y Nueva Guinea, donde sirve como hábitat y alimento para numerosas especies animales.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/00_3637_Eucalyptus_curtisii.jpg/682px-00_3637_Eucalyptus_curtisii.jpg)
