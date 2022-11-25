@@ -32,3 +32,5 @@ TE RECOMENDAMOS:
 Lo que llamamos **eucalipto** en realidad es una familia de árboles de la familia de las mirtáceas, de la que hay cerca de 700 variedades. El nombre científico de su género es _Eucalyptus_, que en griego quiere decir "bien cubierto", refiriéndose a su semilla que está perfectamente encapsulada. Esta especie es originaria del continente de Oceanía, principalmente de **Australia** y Nueva Guinea, donde sirve como hábitat y alimento para numerosas especies animales.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/00_3637_Eucalyptus_curtisii.jpg/682px-00_3637_Eucalyptus_curtisii.jpg)
+
+Actualmente, está bien distribuida en muchas partes del mundo incluyendo América Latina, dándose bien en países como Colombia, Chile e incluso **México**. Además de su uso para extraer esencias aromáticas y medicinales, el **eucalipto** es de uso amplio en la industria papelera para la extracción de pulpa de celulosa, su madera se usa como combustible, para obtener ciertos químicos y tiene también importantes funciones como planta de ornato.
