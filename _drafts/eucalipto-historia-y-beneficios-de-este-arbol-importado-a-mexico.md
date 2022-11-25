@@ -23,8 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
-Es un árbol de tronco delgado con hojas puntiagudas y alargadas, las cuales despiden un olor agradable al ser frotadas y se dice que tienen numerosos beneficios para la salud del sistema respiratorio. Desde luego, nos referimos al eucalipto, el cual llegó a México hace ya décadas y desde entonces forma parte de nuestros bosques y del arbolado urbano que sirve para oxigenar las grandes urbes. ¿Cómo fue que llegó a México el eucalipto? Y, a todo esto, ¿cuáles son sus beneficios a la salud?
+Es un **árbol** de tronco delgado con hojas puntiagudas y alargadas, las cuales despiden un olor agradable al ser frotadas y se dice que tienen numerosos **beneficios** para la **salud** del sistema **respiratorio**. Desde luego, nos referimos al **eucalipto**, el cual llegó a México hace ya décadas y desde entonces forma parte de nuestros bosques y del arbolado urbano que sirve para oxigenar las grandes urbes. ¿**Cómo** fue que **llegó** a **México** el **eucalipto**? Y, a todo esto, ¿cuáles son sus **beneficios** a la **salud**?
 
-Visitemos la historia de este árbol que proviene de un continente muy alejado de México, donde es consumido por marsupiales como los koalas, y conozcamos cómo usarlo para remediar, tratar y curar algunas enfermedades comunes.
+Visitemos la historia de este **árbol** que proviene de un continente muy alejado de México, donde es consumido por marsupiales como los koalas, y conozcamos cómo usarlo para remediar, tratar y curar algunas enfermedades comunes.
 
 TE RECOMENDAMOS:
