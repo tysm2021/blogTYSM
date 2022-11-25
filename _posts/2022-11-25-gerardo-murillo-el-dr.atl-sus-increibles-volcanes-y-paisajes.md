@@ -33,6 +33,16 @@ El **Dr. Atl** empezó sus estudios en su natal Guadalajara, después se mudó a
 
 ![](/images/2022-11-25-dratl_popocatepetl1.jpeg)
 
-Sus estudios posteriores incluyen _El origen del Pedregal de San Ángel_ y _La zona aurífera del Centro Colorado en Oaxaca_. De particular interés para Gerardo Murillo fue el nacimiento del volcán Paricutín, que brotó de la tierra en Michoacán en febrero de 1943. El Dr. Atl dejó sus clases y todas sus actividades académicas y artísticas para mudarse a las faldas del volcán, el cual estudió minuciosamente y pintó desde numerosas perspectivas.
+Sus estudios posteriores incluyen _El origen del Pedregal de San Ángel_ y _La zona aurífera del Centro Colorado en Oaxaca_. De particular interés para **Gerardo Murillo** fue el nacimiento del **volcán** **Paricutín**, que brotó de la tierra en Michoacán en febrero de 1943. El **Dr. Atl** dejó sus clases y todas sus actividades académicas y artísticas para mudarse a las faldas del **volcán**, el cual estudió minuciosamente y pintó desde numerosas perspectivas.
 
-Al final, publicó el resultado de sus observaciones en un volumen dividido en dos partes: en la primera lleva un diario puntual del desarrollo primario del volcán, desde el punto de vista de alguien que vive en las cercanías del mismo, y en la segunda establece una hipótesis de cómo y por qué se pudo. haber presentado la erupción. Los notables lienzos que produjo del Paricutín son de una belleza extraordinaria.
+Al final, publicó el resultado de sus observaciones en un volumen dividido en dos partes: en la primera lleva un diario puntual del desarrollo primario del **volcán**, desde el punto de vista de alguien que vive en las cercanías del mismo, y en la segunda establece una hipótesis de cómo y por qué se pudo. haber presentado la erupción. Los notables lienzos que produjo del **Paricutín** son de una belleza extraordinaria.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dr._Atl%2C_Parucit%C3%ADn_%281946%29_1.jpg/1024px-Dr._Atl%2C_Parucit%C3%ADn_%281946%29_1.jpg)
+
+Otro de los **volcanes** que el **Dr. Atl** representó con mucha frecuencia fue el **Iztaccíhuatl** o "la mujer dormida". Tras la amputación de su pierna derecha, se vio imposibilitado de seguir escalando **volcanes** para pintarlos, por lo que decidió sobrevolarlos, creando así el "aero-paisaje", en el que retrata montañas y volcanes desde lo alto, con detalle en sus cráteres y chimeneas.
+
+![](/images/2022-11-25-dratl_izta.jpeg)
+
+La pasión **vulcanológica** del **Dr. Atl** rebasó las fronteras mexicanas, pues viajó a Italia para estudiar y pintar los famosos **volcanes** Etna y el Stromboli. Murillo falleció el 15 de agosto de 1964, debido a un paro cardiorrespiratorio; a la fecha, no se sabe si respirar y absorber durante meses las fumarolas del volcán Paricutín le ocasionó daños irreversibles a su salud que acabaron llevándolo a la tumba.
+
+![](/images/2022-11-25-dratl_autorretrato.jpeg)
