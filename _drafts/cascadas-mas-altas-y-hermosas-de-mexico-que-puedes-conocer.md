@@ -37,7 +37,7 @@ La Cascada de **Piedra Volada**, en el estado de Chihuahua, es oficialmente **la
 
 ### Tulimán
 
-Esta es una famosa caída de agua que se encuentra en el Pueblo Mágico de Zacatlán de las Manzanas, en Puebla. 
+Esta es una famosa caída de agua que se encuentra en el Pueblo Mágico de Zacatlán de las Manzanas, en Puebla. Diversas fuentes hablan de que tiene entre 270 y 300 metros de altura, en un total de tres caídas de agua, siendo el primero de ellos el Salto de Quetzalapa.
 
 Tamul
 
