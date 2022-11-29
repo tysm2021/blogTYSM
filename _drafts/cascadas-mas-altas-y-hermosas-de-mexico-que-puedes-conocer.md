@@ -29,11 +29,15 @@ A continuación, revisamos algunas de las cascadas más altas del país, así co
 
 TE RECOMENDAMOS:
 
-Piedra Volada
+### Piedra Volada
 
-Basaseachi
+La Cascada de **Piedra Volada**, en el estado de Chihuahua, es oficialmente **la más alta de México** con sus 453 metros de caída de agua, aunque es de temporal —es decir, que depende de la época de lluvias—. Se encuentra en el límite sur del Parque Nacional **Cascada de Basaseachi**, otra de las más altas del territorio nacional, con sus 246 metros de caída libre, que es la cascada permanente más alta de México.
 
-Tulimán
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cascada_Basaseachi.jpg/678px-Cascada_Basaseachi.jpg)
+
+### Tulimán
+
+Esta es una famosa caída de agua que se encuentra en el Pueblo Mágico de Zacatlán de las Manzanas, en Puebla. 
 
 Tamul
 
