@@ -12,7 +12,7 @@ article_header:
   background_color: "#203028"
   background_image:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
-    src: "/images/2022-04-26-majahuitas_pinterest.jpeg"
+    src: "/images/2022-11-29-cascada_de_tamul_vista_aerea.jpeg"
 sharing: true
 title: Cascadas más altas y hermosas de México que puedes conocer
 summary: 'Estas imponentes y enormes caídas naturales de agua se encuentran escondidas
@@ -23,3 +23,24 @@ show_author_profile: false
 comment: false
 
 ---
+Una **cascada** es una caída de agua natural desde cierta altura, causada por un desnivel de su cauce. Y como **México** tiene un territorio con numerosas elevaciones y los cruzan abundantes ríos, es común que existan **cascadas** de alturas espectaculares, tremendamente caudalosas o que dan un espectáculo soberbio. ¿Cuáles son las cascadas mexicanas más altas, las más famosas y donde puedes hacer turismo de aventura?
+
+A continuación, revisamos algunas de las cascadas más altas del país, así como otras que no tienen tantos metros de elevación pero son famosas por su belleza, por la cantidad de agua o por algún otro rasgo que las distingue.
+
+TE RECOMENDAMOS:
+
+Piedra Volada
+
+Basaseachi
+
+Tulimán
+
+Tamul
+
+El Chuvejé
+
+Agua Azul
+
+Cola de Caballo
+
+Salto de Eyipantla
