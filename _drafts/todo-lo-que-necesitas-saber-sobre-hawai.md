@@ -40,3 +40,9 @@ Así es: **Hawai** es uno de los cincuenta estados que forman los **Estados Unid
 De hecho, las **islas** **hawaianas** se crearon por erupciones volcánicas submarinas en un punto geológico llamado el Punto Caliente de Hawai. Actualmente hay seis **volcanes** activos en las islas de **Hawai'i** y Maui. Los dos más activos de ellos son: el **Mauna Loa**, considerado el volcán activo más grande del mundo y que el 28 de noviembre volvió a entrar en erupción, y el **Kilauea**, del que se dice que es el volcán más activo que se conoce, pues ha estado en permanente estado de erupción.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/20221128_Mauna_Loa_Northeast_Rift_Zone_USGS.jpg/1024px-20221128_Mauna_Loa_Northeast_Rift_Zone_USGS.jpg)
+
+### Ahí se inventó el surf
+
+Existe evidencia de que hace algunos siglos de que un antecedente del deporte que conocemos actualmente fue inventado aquí, gracias a las grandes olas que se presentan en sus **playas**. Después, los _surfers_ estadounidenses lo conocieron en la isla de **Maui** y lo popularizaron en el mundo. Actualmente sigue siendo un punto de interés para este tipo de deportistas acuáticos extremos.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Escaping_the_jaws_of_a_Banzai_Pipeline_wave.jpg/1024px-Escaping_the_jaws_of_a_Banzai_Pipeline_wave.jpg)
