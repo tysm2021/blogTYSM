@@ -45,8 +45,16 @@ Tamul
 
 El Chuvejé
 
-Agua Azul
+### Agua Azul
+
+Ubicadas en el estado de Chiapas, sin duda son unas de las cascadas más hermosas del país.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cataratas_de_Agua_Azul%2C_Mexico.JPG/1024px-Cataratas_de_Agua_Azul%2C_Mexico.JPG)
 
 Cola de Caballo
 
-Salto de Eyipantla
+### Salto de Eyipantla
+
+Esta **cascada** se ubica en el municipio de **San Andrés Tuxtla**, en **Veracruz**. La caída de agua no es tan alta, con sus 50 metros de de altura, pero es muy ancha: tiene 40 metros de ancho. La **cascada** está alimentada por el Río Grande del poblado de Catemaco y la _eyipantla_ proviene del náhuatl: _eli_, 'tres'; _pantli,_ 'barranco' y _tla,_ 'niña', pudiendo traducirse como "salto de tres chorros".
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Salto_de_Eyipantla.jpg/1024px-Salto_de_Eyipantla.jpg)
