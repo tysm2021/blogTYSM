@@ -47,7 +47,7 @@ El Chuvejé
 
 ### Agua Azul
 
-Ubicadas en el estado de Chiapas, sin duda son unas de las cascadas más hermosas del país.
+Ubicadas en el estado de **Chiapas**, en los municipios de Tumbalá y Chilón, sin duda son unas de las cascadas más hermosas del país. Se forman gracias a los afluentes de los ríos Otulún, Shumuljá y Tulijá, que forman cañones no muy profundos con acantilados verticales que dan origen a sus cascadas blanquiazules.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cataratas_de_Agua_Azul%2C_Mexico.JPG/1024px-Cataratas_de_Agua_Azul%2C_Mexico.JPG)
 
