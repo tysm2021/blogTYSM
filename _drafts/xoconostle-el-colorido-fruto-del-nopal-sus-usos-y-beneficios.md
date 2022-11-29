@@ -32,3 +32,9 @@ TE RECOMENDAMOS:
 El **xoconostle** es un fruto rojizo o violáceo, de unos ocho a diez centímetros del largo, de forma ovalada, con una piel dura y cubierta de pequeñas espinas, y un interior jugoso, pulposo y con abundantes semillas. Este fruto nace de la variedad de **nopal** conocido como _Opuntia Joconostle y_ tiene un gran parecido con la tuna, pero su sabor es más agrio. Una característica es que no caen de la planta cuando maduran, y pueden permanecer fijos durante todo el año. El xoconostle es originario de México y se produce en la región norte y centro, principalmente en los estados de los estados de Durango, Zacatecas, Aguascalientes, San Luis Potosí, Jalisco, Michoacán, Querétaro, Estado de México e Hidalgo.
 
 ![](/images/2022-11-29-1024px-xoconostles_de_tequixquiac.jpeg)
+
+El **xoconostle** puede consumirse de diversas maneras: si lo compras **fresco** por pieza o por montón, lo puedes comer directamente después de pelarlo; también hay puestos de jugos que añaden un **xoconostle** a ciertos licuados para hacerlos más nutricionales o dar un sabor más agrio; en ciertos guisos, como el mole de olla, otorga un sabor acidito que resulta inconfundible. También se preparan salsas, botanas, dulces, postres y licores con él.
+
+En cuanto a los **beneficios** para la **salud**, éstos son múltiples: desde hace siglos ha servido al sustento económico del campesino mexicano, quien lo utiliza en su alimentación y como medicina alternativa. Además, desde el punto de vista nutricional, aporta una gran cantidad de antioxidantes, de fibra, minerales y vitamina C —de hecho, una sola cáscara de **xoconostle** aporta un tercio de requerimientos mínimos diarios de vitamina C para un adulto.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/MGSA2018_-_Xoconostle.jpg/1024px-MGSA2018_-_Xoconostle.jpg)
