@@ -38,3 +38,5 @@ El **xoconostle** puede consumirse de diversas maneras: si lo compras **fresco**
 En cuanto a los **beneficios** para la **salud**, éstos son múltiples: desde hace siglos ha servido al sustento económico del campesino mexicano, quien lo utiliza en su alimentación y como medicina alternativa. Además, desde el punto de vista nutricional, aporta una gran cantidad de antioxidantes, de fibra, minerales y vitamina C —de hecho, una sola cáscara de **xoconostle** aporta un tercio de requerimientos mínimos diarios de vitamina C para un adulto.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/MGSA2018_-_Xoconostle.jpg/1024px-MGSA2018_-_Xoconostle.jpg)
+
+Otros **beneficios** son que es un excelente regulador de la glucosa o azúcar en la sangre, del colesterol y los triglicéridos, por lo cual se recomienda como auxiliar para prevenir y tratar la diabetes. También, por la gran cantidad de fibra que posee, el **xoconostle** ayuda a tus procesos digestivos; por último, fortalece el sistema inmune, ayuda a que tu piel y cartílagos sean sanos, y promueve una mejor salud cardiovascular.
