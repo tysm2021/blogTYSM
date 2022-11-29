@@ -46,3 +46,9 @@ De hecho, las **islas** **hawaianas** se crearon por erupciones volcánicas subm
 Existe evidencia de que hace algunos siglos de que un antecedente del deporte que conocemos actualmente fue inventado aquí, gracias a las grandes olas que se presentan en sus **playas**. Después, los _surfers_ estadounidenses lo conocieron en la isla de **Maui** y lo popularizaron en el mundo. Actualmente sigue siendo un punto de interés para este tipo de deportistas acuáticos extremos.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Escaping_the_jaws_of_a_Banzai_Pipeline_wave.jpg/1024px-Escaping_the_jaws_of_a_Banzai_Pipeline_wave.jpg)
+
+### Tiene playas paradisiacas
+
+En efecto, siendo un conjunto de islas rodeadas por las aguas cristalinas del Océano Pacífico, en Hawai hay una infinidad de **playas** para todos los gustos. Algunas de las más **famosas** son: Waikiki, Ko Olina y Waimea, en O'ahu; Hanalei, Kalapaki y Poipu, en Kauai; Wailea (en la foto), Kapalua y Hamoa, en Maui; Hapuna y Mauna Kea en Hawai'i. Algunas como Waikiki están llenas de hoteles, resorts y restaurantes de clase mundial, y otras están apartadas del bullicio y son casi vírgenes, con pocos visitantes.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Wailea_beach_Park_Maui%2C_Hawaii_%2844827150335%29.jpg/1024px-Wailea_beach_Park_Maui%2C_Hawaii_%2844827150335%29.jpg)
