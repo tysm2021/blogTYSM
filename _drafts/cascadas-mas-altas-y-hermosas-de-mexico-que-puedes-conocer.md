@@ -51,7 +51,11 @@ Ubicadas en el estado de **Chiapas**, en los municipios de Tumbalá y Chilón, s
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cataratas_de_Agua_Azul%2C_Mexico.JPG/1024px-Cataratas_de_Agua_Azul%2C_Mexico.JPG)
 
-Cola de Caballo
+### Cola de Caballo
+
+Uno de los orgullos de **Nuevo León**, esta famosa cascada se encuentra en el Pueblo Mágico de **Villa de Santiago**, a unos 30 kilómetros de Monterrey. Aunque es de muy baja altura —unos 25 metros—, es famosa belleza y su peculiar forma.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cola_de_Caballo.JPG/768px-Cola_de_Caballo.JPG)
 
 ### Salto de Eyipantla
 
