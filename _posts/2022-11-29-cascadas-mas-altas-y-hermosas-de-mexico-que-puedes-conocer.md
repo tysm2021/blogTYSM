@@ -43,9 +43,9 @@ Esta es una famosa caída de agua que se encuentra a las afueras el Pueblo Mági
 
 ### Tamul
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cascada_de_Tamul_vista_desdes_abajo.jpg/1024px-Cascada_de_Tamul_vista_desdes_abajo.jpg)
-
 Esta belleza natural de aguas color turquesa es considerada "la joya de las cascadas potosinas"; está localizada en el municipio de **Aquismón**, en la región de la Huasteca de **San Luis Potosí**. Su impresionante caída tiene **105 metros de altura** y, en época de lluvias, alcanza a dibujar una cortina ¡de casi 300 metros de ancho!
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cascada_de_Tamul_vista_desdes_abajo.jpg/1024px-Cascada_de_Tamul_vista_desdes_abajo.jpg)
 
 ### El Chuvejé
 
