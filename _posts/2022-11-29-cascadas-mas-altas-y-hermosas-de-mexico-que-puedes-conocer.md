@@ -47,7 +47,11 @@ Esta es una famosa caída de agua que se encuentra a las afueras el Pueblo Mági
 
 Esta belleza natural de aguas color turquesa es considerada "la joya de las cascadas potosinas"; está localizada en el municipio de **Aquismón**, en la región de la Huasteca de **San Luis Potosí**. Su impresionante caída tiene **105 metros de altura** y, en época de lluvias, alcanza a dibujar una cortina ¡de casi 300 metros de ancho!
 
-El Chuvejé
+### El Chuvejé
+
+Este espectáculo de la naturaleza se encuentra en la Sierra Gorda de **Querétaro**, en plena Sierra Gorda, cerca del poblado de **Pinal de Amoles**. Tiene casi 30 metros de altura, es una de las cascadas más bellas del estado y un lugar ideal para acampar, hacer un día de campo o relajarse y disfrutar del paisaje.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cascada_el_chuveje_de_la_sierra_gorda.jpg/576px-Cascada_el_chuveje_de_la_sierra_gorda.jpg)
 
 ### Agua Azul
 
