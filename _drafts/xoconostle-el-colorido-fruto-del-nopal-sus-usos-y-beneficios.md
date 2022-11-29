@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Dice el refrán que "Al nopal, sólo lo van a ver cuando tiene **tunas**", refiriéndose a la gente interesada que sólo nos visita o nos llama cuando quiere sacar algún provecho. Pero, quizá más preciado que la verde y dulce **tuna** es el **xoconostle**, otro fruto del **nopal** de color rojizo y sabor ácido, que lo mismo se consume solo —previamente pelado— que en **guisados** y otros **platillos**. ¿Cuáles son sus **diferencias** entre la **tuna** y el **xoconostle**, y cuáles son sus **usos** y sus **beneficios**?
+
+Aquí te platicamos todo el sobre el colorado **xoconostle**, ese fruto que desde tiempos prehispánicos recibió dicho nombre que proviene del náhuatl _xococ_, que significa 'agrio' y _nochtl_, que quiere decir 'tuna'.
+
+TE RECOMENDAMOS:
