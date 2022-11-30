@@ -47,6 +47,6 @@ Mención aparte merece el **técpatl**, una daga o cuchillo con hoja de doble fi
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flint_Mexican_sacrificial_knife_%28tecpatl%29.jpg/768px-Flint_Mexican_sacrificial_knife_%28tecpatl%29.jpg)
 
-Por otro lado estaban las **armas arrojadizas**, tanto los dispositivos que lanzaban los proyectiles como las lanzas, los dardos y las flechas mismos. Aquí, destaca el **atlátl** o lanzadardos o estólica, un arma que representaba al dios mexica Opochtli y era una especie de brazo extendido que se usaba para lanzar unos proyectiles o dardos llamados **tlacochtli**, los cuales llegaban más lejos y penetraban más que las flechas disparadas con arco.
+Por otro lado estaban las **armas arrojadizas**, tanto los dispositivos que lanzaban los proyectiles como las lanzas, los dardos y las flechas mismos. Aquí, destaca el **atlátl** o lanzadardos o estólica, un arma que representaba al dios mexica Opochtli y era una especie de brazo extendido que se usaba para lanzar unos proyectiles o dardos llamados **tlacochtli**, los cuales eran pequeñas lanzas de aproximadamente 1.8 metros de largo con punta de obsidiana, bronce o hueso de pescado, y llegaban más lejos que las flechas disparadas con arco.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/08/Aztec_atl-atl_%28Museo_Nacional_de_Antropolog%C3%ADa%29.jpg)
