@@ -50,3 +50,9 @@ Mención aparte merece el **técpatl**, una daga o cuchillo con hoja de doble fi
 Por otro lado estaban las **armas arrojadizas**, tanto los dispositivos que lanzaban los proyectiles como las lanzas, los dardos y las flechas mismos. Aquí, destaca el **atlátl** o lanzadardos o estólica, un arma que representaba al dios mexica Opochtli y era una especie de brazo extendido que se usaba para lanzar unos proyectiles o dardos llamados **tlacochtli**, los cuales eran pequeñas lanzas de aproximadamente 1.8 metros de largo con punta de obsidiana, bronce o hueso de pescado, y llegaban más lejos que las flechas disparadas con arco.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/08/Aztec_atl-atl_%28Museo_Nacional_de_Antropolog%C3%ADa%29.jpg)
+
+Luego están el arco y las flechas mexicas. El **tlahuitolli** era el arco de guerra, se hacía con madera flexible y medía al menos metro y medio de largo, y se acordonaba con el tendón de un animal; los arqueros en el ejército mexica eran denominados tequihua y lanzaban flechas llamadas **mitl**, las cuales podían ser **tetotocamitl** si eran de cacería, **tencualacmitl** si estaban envenenadas y **yaomitl**, si eran flechas de guerra con punta de obsidiana, pedernal o hueso.
+
+Otras armas de este tipo eran la cerbatana o **tlacalhuazcuahuitl**, que era de madera hueca y lanzaba unos dardos llamados **tlatzontectli**; el **tematlátl**, que era una honda hecha con fibras de maguey y que lanzaba piedras ovaladas o bolas de barro que iban rellenas con piedras pequeñas o restos de obsidiana. Bernal Díaz del Castillo dio cuenta de que este ataque era tan efectivo que incluso los soldados españoles que usaban armadura resultaban heridos. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/57/Cerbatana_Tlacalhuazcuahuitl_Bodley_p38.jpg)
