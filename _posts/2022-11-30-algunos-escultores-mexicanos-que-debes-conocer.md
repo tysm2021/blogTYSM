@@ -67,4 +67,8 @@ Aunque murió de forma prematura a los 37 años, su legado **escultórico** est�
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Escultura_%22Independencia%22.jpg/768px-Escultura_%22Independencia%22.jpg)
 
-Javier Marín
+### Javier Marín (1962- )
+
+El último de la lista es el michoacano Javier Marín, el cual ha destacado en las últimas décadas como autor de **esculturas** que combinan el hiperrealismo de las esculturas monumentales de la Roma Imperial y el neoclasisismo europeo, con la modernidad y el espíritu de ruptura del expresionismo abstracto y de otras corrientes. Se especializa en figuras humanas, pero su estética es poco ortodoxa, fraccionada y vanguardista. Una de sus obras más famosas y convencionales es el retablo mayor de la Catedral de Zacatecas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fachada_del_Museo_Espacio_con_esculturas_de_Javier_Mar%C3%ADn_2.jpg/1024px-Fachada_del_Museo_Espacio_con_esculturas_de_Javier_Mar%C3%ADn_2.jpg) 
