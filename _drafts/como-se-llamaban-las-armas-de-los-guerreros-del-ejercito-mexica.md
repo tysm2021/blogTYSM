@@ -28,3 +28,15 @@ Uno de los **imperios** de mayor relevancia y poderío militar en **Mesoamérica
 A continuación, te contamos un poco sobre el militarismo, los **guerreros** **mexicas** y el armamento que **usaban**, el cual es descrito tanto en crónicas de la Conquista escritas por **soldados** y religiosos españoles, como en las propias cédulas de tributos que hemos encontrado de la época previa a la Conquista.
 
 TE RECOMENDAMOS:
+
+Para la civilización **mexica**, la **guerra** era una actividad de importancia primordial. Nada menos, su deidad principal era el 'colibrí zurdo' o 'colibrí del Sur', Huitzilopochtli, el cual fungía como dios de la **guerra**, cuyo culto era impuesto a los pueblos sometidos, pues las figurillas de los dioses locales eran sustraídos de los templos y sustituidas por una de **Huitzilopochtli**. Por si fuera poco, el Templo Mayor de México-Tenochtitlan constaba de dos torres: una dedicada a Tláloc, dios de la lluvia, la cual era esencial para las cosechas y el sustento del pueblo, y la otra honraba al dios de la **guerra**, al cual se le ofrecían sacrificios humanos.
+
+Son famosas las dos órdenes o sociedades militares principales: los **guerreros águila** y los **guerreros jaguar**, los cuales eran soldados de alto rango que usaban trajes hechos con plumas y piel de animal para honrar a las deidades asociadas con el día y la noche. Pero, ¿cuáles eran las **armas** que blandían estos **soldados** y con las cuales expandieron su territorio y alcanzaron una gran relevancia política en el Valle de México?
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d1/Matanza_de_comerciantes_mexicas_en_Quetzaltepec%2C_en_el_folio_165r.png)
+
+Dividamos el catálogo de **armas** en tres tipos: las **armas de mano**, que como su nombre lo indica son blandidas por el guerrero con una o con las dos manos; las **armas arrojadizas**, que eran lanzadas valiéndose de hondas o arcos; y las de defensa y protección, entre las que se incluyen los trajes y las armaduras.
+
+Entre las armas de mano la protagonista era la espada de madera llamada **macuahuitl**, la cual consistía en un bastón de madera de más o menos un metro de largo, al cual se le incrustaban pequeños cuchillos de obsidiana que servían para cortar como si fuera el filo de una espada. A pesar de su modesta apariencia, crónicas de la Conquista hablan de poderosos guerreros mexicas que, con un solo golpe de **macuahuitl**, eran capaces de degollar a un caballo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d2/Historia_general_de_las_cosas_de_Nueva_Espa%C3%B1a_vol._1_folio_74v.png)
