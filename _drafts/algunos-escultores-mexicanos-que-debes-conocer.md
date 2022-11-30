@@ -33,20 +33,16 @@ Con la Conquista, las artes **escultóricas** en México adoptaron las técnicas
 
 Pedro Patiño Ixtolinque
 
-Sebastian
+Manuel Centurión
 
-Hersua
+Sebastian
 
 Helen Escobedo
 
 Juan Soriano
 
-Manuel Centurión
-
 Javier Marín
 
 Oliverio Martínez
 
-Germán Cueto
-
-Manuel Felguéres
+Manuel Felguérez
