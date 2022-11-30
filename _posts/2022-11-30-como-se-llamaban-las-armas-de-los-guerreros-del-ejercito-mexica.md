@@ -40,3 +40,9 @@ Dividamos el catálogo de **armas** en tres tipos: las **armas de mano**, que co
 Entre las armas de mano la protagonista era la espada de madera llamada **macuahuitl**, la cual consistía en un bastón de madera de más o menos un metro de largo, al cual se le incrustaban pequeños cuchillos de obsidiana que servían para cortar como si fuera el filo de una espada. A pesar de su modesta apariencia, crónicas de la Conquista hablan de poderosos guerreros mexicas que, con un solo golpe de **macuahuitl**, eran capaces de degollar a un caballo.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d2/Historia_general_de_las_cosas_de_Nueva_Espa%C3%B1a_vol._1_folio_74v.png)
+
+Otras armas de mano mexicas eran el **cuahuitl**, un garrote hecho de madera, tallado para representar las hojas de la planta del agave; el **tepoztopilli**, Lanza de madera con una cabeza ancha alineada con filos de obsidiana; el **tlaximaltepoztli**, una especie de hacha que representaba al dios Tepoztécatl, era similar a un tomahawk y tenía una hoja hecha de piedra o bronce; el **huitzauhqui**, que era similar al macuahuitl pero más grande, y el _macuahuitzoctli_, que era un mazo de medio metro con cuchillos de obsidiana por los cuatro lados.
+
+Mención aparte merece el **técpatl**, una daga o cuchillo con hoja de doble filo, hecha de obsidiana o pedernal, de unos 20 centímetros de largo, a veces con mangos hechos de madera o piedra e incrustaciones de piedras o conchas; esta arma afilada se usaba en los sacrificios humanos para abrir el esternón del prisionero y que el sacerdote extrajera su corazón; por su importancia y función religiosa, los mexicas creían que los **técpatl** tenían vida propia y se les dibujaba una especie de rostro.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flint_Mexican_sacrificial_knife_%28tecpatl%29.jpg/768px-Flint_Mexican_sacrificial_knife_%28tecpatl%29.jpg)
