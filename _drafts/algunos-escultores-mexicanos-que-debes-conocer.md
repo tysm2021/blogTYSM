@@ -45,7 +45,9 @@ Artista poblano por nacimiento. Fue miembro del movimiento llamado _Renovación 
 
 ### Sebastian (1947- )
 
-Este renombrado escultor mexicano, uno de los más grandes y prolíficos que viven en la actualidad, se llama en realidad Enrique Carbajal González y nació en Camargo, Chihuahua. Se especializa en el estilo denominado geometrismo —basado en formas y volúmenes geométricos clásicos— y en esculturas metálicas monumentales. Es autor de la famosa _Cabeza de caballo_ que está en la esquina de Paseo de la Reforma y Bucareli, en el centro de la CDMX, y del León Rojo en la esquina con Chivatito, en Chapultepec; también es suyo el Guerrero Chimalli, en el Estado de México, y decenas de obras en importantes ciudades de México, Estados Unidos y Japón.
+Este renombrado escultor mexicano, uno de los más grandes y prolíficos que viven en la actualidad, se llama en realidad Enrique Carbajal González y nació en Camargo, Chihuahua. Se especializa en el estilo denominado geometrismo —basado en formas y volúmenes geométricos clásicos— y en esculturas metálicas monumentales. Es autor de la famosa _Cabeza de caballo_ que está en la esquina de Paseo de la Reforma y Bucareli, en el centro de la CDMX, y del _León Rojo_ en la esquina con Chivatito, en Chapultepec; también es suyo el _Guerrero Chimalli_ —una de las esculturas más altas de México—, en el Estado de México; el _Ángel Custodio_ de Puebla (en la foto) y decenas de obras en importantes ciudades de México, Estados Unidos y Japón.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%C3%81ngel_Custodio%2C_Puebla.jpg/765px-%C3%81ngel_Custodio%2C_Puebla.jpg)
 
 Helen Escobedo
 
