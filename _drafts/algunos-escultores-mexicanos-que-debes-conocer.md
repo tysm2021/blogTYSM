@@ -49,12 +49,22 @@ Este renombrado escultor mexicano, uno de los más grandes y prolíficos que viv
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%C3%81ngel_Custodio%2C_Puebla.jpg/765px-%C3%81ngel_Custodio%2C_Puebla.jpg)
 
-Helen Escobedo
+### Helen Escobedo (1934-2010)
 
-Juan Soriano
+La única mujer de esta lista, destacó también dentro de la **escultura** geometrista. Estudió una maestría en el Royal College of Art de Londres y, a su regreso, participó con una obra dentro de la Ruta de la Amistad, una serie de **esculturas** que se montaron en el Anillo Periférico Sur durante la Olimpiada de 1968. Además, junto con Mathias Goeritz, **Manuel Felguérez**, **Sebastian**, Hersua y Federico Silva, diseño el Espacio Escultórico de la Ciudad Universitaria.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coatl_de_Helen_Escobedo.JPG/1024px-Coatl_de_Helen_Escobedo.JPG)
+
+### Manuel Felguérez (1928-2020)
+
+Pintor y **escultor**. Estudió en la escuela de artes "La Esmeralda" de la UNAM, donde conoce al escultor francés de origen ruso Ossip Zadkine, quien habría de influir en su obra escultórica, que se incluye dentro del estilo geométrico-constructivista, del informalismo y del expresionismo abstracto. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mexico_City_%282018%29_-_091.jpg/768px-Mexico_City_%282018%29_-_091.jpg)
+
+### Oliverio Martínez (1901-1938)
+
+Aunque murió de forma prematura a los 37 años, su legado **escultórico** está a la vista de millones, pues es el autor de los cuatro grupos **escultóricos** de 11 metros de altura que adornan el Monumento a la Revolución de la Ciudad de México, y que se titulan "La Independencia", "Las Leyes de Reforma", "Las Leyes Agrarias" y "Las Leyes Obreras". Estudió en la Escuela Nacional de Bellas Artes y formó parte de la llamada Escuela Mexicana de **Escultura**, que propuso una renovación del discurso **escultórico** en México, acercándose a las vanguardias europeas y al art déco, y recuperando estéticas prehispánicas de la escultura.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Escultura_%22Independencia%22.jpg/768px-Escultura_%22Independencia%22.jpg)
 
 Javier Marín
-
-Oliverio Martínez
-
-Manuel Felguérez
