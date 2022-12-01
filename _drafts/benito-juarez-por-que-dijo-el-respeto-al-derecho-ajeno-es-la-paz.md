@@ -31,4 +31,14 @@ TE RECOMENDAMOS:
 
 Tras la caída del Segundo Imperio Mexicano y la derrota de Maximiliano de Habsburgo, que fue capturado en Querétaro por el general Sóstenes Rocha y había sido condenado a muerte   el 14 de junio de 1867, el **presidente Juárez** se desplazó a la Ciudad de México, donde entró triunfante al día siguiente. El mandatario usó la Puerta de Belén y el Paseo de Bucareli, continuó por la Alameda Central y se dirigió al Palacio de Gobierno, hoy Palacio Nacional.
 
+Desde el balcón presidencial, presenció un desfile de la columna de honor y las expresiones de celebración y de alegría de la población. Ese mismo día, expidió el "**Manifiesto del Presidente al ocupar la capital de la República**", de la que había salido hacía cuatro años, donde más o menos a la mitad se encuentra la **frase célebre**:
+
+> …Mexicanos: encaminemos ahora todos nuestros esfuerzos a obtener y a consolidar los beneficios de la paz. Bajo sus auspicios, será eficaz la protección de las leyes y de las autoridades para los derechos de todos los habitantes de la República.
+>
+> Que el pueblo y el gobierno respeten los derechos de todos. **Entre los individuos, como entre las naciones, el respeto al derecho ajeno es la paz_._**
+>
+> Confiemos en que todos los mexicanos, aleccionados por la prolongada y dolorosa experiencia de las comunidades de la guerra, cooperaremos en el bienestar y la prosperidad de la nación que sólo pueden conseguirse con un inviolable respeto a las leyes, y con la obediencia a las autoridades elegidas por el pueblo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Retrato_de_Benito_Ju%C3%A1rez.jpg/685px-Retrato_de_Benito_Ju%C3%A1rez.jpg)
+
 fusilamiento el 19 de junio de 1867
