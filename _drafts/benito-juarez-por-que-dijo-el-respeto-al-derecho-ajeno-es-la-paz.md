@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+**Benito Juárez** fue un **presidente** de **México** de origen indígena —el primero y el único con ese origen— que ocupó el cargo de 1857 a 1872, habiendo sido elegido en cinco ocasiones. Junto con Miguel Hidalgo, es uno de los personajes históricos más mencionados en los libros y textos, por lo que miles de calles, avenidas y municipios llevan su nombre. También fue un hombre culto y de letras, lo que se comprueba en la gran cantidad de cartas y documentos que escribió, donde expresó frases célebres como "El respeto al derecho ajeno es la paz", por la que hasta hoy es recordado.
+
+Pero, ¿por qué dijo esta frase, cuándo la dijo y en qué contexto?  Revisemos la historia de esta, una de las máximas que hasta la fecha rige la política exterior de México, la cual está basada en el respeto hacia la soberanía de los individuos y de las naciones.
+
+TE RECOMENDAMOS:
