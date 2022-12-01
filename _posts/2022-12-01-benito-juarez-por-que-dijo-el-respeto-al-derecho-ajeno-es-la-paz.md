@@ -41,4 +41,6 @@ Desde el balcón presidencial, presenció un desfile de la columna de honor y la
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Retrato_de_Benito_Ju%C3%A1rez.jpg/685px-Retrato_de_Benito_Ju%C3%A1rez.jpg)
 
-fusilamiento el 19 de junio de 1867
+Cuatro días después, el 19 de junio de 1867, Maximiliano I fue fusilado en el Cerro de las Campanas de Querétaro, junto con los generales Manuel Miramón y Tomás Mejía, con lo que se daba carpetazo final al periodo histórico conocido como Segundo Imperio Mexicano, siendo el primero aquél que encabezó el consumador de la Independencia, Agustín de Iturbide.
+
+Sobre la famosa sentencia, vale la pena agregar que aunque es una **frase** original de **Benito Juárez**, es muy probable que se haya inspirado en un texto del filósofo alemán **Immanuel Kant**, el cual en su ensayo "Sobre la paz perpetua" —_Zum ewigen Frieden_, en alemán— escribió una idea muy similar: "…la injusticia cometida se ejerce únicamente en el sentido de que no respetan el concepto del derecho, único principio posible de la paz perpetua. Queda claro que ambos, el pensador y el político, coincidían en que la única forma de hallar y mantener la paz era el respeto mutuo entre personas y países.
