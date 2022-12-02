@@ -23,3 +23,4 @@ show_author_profile: false
 comment: false
 
 ---
+El estado de **Nayarit** se encuentra en la costa del Pacíifico, colindando con con los estados de Sinaloa, Durango y Zacatecas hacia el norte y con el estado de Jalisco hacia el sur. Y aunque en esa zona, en lo que a **playas** se refiere, mucho de hablaba de **Puerto Vallarta** y, si acaso, de **Guayabitos**, en las dos últimas décadas una serie de hermosas y limpias **playas** **nayaritas** han ganado fama entre los vacacionistas, conformando una franja que se ha denominado **Riviera Nayarit**.
