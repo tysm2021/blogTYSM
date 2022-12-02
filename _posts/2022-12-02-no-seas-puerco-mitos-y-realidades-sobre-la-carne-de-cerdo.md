@@ -50,4 +50,4 @@ Por alguna razón, se piensa que la **carne de cerdo** es "delicada", pues puede
 
 ### MITO: Transmite la cisticercosis
 
-m
+A finales de la década de 1980, un documental televisivo generó una histeria colectiva en torno al consumo de la carne de cerdo, pues reveló que en muchos criaderos y rastros no existían las condiciones santarias para prevenir la transmisión de los parásitos conocidos como cisticercos, los cuales generan la enfermedad conocida como cisticercosis. Pero, además de que las autoridades sanitarias exigen ciertas condiciones de higiene a los criadores, es un hecho que la enfermedad no se presenta por haber comido carne de cerdo mal cocida, sino que es resultado de infecciones externas o autoinfección.
