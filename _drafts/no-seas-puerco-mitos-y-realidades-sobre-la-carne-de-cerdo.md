@@ -24,3 +24,8 @@ show_author_profile: false
 comment: false
 
 ---
+Aunque hay especies nativas de este continente, en general el **cerdo** que conocemos es una especie que fue traída a América por los conquistadores españoles. De hecho, hay un mito histórico sobre un supuesto banquete que incluía **cerdo** estofado, con el cual Hernán Cortés celebró la caída de México-Tenochtitlan. Como sea, es un hecho que la **carne de cerdo** o **puerco** es un ingrediente principal en la **gastronomía** **mexicana**, con platillos grandiosos como la cochinita pibil de Yucatán, las carnitas de Michoacán y los tacos al pastor de la CDMX. Sin embargo, existen algunos **mitos** en torno a su consumo, que vale la pena contrastar con **realidades**.
+
+Demos un vistazo, pues, a algunas de las creencias más difundidas y generalizadas sobre la carne de cerdo, las cuales hablan de enfermedades, de sobrepeso y de otras muchas cosas que no son ciertas.
+
+TE RECOMENDAMOS:
