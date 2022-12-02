@@ -25,6 +25,10 @@ comment: false
 ---
 En **México**, desde tiempos del Virreinato, se estila que los ciudadanos portemos uno, dos o varios nombres de pila —llamados así porque antiguamente se nos ponían en las pilas bautismales, aunque en la actualidad los que cuentan son los del Registro Civil— y, en general, dos **apellidos**: el del padre o **paterno**, seguido del de la madre o **materno**, aunque hay sus excepciones como son los **apellidos** compuestos y los hijos y las hijas "naturales" que llevan los dos **apellidos** de la madre. Pero, a todo esto y según el **INEGI**, ¿**cuáles** son los **apellidos más comunes** y los que mas gente usa en **México**, en este **2022**?
 
-A continuación, revisaremos las **estadísticas** acerca de la frecuencia y la **cantidad** de **personas** que portan determinados **apellidos**, según información reciente proporcionada por el Instituto de Estadística y Geografía (**INEGI**) del Gobierno de México.
+A continuación, revisaremos las **estadísticas** acerca de la frecuencia y la **cantidad** de **personas** que portan determinados **apellidos**, según la información reciente proporcionada por el Instituto de Estadística y Geografía (**INEGI**) del Gobierno de México.
 
 TE RECOMENDAMOS:
+
+En este año de 2022, que está por terminar al momento de la publicación de esta nota, en México viven poco más de 130 millones de personas, lo que nos convierte en el país con más hablantes de español en el mundo y en el tercer país más poblado de América, detrás de los Estados Unidos y de Brasil. Y según la costumbre española, casi todos nosotros portamos por delante en nuestros nombres el **apellido** paterno, con el que somos registrados en el padrón electoral, el Registro Civil y otras bases de datos oficiales.
+
+Así, siendo un país que pasó por un proceso de conquista por parte de colonizadores españoles que dominaron el país durante trescientos años e impusieron su religión, su lengua y sus nombres, no es de extrañar que los **apellidos** **más** **comunes** en **México** sean españoles. Veamos cuáles son, según datos actualizados en diciembre de 2016, los cinco **más populares.**
