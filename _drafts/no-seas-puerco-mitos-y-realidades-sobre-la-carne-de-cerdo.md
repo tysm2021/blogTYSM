@@ -32,7 +32,7 @@ TE RECOMENDAMOS:
 
 ### MITO: Es muy grasosa
 
-Esta mentira es, quizás, la más difundida en torno a la carne de puerco y la razón por la que es rechazada por mucha gente que "se cuida", hace dieta o busca una alimentación más balanceada. Pero la realidad es que 
+Esta mentira es, quizás, la más difundida en torno a la **carne de cerdo** y la razón por la que es rechazada por mucha gente que "se cuida", hace dieta o busca una alimentación más balanceada. Pero la realidad es que 65% de la **grasa** del cerdo se retira durante el proceso de corte; la que queda es 70% poliinsaturada —o sea, **grasa** "de la buena"— y sólo 30% saturada —o sea, "la mala". Además, como es rico en ácido linoleico, el **puerco** neutraliza los efectos negativos de las **grasas** saturadas y disminuye el nivel de **colesterol**.
 
 ### MITO: Daña el corazón
 
