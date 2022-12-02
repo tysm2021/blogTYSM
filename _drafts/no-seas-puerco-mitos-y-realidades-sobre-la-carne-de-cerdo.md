@@ -29,3 +29,23 @@ Aunque hay especies nativas de este continente, en general el **cerdo** que cono
 Demos un vistazo, pues, a algunas de las creencias más difundidas y generalizadas sobre la carne de cerdo, las cuales hablan de enfermedades, de sobrepeso y de otras muchas cosas que no son ciertas.
 
 TE RECOMENDAMOS:
+
+### MITO: Es muy grasosa
+
+Esta mentira es, quizás, la más difundida en torno a la carne de puerco y la razón por la que es rechazada por mucha gente que "se cuida", hace dieta o busca una alimentación más balanceada. Pero la realidad es que 
+
+### MITO: Daña el corazón
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pig_heads_in_a_market.jpg/1024px-Pig_heads_in_a_market.jpg)
+
+### MITO: Hace daño si tomas medicina
+
+m
+
+### MITO: No es nutritiva
+
+m
+
+### MITO: Transmite la cisticercosis
+
+m
