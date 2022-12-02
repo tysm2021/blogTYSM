@@ -1,6 +1,6 @@
 ---
 author: Redacción TYSM
-categories: GASTRONOMIA
+categories: MEXICANISIMOS
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
