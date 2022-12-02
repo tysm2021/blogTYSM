@@ -32,9 +32,11 @@ TE RECOMENDAMOS:
 
 ### MITO: Es muy grasosa
 
-Esta mentira es, quizás, la más difundida en torno a la **carne de cerdo** y la razón por la que es rechazada por mucha gente que "se cuida", hace dieta o busca una alimentación más balanceada. Pero la realidad es que 65% de la **grasa** del cerdo se retira durante el proceso de corte; la que queda es 70% poliinsaturada —o sea, **grasa** "de la buena"— y sólo 30% saturada —o sea, "la mala". Además, como es rico en ácido linoleico, el **puerco** neutraliza los efectos negativos de las **grasas** saturadas y disminuye el nivel de **colesterol**.
+Esta mentira es, quizás, la más difundida en torno a la **carne de cerdo** y la razón por la que es rechazada por mucha gente que "se cuida", hace dieta o busca una alimentación más balanceada. Pero la **realidad** es que 65% de la **grasa** del cerdo se retira durante el proceso de corte; la que queda es 70% poliinsaturada —o sea, **grasa** "de la buena"— y sólo 30% saturada —o sea, "la mala". Además, como es rico en ácido linoleico, el **puerco** neutraliza los efectos negativos de las **grasas** saturadas y disminuye el nivel de **colesterol**.
 
 ### MITO: Daña el corazón
+
+La misma idea anterior, pero con una variante. Se cree, erróneamente, que siendo la del **puerco** una **carne** muy **grasosa**, ésta eleva los niveles de **grasas** y **colesterol** en la sangre, lo que a la larga desemboca en problemas cardiovasculares, presión alta, aterosclerosis o hasta infartos al miocardio. Pero la **realidad** es que, como dijimos, contiene mayor porcentaje de **grasa** poliinsaturada o "buena", la cual ayuda a bajar los niveles de colesterol en la sangre y disminuye los factores que favorecen la acumulación de grasa en las arterias; o sea, la ateroesclerosis.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pig_heads_in_a_market.jpg/1024px-Pig_heads_in_a_market.jpg)
 
