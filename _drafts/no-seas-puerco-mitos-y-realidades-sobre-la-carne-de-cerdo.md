@@ -42,11 +42,11 @@ La misma idea anterior, pero con una variante. Se cree, erróneamente, que siend
 
 ### MITO: Hace daño si tomas medicina
 
-m
+Por alguna razón, se piensa que la **carne de cerdo** es "delicada", pues puede generar desde indigestiones o alergias si se consume mezclada con algunos otros alimentos, e incluso se afirma que algunos médicos "la prohíben" si uno está tomando medicamentos. La realidad es que, si bien algunos médicos y dentistas siguen aconsejando privarse de su consumo bajo algunas circunstancias, no se ha comprobado científicamente que la **carne de puerco** favorezca las infecciones o que genere alergias; de hecho, aporta los nutrientes necesarios que ayudan a una mejor recuperación. 
 
 ### MITO: No es nutritiva
 
-m
+"Es pura grasa", "No aporta nutrientes", "Es mejor la de res o el pescado", son algunos de los mitos que circulan en torno al cerdo. 
 
 ### MITO: Transmite la cisticercosis
 
