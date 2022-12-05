@@ -58,3 +58,5 @@ En el centro de la costa nayarita se encuentra **Chacala**, una **playa** práct
 ### San Blas
 
 Por último, está esta ciudad y puerto enclavado en la Bahía de Matanchén, el cual es uno de los más antiguos de México y resulta ideal para un fin de semana con la familia o los amigos en sus más de siete kilómetros de playas con arenas limpias y suaves. Además de disfrutar del mar y de sus encantos, no olvides visitar la Contaduría, un fuerte construido en el siglo XVII, así como otros muchos otros edificios históricos que dan a este destino un sabor decididamente especial.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ATARDECER_EN_SAN_BLAS.JPG/1024px-ATARDECER_EN_SAN_BLAS.JPG)
