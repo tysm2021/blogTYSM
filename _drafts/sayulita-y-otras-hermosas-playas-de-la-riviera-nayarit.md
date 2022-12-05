@@ -36,3 +36,9 @@ La **Riviera Nayarit** es una franja costera de casi 300 kilómetros de largo ub
 Ubicado entre el Océano Pacífico y la Sierra de Vallejo, a sólo 20 minutos en auto del aeropuerto de Puerto Vallarta, este exclusivo destino turístico antes se llamaba **Nuevo Vallarta** y es uno de los destinos de playa más visitados y exclusivos de todo México. Nuevo Nayarit se considera la puerta de entrada a la Riviera Nayarit, con una oferta  de hoteles y resorts que es la segunda más grande en todo el país. Además de disfrutar del mar y sus aguas cristalinas, aquí podrás practicar deportes acuáticos como el surf o hacer yoga en uno de sus exclusivos spas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Villa_Del_Palmar_Flamingos_Nuevo_Vallarta%2C_Mexico_-_panoramio_%2816%29.jpg/1024px-Villa_Del_Palmar_Flamingos_Nuevo_Vallarta%2C_Mexico_-_panoramio_%2816%29.jpg)
+
+### Sayulita
+
+Quizás la **playa** más famosa de la **Riviera Nayarit**, su hermosura es tal que además ostenta la categoría de **Pueblo Mágico**. En origen era un pueblo pesquero, pero con el paso del tiempo se convirtió en un centro surfista, con lo que adquirió un toque relajado y artístico, y quienes lo han visitado dicen que una atmósfera "hippie" flota en el aire. Además de su hermosa playa de oleaje intenso, en Sayulita encontrarás un pueblo mexicano típico lleno de colorido, con galerías y tiendas, restaurantes con mariscos, pizzas o comida vegetariana, y rincones con calles cubiertas de papel picado. Es el destino ideal para disfrutar del mar, tomar un café y comprar arte o artesanía.
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/f4/Beach_Life_and_Cafe_Culture_%2817287660212%29.jpg)
