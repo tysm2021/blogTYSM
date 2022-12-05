@@ -48,3 +48,13 @@ Quizás la **playa** más famosa de la **Riviera Nayarit**, su hermosura es tal 
 Una de las playas clásicas de la Riviera Nayarit, cuya fama precede a la popularización de esta zona. Uno de sus principales atractivos turísticos es la llamada "alberca natural más grande del mundo", que es como se le conoce a sus aguas pacíficas, cristalinas y poco profundas. Esta es una playa ideal para ir en plan familiar, y al internarte en el mar podrás avistar curiosos islotes y hermosas playas de oleaje suave. Gracias a esta calma, practicar buceo y nadar son actividades imperdibles, además de visitar la Isla Coral y la Isla Cangrejo, con vida acuática silvestre al alcance de tu vista.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rincon_de_Guayabitos_-_panoramio_%2811%29.jpg/1024px-Rincon_de_Guayabitos_-_panoramio_%2811%29.jpg)
+
+### Chacala
+
+En el centro de la costa nayarita se encuentra **Chacala**, una **playa** prácticamente virgen en el municipio de Compostela, un destino ideal para quienes quieren alejarse del bullicio de las ciudades y los centros turísticos, y quieren tener unas vacaciones más apacibles. Tiene aguas cristalinas, playas limpias e increíbles olas de casi dos metros de altura que hacen de sus playas el lugar perfecto para practicar el surf. El pueblo es un sitio típico, con apenas mil habitantes, por lo que si te gusta la tranquilidad y convivir con la naturaleza, ¡este es el destino perfecto!
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/8e/Vista_aerea_de_Chacala._-_panoramio.jpg)
+
+### San Blas
+
+Por último, está esta ciudad y puerto enclavado en la Bahía de Matanchén, el cual es uno de los más antiguos de México y resulta ideal para un fin de semana con la familia o los amigos en sus más de siete kilómetros de playas con arenas limpias y suaves. Además de disfrutar del mar y de sus encantos, no olvides visitar la Contaduría, un fuerte construido en el siglo XVII, así como otros muchos otros edificios históricos que dan a este destino un sabor decididamente especial.
