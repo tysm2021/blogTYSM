@@ -28,3 +28,5 @@ Desde hace varias décadas, el **Ballet Folklórico de México** fundado por **A
 Conozcamos un poco sobre la **vida** y la **biografía** de esta coreógrafa mexicana, y cómo fue el que camino que tuvo que recorrer para darle vida a la que es hoy la más importante compañía de **danza regional** en el país.
 
 TE RECOMENDAMOS:
+
+**Amalia Hernández Navarro** fue una coreógrafa y bailarina mexicana, especializada en danzas folclóricas. Nació el 19 de septiembre de 1917 en la Ciudad de México y falleció a la edad de 80 años, el 4 de noviembre de 2000. Fue hija del político Lamberto Hernández, quien durante la década de 1930 fungió como Jefe del Departamento del Distrito Federal. Amalia inició su formación como maestra en la Escuela Normal, pero al poco tiempo abandonó esos estudios debido a su inclinación por la danza.
