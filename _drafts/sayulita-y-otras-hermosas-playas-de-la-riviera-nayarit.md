@@ -29,4 +29,10 @@ Conozcamos algunas generalidades sobre esta prometedora y hermosa **zona turíst
 
 TE RECOMENDAMOS:
 
-La **Riviera Nayarit** es una franja costera ubicada en el estado de dicho nombre, entre la Sierra Madre Occidental y el Océano Pacífico. 
+La **Riviera Nayarit** es una franja costera de casi 300 kilómetros de largo ubicada en el estado de dicho nombre, entre la Sierra Madre Occidental y el Océano Pacífico. Se distingue por el azul intenso de sus cielos, las selváticas montañas de color esmeralda, la vegetación abundante y las interminables playas con un hermoso color dorado en sus arenas. La zona está dividida en **cinco regiones**: la Costa de Bahía de Banderas, la Costa Sur, la Costa de la Bahía de Jaltempa, la CostaCentral y la Costa Norte. Conozcamos la playa más representativa de cada una de las cinco costas.
+
+### Nuevo Nayarit
+
+Ubicado entre el Océano Pacífico y la Sierra de Vallejo, a sólo 20 minutos en auto del aeropuerto de Puerto Vallarta, este exclusivo destino turístico antes se llamaba **Nuevo Vallarta** y es uno de los destinos de playa más visitados y exclusivos de todo México. Nuevo Nayarit se considera la puerta de entrada a la Riviera Nayarit, con una oferta  de hoteles y resorts que es la segunda más grande en todo el país. Además de disfrutar del mar y sus aguas cristalinas, aquí podrás practicar deportes acuáticos como el surf o hacer yoga en uno de sus exclusivos spas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Villa_Del_Palmar_Flamingos_Nuevo_Vallarta%2C_Mexico_-_panoramio_%2816%29.jpg/1024px-Villa_Del_Palmar_Flamingos_Nuevo_Vallarta%2C_Mexico_-_panoramio_%2816%29.jpg)
