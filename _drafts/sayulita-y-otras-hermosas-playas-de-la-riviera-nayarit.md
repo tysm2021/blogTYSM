@@ -46,3 +46,5 @@ Quizás la **playa** más famosa de la **Riviera Nayarit**, su hermosura es tal 
 ### Guayabitos
 
 Una de las playas clásicas de la Riviera Nayarit, cuya fama precede a la popularización de esta zona. Uno de sus principales atractivos turísticos es la llamada "alberca natural más grande del mundo", que es como se le conoce a sus aguas pacíficas, cristalinas y poco profundas. Esta es una playa ideal para ir en plan familiar, y al internarte en el mar podrás avistar curiosos islotes y hermosas playas de oleaje suave. Gracias a esta calma, practicar buceo y nadar son actividades imperdibles, además de visitar la Isla Coral y la Isla Cangrejo, con vida acuática silvestre al alcance de tu vista.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rincon_de_Guayabitos_-_panoramio_%2811%29.jpg/1024px-Rincon_de_Guayabitos_-_panoramio_%2811%29.jpg)
