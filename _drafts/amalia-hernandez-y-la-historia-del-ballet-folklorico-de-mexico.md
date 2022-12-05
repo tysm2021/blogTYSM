@@ -23,3 +23,8 @@ show_author_profile: false
 comment: false
 
 ---
+Desde hace varias décadas, el **Ballet Folklórico de México** fundado por **Amalia Hernández** es una compañía de **danza** que todos los años presenta lo mejor de los **bailes regionales** **mexicanos** en escenarios como el Auditorio Nacional o el Teatro del Palacio de Bellas Artes, y en numerosas ocasiones nos ha representado en el extranjero en eventos internacionales como los Juegos Panamericanos.
+
+Conozcamos un poco sobre la **vida** y la **biografía** de esta coreógrafa mexicana, y cómo fue el que camino que tuvo que recorrer para darle vida a la que es hoy la más importante compañía de **danza regional** en el país.
+
+TE RECOMENDAMOS:
