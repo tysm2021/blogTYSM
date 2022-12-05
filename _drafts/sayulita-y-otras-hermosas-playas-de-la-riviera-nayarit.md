@@ -42,3 +42,7 @@ Ubicado entre el Océano Pacífico y la Sierra de Vallejo, a sólo 20 minutos en
 Quizás la **playa** más famosa de la **Riviera Nayarit**, su hermosura es tal que además ostenta la categoría de **Pueblo Mágico**. En origen era un pueblo pesquero, pero con el paso del tiempo se convirtió en un centro surfista, con lo que adquirió un toque relajado y artístico, y quienes lo han visitado dicen que una atmósfera "hippie" flota en el aire. Además de su hermosa playa de oleaje intenso, en Sayulita encontrarás un pueblo mexicano típico lleno de colorido, con galerías y tiendas, restaurantes con mariscos, pizzas o comida vegetariana, y rincones con calles cubiertas de papel picado. Es el destino ideal para disfrutar del mar, tomar un café y comprar arte o artesanía.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f4/Beach_Life_and_Cafe_Culture_%2817287660212%29.jpg)
+
+### Guayabitos
+
+Una de las playas clásicas de la Riviera Nayarit, cuya fama precede a la popularización de esta zona. Uno de sus principales atractivos turísticos es la llamada "alberca natural más grande del mundo", que es como se le conoce a sus aguas pacíficas, cristalinas y poco profundas. Esta es una playa ideal para ir en plan familiar, y al internarte en el mar podrás avistar curiosos islotes y hermosas playas de oleaje suave. Gracias a esta calma, practicar buceo y nadar son actividades imperdibles, además de visitar la Isla Coral y la Isla Cangrejo, con vida acuática silvestre al alcance de tu vista.
