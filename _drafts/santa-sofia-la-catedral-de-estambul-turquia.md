@@ -23,8 +23,14 @@ show_author_profile: false
 comment: false
 
 ---
-Hace casi 1500 años cayó la Roma imperial a manos de las llamadas tribus bárbaras, y en Europa se instauró la Edad Media. Pero en lo que ahora es Estambul, capital de Turquía, se fundó la ciudad de Constantinopla como sede del poder del Imperio Romano de Oriente. Y una de las pocas joyas arquitectónicas de este periodo que aún sobrevive es la Catedral de Santa Sofía, también conocida como Hagia Sophia, la cual ha funcionado tanto como iglesia cristiana que como mezquita musulmana.
+Hace casi 1500 años cayó la Roma imperial a manos de las llamadas tribus bárbaras, y en Europa se instauró la Edad Media. Pero en lo que ahora es **Estambul**, capital de Turquía, se fundó la ciudad de **Constantinopla** como sede del poder del Imperio Romano de Oriente. Y una de las pocas joyas arquitectónicas de este periodo que aún sobrevive es la **Catedral de Santa Sofía**, también conocida como **Hagia Sophia**, la cual ha funcionado tanto como iglesia cristiana que como mezquita musulmana.
 
-Conozcamos a detalle la historia de esta magnífica construcción y cómo fue símbolo del poderío cristiano hasta el siglo XV, cuando cayó la ciudad y Hagia Sophia se convirtió en un sitio de culto islámico.
+Conozcamos a detalle la historia de esta magnífica construcción y cómo fue símbolo del poderío cristiano hasta el siglo XV, cuando cayó la ciudad y **Hagia Sophia** se convirtió en un sitio de culto islámico.
 
-TE RECOMENDAMOS:
+TE RECCOMEND
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1024px-Hagia_Sophia_Mars_2013.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hagia_Sofia_mosaic_Jesus.JPG/768px-Hagia_Sofia_mosaic_Jesus.JPG)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Interior_of_Hagia_Sofia_Mimbar_and_Windows.jpg/768px-Interior_of_Hagia_Sofia_Mimbar_and_Windows.jpg)
