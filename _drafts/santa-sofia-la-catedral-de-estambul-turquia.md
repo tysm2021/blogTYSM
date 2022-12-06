@@ -25,11 +25,15 @@ comment: false
 ---
 Hace casi 1500 años cayó la Roma imperial a manos de las llamadas tribus bárbaras, y en Europa se instauró la Edad Media. Pero en lo que ahora es **Estambul**, capital de Turquía, se fundó la ciudad de **Constantinopla** como sede del poder del Imperio Romano de Oriente. Y una de las pocas joyas arquitectónicas de este periodo que aún sobrevive es la **Catedral de Santa Sofía**, también conocida como **Hagia Sophia**, la cual ha funcionado tanto como iglesia cristiana que como mezquita musulmana.
 
-Conozcamos a detalle la historia de esta magnífica construcción y cómo fue símbolo del poderío cristiano hasta el siglo XV, cuando cayó la ciudad y **Hagia Sophia** se convirtió en un sitio de culto islámico, para en el siglo XX terminar siendo un museo que honra a dos grandes religiones.
+Conozcamos a detalle la historia de esta magnífica construcción y cómo fue símbolo del poderío cristiano hasta el siglo XV, cuando cayó la ciudad y **Hagia Sophia** se convirtió en un sitio de culto islámico, para en el siglo XX terminar siendo un museo que honró a las dos grandes religiones y hoy, de nueva cuenta, es una mezquita.
 
 TE RECOMENDAMOS:
 
+**Santa Sofía** o Hagia Sophia —que significa "santa sabiduría" en griego— en una antigua basílica ortodoxa que fue construida en la antigua ciudad de **Constantinopla** —hoy **Estambul**, Turquía— durante los siglos IV, V y VI de nuestra era. La iglesia original se le atribuye a los emperadores Constancio II o Constantino 'el grande'; una segunda iglesia fue ordenada por Teodosio II, y la tercera iglesia que hoy conocemos fue erigida por el emperador Justiniano I, quien la inauguró oficialmente en el año 537, sirviend como la catedral ortodoxa bizantina del rito oriental de Constantinopla hasta hasta 1453, cuando los turcos otomanos conquistaron la ciudad.
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1024px-Hagia_Sophia_Mars_2013.jpg)
+
+Después, **Santa Sofía** fue convertida en una mezquita y sus fabulosos mosaicos cristianos —_ikónos_, en griego, palabra que es raíz de _ícono_ y de _iconografía_— fueron cubiertos con una gruesa capa de yeso, siendo sustituidos por letras y símbolos islámicos, pues para los musulmanes está prohibida cualquier representación gráfica de Dios. Ya en el siglo XX, Hagia Sophia  fue secularizada en 1931 y el 1 de febrero de 1935 fue inaugurada como museo. Hace relativamente poco, en julio de 2020, el presidente turco Erdogan anunció que, a partir del 1 de agosto de 2020, sería transformada de nuevo en una mezquita.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hagia_Sofia_mosaic_Jesus.JPG/768px-Hagia_Sofia_mosaic_Jesus.JPG)
 
