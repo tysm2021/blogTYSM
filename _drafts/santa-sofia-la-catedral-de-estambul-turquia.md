@@ -27,7 +27,7 @@ Hace casi 1500 años cayó la Roma imperial a manos de las llamadas tribus bárb
 
 Conozcamos a detalle la historia de esta magnífica construcción y cómo fue símbolo del poderío cristiano hasta el siglo XV, cuando cayó la ciudad y **Hagia Sophia** se convirtió en un sitio de culto islámico, para en el siglo XX terminar siendo un museo que honra a dos grandes religiones.
 
-TE RECCOMEND
+TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1024px-Hagia_Sophia_Mars_2013.jpg)
 
