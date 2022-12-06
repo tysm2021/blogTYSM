@@ -33,7 +33,9 @@ TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1024px-Hagia_Sophia_Mars_2013.jpg)
 
-Después, **Santa Sofía** fue convertida en una mezquita y sus fabulosos mosaicos cristianos —_ikónos_, en griego, palabra que es raíz de _ícono_ y de _iconografía_— fueron cubiertos con una gruesa capa de yeso, siendo sustituidos por letras y símbolos islámicos, pues para los musulmanes está prohibida cualquier representación gráfica de Dios. Ya en el siglo XX, Hagia Sophia  fue secularizada en 1931 y el 1 de febrero de 1935 fue inaugurada como museo. Hace relativamente poco, en julio de 2020, el presidente turco Erdogan anunció que, a partir del 1 de agosto de 2020, sería transformada de nuevo en una mezquita.
+Después, **Santa Sofía** fue convertida en una mezquita y sus fabulosos mosaicos y frescos cristianos —_ikónos_, en griego, palabra que es raíz de _ícono_ y de _iconografía_— fueron cubiertos con una gruesa capa de yeso, siendo sustituidos por letras y símbolos islámicos, pues para los musulmanes está prohibida cualquier representación gráfica de Dios. Ya en el siglo XX, Hagia Sophia  fue secularizada en 1931 y el 1 de febrero de 1935 fue inaugurada como museo. Hace relativamente poco, en julio de 2020, el presidente turco Erdogan anunció que, a partir del 1 de agosto de 2020, sería transformada de nuevo en una mezquita.
+
+Desde el punto de vista arquitectónico, **Santa Sofía** mide 82 metros de ancho, 73 metros de largo y su magnífica cúpula de 30 metros de diámetro alcanza una altura total de 55 metros. Sus cuatros esquinas están acentuadas por cuatro estructuras llamadas minaretes, los cuales incluso rebasan la altura de la cúpula. En su interior, la basílica presenta un fastuoso decorado que conjunta las tradiciones de Oriente y de Occidente. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hagia_Sofia_mosaic_Jesus.JPG/768px-Hagia_Sofia_mosaic_Jesus.JPG)
 
