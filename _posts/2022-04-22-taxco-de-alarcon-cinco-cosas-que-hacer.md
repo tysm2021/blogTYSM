@@ -12,7 +12,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-04-22-1280px-taxco-_guerrero_-33251022616.jpeg"
 sharing: true
-title: 'Taxco de Alarcón: cinco cosas que hacer'
+title: 'Taxco de Alarcón: cinco cosas que hacer en este Pueblo Mágico'
 author: Francisco Massé
 cover: "/images/2022-04-22-1280px-taxco-_guerrero_-33251022616.jpeg"
 categories: TURISMO
