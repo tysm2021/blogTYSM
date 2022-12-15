@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-11-15-1024px-mount_fuji_from_hotel_mt_fuji_1994-11-29.jpeg"
 sharing: true
-title: Las leyendas del Monte Fuji de Japón
+title: Las leyendas del Monte Fuji, la montaña más alta de Japón
 summary: Alrededor de este hermoso y peculiar volcán, que es la montaña más alta de
   Japón, se han creado numerosas y antiguas leyendas
 cover: "/images/2022-11-15-1024px-mount_fuji_from_hotel_mt_fuji_1994-11-29.jpeg"
@@ -27,7 +27,7 @@ El **Monte Fuji**, también conocido como **Fujiyama** —aunque esto es un erro
 
 Conozcamos, entonces, algunas de estas **leyendas** que hablan de dioses y de diosas, del origen de la montaña, de los tiempos cuando estaba en erupción, y de otros rasgos que convierten al **Fuji** en el **monte** más emblemático del **Japón**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Es verdad que la Muralla China es visible desde el espacio?**](https://blog.tonoysumariachi.com/mundo/2022/09/12/es-verdad-que-la-muralla-china-es-visible-desde-el-espacio.html)
 
 Los Ainu son uno de los grupos originales del actual Japón, y en su mitología las montañas tienen un papel preponderante, pues su tierra es una cadena de islas volcánicas montañosas. En sus leyendas narran que la diosa Izanami parió a las cuatro grandes islas que forman el país: Hokkaido, Honshu, Kyushu y Shikoku—, De igual forma, adoran al “Señor de las Montañas”, Kimun Kamuy, un dios de este tipo de paisajes que a menudo toma la forma de un oso. Tan importantes son las **montañas** en su religión que éstas tienen a su propio dios, Oyamatsumi, y creen en dioses exclusivos para cada una de sus cumbres: por ejemplo, el Monte Miwa —también ubicado en Honshu— es la casa de Okuni-Nushi o el “Gran Maestro de la Tierra”.
 
