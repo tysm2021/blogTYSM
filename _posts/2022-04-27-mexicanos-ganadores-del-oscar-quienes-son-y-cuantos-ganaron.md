@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-04-27-oscar-3679610_1280.jpeg"
 sharing: true
-title: 'Mexicanos ganadores del Oscar: quienes son y cuántos ganaron'
+title: 'Mexicanos ganadores del Oscar: quiénes son y cuántos ganaron'
 author: Francisco Massé
 cover: "/images/2022-04-27-oscar-3679610_1280.jpeg"
 tags: cine mexico farandula peliculas
