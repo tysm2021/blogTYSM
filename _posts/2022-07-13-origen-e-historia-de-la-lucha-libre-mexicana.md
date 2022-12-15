@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-07-13-mexican-1224725_1280.jpeg"
 sharing: true
-title: Origen e historia de la lucha libre mexicana
+title: 'Máscara contra cabellera: origen e historia de la lucha libre mexicana'
 summary: Los rudos, los técnicos y todo el folclor de la lucha libre tuvieron un inicio,
   ¿lo conoces?
 cover: "/images/2022-07-13-mexican-1224725_1280.jpeg"
