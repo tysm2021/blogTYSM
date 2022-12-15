@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-11-14-1024px-fachada_frontal_de_la_catedral_de_zacatecas-_zac.jpeg"
 sharing: true
-title: 'Zacatecas: la esplendorosa ciudad colonial en el centro exacto de México'
+title: 'Zacatecas: esplendorosa ciudad colonial en el centro exacto de México'
 summary: Si quieres conocer una hermosa ciudad colonial, con edificios de cantera
   rosa, joyerías, un teleférico, museos y otros atractivos, Zacatecas es para ti
 cover: "/images/2022-11-14-1024px-fachada_frontal_de_la_catedral_de_zacatecas-_zac.jpeg"
@@ -27,7 +27,7 @@ La **ciudad** de **Zacatecas** es capital del estado del mismo nombre, ubicado e
 
 La historia de **Zacatecas** empieza con la de los pueblos zacatecas, una tribu chichimeca que se estableció en el valle que hoy ocupa la ciudad. Tras la Conquista, en el año de 1546 el explorador **Juan de Tolosa** descubrió en la región ricos yacimientos de plata, lo que dio lugar a la fundación del Real de Minas de Nuestra Señora de los Zacatecas, el cual en 1588 fue nombrada "Muy Noble y Muy Leal Ciudad" por el rey Felipe II de España, en virtud de las grandes riquezas con las que proveyó a la corona española.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Cinco ciudades coloniales mexicanas y sus principales atractivos**](https://blog.tonoysumariachi.com/turismo/2022/06/15/cinco-ciudades-coloniales-mexicanas.html)**.**
 
 Debido a los beneficios obtenidos por la extracción de plata en sus minas, en algún tiempo Zacatecas fue considerada la segunda ciudad más importante económicamente en la Nueva España, tan sólo detrás de la Ciudad de México. Después, a principios del siglo XX, fue el escenario de una de las batallas más importantes de la Revolución Mexicana: la toma de Zacatecas por Pancho Villa. Después, entre las décadas de 1910 y 1920, con la decadencia de la industria minera la ciudad empezó a despoblarse. Actualmente es una discreta y hermosa ciudad colonial, la cual hay que visitar para conocer los siguientes atractivos.
 
