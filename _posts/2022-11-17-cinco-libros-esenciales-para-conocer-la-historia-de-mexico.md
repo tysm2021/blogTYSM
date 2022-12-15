@@ -27,7 +27,7 @@ Algo que distingue a los seguidores de Toño y su mariachi es que, en general, s
 
 A continuación te compartimos cinco **títulos** de **libros**, colecciones o volúmenes que, si lo que nos interesa es la historia, hay que conocer para enriquecer nuestra cultura general y el conocimiento sobre nuestro propio país y nuestra identidad.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Cinco poetas mexicanos románticos y sus mejores poemas**](https://blog.tonoysumariachi.com/ciencias/2022/04/20/cinco-poetas-mexicanos-romanticos-y-sus-mejores-poemas.html)**.**
 
 ### Historia verdadera de la Conquista de la Nueva España
 
