@@ -27,7 +27,7 @@ Esta ciudad de piedra, ubicada a 2430 metros sobre el nivel en la cordillera de 
 
 Conozcamos juntos esta sorprendente urbe precolonial, la cual está inscrita en la Lista el **Patrimonio Mundial** de la UNESCO y, también, está considerada dentro de las Siete **Maravillas del Mundo** Moderno.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles son las Siete Nuevas Maravillas del Mundo y cómo se eligieron?**](https://blog.tonoysumariachi.com/mundo/2022/08/01/cuales-son-las-siete-maravillas-del-mundo-moderno.html)
 
 **Machu Picchu**, expresión que en quechua significa 'monte viejo', es el nombre que actualmente recibe un antiguo poblado incaica situado a más de dos mil metros de altura en plena cordillera de los **Andes**. Según algunos estudiosos, su nombre original pudo haber sido Llaqtapata y se trató de una llacta, que era una urbe o ciudadela que funcionaba como centro administrativo del **Imperio Inca** en el siglo XV. Está ubicada en el departamento de Cusco, en el Valle Sagrado de los Incas, muy cerca de la ribera del río Urubamba.
 
@@ -39,6 +39,6 @@ La historia cuenta que fue el monarca **inca** **Pachacútec** quien, alrededor 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Machupicchu_intihuatana.JPG/1024px-Machupicchu_intihuatana.JPG)
 
-**Machu Picchu** cubre una superficie de 530 metros de largo por 200 de ancho e incluye al menos 172 recinto. Está dividida en dos zonas principales: la zona agrícola, formada por conjuntos de terrazas de cultivo, y la zona urbana, donde vivieron sus ocupantes y se desarrollaron las actividades civiles y religiosas. En esta zona destacan algunas construcciones como el recinto curvo del **Templo del Sol** (en la imagen arriba de este párrafo), la residencia real, la Plaza sagrada y la Pirámide Intihuatana; además, están las numerosas escalinatas, las terrazas, los recintos y las casas, y la asombrosa infraestructura hidráulica y de pisos. 
+**Machu Picchu** cubre una superficie de 530 metros de largo por 200 de ancho e incluye al menos 172 recinto. Está dividida en dos zonas principales: la zona agrícola, formada por conjuntos de terrazas de cultivo, y la zona urbana, donde vivieron sus ocupantes y se desarrollaron las actividades civiles y religiosas. En esta zona destacan algunas construcciones como el recinto curvo del **Templo del Sol** (en la imagen arriba de este párrafo), la residencia real, la Plaza sagrada y la Pirámide Intihuatana; además, están las numerosas escalinatas, las terrazas, los recintos y las casas, y la asombrosa infraestructura hidráulica y de pisos.
 
 Para llegar a la zona arqueológica pueden usarse los antiguos caminos post-incaicos que llegan hasta ella, o bien, tomar la carretera Hiram Bingham que asciende la cuesta del cerro **Machu Picchu** desde la antigua estación de tren de Puente Ruinas, ubicada al fondo del cañón. Por su espectacular vista, la ciudad ha sido escenario de películas de talla internacional, así como de numerosos videoclips y documentales.
