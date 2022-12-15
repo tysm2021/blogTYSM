@@ -27,7 +27,7 @@ Ubicado en **Madrid**, la capital de lo que fuera el Imperio Español, se encuen
 
 Actualmente, y tras un par de años de pandemia, el Museo del Prado sigue siendo una de las instituciones culturales y artísticas más visitadas del mundo. Conozcámoslo un poco…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Cinco datos que debes saber sobre Ciudad del Vaticano**](https://blog.tonoysumariachi.com/mundo/2022/07/29/cinco-cosas-que-debes-saber-acerca-de-el-vaticano.html)**.**
 
 ## El Museo
 
