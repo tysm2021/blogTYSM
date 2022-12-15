@@ -27,7 +27,7 @@ comment: false
 
 Pero, ¿**por qué dijo esta frase**, **cuándo** la dijo y en qué contexto?  Revisemos la historia de esta, una de las máximas que hasta la fecha rige la política exterior de **México**, la cual está basada en el respeto hacia la soberanía de los **individuos** y de las **naciones**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Guerra de los Pasteles: resumen e historia.**](https://blog.tonoysumariachi.com/historia/2022/04/20/guerra-de-los-pasteles-resumen-e-historia.html)
 
 Tras la caída del Segundo Imperio Mexicano y la derrota de Maximiliano de Habsburgo, que fue capturado en Querétaro por el general Sóstenes Rocha y había sido condenado a muerte   el 14 de junio de 1867, el **presidente Juárez** se desplazó a la Ciudad de México, donde entró triunfante al día siguiente. El mandatario usó la Puerta de Belén y el Paseo de Bucareli, continuó por la Alameda Central y se dirigió al Palacio de Gobierno, hoy Palacio Nacional.
 
