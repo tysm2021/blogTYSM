@@ -27,7 +27,7 @@ Dice el refrán que "Al nopal, sólo lo van a ver cuando tiene **tunas**", refir
 
 Aquí te platicamos todo el sobre el colorado **xoconostle**, ese fruto que desde tiempos prehispánicos recibió dicho nombre que proviene del náhuatl _xococ_, que significa 'agrio' y _nochtl_, que quiere decir 'tuna'.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Pápalo quelite: una hierba con muchas propiedades y beneficios.**](https://blog.tonoysumariachi.com/gastronomia/2022/04/22/papalo-quelite-una-hierba-con-muchas-propiedades-y-beneficios.html)
 
 El **xoconostle** es un fruto rojizo o violáceo, de unos ocho a diez centímetros del largo, de forma ovalada, con una piel dura y cubierta de pequeñas espinas, y un interior jugoso, pulposo y con abundantes semillas. Este fruto nace de la variedad de **nopal** conocido como _Opuntia Joconostle y_ tiene un gran parecido con la tuna, pero su sabor es más agrio. Una característica es que no caen de la planta cuando maduran, y pueden permanecer fijos durante todo el año. El xoconostle es originario de México y se produce en la región norte y centro, principalmente en los estados de los estados de Durango, Zacatecas, Aguascalientes, San Luis Potosí, Jalisco, Michoacán, Querétaro, Estado de México e Hidalgo.
 
