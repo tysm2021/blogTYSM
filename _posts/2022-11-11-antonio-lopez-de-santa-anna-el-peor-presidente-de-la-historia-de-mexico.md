@@ -27,7 +27,7 @@ Nuestra historia a menudo parece lo mismo estar llena de héroes y heroínas que
 
 Conozcamos, pues, algunas de las razones por las que **López de Santa Anna**, apodado "el Quince Uñas" por haber perdido una pierna, es considerado por muchos estudiosos e historiadores como **el peor presidente** de la historia de México.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**20 de agosto de 1847: resumen de la Batalla de Churubusco**](https://blog.tonoysumariachi.com/historia/2022/07/15/20-de-agosto-de-1847-resumen-de-la-batalla-de-churubusco.html)**.**
 
 **Antonio de Padua María Severino López de Santa Anna y Pérez de Lebrón**, que era su nombre completo, nació el 21 de febrero de 1794 en la ciudad de Xalapa. Fue un militar, político y  presidente mexicano que en 1853 se nombró a sí mismo dictador vitalicio. Ha sido el mexicano que ha ocupado más veces la presidencia y, además, durante uno de sus gobiernos el país perdió más de la mitad de su territorio debido a un ventajoso tratado que se firmó con los Estados Unidos. Pero vayamos por partes.
 
