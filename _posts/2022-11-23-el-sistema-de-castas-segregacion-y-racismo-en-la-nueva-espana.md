@@ -27,7 +27,7 @@ Dentro de la historia de México, se le llama época de la **Colonia** o, más p
 
 Conozcamos, pues, este **sistema de castas**, el cual según algunos historiadores fue una de las mechas que encendieron la llama independentista en las colonias españolas a principios del siglo XIX.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Extranjeros que lucharon por México: historia y biografías**](https://blog.tonoysumariachi.com/historia/2022/04/25/extranjeros-que-lucharon-por-mexico-historia-y-biografias.html)**.**
 
 En pocas palabras, el **sistema de castas** que se impuso en las colonias del **Imperio Español** era una clasificación de la persona a partir de su "**raza**" y de sus cruces étnicos, para organizar un sistema social estratificado. Este sistema se basa en ideas previas a la Conquista de América, pues ante la abundancia de musulmanes y judíos en la península española a finales del siglo XV, surgió la idea de la "pureza" de la sangre de las personas blancas, europeas y católicas.
 
