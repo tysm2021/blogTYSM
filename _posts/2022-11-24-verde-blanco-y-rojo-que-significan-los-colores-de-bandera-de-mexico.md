@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-11-23-tim-mossholder-shgjspy39a-unsplash.jpeg"
 sharing: true
-title: 'Verde, blanco y rojo: ¿qué significan los colores de bandera de México?'
+title: 'Verde, blanco y rojo: ¿qué significan los colores de la bandera de México?'
 summary: La actual bandera mexicana hereda sus tres colores del estandarte del Ejército
   Trigarante; pero, ¿hoy en día qué significan el verde, blanco y rojo de la enseña
   patria?
