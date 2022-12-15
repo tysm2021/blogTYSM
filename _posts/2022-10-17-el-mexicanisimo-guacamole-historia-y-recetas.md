@@ -27,7 +27,7 @@ La receta básica es muy sencilla: mezclar chile verde con cebolla, tomate y, cl
 
 Echemos un vistazo al origen de esta popular salsa y tratemos de dar respuesta a estas interrogantes… si es posible, disfrutando de un taquito de guacamole, con o sin su chicharroncito seco y crujiente.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles son los chiles más picantes de México?**](https://blog.tonoysumariachi.com/gastronomia/2022/06/16/cuales-son-los-chiles-mas-picantes-de-mexico.html)
 
 Aunque no existen registros históricos al respecto, se cree que la **historia** del **guacamole** proviene de tiempos **prehispánicos**. Incluso se habla de una leyenda en la que el mismísimo dios **Quetzalcóatl**, o bien, el "**Quetzalcóatl** histórico" —es decir, Ce Ácatl Topiltzin **Quetzalcóatl**, que fue rey de la ciudad de Tula—, legó como regalo a la humanidad y a su pueblo, los **toltecas**, la **receta** del delicioso **guacamole**. De ahí habría pasado a los mexicas o aztecas, y cuando llegaron los españoles lo habrían llevado a España junto con el fruto indispensable para su preparación: el **aguacate**.
 
