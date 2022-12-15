@@ -27,7 +27,7 @@ comment: false
 
 Conozcamos, entonces, algunos de las **pinturas** y de los lienzos donde el **Dr. Atl** plasmó toda la belleza y la fuerza de los **volcanes** de México, cuyas exhalaciones terminaron causándole una enfermedad que lo llevó a la tumba.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**José Guadalupe Posada: el “papá” de la Catrina.**](https://blog.tonoysumariachi.com/cultura/2022/06/17/jose-guadalupe-posada-el-papa-de-la-catrina.html)
 
 El **Dr. Atl** empezó sus estudios en su natal Guadalajara, después se mudó a Aguascalientes y a la Ciudad de México, y en 1897, a la edad de 22 años, ganó una beca del gobierno de Porfirio Díaz para estudiar en Inglaterra, Francia, España, Alemania e Italia. Después regresó a México y participó dentro de las distintas faccciones de la Revolución Mexicana. Fue por esos años que empezó a aficionarse a la **vulcanología**. El primer estudio que hizo del **Popocatépetl** fue literario, aunque también hizo dibujos, esquemas y pinturas del **volcán**, como el siguiente lienzo, titulado _Vista del Popocatépetl_ (1934).
 
