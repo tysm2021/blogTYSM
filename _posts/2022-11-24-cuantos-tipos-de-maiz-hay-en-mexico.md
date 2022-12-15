@@ -15,7 +15,7 @@ article_header:
     src: "/images/2022-11-24-1024px_gem_corn.jpeg"
 sharing: true
 title: "¿Cuántos tipos de maíz hay en México?"
-summary: De los mexicanos se dice que somos "los hombres y mujeres de maíz por la
+summary: De los mexicanos se dice que somos "los hombres y mujeres de maíz" por la
   importancia histórica de este grano; pero, ¿cuántos tipos existen en el país?
 cover: "/images/2022-11-24-1024px_gem_corn.jpeg"
 tags: 'gastronomia maiz productos '
