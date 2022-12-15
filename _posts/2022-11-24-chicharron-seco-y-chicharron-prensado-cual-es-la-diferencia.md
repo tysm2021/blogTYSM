@@ -27,7 +27,7 @@ Todos conocemos el famoso **chicharrón**, hasta en los refranes, y sabemos que 
 
 Dice el dicho que "aquí nomás mis **chicharrones** truenan", refiriéndose sin duda al crujiente **chicharrón** **seco** recién hecho. También hay una expresión un poco antigua de los bajos mundos que habla de "darle **chicharrón**" a alguien, refiriéndose a asesinarlo, pues en los pueblos se tiene la costumbre de, justo, darle **chicharrón** a un perro para que se agache a comerlo y en ese momento matarlo de un balazo. Pero volvamos a las **diferencias** con el **chicharrón** **prensado**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Las tortas más famosas y sabrosas de todo México**](https://blog.tonoysumariachi.com/gastronomia/2022/06/28/las-tortas-mas-famosas-y-sabrosas-de-todo-mexico.html)**.**
 
 Empecemos con el **chicharrón** **seco**. El modo de prepararlo parte de la **piel** del **cerdo**, la cual es perfectamente rasurada y preparada, y muchas veces pasa por un proceso de salado y secado; una vez lista, la piel se fríe en un cazo con manteca de cerdo muy caliente, hasta que empiece a "tronar" y se esponje, mientras el **chicharronero** le da vueltas con unas tenazas para que no se enrrosque.
 
