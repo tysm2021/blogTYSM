@@ -27,7 +27,7 @@ Algunos reclaman que su origen está en la **Ciudad de Méxic**o y que son de ca
 
 Tratemos de rastrear la **historia** de los **alebrijes**, perdida entre los pasillos del tiempo y del polvoso y desordenado taller de un artesano que, preso de una enfermedad, entre delirios tuvo una visión que habría de cambiar la historia de las artesanías mexicanas.
 
-TE RECOMENDAMOS: Máscara contra cabellera: origen e historia de la lucha libre mexicana.
+**TE RECOMENDAMOS:** [**Máscara contra cabellera: origen e historia de la lucha libre mexicana**](https://blog.tonoysumariachi.com/mexicanisimos/2022/07/13/origen-e-historia-de-la-lucha-libre-mexicana.html)**.**
 
 Cuenta la leyenda que, hace ya muchos años, don **Pedro Linares** —un **artesano** cartonero, avecindado en un barrio popular de la Ciudad de México— cayó gravemente enfermo. Fue tan grave su enfermedad que terminó inconsciente por varios días, en una especie de coma con altas fiebres. Como no tenían muchos recursos económicos, la familia le suministró una serie de remedios basados en la herbolaria, con la esperanza de que mejorara.
 
