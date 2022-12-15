@@ -27,7 +27,7 @@ Ubicada al noreste de los **Estados Unidos de América**, la ciudad de **Washing
 
 Empezaremos con los **edificios públicos** donde radica el poder político estadounidense, como la **Casa Blanca**, el **Capitolio** y la **Reserva Federal**, seguiremos con **museos** y otras instituciones culturales, para finalizar con los **monumentos** más célebres.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Estatua de la Libertad: historia del ícono de Nueva York y de los Estados Unidos**](https://blog.tonoysumariachi.com/mundo/2022/08/04/estatua-de-la-libertad-historia-del-icono-de-nueva-york-y-de-los-estados-unidos.html)**.**
 
 ### La Casa Blanca
 
@@ -75,7 +75,7 @@ Muy cerca de su vecino, el **Monumento a Washington**, se encuentra este **Memor
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Washington_Monument_2022.jpg/768px-Washington_Monument_2022.jpg)
 
-Este impactante monolito fue oficialmente inaugurado en 1888 y rinde homenaje al fundador de los Estados Unidos de América, el general **George Washington**. Está hecho de mármol, granito y una roca azulosa llamada gneiss y es, a la vez, la estructura más alta de la capital estadounidense y el obelisco más alto del mundo, con sus 169.2 metros de altura. 
+Este impactante monolito fue oficialmente inaugurado en 1888 y rinde homenaje al fundador de los Estados Unidos de América, el general **George Washington**. Está hecho de mármol, granito y una roca azulosa llamada gneiss y es, a la vez, la estructura más alta de la capital estadounidense y el obelisco más alto del mundo, con sus 169.2 metros de altura.
 
 ### Memorial de Jefferson
 
