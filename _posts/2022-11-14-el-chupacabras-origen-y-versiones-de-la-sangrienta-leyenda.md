@@ -27,7 +27,7 @@ En la década de 1990, una era aún dominada por internet, se hizo famosa la ley
 
 Recordemos este episodio del folclor mexicano del siglo XX, el cual trasladó numerosas leyendas, creencias y supersticiones a escenarios en grandes ciudades, dando lugar a las llamadas "**leyendas urbanas**".
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**La leyenda de los volcanes: Popocatépetl e Iztaccíhuatl**](https://blog.tonoysumariachi.com/mexicanisimos/2022/06/15/leyenda-de-los-volcanes-popocatepetl-e-iztaccihuatl.html)**.**
 
 A mediados de la década de 1990, numerosos medios noticiosos mexicanos empezaron a reportar las misteriosas muertes que, principalmente en el norte de México sufrían reses, **cabras**, ovejas y otros animales de ganado. Lo que llamaba atención de esas muertes es que mostraban huellas de colmillos en el cuello y era como si les hubieran vaciado toda la **sangre**. Poco después, hubo unos supuestos avistamientos de la **criatura** responsable, a la cual la gente empezo a conocer como "**El Chupacabras**".
 
