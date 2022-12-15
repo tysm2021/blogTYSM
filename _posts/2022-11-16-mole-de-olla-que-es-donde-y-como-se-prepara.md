@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-11-15-mole_de_olla.jpeg"
 sharing: true
-title: 'Mole de olla: qué es, dónde y cómo se prepara'
+title: 'Mole de olla: qué es, de dónde y cómo se prepara'
 summary: 'Es un caldillo de chile rojo que se elabora con espinazo de res, ejotes,
   papas, elotes y otras verduras y legumbres: conozcamos su origen'
 cover: "/images/2022-11-15-mole_de_olla.jpeg"
@@ -27,7 +27,7 @@ Una de las variedades de los mexicanísimos moles —palabra que proviene del n�
 
 A diferencia de otros **moles** que van molidos, triturados o en pasta, en el **mole de olla** los ingredientes se añaden en trozos en una olla —de ahí su nombre— y, a golpe de hervor, se deja que sus sabores se entremezclen.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Mole poblano: origen, receta y leyenda de esta maravilla culinaria**](https://blog.tonoysumariachi.com/gastronomia/2022/06/29/mole-poblano-origen-leyenda-y-receta-de-esta-maravilla-culinaria.html)**.**
 
 La historia que el Gobierno de México nos cuenta sobre el **mole de olla** dice que éste tuvo su origen durante la Conquista, al adaptar los pucheros europeos, que solían hacerse con trozos de carnero, garbanzos y hortalizas, con los recursos de la milpa mexicana de los que disponían los pueblos originarios. Así, el carnero se sustituyó con res, y se añadieron otros ingredientes nativos de estas tierras.
 
@@ -68,8 +68,8 @@ Ahora, una **receta** de **mole de olla**, para que puedas agasajar a tus invita
 
 #### Procedimiento
 
-* El chambarete, el espinazo y los huesos de tuétano se cuecen en el agua con la cebolla, el epazote, los xoconostles y los ajos, hasta que las carnes espumen y estén bien cocidas. 
-* Mientras, los elotes, las zanahorias, las calabacitas y los ejotes se cuecen aparte, en un poco de agua con sal. 
+* El chambarete, el espinazo y los huesos de tuétano se cuecen en el agua con la cebolla, el epazote, los xoconostles y los ajos, hasta que las carnes espumen y estén bien cocidas.
+* Mientras, los elotes, las zanahorias, las calabacitas y los ejotes se cuecen aparte, en un poco de agua con sal.
 * Los chiles bien remojados se despepitan y se muelen en la licuadora con el agua en que estuvieron y un pedacito de cebolla; se cuela y se vacía esta salsa en la olla de las carnes y se dejan hervir 30 minutos.
 * Se incorpora el resto de las verduras y se deja hervir durante diez minutos más.
 * Se sirve con cebolla picada, limones en mitades y orégano para espolvorear.
