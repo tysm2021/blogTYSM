@@ -27,7 +27,7 @@ Las llaves, las contrallaves y las patadas voladoras; los rudos, los técnicos y
 
 Aquí en Toño y su mariachi te contamos un poco sobre el pancracio griego, la lucha grecorromana y las primeras **luchas** que se sostuvieron en la Ciudad de México, que poco a poco convirtieron a la **lucha libre** en parte de nuestra idiosincrasia y a la **Arena México**, en su catedral.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**El Día de muertos, ¿realmente es prehispánico?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/10/11/el-dia-de-muertos-realmente-es-prehispanico.html)
 
 Los expertos dicen que los antecedentes de la lucha libre mexicana se localizan hasta la antigua Grecia: ahí, siglos antes de nuestra era, los fornidos atletas practicaban un deporte llamado "pancracio", el cual con el tiempo se convirtió en lo que hoy conocemos como **lucha grecorromana**. Ya en el siglo XIX, en Francia se practicaba algo llamado _catch-as-catch-can_ y en Inglaterra y los Estados Unidos ya existía el famoso _wrestling_ que permanece hasta nuestros días.
 
@@ -41,7 +41,7 @@ Así, la primera **lucha libre** que oficialmente se celebró en México tuvo lu
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">La postal más icónica en la historia de la lucha libre mexicana. ¡El Santo y Blue Demon! <a href="https://twitter.com/hashtag/FotoDelRecuerdo?src=hash&ref_src=twsrc%5Etfw">#FotoDelRecuerdo</a> <a href="https://t.co/I6JocOI0pd">pic.twitter.com/I6JocOI0pd</a></p>— Lucha Libre Y Ya (@LuchaLibreYYa) <a href="https://twitter.com/LuchaLibreYYa/status/1508590209142829063?ref_src=twsrc%5Etfw">March 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-En las décadas de 1940 y 1950, luchadores profesionales como **Santo**, el enmascarado de plata; **Blue Demon**, el **Cavernario Galindo** y el **Rayo de Jalisco** empezaron a hacerse de gran fama y a convertirse en estrellas cinematográficas que lo mismo llevaban multitudes a las **arenas** y a las salas de cine. 
+En las décadas de 1940 y 1950, luchadores profesionales como **Santo**, el enmascarado de plata; **Blue Demon**, el **Cavernario Galindo** y el **Rayo de Jalisco** empezaron a hacerse de gran fama y a convertirse en estrellas cinematográficas que lo mismo llevaban multitudes a las **arenas** y a las salas de cine.
 
 Con el tiempo se unieron otros ídolos, como **Mil Máscaras**, **Lizmarck**, **El Tinieblas**, el Perro Aguayo y **Super Porky**, y hasta extranjeros como el **Vampiro Canadiense** y **Conan**. Hoy, la lucha libre mexicana, con todo y pandemia, parece estar más viva que nunca…
 
