@@ -16,7 +16,7 @@ article_header:
 sharing: true
 title: 'Gerardo Murillo: el Dr. Atl, sus increíbles volcanes y paisajes'
 summary: Este pintor mexicano sentía una enorme pasión por el fuego y los colores
-  de los volcanes mexicanos, los cuales retrató de primera mano en muchas ocasiones
+  de los volcanes, los cuales retrató de primera mano en muchas ocasiones
 cover: "/images/2022-11-25-1024px_dratl.jpg"
 tags: cultura arte pinturas artistas
 show_author_profile: false
