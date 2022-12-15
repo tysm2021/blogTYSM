@@ -27,7 +27,7 @@ El estado de **Nayarit** se encuentra en la costa del Pacíifico, colindando con
 
 Conozcamos algunas generalidades sobre esta prometedora y hermosa **zona turística**, las regiones en la que está dividida, qué **playas** son consideradas dentro de ella y algunas **recomendaciones** sobre qué hacer, a dónde ir, qué coner y dónde quedarse.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Playas exóticas mexicanas: tres opciones para desconectarse.**](https://blog.tonoysumariachi.com/turismo/2022/04/26/playas-exoticas-mexicanas-tres-opciones-para-desconectarse.html)
 
 La **Riviera Nayarit** es una franja costera de casi 300 kilómetros de largo ubicada en el estado de dicho nombre, entre la Sierra Madre Occidental y el Océano Pacífico. Se distingue por el azul intenso de sus cielos, las selváticas montañas de color esmeralda, la vegetación abundante y las interminables playas con un hermoso color dorado en sus arenas. La zona está dividida en **cinco regiones**: la Costa de Bahía de Banderas, la Costa Sur, la Costa de la Bahía de Jaltempa, la CostaCentral y la Costa Norte. Conozcamos la playa más representativa de cada una de las cinco costas.
 
