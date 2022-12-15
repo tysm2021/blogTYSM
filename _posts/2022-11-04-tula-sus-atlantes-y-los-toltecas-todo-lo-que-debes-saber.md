@@ -27,7 +27,7 @@ Enclavadas en el estado de **Hidalgo**, a menos de 100 kilómetros de la capital
 
 Conozcamos un poco de la **historia** de esta ciudad, del **origen** y el **significado** de sus famosos **atlantes** de piedra, y de lo que sabemos de ese enigmático pueblo que fueron los **toltecas**, de cuya sabiduría se han querido colgar algunos autores de libros de espiritualidad y superación personal.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Tlatoanis: lista completa de los emperadores mexicas**](https://blog.tonoysumariachi.com/historia/2022/06/08/tlatoanis-lista-completa-de-los-emperadores-mexicas.html)**.**
 
 Antiguamente, la ciudad de **Tula** fue la capital del Estado Tolteca y su nombre en náhuatl era _Tollan_ o _Tollan Xicocotitlan_, que quiere decir 'lugar de tules, cerca del lugar de los xicotes'. Los arqueólogos estiman que el apogeo del pueblo **tolteca** tuvo lugar entre los siglos X y XII de nuestra era, y junto con la teotihuacana fue uno de las civilizaciones más importantes del Altiplano Central de México antes de Imperio Mexica.
 
@@ -35,7 +35,7 @@ Sobre los **toltecas** tenemos algunos  datos históricos, tales como las listas
 
 Actualmente, la ciudad recibe el nombre de **Tula de Allende**, en honor al héroe de la Independencia, Ignacio Allende, y es la cabecera del municipio del mismo nombre. Tiene alrededor de 30 mil habitantes.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TulaSite117.JPG/1024px-TulaSite117.JPG) 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TulaSite117.JPG/1024px-TulaSite117.JPG)
 
 La leyenda dice que **Tula** fue fundada por el mítico rey **Ce Ácatl Topiltzin Quetzalcóatl**, en cual gobernó gentilmente, trajo la prosperidad a su pueblo e impuso el culto al dios Quetzalcóatl, la serpiente emplumada, vinculada con el planeta Venus. Las primeras evidencias de ocupación en esta zona corresponden al mismo momento en que la ciudad de Teotihuacán iniciaba su declive como centro rector de Mesoamérica. La historia y la leyenda coinciden en que los conflictos con los seguidores del dios Tezcatlipoca, el "gemelo perverso" de Quetzalcóatl, terminó en la expulsión de los toltecas, los cuales migraron hacia el sureste, con evidencias que fueron ellos quienes fundaron la ciudad maya de Chichén Itzá.
 
@@ -49,7 +49,7 @@ Actualmente, la zona arqueológica está presidida por los **Atlantes**, los cua
 
 ## Los atlantes
 
-Los llamados **Atlantes de Tula** son cuatro esculturas antropomorfas de piedra, con 4.6 metros de altura, que están decoradas con representaciones de guerreros, los cuales portan pectorales en forma de mariposa, un átlatl o lanzadardos, en su mano derecha un haz de flechas, un cuchillo de obsidiana, un faldellín con un gran cinturón anudado al frente, en la parte posterior un disco solar, y sobre la cabeza un copil o tocado como parte de su atuendo. 
+Los llamados **Atlantes de Tula** son cuatro esculturas antropomorfas de piedra, con 4.6 metros de altura, que están decoradas con representaciones de guerreros, los cuales portan pectorales en forma de mariposa, un átlatl o lanzadardos, en su mano derecha un haz de flechas, un cuchillo de obsidiana, un faldellín con un gran cinturón anudado al frente, en la parte posterior un disco solar, y sobre la cabeza un copil o tocado como parte de su atuendo.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/El_Atlante_de_Tula.jpg/674px-El_Atlante_de_Tula.jpg)
 
