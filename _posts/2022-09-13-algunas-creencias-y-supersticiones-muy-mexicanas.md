@@ -27,7 +27,7 @@ A pesar de que **México** es un país moderno, con grandes avances científicos
 
 Demos un breve repaso a algunas de estas **supercherías** que, aunque a muchos les dan miedo o las juzgan propias de gente ignorante, constituyen una herencia cultural de nuestros ancestros.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**La escalofriante leyenda de la Mulata de Córdoba.**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/21/la-escalofriante-leyenda-de-la-mulata-de-cordoba.html)
 
 Empecemos con las cosas que las mamás o las abuelitas nos dicen cuando somos niños. Por ejemplo, ¿a quién no le dijeron que si se portaba mal se lo iba a llevar **El Coco**? Y uno podría preguntarse qué es o quién es ese temible personaje, pero lo cierto es que —a diferencia de otros espectros, como **La Llorona**— nadie lo ha visto ni sabe qué apariencia tiene. Algunos estudiosos afirman que la expresión, que hoy se usa para designar algo que nos da miedo o nos cuesta mucho trabajo —"las matemáticas son mi coco"—, tiene que ver con una especie de espantapájaros que se montaba en la antigüedad y a la que se lo ponía un coco en lugar de cabeza. Pero la verdad es que no se sabe…
 
