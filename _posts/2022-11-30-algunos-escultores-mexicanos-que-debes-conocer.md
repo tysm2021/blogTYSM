@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-11-30-caballito-sebastian.jpeg"
 sharing: true
-title: Algunos escultores mexicanos que debes conocer
+title: Siete escultores mexicanos cuyas obras deberías conocer
 summary: Todo mundo sabe de grandes pintores mexicanos como Rivera, Coronel, Kahlo
   o Tamayo; pero, ¿cuáles son los escultores mexicanos más destacados de la historia?
 cover: "/images/2022-11-30-caballito-sebastian.jpeg"
@@ -71,4 +71,4 @@ Aunque murió de forma prematura a los 37 años, su legado **escultórico** est�
 
 El último de la lista es el michoacano Javier Marín, el cual ha destacado en las últimas décadas como autor de **esculturas** que combinan el hiperrealismo de las esculturas monumentales de la Roma Imperial y el neoclasisismo europeo, con la modernidad y el espíritu de ruptura del expresionismo abstracto y de otras corrientes. Se especializa en figuras humanas, pero su estética es poco ortodoxa, fraccionada y vanguardista. Una de sus obras más famosas y convencionales es el retablo mayor de la Catedral de Zacatecas.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fachada_del_Museo_Espacio_con_esculturas_de_Javier_Mar%C3%ADn_2.jpg/1024px-Fachada_del_Museo_Espacio_con_esculturas_de_Javier_Mar%C3%ADn_2.jpg) 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fachada_del_Museo_Espacio_con_esculturas_de_Javier_Mar%C3%ADn_2.jpg/1024px-Fachada_del_Museo_Espacio_con_esculturas_de_Javier_Mar%C3%ADn_2.jpg)
