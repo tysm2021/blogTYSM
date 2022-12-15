@@ -27,7 +27,7 @@ Según una definición de diccionario, un **castillo** es un tipo de edificació
 
 A continuación, y aunque hay un océano de por medio, te invitamos a conocer —al menos virtualmente— cinco de los **castillos** **europeos** más **famosos** de la historia. Recuerda que en México también tenemos un **castillo**, el de Chapultepec, el cual fue residencial imperial, colegio militar y casa presidencial.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles son los museos más visitados del mundo, antes y después de la pandemia?**](https://blog.tonoysumariachi.com/mundo/2022/06/09/los-museos-mas-visitados-del-mundo-cuales-son.html)
 
 ## Palacio de Neuschwanstein
 
