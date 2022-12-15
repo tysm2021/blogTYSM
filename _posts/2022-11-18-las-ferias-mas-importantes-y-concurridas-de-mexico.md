@@ -27,11 +27,11 @@ Por **ferias** nos referimos, no a los parques de diversiones o a los lugares do
 
 Conozcamos, entonces, algunas de las **ferias** **populares** más **importantes** y más **visitadas** de **México**, algunas de las cuales tienen décadas de tradición. Recordemos, además, que muchas fueron pospuestas o canceladas por la emergencia sanitaria de 2020 y 2021, pero actualmente están en proceso de reactivación.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Mexicanos ganadores del Oscar: quiénes son y cuántos ganaron**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/27/mexicanos-ganadores-del-oscar-quienes-son-y-cuantos-ganaron.html)**.**
 
 ### Feria Nacional de San Marcos
 
-Esta **feria**, que se lleva a cabo en la ciudad de **Aguascalientes**. Ags., es tan famosa que hasta tiene su propia canción ranchera y es, sin duda, la feria más grande, más importante, más antigua y más visitada de las que se realizan en el país. Se lleva a cabo durante los meses de **abril y mayo** en un recinto ferial de 90 hectáreas donde se realizan corridas de toros, eventos culturales, peleas de gallos, presentaciones masivas de artistas y una feria ganadera, la más importante de Latinoamérica; además, hay zonas de juegos mecánicos, restaurantes con propuestas gastronómicas y, claro, los puestos donde se venden cocteles, cervezas y otras bebidas alcohólicas. 
+Esta **feria**, que se lleva a cabo en la ciudad de **Aguascalientes**. Ags., es tan famosa que hasta tiene su propia canción ranchera y es, sin duda, la feria más grande, más importante, más antigua y más visitada de las que se realizan en el país. Se lleva a cabo durante los meses de **abril y mayo** en un recinto ferial de 90 hectáreas donde se realizan corridas de toros, eventos culturales, peleas de gallos, presentaciones masivas de artistas y una feria ganadera, la más importante de Latinoamérica; además, hay zonas de juegos mecánicos, restaurantes con propuestas gastronómicas y, claro, los puestos donde se venden cocteles, cervezas y otras bebidas alcohólicas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/San_marcos_bullfight_01.jpg/960px-San_marcos_bullfight_01.jpg)
 
@@ -39,7 +39,8 @@ Esta **feria**, que se lleva a cabo en la ciudad de **Aguascalientes**. Ags., es
 
 Esta se lleva a cabo en la ciudad de Léon, Guanajuato, durante los meses de **enero y febrero** de cada año. Se le considera una tradición, no sólo estatal sino del país completo, y cada año ha recibido un promedio de seis millones de visitantes, lo que la convierte en una de las más relevantes de México. Consiste en exposiciones artesanales, comerciales y ganaderas, presentaciones artísticas, festivales taurinos, juegos mecánicos y shows de pirotecnia y música durante 26 días. Se realiza en las instalaciones propias de la Feria, donde se encuentran recintos como el Domo de la Feria, el Teatro del Pueblo, el Polifórum León, el Centro de Espectáculos, la Mega Velaria, el Parque Explora, el Centro de Ciencias Explora y el Foro del Lago.
 
-### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Circo_Robert%27s.jpg/1024px-Circo_Robert%27s.jpg)  
+### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Circo_Robert%27s.jpg/1024px-Circo_Robert%27s.jpg)
+
 Feria Nacional del Vino y el Queso
 
 Esta tiene lugar en el Pueblo Mágico de Tequisquiapan, estado de Querétaro, el cual está enclavado en una zona de abundante producción vinícola y quesera. Es una feria relativamente joven, pues se realiza en **mayo y junio** desde 1976, cuando se llevó a cabo el Primer Festival Gastronómico de Queso y Vino que tuvo México, con la participación de productores locales, nacionales e internacionales. Actualmente es una **feria** muy visitada por amantes de la gastronomía, quienes además de catas y degustaciones, pueden disfrutar de exposiciones artísticas y eventos musicales.
