@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-06-14-1280px-guanajuato-_guanajuato_-23784476462.jpeg"
 sharing: true
-title: Cinco ciudades coloniales mexicanas
+title: Cinco ciudades coloniales mexicanas y sus principales atractivos
 summary: Estas ciudades fueron fundadas en tiempos de la Colonia, entre los siglos
   XVI y XVIII
 cover: "/images/2022-06-14-1280px-guanajuato-_guanajuato_-23784476462.jpeg"
