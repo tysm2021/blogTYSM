@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-11-17-1024px_leonavicario.jpg"
 sharing: true
-title: "¿Quién fue Leona Vicario, la prócer de la Independencia de México?"
+title: "¿Quién fue Leona Vicario, prócer de la Independencia de México?"
 summary: 2020 fue nombrado el Año de Leona Vicario por el Gobierno de México, para
   reconocer el importante papel que esta heroína tuvo en la Guerra de Independencia
 cover: "/images/2022-11-17-1024px_leonavicario.jpg"
