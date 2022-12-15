@@ -27,7 +27,7 @@ En Europa, los **valses** se popularizaron durante el siglo XIX, especialmente c
 
 Este tema nos hace recordar la película que se llama justamente así: _Sobre las olas_ de 1950, con el inmortal **Pedro Infante** encarnando a **Juventino Rosas**, donde se narra —en tono más de ficción que de recuento histórico— cómo este vals fue tan bueno y tan famoso en su tiempo que algunos no creían que hubiera podido ser obra de un mexicano, por lo que se le disputaba su autoría o se le acusaba de haber "copiado" un vals de Strauss; es hasta que el músico dirige de memoria su vals ante una orquesta, que se le reconoce por fin el mérito.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**“México lindo y querido”: historia de la canción inmortalizada por Jorge Negrete**](https://blog.tonoysumariachi.com/cultura/2022/04/22/mexico-lindo-y-querido-origen-e-historia-de-la-cancion.html)**.**
 
 **José Juventino Policarpo Rosas Cadenas**, nombre completo de Juventino Rosas, nació el 25 de enero de 1868 en la ciudad de Santa Cruz de Galeana, Guanajuato. Su padre, Jesús Rosas, fue músico de una banda militar, tocaba el arpa y le enseñó música a sus hijos, con quienes formó un grupo —el pequeño **Juventino** tocaba el violín— que se presentaba en fiestas y otros eventos. En 1875, la familia emigró a la Ciudad de México, donde el conjunto se desintegró. **Juventino** comenzó a tocar con los Hermanos Elvira y, después, con su padre y con su hermano Manuel —quien por desgracia poco después murió en una riña— se integró a la Orquesta de los Hermanos Aguirre.
 
