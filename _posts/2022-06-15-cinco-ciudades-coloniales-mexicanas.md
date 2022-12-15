@@ -27,7 +27,7 @@ En América Latina, se le llama "**ciudad colonial**" a un centro urbano constru
 
 A continuación, un breve resumen sobre qué hacer en las hermosas **ciudades coloniales** de Guanajuato, Zacatecas, Morelia, San Luis Potosí y Puebla.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Pueblos Mágicos en el estado de Querétaro**](https://blog.tonoysumariachi.com/turismo/2022/11/04/pueblos-magicos-en-el-estado-de-queretaro.html)**.**
 
 ## Guanajuato
 
