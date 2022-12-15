@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-11-04-1024px-pena_de_bernal_vista.jpeg"
 sharing: true
-title: Pueblos Mágicos en el estado de Querétaro
+title: Da un vistazo a los seis Pueblos Mágicos del estado de Querétaro
 summary: 'Además de la importancia histórica de su ciudad capital, Querétaro tiene
   seis Pueblos Mágicos ideales para visitar un fin de semana: te decimos cuáles son'
 cover: "/images/2022-11-04-1024px-pena_de_bernal_vista.jpeg"
@@ -27,7 +27,7 @@ Desde su arranque hace poco más de veinte años, el programa **Pueblos Mágicos
 
 Así pues, prepara tu mochila virtual para recorrer juntos, al menos con la vista y la imaginación, estos seis poblados llenos de encanto, impresionantes vistas, deliciosa gastronomía, folclor, artesanías y todo lo que uno espera encontrar al visitar la hermosa provincia mexicana.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**El Chepe: costo, ruta e historia de este tren turístico**](https://blog.tonoysumariachi.com/turismo/2022/07/05/el-chepe-costos-ruta-e-historia-de-este-tren-turistico.html)**.**
 
 ## Amealco
 
