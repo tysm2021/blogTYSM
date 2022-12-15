@@ -12,7 +12,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-04-22-jorgenegrete.jpg"
 sharing: true
-title: 'México lindo y querido: origen e historia de la canción'
+title: 'México lindo y querido: historia de la canción inmortalizada por Jorge Negrete'
 author: Francisco Massé
 cover: "/images/2022-04-22-jorgenegrete.jpg"
 categories: CULTURA
@@ -28,7 +28,7 @@ Esta **canción** es una de esas que, como el Huapango de Moncayo y la Marcha de
 
 Todo tiene que ver con una de las voces más famosas del Cine de Oro mexicano, su trágica muerte en el extranjero y lo profética que resultó su letra. Te contamos…
 
-TE PUEDE INTERESAR:
+**TE RECOMENDAMOS:** [**¿Sabes quién fue Manuel M. Ponce, el gran compositor mexicano?**](https://blog.tonoysumariachi.com/cultura/2022/09/08/sabes-quien-fue-manuel-m.ponce-el-gran-compositor-mexicano.html)
 
 La leyenda dice que el compositor moreliano **Chucho Monge** (1910-1964) compuso esta canción cuando tenía la tierna edad de 11 años. Lo que sí confirma la historia es que la primera grabación de “**México lindo y querido**” la realizó en 1945 el dueto conformado por Rosario Morales y Eva Rodríguez, conocidas como Las Dolores. Después, vendría el Trío Tariácuri —originario de Michoacán y considerado el primer trío mexicano— a entregar su propia versión.
 
