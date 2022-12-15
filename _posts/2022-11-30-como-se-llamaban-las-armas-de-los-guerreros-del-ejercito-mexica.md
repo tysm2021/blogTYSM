@@ -27,7 +27,7 @@ Uno de los **imperios** de mayor relevancia y poderío militar en **Mesoamérica
 
 A continuación, te contamos un poco sobre el militarismo, los **guerreros** **mexicas** y el armamento que **usaban**, el cual es descrito tanto en crónicas de la Conquista escritas por **soldados** y religiosos españoles, como en las propias cédulas de tributos que hemos encontrado de la época previa a la Conquista.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Mictlán: los nueve niveles del inframundo mexica.**](https://blog.tonoysumariachi.com/historia/2022/04/21/mictlan-los-nueve-niveles-del-inframundo-mexica.html)
 
 Para la civilización **mexica**, la **guerra** era una actividad de importancia primordial. Nada menos, su deidad principal era el 'colibrí zurdo' o 'colibrí del Sur', Huitzilopochtli, el cual fungía como dios de la **guerra**, cuyo culto era impuesto a los pueblos sometidos, pues las figurillas de los dioses locales eran sustraídos de los templos y sustituidas por una de **Huitzilopochtli**. Por si fuera poco, el Templo Mayor de México-Tenochtitlan constaba de dos torres: una dedicada a Tláloc, dios de la lluvia, la cual era esencial para las cosechas y el sustento del pueblo, y la otra honraba al dios de la **guerra**, al cual se le ofrecían sacrificios humanos.
 
@@ -53,7 +53,7 @@ Por otro lado estaban las **armas arrojadizas**, tanto los dispositivos que lanz
 
 Luego están el arco y las flechas mexicas. El **tlahuitolli** era el arco de guerra, se hacía con madera flexible y medía al menos metro y medio de largo, y se acordonaba con el tendón de un animal; los arqueros en el ejército mexica eran denominados tequihua y lanzaban flechas llamadas **mitl**, las cuales podían ser **tetotocamitl** si eran de cacería, **tencualacmitl** si estaban envenenadas y **yaomitl**, si eran flechas de guerra con punta de obsidiana, pedernal o hueso.
 
-Otras armas de este tipo eran la cerbatana o **tlacalhuazcuahuitl**, que era de madera hueca y lanzaba unos dardos llamados **tlatzontectli**; el **tematlátl**, que era una honda hecha con fibras de maguey y que lanzaba piedras ovaladas o bolas de barro que iban rellenas con piedras pequeñas o restos de obsidiana. Bernal Díaz del Castillo dio cuenta de que este ataque era tan efectivo que incluso los soldados españoles que usaban armadura resultaban heridos. 
+Otras armas de este tipo eran la cerbatana o **tlacalhuazcuahuitl**, que era de madera hueca y lanzaba unos dardos llamados **tlatzontectli**; el **tematlátl**, que era una honda hecha con fibras de maguey y que lanzaba piedras ovaladas o bolas de barro que iban rellenas con piedras pequeñas o restos de obsidiana. Bernal Díaz del Castillo dio cuenta de que este ataque era tan efectivo que incluso los soldados españoles que usaban armadura resultaban heridos.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/57/Cerbatana_Tlacalhuazcuahuitl_Bodley_p38.jpg)
 
