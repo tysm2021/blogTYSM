@@ -27,7 +27,7 @@ A diferencia de la Guerra de Independencia, que inició en un día específico c
 
 Conozcamos esta historia, sabiendo primero un poco de la vida de **Obregón**, cómo fue que llegó al poder, dónde perdió el brazo y por qué se había hecho de enemigos que al final acabaron con su vida.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Expropiación Petrolera de 1938: causas y consecuencias**](https://blog.tonoysumariachi.com/historia/2022/05/24/expropiacion-petrolera-de-1938-causas-y-consecuencias.html)**.**
 
 **Álvaro Obregón Salido** nació en la Hacienda Siquisiva, en Navojoa, Sonora, el 19 de febrero de 1880. Quedó huérfano de padre al año de edad, de modo que fue criado por sus hermanos mayores y fue a la escuela donde uno de ellos era director. A la edad de 32 años y siendo alcalde de Huatabampo, armó un ejército para defender al gobierno de Madero y combatir a Pascual Orozco, un militar que se había rebelado; una vez vencido el sublevado, regresó a su haciendo pero no por mucho tiempo, pues en 1913 se unió a Venustiano Carranza para combatir a Victoriano Huerta, quien había dado un golpe de estado a Madero y se había quedado con el poder.
 
@@ -41,7 +41,7 @@ En 1927, hacia el final de la presidencia de **Calles** y en plena Guerra Criste
 
 El **17 de julio de 1928**, haciendo caso omiso a las advertencias que hablaban de rumores acerca de su asesinato, **Obregón** acudió a comer invitado por los diputados de Guanajuato al restaurante La Bombilla, ubicado en el tradicional barrio de San Ángel, al sur de la Ciudad de México. Ahí lo esperaba **José de León Toral**, un fanático religioso que, utilizando sus habilidades como dibujante, se hizo pasar por caricaturista y realizó retratos de varios de los políticos que estaban ahí, hasta llegar con el presidente electo. Cuando le mostraba la caricatura que había hecho de él, Toral le disparó a **Obregón** un total de seis veces con una pistola española de marca Star calibre 32.
 
-Los seis tiros fueron a dar, el primero, a cinco centímetros del rostro de la víctima; cuatro tiros más dieron en la espalda y el sexto disparo fue hacia el muñón del brazo derecho de **Obregón**, quien murió al instante en el lugar. Toral fue aprehendido de inmediato, y aunque varios policías y soldados pretendían ejecutarlo ahí mismo, fueron detenidos con el argumento de que el asesino tenía que rendir su testimonio para dar con los autores intelectuales del magnicidio. 
+Los seis tiros fueron a dar, el primero, a cinco centímetros del rostro de la víctima; cuatro tiros más dieron en la espalda y el sexto disparo fue hacia el muñón del brazo derecho de **Obregón**, quien murió al instante en el lugar. Toral fue aprehendido de inmediato, y aunque varios policías y soldados pretendían ejecutarlo ahí mismo, fueron detenidos con el argumento de que el asesino tenía que rendir su testimonio para dar con los autores intelectuales del magnicidio.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9a/JoseDeLeonToral_%28cropped%29.JPG)
 
