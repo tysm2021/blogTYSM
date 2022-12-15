@@ -27,7 +27,7 @@ A diferencia de un edificio, un monumento o una escultura, una **estatua** es un
 
 Llama la atención que, salvo contadas excepciones, las diez **estatuas más altas del mundo** han sido erigidas en países de Asia Oriental, tales como China, La India, Myanmar o Japón. Pero no le demos más vueltas y entrémosle al **Top 5**. Eso sí: si sufres de megalofobia, que es el miedo incontrolable a los objetos enormes, mejor pasa al siguiente artículo, no te nos vayas a desmayar por aquí…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Cinco castillos europeos que morirás por conocer.**](https://blog.tonoysumariachi.com/mundo/2022/11/23/cinco-castillos-europeos-que-moriras-por-conocer.html)
 
 ## #5. Estatua de la Creencia
 
