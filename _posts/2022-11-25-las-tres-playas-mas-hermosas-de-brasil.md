@@ -27,7 +27,7 @@ Si alguien menciona a **Brasil**, lo primero que nos viene a la mente —además
 
 Agarremos, pues, una caipirinha, pongamos un poco de samba o de bossa-nova, vistamos la camiseta _verde amarelo_, y conozcamos los tres destinos playeros imperdibles en Brasil.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Conoce las ocho pirámides más altas del mundo.**](https://blog.tonoysumariachi.com/mundo/2022/06/16/piramides-mas-altas-del-mundo.html)
 
 ## Copacabana
 
