@@ -27,7 +27,7 @@ Hace casi 1500 años cayó la Roma imperial a manos de las llamadas tribus bárb
 
 Conozcamos a detalle la historia de esta magnífica construcción y cómo fue símbolo del poderío cristiano hasta el siglo XV, cuando cayó la ciudad y **Hagia Sophia** se convirtió en un sitio de culto islámico, para en el siglo XX terminar siendo un museo que honró a las dos grandes religiones y hoy, de nueva cuenta, es una mezquita.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Ciudades monocromáticas: hermosas poblaciones de un solo color.**](https://blog.tonoysumariachi.com/mundo/2022/06/28/ciudades-monocromaticas-hermosa-poblaciones-de-un-solo-color.html)
 
 **Santa Sofía** o Hagia Sophia —que significa "santa sabiduría" en griego— en una antigua basílica ortodoxa que fue construida en la antigua ciudad de **Constantinopla** —hoy **Estambul**, Turquía— durante los siglos IV, V y VI de nuestra era. La iglesia original se le atribuye a los emperadores Constancio II o Constantino 'el grande'; una segunda iglesia fue ordenada por Teodosio II, y la tercera iglesia que hoy conocemos fue erigida por el emperador Justiniano I, quien la inauguró oficialmente en el año 537, sirviend como la catedral ortodoxa bizantina del rito oriental de Constantinopla hasta hasta 1453, cuando los turcos otomanos conquistaron la ciudad.
 
@@ -35,13 +35,13 @@ TE RECOMENDAMOS:
 
 Después, **Santa Sofía** fue convertida en una mezquita y sus fabulosos mosaicos y frescos cristianos —_ikónos_, en griego, palabra que es raíz de _ícono_ y de _iconografía_— fueron cubiertos con una gruesa capa de yeso, siendo sustituidos por letras y símbolos islámicos, pues para los musulmanes está prohibida cualquier representación gráfica de Dios. Ya en el siglo XX, Hagia Sophia  fue secularizada en 1931 y el 1 de febrero de 1935 fue inaugurada como museo. Hace relativamente poco, en julio de 2020, el presidente turco Erdogan anunció que, a partir del 1 de agosto de 2020, sería transformada de nuevo en una mezquita.
 
-Desde el punto de vista arquitectónico, **Santa Sofía** mide 82 metros de ancho, 73 metros de largo y su magnífica cúpula de 30 metros de diámetro alcanza una altura total de 55 metros. Sus cuatros esquinas están acentuadas por cuatro estructuras llamadas **minaretes**, los cuales incluso rebasan la altura de la cúpula. En su interior, la **basílica** presenta un fastuoso decorado que conjunta las tradiciones de Oriente y de Occidente. 
+Desde el punto de vista arquitectónico, **Santa Sofía** mide 82 metros de ancho, 73 metros de largo y su magnífica cúpula de 30 metros de diámetro alcanza una altura total de 55 metros. Sus cuatros esquinas están acentuadas por cuatro estructuras llamadas **minaretes**, los cuales incluso rebasan la altura de la cúpula. En su interior, la **basílica** presenta un fastuoso decorado que conjunta las tradiciones de Oriente y de Occidente.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hagia_Sofia_mosaic_Jesus.JPG/768px-Hagia_Sofia_mosaic_Jesus.JPG)
 
 En su interior se encuentra uno de los mosaicos cristianos más famosos del mundo: el **Cristo Pantocrátor**, palabra griega que significa "el Todopoderoso". 1935, el unificador y fundador de la república laica de Turquía, Mustafa Kemal Atatürk, convirtió la iglesia en museo, tras una importante restauración. Años después, el presidente turco la reconvirtió en una mezquita, decisión que fue muy criticada por políticos y estudiosos del arte en todo el mundo.
 
-Además de la arquitectura en sí, de los fabulosos frescos y mosaicos, y de los símbolos islámicos en su interior, también es posible contemplar bajorrelieves de siglos de antigüedad, lámparas y candelabros metálicos de gigantescas dimensiones, mausoleos, columnas con capiteles que mezclan los estilos de la Grecia clásica y del mundo árabe. **Santa Sofía** es, pues, un templo del saber y la fe que sirvió, no sólo a una, sino a dos de las religiones más importantes del mundo occidental. 
+Además de la arquitectura en sí, de los fabulosos frescos y mosaicos, y de los símbolos islámicos en su interior, también es posible contemplar bajorrelieves de siglos de antigüedad, lámparas y candelabros metálicos de gigantescas dimensiones, mausoleos, columnas con capiteles que mezclan los estilos de la Grecia clásica y del mundo árabe. **Santa Sofía** es, pues, un templo del saber y la fe que sirvió, no sólo a una, sino a dos de las religiones más importantes del mundo occidental.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Interior_of_Hagia_Sofia_Mimbar_and_Windows.jpg/768px-Interior_of_Hagia_Sofia_Mimbar_and_Windows.jpg)
 
