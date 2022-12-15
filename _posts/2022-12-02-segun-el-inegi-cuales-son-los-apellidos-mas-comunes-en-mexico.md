@@ -27,7 +27,7 @@ En **México**, desde tiempos del Virreinato, se estila que los ciudadanos porte
 
 A continuación, revisaremos las **estadísticas** acerca de la frecuencia y la **cantidad** de **personas** que portan determinados **apellidos**, según la información reciente proporcionada por el Instituto de Estadística y Geografía (**INEGI**) del Gobierno de México.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Eres muy codo? Origen de la palabra.**](https://blog.tonoysumariachi.com/mexicanisimos/2022/06/23/eres-muy-codo-aqui-el-origen-de-la-palabra.html)
 
 En este año de 2022, que está por terminar al momento de la publicación de esta nota, en México viven poco más de 130 millones de personas, lo que nos convierte en el país con más hablantes de español en el mundo y en el tercer país más poblado de América, detrás de los Estados Unidos y de Brasil. Y según la costumbre española, casi todos nosotros portamos por delante en nuestros nombres el **apellido** paterno, con el que somos registrados en el padrón electoral, el Registro Civil y otras bases de datos oficiales.
 
@@ -55,4 +55,4 @@ Los "hijos de Martín" ocupan el tercer puesto entre los **apellidos** más comu
 
 Por último están los "hijos de Gonzalo", que suman un total de 2'791,378 personas cuyo **apellido** viene de la palabra germánica _Gunda,_ que significa 'espíritu' y es considerado uno de los personajes de la mitología escandinava germana. En España, González cuenta con múltiples escudos de armas, símbolos que eran utilizados en la Edad Media por las familias para tener identidad, posición y linaje.
 
-A estos cinco **apellidos** les siguen: Pérez, Rodríguez, Sánchez, Ramírez y Cruz. En otra ocasión platicaremos de los nombres más comunes, de niño y de niña, que actualmente se están poniendo en México… 
+A estos cinco **apellidos** les siguen: Pérez, Rodríguez, Sánchez, Ramírez y Cruz. En otra ocasión platicaremos de los nombres más comunes, de niño y de niña, que actualmente se están poniendo en México…
