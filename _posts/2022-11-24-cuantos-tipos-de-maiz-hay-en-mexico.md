@@ -27,7 +27,7 @@ Desde tiempos prehispánicos y hasta el día de hoy, la base de la alimentación
 
 Revisemos un poco la historia del **maíz** para después enterarnos de cuántas **especies** nativas han crecido en **México**, cuáles son sus usos, sus diversos aspectos y sus diferencias.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Concha: la historia del pan dulce favorito de los mexicanos**](https://blog.tonoysumariachi.com/gastronomia/2022/07/06/la-concha-el-pan-dulce-favorito-de-los-mexicanos.html)**.**
 
 El **maíz** no es una especie vegetal que crezca de modo espontáneo en la naturaleza. Por el contrario, desde hace unos 10 mil años ha sido objeto de un proceso llamado "domesticación", que consiste en la siembra selectiva de los mejores **granos** o de especies específicas, en la creación de parcelas o sembradíos donde el **maíz** crece junto con otras plantas que le ayudan a desarrollarse, en el establecimiento de ciclos agrícolas y en la creación de **especies**, **tipos** o **razas** de **maíz** que son más benéficas para el consumo humano.
 
@@ -39,4 +39,4 @@ Según la CONABIO (Comisión Nacional para el Conocimiento y Uso de la Biodivers
 
 La misma CONABIO afirma que de las 64 **razas de maíz** que se reportan en México, 59 se pueden considerar nativas y 5 fueron descritas inicialmente en otras regiones. Éstas se dividen en **siete grupos**, que son: Cónicos, Sierra de Chihuahua, Ocho Hileras, Chapalote, Tropicales precoces, Dentados tropicales y de maduración tardía.
 
-Las **razas** de **maíz** del grupo Cónico se distribuyen en las regiones con elevaciones de más de 2,000 msnm y son nativas de los valles altos y las sierras del centro del país; se destinan a diferentes usos alimenticios, como producción de tortilla, tamales, antojitos, pozoles y palomitas. De este grupo son la raza Cacahuacintle, muy común en los puestos de elotes hervidos y en los pozoles, y los maíces Palomeros de Chihuahua y Toluqueño. 
+Las **razas** de **maíz** del grupo Cónico se distribuyen en las regiones con elevaciones de más de 2,000 msnm y son nativas de los valles altos y las sierras del centro del país; se destinan a diferentes usos alimenticios, como producción de tortilla, tamales, antojitos, pozoles y palomitas. De este grupo son la raza Cacahuacintle, muy común en los puestos de elotes hervidos y en los pozoles, y los maíces Palomeros de Chihuahua y Toluqueño.
