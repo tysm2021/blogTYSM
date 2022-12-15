@@ -28,7 +28,7 @@ Desde que somos niños y, en la escuela primaria, aprendemos las estrofas del Hi
 
 A continuación, hacemos un breve repaso de la historia de la **bandera** **mexicana**, la cual nos permitirá entender cuáles fueron, desde el principio, los **significados** de los tres **colores** del lábaro patrio.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Himno Nacional Mexicano: historia de su letra y música**](https://blog.tonoysumariachi.com/mexicanisimos/2022/07/26/himno-nacional-mexicano-historia-de-su-letra-y-musica.html)**.**
 
 Poco antes de que se consumara la Independencia de nuestro país, alrededor del año 1821, los generales Vicente Guerrero y Agustín de Iturbide unieron sus fuerzas para emancipar a la nación del dominio español, y para hacerlo formaron al **Ejército Trigarante**, el cual tomaba su nombre de las **tres garantías** que ofrecía: Religión católica, como la única valida en México; Independencia de la corona española, y Unión de los dos bandos de la guerra. Así, confeccionaron una **bandera** que simbolizaba las tres garantías, con tres **colores** que simbolizaban cada una de ellas.
 
