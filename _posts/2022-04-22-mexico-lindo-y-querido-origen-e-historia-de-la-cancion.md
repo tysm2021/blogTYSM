@@ -12,7 +12,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-04-22-jorgenegrete.jpg"
 sharing: true
-title: 'México lindo y querido: historia de la canción inmortalizada por Jorge Negrete'
+title: '"México lindo y querido": historia de la canción inmortalizada por Jorge Negrete'
 author: Francisco Massé
 cover: "/images/2022-04-22-jorgenegrete.jpg"
 categories: CULTURA
