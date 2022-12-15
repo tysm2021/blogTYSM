@@ -27,7 +27,7 @@ Gracias a multitud de películas —desde las de Elvis Presley hasta _Lilo & Sti
 
 Para salir de dudas, a continuación te daremos unos **datos** básicos sobre todo lo que necesitas saber de **Hawái**, desde un poco de historia hasta algunas ideas para considerarlo como un destino turístico para algún momento en el futuro.
 
-TE RECOMENDAMOS
+**TE RECOMENDAMOS:** [**Estatua de la Libertad: historia del ícono de Nueva York y de Estados Unidos.**](https://blog.tonoysumariachi.com/mundo/2022/08/04/estatua-de-la-libertad-historia-del-icono-de-nueva-york-y-de-los-estados-unidos.html)
 
 ### Forma parte de los Estados Unidos
 
