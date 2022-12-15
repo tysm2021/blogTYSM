@@ -28,7 +28,7 @@ Aunque hay especies nativas de este continente, en general el **cerdo** que cono
 
 Demos un vistazo, pues, a algunas de las creencias más difundidas y generalizadas sobre la carne de cerdo, las cuales hablan de enfermedades, de sobrepeso y de otras muchas cosas que no son ciertas.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Sí, el pozole es nutritivo: te decimos por qué.**](https://blog.tonoysumariachi.com/gastronomia/2022/04/21/si-el-pozole-es-nutritivo-te-decimos-por-que.html)
 
 ### MITO: Es muy grasosa
 
@@ -42,7 +42,7 @@ La misma idea anterior, pero con una variante. Se cree, erróneamente, que siend
 
 ### MITO: Hace daño si tomas medicina
 
-Por alguna razón, se piensa que la **carne de cerdo** es "delicada", pues puede generar desde indigestiones o alergias si se consume mezclada con algunos otros alimentos, e incluso se afirma que algunos médicos "la prohíben" si uno está tomando medicamentos. La **realidad** es que, si bien algunos médicos y dentistas siguen aconsejando privarse de su consumo bajo algunas circunstancias, no se ha comprobado científicamente que la **carne de puerco** favorezca las infecciones o que genere alergias; de hecho, aporta los nutrientes necesarios que ayudan a una mejor recuperación. 
+Por alguna razón, se piensa que la **carne de cerdo** es "delicada", pues puede generar desde indigestiones o alergias si se consume mezclada con algunos otros alimentos, e incluso se afirma que algunos médicos "la prohíben" si uno está tomando medicamentos. La **realidad** es que, si bien algunos médicos y dentistas siguen aconsejando privarse de su consumo bajo algunas circunstancias, no se ha comprobado científicamente que la **carne de puerco** favorezca las infecciones o que genere alergias; de hecho, aporta los nutrientes necesarios que ayudan a una mejor recuperación.
 
 ### MITO: No es nutritiva
 
