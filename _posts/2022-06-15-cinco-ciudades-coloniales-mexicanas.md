@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-06-14-1280px-guanajuato-_guanajuato_-23784476462.jpeg"
 sharing: true
-title: Cinco ciudades coloniales mexicanas
+title: Cinco ciudades coloniales mexicanas y sus principales atractivos
 summary: Estas ciudades fueron fundadas en tiempos de la Colonia, entre los siglos
   XVI y XVIII
 cover: "/images/2022-06-14-1280px-guanajuato-_guanajuato_-23784476462.jpeg"
@@ -27,7 +27,7 @@ En América Latina, se le llama "**ciudad colonial**" a un centro urbano constru
 
 A continuación, un breve resumen sobre qué hacer en las hermosas **ciudades coloniales** de Guanajuato, Zacatecas, Morelia, San Luis Potosí y Puebla.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Pueblos Mágicos en el estado de Querétaro**](https://blog.tonoysumariachi.com/turismo/2022/11/04/pueblos-magicos-en-el-estado-de-queretaro.html)**.**
 
 ## Guanajuato
 

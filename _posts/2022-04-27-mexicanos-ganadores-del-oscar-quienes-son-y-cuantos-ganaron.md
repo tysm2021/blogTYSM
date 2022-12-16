@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-04-27-oscar-3679610_1280.jpeg"
 sharing: true
-title: 'Mexicanos ganadores del Oscar: quienes son y cuántos ganaron'
+title: 'Mexicanos ganadores del Oscar: quiénes son y cuántos ganaron'
 author: Francisco Massé
 cover: "/images/2022-04-27-oscar-3679610_1280.jpeg"
 tags: cine mexico farandula peliculas
@@ -28,7 +28,7 @@ El **Oscar** —oficialmente llamado **Premio de la Academia** o "Academy Award"
 
 A continuación te damos la **lista completa**, con los nombres de los **ganadores**, sus **premios** y las producciones por las que los ganaron.
 
-TE PUEDE INTERESAR:
+**TE RECOMENDAMOS:** [**Don Goyo: ¿Por qué se le llama así al volcán Popocatépetl?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/09/27/don-goyo-por-que-se-le-llama-asi-al-volcan-popocatepetl.html)
 
 ## 1 Oscar
 
@@ -72,6 +72,6 @@ __Anthony Quinn*__ — Mejor Actor Secundario por _Viva Zapata_ (1952) y _Lust f
 
 ## 5 Oscares
 
-**Alfonso Cuarón** — Mejor Edición y Mejor Director por _Gravity_ (2013); Mejor Director, Mejor Película Extranjera y Mejor Fotografía por _Roma_ (2018). 
+**Alfonso Cuarón** — Mejor Edición y Mejor Director por _Gravity_ (2013); Mejor Director, Mejor Película Extranjera y Mejor Fotografía por _Roma_ (2018).
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alfonso_Cuar%C3%B3n_%282013%29_cropped.jpg/768px-Alfonso_Cuar%C3%B3n_%282013%29_cropped.jpg)

@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-06-16-all_gizah_pyramids.jpeg"
 sharing: true
-title: Pirámides más altas del mundo
+title: Conoce las ocho pirámides más altas del mundo
 summary: "¿Sabías que, detrás de las egipicias, tres pirámides mexicanas están entre
   las más altas del mundo?"
 cover: "/images/2022-06-16-all_gizah_pyramids.jpeg"
@@ -27,7 +27,7 @@ Diversos pueblos de la Antigüedad construyeron hermosas e imponentes **pirámid
 
 Desde luego, este viaje nos llevará al antiguo **Egipto**, pero quizá te sorprenderá saber que tres **pirámides** **mexicanas** se encuentran entre las **más altas**. Averigüemos cuáles…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Top 5: las estatuas más grandes del mundo.**]()
 
 ## Gran Pirámide
 
