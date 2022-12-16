@@ -27,9 +27,9 @@ El sureste mexicano, con sus abundantes ríos y su clima selvático, es ampliame
 
 Acompáñanos a recorrer, aunque sea de forma electrónica, este famoso cañón mexicano, conoce un poco de su **historia** y de las maravillosas **actividades** que, como **turista**, puedes realizar en él.
 
-TE RECOMENDAMOS: 
+**TE RECOMENDAMOS:** [**La zona arqueológica de Malinalco y su historia**](https://blog.tonoysumariachi.com/turismo/2022/04/20/la-zona-arqueologica-de-malinalco-y-su-historia.html)**.**
 
-El fabuloso **Cañón del Sumidero** es un paso estrecho natural de gran profundidad, que se encuentra a cinco kilómetros de la ciudad de Tuxtla Gutiérrez, en el municipio de Chiapa de Corzo, **Chiapas**. Su formación se le debe al cauce del caudaloso **río Grijalva**, que tiene una profundidad de 250 metros, y el Cañón tiene un acantilado que alcanza los 1300 metros sobre el nivel del mar. 
+El fabuloso **Cañón del Sumidero** es un paso estrecho natural de gran profundidad, que se encuentra a cinco kilómetros de la ciudad de Tuxtla Gutiérrez, en el municipio de Chiapa de Corzo, **Chiapas**. Su formación se le debe al cauce del caudaloso **río Grijalva**, que tiene una profundidad de 250 metros, y el Cañón tiene un acantilado que alcanza los 1300 metros sobre el nivel del mar.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Canyon_sumidero_desde_arriba.jpg/682px-Canyon_sumidero_desde_arriba.jpg)
 
