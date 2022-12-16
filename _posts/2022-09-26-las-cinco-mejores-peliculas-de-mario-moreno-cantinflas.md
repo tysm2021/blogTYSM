@@ -27,7 +27,7 @@ Uno de los **actores** y de los personajes más famosos y queridos del **cine me
 
 Los críticos y estudiosos del cine reconocen dos grandes etapas en la carrera de '**Cantinflas**': el cine blanco y negro, de 1936 a 1963, cuando se produjo lo mejor de su **filmografía**, y el cine a color, de 1964 a 1983, cuando ya no tenía la misma gracia e incluso te tornó un poco regañón, y de igual forma participó en producciones extranjeras.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**María Félix: diez datos curiosos de su biografía**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/21/maria-felix-diez-datos-curiosos-de-su-biografia.html)**.**
 
 ## Ahí está el detalle
 
