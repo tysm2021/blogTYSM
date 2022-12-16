@@ -27,7 +27,7 @@ La pancita, como se le llama en la Ciudad de México y los estados cercano, o me
 
 Revisemos la historia, alguna receta y los detalles de la "rica pancita", como se le llama en mercados y puestos callejeros, pues aunque no es del gusto de todos, sin duda es un platillo mexicanísimo.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Pozole verde o estilo Guerrero: una deliciosa variante de nuestro platillo favorito**](https://blog.tonoysumariachi.com/gastronomia/2022/07/15/pozole-verde-o-estilo-guerrero-una-deliciosa-variante-de-nuestro-platillo-favorito.html)**.**
 
 Dice una **leyenda** que la **pancita** o el **menudo** tienen su origen en España, donde se le conocía como "callos" o "pedazos de estómago". Aunque es en los terrenos conquistados como las Filipinas, el Perú y la Nueva España —que no es otra cosa sino el nombre que recibía México durante el Virreinato— donde adquirió la receta y el sabor que conocemos hoy.
 
