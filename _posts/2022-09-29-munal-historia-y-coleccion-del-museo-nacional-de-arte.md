@@ -27,7 +27,7 @@ En nuestro país, los museos más grandes e importantes son llamados Museo Nacio
 
 Recorramos juntos, pues, este importante **museo** y parte de su colección, adentrándonos así en una parte esencial de la historia del arte mexicano de los siglos XVI al XX.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Tres museos que visitar en la ciudad de Guanajuato**](https://blog.tonoysumariachi.com/turismo/2022/04/21/tres-museos-que-visitar-en-la-ciudad-de-guanajuato.html)**.**
 
 Según se dice en su [**página web**](http://www.munal.mx/es/visita) oficial, "El **Museo Nacional de Arte** tiene la función de conservar, exhibir, estudiar y difundir **obras de arte** producidas en **México** entre la segunda mitad del siglo XVI y la primera mitad del siglo XX, con lo cual ofrece una visión global y sintetizada de la historia del arte mexicano de este periodo". Se ubica en lo que fuera el antiguo Palacio de las Secretaría de Comunicaciones y Obras Públicas, el cual fue construido entre 1904 y 1911, bajo las órdenes del presidente Porfirio Díaz y con el diseño original de italiano Silvio Contri.
 
