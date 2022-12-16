@@ -27,7 +27,7 @@ Los **mexicanos**, como muchos pueblos del mundo, creemos en la existencia de la
 
 A continuación, una breve explicación acerca de dichas expresiones, las cuales están presentes en el habla de los mexicanos desde eras muy remotas.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuál es el origen de la frase popular “Ya sacó el cobre”?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/22/cual-es-el-origen-de-la-frase-popular-ya-saco-el-cobre.html)
 
 Desde tiempos muy antiguos, la **sal** ha sido un polvo muy apreciado. En la antigua Roma, por ejemplo, parte del pago que recibían los trabajadores se efectuaba en bolsas de **sal** —de hecho, de ahí provienen las palabras del español _salario_ y _asalariado_—, y era un bien tan escaso que tirarla o **derramarla** era considerado un mal augurio, un acto desafortunado. Después, en la Edad Media europea, estaba muy arraigada la creencia supersticiosa de que **derramar sal** en público acarreaba mala suerte, pues ésta era un símbolo de amistad; por esa razón, quien había tirado el condimento debía arrojar un poco más sobre su hombro izquierdo, ya que se creía que ese lado era "siniestro" y que allí se agrupaban los espíritus malignos.
 
