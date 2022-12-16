@@ -41,9 +41,9 @@ Así como en el cristianismo se habla de Adán y Eva, en la religión de los mex
 
 El dios principal de los mexicas. Su nombre significa 'colibrí zurdo' o 'colibrí del sur'. Se le reconoce principalmente como **dios de la guerra**, aunque también se le asocia con el Sol y con el fuego. Fue él quien ordenó a las tribus nahuatlacas salir de la mítica Aztlán y migrar hacia el Valle de México. En su honor se levantó una de las torres del Templo Mayor y se le dedicaban sacrificios humanos. También se le vinculaba con las águilas, que son cazadoras diurnas.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Huitzilopochtli_V.svg/712px-Huitzilopochtli_V.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/3/3e/Huitzilopochtli_V.png)
 
-## Quetzalcóatl
+### Quetzalcóatl
 
 Uno de los dioses más complejos del panteón mexica. Su nombre significa 'serpiente emplumada' o 'serpiente de plumas preciosas' y fue uno de los primeros dioses que fueron creados. Principalmente se le conoce como **dios de la vida**, de la luz, la fertilidad, la civilización y el conocimiento, aunque también es señor de los vientos, en su manifestación de Ehécatl. También se le asociaba con el planeta Venus o "estrella matutina" y se le consideraba el 'gemelo precioso' de Xólotl, la estrella vespertina.
 
