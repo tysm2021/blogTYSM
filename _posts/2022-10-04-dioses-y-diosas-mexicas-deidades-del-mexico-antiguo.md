@@ -47,7 +47,7 @@ El dios principal de los mexicas. Su nombre significa 'colibrí zurdo' o 'colibr
 
 Uno de los dioses más complejos del panteón mexica. Su nombre significa 'serpiente emplumada' o 'serpiente de plumas preciosas' y fue uno de los primeros dioses que fueron creados. Principalmente se le conoce como **dios de la vida**, de la luz, la fertilidad, la civilización y el conocimiento, aunque también es señor de los vientos, en su manifestación de Ehécatl. También se le asociaba con el planeta Venus o "estrella matutina" y se le consideraba el 'gemelo precioso' de Xólotl, la estrella vespertina.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Quetzalcoatl_V.svg/878px-Quetzalcoatl_V.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Quetzalcoatl.svg/712px-Quetzalcoatl.svg.png)
 
 ### Tláloc
 
