@@ -27,7 +27,7 @@ Ya sea en avión, en camión o en nuestro propio auto; en pareja, con amigos, la
 
 Todo se resume en tres ideas: planeación, paciencia y tolerancia, pues aunque resulta encantadora la idea de simplemente hacer maletas y salir hacia donde nos lleve el viento, a veces eso genera decepciones y **gastos** imprevistos o excesivos.
 
-TE RECOMENDAMOS
+**TE RECOMENDAMOS:** [**Tips para viajar (seguro y barato) en autobús por México**](https://blog.tonoysumariachi.com/turismo/2022/06/20/tips-para-viajar-seguro-y-barato-en-autobus-por-mexico.html)**.**
 
 ## Vuélvete expert@ en cazar ofertas
 
@@ -49,7 +49,7 @@ Esto es más sencillo de lo que parece. Si eres de los que compra por impulso o 
 
 ### Comparte gastos
 
-Por simples matemáticas, resulta más económico viajar en parejas o en grupos pequeños, siempre que cada uno de los integrantes de la "excursión" aporten su parte proporcional. Por ejemplo, si viajas en auto, **dividir los gastos** en gasolina —cuyo consumo, sin duda, será un poco mayor si viajas con tres personas más, pero no al grado de triplicarse— y en casetas es una muy buena manera de abatir costos. De igual forma, los **hoteles** mexicanos en general tienen **tarifas** por habitación, de tal suerte que no importa si en una habitación doble entran una o dos personas, y este **gasto** se dividirá entre dos personas; algo similar sucede con, por ejemplo, habitaciones cuádruples: el **costo** final no es cuatro veces mayor al de una habitación sencilla. 
+Por simples matemáticas, resulta más económico viajar en parejas o en grupos pequeños, siempre que cada uno de los integrantes de la "excursión" aporten su parte proporcional. Por ejemplo, si viajas en auto, **dividir los gastos** en gasolina —cuyo consumo, sin duda, será un poco mayor si viajas con tres personas más, pero no al grado de triplicarse— y en casetas es una muy buena manera de abatir costos. De igual forma, los **hoteles** mexicanos en general tienen **tarifas** por habitación, de tal suerte que no importa si en una habitación doble entran una o dos personas, y este **gasto** se dividirá entre dos personas; algo similar sucede con, por ejemplo, habitaciones cuádruples: el **costo** final no es cuatro veces mayor al de una habitación sencilla.
 
 Lo único que hay que considerar es que habrá que hacer ciertos sacrificios, como la falta de privacidad, y considerar si estás dispuesto o dispuesta, si es necesario, a compartir la cama con alguien. Y por último, recuerda lo que dice el refrán: "Si quieres conocer a alguien, viaja con esa persona", así que echa mano de tu paciencia, pues no toda la gente tiene el mismo sentido de la prisa, de la puntualidad o del espacio personal, ni los mismo hábitos de higiene, sin contar que a veces los intereses pueden ser muy diferentes.
 
@@ -57,7 +57,7 @@ Lo único que hay que considerar es que habrá que hacer ciertos sacrificios, co
 
 ## Salte de lo comercial
 
-Esto es importante y, para explicarlo, pondremos un ejemplo práctico: si vas a San Miguel de Allende, desayunar en uno de los restaurantes que tienen vista a la Plaza Principal y a la famosa Parroquia de San Miguel Arcángel te puede salir hasta en 450 pesos por persona; pero si caminas un par de cuadras, sin necesidad de salir del centro de la ciudad, podrás encontrar buenos almuerzos hasta en menos de cien pesos. Así, si tu plan es ahorrar, elige los mercados en lugar de los **restaurantes** caros, o busca fondas limpias y agradables donde, además de comer barato, seguramente podrás probar platillos mucho más tradicionales —lo cual no obsta para que, dentro de tu presupuesto, puedas darte un gusto y regalarte una cena o una comida de lujo. 
+Esto es importante y, para explicarlo, pondremos un ejemplo práctico: si vas a San Miguel de Allende, desayunar en uno de los restaurantes que tienen vista a la Plaza Principal y a la famosa Parroquia de San Miguel Arcángel te puede salir hasta en 450 pesos por persona; pero si caminas un par de cuadras, sin necesidad de salir del centro de la ciudad, podrás encontrar buenos almuerzos hasta en menos de cien pesos. Así, si tu plan es ahorrar, elige los mercados en lugar de los **restaurantes** caros, o busca fondas limpias y agradables donde, además de comer barato, seguramente podrás probar platillos mucho más tradicionales —lo cual no obsta para que, dentro de tu presupuesto, puedas darte un gusto y regalarte una cena o una comida de lujo.
 
 Lo mismo pasa con los **hoteles**: los más lindos, más céntricos y con mejores vistas suelen ser los más costosos, pero si estás dispuesto a caminar unas cuadras o a tener un poco menos de comodidades —por ejemplo, prescindir de que haya alberca, si en tus planes está conocer la ciudad o el pueblo, y no darte un chapuzón—, seguramente podrás ahorrar muchos pesos.
 
