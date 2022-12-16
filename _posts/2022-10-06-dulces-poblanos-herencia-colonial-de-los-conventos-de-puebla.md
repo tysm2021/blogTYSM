@@ -27,7 +27,7 @@ Cuando uno piensa en **dulces típicos**, una de las primeras ciudades que viene
 
 Conozcamos un poco de la gran variedad de **dulces** que son originarios de la "ciudad de los Ángeles", donde además de un soberbio mole, unos deliciosos chiles en nogada o unas cemitas, uno puede deleitarse con estos estupendos postres.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Chiles en nogada: historia y leyenda de su creación**](https://blog.tonoysumariachi.com/gastronomia/2022/04/27/chiles-en-nogada-historia-y-la-leyenda-de-su-creacion.html)**.**
 
 Si uno visita la capital **poblana**, además de conocer la imponente Catedral, la hermosa Capilla del Rosario, los fuertes donde se defendió a México de los invasores franceses, la Casa del Alfeñique o los comercios donde se vende la típica talavera, una visita casi obligada es a la "**calle de los dulces**", que es la 6 Oriente en el **Centro Histórico** de **Puebla**.
 
@@ -43,7 +43,7 @@ Luego vendrían los **borrachitos**, que son dulces de frutas como la fresa, o d
 
 También están las **cocadas**, que se elaboran con leche, coco rallado y azúcar, y van horneadas, por lo que su superficie luce ligeramente quemadita. De esta misma familia son los **limones rellenos de coco**, que son ligeramente aciditos. Además, están las numerosas **frutas cristalizadas**: chilacayotes, higos, tejocotes, limones y hasta biznaga, aunque como sabemos esta planta es una especie protegida, por lo que su consumo es escaso.
 
-Por otro lado están los **dulces de leche**, muchos de los cuales se coronan con una nuez; los **jamoncillos**, de formas, sabores y colores diferentes; los **macarrones**, hechos con leche, azúcar y canela, de forma alargada; los famosos **muéganos**, que son duros de roer y se elaboran con harina de trigo, caramelo de azúcar, piloncillo de azúcar y un toque de canela. 
+Por otro lado están los **dulces de leche**, muchos de los cuales se coronan con una nuez; los **jamoncillos**, de formas, sabores y colores diferentes; los **macarrones**, hechos con leche, azúcar y canela, de forma alargada; los famosos **muéganos**, que son duros de roer y se elaboran con harina de trigo, caramelo de azúcar, piloncillo de azúcar y un toque de canela.
 
 ![](/images/2022-10-06-dulces_de_puebla.jpeg)
 
