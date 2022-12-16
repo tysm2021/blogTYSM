@@ -23,11 +23,15 @@ show_author_profile: false
 comment: false
 
 ---
+Desde principios del pasado siglo XX, **Hollywood** —en California, Estados Unidos— se convirtió en la "meca del **cine**" por la calidad y el éxito comercial de sus producciones, que llevaron a la fama mundial a estrellas como Marilyn Monroe o Clark Gable: por eso es que muchos consideran que es un logro aparecer en alguna de estas famosas **cintas**. Aquí una breve selección de los **mexicanos** y las **mexicanas** que, a lo largo del tiempo, han cosechado éxitos en las grandes ligas del séptimo arte mundial.
+
+**TE RECOMENDAMOS:** [**Las cinco mejores películas de Mario Moreno 'Cantinflas'**](https://blog.tonoysumariachi.com/mexicanisimos/2022/09/26/las-cinco-mejores-peliculas-de-mario-moreno-cantinflas.html)**.**
+
 ## Dolores del Río
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bird_of_Paradise_%281932%29_2.jpg/1024px-Bird_of_Paradise_%281932%29_2.jpg)
 
-Antes de ser una de las primeras actrices de la Época de Oro del cine mexicano, esta hermosísima mujer incursionó en el cine de Hollywood primero en películas mudas como _Resurrection_ (1927), _Ramona_ (1928) y Evangeline (1929), y luego en cintas sonoras tales como la de la imagen, _Bird of Paradis_e (1932), _Flying Down to Rio_ (1933) y _Madame DuBarry_ (1934). 
+Antes de ser una de las primeras actrices de la Época de Oro del cine mexicano, esta hermosísima mujer incursionó en el cine de Hollywood primero en películas mudas como _Resurrection_ (1927), _Ramona_ (1928) y Evangeline (1929), y luego en cintas sonoras tales como la de la imagen, _Bird of Paradis_e (1932), _Flying Down to Rio_ (1933) y _Madame DuBarry_ (1934).
 
 Regresó a México a principios de la década de 1940, para estelarizar auténticos clásicos de nuestro cine como _Flor Silvestre_ (1943), _María Candelaria_ (1943) y _La Malquerida_ (1949). Un dato curioso es que **Dolores del Río** estuvo casada con el director artístico estadounidense **Cedric Gibbons**, quien fue nada menos el diseñador de la estatuilla del Premio de la Academia, apodado Oscar.
 
