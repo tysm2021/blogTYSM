@@ -123,7 +123,7 @@ Dios del maíz, se le consideraba de gran importancia por ser el grano principal
 
 'Flor preciosa', era la diosa asociada a la belleza, las flores, el amor carnal, el placer amoroso y las artes. Se creía que había nacido de los cabellos de la diosa madre.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Xochiquetzal.svg/699px-Xochiquetzal.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/1/15/Xochiquetzal_V.png)
 
 ### Mayáhuel
 
