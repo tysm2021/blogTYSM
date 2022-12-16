@@ -27,7 +27,7 @@ Si uno sale del Centro Histórico de la CDMX con dirección a la Alameda Central
 
 Pero, ¿sabías que originalmente iba a ser el **Palacio Legislativo** del gobierno de Porfirio Díaz, que fue abandonado y que después la estructura metálica se adaptó para convertirse en el **monumento** que conocemos actualmente? Acompáñanos a conocer esta apasionante **historia**…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Dónde está o quién tiene la cabeza de Pancho Villa?**](https://blog.tonoysumariachi.com/historia/2022/07/01/donde-esta-o-quien-tiene-la-cabeza-de-pancho-villa.html)
 
 ## La historia
 
