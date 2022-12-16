@@ -25,7 +25,7 @@ comment: false
 ---
 En el panorama de la **literatura** **mexicana**, normalmente se destaca la obra de **autores** mundialmente reconocidos como Octavio Paz, Carlos Fuentes, Juan José Arreola o Juan Rulfo. Pero, ¿qué hay de las **escritoras** **mexicanas** y de sus **obras**? Para que conozcas a algunas de las **autoras** más **famosas** de **cuentos**, **novelas** y **poesía** en **México**, a continuación brevemente te presentamos a **cinco** **literatas** de nuestro país cuyos **libros** son más que recomendables.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Inventores mexicanos famosos y sus inventos**](https://blog.tonoysumariachi.com/cultura/2022/04/25/inventores-mexicanos-famosos-y-sus-inventos.html)**.**
 
 ## Elena Garro
 
