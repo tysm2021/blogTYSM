@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-10-03-1280px_vangogh.jpg"
 sharing: true
-title: 'Vincent van Gogh: sus pinturas más famosas'
+title: 'Vincent van Gogh: ¿cuáles son sus pinturas más famosas?'
 summary: Uno de los artistas más reconocidos del mundo es el holandés Vincent van
   Gogh; para conocerlos, veamos cuáles son algunas de sus obras más famosas
 cover: "/images/2022-10-03-1280px_vangogh.jpg"
@@ -27,7 +27,7 @@ comment: false
 
 Como en Toño y su mariachi nos gusta conocer y compartir todo lo bueno de México y del mundo, a continuación conoceremos algunas de l**as pinturas más famosas de Vincent van Gogh**, varias de las cuales son **autorretratos** del **pintor**, que fue un ser atormentado y un **artista** incomprendido en su tiempo.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Museo del Louvre: arte de todo el mundo en París**](https://blog.tonoysumariachi.com/mundo/2022/08/26/museo-del-louvre-arte-de-todo-el-mundo-en-paris.html)**.**
 
 ## Girasoles
 
