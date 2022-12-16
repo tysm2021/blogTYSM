@@ -91,7 +91,7 @@ Su nombre completo era Huehuetéotl Xiuhtecuhtli, que significa 'Nuestro viejo s
 
 Es la **madre de los dioses** y también se usa como un genérico para describir a otras diosas madres como **Coatlicue**, **Omecíhuatl** y Tocih. Su templo estaba en el cerro del Tepeyac, el cual fue destruido y en su lugar se instauró el culto a la Virgen de Guadalupe.
 
-### Coyoxauhqui
+### Coyolxauhqui
 
 Diosa lunar o **diosa de la Luna**, función que cumple de forma parelela con la diosa **Meztli**. 'La de cascabeles en la cara', era hija de Coatlicue y hermana de Huitzilopochtli; cuando su madre estaba embarazada del mismo, amenazó con matarla, pero su hermano luchó contra ella, la venció y la despeño desde el cerro sagrado de Coatepec, por eso luce un cuerpo desmembrado. Es famosa por el monolito en el que está representada, cuyo hallazgo dio origen al Museo del Templo Mayor.
 
