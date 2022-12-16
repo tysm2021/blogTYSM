@@ -27,7 +27,7 @@ Durante los siglos XIV, XV y parte del siglo XVI, el centro de **México** y gra
 
 Acá te compartimos una breve **lista** de las **deidades** más relevantes del mundo **mexica**, las cuales eran representadas en **esculturas**, **relieves**, **pinturas**, **códices** y otras manifestaciones de arte, y a las cuales se les rendía **culto** en **templos** y palacios, e incluso se les ofrecían sacrificios de animales… y de humanos.
 
-TE RECOMENDAMOS: 
+**TE RECOMENDAMOS:** [**Mictlán: los nueve niveles del inframundo mexica**](https://blog.tonoysumariachi.com/historia/2022/04/21/mictlan-los-nueve-niveles-del-inframundo-mexica.html)**.**
 
 ## Dioses principales
 
@@ -39,7 +39,7 @@ Así como en el cristianismo se habla de Adán y Eva, en la religión de los mex
 
 ### Huitzilopochtli
 
-El dios principal de los mexicas. Su nombre significa 'colibrí zurdo' o 'colibrí del sur'. Se le reconoce principalmente como **dios de la guerra**, aunque también se le asocia con el Sol y con el fuego. Fue él quien ordenó a las tribus nahuatlacas salir de la mítica Aztlán y migrar hacia el Valle de México. En su honor se levantó una de las torres del Templo Mayor y se le dedicaban sacrificios humanos. También se le vinculaba con las águilas, que son cazadoras diurnas. 
+El dios principal de los mexicas. Su nombre significa 'colibrí zurdo' o 'colibrí del sur'. Se le reconoce principalmente como **dios de la guerra**, aunque también se le asocia con el Sol y con el fuego. Fue él quien ordenó a las tribus nahuatlacas salir de la mítica Aztlán y migrar hacia el Valle de México. En su honor se levantó una de las torres del Templo Mayor y se le dedicaban sacrificios humanos. También se le vinculaba con las águilas, que son cazadoras diurnas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Huitzilopochtli_V.svg/712px-Huitzilopochtli_V.svg.png)
 
@@ -79,11 +79,11 @@ Su nombre completo era Huehuetéotl Xiuhtecuhtli, que significa 'Nuestro viejo s
 
 'La de la falda de serpientes', era la **diosa madre** de Huitzilopochtli, de Coyolxauhqui y de los cuatrocientos surianos, que no son otros sino las estrellas del firmamento. Era la **diosa de la fertilidad** y se le veneraba como la madre de los dioses.
 
- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/20041229-Coatlicue_%28Museo_Nacional_de_Antropolog%C3%ADa%29_MQ-3.jpg/494px-20041229-Coatlicue_%28Museo_Nacional_de_Antropolog%C3%ADa%29_MQ-3.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/20041229-Coatlicue_%28Museo_Nacional_de_Antropolog%C3%ADa%29_MQ-3.jpg/494px-20041229-Coatlicue_%28Museo_Nacional_de_Antropolog%C3%ADa%29_MQ-3.jpg)
 
 ### Chalchiuhtlicue
 
-'La que tiene su falda de jade', era la **diosa de las aguas, de los lagos y las corrientes de agua**. Esposa del Tláloc, dios de la lluvia. 
+'La que tiene su falda de jade', era la **diosa de las aguas, de los lagos y las corrientes de agua**. Esposa del Tláloc, dios de la lluvia.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chalchiuhtlicue_copy.jpg/640px-Chalchiuhtlicue_copy.jpg)
 
