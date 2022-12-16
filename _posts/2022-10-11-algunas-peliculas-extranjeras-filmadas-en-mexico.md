@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-10-10-1024romeoandjuliet-1.jpg"
 sharing: true
-title: Algunas películas extranjeras filmadas en México
+title: Algunas películas extranjeras famosas que se filmaron en en México
 summary: 'Por la riqueza de nuestro escenarios naturales, '
 cover: "/images/2022-10-10-1024romeoandjuliet.jpg"
 tags: mundo cine peliculas
@@ -26,7 +26,7 @@ Hay muchos factores por los que **México** ha sido el escenario ideal donde se 
 
 A continuación, haremos un breve recuento de algunas de las **cintas** **extranjeras** más conocidas que se han **filmado** en **México**, algunas de las cuales son muy notorias para los locales y en otros casos hay que poner mucha atención para darse cuenta de dónde fueron grabadas.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Mexicanos que la armaron en el cine de Hollywood.**](https://blog.tonoysumariachi.com/mundo/2022/07/13/mexicanos-que-la-armaron-en-el-cine-de-hollywood.html)
 
 Empecemos con un género clásico: el _western_ o las películas de vaqueros. En este sentido, los estados del norte —en especial Durango— se llevan las palmas, pues en sus desiertos, haciendas y pueblos se han **filmado** algunas **cintas** clásicas, entre las que destacan las protagonizadas por **John Wayne**: _Los hijos de Katie Elde_r, _Lucha de gigantes_, _Chisum rey del Oeste_ y _Los chacales del Oeste_. Otros westerns famosos filmados en ese estado son la emblemática _El bueno, el malo y el feo_ con **Clint Eastwood**; _Patt Garrett y Billy the Kid_, con **James Coburn**; _El rostro impenetrable_, con **Marlon Brando** y _Un hombre llamado caballo_, con **Richard Harris**.
 
