@@ -23,11 +23,11 @@ show_author_profile: false
 comment: false
 
 ---
-Los lingüistas y demás estudiosos de la lengua española saben bien que el español que se habla, por ejemplo, en España o en Argentina, no es igual ni tiene el mismo vocabulario que el español de México. Esto no está mal ni tiene nada de extraño, pues se debe a la influencia de lo que se llama "el sustrato lingüístico", término que se refiere a las distintas lenguas indígenas que se hablaban en nuestro país antes de la imposición del español o castellano. Por eso es que en el habla cotidiana de los mexicanos, especialmente en la región central donde alguna vez se ubicó el Imperio Mexica, usamos una gran cantidad de voces, vocablos y palabras que provienen de la lengua náhuatl, que son llamadas nahuatlismos.
+Los lingüistas y demás estudiosos de la **lengua española** saben bien que el **español** que se habla, por ejemplo, en España o en Argentina, no es igual ni tiene el mismo vocabulario que el **español** de **México**. Esto no está mal ni tiene nada de extraño, pues se debe a la influencia de lo que se llama "el sustrato lingüístico", término que se refiere a las distintas lenguas indígenas que se hablaban en nuestro país antes de la imposición del español o castellano. Por eso es que en el habla cotidiana de los mexicanos, especialmente en la región central donde alguna vez se ubicó el Imperio Mexica, usamos una gran cantidad de **voces**, **vocablos** y **palabras** que provienen de la lengua **náhuatl**, que son llamadas **nahuatlismos**.
 
 A continuación, te compartimos una breve lista de las más usuales o de las más sorprendentes, porque según los diccionarios existen miles de ellas, fruto de la mezcla de nuestras dos raíces étnicas, culturales y lingüísticas más importantes, la española y la indígena.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuál es el origen de la frase popular “Ya sacó el cobre”?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/22/cual-es-el-origen-de-la-frase-popular-ya-saco-el-cobre.html)
 
 ### Tlapalería
 
@@ -45,7 +45,7 @@ Este simpático y tierno animalito es nativo de México, y tiene la particularid
 
 ### Chipi chipi
 
-Esta expresión se refiere a una lluvia muy ligera, muy menuda. Y no, aunque no lo creas, no se trata de una onomatopeya —es decir, una palabra derivada del sonido, tales como ¡guau! o ¡pum!— de las gotas al caer, sino de la palabra náhuatl _chichipictli_, que significa 'gota'. 
+Esta expresión se refiere a una lluvia muy ligera, muy menuda. Y no, aunque no lo creas, no se trata de una onomatopeya —es decir, una palabra derivada del sonido, tales como ¡guau! o ¡pum!— de las gotas al caer, sino de la palabra náhuatl _chichipictli_, que significa 'gota'.
 
 ### Tlacoyo
 
