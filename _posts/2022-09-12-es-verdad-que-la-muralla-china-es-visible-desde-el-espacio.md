@@ -27,7 +27,7 @@ La **Muralla China**, también conocida como la **Gran Muralla**, es una magníf
 
 En Toño y su mariachi investigamos la verdad detrás de este **rumor** tan popular en internet y encontramos una explicación lógica a todo ello, además del origen de esta afirmación tan popular. Aquí te la compartimos…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Santa Sofía: la Catedral y mezquita de Estambul, Turquía**](https://blog.tonoysumariachi.com/mundo/2022/12/06/santa-sofia-la-catedral-de-estambul-turquia.html)**.**
 
 La **Gran Muralla China** es una construcción monumental fortificada que bordea el territorio **chino** y fue elevada con la finalidad de proteger al Imperio Chino de las incursiones militares mongolas y de las tribus xiongnu. Se calcula que en total, desde la frontera con Corea y hasta el desierto de Gobi, mide poco más de **21 mil kilómetros** de longitud, con una altura promedio de entre 6 y 7 metros, por entre 4 y metros de ancho. Su construcción tomo siglos, pues se estima que los primeros tramos se erigieron en el siglo V a.C. y los últimos se levantaron alrededor del siglo XVI; actualmente, sólo se conserva el 30 por ciento de las construcción originales y son una de las atracciones más visitadas por los turistas extranjeros.
 
