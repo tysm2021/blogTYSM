@@ -55,6 +55,8 @@ El _Codex Boturini_ también es conocido como la **Tira de la Peregrinación**, 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Boturini_Codex_%28folio_15%29.JPG/1005px-Boturini_Codex_%28folio_15%29.JPG)
 
+**TE RECOMENDAMOS:** [**Tlatoanis: lista completa de los emperadores mexicas**](https://blog.tonoysumariachi.com/historia/2022/06/08/tlatoanis-lista-completa-de-los-emperadores-mexicas.html)**.**
+
 ## Códice Florentino
 
 También se le conoce como _Historia general de las cosas de Nueva Españ_a. Este códice fue encargado a **Fray Bernardino de Sahagún** en 1558, y en él está vertida gran parte de la historia y cultura del **México** **prehispánico**, sobre todo del pueblo **mexica**. Está dividido en doce libros que contienen información sobre las deidades y fiestas, astrología, agüeros, filosofía y retórica, historia de algunos señores y sus formas de gobierno, costumbres, flora y fauna y, finalmente, episodios de la Conquista de México. Se encuentra en la Biblioteca Ludenciana de Florencia, Italia, aunque hay una copia fiel que se resguarda en México, la cual fue elaborada por Francisco del Paso y Troncoso en 1905.
