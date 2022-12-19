@@ -27,7 +27,7 @@ En el sureste mexicano, principalmente en los estados de Yucatán, Quintana Roo 
 
 Conozcamos, pues, a los principales **dioses** y **diosas** **mayas**, los cuales son polivalentes, pues muchas veces son a la vez buenos y malos, femeninos y masculinos, y repletos de **significados** y **simbolismos**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Coyolxauhqui: la diosa mexica de la Luna que dio origen a un museo**](https://blog.tonoysumariachi.com/historia/2022/08/17/coyolxauhqui-la-diosa-mexica-de-la-luna-que-dio-origen-a-un-museo.html)**.**
 
 ### Hunab Ku
 
