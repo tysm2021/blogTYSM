@@ -27,13 +27,13 @@ Si hablamos de la Guerra de **Independencia** de **México**, ese proceso que du
 
 Su vida comenzó el 31 de julio de 1773 en Tlalpujahua, Michoacán, con el nombre de José Ignacio **Antonio López-Rayón y López-Aguado**. Además de haber participado en toda la lucha independentista hasta verla consumada, fue diputado e incluso contendió por la presidencia. Veamos los detalles…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**27 de septiembre de 1821: Consumación de la Independencia de México**](https://blog.tonoysumariachi.com/historia/2022/08/15/27-de-septiembre-de-1821-consumacion-de-la-independencia-de-mexico.html)**.**
 
 **Ignacio López Rayón** estudió en el Colegio de San Nicolás, en Valladolid —actualmente Morelia—, la misma institución donde estudió Miguel Hidalgo. Después, partió a la Ciudad de México y estudió derecho en el Colegio de San Ildefonso. Ya convertido en abogado, regresó a Tlalpujahua por la enfermedad de su padre y para hacerse cargo de los negocios familiares. Al estallar el movimiento **insurgente** en 1810, se unió rápidamente a la causa, convirtiéndose en **secretario particular del cura Hidalgo**; más tarde, fue Secretario de Estado y de Despacho en el gobierno que Hidalgo formó en Guadalajara, y con él firmó el bando que prohibía la esclavitud en la Nueva España.
 
 Estuvo al lado de **Hidalgo** en la famosa Batalla del Monte de las Cruces, el 30 de octubre de 1810. Al año siguiente, el 17 de enero, participó en la Batalla de Puente de Calderón, donde los insurgentes fueron derrotados por los realistas encabezados por Félix María Calleja, pero López Rayón pudo rescatar 300 mil pesos enmedio de la reyerta. El 16 de marzo del mismo año, fue nombrado **Comandante de las Fuerzas Insurgentes** y se quedó apostado en Saltillo, Coahuila. Poco después, los jefes insurgentes fueron capturados en Acatita de Baján, y Rayón pasó por las armas a Rafael Iriarte, que había traicionado la causa.
 
- ![](https://upload.wikimedia.org/wikipedia/commons/7/77/General_Ignacio_L%C3%B3pez_Ray%C3%B3n.png)
+![](https://upload.wikimedia.org/wikipedia/commons/7/77/General_Ignacio_L%C3%B3pez_Ray%C3%B3n.png)
 
 **Rayón** salió de Saltillo y derrotó a los realistas en la Batalla de Puerto de los Piñones. El 15 de abril de 1811, **López Rayón** logró la hazaña de tomar la ciudad de Zacatecas. Después, tomó la ciudad de Zitácuaro, desde donde escribió al cura **José María Morelos** y lo invitó a reunirse con él en lo que después se conocería como **Junta de Zitácuaro** o Suprema Junta Nacional Americana, a la que también asistieron los jefes insurgentes José María Liceaga y José Sixto Verduzco; en ella, **Ignacio López Rayón** fue elegido Ministro Universal de la Nación y Presidente de la Suprema Corte.
 
