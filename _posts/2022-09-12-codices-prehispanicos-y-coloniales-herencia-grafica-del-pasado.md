@@ -27,7 +27,7 @@ Para estudiar y analizar nuestro pasado **prehispánico**, además de las eviden
 
 A continuación te ofrecemos una breve revisión al tema de los **códices**, cuáles son los más **famosos** y útiles, **donde** se encuentran, **quiénes** los hicieron y qué es lo que se puede encontrar en ellos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cómo se dice: azteca o mexica? ¿Cuál es el término correcto?**](https://blog.tonoysumariachi.com/historia/2022/07/13/como-se-dice-azteca-o-mexica-cual-es-el-termino-correcto.html)
 
 La palabra **códice** deriva del latín _codex_, _codicis_, que significa 'libro manuscrito', y en el contexto del estudio de los pueblos y las culturas del **México prehispánico** se refiere a una serie de documentos escritos y pictóricos que, supuestamente, son copias fieles de documentos perdidos que provendrían de la época anterior a la Conquista. En náhuatl se les conocía como  _amoxtli_, y desde épocas muy antiguas en ellos se plasmaban los avances culturales y científicos, las creencias religiosas, los ritos y ceremonias, las genealogías y alianzas de los gobernantes, los conocimientos geográficos, el sistema económico y las cronologías de hechos.
 
@@ -35,7 +35,7 @@ Aunque los **códices** más **famosos** son los del pueblo **mexica**, también
 
 ## Códice Borbónico
 
-Este **códice** es uno de los más importantes para estudiar la cultura mexica. Se le llama también _Codex Borbonicus_ por el Palacio Borbón en París, Francia, y está resguardado en la Biblioteca de la Asamblea Nacional, que justo se encuentra en ese edificio. Está elaborado en papel amate, plegado en forma de acordeón, y sus hojas miden aproximadamente 40 centímetros por lado. En él se representaban el calendario mexica, así como las deidades y rituales asociados, y está dividido en dos secciones principales, la primera que contiene el **calendario de 260 días**, y la segunda muestra los ritos asociados con cada una de las 18 ceremonias anuales. 
+Este **códice** es uno de los más importantes para estudiar la cultura mexica. Se le llama también _Codex Borbonicus_ por el Palacio Borbón en París, Francia, y está resguardado en la Biblioteca de la Asamblea Nacional, que justo se encuentra en ese edificio. Está elaborado en papel amate, plegado en forma de acordeón, y sus hojas miden aproximadamente 40 centímetros por lado. En él se representaban el calendario mexica, así como las deidades y rituales asociados, y está dividido en dos secciones principales, la primera que contiene el **calendario de 260 días**, y la segunda muestra los ritos asociados con cada una de las 18 ceremonias anuales.
 
 Una sección de menor tamaño muestra a la pareja primordial de la **religión mexica** —Oxomoco y Cipactónal—, y a Quetzalcóatl con Tezcatlipoca, dioses todos relacionados con el tiempo y el calendario. Otra sección menor contiene un ciclo de 52 años, incompleto por la pérdida de las páginas originales.
 
