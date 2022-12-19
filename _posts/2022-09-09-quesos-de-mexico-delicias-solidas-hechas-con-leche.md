@@ -27,7 +27,7 @@ En prácticamente todos los estados de **México** donde se crían **vacas**, **
 
 Hagamos un breve recorrido por el fascinante y exquisito mundo de los **quesos mexicanos**, en los que revisaremos su **origen**, su forma de **elaboración**, el modo de distinguirlos y hasta algunos consejos para consumirlos o combinarlos con otros alimentos. Eso sí: no nos hacemos responsables si se te antojan tanto que tengas que salir corriendo a comprar uno.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Pulque: algunos datos que no conoces de la "bebida de los dioses"**](https://blog.tonoysumariachi.com/gastronomia/2022/07/18/pulque-algunos-datos-que-no-conoces-de-la-bebida-de-los-dioses.html)**.**
 
 ## Queso Cotija
 
