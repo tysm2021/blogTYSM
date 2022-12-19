@@ -23,11 +23,11 @@ show_author_profile: false
 comment: false
 
 ---
-En memes y redes sociales desde hace algunos años circula la broma de decir que "**Tlaxcala** no existe". Además de que denota cierto desprecio que resulta injustificado y un centralismo que no viene bien con el espíritu de fraternidad que nos caracteriza como mexicanos, hay algo que es innegable: que **Tlaxcala** existe, que es una de las **ciudades** más antiguas de México y que algunos de sus atractivos turísticos incluso han sido incluida en la lista del **Patrimonio de la Humanidad** de la UNESCO. 
+En memes y redes sociales desde hace algunos años circula la broma de decir que "**Tlaxcala** no existe". Además de que denota cierto desprecio que resulta injustificado y un centralismo que no viene bien con el espíritu de fraternidad que nos caracteriza como mexicanos, hay algo que es innegable: que **Tlaxcala** existe, que es una de las **ciudades** más antiguas de México y que algunos de sus atractivos turísticos incluso han sido incluida en la lista del **Patrimonio de la Humanidad** de la UNESCO.
 
 A continuación te compartimos algunos de los sitios de mayor interés de la **capital tlaxcalteca**, destacando las **iglesias** y **ex conventos** de su **Centro** Histórico, y siguiendo por algunos **museos** y edificaciones de interés.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Oaxaca de Juárez: cinco cosas que hacer en la capital oaxaqueña**](https://blog.tonoysumariachi.com/turismo/2022/08/11/oaxaca-de-juarez-cinco-cosas-que-hacer-en-la-capital-oaxaquena.html)**.**
 
 ## Centro Histórico
 
@@ -49,7 +49,7 @@ Regresando al primer cuadro del **Centro Histórico**, vale la pena dar un vista
 
 ## Catedral de Tlaxcala
 
-La **Catedral de Nuestra Señora de la Asunción** forma parte del Conjunto Conventual y Catedralicio de Nuestra Señora de la Asunción de Tlaxcala, el cual recientemente fue declarado Patrimonio de la Humanidad por la UNESCO. Fue conocido como Templo de San Francisco y es una de las construcciones religiosas más antiguas de México, pues data del año 1530. Cuenta con un pequeño atrio, una capilla abierta y una capilla posa —es decir, una construcción abovedada en una de las esquinas del atrio—, varias capillas internas, un sagrario y el altar principal. 
+La **Catedral de Nuestra Señora de la Asunción** forma parte del Conjunto Conventual y Catedralicio de Nuestra Señora de la Asunción de Tlaxcala, el cual recientemente fue declarado Patrimonio de la Humanidad por la UNESCO. Fue conocido como Templo de San Francisco y es una de las construcciones religiosas más antiguas de México, pues data del año 1530. Cuenta con un pequeño atrio, una capilla abierta y una capilla posa —es decir, una construcción abovedada en una de las esquinas del atrio—, varias capillas internas, un sagrario y el altar principal.
 
 Además, está el **ex convento** franciscano, que es visible cuando uno ingresa a la ciudad desde San Martín Texmelucan. Y, por si fuera poco, en lo que fuera el claustro del convento se encuentra el **Museo Regional de Tlaxcala**, que consta de cinco salas y donde existen muestras del arte y la arqueología del pueblo **tlaxcalteca**, así como obras de arte sacro, objetos y pinturas de la época colonial. Con todo lo anterior, ¿nos queda claro que **Tlaxcala** sí existe?
 
