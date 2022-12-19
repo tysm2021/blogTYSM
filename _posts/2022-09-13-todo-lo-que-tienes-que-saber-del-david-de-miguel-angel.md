@@ -27,7 +27,7 @@ Es una de las obras de arte más famosas y más hermosas del mundo, y fue creada
 
 Como dato curioso, vale la pena mencionar que en México tenemos una réplica del '**David**' de **Miguel Ánge**l, aunque está hecha en bronce, la cual se puede contemplar en la Plaza Río de Janeiro, una de las más visitadas en la colonia Roma de la Ciudad de México.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Las torres más famosas de todo el mundo.**](https://blog.tonoysumariachi.com/mundo/2022/07/28/las-torres-mas-famosas-de-todo-el-mundo.html)
 
 ### ¿Quién la hizo?
 
@@ -43,7 +43,7 @@ La escultura que nos ocupa en este artículo representa a nadie menos que al fam
 
 ### ¿Cuándo se esculpió?
 
-Luego de que dos notables escultores empezaron a tallar un enorme bloque del afamado mármol traído de Carrara, Italia, **Miguel Ángel** convenció a la poderosa unión de comerciantes florentinos de la lana, de que él era el escultor adecuado para completar la tarea de esculpir al monumental rey **David**. Así, empezó a trabajar en el bloque la mañana del 13 de septiembre de **1501** y terminó la escultura a mediados del mes de junio de **1504**. 
+Luego de que dos notables escultores empezaron a tallar un enorme bloque del afamado mármol traído de Carrara, Italia, **Miguel Ángel** convenció a la poderosa unión de comerciantes florentinos de la lana, de que él era el escultor adecuado para completar la tarea de esculpir al monumental rey **David**. Así, empezó a trabajar en el bloque la mañana del 13 de septiembre de **1501** y terminó la escultura a mediados del mes de junio de **1504**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Michelangelo%27s_David.JPG/685px-Michelangelo%27s_David.JPG)
 
