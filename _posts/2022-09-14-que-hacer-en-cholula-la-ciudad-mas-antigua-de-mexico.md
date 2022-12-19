@@ -27,7 +27,7 @@ En el estado de **Puebla**, a tan sólo 8 kilómetros de distancia de la capital
 
 Además, hay que tomar en cuenta que se trata de **la ciudad mexicana más antigua** que aún sigue habitada, pues los primeros vestigios de ocupación humana datan del siglo XII antes de nuestra era.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**La zona arqueológica de Malinalco y su historia**](https://blog.tonoysumariachi.com/turismo/2022/04/20/la-zona-arqueologica-de-malinalco-y-su-historia.html)**.**
 
 ### Historia
 
@@ -51,7 +51,7 @@ Parte del paseo consiste en recorrer los túneles internos de la **pirámide**, 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ex-Convento_de_San_Gabriel_-_Cholula_-_Mexico_%2825129760488%29.jpg/1024px-Ex-Convento_de_San_Gabriel_-_Cholula_-_Mexico_%2825129760488%29.jpg)
 
-Otra construcción imperdible, esta de manufactura colonial, es el **Ex Convento de San Gabriel Arcángel**, uno de los más antiguos de América. Este edificio fue fundado por la orden Franciscana y muestra una arquitectura de estilo con influencias del gótico y del barroco, con numerosas cúpulas que pueden ser vistas desde la Pirámide; comenzó a construirse en mayo de 1529, sobre un lugar donde se rendía culto al dios Quetzalcóatl, y se terminó en agosto de 1531. Anexo a este templo está la **Capilla Real o de Naturales**, que fue erigida en 1540 con el propósito de evangelizar a los indígenas de la zona. 
+Otra construcción imperdible, esta de manufactura colonial, es el **Ex Convento de San Gabriel Arcángel**, uno de los más antiguos de América. Este edificio fue fundado por la orden Franciscana y muestra una arquitectura de estilo con influencias del gótico y del barroco, con numerosas cúpulas que pueden ser vistas desde la Pirámide; comenzó a construirse en mayo de 1529, sobre un lugar donde se rendía culto al dios Quetzalcóatl, y se terminó en agosto de 1531. Anexo a este templo está la **Capilla Real o de Naturales**, que fue erigida en 1540 con el propósito de evangelizar a los indígenas de la zona.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2CenterfromNorthLeftCapillaReal.JPG/1024px-2CenterfromNorthLeftCapillaReal.JPG)
 
