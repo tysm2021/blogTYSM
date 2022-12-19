@@ -27,7 +27,7 @@ Desde tiempos inmemoriales, el **amaranto** ha formado parte de nuestras dietas 
 
 Así pues, démosle "una mordida" a la **historia** del **amaranto** y veamos la importancia que ha tenido en nuestra vida diaria, para después revisar sus **propiedades nutricionales** y las distintas maneras en que podemos **consumirlo**, ya sea por deleite o como **complemento** a nuestra **alimentación**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Mango manila, ataulfo y petacón: ¿Cuál es la diferencia?**](https://blog.tonoysumariachi.com/gastronomia/2022/07/19/mango-manila-ataulfo-y-petacon-cual-es-la-diferencia.html)
 
 Resulta curioso que usemos una palabra extranjera para referirnos a esta planta tan mexicana, pues **amaranto** proviene del griego _amaranthos_, que significa 'siempre viva', refiriéndose a las bracteas de las inflorescencias, que nunca se marchitan. En el México antiguo se le llamaba _huauhtli_ en náhuatl, _ahparie_ en purépecha, _tez_ o _xtes_ en maya, y era conocido como _wa’ve_ entre los wixáricas y como _guegui_ entre los rarámuri —a quienes erróneamente llamamos tarahumaras—; como podemos ver, es una planta que ha sido utilizada por múltiples generaciones de los pueblos originarios.
 
