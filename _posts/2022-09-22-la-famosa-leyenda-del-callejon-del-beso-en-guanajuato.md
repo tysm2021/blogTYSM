@@ -27,7 +27,7 @@ La ciudad de **Guanajuato**, capital del estado del mismo nombres, es una urbe q
 
 Conozcamos de qué va esta famosa **leyenda**, y sepamos también qué es lo que tenemos que hacer cuando visitemos este pintoresco lugar… no vaya a ser que nos caiga la maldición si no cumplimos con el ritual.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Tres museos que visitar en la ciudad de Guanajuato**](https://blog.tonoysumariachi.com/turismo/2022/04/21/tres-museos-que-visitar-en-la-ciudad-de-guanajuato.html)**.**
 
 **Guanajuato** fue una población minera que poco a poco fue creciendo y poblándose de gente que resultaba atraída por la riqueza del lugar y por el hallazgo de la abundante plata que era extraída de sus yacimientos. Pero, en un principio, estaba poblada prácticamente sólo por españoles y criollos, los cuales eran muy devotos y celosos de la moral y de los preceptos católicos.
 
