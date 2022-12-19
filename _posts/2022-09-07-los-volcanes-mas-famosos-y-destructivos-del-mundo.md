@@ -27,7 +27,7 @@ A veces olvidamos que nuestro **mundo** no es un planeta estático y que, debajo
 
 Hagamos, a continuación, un breve recuento a lo largo del tiempo y de la historia, para visitar a estas montañas de fuego, las cuales han causado el nacimiento y la muerte de muchas civilizaciones, y han tenido el poder de incluso apagar momentáneamente el brillo del Sol…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Gerardo Murillo: el Dr. Atl, sus increíbles volcanes y paisajes**](https://blog.tonoysumariachi.com/cultura/2022/11/25/gerardo-murillo-el-dr.atl-sus-increibles-volcanes-y-paisajes.html)**.**
 
 ## Vesubio
 
@@ -45,7 +45,7 @@ El **Krakatoa** o **Krakatau** fue un **volcán** ubicado en el estrecho de Sond
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mount_Etna_2021_eruption.jpg/1024px-Mount_Etna_2021_eruption.jpg)
 
-Se trata de uno de los **volcanes** más activos del mundo actualmente. Su nombre deriva de la mitología griega, pues se creía que era el **volcán** donde se encontraba la fragua del dios del fuego, Hefesto. Se ubica muy cerca de la ciudad de Catania, en la isla italiana de **Sicilia**. Tiene alrededor de 3357 metros de altura y está en actividad constante, pues tiene cuatro cráteres en su cumbre y más de 60 ventilaciones en las laderas. Tan sólo en el siglo XX y lo que va del siglo XXI, se han registrado más de 30 erupciones. 
+Se trata de uno de los **volcanes** más activos del mundo actualmente. Su nombre deriva de la mitología griega, pues se creía que era el **volcán** donde se encontraba la fragua del dios del fuego, Hefesto. Se ubica muy cerca de la ciudad de Catania, en la isla italiana de **Sicilia**. Tiene alrededor de 3357 metros de altura y está en actividad constante, pues tiene cuatro cráteres en su cumbre y más de 60 ventilaciones en las laderas. Tan sólo en el siglo XX y lo que va del siglo XXI, se han registrado más de 30 erupciones.
 
 ## Monte Santa Helena
 
