@@ -27,7 +27,7 @@ Ubicado en la ciudad de **París**, **Francia** el **Museo del Louvre** —_Mus�
 
 Quienes lo conocen, dicen que su colección es tan vasta y su edificio tan grandioso, que un día no basta para conocerlo completo; esa es la razón por la que el ticket de entrada es útil para varios días.
 
-TE RECOMENDAMOS: 
+**TE RECOMENDAMOS:** [**¿Cuáles son los museos más visitados de México?**](https://blog.tonoysumariachi.com/turismo/2022/06/07/cuales-son-los-museos-mas-visitados-de-mexico.html)
 
 El **Museo del Louvre** se encuentra en la orilla derecha del río Sena, en **París**, la capital de Francia, en un edificio que originalmente era conocido como el Palacio Real (Palais Royal) o **Palacio del Louvre**. Se le considera el **museo** nacional de Francia, y está consagrado al arte universal, con piezas de todas las bellas artes así como de la arqueología y de las artes decorativas. Según estadísticas de los últimos años, ha sido y sigue siendo el museo más visitado del todo el mundo.
 
