@@ -27,13 +27,13 @@ Las hemos visto en tianguis, mercados y tiendas de autoservicio, y a menudo uno 
 
 Lo que sí es un hecho es que, aunque sus nombres pueden confundirnos, ambas **frutas** se consideran "**exóticas**" y son igualmente deliciosas y nutritivas.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Xoconostle: el colorido fruto del nopal, sus usos y beneficios**](https://blog.tonoysumariachi.com/gastronomia/2022/11/29/xoconostle-el-colorido-fruto-del-nopal-sus-usos-y-beneficios.html)**.**
 
 Las **pitayas** y las **pitahayas** son frutas consideradas exóticas y son nativas de algunas regiones de México y de América Central; tienen un origen común, pero son diferentes. Su nombre proviene de la lengua antillana y significa "**fruta** escamosa", aunque en otros lugares se les conoce como frutas del dragón o _dragonfruits_, en inglés. Para los biólogos, ambas pertenecen a la familia de las _Cactaceae_, pero pertenecen a géneros distintos: la pitahaya pertenece al género _Hylocereus_ y la pitaya, al _Selenicereus_.
 
 La manera más sencilla de distinguirlas son las espinas: las **pitahayas**, aunque son el **fruto** de un cactus, no tienen espinas, y las **pitayas** sí. En general, la pitahaya es una fruta de forma ovoide, un poco redondeada y alargada, y su pulpa puede ser roja, blanca o amarilla con pequeñas semillas negras; su sabor es menos dulce que el de la **pitaya**. En cuanto al color de la piel, puede ser rosa o amarillo.
 
- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pitaya_cross_section_ed2.jpg/941px-Pitaya_cross_section_ed2.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pitaya_cross_section_ed2.jpg/941px-Pitaya_cross_section_ed2.jpg)
 
 Las **pitayas**, por su parte, son frutos espinosos también de forma ovoide y semiredondeada, cuya pulpa es blanca, roja, amarilla, morada o de un color rojo-violeta, y tiene una gran cantidad de pequeñas semillas negras. Su sabor es muy dulce, un tanto similar al de las tunas. En cuanto a la producción de estos frutos, según cifras del Gobierno de México, el estado de Oaxaca es el principal productor de pitayas, pues genera el 43% de la producción total en el país; en cuanto a las pitahayas, destaca Yucatán, con casi el 70% del producto nacional.
 
