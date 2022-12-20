@@ -47,6 +47,8 @@ Oficialmente llamado República de **San Marino**, este país está enclavado en
 
 ¿Habías oído hablar de **Tuvalu**? Nosotros tampoco, pero se trata de un país insular —es decir, de una isla que se constituye en **Estado** independiente— de apenas 26 kilómetros cuadrados de superficie y con una población de 11,900 personas, cifra que lo convierte en el segundo **país** con la menor población del mundo, sólo detrás de la Ciudad del Vaticano. Se encuentra en el continente de Oceanía, en la región polinesia, a unos 4 mil kilómetros de distancia de Australia y de Hawai, consta de cuatro arrecifes de coral y cinco atolones, y su ciudad capital se llama **Funafuti**. Por su condición geográfica, la economía de Tuvalu es básicamente para el auto consumo, así que gran parte de su pequeña población se dedica a la pesa y la agricultura.
 
+**TE RECOMENDAMOS:** [**Origen y significado del nombre de los cinco continentes**](https://blog.tonoysumariachi.com/mundo/2022/08/15/origen-y-significado-del-nombre-de-los-cinco-continentes.html)**.**
+
 ## Nauru
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Menen_Hotel_%2815219270317%29.jpg/1024px-Menen_Hotel_%2815219270317%29.jpg)
