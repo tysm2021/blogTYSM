@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-08-19-1280px-los_prismas_basalticos.jpeg"
 sharing: true
-title: 'Prismas basálticos: maravilla natural en el estado de Hidalgo'
+title: 'Prismas Basálticos: maravilla natural en el estado de Hidalgo'
 summary: Por sus angulosas formas geométricas, estos prismas sorprenden a los turistas;
   ¿dónde están y cómo surgieron?
 cover: "/images/2022-08-19-1280px-los_prismas_basalticos.jpeg"
@@ -23,11 +23,11 @@ show_author_profile: false
 comment: false
 
 ---
-En el estado de **Hidalgo**, muy cerca del Pueblo Mágico de **Huasca de Ocampo** y de la Hacienda de **Santa María Regla**, se encuentra esta maravilla natural que se conoce como los **Prismas Basáltico**s. ¿Cuál es el **origen** de estas formaciones rocosas, **cómo llegar** a ellas y qué **actividades** pueden hacerse en este sitio?
+En el estado de **Hidalgo**, muy cerca del Pueblo Mágico de **Huasca de Ocampo** y de la Hacienda de **Santa María Regla**, se encuentra esta maravilla natural que se conoce como los **Prismas Basálticos**. ¿Cuál es el **origen** de estas formaciones rocosas, **cómo llegar** a ellas y qué **actividades** pueden hacerse en este sitio?
 
 A continuación te platicamos de estas curiosas formaciones de **basalto** que desde hace siglos han maravillado a visitantes y turistas por su inusual apariencia geométrica, que las hace parecer más una escultura que una obra de la naturaleza.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles son las playas más visitadas de México?**](https://blog.tonoysumariachi.com/turismo/2022/07/29/cuales-son-las-playas-mas-visitadas-de-mexico.html)
 
 Los **Prismas Basálticos** son una formación en forma de columnas que se encuentra en el estado de **Hidalgo**, específicamente en la Barranca de **Santa María Regla**, la cual se formó por el flujo del río San Antonio Regla. Cada una de ellas tiene un diámetro aproximado de unos 80 centímetros y una altura que puede alcanzar los 30 o 40 metros; están bañadas por cuatro caídas de agua o cascadas, alimentadas por ya mencionado río. Se encuentran a unos 38 kilómetros de Pachuca, la capital del estado, y a menos de 7 km del Pueblo Mágico de **Huasca de Ocampo**.
 
