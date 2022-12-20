@@ -27,7 +27,7 @@ En el mundo actual, dividido entre **países** y sus fronteras, al mirar un mapa
 
 A continuación, te decimos cómo se llaman y **cuánto miden** estos "micro países" que cuentan con su propia bandera, su moneda y todas las instituciones que los hacen un **estado** libre, además del reconocimiento del resto de los **países** del mundo —descartamos de esta lista a los territorios, regiones o dependencias de otros **países**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles son los países con más hablantes de español?**](https://blog.tonoysumariachi.com/mundo/2022/07/22/cuales-son-los-paises-con-mas-hablantes-de-espanol.html)
 
 ## Liechtenstein
 
@@ -51,7 +51,7 @@ Oficialmente llamado República de **San Marino**, este país está enclavado en
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Menen_Hotel_%2815219270317%29.jpg/1024px-Menen_Hotel_%2815219270317%29.jpg)
 
-Otro pequeño país insular que se halla en el centro del Océano Pacífico, en la región conocida como la Micronesia, y consta de una sola isla situada justo sobre la línea del Ecuador. La capital de la República de **Nauru** se llama Yaren, y la población total del país es de unos 11 mil 500 habitantes, que ocupan los 23.1 kilómetros cuadrados de superficie que tiene su isla. Es un **Estado** independiente desde 1968, cuando se emancipó de Australia, y gran parte de su prosperidad económica se debe a la explotación de los depósitos de fosfato que se encuentran en la isla, el cual se usa como fertilizante y se exporta mayormente a la vecina Australia. 
+Otro pequeño país insular que se halla en el centro del Océano Pacífico, en la región conocida como la Micronesia, y consta de una sola isla situada justo sobre la línea del Ecuador. La capital de la República de **Nauru** se llama Yaren, y la población total del país es de unos 11 mil 500 habitantes, que ocupan los 23.1 kilómetros cuadrados de superficie que tiene su isla. Es un **Estado** independiente desde 1968, cuando se emancipó de Australia, y gran parte de su prosperidad económica se debe a la explotación de los depósitos de fosfato que se encuentran en la isla, el cual se usa como fertilizante y se exporta mayormente a la vecina Australia.
 
 ## Mónaco
 
