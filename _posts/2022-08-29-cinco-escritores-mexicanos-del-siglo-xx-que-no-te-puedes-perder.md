@@ -27,7 +27,7 @@ comment: false
 
 Además de presentarte a grandes rasgos al autor, también te recomendamos sus obras más conocidas, o bien, aquellas con las que resulta más fácil iniciarse en la lectura. Y el que los libros cada día estén más caros no es pretexto, pues aún sigue habiendo bibliotecas públicas y librerías de segunda mano, donde podrás dar rienda suelta a tus ganas de leer.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Premios Nobel mexicanos: cuántos y quiénes son**](https://blog.tonoysumariachi.com/cultura/2022/04/22/premios-nobel-mexicanos-cuantos-y-quienes-son.html)**.**
 
 ## Juan Rulfo
 
