@@ -37,11 +37,11 @@ Enseguida, debemos mencionar a **José María Morelos y Pavón**, continuador de
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/25/Mexico.JoseMariaMorelos.01.jpg)
 
-Luego de la muerte de Morelos, vino la tercera etapa de la Independencia, que se libró mayormente a base de la "guerra de guerrillas". De esta etapa, destacan **Francisco Xavier Min**a, un español que se unió a la causa insurgente, y el jalisciense **Pedro Moreno**, lugarteniente de Mina que murió en octubre de 1817, durante el sitio del rancho "El Venadito", en el que el propio Mina fue apresado y fusilado dos meses más tarde.
+Luego de la muerte de Morelos, vino la tercera etapa de la Independencia, que se libró mayormente a base de la "guerra de guerrillas". De esta etapa, destacan **Francisco Xavier Mina**, un español que se unió a la causa insurgente, y el jalisciense **Pedro Moreno**, lugarteniente de Mina que murió en octubre de 1817, durante el sitio del rancho "El Venadito", en el que el propio Mina fue apresado y fusilado dos meses más tarde.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a3/Thomas_wright-general_xavier_mina-bn.jpg)
 
-De esta etapa también destaca el militar zacatecano **Víctor Rosales**, quien estaba al mando de Ignacio López Rayón —el cual, extrañamente debido a su gran importancia en la lucha de Independencia, está enterrado en la Iglesia de la Santa Veracruz, en el centro de la Ciudad de México—; **Rosales** murió en el Rancho de la Campana, situado en Ario, Michoacán, mientras enfrentaba a las fuerzas realistas.
+De esta etapa también destaca el militar zacatecano **Víctor Rosales**, quien estaba bajo las órdenes de Ignacio López Rayón —quien, extrañamente debido a su gran importancia en la lucha de Independencia, está enterrado en la Iglesia de la Santa Veracruz, en el centro de la Ciudad de México—; **Rosales** murió en el Rancho de la Campana, situado en Ario, Michoacán, mientras enfrentaba a las fuerzas realistas.
 
 De la última etapa de la Independencia, conocida como la Consumación, en el Ángel descansan los restos de **Vicente Guerrero**, artífice de la independencia junto con Agustín de Iturbide —quien seguramente por sus aires de emperador fue excluido de este mausoleo—, quien vio terminada la lucha e incluso fue presidente de México, pero fue traicionado por un mercenario genovés que trabajaba para Anastasio Bustamante y fue fusilado mientras ocupaba el cargo, en 1831.
 
