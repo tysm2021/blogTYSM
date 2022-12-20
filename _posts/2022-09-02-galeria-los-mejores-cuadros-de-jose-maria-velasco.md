@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-09-02-1280px-jose_maria_velasco_en_el_munal_dsc0287_-35357396650.jpeg"
 sharing: true
-title: 'GALERÍA: Los mejores cuadros de José María Velasco'
+title: 'GALERÍA: Las mejores pinturas de José María Velasco'
 summary: Conoce la obra de este pintor, considerado uno de los mejores paisajistas
   mexicanos de todos los tiempos…
 cover: "/images/2022-09-02-1280px-jose_maria_velasco_en_el_munal_dsc0287_-35357396650.jpeg"
