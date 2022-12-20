@@ -29,7 +29,7 @@ Enseguida te platicamos un poco acerca de esta notable artesanía mexicana, la c
 
 **TE RECOMENDAMOS:** [**Alebrijes: la historia de estas fantásticas criaturas**](https://blog.tonoysumariachi.com/mexicanisimos/2022/11/22/alebrijes-la-historia-de-estas-fantasticas-criaturas.html)**.**
 
-**Olinalá** es una población del estado de **Guerrero**. Se encuentra en el municipio del mismo nombre, ubicada en la región de La Montaña, en la parte oriental de la entidad, colindando con el vecino estado de Puebla. Su artesanía más famosa es, sin duda, la **madera de olinalá**, también conocida como "el **olinalá**", que consiste en una técnica de laqueado con la que se producen principalmente **cajas** y baúles, aunque también se aplica en joyeros, biombos, fruteros, alhajeros y marcos de madera.
+**Olinalá** es una población del estado de **Guerrero**. Se encuentra en el municipio del mismo nombre, ubicada en la región de La Montaña, en la parte oriental de la entidad, colindando con el vecino estado de Puebla. Su artesanía más famosa es, sin duda, la **madera de Olinalá**, también conocida como "el **olinalá**", que consiste en una técnica de laqueado con la que se producen principalmente **cajas** y baúles, aunque también se aplica en joyeros, biombos, fruteros, alhajeros y marcos de madera.
 
 Un rasgo característico del **olinalá** es el **aroma** agradable que despide la madera del árbol conocido como **lináloe** —cuyo nombre científico es _Bursera linanoe_—, el cual de hecho dio nombre a la entidad. La fragancia intensa y cítrica que despide esta materia prima es muy apreciada entre los coleccionistas y compradores de **artesanías**, que mucho se complacen cuando abren una de estas cajas y perciben el tenue perfume de la pieza.
 
