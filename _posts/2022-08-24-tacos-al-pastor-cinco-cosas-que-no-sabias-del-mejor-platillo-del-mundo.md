@@ -23,7 +23,7 @@ show_author_profile: false
 comment: false
 
 ---
-Sobre todo en la **Ciudad de México** y sus alrededores del centro del país, las noches se llenan de puestos callejeros donde hábiles **taqueros** hacen girar enormes "trompos" de carne de cerdo fileteada y adobada, que se asan en hornos verticales —hoy alimentados con gas; antiguamente y en algunos establecimientos muy ortodoxos, funcionan a base de brasas de carbón— y de donde se obtienen las deliciosas láminas de carne que, aderezadas con un trocito de piña, llamamos "**tacos al pastor**".
+Sobre todo en la **Ciudad de México** y sus alrededores del centro del país, las noches se llenan de puestos callejeros donde hábiles **taqueros** hacen girar enormes "**trompos**" de carne de cerdo fileteada y adobada, que se asan en hornos verticales —hoy alimentados con gas; antiguamente y en algunos establecimientos muy ortodoxos, funcionan a base de brasas de carbón— y de donde se obtienen las deliciosas láminas de carne que, aderezadas con un trocito de piña, llamamos "**tacos al pastor**".
 
 A continuación te compartimos **cinco cosas que no sabías** acerca de estos populares **tacos**, que alguna vez fueron reconocidos como "el **mejor platillo del mundo**" por una guía gastronómica en el que votan conocedores y entusiastas culinarios de todo el planeta…
 
