@@ -27,7 +27,7 @@ En temporada de lluvias y debido a la humedad, algunas mazorcas del **maíz** ll
 
 ¿Cuál es el origen de este **hongo** y cómo fue que se convirtió en uno de los alimentos más ricos, exóticos y codiciados de nuestra gastronomía, sobre todo en el centro de **México**? Sigue leyendo para enterarte de los detalles…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Escamoles, chapulines y otros insectos comestibles de México**](https://blog.tonoysumariachi.com/gastronomia/2022/06/09/escamoles-chapulines-y-otros-insectos-comestibles-de-mexico.html)**.**
 
 El **huitlacoche** o **cuitlacoche**, cuyo nombre científico es _Ustilado maydis_, es un **hongo** que crece entre las mazorcas del **maíz** y que tiene una larga historia en el cultivo y el aprovechamiento de este grano dentro de la **gastronomía** mexicana, al grado de convertirse en uno de los **alimentos** tradicionales de nuestra cocina.
 
