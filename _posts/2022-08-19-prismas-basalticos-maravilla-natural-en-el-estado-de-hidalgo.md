@@ -35,7 +35,7 @@ Los **Prismas Basálticos** son una formación en forma de columnas que se encue
 
 ¿A qué se debe su forma? Resulta que los geólogos reconocen que los **Prismas** son columnas **basálticas**, las cuales se definen como "formaciones regulares de pilares más o menos verticales, con forma de prismas poligonales —predominan los hexagonales—, que se forman por la fractura progresiva de la roca durante el enfriamiento relativamente lento de la lava basáltica". El basalto, por cierto, es una roca ígnea o magmática que se genera a partir del enfriamiento de la lava volcánica y es muy abundante en la corteza terrestre.
 
-Los Prismas Basálticos fueron descubiertos hace más de 200 años por algunos de visitantes locales. Gran parte de su fama se la deben al explorador y erudito alemán **Alexander von Humboldt** quien, en 1803, durante una visita al lugar se asombró ante su belleza y rareza. Su visita quedó plasmada en un dibujo alojado en el Museo Británico de Londres.
+Los **Prismas Basálticos** fueron descubiertos hace más de 200 años por algunos de visitantes locales. Gran parte de su fama se la deben al explorador y erudito alemán **Alexander von Humboldt** quien, en 1803, durante una visita al lugar se asombró ante su belleza y rareza. Su visita quedó plasmada en un dibujo alojado en el Museo Británico de Londres.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/43/Vues_des_Cordill%C3%A8res%2C_et_monumens_des_peuples_indig%C3%A8nes_de_l%27Am%C3%A9rique_%281813%29_%2814781309784%29.jpg)
 
