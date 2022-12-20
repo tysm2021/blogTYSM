@@ -27,7 +27,7 @@ Al pueblo mexicano, hay que decirlo, simple y sencillamente le encanta la **comi
 
 Estas **expresiones** se cuentan por cientos, o quizá hasta por miles. Pero como este espacio es limitado, acá compartiremos y explicaremos algunas de las más usadas, **famosas** o singulares, o como se dice coloquialmente: "hay de chile, de dulce y de manteca".
 
-**TE RECOMENDAMOS:** [**La torta de tamal o guajolota y la leyenda de su orige**](https://blog.tonoysumariachi.com/gastronomia/2022/04/27/la-torta-de-tamal-o-guajolota-y-la-leyenda-de-su-origen.html)**n.**
+**TE RECOMENDAMOS:** [**La torta de tamal o guajolota y la leyenda de su origen**](https://blog.tonoysumariachi.com/gastronomia/2022/04/27/la-torta-de-tamal-o-guajolota-y-la-leyenda-de-su-origen.html)**.**
 
 ### Al que nace pa' tamal, del cielo le caen las hojas
 
