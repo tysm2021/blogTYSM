@@ -27,7 +27,7 @@ El **Monumento a la Independencia**, popularmente conocido como "El **Ángel**" 
 
 A continuación, te contamos quiénes están **enterrados** —por así decirlo, porque no es que estén propiamente depositados bajo tierra— en el famoso **Ángel de la Independencia**, y qué papel jugaron durante la lucha **insurgente** que culminó con la **independencia** política de la Nueva España, la cual marcó el comienzo de la nación mexicana que hoy conocemos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Apodos y títulos de los héroes y heroínas de la historia de México**](https://blog.tonoysumariachi.com/historia/2022/07/15/apodos-y-sobrenombres-de-los-heroes-y-heroinas-de-la-historia-de-mexico.html)**.**
 
 En primer lugar, desde luego que están los primeros insurgentes, aquellos que iniciaron la Guerra de Independencia la madrugada del 16 de septiembre de 1810, y que un año después sería capturados, enjuiciados y condenados a muerte para que después sus cabezas fueran exhibidas como escarmiento en las cuatro esquinas de la Alhóndiga de Granaditas en el año de 1811. Nos referimos, desde luego, a **Miguel Hidalgo y Costilla**, **Ignacio Allende**, **Juan Aldama** y **Mariano Jiménez**.
 
