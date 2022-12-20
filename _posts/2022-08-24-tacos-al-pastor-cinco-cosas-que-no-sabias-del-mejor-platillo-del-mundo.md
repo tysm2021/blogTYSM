@@ -27,7 +27,7 @@ Sobre todo en la **Ciudad de México** y sus alrededores del centro del país, l
 
 A continuación te compartimos **cinco cosas que no sabías** acerca de estos populares **tacos**, que alguna vez fueron reconocidos como "el **mejor platillo del mundo**" por una guía gastronómica en el que votan conocedores y entusiastas culinarios de todo el planeta…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Las tortas más famosas y sabrosas de todo México**](https://blog.tonoysumariachi.com/gastronomia/2022/06/28/las-tortas-mas-famosas-y-sabrosas-de-todo-mexico.html)**.**
 
 ## Tienen origen árabe, turco y griego
 
