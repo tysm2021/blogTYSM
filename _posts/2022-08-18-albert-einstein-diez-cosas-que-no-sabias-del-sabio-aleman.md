@@ -27,11 +27,11 @@ El físico alemán **Albert Einstein** es, sin duda, uno de los **científicos**
 
 Empecemos diciendo que **Einstein** nació en Ulm, Alemania, el 14 de marzo de 1879, y murió en los Estados Unidos, específicamente en Princeton, Nueva Jersey, el 18 de abril de 1955. Veamos otros diez sorprendentes **datos** sobre su **vida**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Vincent van Gogh: ¿cuáles son sus pinturas más famosas?**](https://blog.tonoysumariachi.com/mundo/2022/10/03/vincent-van-gogh-sus-pinturas-mas-famosas.html)
 
 ## No reprobó matemáticas de niño
 
-Una leyenda popular, de esas que hasta los maestros de primaria nos cuentan con el fin de alentarnos, es que siendo pequeño **Albert Einstein** fue tomado por un niño un poco lento de aprendizaje e, incluso, por alguien sin talento para las **matemáticas**, al grado de que fue reprobado en esta materia con la que después desentrañaría la naturaleza del universo. Pero lo cierto es que el joven **Albert** era un alumno brillante en esta disciplina mientras estudió la educación básica en Múnich —aunque sí hay registros de que no le gustaba mucho la rigidez de la enseñanza—, y que si dejó sus estudios a los 15 años fue para salir de Alemania y evitar ser enrolado en el ejército. 
+Una leyenda popular, de esas que hasta los maestros de primaria nos cuentan con el fin de alentarnos, es que siendo pequeño **Albert Einstein** fue tomado por un niño un poco lento de aprendizaje e, incluso, por alguien sin talento para las **matemáticas**, al grado de que fue reprobado en esta materia con la que después desentrañaría la naturaleza del universo. Pero lo cierto es que el joven **Albert** era un alumno brillante en esta disciplina mientras estudió la educación básica en Múnich —aunque sí hay registros de que no le gustaba mucho la rigidez de la enseñanza—, y que si dejó sus estudios a los 15 años fue para salir de Alemania y evitar ser enrolado en el ejército.
 
 ## Renunció a la ciudadanía alemana
 
@@ -54,6 +54,8 @@ La historia de Lieserl, la primera hija de **Einstein** y de Mileva, es un poco 
 Considerando su país de origen, una **Alemania** donde el nazismo alzaba el vuelo y ensombrecía el panorama mundial, y las filiaciones políticas de **Einstein**, que apoyaba el pacifismo, los derechos humanos, las causas sociales y otras ideologías consideradas "de izquierda", no es de extrañar que el FBI de los Estados Unidos no confiara plenamente en **Albert** y lo mantuviera espiado durante más de dos décadas. Según datos oficiales, la vigilancia sobre **Einstein** empezó en 1933, cuando llegó a establecerse a los Estados Unidos, y se prolongó durante 22 años, conformando un expediente de unas 1200 páginas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/780px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg)
+
+**TE RECOMENDAMOS:** [**Cinco castillos europeos que morirás por conocer**](https://blog.tonoysumariachi.com/mundo/2022/11/23/cinco-castillos-europeos-que-moriras-por-conocer.html)**.**
 
 ## Ofreció su Premio Nobel para divorciarse
 
