@@ -27,7 +27,7 @@ Con sus más de siete siglos de historia, la **Ciudad de México** —antes llam
 
 Pero, ¿qué tan cierta es esta afirmación que se ha popularizado en años recientes? Revisemos cierta información estadística de distintas fuentes periodísticas y en bases de datos, para hallar la verdad…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles son los museos más visitados de México?**](https://blog.tonoysumariachi.com/turismo/2022/06/07/cuales-son-los-museos-mas-visitados-de-mexico.html)
 
 Empezando por su Centro Histórico, y siguiendo por zonas de animosa vida cultural como Chapultepec, Polanco, Coyoacán, San Ángel o la Ciudad Universitaria, la **Ciudad de México** sin duda cuenta con una enorme oferta museística, teniendo decenas de **museos** para todos los gustos, edades, afinidades, pasatiempos o disciplinas de estudio. Pero no: tristemente, la **CdMx no es la ciudad con más museos en el mundo**.
 
