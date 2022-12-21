@@ -27,7 +27,7 @@ Se trata de un enorme monolito de color blanco calizo, en el que está labrada u
 
 A continuación te contamos lo que la leyenda cuenta sobre **Coyolxauhqui**, la historia sobre su asombroso **hallazgo** y las consecuencias que este hecho histórico tuvo en la cultura de México y en el conocimiento acerca del pueblo **mexica**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles eran los principales dioses mayas?**](https://blog.tonoysumariachi.com/historia/2022/09/21/cuales-eran-los-principales-dioses-mayas.html)
 
 La leyenda dice que, estando en el mítico cerro de Coatepec, la diosa madre **Coatlicue** estaba barriendo su casa cuando encontró un plumón —una especie de diente de león—, el cual recogió y "lo guardó en su seno", como cuando las señoras se guardan el monedero entre los pechos. Acto seguido, quedó embarazada del dios **Huitzilopochtli**, deidad máxima de los mexicas y dios de la guerra. Sin embargo, su otra hija, la diosa lunar **Coyolxauhqui**, no estaba conforme con el embarazo de su madre y, argumentando una deshonra, azuzó a sus hermanos —los 400 surianos o las cuatrocientas estrellas del sur— para levantarse contra su madre y matarla.
 
