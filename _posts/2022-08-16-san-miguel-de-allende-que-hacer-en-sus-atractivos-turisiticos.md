@@ -27,7 +27,7 @@ Ubicada en **Guanajuato**, la ciudad de **San Miguel de Allende** es un **destin
 
 Esta ciudad durante algún tiempo recibió el nombre de **San Miguel el Grande**, pues el santo patrón es San Miguel Arcángel; pero como ahí fue el sitio de nacimiento del insurgente Ignacio **Allende**, fue que se le puso el nombre con que la conocemos hoy en día. Conozcámosla un poco mejor…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Taxco de Alarcón: cinco cosas que hacer en este Pueblo Mágico**](https://blog.tonoysumariachi.com/turismo/2022/04/22/taxco-de-alarcon-cinco-cosas-que-hacer.html)**.**
 
 ### Conoce la Parroquia de San Miguel Arcángel
 
