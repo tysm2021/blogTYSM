@@ -27,7 +27,7 @@ Con sus quinientos setenta municipios, **Oaxaca** no podría ser un estado más 
 
 Ya sea que te guste caminar y admirar la **arquitectura**, que seas un entusiasta de nuestra **cultura** prehispánica, o que lo tuyo sea la **gastronomía**, la comida y las bebidas, a continuación te darás cuenta de que **Oaxaca** tiene algo que ofrecer para personas de todos los gustos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Benito Juárez, ¿por qué dijo: “el respeto al derecho ajeno es la paz”?**](https://blog.tonoysumariachi.com/historia/2022/12/01/benito-juarez-por-que-dijo-el-respeto-al-derecho-ajeno-es-la-paz.html)
 
 ## Recorre el Centro Histórico
 
