@@ -47,7 +47,7 @@ Como podrás ver en la foto, esa es la preparación básica: hay gente que le a�
 
 ## Échate un mezcal
 
-Quien va a **Oaxaca** y no prueba el **mezcal**… es como si no hubiera ido. Conocido por la calidad de sus destilados de agave, **Oaxaca** es el estado emblemático en la producción de **mezcal**, sobre todo en municipios como Santiago Matatlán o Sola de Vega y en Miahuatlán de Porfirio Díaz. Así que si andas en la capital, es muy probable que puedas acceder a botellas procedentes de todas partes del estado, las cuales han ganado fama nacional o internacional.
+Quien va a **Oaxaca** y no prueba el **mezcal**… es como si no hubiera ido. Conocido por la calidad de sus destilados de agave, **Oaxaca** es el estado emblemático en la producción de **mezcal**, sobre todo en municipios como Santiago Matatlán, Sola de Vega o Miahuatlán de Porfirio Díaz. Así que si andas en la capital, es muy probable que puedas acceder a botellas procedentes de todas partes del estado, las cuales han ganado fama nacional o internacional.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mezcal_y_naranja.jpg/1024px-Mezcal_y_naranja.jpg)
 
@@ -67,4 +67,4 @@ Algo que distingue al pueblo oaxaqueño es su enorme producción **cultural**: t
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Museo_Textil_de_Oaxaca_%28MTO%29.jpg/1024px-Museo_Textil_de_Oaxaca_%28MTO%29.jpg)
 
-No pueden faltar el **Museo de Arte Prehispánico de México Rufino Tamayo**, donde se exhibe la importante colección de piezas que el artista donó al pueblo oaxaqueño, y el Museo de Arte Contemporáneo de Oaxaca (MACO), especializado en piezas de arte de manufactura reciente. Cierra este breve conteo —y el artículo, de paso— el **Museo de Filatelia de Oaxaca** (MUFI), donde se exhiben timbres, sobres, cancelaciones, hojillas, arte, cartas y todo lo relacionado con el arte filatélico.
+No pueden faltar el **Museo de Arte Prehispánico de México Rufino Tamayo**, donde se exhibe la importante colección de piezas que el artista donó al pueblo oaxaqueño, y el **Museo de Arte Contemporáneo de Oaxaca** (MACO), especializado en piezas de arte de manufactura reciente. Cierra este breve conteo —y el artículo, de paso— el **Museo de Filatelia de Oaxaca** (MUFI), donde se exhiben timbres, sobres, cancelaciones, hojillas, arte, cartas y todo lo relacionado con el arte filatélico.
