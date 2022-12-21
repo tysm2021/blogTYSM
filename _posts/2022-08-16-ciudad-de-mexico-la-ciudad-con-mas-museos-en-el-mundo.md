@@ -23,7 +23,7 @@ show_author_profile: false
 comment: false
 
 ---
-Con sus más de siete siglos de historia, la **Ciudad de México** —antes llamada México-Tenochtitlan— es una megalópolis donde abundan los vestigios arqueológicos, los monumentos y palacios coloniales, edificios modernos como los rascacielos, y también hay una dinámica vida cultural, así como una abundante producción artística, lo que se refleja en el gran número de **museos** públicos y privados que existen en ella, lo que ha llevado a afirmar que es **la ciudad con más museos en el mundo**.
+Con sus más de siete siglos de historia, la **Ciudad de México** —antes llamada México-Tenochtitlan— es una megalópolis donde abundan los vestigios **arqueológicos**, los **monumentos** y palacios coloniales, **edificios** modernos como los rascacielos, y también hay una dinámica vida cultural, así como una abundante producción artística, lo que se refleja en el gran número de **museos** públicos y privados que existen en ella, lo que ha llevado a afirmar que es **la ciudad con más museos en el mundo**.
 
 Pero, ¿qué tan cierta es esta afirmación que se ha popularizado en años recientes? Revisemos cierta información estadística de distintas fuentes periodísticas y en bases de datos, para hallar la verdad…
 
