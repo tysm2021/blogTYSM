@@ -27,7 +27,7 @@ Todo mundo recuerda a **Miguel Hidalgo** porque, con su **Grito de Dolores**, di
 
 Todo empezó en la ciudad de Valladolid, que en tiempos de la Nueva España tenía ese nombre inspirado en el de una urbe española, pero que tras la Independencia fue conocida como **Morelia** en honor a este **insurgente**, y actualmente es la capital del estado de Michoacán.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Dónde está la tumba de Hernán Cortés?**](https://blog.tonoysumariachi.com/historia/2022/06/14/donde-esta-la-tumba-de-hernan-cortes.html)
 
 **José María Morelos y Pavón** nació el 30 de septiembre de 1765 en Valladolid, actualmente **Morelia** —llamada así en su honor—; estudió la carrera de sacerdote en el Colegio de San Nicolás, donde daba clases **Miguel Hidalgo**, y más tarde entró al Seminario de Valladolid, de donde se graduó en 1795. Cuatro más tarde fue nombrado cura de Carácuaro, donde permaneció hasta el inicio de la gesta insurgente.
 
@@ -49,7 +49,7 @@ En noviembre de 1812, luego de tomar Tehuacán y Orizaba, **Morelos** se lanzó 
 
 El 13 de septiembre de ese año, **Morelos** organizó el Congreso de Chilpancingo —también llamado Congreso de Anáhuac—, el cual era la primera reunión oficial de los insurgentes donde se declaró la independencia de América septentrional. En ese congreso **Morelos** dio lectura al famoso documento **"Sentimientos de la Nación"**, donde destacó la importancia de los derechos humanos y de la libertad; ese documento se considera el primer antecedente de la constitución política mexicana. En esa ocasión, Morelos fue nombrado Generalísimo y, ante la tentativa de ser reconocido como "Alteza Serenísima", el insurgente rechazó el cargo y se autonombró '**Siervo de la Nación**'.
 
-El 23 de diciembre, **Morelos**, Bravo y Galeana atacaron Valladolid, ciudad natal del primero, pero fueron repelidos. De ahí, una parte del ejército marchó a Puruarán en enero de 1814, donde Matamoros fue apresado, enjuiciado y fusilado, a pesar de que **Morelos** había ofrecido 300 soldados realistas a cambio de la vida del militar. El 22 de octubre de 1814, el Congreso promulgó en **Apatzingán** la primera constitución de la historia de México. El 5 de noviembre de 1815, **José María Morelos** fue capturado en Tezmalaca, Guerrero, junto con otros 200 soldados insurgentes, por las tropas de Manuel de la Concha. Morelos fue llevado a la Ciudad de México el 13 de noviembre de 1815 para ser enjuiciado. 
+El 23 de diciembre, **Morelos**, Bravo y Galeana atacaron Valladolid, ciudad natal del primero, pero fueron repelidos. De ahí, una parte del ejército marchó a Puruarán en enero de 1814, donde Matamoros fue apresado, enjuiciado y fusilado, a pesar de que **Morelos** había ofrecido 300 soldados realistas a cambio de la vida del militar. El 22 de octubre de 1814, el Congreso promulgó en **Apatzingán** la primera constitución de la historia de México. El 5 de noviembre de 1815, **José María Morelos** fue capturado en Tezmalaca, Guerrero, junto con otros 200 soldados insurgentes, por las tropas de Manuel de la Concha. Morelos fue llevado a la Ciudad de México el 13 de noviembre de 1815 para ser enjuiciado.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Fusilamiento_Morelos.jpg/1024px-Fusilamiento_Morelos.jpg)
 
