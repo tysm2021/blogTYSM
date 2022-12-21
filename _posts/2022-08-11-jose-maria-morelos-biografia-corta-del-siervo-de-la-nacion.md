@@ -41,6 +41,8 @@ Tras la muerte de los principales jefes insurgentes —Hidalgo, Allende, Aldama 
 
 Morelos trasladó sus operaciones a Chilapa, tomó Tlapa, Cuautla, Chiautla e Izúcar, donde estuvo a punto de ser capturado y conoció a otro sacerdote, **Mariano Matamoros**, que se unió a la causa insurgente y terminó convirtiéndose en la "mano derecha" de Morelos. En 1812, el general realista Félix María Calleja derrotó a los insurgentes en Zitácuaro, y como los españoles temían que Morelos fuera a tomar la Ciudad de México, Calleja recibió la orden de enfrentarlo en Cuautla.
 
+**TE RECOMENDAMOS:** [**27 de septiembre de 1821: Consumación de la Independencia de México**](https://blog.tonoysumariachi.com/historia/2022/08/15/27-de-septiembre-de-1821-consumacion-de-la-independencia-de-mexico.html)**.**
+
 El **sitio de Cuautla** duró más de sesenta días, en los que **Morelos** consideró seriamente entregar la plaza y los realistas estuvieron a punto de vencerlo, de no ser por la heroica acción de un niño llamado **Narciso Mendoza**, quien accionó un cañón para repeler a los realistas y por ello fue conocido como 'El Niño Artillero'. Después de dos meses, los insurgentes decidieron romper el sitio, de modo que el 2 de mayo de 1812 abandonaron la ciudad guerrerense.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/25/Mexico.JoseMariaMorelos.01.jpg)
