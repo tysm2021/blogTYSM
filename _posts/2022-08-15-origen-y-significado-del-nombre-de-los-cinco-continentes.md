@@ -27,13 +27,13 @@ Todos, o casi todos, desde las clases de **historia** y **geografía** en la pri
 
 A continuación, te explicamos en breves palabras por qué cada una de estas regiones del **mundo** recibe ese nombre. Te adelantamos que la respuesta involucra a marineros, a ciertas diosas y a la mitología antigua.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Quiénes construyeron Machu Picchu, en Perú?**](https://blog.tonoysumariachi.com/mundo/2022/11/17/quienes-construyeron-machu-picchu-en-peru.html)
 
 ## África
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Large-scale-old-map-of-africa-16xx.jpg/993px-Large-scale-old-map-of-africa-16xx.jpg)
 
-Muchos científicos creen que el género humano —es decir, la especie _Homo sapiens_— se generó en **África**, hace cerca de 300 mil años. Pero la historia del nombre de este continente es mucho más reciente: el **origen** más probable es que deriva del latín, ya que los antiguos romanos le llamaban así a la región que se encuentra al oeste del río Nilo; la palabra en sí, que los conocedores denominan como un "topónimo", proviene de una tribu local que era conocida como los **Afri**, nombre que a su vez deriva del griego ifri, que significa 'caverna'. Suponemos, entonces, que dicho pueblo bereber solía vivir en cuevas, ¿será?
+Muchos científicos creen que el género humano —es decir, la especie _Homo sapiens_— se generó en **África**, hace cerca de 300 mil años. Pero la historia del nombre de este continente es mucho más reciente: el **origen** más probable es que deriva del latín, ya que los antiguos romanos le llamaban así a la región que se encuentra al oeste del río Nilo; la palabra en sí, que los conocedores denominan como un "topónimo", proviene de una tribu local que era conocida como los **Afri**, nombre que a su vez deriva del griego _ifri_, que significa 'caverna'. Suponemos, entonces, que dicho pueblo bereber solía vivir en cuevas, ¿será?
 
 ## América
 
@@ -57,4 +57,4 @@ Esta historia es un poco más complicada. La versión más socorrida es que su o
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/1814_Thomson_Map_of_Australia%2C_New_Zealand_and_New_Guinea_-_Geographicus_-_Australia-thomson-1814.jpg/951px-1814_Thomson_Map_of_Australia%2C_New_Zealand_and_New_Guinea_-_Geographicus_-_Australia-thomson-1814.jpg)
 
-La última de estas historias se va muy al sur, al continente de **Oceanía**, nombre que significa "tierras oceánicas". Fue en los primeros años del siglo XIX que el geógrafo francés Conrad Malte-Brun usó el término _terres océaniques_ para referirse al conjunto de islas que rodean a la gran isla de Australia; unos años despúes otro francés, Adrian-Hubert Brué, abrevió el término a simplemente _Océanie_ y la identificó como un quinto continente unido por el océano. Hay que decir que algunos geógrafos muy estrictos no consideran a **Oceanía** un continente como tal, sino como la quinta "parte del mundo".
+La última de estas historias se va muy al sur, al continente de **Oceanía**, nombre que significa "tierras oceánicas". Fue en los primeros años del siglo XIX que el geógrafo francés Conrad Malte-Brun usó el término _terres océaniques_ para referirse al conjunto de islas que rodean a la gran isla de Australia; unos años después otro francés, Adrian-Hubert Brué, abrevió el término a simplemente _Océanie_ y la identificó como un quinto continente unido por el océano. Hay que decir que algunos geógrafos muy estrictos no consideran a **Oceanía** un continente como tal, sino como la quinta "parte del mundo".
