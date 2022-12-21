@@ -25,7 +25,7 @@ comment: false
 ---
 A lo largo de los siglos, el territorio y el estado que hoy llamamos **México** ha sido **gobernado** por distintas figuras: en la época prehispánica, había reyes y tlatoanis; tras la Conquista, la Nueva España fue regida por virreyes leales a la Corona española; pero ya como país independiente y con la excepción de dos emperadores, la Nación mexicana ha sido gobernada por un total de 65 **presidentes**. En este artículo, te presentaremos **datos curiosos** sobre algunos de ellos.
 
-Recordemos que desde 1824 México adoptó la forma de gobierno republicana y con división de poderes, que son tres: Legislativo, que elabora las leyes y está representado por las cámaras de diputados y senadores; el Judicial, que hace valer las leyes y dicta la justicia, representado por la Suprema Corte; y el **Ejecutivo**, que encabeza el **Presidente de la República**.
+Recordemos que desde 1824 México adoptó la forma de gobierno republicana y con división de poderes, que son tres: Legislativo, que elabora las leyes y está representado por las Cámaras de Diputados y de Senadores; el Judicial, que hace valer las leyes y dicta la justicia, representado por la Suprema Corte; y el **Ejecutivo**, que encabeza el **Presidente de la República**.
 
 **TE RECOMENDAMOS:** [**Antonio López de Santa Anna, ¿el peor presidente de la historia de México?**](https://blog.tonoysumariachi.com/historia/2022/11/11/antonio-lopez-de-santa-anna-el-peor-presidente-de-la-historia-de-mexico.html)
 
@@ -49,13 +49,15 @@ Aunque a lo largo de dos siglos de independencia ha habido diversos personajes q
 
 ## Más veces reelegido
 
-Algunos lo consideran el mejor presidente que ha tenido México, pues modernizó al país trayendo progreso e industrialización; otros, un dictador cuyas políticas beneficiaron grandemente a las clases altas y a los inversionistas extranjeros, empobreciendo a las clases bajas, casi esclavizando a los campesinos y eliminando de tajo a cualquier opositor. Así fue **Porfirio Díaz Mori**, quien ostenta el récord del presidente con más reelecciones, pues después de ser presidente en 1876, y luego de 1877 a 1880, ocupó la presidencia en 1884 y **se hizo reelegir seis veces**: en 1888, 1892, 1896, 1900, 1904 y 1910, sumando un tiempo efectivo de **treinta y un año**s.
+Algunos lo consideran el mejor presidente que ha tenido México, pues modernizó al país trayendo progreso e industrialización; otros, un dictador cuyas políticas beneficiaron grandemente a las clases altas y a los inversionistas extranjeros, empobreciendo a las clases bajas, casi esclavizando a los campesinos y eliminando de tajo a cualquier opositor. Así fue **Porfirio Díaz Mori**, quien ostenta el récord del presidente con más reelecciones, pues después de ser presidente en 1876, y luego de 1877 a 1880, ocupó la presidencia en 1884 y **se hizo reelegir seis veces**: en 1888, 1892, 1896, 1900, 1904 y 1910, sumando un tiempo efectivo de **treinta y un años**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Porfirio_Diaz.jpg/717px-Porfirio_Diaz.jpg)
 
+**TE RECOMENDAMOS:** [**La sangrienta historia del Día del Estudiante en México.**](https://blog.tonoysumariachi.com/historia/2022/06/16/la-sangrienta-historia-del-dia-del-estudiante-en-mexico.html)
+
 ## El gobierno más breve
 
-Este dudoso honor lo ostenta el presidente **Pedro Lascuráin**, quien ocupó la silla presidencial **sólo 45 minutos**, de las 17:15 a las 18:00 horas del 19 de febrero de 1913. Lo anterior se explica así: ante el exilio de Díaz, **Francisco I. Madero** tomó la presidencia con **José María Pino Suárez** como vicepresidente; sin embargo, el traidor Victoriano Huerta dio un golpe de estado e hizo firmar una renuncia forzada a ambos; ante tal situación, la Constitución estipulaba que el Secretario de Relaciones Exteriores —cargo que ocupaba Lascuráin— asumiera la presidencia interina. Los únicos dos actos que hizo en su gestión fue nombrar secretario de Gobernación a Huerta y, acto seguido, presentar su renuncia para dejar a ésta la presidencia en bandeja de plata.
+Este dudoso honor lo ostenta el presidente **Pedro Lascuráin**, quien ocupó la silla presidencial **sólo 45 minutos**, de las 17:15 a las 18:00 horas del 19 de febrero de 1913. Lo anterior se explica así: ante el exilio de Díaz, **Francisco I. Madero** tomó la presidencia con **José María Pino Suárez** como vicepresidente; sin embargo, el traidor Victoriano Huerta dio un golpe de estado e hizo firmar una renuncia forzada a ambos; ante tal situación, la Constitución estipulaba que el Secretario de Relaciones Exteriores —cargo que ocupaba Lascuráin— asumiera la presidencia interina. Los únicos dos actos que hizo en su gestión fue nombrar secretario de Gobernación a Huerta y, acto seguido, presentar su renuncia para dejar la presidencia en bandeja de plata al traidor Victoriano.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pedro_Lascurain.jpg/751px-Pedro_Lascurain.jpg)
 
