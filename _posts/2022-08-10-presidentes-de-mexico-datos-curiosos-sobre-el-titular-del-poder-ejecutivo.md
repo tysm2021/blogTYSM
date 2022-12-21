@@ -27,7 +27,7 @@ A lo largo de los siglos, el territorio y el estado que hoy llamamos **México**
 
 Recordemos que desde 1824 México adoptó la forma de gobierno republicana y con división de poderes, que son tres: Legislativo, que elabora las leyes y está representado por las cámaras de diputados y senadores; el Judicial, que hace valer las leyes y dicta la justicia, representado por la Suprema Corte; y el **Ejecutivo**, que encabeza el **Presidente de la República**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Antonio López de Santa Anna, ¿el peor presidente de la historia de México?**](https://blog.tonoysumariachi.com/historia/2022/11/11/antonio-lopez-de-santa-anna-el-peor-presidente-de-la-historia-de-mexico.html)
 
 ## Cambio de nombre
 
@@ -67,7 +67,7 @@ Muchos de nuestros presidentes fueron militares y, como tales, sufrieron heridas
 
 ## Curiosidades varias
 
-Para culminar con este breve recorrido, van cinco datos extra, uno tras otro: 
+Para culminar con este breve recorrido, van cinco datos extra, uno tras otro:
 
 * **Miguel Miramón** ha sido el presidente más joven que ha tenido México, pues llegó al poder por parte del Partido Conservador en febrero de 1859 a la edad de 27 años; en contraste, el presidente más longevo fue Porfirio Díaz, quien dejó el cargo el 1811 a la edad de 81 años.
 * Los siguientes **presidentes** eran solteros —o, al menos, no habían contraído matrimonio— en el momento que asumieron la **presidencia**: Guadalupe Victoria, Anastasio Bustamante, Pedro María Anaya, **Ignacio Comonfort**, Sebastián Lerdo de Tejada, Francisco S. Carvajal y Francisco Lagos Cházaro.
