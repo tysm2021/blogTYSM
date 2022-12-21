@@ -27,7 +27,7 @@ Hace algunas décadas, una tragedia de grandes dimensiones trajo a la luz esta *
 
 Aunque actualmente es un **remedio** conocido que se puede encontrar en forma de pomada casi cualquier farmacia o en negocios de **herbolaria** y **medicina** **alternativa**, fue hasta hace relativamente poco que su **uso** se popularizó. Aquí te contamos la historia…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Toloache, la hierba del amor: ¿en verdad sirve para que se enamoren de ti?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/18/toloache-la-hierba-del-amor-en-verdad-sirve-para-que-se-enamoren-de-ti.html)
 
 El 19 de noviembre de 1984, el norte de la Ciudad de México y parte del Estado de México se despertaron de súbito debido a varias explosiones que hicieron cimbrar las casas y rompieron o hicieron vibrar vidrios y ventanas. ¿La razón? Que en el pueblo de **San Juan Ixhuatepec** —mejor conocido como **San Juanico**—, un accidente hizo que explotaran varias de las gaseras que ahí se ubicaban, por lo que los quemados se contaban por decenas y una gran nube de humo daba fe de la tragedia que sucedía en esta colonia del municipio de Tlanepantla de Baz, Estado de México.
 
@@ -45,4 +45,4 @@ La efectividad del **tepezcohuite** radica en el poder cicatrizante de su cortez
 
 Según los médicos que trataron a los quemados de San Juanico, el **tepezcohuite** reporta grandes **beneficios** contra tres agentes nocivos propios de las **quemaduras** de segundo y tercer grados: el **dolor**, las **infecciones** y la **deshidratación**. Según un artículo de la Universidad Veracruzana, la "empanizada" con **tepezcohuite** tenía sus ventajas, pues el polvo vegetal formaba una masa que, al endurecerse, se convertía en una costra que protegía herméticamente el tejido subyacente; varias semanas después, al desprenderse la costra y lavar con agua tibia las heridas, la piel nueva y rosada aparecía casi siempre sin retracción e impecable.
 
-Actualmente, el **tepezcohuite** se comercializa en pomada y ungüentos, aunque quienes saben dicen que la mejor manera de aplicarse es, justo, obteniendo la **corteza** seca, moliéndola hasta reducirla a un polvo con el que se "empaniza" la piel para obtener los mejores beneficios. Fuera del ámbito terapéutico, algunas personas reportan también un uso estético, pues reduce las manchas y las cicatrices en el cutis del rostro. 
+Actualmente, el **tepezcohuite** se comercializa en pomada y ungüentos, aunque quienes saben dicen que la mejor manera de aplicarse es, justo, obteniendo la **corteza** seca, moliéndola hasta reducirla a un polvo con el que se "empaniza" la piel para obtener los mejores beneficios. Fuera del ámbito terapéutico, algunas personas reportan también un uso estético, pues reduce las manchas y las cicatrices en el cutis del rostro.
