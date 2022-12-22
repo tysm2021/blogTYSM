@@ -27,7 +27,7 @@ Cuando llegan las **vacaciones**, uno de los destinos favoritos de las familias 
 
 A continuación, las cinco **playas mexicanas más populares**, según estadísticas de la Secretaría de Turismo. Quizá te sorprenda cuáles son, o tal vez decidas que una de ellas es el próximo destino de tus siguientes vacaciones.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Sayulita y otras hermosas playas de la Riviera Nayarit**](https://blog.tonoysumariachi.com/turismo/2022/12/05/sayulita-y-otras-hermosas-playas-de-la-riviera-nayarit.html)**.**
 
 ## Playa del Carmen
 
