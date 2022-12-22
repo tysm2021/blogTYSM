@@ -27,7 +27,7 @@ Los **olmecas** fueron uno de los primeros pueblos que habitaron la zona que hoy
 
 Aquí te platicamos sobre estas **cabezas** **gigantes** que puedes contemplar en sitios arqueológicos como **La Venta** o **San Lorenzo**, o bien en el Museo Nacional de Antropología.
 
-TE RECOMENDAMOS: 
+**TE RECOMENDAMOS:** [**Tula, sus atlantes y los toltecas: todo lo que debes saber**](https://blog.tonoysumariachi.com/historia/2022/11/04/tula-sus-atlantes-y-los-toltecas-todo-lo-que-debes-saber.html)**.**
 
 **Olmeca** es el nombre que le damos a una antigua civilización **arqueológica** que vivió en territorio mexicano entre los años 1200 y 400 a.C.; no sabemos cómo se llamaban ellos a sí mismos. Su principal asentamiento se halla en **San Lorenzo**, Veracruz; a su declive, destacaron los sitios de **Tres Zapotes** y **La Venta**.
 
