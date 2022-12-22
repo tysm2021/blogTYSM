@@ -30,7 +30,7 @@ A continuación te hablamos un poco de esta delicia gastronómica que, por ciert
 
 **TE RECOMENDAMOS:** [**El sangriento origen de nuestro querido pozole**](https://blog.tonoysumariachi.com/historia/2022/09/05/el-sangriento-origen-de-nuestro-querido-pozole.html)**.**
 
-Según algunos glotones expertos, al igual que sucede en el lábaro patrio, el **pozole** es de tres colores: está el p**ozole blanco**, que es el más popular y se prepara cociendo maíz cacahuazintle seco con parte de la cabeza del puerco; el **pozole rojo**, para muchos originario de Jalisco, que se adereza con chile ancho y chile guajillo; y el **pozole verde** o "estilo Guerrero", que es preparado con tomates verdes, epazote y pepita de calabaza.
+Según algunos glotones expertos, al igual que sucede en el lábaro patrio, el **pozole** es de tres colores: está el **pozole blanco**, que es el más popular y se prepara cociendo maíz cacahuazintle seco con parte de la cabeza del puerco; el **pozole rojo**, para muchos originario de Jalisco, que se adereza con chile ancho y chile guajillo; y el **pozole verde** o "estilo Guerrero", que es preparado con tomates verdes, epazote y pepita de calabaza.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pozole_verde_estilo_Guerrero.JPG/1024px-Pozole_verde_estilo_Guerrero.JPG)
 
@@ -38,6 +38,6 @@ Para condimentar este platillo, que tiene un toque un poco más ácido a consecu
 
 Las cocineras **guerrerenses** aseguran que el verdadero **pozole** **verde** "no se sazona con cebolla o laurel, sólo con sal de mar", además de que el maíz primero se nixtamaliza: es decir, primero se pone en agua hirviendo con cal para que se disuelvan las cáscaras. Después de ser lavado minuciosamente, el maíz se pone a hervir a fuego muy lento durante horas, para que los granos "revienten" y queden muy suaves.
 
-Después, se le añade sal y un poco de grasa del puerco, que ayuda a que los granos queden suaves. Para la salsa, en una sartén se sofríe en manteca cebolla y se retira; por otro lado, se muele tomate verde, epazote, chiles jalapeño y serrano, y se fríe la mezcla en la manteca para después, ya que está hirviendo, incorporar la pepita de calabaza hasta que quede una pasta suave que se añade al pozole blanco.
+Después, se le añade sal y un poco de grasa del puerco, que ayuda a que los granos queden suaves. Para la salsa, en una sartén con manteca se sofríe cebolla y se retira; por otro lado, se muele tomate verde, epazote, chiles jalapeño y serrano, y se fríe la mezcla en la manteca para después, ya que está hirviendo, incorporar la pepita de calabaza hasta que quede una pasta suave que se añade al pozole blanco.
 
-¿Qué dices, te animas a intentarlo?
+¿Qué dices, quieres intentarlo?
