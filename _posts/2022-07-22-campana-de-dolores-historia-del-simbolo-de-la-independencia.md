@@ -27,7 +27,7 @@ Los mexicanos llamamos a septiembre el "Mes de la Patria", y el punto culminante
 
 Y tú, ¿conoces la historia de esta **campana**? A continuación haremos un breve recuento de este instrumento que, de una parroquia en el estado de Guanajuato, terminó siendo un elemento centra en el Palacio Nacional de la Ciudad de México.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Grito de Dolores: historia de la celebración más patriótica de Méxic**](https://blog.tonoysumariachi.com/cultura/2022/07/21/grito-de-dolores-historia-de-la-celebracion-mas-patriotica-de-mexico.html)**o.**
 
 La historia de la **Campana de Dolores** empieza el 28 de julio de 1768, cuando fue fundida y recibió el nombre de "Esquilón San José", santo que era el patrón de toda la Nueva España. El histórico instrumento está fundido en bronce, mide 1.77 metros desde la orilla de la boca hasta la parte superior del contrapeso, y tiene 1.09 metros de diámetro; tiene unos once centímetros de espesor y originalmente fue colocada en el **campanario** oriental de la parroquia del poblado de **Dolores**, hoy conocido como **Dolores Hidalgo**.
 
