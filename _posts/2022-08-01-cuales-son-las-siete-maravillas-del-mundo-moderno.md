@@ -27,7 +27,7 @@ En nuestras clases de Historia de la primaria y la secundaria, aprendimos que la
 
 A continuación, te platicamos un poco acerca de este nuevo conteo de **monumentos históricos** de todo el mundo y de todas las épocas, entre las que se encuentra una zona arqueológica mexicana. Sigue leyendo para enterarte de los detalles.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Canal de Panamá: maravilla de la ingeniería moderna**](https://blog.tonoysumariachi.com/mundo/2022/09/20/canal-de-panama-maravilla-de-la-ingenieria-moderna.html)**.**
 
 Todo empezó en el año 2000, cuando la Fundación para las **Nuevas Maravillas** empezó a promover en internet una selección de entre 200 monumentos previamente seleccionados. Durante años se recibieron las votaciones y fue hasta el 7 de julio de 2007 que se anunciaron a los ganadores en un evento en el Estadio de la Luz de Lisboa, Portugal. Aquí va la lista de las **Siete Nuevas Maravillas del Mundo**.
 
@@ -54,6 +54,8 @@ En **Roma**, la antigua capital del Imperio Romano —y actualmente ciudad capit
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1024px-Chichen_Itza_3.jpg)
 
 ¡Fanfarrias para **México**! El cuarto sitio lo ocupa esta famosísima zona arqueológica construida por los **mayas**, cuyas construcciones principales fueron erigidas entre los años 800 y 1100 de nuestra era. Ubicado en el estado de Yucatán, **Chichén Itzá** fue inscrito en la Lista de Patrimonios de la Humanidad de l UNESCO en 1988, y sin duda el atractivo más notable del conjunto arquitectónico es el **Templo de Kukulcán**, también conocido como '**El Castillo**', el cual recibe a millones de visitantes al año, muchos de los cuales viajan el día del equinoccio de primavera para presenciar el famoso "descenso de la serpiente" en una de las escalinatas. Además de este, el sitio tiene un cenote sagrado, otros templos y hasta un observatorio.
+
+**TE RECOMENDAMOS:** [**¿Es verdad que la Muralla China es visible desde el espacio?**](https://blog.tonoysumariachi.com/mundo/2022/09/12/es-verdad-que-la-muralla-china-es-visible-desde-el-espacio.html)
 
 ## Machu Picchu (Perú)
 
