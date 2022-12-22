@@ -25,7 +25,9 @@ comment: false
 ---
 Ya sea para visitar al **santo** o la **Virgen** que ahí se adora, o para "pagar una manda", estos importantes **santuarios religiosos mexicanos** son también importantes **destinos turísticos** que año tras año atraen a miles de creyentes y visitantes. Aquí te compartimos una lista de los **más importantes**, que no puedes dejar de conocer.
 
-Por cierto, la palabra **santuario** deriva del latín _sanctuarium_, y según la Academia Mexicana de la Lengua tiene como primer significado el de "templo en el que se venera la imagen o reliquia de un santo de especial devoción"; en países católicos como México, son centenares los lugares de culto que suelen denominarse santuarios. Veamos algunos de ellos:
+Por cierto, la palabra **santuario** deriva del latín _sanctuarium_, y según la Academia Mexicana de la Lengua tiene como primer significado el de "templo en el que se venera la imagen o reliquia de un santo de especial devoción"; en países católicos como México, son centenares los lugares de culto que suelen denominarse santuarios. Veamos algunos de ellos.
+
+**TE RECOMENDAMOS:** [**Cinco Cristos monumentales que puedes visitar en México**](https://blog.tonoysumariachi.com/turismo/2022/09/09/cinco-cristos-monumentales-que-puedes-visitar-en-mexico.html)**.**
 
 ## Catedral Basílica de Nuestra Señora de San Juan de los Lagos
 
@@ -49,4 +51,4 @@ Al norte de la capital del país, concretamente a los pies del Cerro del Tepeyac
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Retablo_principal_del_Santuario_del_Se%C3%B1or_de_Chalma_-_4.jpg/768px-Retablo_principal_del_Santuario_del_Se%C3%B1or_de_Chalma_-_4.jpg)
 
-Por último, visitemos este **santuario** que se encuentra en el **Estado de México**, en el municipio de Malinalco, por los rumbos de Toluca. En él se encuentra un Cristo crucificado que data del siglo XVI y que tiene una gran base de fieles que año con año lo visitan para "pagar la manda" y, también, cumplir con la tradición de bañarse en el manantial del poblado vecino de Ocuilan, colocarse una corona de flores para entrar al **santuario** y terminar la visita realizando un baile: de ahí durge la expresión que dice "Ni yendo a bailar a Chalma". 
+Por último, visitemos este **santuario** que se encuentra en el **Estado de México**, en el municipio de Malinalco, por los rumbos de Toluca. En él se encuentra un Cristo crucificado que data del siglo XVI y que tiene una gran base de fieles que año con año lo visitan para "pagar la manda" y, también, cumplir con la tradición de bañarse en el manantial del poblado vecino de Ocuilan, colocarse una corona de flores para entrar al **santuario** y terminar la visita realizando un baile: de ahí durge la expresión que dice "Ni yendo a bailar a Chalma".
