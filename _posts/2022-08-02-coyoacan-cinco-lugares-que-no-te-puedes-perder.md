@@ -27,7 +27,7 @@ Los que saben de historia dicen que durante la época prehispánica se llamaba *
 
 Desde que el conquistador Hernán Cortés estableció ahí una de sus casas, **Coyoacán** ha sido hogar de políticos como el presidente Miguel de la Madrid, de intelectuales como Salvador Novo y Octavio Paz, y de gente del cine como Emilio 'Indio' Fernández o la hermosa Dolores del Río. ¿Tú ya lo conoces?
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**San Miguel de Allende: qué hacer en sus atractivos turísticos**](https://blog.tonoysumariachi.com/turismo/2022/08/16/san-miguel-de-allende-que-hacer-en-sus-atractivos-turisiticos.html)**.**
 
 ## La Casa Azul
 
