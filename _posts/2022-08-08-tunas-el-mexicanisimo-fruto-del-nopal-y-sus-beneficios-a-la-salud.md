@@ -27,7 +27,7 @@ comment: false
 
 Hablemos un poco de este **fruto**, que normalmente es verde pero que cuando es rojizo o morado recibe el nombre de **xoconostle**, y es un ingrediente esencial en un mole de olla.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Xoconostle: el colorido fruto del nopal, sus usos y beneficios**](https://blog.tonoysumariachi.com/gastronomia/2022/11/29/xoconostle-el-colorido-fruto-del-nopal-sus-usos-y-beneficios.html)**.**
 
 La **tuna** es una fruta que proviene del **nopal tunero**, una especie de la familia de las cactáceas, la cual produce **tunas** de una gran variedad de tonalidades, sabores, formas y tamaños. Tiene cáscara gruesa y cubierta de minúsculas espinas, y su pulpa es dulce y jugosa, aunque abundante en semillas. La temporada de cosecha de la **tuna** abarca de abril a noviembre, con una mayor producción entre los meses de julio a septiembre. La variedad más conocida en México es aquella llamada Alfajayucan, de la que se producen 166 toneladas anuales.
 
