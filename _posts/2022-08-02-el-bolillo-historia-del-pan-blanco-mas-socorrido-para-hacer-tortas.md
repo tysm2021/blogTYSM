@@ -45,6 +45,6 @@ Al birote jalisciense y a la baguette francesa se le hicieron algunas modificaci
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bread_mexican_pan_mexicano_bolillo_%282%29.jpg/768px-Bread_mexican_pan_mexicano_bolillo_%282%29.jpg)
 
-Con bolillos podemos preparar tortas, ya sean las típicas tortas calientes de jamón, milanesa o cubanas, o las tortas ahogadas de Jalisco, que van rellenas de carnitas y se bañan con una salsa roja picante; en la capital del país se elaboran las famosas tortas de tamal o 'guajolotas', de igual modo que en Toluca tienen merecida fama las tortas de chorizo. Otros sitios tienen sus tortas locales: las guacayamas de León, Guanajuato, o las de la barda, de Tampico. Y no hay que olvidar que, si lleva tres hendiduras en lugar de una, no es bolillo: es telera.
+Con **bolillos** podemos preparar **tortas**, ya sean las típicas tortas calientes de jamón, milanesa o cubanas, o las tortas ahogadas de Jalisco, que van rellenas de carnitas y se bañan con una salsa roja picante; en la capital del país se elaboran las famosas tortas de tamal o 'guajolotas', de igual modo que en Toluca tienen merecida fama las tortas de chorizo. Otros sitios tienen sus tortas locales: las guacayamas de León, Guanajuato, o las de la barda, de Tampico. Y no hay que olvidar que, si lleva tres hendiduras en lugar de una, no es bolillo: es telera.
 
 Y sobre el tema de que sirve pa'l susto… ¿vieras que sí es cierto? Pero como decían en el comercial: eso ya es otra historia, y te la contaremos en otro artículo de Toño y su mariachi.
