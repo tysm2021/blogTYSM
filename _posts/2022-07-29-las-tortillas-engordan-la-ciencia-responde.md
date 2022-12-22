@@ -27,7 +27,7 @@ Si uno pretende ponerse a **dieta** para **bajar de peso**, una de las primeras 
 
 A continuación, la opinión de expertos **médicos** y **nutriólogos**, que quizá te sorprenda un poco. Te adelantamos una pista: como en todo, la clave es la cantidad y la moderación.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Las tortas más famosas y sabrosas de todo México**](https://blog.tonoysumariachi.com/gastronomia/2022/06/28/las-tortas-mas-famosas-y-sabrosas-de-todo-mexico.html)**.**
 
 Uno de los alimentos básicos en la alimentación del pueblo mexicano es, sin duda, la **tortilla**. Ese disco de maíz nixtamalizado, normalmente horneado en máquinas **tortilladoras**, se consume en cantidades industriales por toda la población, que en total da cuenta de un promedio de 7 a 8 **tortillas** al día por persona. Pero, ¿qué tan cierta es la creencia de que comer **tortillas** hace que engordes?
 
