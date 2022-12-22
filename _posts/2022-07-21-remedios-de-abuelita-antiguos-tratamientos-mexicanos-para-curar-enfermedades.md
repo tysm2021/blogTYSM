@@ -27,7 +27,7 @@ Si bien desde el siglo XIX en nuestro país la **medicina** y la salud pública 
 
 Entre los muchos **tratamientos** que podemos encontrar en el vasto campo de la **medicina** **tradicional** están los **chiqueadores**, las **limpias**, las **ventosas** y los remedios contra el **empacho**, el **mal de ojo** y el **espanto**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Toloache, la hierba del amor: ¿en verdad sirve para que se enamoren de ti?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/18/toloache-la-hierba-del-amor-en-verdad-sirve-para-que-se-enamoren-de-ti.html)
 
 ### Chiqueadores
 
