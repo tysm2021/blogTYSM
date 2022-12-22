@@ -27,7 +27,7 @@ A los mexicanos nos gusta tanto el **mango** que, hace años, cuando veíamos a 
 
 A pesar de ser una fruta de temporada, casi todo el año podemos encontrar mangos en muchas latitudes, ya sea naturales para ir comiendo o pelarlos, o en carritos donde a veces se venden con chile, limón y sal.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Pitaya y pitahaya: semejanzas, diferencias y beneficios de esta fruta exótica**](https://blog.tonoysumariachi.com/gastronomia/2022/08/31/pitaya-y-pitahaya-semejanzas-diferencias-y-beneficios-de-esta-fruta-exotica.html)**.**
 
 ## Mango manila
 
