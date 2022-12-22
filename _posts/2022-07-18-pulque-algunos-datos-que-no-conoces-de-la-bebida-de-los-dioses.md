@@ -31,7 +31,7 @@ Recuerda que no sólo puedes disfrutarlo al natural, sino que también tenemos u
 
 ### Surgió con una leyenda
 
-Cuenta una antigua leyenda prehispánica que hace mucho tiempo existió una hermosa y joven diosa que se llamaba **Mayahuel**, cuya abuela la cuidaba celosamente pues tenía una planta con el don de "hacer felices a los hombres". El dios Ehécatl-Quetzalcóatl enamoró a la diosa y juntos huyeron lejos de la furia de la abuela, pero pronto se enteraron de que los hermano de **Mayahuel** los buscaban para matarlos; por eso, tomaron la forma de una planta pero los hermanos identificaron a **Mayahuel** y la destrozaron, para limpiar la deshonra.
+Cuenta una antigua leyenda prehispánica que hace mucho tiempo existió una hermosa y joven diosa que se llamaba **Mayahuel**, cuya abuela la cuidaba celosamente pues tenía una planta con el don de "hacer felices a los hombres". El dios Ehécatl-Quetzalcóatl enamoró a la diosa y juntos huyeron lejos de la furia de la abuela, aunque pronto se enteraron de que los hermanos de **Mayahuel** los buscaban para matarlos; por eso, tomaron la forma de una planta pero los hermanos identificaron a **Mayahuel** y la destrozaron, para limpiar la deshonra.
 
 Con el corazón destrozado, Quetzalcóatl rescató los restos de la planta y la regó todos los días con sus lágrimas, pero ni así logró revivir a la hermosa **Mayahuel**, quien se quedó para siempre con la forma de la planta sagrada, que no es otra sino el **agave**, de donde se obtiene el **pulque**, que desde entonces es llamado "la bebida o el néctar de los dioses".
 
@@ -43,7 +43,7 @@ Más allá de la leyenda, el **pulque** es una bebida alcohólica fermentada que
 
 ### Es una bebida fermentada
 
-Este proceso, en el que los azúcares del aguamiel por acción de la química se convierten en alcoholes, se lleva a cabo en “tinacales”, que no son otra cosa sino lugar donde se instalan los tinacos del pulque: ahí se vierte el aguamiel y se mezcla con la semilla o pie de pulque; a partir de este momento comienza la fermentación y transformación, la cual tarda aproximadamente 24 horas.
+Este proceso, en el que los azúcares del **aguamiel** por acción de la química se convierten en alcoholes, se lleva a cabo en “tinacales”, que no son otra cosa sino lugar donde se instalan los tinacos del **pulque**: ahí se vierte el **aguamiel** y se mezcla con la semilla o pie de **pulque**; a partir de este momento comienza la fermentación y transformación, la cual tarda aproximadamente 24 horas.
 
 ### ![](https://upload.wikimedia.org/wikipedia/commons/d/d2/Extracci%C3%B3n_de_Pulque_M%C3%A9xico_1904.jpg)¿Existe la famosa muñeca?
 
@@ -51,10 +51,10 @@ Hace algunas décadas, la industria cervecera —en un intento por desprestigiar
 
 ### Tiene propiedades saludables
 
-El pulque, además de ser una bebida alcohólica de baja graduación —por lo que no se recomienda su consumo entre menores de edad—, tiene otra propiedades: por ejemplo, se dice que alivia trastornos gastrointestinales, estimula el apetito, combate la debilidad y mejora ciertos padecimientos renales. Además, tradicionalmente se recomienda su consumo a las mujeres en etapa de lactancia para aumentar la secreción de leche y mejorar su calidad, ¿qué tal?
+El **pulque**, además de ser una bebida alcohólica de baja graduación —por lo que no se recomienda su consumo entre menores de edad—, tiene otra **propiedades**: por ejemplo, se dice que alivia trastornos gastrointestinales, estimula el apetito, combate la debilidad y mejora ciertos padecimientos renales. Además, tradicionalmente se recomienda su consumo a las mujeres en etapa de lactancia para aumentar la secreción de leche y mejorar su calidad, ¿qué tal?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pulque_en_j%C3%ADcara%2C_en_la_Mixteca_Alta%2C_Oaxaca.jpg/942px-Pulque_en_j%C3%ADcara%2C_en_la_Mixteca_Alta%2C_Oaxaca.jpg)
 
 ### Es internacional
 
-El pulque es tan delicioso —para quienes gustan de él, porque su consistencia viscosa no es para todos los paladares— que se consume en todo el país e, incluso, en parte de los Estados Unidos. Sin embargo, las entidades que destacan tanto en producción como en consumo son: el Distrito Federal —sobre todo en la alcadía de Milpa Alta—, el Estado de México, Hidalgo —donde dicen que se prepara el mejor—, Tlaxcala, Morelos y Michoacán.
+El **pulque** es tan delicioso —para quienes gustan de él, porque su consistencia viscosa no es para todos los paladares— que se consume en todo el país e, incluso, en parte de los Estados Unidos. Sin embargo, las entidades que destacan tanto en producción como en consumo son: el Distrito Federal —sobre todo en la alcadía de Milpa Alta—, el Estado de México, Hidalgo —donde dicen que se prepara el mejor—, Tlaxcala, Morelos y Michoacán.
