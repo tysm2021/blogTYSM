@@ -23,9 +23,9 @@ show_author_profile: false
 comment: false
 
 ---
-A los mexicanos nos gusta tanto el **mango** que, hace años, cuando veíamos a una muchacha curvilínea y de buen ver, exclamábamos que "¡Es un **mango**!" Y como existen tres variedades principales de esta fruta —manila, ataulfo y petacón—, aquí te explicamos un poco las diferencias entre ellas.
+A los mexicanos nos gusta tanto el **mango** que, hace años, cuando veíamos a una muchacha curvilínea y de buen ver, exclamábamos que "¡Es un **mango**!" Y como existen tres variedades principales de esta fruta —**manila**, **ataulfo** y **petacón**—, aquí te explicamos un poco las **diferencias** entre ellas.
 
-A pesar de ser una fruta de temporada, casi todo el año podemos encontrar mangos en muchas latitudes, ya sea naturales para ir comiendo o pelarlos, o en carritos donde a veces se venden con chile, limón y sal.
+A pesar de ser una fruta de temporada, casi todo el año podemos encontrar **mangos** en muchas latitudes, ya sea naturales para ir comiendo o pelarlos, o en carritos donde a veces se venden con chile, limón y sal.
 
 **TE RECOMENDAMOS:** [**Pitaya y pitahaya: semejanzas, diferencias y beneficios de esta fruta exótica**](https://blog.tonoysumariachi.com/gastronomia/2022/08/31/pitaya-y-pitahaya-semejanzas-diferencias-y-beneficios-de-esta-fruta-exotica.html)**.**
 
