@@ -41,9 +41,9 @@ A su llegada a México, conoció al pintor **Fernando Leal**, con quien comparti
 
 María de los **Remedios** Alicia Rodriga **Varo** y Uranga, que era su nombre completo, nació en España, específicamente en Anglès, provincia de Gerona, el 16 de diciembre de 1908. La historia nos dice que en 1937 se trasladó a París y, ante la llegada del ejército nazi a la capital francesa, se exilió en México en el año 1941 y nunca regresó a su patria.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Useless_Science_or_the_Alchemist.jpg/517px-Useless_Science_or_the_Alchemist.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Varo_Remedios_%286857423303%29.jpg/597px-Varo_Remedios_%286857423303%29.jpg)
 
-A Remedios Varo la ubicamos dentro de la corriente surrealista, y fue aquí en México donde realizó la mayor parte de sus obras más reconocidas, al grado de que muchos la consideran casi una pintora mexicana. Los estudiosos de su obra la describen como "la evocación de un mundo que surgió de su imaginación, en el cual se mezclan lo científico, lo místico, lo esotérico y lo mágico", como se nota en sus hermosos lienzos.
+A **Remedios Varo** la ubicamos dentro de la corriente surrealista, y fue aquí en México donde realizó la mayor parte de sus obras más reconocidas, al grado de que muchos la consideran casi una pintora mexicana. Los estudiosos de su obra la describen como "la evocación de un mundo que surgió de su imaginación, en el cual se mezclan lo científico, lo místico, lo esotérico y lo mágico", como se nota en sus hermosos lienzos.
 
 ## Mathias Goeritz
 
@@ -69,4 +69,4 @@ El último **artista** de esta lista tiene un nombre casi impronunciable para lo
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Biblioteca_Miguel_Lerdo_de_Tejada.jpg/1024px-Biblioteca_Miguel_Lerdo_de_Tejada.jpg)
 
-Ya nacionalizado **mexicano**, se vinculó con la corriente de pintores conocido como la 'Generación de la Ruptura', que buscaba distanciarse del nacionalismo impuesto por Rivera, Siqueiros y Orozco. Dentro de su vasta obra, destaca que en 1971 fue invitado por el presidente Luis Echeverría para realizar murales en la ß. En el barrio de Mixcoac existe una casa con su nombre, donde existe más de un millar de obras suyas. **Vlady** murió en Cuernavaca, Morelos, en el año 2005.
+Ya nacionalizado **mexicano**, se vinculó con la corriente de pintores conocido como la 'Generación de la Ruptura', que buscaba distanciarse del nacionalismo impuesto por Rivera, Siqueiros y Orozco. Dentro de su vasta obra, destaca que en 1971 fue invitado por el presidente Luis Echeverría para realizar murales en la Biblioteca Lerdo de Tejada. En el barrio de Mixcoac existe una casa con su nombre, donde existe más de un millar de obras suyas. **Vlady** murió en Cuernavaca, Morelos, en el año 2005.
