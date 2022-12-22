@@ -27,7 +27,7 @@ La sabiduría popular del pueblo **mexicano** es inagotable: entre nuestros **di
 
 En algunos casos, la **frase** se explica por sí sola, pero en otros se trata de juegos de palabras o de **expresiones** de antaño que con el paso del tiempo hemos dejado de comprender. A ver qué te parecen…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Frases, dichos y refranes mexicanos acerca de la comida**](https://blog.tonoysumariachi.com/mexicanisimos/2022/09/07/frases-dichos-y-refranes-mexicanos-acerca-de-la-comida.html)**.**
 
 ## Me anda del uno
 
@@ -39,7 +39,7 @@ Cuando algo es excelente o magnífico, podemos decir que "**está del uno**", po
 
 ## ¡A la de tres!
 
-¡Esta es de mamá! Quienes fueron educados con el poder de la chancla, sabían que si estaban enmedio de un berrinche o tenían que hacer un encargo de un adulto —normalmente, la mamá o la abuela— a la mayor brevedad posible, tenían solamente **tres segundos** para recuperar la compostura o para llevar a cabo la tarea, pues normalmente a la cuenta del uno, dos… ¡tres!, sobrevenía el chanclazo, el pellizco o la nalgada. Por supuesto, esto de educar a los niños a base violencia es de tiempos lejanos… ¿o no lo será tanto?
+¡Esta es de mamá! Quienes fueron educados con el poder de la chancla, sabían que si estaban enmedio de un berrinche o tenían que hacer un encargo de un adulto —normalmente, la mamá o la abuela— a la mayor brevedad posible, tenían solamente **tres segundos** para recuperar la compostura o para llevar a cabo la tarea, pues normalmente a la cuenta del uno, dos… ¡tres!, sobrevenía el chanclazo, el pellizco o la nalgada. Por supuesto, esto de educar a los niños a base de violencia es de tiempos lejanos… ¿o no lo será tanto?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Crying-girl.jpg/1024px-Crying-girl.jpg)
 
@@ -73,4 +73,4 @@ Como no encontramos frases con el **nueve**, pasemos al **diez**. Esta frase tie
 
 ## Meterse en camisa de once varas
 
-Y como no hubo **nueve**, te damos un pilón con el número **once**. Esta expresión alude a situaciones en las que una persona voluntariamente se somete a algo muy arduo o penoso, asume una tarea muy pesada y difícil. Esto viene a colación con una forma antigua de medir que usaba varas para calcular los diámetros de ciertas cosas, y en la que "once varas" equivaldría a una camisa ajustada y muy complicada de usar… 
+Y como no hubo **nueve**, te damos un pilón con el número **once**. Esta expresión alude a situaciones en las que una persona voluntariamente se somete a algo muy arduo o penoso, asume una tarea muy pesada y difícil. Esto viene a colación con una forma antigua de medir que usaba varas para calcular los diámetros de ciertas cosas, y en la que "once varas" equivaldría a una camisa ajustada y muy complicada de usar…
