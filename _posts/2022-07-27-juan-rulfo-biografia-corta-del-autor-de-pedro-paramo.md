@@ -27,7 +27,7 @@ Hay autores que consiguen hacerse de fama a base de esfuerzo y de un cierto núm
 
 Conozcamos a este **escritor** jalisciense y, también, examinemos un poco más de cerca su **obra**, que por su calidad e inspiración es lectura obligada para los estudiantes de educación media en todo el país.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Octavio Paz, poeta, ensayista y Premio Nobel mexicano**](https://blog.tonoysumariachi.com/cultura/2022/09/20/octavio-paz-poeta-ensayista-y-premio-nobel-mexicano.html)**.**
 
 Los libros nos dicen que **Juan Nepomuceno Carlos Pérez Rulfo Vizcaíno** nació el 16 de mayo de 1917 en el pequeño poblado jalisciense de **Apulco**, en una hacienda que su madre habría heredado de sus abuelos maternos. Desde muy joven conoció a un México violento y convulsionado por movimientos sociales como la Revolución Mexicana y la Guerra Cristera, pues a la edad de seis años quedó huérfano de padre —que fue asesinado— y al año siguiente también perdió a su madre, lo que causó toda clase de interrupciones en su educación básica.
 
