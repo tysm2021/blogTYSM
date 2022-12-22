@@ -27,7 +27,7 @@ Cualquier turista o visitante a la **Ciudad de México** lo ha visto alguna vez:
 
 A continuación, un breve recorrido de uno de los edificios más hermosos del país, que se encuentra en pleno Centro Histórico de la **Ciudad de México**, sobre el importante Eje Central, y prácticamente a los pies del primer rascacielos mexicano: la Torre Latinoamericana.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Monumento a la Revolución: de Palacio Legislativo a museo**](https://blog.tonoysumariachi.com/historia/2022/09/28/monumento-a-la-revolucion-de-palacio-legislativo-a-museo.html)**.**
 
 ## La historia
 
