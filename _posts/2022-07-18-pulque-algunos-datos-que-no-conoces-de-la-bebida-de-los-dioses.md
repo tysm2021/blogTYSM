@@ -27,7 +27,7 @@ Algunos, atendiendo a su origen mitológico de siglos, dicen que el **pulque** e
 
 Recuerda que no sólo puedes disfrutarlo al natural, sino que también tenemos una gran variedad de "curados", que vienen mezclados con ingredientes naturales como frutas y verduras, así como con sabores que no niegan que es un producto netamente de estas tierras…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Quesos de México: delicias sólidas hechas con leche.**](https://blog.tonoysumariachi.com/gastronomia/2022/09/09/quesos-de-mexico-delicias-solidas-hechas-con-leche.html)
 
 ### Surgió con una leyenda
 
