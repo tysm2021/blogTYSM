@@ -27,7 +27,7 @@ A tan sólo 80 kilómetros al sur de la Ciudad de México se encuentra el **Pueb
 
 Para ir a Tepoztlán, si sales de la Ciudad de México puedes tomar un autobús en la Terminal del Sur; o bien, puedes tomar la carretera México-Cuernavaca y salirte en la desviación que va a Oaxtepec/Tepoztlán, y en cuestión de hora y media la vista del cerro de Tepozteco te dará la bienvenida.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**La zona arqueológica de Malinalco y su historia**](https://blog.tonoysumariachi.com/turismo/2022/04/20/la-zona-arqueologica-de-malinalco-y-su-historia.html)**.**
 
 ## Súbete al cerro
 
