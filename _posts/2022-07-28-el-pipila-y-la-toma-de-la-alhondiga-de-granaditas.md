@@ -29,7 +29,7 @@ Acompáñanos a dar una vuelta por la historia y lleguemos hasta principios del 
 
 **TE RECOMENDAMOS:** [**La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?**](https://blog.tonoysumariachi.com/historia/2022/06/30/la-historia-de-los-ninos-heroes-de-chapultepec-es-verdad-o-mito.html)
 
-Unos días después de iniciado el movimiento de **Independencia**, el 18 de septiembre de 1810, los insurgentes se encontraban a las afueras de la ciudad de **Guanajuato**. Aterrado por la noticia del avance de las tropas rebeldes, el intendente de la ciudad **Juan Antonio Riaño** pidió a la población española y criolla que se resguardara y acuartelera en la **Alhóndiga de Granaditas**, un edificio fortificado que otrora sirvió como almacén para granos y otros alimentos en época de escasez.
+Unos días después de iniciado el movimiento de **Independencia**, el 18 de septiembre de 1810, los insurgentes se encontraban a las afueras de la ciudad de **Guanajuato**. Aterrado por la noticia del avance de las tropas rebeldes, el intendente de la ciudad **Juan Antonio Riaño** pidió a la población española y criolla que se resguardara y acuartelera en la **Alhóndiga de Granaditas**, un edificio fortificado que había servido como almacén para granos y otros alimentos en época de escasez.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Batalla_de_la_Alh%C3%B3ndiga_de_Granaditas.jpg)
 
