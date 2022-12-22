@@ -27,7 +27,7 @@ Todos sabemos que la noche del 15 de septiembre de 1854, durante una de las tant
 
 A continuación, un breve recuento de estas canciones que nos representan en el extranjero y que son capaces de sacar de lo más recóndito de nuestro ser el espíritu **patriótico** y el amor por **México** que se nos inculcó desde muy pequeños.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Himno Nacional Mexicano: historia de su letra y música**](https://blog.tonoysumariachi.com/mexicanisimos/2022/07/26/himno-nacional-mexicano-historia-de-su-letra-y-musica.html)**.**
 
 ## Cielito lindo
 
