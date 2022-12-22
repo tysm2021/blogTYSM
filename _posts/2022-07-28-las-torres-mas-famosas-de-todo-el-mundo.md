@@ -47,6 +47,8 @@ Sin duda, es una de las **torres** más **famosas** del **mundo** debido a la no
 
 Este rascacielos neoyorquino es, sin lugar a dudas, uno de los edificios más célebres del mundo, pues incluso ha sido protagonista de películas, tanto románticas como de gorilas gigantes o de invasión extraterrestre. Ubicado en la isla de Manhattan, este emblemática **torre** fue diseñada por el despacho de arquitectos Shreve, Lamb & Harkon, y se construyó entre 1930 y 1931. Tiene una altura total de 44 metros, considerando su famosa antena, divididos entre sus 102 pisos. Su estilo arquitectónico se ubica dentro del Art Déco, y es uno de los puntos de observación más concurridos en la 'Gran Manzana'. Por si fuera poco, está considerado uno de las Siete Maravillas del Mundo Moderno por la Asociación Internacional de Ingenieros Civiles.
 
+**TE RECOMENDAMOS:** [**Guerra de los Pasteles: resumen e historia**](https://blog.tonoysumariachi.com/historia/2022/04/20/guerra-de-los-pasteles-resumen-e-historia.html)**.**
+
 ## Torres Petronas
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Petronas_Panorama_II.jpg/466px-Petronas_Panorama_II.jpg)
