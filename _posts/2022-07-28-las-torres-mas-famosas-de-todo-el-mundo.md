@@ -27,7 +27,7 @@ Desde los antiquísimos tiempos de la Biblia se hablaba de **torres** míticas, 
 
 Hagamos un breve recorrido por el tiempo y el espacio, para conocer algunas de las edificaciones que han resistido algunas guerras, violentos terremotos y, sobre todo, la acción devastadora del paso de los siglos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Cinco Cristos monumentales que puedes visitar en México**](https://blog.tonoysumariachi.com/turismo/2022/09/09/cinco-cristos-monumentales-que-puedes-visitar-en-mexico.html)**.**
 
 ## Torre Eiffel
 
