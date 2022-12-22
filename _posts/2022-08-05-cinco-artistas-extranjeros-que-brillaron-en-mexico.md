@@ -53,6 +53,8 @@ A Remedios Varo la ubicamos dentro de la corriente surrealista, y fue aquí en M
 
 En su obra destacan tanto las obras plásticas como la **escultura** y la **arquitectura**. También fue escenógrafo para el teatro y el cine mexicanos, aunque su obra más recordada son las famosas **Torres de Satélite**, que construyó en mancuerna con el mexicano **Luis Barragán**, además de otras obras escultóricas en el Hotel Camino Real y en la Ruta de la Amistad de la Ciudad de México.
 
+**TE RECOMENDAMOS:** [**Premios Nobel mexicanos: cuántos y quiénes son**](https://blog.tonoysumariachi.com/cultura/2022/04/22/premios-nobel-mexicanos-cuantos-y-quienes-son.html)**.**
+
 ## Leonora Carrington
 
 Aunque nacionalizada **mexicana**, Leonora nació en el seno de una familia aristocrática en Lancashire, Inglaterra, el 6 de abril de 1917. A mediados de la década de 1930 conoció al pintor surrealista alemán **Max Ernst**, con quien estableció una relación sentimental; al poco tiempo, acabaron viviendo juntos, pero en 1939 y ante el avance de los nazis se vio obligada a huir a España, donde estuvo internada en un psiquiátrico; de ahí, huyó a Lisboa y se pidió asilo en la embajada mexicana. Fue ahí donde conoció al escritor **mexicano** Renato Leduc, quien la ayudó a emigrar a **México**, país al que llegó en 1942.
