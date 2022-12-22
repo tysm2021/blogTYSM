@@ -25,7 +25,7 @@ comment: false
 ---
 Los mexicanos llamamos a septiembre el "Mes de la Patria", y el punto culminante de las celebraciones que nos unen en torno a nuestra **Independencia** tiene lugar durante la noche mexicana, cuando en medio de la ceremonia de "**El Grito**", el Presidente de la República hace sonar la **campana de Dolores**, la misma con la que, según la **historia**, el cura **Miguel Hidalgo** y Costilla convocó a la lucha armada contra el mal gobierno la madrugada del 16 de septiembre de 1810.
 
-Y tú, ¿conoces la historia de esta **campana**? A continuación haremos un breve recuento de este instrumento que, de una parroquia en el estado de Guanajuato, terminó siendo un elemento centra en el Palacio Nacional de la Ciudad de México.
+Y tú, ¿conoces la historia de esta **campana**? A continuación haremos un breve recuento de este instrumento que, de una parroquia en el estado de Guanajuato, terminó siendo un elemento central en el Palacio Nacional de la Ciudad de México.
 
 **TE RECOMENDAMOS:** [**Grito de Dolores: historia de la celebración más patriótica de Méxic**](https://blog.tonoysumariachi.com/cultura/2022/07/21/grito-de-dolores-historia-de-la-celebracion-mas-patriotica-de-mexico.html)**o.**
 
@@ -37,7 +37,7 @@ Luego de la gesta histórica del 16 de septiembre de 1810, y ya una vez consumad
 
 Fue así que, el 14 de septiembre del mismo año, la histórica **campana** llegó a la Ciudad de México y fue instalada sobre el balcón central del Palacio Nacional. A la noche siguiente, el 15 de septiembre de 1896, dio inicio de la tradición de que el Presidente en turno la haga sonar durante la ceremonia de "**El Grito**".
 
-¿Y qué pasó con el **campanario** vacío en **Dolores** Hidalgo? Tuvieron que pasar muchos años para que, en 1960 y con motivo del 150 aniversario del Grito, el presidente Adolfo López Mateos ordenara fundir 32 réplicas idénticas de la histórica **campana**, una para la capital de cada uno de los 31 estado y la última para sustituir a la original en la parroquia de **Dolores** Hidalgo.
+¿Y qué pasó con el **campanario** vacío en **Dolores** Hidalgo? Tuvieron que pasar muchos años para que, en 1960 y con motivo del 150 aniversario del Grito, el presidente Adolfo López Mateos ordenara fundir 32 réplicas idénticas de la histórica **campana**, una para la capital de cada uno de los 31 estados y la última para sustituir a la original en la parroquia de **Dolores** Hidalgo.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/REPLICA_CAMPANA_DE_DOLORES.jpg/1024px-REPLICA_CAMPANA_DE_DOLORES.jpg)
 
