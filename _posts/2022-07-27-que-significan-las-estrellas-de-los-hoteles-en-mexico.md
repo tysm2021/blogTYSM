@@ -27,11 +27,11 @@ Cuando estamos planeando un viaje y a la hora de hacer los presupuestos, mucho i
 
 A diferencia de lo que sucede en otros países, en nuestro país la actividad turística y el servicio que ofrece la industria **hotelera** está regulado por la **Secretaría de Turismo** (Sectur), la cual establece el criterio de **clasificación**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Tips y consejos para viajar seguro y cómodo con tus mascotas.**](https://blog.tonoysumariachi.com/turismo/2022/09/20/tips-y-consejos-para-viajar-seguro-y-comodo-con-tus-mascotas.html)
 
 Según se lee en un sitio oficial del gobierno mexicano, en México existe el **Sistema de Clasificación Hotelera** (SCH), una herramienta metodológica que comenzó a funcionar en 2015 y que funciona a través de un mecanismo de autoevaluación regulado por Sectur, para permitir que sean los propios **hoteles** den a conocer la situación de sus instalaciones y servicios ofrecidos, así como identificar áreas de oportunidad.
 
-El reglamento del SCH, que está contemplado en la Ley General de Turismo, cuando se trata de un hotel o establecimiento de hospedaje, considera ocho ejes de desempeño: 
+El reglamento del SCH, que está contemplado en la Ley General de Turismo, cuando se trata de un hotel o establecimiento de hospedaje, considera ocho ejes de desempeño:
 
 1. Acceso, exterior y generales
 2. Comunicación
