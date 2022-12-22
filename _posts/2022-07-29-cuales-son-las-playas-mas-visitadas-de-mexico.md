@@ -23,7 +23,7 @@ show_author_profile: false
 comment: false
 
 ---
-Cuando llegan las **vacaciones**, uno de los destinos favoritos de las familias **mexicanas** son las hermosas **playas**. Y es que tienen de todo: sol brillante, una temperatura cálida y reconfortante, el azul de nuestros mares, deliciosos mariscos y amaneceres o puestas de sol impresionantes. Pero de todas las **playas** en el Golfo y el Pacífico **mexicanos**, ¿cuáles son **las más visitadas** y qué **más turistas** reciben al año?
+Cuando llegan las **vacaciones**, uno de los destinos favoritos de las familias **mexicanas** son las hermosas **playas**. Y es que tienen de todo: sol brillante, una temperatura cálida y reconfortante, el azul de nuestros mares, refrescantes albercas y numerosos hoteles, deliciosos mariscos y amaneceres o puestas de sol impresionantes. Pero de todas las **playas** en el Golfo y el Pacífico **mexicanos**, ¿cuáles son **las más visitadas** y qué **más turistas** reciben al año?
 
 A continuación, las cinco **playas mexicanas más populares**, según estadísticas de la Secretaría de Turismo. Quizá te sorprenda cuáles son, o tal vez decidas que una de ellas es el próximo destino de tus siguientes vacaciones.
 
@@ -46,6 +46,8 @@ Este conjunto turístico, vecino del clásico destino de Puerto Vallarta, se enc
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hotel_Zone_in_Cancun%2C_Mexico.jpg/1024px-Hotel_Zone_in_Cancun%2C_Mexico.jpg)
 
 Desde hace décadas, esta ciudad en el estado de Quintana Roo es uno de los destinos más concurridos y con el 76.6% de ocupación hotelera promedio, actualmente ocupa el tercer lugar en popularidad de todo el país. Quienes lo visitan dicen que es un lugar que lo tiene todo: espectaculares **playas** de agua cristalina y arenas blancas, sitios arqueológicos, lujosos hoteles y restaurantes, bares y otros lugares de vida nocturna. Además, puedes visitar la vecina Isla Mujeres y llevarte hermosos recuerdos de tu visita.
+
+**TE RECOMENDAMOS:** [**Playas exóticas mexicanas: tres opciones para desconectarse**](https://blog.tonoysumariachi.com/turismo/2022/04/26/playas-exoticas-mexicanas-tres-opciones-para-desconectarse.html)**.**
 
 ## Puerto Vallarta
 
