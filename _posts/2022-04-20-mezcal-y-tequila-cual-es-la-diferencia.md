@@ -28,7 +28,7 @@ Si nos preguntaran cuál es la bebida más representativa de México, segurament
 
 En Toño y su mariachi no tenemos una preferencia al respecto. Pero le preguntamos a Felipe, que es un gran conocedor de ambas bebidas, y esto fue lo que nos contestó.
 
-TE PODRÍA INTERESAR: ...
+**TE RECOMENDAMOS:** [**Día del mariachi: origen e historia de la celebración**](https://blog.tonoysumariachi.com/mexicanisimos/2022/05/27/dia-del-mariachi-origen-e-historia-de-la-celebracion.html)**.**
 
 Hablemos primero del **mezcal**: algunos dicen que su nombre tiene un origen prehispánico y deriva de la palabra _mezcalli_, que significa “maguey cocido”. En general, se trata de una bebida alcohólica que se obtiene de la destilación de los azucares extraídos de las cabezas maduras de diversos tipos de agave, las cuales previamente son cocidas y sometidas a un proceso de fermentación alcohólica.
 
