@@ -24,7 +24,7 @@ summary: 'Si no te gustan los tumultos, te recomendamos tres playas mexicanas ex
 subcategorie: PLAYAS
 
 ---
-Si eres de esos que no soportan mucho los gentíos ni las playas llenas de turistas, estás de suerte: en esta ocasión te recomendaremos tres excelentes playas exóticas mexicanas, escondidas y apartadas del gentío, en las que podrás desconectarte del estrés de las grandes ciudades.
+Si eres de esos que no soportan mucho los gentíos ni las **playas** llenas de turistas, estás de suerte: en esta ocasión te recomendaremos tres excelentes **playas** **exóticas** **mexicanas**, escondidas y apartadas del gentío, en las que podrás **desconectarte** del **estrés** de las grandes ciudades.
 
 Eso sí: te recomendamos hacer tu viaje con anticipación y tomar todas las previsiones necesarias, pues una vez que llegues te será difícil encontrar una tienda de conveniencia o un hotel si no tuviste la delicadez de reservar. Aquí vamos:
 
@@ -32,9 +32,9 @@ Eso sí: te recomendamos hacer tu viaje con anticipación y tomar todas las prev
 
 ## Majahuitas, Jalisco
 
-Esta playa es una de las más hermosas del municipio jaliscience de Cabo Corrientes, y se encuentra a unos 29 kilómetros de distancia de Puerto Vallarta. Uno de los más grandes atractivos es que, literalmente, está desconectada de todo, pues sólo puede llegarse a ella en lancha.
+Esta **playa** es una de las más hermosas del municipio jaliscience de Cabo Corrientes, y se encuentra a unos 29 kilómetros de distancia de **Puerto Vallarta**. Uno de los más grandes atractivos es que, literalmente, está desconectada de todo, pues sólo puede llegarse a ella en lancha.
 
-Una de las recomendaciones es tomar una embarcación en la Playa de los Muertos, en la "zona romántica" de Puerto Vallarta; o bien, trasladarse hasta Boca de Tomatlán y desde ahí contratar un "taxia acuático" o panga. Eso sí: el viaje vale toda la pena del mundo, pues en la playa de arena blanca y aguas cristalinas podrás dejar todo el estrés que traes cargando.
+Una de las recomendaciones es tomar una embarcación en la Playa de los Muertos, en la "zona romántica" de **Puerto Vallarta**; o bien, trasladarse hasta Boca de Tomatlán y desde ahí contratar un "taxia acuático" o panga. Eso sí: el viaje vale toda la pena del mundo, pues en la playa de arena blanca y aguas cristalinas podrás dejar todo el estrés que traes cargando.
 
 La única opción de hospedaje es el Majahuitas Resort, un hotel ecológico con sólo ocho casitas disponibles, así que si piensas pasar la noche ahí, lo mejor es reservar con la debida anticipación.
 
