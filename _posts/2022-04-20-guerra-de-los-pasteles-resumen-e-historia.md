@@ -30,13 +30,15 @@ Todo empezó con la reclamación de **un pastelero enojado**, y el asunto llegó
 
 **TE RECOMENDAMOS:** [**Benito Juárez, ¿por qué dijo: “el respeto al derecho ajeno es la paz”?**](https://blog.tonoysumariachi.com/historia/2022/12/01/benito-juarez-por-que-dijo-el-respeto-al-derecho-ajeno-es-la-paz.html)
 
-México, como nación, estaba prácticamente recién nacida: apenas en 1821 había terminado la Guerra de Independencia, y el Virreinato de la Nueva España se convirtió en una nueva nación. Sin embargo, el desorden social seguía imperando en sus calles y en las provincias más alejadas.
+**México**, como nación, estaba prácticamente recién nacida: apenas en 1821 había terminado la Guerra de Independencia, y el Virreinato de la Nueva España se convirtió en una nueva nación. Sin embargo, el desorden social seguía imperando en sus calles y en las provincias más alejadas.
 
-Fue así que, en el año de 1828, unos oficiales mexicanos causaron destrozos en el establecimiento de **un pastelero francés de apellido Remontel** —otros dicen que consumieron una gran cantidad de alimentos y se fueron sin pagar—; por esa razón, años después, en 1837, ciudadanos franceses exigieron al gobierno mexicano la reparación y el pago de los daños causados en las revueltas.
+Fue así que, en el año de 1828, unos oficiales mexicanos causaron destrozos en el establecimiento de **un pastelero francés de apellido Remontel** —otros dicen que consumieron una gran cantidad de alimentos y se fueron sin pagar—; por esa razón y muchas otras, años después, en 1837, ciudadanos franceses exigieron al gobierno mexicano la reparación y el pago de los daños causados en las revueltas.
 
 Como respuesta, el ministro mexicano de Relaciones, Luis G. Cuevas, argumentó que el gobierno mexicano no estaba obligado a pagar indemnizaciones “cuando se reclamaban por pérdidas a consecuencia de un movimiento revolucionario”. Esto, desde luego, no le gustó a los **franceses**, que acudieron a su gobierno en busca de apoyo… y lo obtuvieron.
 
 La **Guerra de los Pasteles empezó el 16 de abril de 1838**, cuando una escuadra de la Marina Real Francesa, compuesta por 26 navíos de guerra que estaban al mando del **almirante Bazoche**, llegó al puerto de Veracruz con un ultimátum de parte del gobierno francés: o pagaban o había guerra.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/%C3%89pisode_de_l%27exp%C3%A9dition_du_Mexique_en_1838.jpg/1024px-%C3%89pisode_de_l%27exp%C3%A9dition_du_Mexique_en_1838.jpg)
 
 Luego de varias negociaciones fallidas, el 17 de noviembre del mismo año los **franceses** abrieron fuego contra el Fuerte de San Juan de Ulúa, en Veracruz. Meses después, en marzo de 1839, se firmó el tratado de paz, en el que **México** se comprometía a pagar 600 mil pesos como indemnización para **el pastelero** y para los demás ciudadanos franceses que habían interpuesto la queja.
 
