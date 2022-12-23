@@ -12,7 +12,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-04-20-episode_de_l-expedition_du_mexique_en_1838.jpeg"
 sharing: true
-title: 'Guerra de los Pasteles: resumen e historia'
+title: 'Guerra de los Pasteles: resumen en la historia de México'
 author: Francisco Massé
 cover: "/images/2022-04-20-episode_de_l-expedition_du_mexique_en_1838.jpeg"
 categories: HISTORIA
@@ -28,7 +28,7 @@ Cuando uno escucha eso de la **Guerra de los Pasteles**, podría imaginarse a do
 
 Todo empezó con la reclamación de **un pastelero enojado**, y el asunto llegó tan lejos que **México** acabó pagando una enorme cantidad de dinero. En seguida, te contamos todos los detalles.
 
-TE PUEDE INTERESAR: 
+TE RECOMENDAMOS:
 
 México, como nación, estaba prácticamente recién nacida: apenas en 1821 había terminado la Guerra de Independencia, y el Virreinato de la Nueva España se convirtió en una nueva nación. Sin embargo, el desorden social seguía imperando en sus calles y en las provincias más alejadas.
 
