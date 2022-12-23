@@ -28,7 +28,7 @@ Cuando uno escucha eso de la **Guerra de los Pasteles**, podría imaginarse a do
 
 Todo empezó con la reclamación de **un pastelero enojado**, y el asunto llegó tan lejos que **México** acabó pagando una enorme cantidad de dinero. En seguida, te contamos todos los detalles.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Benito Juárez, ¿por qué dijo: “el respeto al derecho ajeno es la paz”?**](https://blog.tonoysumariachi.com/historia/2022/12/01/benito-juarez-por-que-dijo-el-respeto-al-derecho-ajeno-es-la-paz.html)
 
 México, como nación, estaba prácticamente recién nacida: apenas en 1821 había terminado la Guerra de Independencia, y el Virreinato de la Nueva España se convirtió en una nueva nación. Sin embargo, el desorden social seguía imperando en sus calles y en las provincias más alejadas.
 
