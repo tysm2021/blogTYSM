@@ -27,7 +27,7 @@ En todo mundo, una de las **vestimentas** que más representan a **México** es 
 
 Por eso, a continuación te compartimos un poco de la **historia** de este **traje** tan nuestro y que nuestros queridos **mariachis** usan y lucen con tanto orgullo.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Nuestros queridos charros cantores de México**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/26/nuestros-queridos-charros-cantores-de-mexico.html)**.**
 
 Lo primero que hay que saber es que el **traje de charro** deriva de la práctica, y actualmente el deporte, de la **charrería**. Esta actividad, en la que hombres y mujeres montan a caballo, lazan a los equinos y hacen una serie de suertes y evoluciones, tiene sus orígenes en el pasado colonial de México, allá por el siglo XVI, y su origen se lo disputan los actuales estados de Jalisco y de Hidalgo, ambos de gran tradición **charra**.
 
