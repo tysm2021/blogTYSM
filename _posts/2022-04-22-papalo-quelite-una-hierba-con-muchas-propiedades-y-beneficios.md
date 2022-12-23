@@ -28,7 +28,7 @@ Entre las muchas **hierbas** y plantas que sazonan nuestra gastronomía, una que
 
 Enseguida te platicamos un poco de su origen, sus usos en la cocina y, sobre todo, de lo bueno que resulta su consumo para tu organismo.
 
-TE PUEDE INTERESAR:
+**TE PUEDE INTERESAR:** [**Tepezcohuite: usos y beneficios de esta planta medicinal ancestral**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/17/tepezcohuite-usos-y-beneficios-de-esta-planta-medicinal-ancestral.html)**.**
 
 Se le conoce como **pápalo quelite** o, simplemente, como **pápalo** porque su nombre deriva del náhuatl _papaloqúilitl_, expresión que viene de _pápalotl_, ‘mariposa’ y _quilitl_, ‘hierba o planta comestible’, pues a los antiguos mexicas sus hojas verdes les recordaban a las alas de una mariposa. Su nombre científico es **Porophyllum ruderale** y en otras latitudes también se le conoce como **quirquiña**.
 
