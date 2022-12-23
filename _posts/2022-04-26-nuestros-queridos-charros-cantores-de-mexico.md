@@ -24,9 +24,9 @@ summary: 'Nada más mexicano que la figura del charro que canta: conoce aquí a 
   más grandes.'
 
 ---
-Músicos y cantantes van y vienen. Pero cuando se habla de música netamente mexicana, a casi todos nos vienen a la mente las canciones rancheras y, ¡cómo no!, los charros cantores de México, desde el pionero Tito Guízar hasta el recientemente fallecido Vicente Fernández.
+Músicos y cantantes van y vienen. Pero cuando se habla de **música** netamente **mexicana**, a casi todos nos vienen a la mente las **canciones** **rancheras** y, ¡cómo no!, los **charros** **cantores** de México, desde el pionero Tito Guízar hasta el recientemente fallecido Vicente Fernández.
 
-En este breve recuento, recordamos a las mejores voces que han incursionado en la música vernácula de México y que, ya sea en discos o en películas, han puesto muy en alto el nombre de nuestro país y son infaltables en un 15 de septiembre y, también, cuando uno trae unos tequilitas entre pecho y espalda…
+En este breve recuento, recordamos a las mejores voces que han incursionado en la **música vernácul**a de **México** y que, ya sea en discos o en películas, han puesto muy en alto el nombre de nuestro país y son infaltables en un 15 de septiembre y, también, cuando uno trae unos tequilitas entre pecho y espalda…
 
 **TE RECOMENDAMOS:** [**Traje de charro: historia y partes de la vestimenta más mexicana.**](https://blog.tonoysumariachi.com/mexicanisimos/2022/07/06/traje-de-charro-historia-y-partes-de-la-vestimenta-mas-mexicana.html)
 
@@ -40,7 +40,7 @@ El pionero. Fue uno de los primeros en ponerse el traje de charro y entonar canc
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/de/Jorge_Negrete_publicity_photo%2C_c.1940s_%28cropped%29.jpg)
 
-Una de las figuras central de la Época de Oro del Cine Mexicano. Destacó en el cine con su voz y su presencia, haciendo famosas composiciones como "Ay Jalisco, no te rajes", "Cocula" y "México lindo y querido".
+La mejor voz y el "Charro Cantor" por excelencia, siendo una de las figuras central de la Época de Oro del Cine Mexicano. Destacó en el cine con su voz y su presencia, haciendo famosas composiciones como "Ay Jalisco, no te rajes", "Cocula" y "México lindo y querido".
 
 ### Pedro Infante (1917-1957)
 
