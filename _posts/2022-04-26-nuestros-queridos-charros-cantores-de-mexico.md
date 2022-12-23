@@ -70,7 +70,7 @@ Originario del barrio capitalino de Tacubaya, "El rey del bolero ranchero" desta
 
 ### José Alfredo Jiménez (1926-1973)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jos%C3%A9_Alfredo_Jim%C3%A9nez_en_1957.jpg/356px-Jos%C3%A9_Alfredo_Jim%C3%A9nez_en_1957.jpg)
+![](/images/2022-12-23-josealfredo.jpeg)
 
 Sin duda, uno de los más grandes cantautores del género ranchero. Se especula que compuso cerca de mil canciones, entre las que destacan "El rey", "Camino de Guanajuato", "Te solté la rienda" y "Si nos dejan".
 
@@ -78,4 +78,4 @@ Sin duda, uno de los más grandes cantautores del género ranchero. Se especula 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/27/Fernandez-3-24-13_03.JPG)
 
-Considerado del último de los charros cantores de México. Originario de Huentitán, Jalisco, tuvo una importante carrera discográfica con éxitos como "La ley del monte", "De qué manera te olvido" y "Por tu maldito amor".
+Considerado del último de los **charros cantores** de México. Originario de Huentitán, Jalisco, tuvo una importante carrera discográfica con éxitos como "La ley del monte", "De qué manera te olvido" y "Por tu maldito amor".
