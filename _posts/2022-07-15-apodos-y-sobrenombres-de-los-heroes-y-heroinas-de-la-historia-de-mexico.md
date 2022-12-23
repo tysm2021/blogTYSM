@@ -69,5 +69,7 @@ En la mitología griega, un centauro era una criatura fabulosa que tenía el tor
 
 ## El apóstol de la democracia
 
-Cuando se opuso al régimen de Porfirio Díaz, quien estaba en el poder desde hacía treinta años, **Francisco I. Madero** enarboló el emblema de "Sufragio efectivo, no reelección". Por eso, cuando lo derrotó limpiamente en las urnas el 6 de noviembre de 1911, pronunció la frase: "Estoy más orgulloso por las victorias obtenidas en el campo de la democracia que por las alcanzadas en los campos de batalla".  
+Cuando se opuso al régimen de Porfirio Díaz, quien estaba en el poder desde hacía treinta años, **Francisco I. Madero** enarboló el emblema de "Sufragio efectivo, no reelección". Por eso, cuando lo derrotó limpiamente en las urnas el 6 de noviembre de 1911, pronunció la frase: "Estoy más orgulloso por las victorias obtenidas en el campo de la democracia que por las alcanzadas en los campos de batalla".
+
+  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Madero_Retrato_%28Castillo_de_Chapultepec%29.png/527px-Madero_Retrato_%28Castillo_de_Chapultepec%29.png)
