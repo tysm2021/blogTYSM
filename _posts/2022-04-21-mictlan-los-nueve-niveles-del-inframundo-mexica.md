@@ -28,7 +28,7 @@ En la religión de los antiguos **mexicas**, comúnmente conocidos como “**azt
 
 A continuación, te describimos cada uno de **los nueve niveles** con sus **nombres** y sus **significados**, así como las pruebas que tenían que superar las almas de los difuntos antes de alcanzar el descanso eterno.
 
-TE PUEDE INTERESAR:
+**TE PUEDE INTERESAR:** [**Dioses y diosas mexicas: deidades del México antiguo**](https://blog.tonoysumariachi.com/historia/2022/10/04/dioses-y-diosas-mexicas-deidades-del-mexico-antiguo.html)**.**
 
 #### 1. Itzcuintlán
 
@@ -55,6 +55,8 @@ En este nivel se encontraba un enorme cerro hecho de afilados pedernales de obsi
 ##### “Lugar donde hay mucha nieve”
 
 En este nivel, el muerto habrá de cruzar una extensa área congelada con ocho montes de aristas cortantes, donde siempre está cayendo nieve. Se trata de la morada del dios Mictlecayotl, dios del viento helado del Norte.
+
+**TE RECOMENDAMOS:** [**Coyolxauhqui: la diosa mexica de la Luna que dio origen a un museo**](https://blog.tonoysumariachi.com/historia/2022/08/17/coyolxauhqui-la-diosa-mexica-de-la-luna-que-dio-origen-a-un-museo.html)**.**
 
 #### 5. Pancuetlacaloyan
 
