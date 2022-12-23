@@ -39,7 +39,7 @@ Otra leyenda adjudica la creación del **mole** a un afortunado cocinero llamado
 
 ### Receta del mole poblano
 
-**Ingredientes**
+**Ingredientes (24 personas)**
 
 * 1½ tazas de manteca de cerdo
 * 250 g de chile mulato limpio
@@ -80,7 +80,7 @@ Otra leyenda adjudica la creación del **mole** a un afortunado cocinero llamado
 
 _Para el pollo_
 
-* Pollo 24 piezas de pollo (muslo con pierna)
+* 24 piezas de pollo o guajolote (muslos, piernas, alas)
 * 2 cabezas de ajo cortadas por mitad
 * 1 cebolla blanca cortada en cuarterones
 * 1½ cucharadas de sal
