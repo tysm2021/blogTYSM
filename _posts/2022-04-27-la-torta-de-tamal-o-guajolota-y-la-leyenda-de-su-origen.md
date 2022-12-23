@@ -28,7 +28,7 @@ Cuando uno vive o está de visita en la **Ciudad de México**, es fácil darse c
 
 Como siempre sucede, nadie conoce el **origen** exacto de este popular antojito, ni mucho menos el nombre de su autor. Pero queda claro que, después de la comida, lo que más nos gusta a los mexicanos es inventar historias y **leyendas** sobre cómo surgieron ciertaas cosas.
 
-TE PUEDE INTERESAR:
+**TE RECOMENDAMOS:** [**Corundas, uchepos y otros tamales michoacanos**](https://blog.tonoysumariachi.com/gastronomia/2022/09/06/corundas-uchepos-y-otros-tamales-michoacanos.html)**.**
 
 Primero, hablemos de la **guajolota**. Para quienes no la conocen, se trata simplemente de una **torta de tamal**; es decir, de una porción de masa de maíz al que se añade un guisado y se cuece envuelta en hoja de maíz, y después se coloca en medio de una pieza de pan blanco, ya sea un bolillo o una telera. Normalmente se acompaña con un atole y se vende en puestos callejeros, por ejemplo afuera de las estaciones del metro.
 
