@@ -27,7 +27,7 @@ Una de las civilizaciones que más destaca en la **historia** del **México** **
 
 Aunque en el uso común se usan ambas **palabras**, y de hecho es mucho más frecuente que se use el término **azteca** para referirse al pueblo que conquistó casi toda Mesoamérica entre los siglos XIV y XV de nuestra era, consultemos la opinión de los arqueólogos que han dedicado su vida a estudiar al heroico pueblo **mexica** que fue conquistado por los invasores españoles.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Piedra del Sol: ¿por qué se le llama Calendario Azteca?**](https://blog.tonoysumariachi.com/historia/2022/08/26/piedra-del-sol-por-que-se-le-llama-calendario-azteca.html)
 
 El pueblo **mexica** tiene una historia que abarca varios siglos, desde su salida y peregrinación de la ciudad legendaria de Aztlán, cuya ubicación nadie conoce y de donde habrían tomado el gentilicio de **aztecas**, hasta su llegada al Valle de México, la posterior fundación de la ciudad de México-Tenochtitlan, la creación y la expansión del Imperio hasta su caída en 1521 a manos de las fuerzas del conquistador español Hernán Cortés.
 
