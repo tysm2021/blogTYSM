@@ -28,7 +28,7 @@ Si eres de esos que no soportan mucho los gentíos ni las playas llenas de turis
 
 Eso sí: te recomendamos hacer tu viaje con anticipación y tomar todas las previsiones necesarias, pues una vez que llegues te será difícil encontrar una tienda de conveniencia o un hotel si no tuviste la delicadez de reservar. Aquí vamos:
 
-TE PUEDE INTERESAR:
+**TE PUEDE INTERESAR:** [**Las tres playas más hermosas de Brasil**]()**.**
 
 ## Majahuitas, Jalisco
 
