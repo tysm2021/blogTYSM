@@ -24,11 +24,11 @@ summary: 'A pesar de lo que crees, el pozole es un alimento balanceado y nutriti
   te decimos las razones.'
 
 ---
-Hay que reconocerlo: una gran parte de la comida mexicana, aunque es deliciosa, está lejos de ser **saludable** y **nutritiva**. Pero entre las muchas cosas fritas y abundantes de grasa, el pan blanco, o bien, las que son extremadamente dulces y malas para la salud —y ni hablar de la vitamina T, que incluye tacos, tortas y tostadas—, el **pozole** destaca porque, a pesar de lo que puedas pensar, es **un alimento nutritivo**, ¿te has preguntado **por qué**?
+Hay que reconocerlo: una gran parte de la **comida** **mexicana**, aunque es deliciosa, está lejos de ser **saludable** y **nutritiva**. Pero entre las muchas cosas fritas y abundantes de grasa, el pan blanco, o bien, las que son extremadamente dulces y malas para la salud —y ni hablar de la vitamina T, que incluye tacos, tortas y tostadas—, el **pozole** se distingue porque, a pesar de lo que puedas pensar, es **un alimento nutritivo**, ¿te has preguntado **por qué**?
 
 Resulta que si analizamos uno por uno los ingredientes que componen este delicioso platillo, ya sea el típico **rojo** o el **verde**, conocido como **“estilo Guerrero”**, son ricos en **nutrientes** por lo que, si se come con moderación, no entra en la categoría de “comida chatarra”.
 
-**TE RECOMENDAMOS:** [**El sangriento origen de nuestro querido pozole**](https://blog.tonoysumariachi.com/historia/2022/09/05/el-sangriento-origen-de-nuestro-querido-pozole.html)**.**
+**TE RECOMENDAMOS:** [**Pozole verde o estilo Guerrero: una deliciosa variante de nuestro platillo favorito**](https://blog.tonoysumariachi.com/gastronomia/2022/07/15/pozole-verde-o-estilo-guerrero-una-deliciosa-variante-de-nuestro-platillo-favorito.html)**.**
 
 Hace un par de años, el Instituto Mexicano del Seguro Social (IMSS) declaró al **pozole** como **un alimento saludable**, pues contiene los todos los nutrientes necesarios a la hora de la comida. ¿Quieres saber cuáles son?
 
