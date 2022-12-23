@@ -27,7 +27,7 @@ La historia de México, o al menos como nos la cuentan, cuenta con dos tipos de 
 
 Así las cosas, sabes quiénes son "El barón de Cuatrociénegas", "El quince uñas", "La Corregidora", "El centauro del norte", "El siervo de la Nación" o "El apóstol de la democracia". No te preocupes: aquí te lo contamos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Qué héroes y heroínas están enterrados en el Ángel de la Independencia?**](https://blog.tonoysumariachi.com/historia/2022/09/02/que-heroes-y-heroinas-estan-enterrados-en-el-angel-de-la-independencia.html)
 
 ## El padre de la Patria
 
