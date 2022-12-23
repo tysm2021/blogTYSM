@@ -27,7 +27,7 @@ Es una especie de **tapete** hecho de hoja de palma trenzada y tiene tanto arrai
 
 Hoy en día, aunque ya casi ha caído en el desuso, muchos artesanos siguen produciéndolos incluso en una variedad de colores y con funciones más decorativas que prácticas. Pero comencemos por el principio…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Madera de Olinalá: fragante y colorida artesanía del estado de Guerrero**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/19/madera-de-olinala-la-fragante-y-colorida-artesania-del-estado-de-guerrero.html)**.**
 
 La palabra **petate** proviene de la lengua náhuatl que hablaban los antiguos mexicas y otros pueblos, y originalmente se le decía _petátl_ a esta estera o **tapete** hecho con fibras u hojas de palma trenzadas. Pueden tener cualquier medida, pero por lo regular se trenzan en forma cuadrada o rectangular y en un tamaño suficiente para que una persona adulta quepa acostado en ella.
 
