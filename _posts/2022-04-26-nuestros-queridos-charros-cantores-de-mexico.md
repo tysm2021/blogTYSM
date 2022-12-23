@@ -56,7 +56,7 @@ Apodado "El Gallo Giro" por la cinta del mismo nombre, fue otro de los grandes a
 
 ### Antonio Aguilar (1919-2007)
 
-### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Antonio_Aguilar%2C_c._1960s.jpg/770px-Antonio_Aguilar%2C_c._1960s.jpg)
+### ![](https://upload.wikimedia.org/wikipedia/commons/1/17/Antonio_Aguilar_in_The_Undefeated.jpg)
 
 "El charro de México", además de impulsar la charrería como deporte nacional, tuvo una gran carrera en el cine e interpretando canciones como "Un puño de tierra", "Qué falta me hace mi padre" y "Triste recuerdo".
 
@@ -65,6 +65,8 @@ Apodado "El Gallo Giro" por la cinta del mismo nombre, fue otro de los grandes a
 ![](https://upload.wikimedia.org/wikipedia/commons/4/4d/Javier_Sol%C3%ADs_in_1966_%28cropped%29.jpg)
 
 Originario del barrio capitalino de Tacubaya, "El rey del bolero ranchero" destacó por su suave timbre de voz y por canciones más melodiosas, tales como "Payaso", "Esclavo y amo" y su más grande éxito, "Sombras".
+
+**TE RECOMENDAMOS:** [**Día del mariachi: origen e historia de la celebración**](https://blog.tonoysumariachi.com/mexicanisimos/2022/05/27/dia-del-mariachi-origen-e-historia-de-la-celebracion.html)**.**
 
 ### José Alfredo Jiménez (1926-1973)
 
