@@ -56,6 +56,8 @@ Uno de los inventos más trascendentes del siglo XX y que cambió de forma más 
 
 Aquí vale la pena hacer una aclaración: el doctor Miramontes, siendo aún un estudiante universitario que estaba bajo la tutela de George Rosenkranz —CEO de la empresa Pfizer— y del investigador Carl Djerassi, sintetizó la **noretisterona**, que es el ingrediente activo de la **píldora anticonceptiva**. La patente de los primeros **anticonceptivos orales** la compartió, cinco años más tarde, con dichos estadounidenses.
 
+**TE RECOMENDAMOS:** [**Premios Nobel mexicanos: cuántos y quiénes son**](https://blog.tonoysumariachi.com/cultura/2022/04/22/premios-nobel-mexicanos-cuantos-y-quienes-son.html)**.**
+
 ## Tridilosa (1964)
 
 ### Heberto Castillo
