@@ -23,9 +23,9 @@ show_author_profile: false
 comment: false
 
 ---
-La historia de México, o al menos como nos la cuentan, cuenta con dos tipos de personajes: los villanos, que explotaban a los pobres, eran crueles e injustos, o se aferraban al poder, y los héroes, quienes ofrendaron incluso sus vidas en pro de la libertad, la justicia y la soberanía del país y de su pueblo. Por esas acciones muchos de ellos recibieron sobrenombres o apodos con los que son mayormente conocidos.
+La **historia** de **México**, o al menos como nos la cuentan, cuenta con dos tipos de personajes: los villanos, que explotaban a los pobres, eran crueles e injustos, o se aferraban al poder, y los **héroes** y las **heroínas**, quienes ofrendaron incluso sus vidas en pro de la libertad, la justicia y la soberanía del país y de su pueblo. Por esas acciones muchos de ellos recibieron **sobrenombres** o **apodos** con los que son mayormente conocidos.
 
-Así las cosas, sabes quiénes son "El barón de Cuatrociénegas", "El quince uñas", "La Corregidora", "El centauro del norte", "El siervo de la Nación" o "El apóstol de la democracia". No te preocupes: aquí te lo contamos.
+Así las cosas, ¿sabes quiénes son "El barón de Cuatrociénegas", "El quince uñas", "La Corregidora", "El centauro del norte", "El siervo de la Nación" o "El apóstol de la democracia"? Si no los sabes, no te preocupes: aquí te lo contamos.
 
 **TE RECOMENDAMOS:** [**¿Qué héroes y heroínas están enterrados en el Ángel de la Independencia?**](https://blog.tonoysumariachi.com/historia/2022/09/02/que-heroes-y-heroinas-estan-enterrados-en-el-angel-de-la-independencia.html)
 
@@ -37,7 +37,7 @@ Nos referimos, desde luego, al cura **Miguel Hidalgo y Costilla**, quien entre l
 
 ## La Corregidora
 
-Así se le llamaba a María Josefa Crescencia Ortiz Téllez-Girón Domínguez, mejor conocida como **doña Josefa Ortiz de Domínguez**, quien fuera esposa del señor Miguel Domínguez, a la sazón corregidor de Querétaro. Ella nunca tuvo ese cargo ni desempeñó oficialmente sus funciones.
+Así se le llamaba a María Josefa Crescencia Ortiz Téllez-Girón Domínguez, mejor conocida como **Doña Josefa Ortiz de Domínguez**, quien fuera esposa del señor Miguel Domínguez, a la sazón corregidor de Querétaro. Ella nunca tuvo ese cargo ni desempeñó oficialmente sus funciones.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Josefa_Ortiz%2C_%C3%B3leo_sobre_tela.jpg/757px-Josefa_Ortiz%2C_%C3%B3leo_sobre_tela.jpg)
 
@@ -50,6 +50,8 @@ Con este apodo, que se impuso él mismo, se le conoce al general insurgente **Jo
 ## El quince uñas
 
 Hay que reconocerlo: es un apodo cruel, pero ingenioso, el que le pusieron a **Antonio López de Santa Anna**, quien además de ocupar la presidencia en once ocasiones —aunque otros dicen que nomás fueron seis, pero con algunas interrupciones—, durante la llamada Guerra de los Pasteles perdió una de sus piernas, por lo que "sólo le quedaron quince uñas para seguir robando". Cosas que dice el pueblo a veces…
+
+**TE RECOMENDAMOS:** [**Guerra de los Pasteles: resumen e historia**](https://blog.tonoysumariachi.com/historia/2022/04/20/guerra-de-los-pasteles-resumen-e-historia.html)**.**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ed/Oleo_Antonio_Lopez_de_Santa_Anna.PNG)
 
