@@ -34,13 +34,13 @@ A continuación te presentamos a algunos inventores y sus creaciones, en estrict
 
 ### Flotador de baño (1790)
 
-El **flotador** que todos conocemos y que está en casi todos los WC de México, fue obra de un mexicano, quien lo denominó "**obturador automático flotante**"; éste consta de un elemento hueco que se eleva a medida que el depósito se va llenando y, al alcanzar cierta altura, cierra el paso del agua para evitar que se desperdicie.
+El **flotador** que todos conocemos y que está en casi todos los WC de México, fue obra de un mexicano, quien lo denominó "**obturador automático flotante**"; éste consta de un elemento hueco que se eleva a medida que el depósito se va llenando y, al alcanzar cierta altura, cierra el paso del agua para evitar que se derrame y desperdicie.
 
 ## Everardo Rodríguez Arce y Luis Romero
 
 ### Máquina tortilladora (1904)
 
-¿Qué alimento es más representativo de México que la **tortilla**? Y como a principios del siglo XX éstas se hacían a mano, los inventores tuvieron la idea de crear una **máquina** que aplanara la masa y la cortara de forma automática; sin embargo no se les ocurrió que, al cortarlas en forma cuadrada, no serían bien recibidas por el público. Después hubo otras máquinas que mejoraron el mecanismo, pero la idea fue de ellos.
+¿Qué alimento es más representativo de México que la **tortilla**? Y como a principios del siglo XX éstas se hacían a mano, los inventores tuvieron la idea de crear una **máquina** que aplanara la masa y la cortara de forma automática; sin embargo, no se les ocurrió que, al cortarlas en forma cuadrada, no serían bien recibidas por el público. Después hubo otras máquinas que mejoraron el mecanismo y cortaban tortillas redondas, pero la idea fue de ellos.
 
 ## Guillermo González Camarena
 
