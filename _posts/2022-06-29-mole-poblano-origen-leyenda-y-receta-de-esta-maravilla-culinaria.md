@@ -23,13 +23,13 @@ show_author_profile: false
 comment: false
 
 ---
-Junto con los chiles en nogada, el **mole poblano** es una de las más preciadas joyas de la gastronomía mexicana. Por su laboriosa elaboración, la cantidad y variedad de sus muchos ingredientes, por su textura y sabor, y porque es sinónimo de fiesta y jolgorio, ningún mexicano podrá negar que es un platillo con un especial arriago en nuestra **cultura**, al grade de que existen varias **leyendas** en torno a su **origen**.
+Junto con los chiles en nogada, el **mole poblano** es una de las más preciadas joyas de la gastronomía mexicana. Por su laboriosa elaboración, la cantidad y variedad de sus muchos ingredientes, por su textura y sabor, y porque es sinónimo de fiesta y jolgorio, ningún mexicano podrá negar que es un platillo con un especial arriago en nuestra **cultura**, al grado de que existen varias **leyendas** en torno a su **origen**.
 
 Acompáñanos en este breve recorrido alrededor de la historia del **mole poblano**, que lo mismo disfrutamos en **enchiladas** o enmoladas, que bañando unos huevitos estrellados o bañando una pieza de pollo o guajolote, con su respectiva porción de arroz rojo. ¡De rechupete!
 
 **TE RECOMENDAMOS:** [**Dulces poblanos, herencia colonial de los conventos de Puebla**](https://blog.tonoysumariachi.com/gastronomia/2022/10/06/dulces-poblanos-herencia-colonial-de-los-conventos-de-puebla.html)**.**
 
-Los estudiosos afirman que la palabra **mole** deriva del náhuatl _mulli_ o _molli_, que significa "salsa". En tiempos previos a la Conquista, sin embargo, no se le añadía cacao ni chocolate y era básicamente una mezcla de chiles y especias que acompañaban a un guajolote cocido. El **mole poblano**, como su nombre lo indica, tuvo su origen en la ciudad de **Puebla** y existen dos **leyendas** sobre su creación.
+Los estudiosos afirman que la palabra **mole** deriva del náhuatl _mulli_ o _molli_, que significa "salsa". En tiempos previos a la Conquista, sin embargo, no se le añadía cacao ni chocolate y era básicamente una mezcla pastosa de chiles y especias que acompañaban a un guajolote cocido. El **mole poblano**, como su nombre lo indica, tuvo su origen en la ciudad de **Puebla** en tiempos de la **Colonia** y existen dos **leyendas** sobre su creación.
 
 Una de ellas afirma que el **mole** fue inventado en el Convento de Santa Rosa por Sor Andrea de la Asunción, allá por el año 1681; en el convento se cuenta que la monja dominica dio con la **receta** del **mole** gracias a la inspiración divina, y que el aroma que surgió al prepararlo fue tan exquisito que la madre superiora rompió su voto de silencio y exclamó: “Hermana, ¡qué buen mole!”; las demás monjas rieron y corrigieron a la madre diciendo: “Se dice muele”.
 
