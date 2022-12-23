@@ -28,7 +28,7 @@ Hay que reconocerlo: una gran parte de la comida mexicana, aunque es deliciosa, 
 
 Resulta que si analizamos uno por uno los ingredientes que componen este delicioso platillo, ya sea el típico **rojo** o el **verde**, conocido como **“estilo Guerrero”**, son ricos en **nutrientes** por lo que, si se come con moderación, no entra en la categoría de “comida chatarra”.
 
-TE PUEDE INTERESAR:
+**TE RECOMENDAMOS:** [**El sangriento origen de nuestro querido pozole**](https://blog.tonoysumariachi.com/historia/2022/09/05/el-sangriento-origen-de-nuestro-querido-pozole.html)**.**
 
 Hace un par de años, el Instituto Mexicano del Seguro Social (IMSS) declaró al **pozole** como **un alimento saludable**, pues contiene los todos los nutrientes necesarios a la hora de la comida. ¿Quieres saber cuáles son?
 
