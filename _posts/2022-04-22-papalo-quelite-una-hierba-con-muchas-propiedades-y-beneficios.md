@@ -46,4 +46,4 @@ Según el Gobierno de México, algunas de sus **propiedades** y **beneficios** d
 * Ayuda a combatir la **anemia**.
 * Y además, funciona como **anticancerígeno**.
 
-Como puedes ver, nuestro querido **pápalo** es todo un estuche de monerías, así que si por su sabor lo omites dentro de tu consumo diario, quizá sea momento de darle una segunda oportunidad, ¿qué dices? ¿Te animas?
+Como puedes ver, nuestro querido **pápalo** es todo un estuche de monerías, así que si por su sabor lo omites dentro de tu consumo diario, quizá sea momento de darle una segunda oportunidad, ¿qué dices? ¿Lo pruebas?
