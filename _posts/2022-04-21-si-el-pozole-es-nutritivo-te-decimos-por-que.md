@@ -32,7 +32,7 @@ Resulta que si analizamos uno por uno los ingredientes que componen este delicio
 
 Hace un par de años, el Instituto Mexicano del Seguro Social (IMSS) declaró al **pozole** como **un alimento saludable**, pues contiene los todos los nutrientes necesarios a la hora de la comida. ¿Quieres saber cuáles son?
 
-Empecemos con la **carne** de cerdo o de pollo: ésta es una excelente fuente de proteína animal, y ha quedado demostrado que es injusto que se le considere poco saludable, supuestamente porque es muy grasosa; además, es fuente de potasio, magnesio, zinc y vitamina A. Su otro ingrediente principal, el **maíz cacahuazintle**, es fuente de hierro, potasio y magnesio, minerales que nos ayudan a la correcta oxigenación de los órganos.
+Empecemos con la **carne** de cerdo o de pollo: ésta es una excelente fuente de proteína animal, y ha quedado demostrado que es injusto que se le considere poco saludable, supuestamente porque es muy grasosa; además, es fuente de potasio, magnesio, zinc y vitamina A. Su otro ingrediente principal, el **maíz cacahuazintle**, es fuente de hierro, potasio y magnesio, minerales que nos ayudan a la correcta oxigenación de los órganos, y también aporta carbohidratos que nos dan energía.
 
 Luego vienen los aderezos: el **limón** es una gran fuente de vitamina C, que ayuda a evitar gripes y resfriados; el **rábano** tiene abundante yodo, es digestivo y diurético; la **lechuga** proporciona fibra y ayuda al corazón, pues contiene flavonoides; además está el **orégano**, que ayuda a la digestión.
 
