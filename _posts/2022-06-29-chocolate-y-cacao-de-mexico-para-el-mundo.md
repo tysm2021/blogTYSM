@@ -31,7 +31,7 @@ Antes de la llegada de los españoles, por ejemplo, el **cacao** era tan aquilat
 
 El **cacao** proviene, justamente, del árbol del **cacao** o cacaotero, que recibe el nombre científico de _Theobroma cacao_. Una teoría dice que en origen esta planta se daba en la cuenca del Amazonas, en América del Sur, y fue traída a Mesoamérica por comerciantes o migrantes, pues resulta poco probable que la semilla haya sido dispersada por roedores, monos y murciélagos. En territorio mexicano, se da sobre todo en el sureste y era muy apreciado por la civilización olmeca.
 
-En términos generales, se le llama **cacao** tanto al fruto que crece en el árbol, incluyendo la mazorca y las semillas que crecen dentro de ella (ver imagen), como al producto que resulta de la fermentación y secados de las semillas, que muchas veces se convierte en un polvo seco que también recibe como nombre el anglicismo **cocoa**, que es el ingrediente principal del **chocolate**.
+En términos generales, se le llama **cacao** tanto al fruto que crece en el árbol, incluyendo la mazorca y las semillas que crecen dentro de ella (_ver image_n), como al producto que resulta de la fermentación y secados de las semillas, que muchas veces se convierte en un polvo seco que también recibe como nombre el anglicismo **cocoa**, que es el ingrediente principal del **chocolate**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cacao-pod-k4636-14.jpg/1024px-Cacao-pod-k4636-14.jpg)
 
