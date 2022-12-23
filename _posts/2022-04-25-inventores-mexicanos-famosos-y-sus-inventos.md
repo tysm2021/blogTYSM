@@ -28,7 +28,7 @@ Los mexicanos somos un pueblo lleno de talento e inventiva. Por eso, desde los p
 
 A continuación te presentamos a algunos inventores y sus creaciones, en estricto orden cronológico. Aunque en algunos casos la creación mexicana sirvió de base para el invento que todos conocemos, seguramente te sorprenderá saber que muchos de estos adelantos los debemos a un mexicano.
 
-TE PUEDE INTERESAR:
+**TE RECOMENDAMOS:** [**Mexicanos ganadores del Oscar: quiénes son y cuántos ganaron**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/27/mexicanos-ganadores-del-oscar-quienes-son-y-cuantos-ganaron.html)**.**
 
 ## José Antonio Alzate y Ramírez
 
