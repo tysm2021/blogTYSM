@@ -27,7 +27,7 @@ De niños, todos aprendimos en la escuela que los **Niños Héroes** de **Chapul
 
 A continuación, te explicamos por qué se dice que Fernando Montes de Oca, Agustín Melgar, Juan de la Barrera, Vicente Suárez, Juan Escutia y Francisco Márquez no hicieron todo lo que nos dijeron que hicieron…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Antonio López de Santa Anna, ¿el peor presidente de la historia de México?**](https://blog.tonoysumariachi.com/historia/2022/11/11/antonio-lopez-de-santa-anna-el-peor-presidente-de-la-historia-de-mexico.html)
 
 Según el historiador Alejandro Rosas, todo esto del sacrificio de los **Niños Héroes** es una **mentira** del gobierno en aras de la construcción del Altar a la Patria, situado en la entrada al Bosque de **Chapultepec** y donde supuestamente están enterrados los restos de los pequeños héroes patrios, ya que el gobierno de entonces necesitaba legitimarse y por eso alteró, distorsionó e incluso inventó algunas de las historias.
 
