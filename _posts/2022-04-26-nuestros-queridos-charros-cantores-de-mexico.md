@@ -28,7 +28,7 @@ Músicos y cantantes van y vienen. Pero cuando se habla de música netamente mex
 
 En este breve recuento, recordamos a las mejores voces que han incursionado en la música vernácula de México y que, ya sea en discos o en películas, han puesto muy en alto el nombre de nuestro país y son infaltables en un 15 de septiembre y, también, cuando uno trae unos tequilitas entre pecho y espalda…
 
-TE PUEDE INTERESAR:
+**TE RECOMENDAMOS:** [**Traje de charro: historia y partes de la vestimenta más mexicana.**](https://blog.tonoysumariachi.com/mexicanisimos/2022/07/06/traje-de-charro-historia-y-partes-de-la-vestimenta-mas-mexicana.html)
 
 ### Tito Guízar (1908-1999)
 
