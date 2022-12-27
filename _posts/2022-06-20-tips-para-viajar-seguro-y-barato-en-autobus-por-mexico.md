@@ -29,7 +29,7 @@ Esto incluye viajes en solitario, en pareja, con la familia y en grupo, de modo 
 
 **TE RECOMENDAMOS:** [**Cinco consejos para viajar sin gastar mucho**](https://blog.tonoysumariachi.com/turismo/2022/10/12/cinco-consejos-para-viajar-sin-gastar-mucho.html)**.**
 
-A quienes nos gusta **viajar**, no hay nada que nos detenga. Y si bien una de las formas más cómodas de hacer turismo por México es a bordo de un automóvil particular, hay muchas personas que por gusto o por necesidad prefieren hacerlo en un autobús. ¿Cuáles son las **ventajas** y **desventajas** de esta opción de viaje?
+A quienes nos gusta **viajar**, no hay nada que nos detenga. Y si bien una de las formas más cómodas de hacer turismo por México es a bordo de un automóvil particular, hay muchas personas que por gusto o por necesidad prefieren hacerlo en un **autobús**. ¿Cuáles son las **ventajas** y **desventajas** de esta opción de viaje?
 
 Hablemos primero de las **desventajas**: cuando **viajas** en tu propio auto, tener el volante en tus manos te otorga la libertad de elegir la hora de salida, el itinerario y el número de paradas que puedes hacer en tu viaje; al **viajar** en **autobús** tienes que ajustarte a los horarios y destinos disponibles, a veces tendrás que hacer escalas (es decir, bajarte en una ciudad grande y de ahí tomar otro transporte al pueblo o la playa a donde te diriges) y, también, hacerte a la idea de que tendrás que convivir con más gente en lo que dura el trayecto.
 
@@ -65,13 +65,15 @@ No te confíes con el tiempo, con tus compras anticipadas de boletos ni con el h
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Terminal_de_autobuses_de_Quer%C3%A9taro.jpg/1024px-Terminal_de_autobuses_de_Quer%C3%A9taro.jpg)
 
+**TE RECOMENDAMOS:** [**Cañón del Sumidero: naturaleza y turismo de aventura en Chiapas.**](https://blog.tonoysumariachi.com/turismo/2022/10/03/canon-del-sumidero-naturaleza-y-turismo-de-aventura-en-chiapas.html)
+
 ## Planea bien tus escalas o enlaces
 
 Para **viajar** en **México**, sobre todo a poblaciones pequeñas o a muchos Pueblos Mágicos, deberás primero llegar a una ciudad grande y, de ahí, tomar otro transporte que te lleve a tu destino. Trata de investigar cuáles son las opciones, precios, las horas de salida y, sobre todo, la hora de la última salida. Aunque a los viajeros nos gusta la aventura, ¡no te querrás quedar atorado o atorada en una ciudad en la que no planeabas ir!
 
 ## Lleva equipaje de mano
 
-No dejes todas tus pertenencias en el equipaje que irá en la parte inferior del autobús, sobre todo si harás un viaje largo. En lugar de eso, lleva una bolsa, maletita o "cangurera" con al menos los siguientes artículos: un pequeño botiquín (analgésicos para el dolor de cabeza, dimenhidrinato para el mareo, antihistamínicos para la alergia y los medicamentos que estés tomando), tus audífonos y el cargador del celular, un libro para leer, pañuelos desechables, chicles por si se te tapan los oídos y un cubrebocas de repuesto.
+No dejes todas tus pertenencias en el equipaje que irá en la parte inferior del autobús, sobre todo si harás un viaje largo. En lugar de eso, lleva una bolsa, maletita o "cangurera" con al menos los siguientes artículos: un pequeño botiquín (analgésicos para el dolor de cabeza, dimenhidrinato para el mareo, antihistamínicos para la alergia y los medicamentos que estés tomando), tus audífonos y el cargador del celular, un libro para leer, pañuelos desechables, chicles por si se te tapan los oídos y, en estos tiempos, un cubrebocas de repuesto.
 
 ## Usa ropa cómoda
 
