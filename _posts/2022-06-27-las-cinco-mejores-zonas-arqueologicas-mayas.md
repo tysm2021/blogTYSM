@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-06-27-pyramid-5744558_1280.jpeg"
 sharing: true
-title: Las cinco mejores zonas arqueológicas mayas
+title: Las cinco mejores zonas arqueológicas mayas en México
 summary: La cultura maya dejó importantes vestigios dentro del territorio nacional;
   pero, ¿cuáles son los más importantes?
 cover: "/images/2022-06-27-pyramid-5744558_1280.jpeg"
@@ -25,7 +25,7 @@ comment: false
 ---
 A lo largo de sus muchos siglos de historia, los **mayas** dejaron importantes vestigios en nuestro país: desde restos de sus ciudades-estado hasta muestras de su **arte**, arquitectura, pintura y otras manifestaciones. Por eso, aquí te presentamos las cinco **zonas arqueológicas mayas** más **importantes** de **México**.
 
-Recordemos que la civilización **maya** extendió su dominio hasta América Central, y que en un punto de la historia desaparecieron de un modo misterioso que sigue siendo motivo de discusión por parte de historiadores y arqueólogos. También, que en todos estos lugares existen **Museos de Sitio** administrados y resguardados por el INAH, con valiosa información para el turista interesado en la **arqueología**.
+Recordemos que la civilización **maya** extendió su dominio hasta América Central, llegando hasta Guatemala, y que en un punto de la historia desaparecieron de un modo misterioso que sigue siendo motivo de discusión por parte de historiadores y arqueólogos. También, que en todos estos lugares existen **Museos de Sitio** administrados y resguardados por el INAH, con valiosa información para el turista interesado en la **arqueología**.
 
 **TE RECOMENDAMOS:** [**¿Cuáles eran los principales dioses mayas?**](https://blog.tonoysumariachi.com/historia/2022/09/21/cuales-eran-los-principales-dioses-mayas.html)
 
@@ -33,7 +33,7 @@ Recordemos que la civilización **maya** extendió su dominio hasta América Cen
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/0073_Uxmal.JPG/1024px-0073_Uxmal.JPG)
 
-Ubicada en el estado de Yucatán, fue ocupada varias veces a lo largo de su historia y se cree que su esplendor tuvo lugar entre los años 600 y 900 d.C. Algunas de sus edificaciones más importantes son la **Pirámide del Adivino**, el **Cuadrángulo de las Monjas** y la **Casa de las Palomas**.
+Ubicada en el estado de **Yucatán**, fue ocupada varias veces a lo largo de su historia y se cree que su esplendor tuvo lugar entre los años 600 y 900 d.C. Algunas de sus edificaciones más importantes son la **Pirámide del Adivino**, el **Cuadrángulo de las Monjas** y la **Casa de las Palomas**.
 
 ## Bonampak
 
@@ -45,7 +45,7 @@ Lo que distingue a esta **zona arqueológica** ubicada en Chiapas son, sin lugar
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tulum_-_01.jpg/1024px-Tulum_-_01.jpg)
 
-Se trata del **sitio arqueológico maya** más emblemático de la costa de Quintana Roo por sus sus edificios y pinturas murales. Destaca la construcción conocida como **El Castillo**, el basamento más alto de Tulum, que conserva un templo con tres accesos. También destacan el Templo del Dios Descendente, el Templo de los Frescos, la Casa de las Columnas y la Casa del Halach Uinik.
+Se trata del **sitio arqueológico maya** más emblemático de la costa de **Quintana Roo** por sus sus edificios y pinturas murales. Destaca la construcción conocida como **El Castillo**, el basamento más alto de Tulum, que conserva un templo con tres accesos. También destacan el Templo del Dios Descendente, el Templo de los Frescos, la Casa de las Columnas y la Casa del Halach Uinik.
 
 ## Palenque
 
@@ -53,7 +53,7 @@ Se trata del **sitio arqueológico maya** más emblemático de la costa de Quint
 
 Junto con **Tikal** y **Calakmul**, fue una de las ciudades más poderosas del Clásico **Maya**, y actualmente se ubica en el estado de Chiapas. Destacan el Templo de las Inscripciones, con estelas que narran la vida del gobernante conocido como Pakal el Grande, y ahí fue hallada su cripta funeraria; también, El Templo del Sol, el observatorio y el juego de pelota.
 
-## Chichén Itza
+## Chichén Itzá
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Templo_Kukulkan_Chichen_Itza_03_2011_1438.jpg/1024px-Templo_Kukulkan_Chichen_Itza_03_2011_1438.jpg)
 
