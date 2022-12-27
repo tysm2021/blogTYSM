@@ -27,7 +27,7 @@ Si te gusta **viajar** por **México**, pero no tienes auto o prefieres no preoc
 
 Esto incluye viajes en solitario, en pareja, con la familia y en grupo, de modo que habrá un poco para todos los gustos, planes y presupuestos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Cinco consejos para viajar sin gastar mucho**](https://blog.tonoysumariachi.com/turismo/2022/10/12/cinco-consejos-para-viajar-sin-gastar-mucho.html)**.**
 
 A quienes nos gusta **viajar**, no hay nada que nos detenga. Y si bien una de las formas más cómodas de hacer turismo por México es a bordo de un automóvil particular, hay muchas personas que por gusto o por necesidad prefieren hacerlo en un autobús. ¿Cuáles son las **ventajas** y **desventajas** de esta opción de viaje?
 
