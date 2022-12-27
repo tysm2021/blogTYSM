@@ -51,7 +51,9 @@ El Imperio Mexicano tuvo muy corta vida, pues por presiones de la mayoría que a
 
 La primera constitución en forma de nuestro país se promulgó el  4 de octubre de 1824 con el nombre de **Constitución Federal de los Estados Unidos Mexicanos**, que nombraba como forma de gobierno la república federal, representativa y popular, al tiempo que mantenía los principios de intolerancia religiosa y división de poderes. Fue jurada por el primer presidente mexicano, **Guadalupe Victoria**, con **Nicolás Bravo** como vicepresidente.
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Guadalupe_Victoria_-_02.jpg)
+**27 de septiembre de 1821: Consumación de la Independencia de México**![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Guadalupe_Victoria_-_02.jpg)
+
+**TE RECOMENDAMOS:** [**27 de septiembre de 1821: Consumación de la Independencia de México.**](https://blog.tonoysumariachi.com/historia/2022/08/15/27-de-septiembre-de-1821-consumacion-de-la-independencia-de-mexico.html)
 
 ## Leyes Constitucionales y Bases Orgánicas
 
