@@ -29,9 +29,9 @@ Acá te contamos un par de versiones, pues bien sabemos que en esto del **folclo
 
 **TE RECOMENDAMOS:** [**Toloache, la hierba del amor: ¿en verdad sirve para que se enamoren de ti?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/18/toloache-la-hierba-del-amor-en-verdad-sirve-para-que-se-enamoren-de-ti.html)
 
-La explicación más sencilla es que "**codo**" es una abreviación o, como le llaman los estudiosos, un apócope de **codicioso**: aquella persona que da muestras de codicia, o sea el deseo vehemente de poseer muchas cosas materiales. Hemos de decir, sin embargo, que el uso que le damos a codo es más similar al de **avaro**, que es quien ansía poseer muchas riquezas por el mero placer de atesorarlas y sin compartirlas con nadie, ¿a poco no?
+La explicación más sencilla es que "**codo**" es una abreviación o, como le llaman los estudiosos, un apócope de **codicioso**: aquella persona que da muestras de codicia, o sea el deseo vehemente de poseer muchas cosas materiales. Hemos de decir, sin embargo, que el uso que le damos a _codo_ es más similar al de **avaro**, que es quien ansía poseer muchas riquezas por el mero placer de atesorarlas y sin compartirlas con nadie, ¿a poco no?
 
-Pero, además de esta explicación, existe otra versión que data del siglo XIX y fue popularizada por un historiador originario de **Nuevo León**. Ésta tiene que ver con los vendedores de ganado de aquel estado, que iban a vender su mercancía del otro lado de la frontera.
+Pero, además de esta explicación, existe otra versión que data del siglo XIX y fue popularizada por un historiador originario de **Nuevo León**. Ésta tiene que ver con los vendedores de ganado de aquel estado, que iban a vender su mercancía del otro lado de la frontera, en los Estados Unidos.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tudanca.JPG/1024px-Tudanca.JPG)
 
