@@ -27,7 +27,7 @@ A lo largo de sus muchos siglos de historia, los **mayas** dejaron importantes v
 
 Recordemos que la civilización **maya** extendió su dominio hasta América Central, y que en un punto de la historia desaparecieron de un modo misterioso que sigue siendo motivo de discusión por parte de historiadores y arqueólogos. También, que en todos estos lugares existen **Museos de Sitio** administrados y resguardados por el INAH, con valiosa información para el turista interesado en la **arqueología**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles eran los principales dioses mayas?**](https://blog.tonoysumariachi.com/historia/2022/09/21/cuales-eran-los-principales-dioses-mayas.html)
 
 ## Uxmal
 
