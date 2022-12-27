@@ -27,9 +27,9 @@ Mucha gente en el mundo relaciona a la **Catrina**, esa **calavera** estilizada 
 
 Hoy te platicaremos un poco de este gran artista, de su obsesión con las **calaveras**, de sus demás **obras** y de la triste forma en que halló la muerte.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**El delicioso pan de muerto: origen, historia y significado**](https://blog.tonoysumariachi.com/gastronomia/2022/09/26/el-delicioso-pan-de-muerto-origen-historia-y-significado.html)**.**
 
-**José Guadalupe Posada Aguilar** nació el 2 de febrero de 1852 en la ciudad de Aguascalientes. Desde pequeño mostró aptitudes artísticas, de modo que después de aprender a leer y escribir se inscribió a la Academia Municipal de Dibujo de Aguascalientes. A los 16 años ya era aprendiz en el taller de Trinidad Pedroza y ahí empezó a hacer caricaturas políticas e imágenes religiosas. 
+**José Guadalupe Posada Aguilar** nació el 2 de febrero de 1852 en la ciudad de Aguascalientes. Desde pequeño mostró aptitudes artísticas, de modo que después de aprender a leer y escribir se inscribió a la Academia Municipal de Dibujo de Aguascalientes. A los 16 años ya era aprendiz en el taller de Trinidad Pedroza y ahí empezó a hacer caricaturas políticas e imágenes religiosas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Jos%C3%A9_Guadalupe_Posada%2C_Calavera_oaxaque%C3%B1a%2C_broadsheet%2C_1903.jpg/771px-Jos%C3%A9_Guadalupe_Posada%2C_Calavera_oaxaque%C3%B1a%2C_broadsheet%2C_1903.jpg)
 
