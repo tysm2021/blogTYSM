@@ -14,7 +14,7 @@ article_header:
     gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
     src: "/images/2022-06-23-coins-912719_1280.jpeg"
 sharing: true
-title: "¿Eres muy codo? Aquí el origen de la palabra"
+title: "¿Eres muy codo? Aquí te decimos el origen de esta expresión"
 summary: Cuando alguien es tacaño o avaro, se dice que "es muy codo", ¿conoces el
   origen de la palabra?
 cover: "/images/2022-06-23-coins-912719_1280.jpeg"
@@ -27,11 +27,11 @@ comment: false
 
 Acá te contamos un par de versiones, pues bien sabemos que en esto del **folclor** popular y del **origen** de ciertas cosas, hay muchas opiniones y nadie tiene la última palabra.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Toloache, la hierba del amor: ¿en verdad sirve para que se enamoren de ti?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/18/toloache-la-hierba-del-amor-en-verdad-sirve-para-que-se-enamoren-de-ti.html)
 
 La explicación más sencilla es que "**codo**" es una abreviación o, como le llaman los estudiosos, un apócope de **codicioso**: aquella persona que da muestras de codicia, o sea el deseo vehemente de poseer muchas cosas materiales. Hemos de decir, sin embargo, que el uso que le damos a codo es más similar al de **avaro**, que es quien ansía poseer muchas riquezas por el mero placer de atesorarlas y sin compartirlas con nadie, ¿a poco no?
 
-Pero, además de esta explicación, existe otra versión que data del siglo XIX y fue popularizada por un historiador originario de **Nuevo León**. Ésta tiene que ver con los vendedores de ganado de aquel estado, que iban a vender su mercancía del otro lado de la frontera. 
+Pero, además de esta explicación, existe otra versión que data del siglo XIX y fue popularizada por un historiador originario de **Nuevo León**. Ésta tiene que ver con los vendedores de ganado de aquel estado, que iban a vender su mercancía del otro lado de la frontera.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tudanca.JPG/1024px-Tudanca.JPG)
 
