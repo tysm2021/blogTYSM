@@ -77,6 +77,6 @@ No dejes todas tus pertenencias en el equipaje que irá en la parte inferior del
 
 ## Usa ropa cómoda
 
-Aunque actualmente los autobuses son en general muy confortables, deja el glamour para cuando llegues a tu destino y trata de ir lo más cómodo o cómoda posible, en especial si tu viaje es largo o piensas hacer enlaces: jeans holgados, playera, sudadera, tenis o zapatos que puedas aflojar será lo mejor para que no termines acatarrado o con dolor porque, debido al cambio de altura de ciudad a ciudad, se te hincharon los pies en el camino.
+Aunque actualmente los autobuses son en general muy confortables, deja el glamour para cuando llegues a tu destino y trata de ir lo más cómodo o cómoda posible, en especial si tu viaje es largo o piensas hacer enlaces: jeans holgados o pants, playera, sudadera, tenis o zapatos que puedas aflojar será lo mejor para que no termines acatarrado o con dolor porque, debido al cambio de altura de ciudad a ciudad, se te hincharon los pies en el camino.
 
 Y ahora sí, ¡buen viaje!
