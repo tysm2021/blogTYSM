@@ -27,7 +27,7 @@ Todos los que fuimos a la primaria aprendimos que la **Constitución Política d
 
 Aquí va un recuento de las cartas magnas —como también se les conoce a las **constituciones políticas**— que han tenido validez legal en nuestro país, incluso desde los tiempos en que éramos un colonia española y durante los años que duró la Guerra de Independencia.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Monumento a la Revolución: de Palacio Legislativo a museo.**](https://blog.tonoysumariachi.com/historia/2022/09/28/monumento-a-la-revolucion-de-palacio-legislativo-a-museo.html)
 
 ## Constitución de Cádiz (1812)
 
@@ -35,7 +35,7 @@ Antes de nuestra independencia y tras la invasión napoleónica de España, los 
 
 ## Constitución de Apatzingán (1814)
 
-Estamos ya en plena guerra de Independencia. Los insurgentes reunidos en el poblado de **Apatzingán**, actual territorio michoacano, promulgaron este documento cuyo nombre oficial fue **Decreto Constitucional para la Libertad de la América Mexicana**. Entre sus principios estaba la religión católica como única en el Estado, así como la división de poderes: Ejecutivo (presidente y vicepresidente), Legislativo (Congreso) y Judicial (Supremo Tribunal). 
+Estamos ya en plena guerra de Independencia. Los insurgentes reunidos en el poblado de **Apatzingán**, actual territorio michoacano, promulgaron este documento cuyo nombre oficial fue **Decreto Constitucional para la Libertad de la América Mexicana**. Entre sus principios estaba la religión católica como única en el Estado, así como la división de poderes: Ejecutivo (presidente y vicepresidente), Legislativo (Congreso) y Judicial (Supremo Tribunal).
 
 ![](/images/2022-06-27-morelosapatzingan.jpeg)
 
