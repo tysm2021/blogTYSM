@@ -27,7 +27,7 @@ Los **mexicas** o **aztecas** fueron un pueblo que dominó el área conocida com
 
 Recordemos que este cargo era hereditario y para acceder a él, el gobernante debía pertenecer a una de las familias nobles que durante dos siglos y medio reinaron en el Valle del Anáhuac y conquistaron una buena porción de lo que ahora es México y parte de Centroamérica.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Mictlán: los nueve niveles del inframundo mexica.**](https://blog.tonoysumariachi.com/historia/2022/04/21/mictlan-los-nueve-niveles-del-inframundo-mexica.html)
 
 ## Acamapichtli
 
@@ -43,7 +43,7 @@ TE RECOMENDAMOS:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Huitzil%C3%A1ihuitl%2C_the_Second_Aztec_King_%28Reigned_1395%E2%80%931417%29_WDL6719.png/1280px-Huitzil%C3%A1ihuitl%2C_the_Second_Aztec_King_%28Reigned_1395%E2%80%931417%29_WDL6719.png)
 
-"Pluma de colibrí". Cuarto hijo de Acamapichtli, se casó con la hija de Tezozómoc, rey de Azcapotzalco, y a su nombre conquistó los reinos de Chalco y Cuautitlán. 
+"Pluma de colibrí". Cuarto hijo de Acamapichtli, se casó con la hija de Tezozómoc, rey de Azcapotzalco, y a su nombre conquistó los reinos de Chalco y Cuautitlán.
 
 ## Chimalpopoca
 
@@ -91,7 +91,7 @@ TE RECOMENDAMOS:
 
 ![](https://pueblosoriginarios.com/textos/tovar/imagenes/ahuitzotl.jpg)
 
-"Nutria" o "Espinoso de agua". Fue un emperador aguerrido que dirigió las conquistas hacia el sur de México hasta llegar a Guatemala. En su reinado se inauguró el Gran Teocalli o Templo Mayor. 
+"Nutria" o "Espinoso de agua". Fue un emperador aguerrido que dirigió las conquistas hacia el sur de México hasta llegar a Guatemala. En su reinado se inauguró el Gran Teocalli o Templo Mayor.
 
 ## Moctezuma Xocoyotzin
 
