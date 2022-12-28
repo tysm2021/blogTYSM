@@ -24,7 +24,7 @@ summary: Guanajuato es una ciudad llena de arte e historia, por eso te recomenda
 subcategorie: CIUDADES
 
 ---
-Una de las **ciudades coloniales** mexicanas más hermosas y cargadas de historia es, sin duda, **Guanajuato** . Esta urbe minera, que es la capital del estado donde se forjó nuestra independencia y sede del **Festival Internacional Cervantino** , guarda entre sus calles y callejones una diversidad de **museos** que vale la pena visitar.
+Una de las **ciudades coloniales** mexicanas más hermosas y cargadas de historia es, sin duda, **Guanajuato**. Esta urbe minera, que es la capital del estado donde se forjó nuestra independencia y sede del **Festival Internacional Cervantino** , guarda entre sus calles y callejones una diversidad de **museos** que vale la pena visitar.
 
 A continuación te presentamos tres de los muchos **museos** que te esperan en **Guanajuato** . ¿Te animas a conocerlos?
 
@@ -38,7 +38,7 @@ Empezamos con uno de los edificios más antiguos de la ciudad y, también, de lo
 
 En el primero, cuando las fuerzas insurgentes dirigidas por Miguel Hidalgo y Costilla atacaron la **ciudad de Guanajuato**, los españoles y criollos se refugiaron en la **Alhóndiga**, que se constituyó como un fuerte impenetrable. Fue hasta que Juan José de los Reyes Martínez, el famoso “Pípila”, cargando una pesada losa que lo protegía de las balas realistas logró prender fuego a la puerta, permitiendo así la entrada de los rebeldes.
 
-![](https://www.inah.gob.mx/images/fotodeldia/20170714_alhondiga.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alh%C3%B3ndiga_de_Granaditas%2C_Guanajuato_%2832812854180%29.jpg/1024px-Alh%C3%B3ndiga_de_Granaditas%2C_Guanajuato_%2832812854180%29.jpg)
 
 El otro episodio es doloroso: tras ser capturados, enjuiciados y ejecutados los líderes del movimiento insurgente, Miguel Hidalgo, Ignacio Allende, Juan Aldama y Mariano Abasolo, sus cabezas fueron colgadas dentro de jaulas metálicas en las cuatro esquinas de la **Alhóndiga**, como escarmiento y castigo ejemplar para evitar futuras insurrecciones.
 
