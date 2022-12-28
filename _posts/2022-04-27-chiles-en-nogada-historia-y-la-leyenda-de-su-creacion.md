@@ -42,6 +42,6 @@ Así, le rezaron a San Pascual Bailón —un santo cocinero, por cierto, tambié
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chile_en_nogada_in_Mexico_City.jpg/1024px-Chile_en_nogada_in_Mexico_City.jpg)
 
-Lo cierto es que los célebres y deliciosos **chiles en nogada** no aparecen en documentos ni recetarios de esa época, y todo parece indicar que estas leyendas son sólo eso: invenciones derivadas del folclor para otorgar orígenes mágicos o heroicos a creaciones más simples.
+Lo cierto es que los célebres y deliciosos **chiles en nogada** no aparecen en documentos ni recetarios de esa época, y todo parece indicar que estas **leyendas** son sólo eso: invenciones derivadas del **folclor** para otorgar orígenes mágicos o heroicos a creaciones más simples.
 
 Según los historiadores, estas historias que atribuyen la creación al fervor nacionalistas nacieron en la década de 1930, y sostienen que los **chiles** a los que nos referimos son una creación del siglo XX. Pero también es cierto que estos hechos no nos impiden disfrutarlos en los meses de agosto y septiembre, cuando es temporada, ¿a poco no?
