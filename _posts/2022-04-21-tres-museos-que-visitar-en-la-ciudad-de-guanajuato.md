@@ -44,8 +44,6 @@ El otro episodio es doloroso: tras ser capturados, enjuiciados y ejecutados los 
 
 En este museo se exhiben las Artes y costumbres del estado, el arte mesoamericano de la región y una colección de mapas, documentos y gráficos que dan fe de los hechos de la Guerra de Independencia. Además, puedes contemplar los murales que pintó el artista guanajuatense José Chávez Morado. Está abierto de jueves a domingo, de las 10 a las 16 horas.
 
-![](https://www.inah.gob.mx/images/fotodeldia/20181231_murales.jpg)
-
 ## Museo de las Momias de Guanajuato
 
 Otra visita imprescindible en esta ciudad es esta: el famoso **Museo de las Momias**, el cual incluso ha sido escenario de películas. Los cadáveres momificados que aquí se exhiben provienen del **Panteón Municipal**, que por diversas condiciones —como la extrema sequedad y falta de humedad, la composición mineral de sus suelos, la frialdad— no permite la proliferación de los microorganismos que descomponen a los cadáveres, que terminan momificados de forma natural.
