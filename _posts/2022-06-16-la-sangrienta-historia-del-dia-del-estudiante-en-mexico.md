@@ -27,7 +27,7 @@ En **México**, se celebra el **Día del Estudiante** cada **23 de mayo**, debid
 
 Todo empezó en la **Universidad Nacional de México**, actualmente autónoma y que por ello recibe el nombre de UNAM, siendo la más grande de América Latina. Conozcamos esta **historia**:
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Benito Juárez, ¿por qué dijo: “el respeto al derecho ajeno es la paz”?**](https://blog.tonoysumariachi.com/historia/2022/12/01/benito-juarez-por-que-dijo-el-respeto-al-derecho-ajeno-es-la-paz.html)
 
 Según la Comisión Nacional de Derechos Humanos (CNDH), todo comenzó el 22 de septiembre de 1910, cuando por mandato del presidente Porfirio Díaz se inauguró la **Universidad Nacional de México**. Hasta 1929, el ministro de Instrucción Pública del país fungía como jefe de la universidad, cuyo rector era nombrado por el presidente.
 
