@@ -27,7 +27,7 @@ Para quienes no temen a las alturas, un **paseo en globo aerostático** es una e
 
 Antes de aventurarte, eso sí, te recomendamos que verifiques que estás en condiciones de salud para hacerlo y que te cerciores de que el servicio que contratas cuenta con certificaciones y cumple con todas las medidas de seguridad.
 
-TE PUEDE INTERESAR:
+**TE PUEDE INTERESAR:** [**Tips y consejos para viajar seguro y cómodo con tus mascotas.**](https://blog.tonoysumariachi.com/turismo/2022/09/20/tips-y-consejos-para-viajar-seguro-y-comodo-con-tus-mascotas.html)
 
 ## Teotihuacan
 
