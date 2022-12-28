@@ -48,4 +48,4 @@ En la escalinata de la construcción se alcanzan a ver los vestigios de lo que f
 
 En el interior del templo, se puede apreciar la escultura de un águila —de ahí el nombre de **Cuauhcalli**— con las alas plegadas y con un hueco en la base llamado _cuauhxicalli_. Se cree que éste servía para que ahí se depositara sangre humana en ofrenda, pues se creía que ésta era alimento para los dioses.
 
-Cabe resaltar que, además de la zona arqueológica, Malinalco cuenta con una variedad de atractivos para todos los gustos y presupuestos: desde el mercado local hasta galerías de arte, lujosos hoteles boutique y el afamado club de golf. No lo pienses más y lánzate, ¡no te arrepentirás!
+Cabe resaltar que, además de la zona arqueológica, **Malinalco** cuenta con una variedad de atractivos para todos los gustos y presupuestos: desde el mercado local hasta galerías de arte, lujosos hoteles boutique y el afamado club de golf. No lo pienses más y lánzate, ¡no te arrepentirás!
