@@ -40,8 +40,8 @@ Seguimos con los **gusanos de maguey**, que son larvas de una especie que crece 
 Seguimos con los especies de nombre curioso: los **acociles** y los **jumiles**. Los primeros, también conocidos como langostas de río, son unos crustáceos —como los cangrejos— cuyo sabor es parecido al del camarón y se pone rojo al cocerse; los segundos son pequeñas chinches de monte que se consumen mucho en Morelos y Guerrero.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/romantm/33846350340" title="Acociles con limón y salsa Valentina #cdmx #cdmx #mexicocity #food #foodporn"><img src="https://live.staticflickr.com/2830/33846350340_93d1a0efc5_b.jpg" width="1024" height="1024" alt="Acociles con limón y salsa Valentina #cdmx #cdmx #mexicocity #food #foodporn"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Otras especies que se consumen a lo largo de la República son los pulgones, algunas mariposas, los escarabajos y diversas especies de arañas. Pero las palmas se las llevan los **escamoles**, que son larvas de hormigas güijeras que se dan en temporada de lluvias; por su delicioso sabor se le ha llamado "el caviar mexicano" y una de las formas más populares de comerlos son fritos en mantequilla, con un poco de cebolla, chile y el infaltable epazote.
+Otras especies que se consumen a lo largo de la República son los **pulgones**, algunas **mariposas**, los **escarabajos** y diversas especies de **arañas**. Pero las palmas se las llevan los **escamoles**, que son larvas de hormigas güijeras que se dan en temporada de lluvias; por su delicioso sabor se le ha llamado "el caviar mexicano" y una de las formas más populares de comerlos son fritos en mantequilla, con un poco de cebolla, chile y el infaltable epazote.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Escamoles.jpg/1024px-Escamoles.jpg)
 
-¿Qué dices? ¿Te animas a probar una de estas exquisiteces… o te da frío?
+¿Qué dices? ¿Te atreves a probar una de estas exquisiteces… o te da frío?
