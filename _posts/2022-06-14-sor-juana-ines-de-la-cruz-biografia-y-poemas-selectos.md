@@ -27,7 +27,7 @@ Una de las primeras y más destacadas escritoras mexicanas —aunque, siendo pre
 
 A continuación, un breve recorrido biográfico de la "Décima Musa", cuyo fervor solamente era superado por su sed de conocimientos y por su amor a la lectura.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Octavio Paz, poeta, ensayista y Premio Nobel mexicano**](https://blog.tonoysumariachi.com/cultura/2022/09/20/octavio-paz-poeta-ensayista-y-premio-nobel-mexicano.html)**.**
 
 Sor Juana Inés nació el **12 de noviembre de 1648** —aunque otros dicen que fue en **1651**— en San Miguel Nepantla, Estado de México, con el nombre completo de Juana Inés Asbaje Ramírez de Santillana. Fue hija ilegítima de **Pedro de Asuaje y Vargas**, y de doña **Isabel Ramírez**, quienes nunca se casaron.  Su infancia transcurrió en las haciendas de su abuelo, en Nepantla y Panoaya, donde la pequeña Juana Inés aprendió a leer a los tres años —y asimismo aprendió la lengua náhuatl por el contacto con los indígenas que ahí trabajaban.
 
@@ -37,7 +37,7 @@ Desde muy joven mostró un gran amor por los libros y, tras la muerte de su abue
 
 Como expresó sus deseos de no casarse nunca, Juana Inés llamó la atención del padre Nuñez de Miranda, quien en 1666 la invitó a unirse a una orden religiosa. Aprendió latín en veinte lecciones, pero su primer intento fue fallido: el rígido canon de las carmelitas descalzas la llevó a enfermarse. Después, ingresó a la **Orden de San Jerónimo**, que era más relajada y donde se le permitía tener una celda de dos pisos y servidumbre.
 
-En 1673, el virrey Toledo fue relevado de su cargo y, durante el viaje de regreso, falleció la virreina Leonor de Carreto. Este fue un duro golpe para Sor Juana, quien le escribió una sentida elegía. Unos años después, en 1680, la religiosa se ganaría también como protectora a la nueva virreina, **María Luisa Manrique de Lara y Gonzaga**. Fue durante esta época que la "Décima Musa" tuvo una época de esplendor en su producción literaria. 
+En 1673, el virrey Toledo fue relevado de su cargo y, durante el viaje de regreso, falleció la virreina Leonor de Carreto. Este fue un duro golpe para Sor Juana, quien le escribió una sentida elegía. Unos años después, en 1680, la religiosa se ganaría también como protectora a la nueva virreina, **María Luisa Manrique de Lara y Gonzaga**. Fue durante esta época que la "Décima Musa" tuvo una época de esplendor en su producción literaria.
 
 Entre 1690 y 1691, Sor Juana se vio involucrada en una disputa teológica contra el obispo de Puebla, Manuel Fernández de Santa Cruz, que pudo acarrearle problemas a la religiosa por sus críticas a un sermón pronunciado por el jesuita Antonio Vieira. Muchos ven en este intercambio de argumentos el principio del fin de la carrera literaria de Sor Juana.
 
@@ -100,33 +100,33 @@ mi corazón deshecho entre tus manos.
 Hombres necios que acusáis  
 a la mujer sin razón,  
 sin ver que sois la ocasión  
-de lo mismo que culpáis:  
-  
+de lo mismo que culpáis:
+
 si con ansia sin igual  
 solicitáis su desdén,  
 ¿por qué queréis que obren bien  
-si las incitáis al mal?  
-  
+si las incitáis al mal?
+
 Combatís su resistencia  
 y luego, con gravedad,  
 decís que fue liviandad  
-lo que hizo la diligencia.  
-  
+lo que hizo la diligencia.
+
 Dan vuestras amantes penas  
 a sus libertades alas,  
 y después de hacerlas malas  
-las queréis hallar muy buenas.  
-  
+las queréis hallar muy buenas.
+
 ¿Cuál mayor culpa ha tenido  
 en una pasión errada:  
 la que cae de rogada,  
-o el que ruega de caído?  
-  
+o el que ruega de caído?
+
 ¿O cuál es más de culpar,  
 aunque cualquiera mal haga:  
 la que peca por la paga,  
-o el que paga por pecar?  
-  
+o el que paga por pecar?
+
 Pues, ¿para qué os espantáis  
 de la culpa que tenéis?  
 Queredlas cual las hacéis  
