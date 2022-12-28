@@ -28,7 +28,7 @@ Desde tiempos muy remotos, en nuestro país han circulado una multitud de **leye
 
 En seguida, te contamos una de las tantas versiones que circulan sobre esta **leyenda** y sobre los poderes extraordinarios de esa mujer.
 
-**TE PUEDE INTERESAR: La torta de tamal o guajolota y la leyenda de su origen.**
+**TE PUEDE INTERESAR:** [**La torta de tamal o guajolota y la leyenda de su origen.**](https://blog.tonoysumariachi.com/gastronomia/2022/04/27/la-torta-de-tamal-o-guajolota-y-la-leyenda-de-su-origen.html)
 
 Todo empezó en **Córdoba**, Veracruz, allá en el siglo XVII. Era la época de la **Colonia** y en aquella hermosa ciudad vivía una hermosa **mulata** —denominación que recibían los descendientes de un español y una mujer negra— que vivía en las montañas más altas que rodeaban la ciudad.
 
