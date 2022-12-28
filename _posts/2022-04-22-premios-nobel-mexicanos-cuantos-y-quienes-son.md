@@ -37,7 +37,7 @@ A pesar de que a lo largo de nuestra historia han existido muchos **mexicanos** 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/George_Rathjens_%28V.S.%29_en_%28rechts%29_de_voormalig_minister_van_buitenlandse_zaken_%2C_Bestanddeelnr_931-8254.jpg/1280px-George_Rathjens_%28V.S.%29_en_%28rechts%29_de_voormalig_minister_van_buitenlandse_zaken_%2C_Bestanddeelnr_931-8254.jpg)
 
-El primer mexicano en ser galardonado con el Nobel fue este diplomático (a la derecha en la imagen), nacido en Zamora, Michoacán, en 1911. Su labor para lograr la firma del Tratado de Tlatelolco, el cual asegura la prohibición de las armas nucleares, fue crucial en su momento para evitar el riesgo de un holocausto nuclear. Por su habilidad diplomática en las negociaciones es que la firma fue lograda con éxito entre un gran número de países.
+El primer **mexicano** en ser galardonado con el **Nobel** fue este diplomático (a la derecha en la imagen), nacido en Zamora, Michoacán, en 1911. Su labor para lograr la firma del Tratado de Tlatelolco, el cual asegura la prohibición de las armas nucleares, fue crucial en su momento para evitar el riesgo de un holocausto nuclear. Por su habilidad diplomática en las negociaciones es que la firma fue lograda con éxito entre un gran número de países.
 
 ## Octavio Paz
 
@@ -45,7 +45,7 @@ El primer mexicano en ser galardonado con el Nobel fue este diplomático (a la d
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e8/Octavio_Paz_1984.jpg)
 
-Este literato y diplomático nació en la Ciudad de México en 1914. Durante una estancia en Francia escribió El laberinto de la soledad, un ensayo en el que descifra la identidad y la idiosincrasia del mexicano. Por el gran número de libros que escribió —básicamente, poesía y ensayo— y por su labor dentro de la escena literaria mundial fue que la Academia Sueca le entregó el codiciado premio.
+Este literato y diplomático nació en la Ciudad de México en 1914. Durante una estancia en Francia escribió _El laberinto de la soledad_, un ensayo en el que descifra la identidad y la idiosincrasia del mexicano. Por el gran número de libros que escribió —básicamente, poesía y ensayo— y por su labor dentro de la escena literaria mundial fue que la Academia Sueca le entregó el codiciado premio.
 
 ## José Mario Molina Henríquez
 
@@ -54,3 +54,5 @@ Este literato y diplomático nació en la Ciudad de México en 1914. Durante una
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mario_Molina_1c389_8385_%28cropped%29.jpg/897px-Mario_Molina_1c389_8385_%28cropped%29.jpg)
 
 Por último, está este científico nacido en 1943, también en la Ciudad de México. Gracias a su trabajo, se pudieron determinar las causas del agujero en la capa de ozono del Antártico, ya que dilucidó que los clorofluorocarbonos (CFC) y otros gases contenidos en muchos aerosoles eran los responsables de esta peligrosa anomalía en la atmósfera terrestre. El Premio lo compartió con el estadounidenses Sherwood Rowland y con el holandés Paul J. Crutzen.
+
+¿Crees que algún día un **mexicano** o una **mexicana** volverán a ser **ganadores** del **Premio Nobel**?
