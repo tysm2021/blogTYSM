@@ -27,7 +27,7 @@ Si uno visita el centro de México, hay dos imponentes **volcanes** que segurame
 
 A continuación, te compartimos una de las tantas versiones que existe de la famosa "**leyenda de los volcanes**": se trata de una historia de un amor que fue frustrado por la envidia de los hombres, pero que halló la forma de imponerse al tiempo y de preservarse para toda la eternidad.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Top 5: ¿Cuáles son las montañas más altas de México?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/07/26/top-5-las-montanas-mas-altas-de-mexico.html)
 
 Los nombres de los **volcanes** **Popocatépetl** e **Iztaccíhuatl** significan, respectivamente, "cerro que humea" y "mujer blanca" o "mujer dormida". Y es que, en efecto, desde hace siglos el primero tiene a cada tanto un poco de actividad y con frecuencia arroja fumarolas, mientras que el segundo aparente ser una joven con el pelo suelto que duerme una especie de sueño eterno.
 
