@@ -29,7 +29,7 @@ A continuación, un breve recorrido biográfico de la "Décima Musa", cuyo fervo
 
 **TE RECOMENDAMOS:** [**Octavio Paz, poeta, ensayista y Premio Nobel mexicano**](https://blog.tonoysumariachi.com/cultura/2022/09/20/octavio-paz-poeta-ensayista-y-premio-nobel-mexicano.html)**.**
 
-Sor Juana Inés nació el **12 de noviembre de 1648** —aunque otros dicen que fue en **1651**— en San Miguel Nepantla, Estado de México, con el nombre completo de Juana Inés Asbaje Ramírez de Santillana. Fue hija ilegítima de **Pedro de Asuaje y Vargas**, y de doña **Isabel Ramírez**, quienes nunca se casaron.  Su infancia transcurrió en las haciendas de su abuelo, en Nepantla y Panoaya, donde la pequeña Juana Inés aprendió a leer a los tres años —y asimismo aprendió la lengua náhuatl por el contacto con los indígenas que ahí trabajaban.
+Sor Juana Inés nació el **12 de noviembre de 1648** —aunque otros dicen que fue en **1651**— en San Miguel Nepantla, Estado de México, con el nombre completo de Juana Inés Asbaje Ramírez de Santillana. Fue hija ilegítima de **Pedro de Asbaje y Vargas**, y de doña **Isabel Ramírez**, quienes nunca se casaron.  Su infancia transcurrió en las haciendas de su abuelo, en Nepantla y Panoaya, donde la pequeña Juana Inés aprendió a leer a los tres años y asimismo aprendió la lengua náhuatl por el contacto con los indígenas que ahí trabajaban.
 
 Desde muy joven mostró un gran amor por los libros y, tras la muerte de su abuelo, se trasladó a la Ciudad de México. Entre 1664 y 1665 entró a la corte del **virrey Antonio Sebastián de Toledo, marqués de Mancera** por su notable inteligencia. La virreina, **Leonor de Carreto**, de inmediato le tuvo en gran consideración y se convirtió en su protectora y su más importante mecenas —es decir, en la persona que financia los gastos y las obras de un artista para que pueda crear a gusto.
 
@@ -52,6 +52,8 @@ El 17 de febrero de ese año falleció su confesor, el padre Nuñez de Miranda. 
 La obra de Sor Juana puede dividirse en: obras de teatro, autos sacramentales —dramas litúrgicos que se representaban el día de Corpus y fueron prohibidos en 1765—, poesía o lírica, y prosa. También escribió villancicos para la iglesia.
 
 En el teatro, su obra más conocida es _Los empeños de una casa_, una comedia de enredos sobre dos parejas que se aman pero por circunstancias no pueden estar juntas. De sus tres autos sacramentales, destaca _El divino Narciso_, escrita para ser representada en la corte de Madrid.
+
+**TE RECOMENDAMOS:** [**Cinco escritoras mexicanas del siglo XX y sus obras principales.**](https://blog.tonoysumariachi.com/cultura/2022/10/05/cinco-escritoras-mexicanas-del-siglo-xx-y-sus-obras-principales.html)
 
 La lírica conforma la mitad de toda la **producción literaria** de **Sor Juana** y abarcó diversas formas poéticas: poemas amorosos, sonetos, poemas de amistad o cortesanos dedicados a la virreina, así como composiciones ocasionales para hechos destacados o personajes de la época. Aquí algunas muestras:
 
