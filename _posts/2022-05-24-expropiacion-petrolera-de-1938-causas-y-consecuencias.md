@@ -23,7 +23,7 @@ show_author_profile: false
 comment: false
 
 ---
-El **18 de marzo** de cada año, celebramos un aniversario más de la **Expropiación Petrolera** de **México**, que se llevó a cabo en **1938** por un decreto del entonces presidente, **Lázaro Cárdenas del Río**. En **resumen**, ¿cuáles fueron las **causas** de este suceso histórico, y las **consecuencias** de la nacionalización de los recursos petroleros de México?
+El **18 de marzo** de cada año, celebramos un aniversario más de la **Expropiación Petrolera** de **México**, que se llevó a cabo en **1938** por un decreto del entonces presidente, **Lázaro Cárdenas del Río**. En **resumen**, ¿cuáles fueron las **causas** de este suceso histórico y las **consecuencias** de la nacionalización de los recursos petroleros de México?
 
 En Toño y su mariachi, además de promover nuestra cultura y nuestros mejores destinos turísticos, también te damos breve repasos a nuestra **historia**, desde la época prehispánica hasta lo sucedido en el **siglo XX** y hasta la fecha. Acompáñanos…
 
@@ -35,7 +35,7 @@ El 1 de diciembre de 1934, tomó posesión como Presidente de los Estados Unidos
 
 Sin embargo, en su administración los trabajadores del sector **petrolero** trabajaban largas jornadas y no gozaban de derechos tales como cobertura de gastos médicos y por accidentes; encima de todo, sus salarios eran bajos y muchas veces se les pagaba a destiempo.
 
-En esos años, empresas extranjeras se encargaban de la extracción y la explotación de los recursos petroleros de México. Por eso, los trabajadores se organizaron y formaron el **Sindicato de Trabajadores Petroleros de la República Mexicana**, que llevó a cabo una gran huelga que paralizó el sector petrolero del país para exigir el cumplimiento de sus demandas laborales: jornada de 40 horas semanales, salario mínimo de 5 pesos, indemnización en caso de muerte o incapacidad, y jubilaciones, entre otras.
+En esos años, empresas extranjeras se encargaban de la extracción y la explotación de los recursos petroleros de México. Por eso, los trabajadores se organizaron y formaron el **Sindicato de Trabajadores Petroleros de la República Mexicana**, el cual llevó a cabo una gran huelga que paralizó el sector petrolero del país para exigir el cumplimiento de sus demandas laborales: jornada de 40 horas semanales, salario mínimo de 5 pesos, indemnización en caso de muerte o incapacidad, y jubilaciones, entre otras.
 
 Ante la negativa de las empresas, el **18 de marzo de 1938** el presidente **Cárdenas** anunció un decreto mediante el cual aplicaba de forma directa la **Ley de Expropiación** que había sido emitida en 1936. Así, se ejecutó "la apropiación legal del **petróleo** que explotaban 17 compañías extranjeras que tenían el control de la industria, para convertirse en propiedad de los mexicanos".
 
