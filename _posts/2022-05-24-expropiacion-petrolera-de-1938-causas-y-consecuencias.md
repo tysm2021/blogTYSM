@@ -27,7 +27,7 @@ El **18 de marzo** de cada año, celebramos un aniversario más de la **Expropia
 
 En Toño y su mariachi, además de promover nuestra cultura y nuestros mejores destinos turísticos, también te damos breve repasos a nuestra **historia**, desde la época prehispánica hasta lo sucedido en el **siglo XX** y hasta la fecha. Acompáñanos…
 
-TE PUEDE INTERESAR:
+**TE PUEDE INTERESAR:** [**Presidentes de México: datos curiosos sobre el titular del Poder Ejecutivo.**](https://blog.tonoysumariachi.com/historia/2022/08/10/presidentes-de-mexico-datos-curiosos-sobre-el-titular-del-poder-ejecutivo.html)
 
 El 1 de diciembre de 1934, tomó posesión como Presidente de los Estados Unidos Mexicanos el general **Lázaro Cárdenas del Río**. Su gobierno, dicen los estudiosos, se distinguió por ser de un corte nacionalista: entre otros actos, creo la Confederación Nacional Campesina (CNC) y la Confederación de Trabajadores de México (CTM), completó la nacionalización de los ferrocarriles y llevó a cabo un enorme reparto de tierras a través de la Reforma Agraria.
 
