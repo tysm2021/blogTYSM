@@ -27,7 +27,7 @@ El **Premio Nobel** es un galardón internacional que cada año distingue a pers
 
 Ahora te presentaremos a los paisanos que se han hecho acreedores a este premio, cuya idea es premiar a quienes hacen “el mayor beneficio a la humanidad”, luego de que su creador arrastró durante años una gran culpa por el daño y las muertes que ocasionó indirectamente con sus explosivos inventos.
 
-TE PUEDE INTERESAR:
+**TE PUEDE INTERESAR:** [**Mexicanos ganadores del Oscar: quiénes son y cuántos ganaron.**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/27/mexicanos-ganadores-del-oscar-quienes-son-y-cuantos-ganaron.html)
 
 A pesar de que a lo largo de nuestra historia han existido muchos **mexicanos** y muchas **mexicanas** notables y que han beneficiado enormemente a la humanidad, la lista de **Premios Nobel mexicanos** se reduce a tres. Ellos son:
 
