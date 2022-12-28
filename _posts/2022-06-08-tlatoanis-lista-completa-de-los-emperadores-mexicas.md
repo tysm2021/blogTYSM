@@ -35,7 +35,7 @@ Recordemos que este cargo era hereditario y para acceder a él, el gobernante de
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Acamapichtli%2C_the_First_Aztec_King_%28Reigned_1376%E2%80%9395%29_WDL6718.png/1280px-Acamapichtli%2C_the_First_Aztec_King_%28Reigned_1376%E2%80%9395%29_WDL6718.png)
 
-"El que empuña la caña" o "Puño cerrado con cañas". Fue el primer tlatoani de los mexicas y consolidó la alianza con el vecino reino de los tepanecas y con su capital, Azcapotzalco.
+"El que empuña la caña" o "Puño cerrado con cañas". Fue el primer **tlatoani** de los **mexicas** y consolidó la alianza con el vecino reino de los tepanecas y con su capital, Azcapotzalco.
 
 ## Huitzilíhuitl
 
@@ -59,7 +59,7 @@ Recordemos que este cargo era hereditario y para acceder a él, el gobernante de
 
 ![](https://pueblosoriginarios.com/textos/tovar/imagenes/itzcoatl.jpg)
 
-"Serpiente de obsidiana". Hijo del primer tlatoani, Acamapichtli. Durante su gobierno se consolidó la triple alianza entre Tenochtiltlan, Tlacopan y Texcoco, que dio fin al dominio de los tepanecas y propició la caída de Azcapotzalco y la expansión del Imperio Mexica.
+"Serpiente de obsidiana". Hijo del primer **tlatoani**, Acamapichtli. Durante su gobierno se consolidó la triple alianza entre Tenochtiltlan, Tlacopan y Texcoco, que dio fin al dominio de los tepanecas y propició la caída de Azcapotzalco y la expansión del Imperio Mexica.
 
 ## Moctezuma Ilhuicamina
 
@@ -68,6 +68,8 @@ Recordemos que este cargo era hereditario y para acceder a él, el gobernante de
 ![](https://pueblosoriginarios.com/textos/tovar/imagenes/moctezuma1.jpg)
 
 "Señor encolerizado, flechador del cielo". También llamado Moctezuma I, fue hijo de Huitzilíhuitl, medio hermano de Chimalpopoca y sobrino de Itzcóatl. Expandió el Imperio hacia el territorio actual de Guerrero, Puebla, Oaxaca y Veracruz.
+
+**TE RECOMENDAMOS:** [**Coyolxauhqui: la diosa mexica de la Luna que dio origen a un museo.**](https://blog.tonoysumariachi.com/historia/2022/08/17/coyolxauhqui-la-diosa-mexica-de-la-luna-que-dio-origen-a-un-museo.html)
 
 ## Axayácatl
 
