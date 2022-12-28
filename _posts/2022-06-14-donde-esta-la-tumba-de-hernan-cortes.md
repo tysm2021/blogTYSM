@@ -23,7 +23,7 @@ show_author_profile: false
 comment: false
 
 ---
-**Hernán Cortés**, todos los sabemos, fue un conquistador español que entre 1520 y 1521 logró vencer al Imperio Mexica y sometió la ciudad de México-Tenochtitlán, culminando así la etapa conocida como Conquista de México. Pero, tras su muerte en 1547, ¿**dónde** está la **tumba** de **Cortés**?
+**Hernán Cortés**, todos los sabemos, fue un **conquistador** **español** que entre 1520 y 1521 logró vencer al Imperio Mexica y sometió la ciudad de México-Tenochtitlán, culminando así la etapa conocida como Conquista de México. Pero, tras su muerte en 1547, ¿**dónde** está la **tumba** de **Cortés**? ¿En algún lugar de **México** o en su natal **España**, donde murió?
 
 A continuación te compartimos un breve recuento de los distintos lugares por donde pasó los **restos** del **conquistador** extremeño, así como la **ubicación** actual de su **tumba**, que por cierto hoy en día casi pasa desapercibida.
 
