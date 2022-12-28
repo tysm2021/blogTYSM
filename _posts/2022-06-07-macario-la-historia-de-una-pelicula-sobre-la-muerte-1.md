@@ -27,7 +27,7 @@ Los críticos coinciden que **_Macario_** es una de las mejores **películas** d
 
 Hoy te platicamos de este clásico de nuestro **cine** que, además de todo, fue la primera película mexicana en ser nominada al **Oscar** en la categoría de **Mejor Película**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**El Día de Muertos, ¿realmente es prehispánico?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/10/11/el-dia-de-muertos-realmente-es-prehispanico.html)
 
 La trama va más o menos así: **Macario** es un leñador muy pobre que vive en la sierra, en compañía de su esposa y sus hijos. Con muchos esfuerzos logra llevar comida a su casa, y se queja de que siempre se queda con hambre, pues prefiere que sus hijos coman y casi siempre les cede su porción.
 
