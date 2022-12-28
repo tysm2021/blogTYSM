@@ -28,7 +28,7 @@ Una de las **ciudades coloniales** mexicanas más hermosas y cargadas de histori
 
 A continuación te presentamos tres de los muchos **museos** que te esperan en **Guanajuato** . ¿Te animas a conocerlos?
 
-TE PUEDES INTERESAR:
+TE RECOMENDAMOS: [**Da un vistazo a los seis Pueblos Mágicos del estado de Querétaro.**](https://blog.tonoysumariachi.com/turismo/2022/11/04/pueblos-magicos-en-el-estado-de-queretaro.html)
 
 ## Museo Regional de Guanajuato
 
