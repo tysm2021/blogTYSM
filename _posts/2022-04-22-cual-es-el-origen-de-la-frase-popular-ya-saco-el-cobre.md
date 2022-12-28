@@ -38,6 +38,6 @@ Estas monedas falsas empezaron a circular tanto que, cuando te pagaban con una s
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/18/2_centavos_de_M%C3%A9xico_de_1925_%28anverso_y_reverso%29.jpg)
 
-Una variante de esta frase es “**Ya salió el cobre**”, que tiene un origen similar: en tiempos del Virreinato, cuando México era aún la Nueva España, los mineros que extraían la plata que tanta fama le ganó al país veían con temor y decepción que, en lugar de este metal precioso, empezaran a extraer cobre: señal de que la plata se había agotado.
+Una variante de esta frase es “**Ya salió el cobre**”, que tiene un origen similar: en tiempos del Virreinato, cuando México era aún la Nueva España, los mineros que extraían la plata que tanta fama le ganó al país veían con temor y decepción que, en lugar de este metal precioso, empezaran a extraer **cobre**: señal de que la plata se había agotado.
 
 Como sea, “**salir el cobre**” o “**sacar el cobre**” son expresiones en las que el pueblo mexicano expresa su decepción, frustración y desencanto. Y es que cuando a alguien se le cae el oropel con que se cubre —o con el que uno quiso verlo—, y muestra su verdadera naturaleza corriente y ordinaria, “se le cae el teatrito” e invariablemente “se nos cae del altar”. ¿A poco no?…
