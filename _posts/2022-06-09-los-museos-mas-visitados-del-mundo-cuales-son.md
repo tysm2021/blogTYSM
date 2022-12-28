@@ -63,6 +63,8 @@ Ahora nos vamos al otro lado del mundo para conocer este museo, que —como su n
 
 ¿Ah, verdad? Seguro que ni sabías la existencia de este museo. En él podrás encontrar objetos relacionados con la historia de los vuelos y de la exploración espacial de los Estados Unidos, tales como el módulo del Apolo 11 —el que llegó a la Luna— y el aeroplano de los hermanos Wright. Por eso tuvo **6 millones 970 mil visitantes** en un año.
 
+**TE RECOMENDAMOS:** [**Museo del Hermitage: todo el lujo de la Rusia de los zares hecho museo.**](https://blog.tonoysumariachi.com/mundo/2022/09/09/museo-del-hermitage-todo-el-lujo-de-la-rusia-de-los-zares-hecho-museo.html)
+
 ## Museo Británico
 
 **Londres, Inglaterra**
