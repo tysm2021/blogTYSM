@@ -33,7 +33,7 @@ A continuación, te compartimos una lista con los diez recintos museísticos que
 
 ### 2'661,615 visitantes
 
-Para quienes no lo conocen con ese nombre, se trata nada menos que del **museo** que se encuentra alojado en el famoso **Castillo de Chapultepec**, en la **Ciudad de México**. Además de poder admirar el magnífico edificio donde algún día vivieron los emperadores Maximiliano y Carlota, también podrás observar objetos representativos de cuatro siglos de la **historia** de **México**.
+Para quienes no lo conocen con ese nombre, se trata nada menos que del **museo** que se encuentra alojado en el famoso **Castillo de Chapultepec**, en la **Ciudad de México**. Además de poder admirar el magnífico alcázar donde algún día vivieron los emperadores Maximiliano y Carlota, y los presidentes Juárez y Díaz, también podrás observar objetos representativos de cuatro siglos de la **historia** de **México**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jardines_del_Castillo_de_Chapultepec_4.jpg/1280px-Jardines_del_Castillo_de_Chapultepec_4.jpg)
 
