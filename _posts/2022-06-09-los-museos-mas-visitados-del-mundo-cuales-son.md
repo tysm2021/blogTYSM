@@ -27,7 +27,7 @@ Para quienes tienen el deseo de viajar por el **mundo**, aunque sea de forma vir
 
 Acá va una lista de los recintos que **más visitantes** recibieron al año, considerando que algunos de ellos permanecieron cerrados durante casi todo 2020 y 2021, debido a la **pandemia** por covid de la cual el mundo apenas está recuperándose.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles son los museos más visitados de México?**](https://blog.tonoysumariachi.com/turismo/2022/06/07/cuales-son-los-museos-mas-visitados-de-mexico.html)
 
 Antes de marzo de 2020, cuando el mundo "aún era normal", la lista de **los museos más visitados del mundo**, según la Red de Museos Europeos (museums.eu) estaba como sigue:
 
