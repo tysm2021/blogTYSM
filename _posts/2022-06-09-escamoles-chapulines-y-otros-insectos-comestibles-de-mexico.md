@@ -27,7 +27,7 @@ Desde tiempos prehispánicos,  los **escamoles**, **chapulines**, **jumiles**, *
 
 A continuación te contamos un poco sobre estos animalitos y de las formas en que, a lo largo de distintos estados de la República, acostumbramos prepararlos y comerlos. Te sorprenderás…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Corundas, uchepos y otros tamales michoacanos.**](https://blog.tonoysumariachi.com/gastronomia/2022/09/06/corundas-uchepos-y-otros-tamales-michoacanos.html)
 
 Empecemos con los **grillos** o, como les conocemos en las zonas centrales de México por la influencia del náhuatl, **chapulines**. Estos animales nos los comemos ya secos y pasados por el comal, con sal y limón, o aderezados con ajo o con chile. Son ideales como botana, en tacos con su salsita y guacamole, y para acompañar un mezcalito, junto a unas hebras de queso Oaxaca o quesillo.
 
@@ -44,4 +44,4 @@ Otras especies que se consumen a lo largo de la República son los pulgones, alg
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Escamoles.jpg/1024px-Escamoles.jpg)
 
-¿Qué dices? ¿Te animas a probar una de estas exquisiteces… o te da frío? 
+¿Qué dices? ¿Te animas a probar una de estas exquisiteces… o te da frío?
