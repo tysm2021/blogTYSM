@@ -28,7 +28,7 @@ Los mexicanos somos muy curiosos: a veces, cuando queremos decir algo pero prefe
 
 Aquí te contamos el **significado**, el **origen** y la **historia** de esta expresión. Desde luego que esta es una de las tantas versiones que existen, y quizás tú conoces alguna otra…
 
-TE PUEDE INTERESAR:
+**TE PUEDE INTERESAR:** [**Frases y refranes mexicanos con números y sus significados.**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/09/frases-y-refranes-mexicanos-con-numeros-y-sus-significados.html)
 
 Cuando alguien nos decepciona por sus acciones bajas o ruines, o bien, cuando aparenta ser algo más y mejor de lo que en realidad es y “lo cachamos en la maroma”, a menudo se dice que esa persona “**ya sacó el cobre**”. El origen de esta expresión tan propia del español de **México** se remonta a la época de la Colonia, cuando en nuestro país se acuñaban monedas de oro que circulaban entre los más acaudalados.
 
