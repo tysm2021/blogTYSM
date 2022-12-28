@@ -23,7 +23,7 @@ show_author_profile: false
 comment: false
 
 ---
-Una de las primeras y más destacadas escritoras mexicanas —aunque, siendo precisos, era más bien novohispana— fue Sor Juana Inés de la Cruz, cuyos poemas aún son leídos y memorizados por estudiantes desde la educación media, y que tuvo una biografía bastante singular para tratarse de una religiosa.
+Una de las primeras y más destacadas **escritoras** **mexicanas** —aunque, siendo precisos, era más bien novohispana— fue **Sor Juana Inés de la Cruz**, cuyos **poemas** aún son leídos y memorizados por estudiantes desde la educación media, y que tuvo una biografía bastante singular para tratarse de una religiosa. ¿Qué tanto sabes de su **biografía** y de su **obra**?
 
 A continuación, un breve recorrido biográfico de la "Décima Musa", cuyo fervor solamente era superado por su sed de conocimientos y por su amor a la lectura.
 
