@@ -1,5 +1,5 @@
 ---
-author: Refacción TYSM
+author: Redacción TYSM
 categories: HISTORIA
 subcategorie: SIGLOXIX
 layout: article
@@ -16,7 +16,8 @@ article_header:
     src: "/images/2022-04-26-presidente_lazaro_cardenas_reunido_con_sindicato_obrero_veracruzano_en_1938.jpeg"
 sharing: true
 title: 'Expropiación Petrolera de 1938: causas y consecuencias'
-summary: Por favor colocar summary a esta publicación codigo de prueba 234
+summary: El 18 de marzo de 1983, el presidente Lázaro Cárdenas nacionalizó los recursos
+  petroleros del país, ¿a qué se debió y qué consecuencias tuvo este acto?
 cover: "/images/2022-04-26-presidente_lazaro_cardenas_reunido_con_sindicato_obrero_veracruzano_en_1938.jpeg"
 tags: prueba ejemplo
 show_author_profile: false
