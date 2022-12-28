@@ -27,7 +27,7 @@ México es un país con mucha **historia**, desde nuestro pasado prehispánico, 
 
 A continuación, te compartimos una lista con los diez recintos museísticos que **más visitantes** recibieron en un año. Cabe aclarar que, debido a la pandemia por covid, que mantuvo cerrados muchos de estos recintos desde marzo de 2020 hasta hace relativamente poco, no existen cifras recientes al respecto; así, consignamos los registros correspondientes a 2019, reportados en enero de 2020.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Tres museos que visitar en la ciudad de Guanajuato.**](https://blog.tonoysumariachi.com/turismo/2022/04/21/tres-museos-que-visitar-en-la-ciudad-de-guanajuato.html)
 
 ## Museo Nacional de Historia
 
@@ -69,6 +69,6 @@ El último de los museos en este conteo también se encuentra en el **Bosque de 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Museo_de_Arte_Moderno_DSC0023_%2835557149325%29.jpg/1280px-Museo_de_Arte_Moderno_DSC0023_%2835557149325%29.jpg)
 
-A estos museos les siguen, en orden descendente de acuerdo al número de visitantes anuales, el **Museo Nacional de las Culturas**, el **Museo Nacional de Arte** —también conocido como Munal—, ubicados en el centro de la CdMx, y el **Museo Nacional de Arquitectura**, ubicado en la planta alta del Palacio de Bellas Artes. Ya fuera de la capital, los de mayor concurrencia son el **Museo Regional de Guanajuato**, ubicado en la Alhóndiga de Granaditas, y el **Museo del Fuerte de San Juan de Ulúa**, en el bello puerto de Veracruz. 
+A estos museos les siguen, en orden descendente de acuerdo al número de visitantes anuales, el **Museo Nacional de las Culturas**, el **Museo Nacional de Arte** —también conocido como Munal—, ubicados en el centro de la CdMx, y el **Museo Nacional de Arquitectura**, ubicado en la planta alta del Palacio de Bellas Artes. Ya fuera de la capital, los de mayor concurrencia son el **Museo Regional de Guanajuato**, ubicado en la Alhóndiga de Granaditas, y el **Museo del Fuerte de San Juan de Ulúa**, en el bello puerto de Veracruz.
 
 ¿Qué tal? ¿Ya los conoces todos?…
