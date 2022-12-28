@@ -27,7 +27,7 @@ Uno de los ingredientes indispensables de la cocina mexicana es, sin dudarlo, el
 
 A continuación, la respuesta a esa interrogante. Pero antes, un poco de ciencia para explicar cómo se mide el picor de un chile. ¿Estamos listos?…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Chiles en nogada: historia y la leyenda de su creación.**](https://blog.tonoysumariachi.com/gastronomia/2022/04/27/chiles-en-nogada-historia-y-la-leyenda-de-su-creacion.html)
 
 Para ciertos científicos como los químicos, la sensación que los mexicanos describimos como "**picor**" es descrita como **pungencia**, y se mide usando una unidad llamada **Scoville Heat Unit** (**SHU**), en honor al químico y farmacólogo estadounidense **Wilbur Scoville**, quien en 1912 realizó un examen profundo de las cualidades organolépticas —es decir, que pueden ser percibidas por los órganos de los sentidos— de los **chiles**, conocidos en otras partes como **pimientos**, **ajíes** o **guindillas**.
 
