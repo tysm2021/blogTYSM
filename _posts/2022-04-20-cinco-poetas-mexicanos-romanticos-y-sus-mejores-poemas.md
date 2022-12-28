@@ -16,7 +16,6 @@ title: Cinco poetas mexicanos románticos y sus mejores poemas
 author: Francisco Massé
 cover: "/images/2022-04-20-manuelacuna.png"
 categories: CULTURA
-categories: CIENCIAS
 tags: cultura literatura poesía
 show_author_profile: false
 comment: false
@@ -24,7 +23,7 @@ summary: Si quieres dedicarle un poema a tu persona amada, aquí te recomendamos
   de los mejores…
 
 ---
-Si lo que buscas son unos textos para arrancar suspiros o ayudarte a conquistar a alguien, aquí te recomendamos a **cinco notables poetas románticos mexicanos.**
+Si lo que buscas son unos buenos y sentidos **poemas** para arrancar suspiros o ayudarte a conquistar a alguien, aquí te recomendamos a **cinco notables poetas románticos mexicanos.**
 
 #### Manuel Acuña (1849-1873)
 
@@ -43,7 +42,7 @@ Este poeta originario de Saltillo es el primero que viene a la mente si hablamos
 > te imploro y te hablo en nombre  
 > de mi última ilusión._
 
-TE PUEDE INTERESAR: 
+**TE RECOMENDAMOS:** [**Cinco escritores mexicanos del siglo XX que no te puedes perder.**](https://blog.tonoysumariachi.com/cultura/2022/08/29/cinco-escritores-mexicanos-del-siglo-xx-que-no-te-puedes-perder.html)
 
 #### Amado Nervo (1870-1919)
 
@@ -112,9 +111,3 @@ Esta poetisa en el nombre llevaba la penitencia. De personalidad excéntrica, do
 > con ansias de estrecharte  
 > pensaba en las delicias  
 > de esas noches, pasadas y ficticias._
-
-
-
-
-
-
