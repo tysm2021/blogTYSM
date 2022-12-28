@@ -28,7 +28,7 @@ Nuestra historia está llena de mexicanos y mexicanos que, debido a su amor por 
 
 A continuación, te platicamos de **cuatro extranjeros** —un español, un irlandés, un japonés y un italiano—  que se involucraron e incluso se sacrificaron en las diversas etapas bélicas de nuestra historia. ¿Ya los conocías?
 
-TE PUEDE INTERESAR:
+**TE PUEDE INTERESAR:** [**¿Qué héroes y heroínas están enterrados en el Ángel de la Independencia?**](https://blog.tonoysumariachi.com/historia/2022/09/02/que-heroes-y-heroinas-estan-enterrados-en-el-angel-de-la-independencia.html)
 
 ## Francisco Xavier Mina
 
