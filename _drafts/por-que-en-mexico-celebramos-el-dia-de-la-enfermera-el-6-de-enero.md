@@ -37,4 +37,8 @@ Según datos proporcionados por la Secretaría de Salud, en el Sistema Nacional 
 
 La idea de celebrar a las **enfermeras** data del año 1931 y se le atribuye al entonces director del Hospital Juárez de México, el doctor **José Castro Villagrana**, quien instituyó el **6 de enero** como **Día de la Enfermera** —hoy, también, del Enfermero— en virtud de que calificó su presencia como "un regalo de Reyes para los pacientes". 
 
-Otra versión, avalada por el Gobierno de **México**, señala que esta fecha se eligió en honor a **Refugio Estévez Reyes**, apodada "**Mamá Cuca**", quien ostenta el honor de haber sido la primera **enfermera** militar en nuestro país. 
+Otra versión, avalada por el Gobierno de **México**, señala que esta fecha se eligió en honor a **Refugio Estévez Reyes**, apodada "**Mamá Cuca**" o "Madre Cuca", quien ostenta el honor de haber sido la primera **enfermera** militar en nuestro país y a principios del siglo XX —en plena Revolución Mexicana— creó un cuerpo llamado "Los Ángeles" para atender a heridos en batalla, y que después se dedicó a dar pláticas profesionales en escuelas de **enfermería**. Poco antes de su muerte en 1955, "Mamá Cuca" recibió la Medalla del Congreso y una pensión vitalicia del Gobierno por sus aportaciones durante el conflicto armado.
+
+Como nota final, hay que recordar que aunque en México celebramos a las mujeres y a los hombres de blanco en enero, internacionalmente se reconoce al **12 de mayo** como **Día Internacional de la Enfermería** en honor a la fecha de nacimiento de la inglesa **Florence Nightingale**, a quién se le atribuye la creación de la profesión de la enfermería.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/552px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg)
