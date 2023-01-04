@@ -35,4 +35,6 @@ Las **enfermeras** y los **enfermeros** son personas que, sin haber cursado la c
 
 Según datos proporcionados por la Secretaría de Salud, en el Sistema Nacional de Salud laboran casi 300 mil **enfermeras** y **enfermeros**, y de acuerdo con cifras y estadísticas del INEGI, de cada 100 profesionales de enfermería 85 son mujeres. Además, por cada 100 personas con esta ocupación, 43 son profesionistas o especialistas, 31 son técnicas y 26 auxiliares en enfermería cuya edad promedio es de 36.8 años y cursó casi 14 años de estudio básico, medio y especializado.
 
-La idea de celebrar a las **enfermeras** data del año 1931, cuando el entonces director del Hospital Juárez de México, el doctor **José Castro Villagran**a, instituyó el **6 de enero** como **Día de la Enfermera** —hoy, también, del Enfermero— en virtud de que calificó su presencia como "un regalo de Reyes para los pacientes". 
+La idea de celebrar a las **enfermeras** data del año 1931 y se le atribuye al entonces director del Hospital Juárez de México, el doctor **José Castro Villagrana**, quien instituyó el **6 de enero** como **Día de la Enfermera** —hoy, también, del Enfermero— en virtud de que calificó su presencia como "un regalo de Reyes para los pacientes". 
+
+Otra versión, avalada por el Gobierno de México, señala que esta fecha se eligió en honor a la **enfermera** militar Refugio Estévez Reyes, 
