@@ -37,4 +37,4 @@ Según datos proporcionados por la Secretaría de Salud, en el Sistema Nacional 
 
 La idea de celebrar a las **enfermeras** data del año 1931 y se le atribuye al entonces director del Hospital Juárez de México, el doctor **José Castro Villagrana**, quien instituyó el **6 de enero** como **Día de la Enfermera** —hoy, también, del Enfermero— en virtud de que calificó su presencia como "un regalo de Reyes para los pacientes". 
 
-Otra versión, avalada por el Gobierno de México, señala que esta fecha se eligió en honor a la **enfermera** militar Refugio Estévez Reyes, 
+Otra versión, avalada por el Gobierno de **México**, señala que esta fecha se eligió en honor a **Refugio Estévez Reyes**, apodada "**Mamá Cuca**", quien ostenta el honor de haber sido la primera **enfermera** militar en nuestro país. 
