@@ -25,6 +25,6 @@ comment: false
 ---
 En el santoral católico, el día **6 de enero** se celebra la **Epifanía de los Santos Reyes** —también llamados **Reyes Magos**—, que no es sino el momento en que los hombres sabios de Oriente que fueron guiados a Belén por una estrella se postran ante el recién nacido Jesús de Nazaret, reconociéndolo como el Mesías y Salvador del mundo. Para festejarlo, en algunos países como México solemos partir y comer un pan dulce en forma de rosca que se decora con frutos secos y pasta de azúcar, al que además se le esconde un "**muñeco**" que representa al Niño Dios. ¿Cuál es el **origen** de esta costumbre, cómo fue adaptándose a lo largo de la **historia** y cuál es el **simbolismo** los elementos de la **Rosca de Reyes**?
 
-A continuación, haremos un breve recorrido desde los primeros tiempos del cristianismo hasta el día de hoy, cuando millones de mexicanos comparten con sus familias, amigos y compañeros de trabajo la costumbre de "partir la Rosca" y de que quien "saque" el muñeco pague los tamales del Día de la Candelaria.
+A continuación, haremos un breve recorrido desde los primeros tiempos del cristianismo hasta el día de hoy, cuando millones de mexicanos comparten con sus familias, amigos y compañeros de trabajo la costumbre de "partir la **Rosca**" y de que quien "saque" el muñeco pague los tamales del Día de la Candelaria.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Café de olla: historia y origen del cafecito más mexicano de todos**](https://blog.tonoysumariachi.com/gastronomia/2022/08/22/cafe-de-olla-historia-y-origen-del-cafecito-mas-mexicano-de-todos.html)**.**
