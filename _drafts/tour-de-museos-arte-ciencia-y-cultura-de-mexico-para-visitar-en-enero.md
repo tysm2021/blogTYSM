@@ -45,10 +45,14 @@ Se encuentra en la calle de Villerías 2, en el Centro Histórico de San Luis Po
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Museo_de_la_Mascara_San_Luis_Potosi.JPG/1024px-Museo_de_la_Mascara_San_Luis_Potosi.JPG)
 
+**TE RECOMENDAMOS:** [**Museo Nacional del Virreinato: historia del arte colonial en Tepotzotlán.**](https://blog.tonoysumariachi.com/cultura/2022/08/08/museo-nacional-del-virreinato-historia-del-arte-colonial-en-tepotzotlan.html)
+
 Museo del Títere Rosete Aranda
 
 ## Museo Amparo
 
 Por último, este mes de enero de 2023 recomendamos visitar el Museo Amparo, en la ciudad de **Puebla de los Ángeles**. Este museo tiene su historia, pues fue creado en memoria de doña Amparo Rugarcía de Espinosa, viuda del millonario, banquero y filántropo poblano Manuel Espinosa Yglesias. Se inauguró el 28 de febrero de 1991 y su propósito es difundir la cultura a través de todas sus formas: las artes plásticas, la música, el cine, la literatura y la danza. 
 
-El **Museo Amparo** se encuentra en la calle 2 Sur número 708,  en el Centro Histórico de Puebla, Pue., en el edificio conocido como Está abierto de miércoles a lunes de 10:00 a 18:00 hrs. La entrada general (excepto domingo) cuesta $ 85, salvo para los residentes de Puebla, estudiantes, adultos mayores y personas con capacidades diferentes, cuya entrada es gratuita.
+El **Museo Amparo** se encuentra en la calle 2 Sur número 708,  en el Centro Histórico de Puebla, Pue., en el edificio conocido como "El Hospitalito". Está abierto de miércoles a lunes de 10:00 a 18:00 hrs. La entrada general (excepto domingo) cuesta $ 85, salvo para los residentes de Puebla, estudiantes, adultos mayores y personas con capacidades diferentes, cuya entrada es gratuita.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Museo_Amparo_por_la_noche_03.jpg/1024px-Museo_Amparo_por_la_noche_03.jpg)
