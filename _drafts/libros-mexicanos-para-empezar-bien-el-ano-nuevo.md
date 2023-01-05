@@ -51,4 +51,8 @@ La siguiente recomendación es una novela del fallecido **Jorge Ibargüengoitia*
 
 ¿Qué mejor manera de empezar el año que escribiendo tu propia historia, tal como siempre has querido contarla? Por eso te recomendamos este título de los escritores **Raquel Castro** y **Alberto Chimal**, los cuales ofrecen una guía para aquellos interesados en adentrarse en la aventura de la escritura, dando además consejos y técnicas de redacción, de desarrollo de personajes y, también, de manejo de la postergación, la desidia y la auto crítica. Si  empezar a plasmar tus ideas en el papel es uno de tus propósitos de Año Nuevo, éste es el libro para ti.
 
-La rebeldía de pensar
+![](/images/2023-01-05-libros_como.jpg)
+
+### La rebeldía de pensar
+
+Hay gente que dice que "se pone muy filosófica" al cerrar un año y dar inicio al siguiente. Por esa razón hemos elegido, justamente, un libro de filosofía en el que, en lenguaje muy sencillo y sin demasiadas complicaciones, el escritor **Óscar de la Borbolla** guía al lector a través de las principales 
