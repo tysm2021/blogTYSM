@@ -35,7 +35,11 @@ Empezamos con esta novela de **José Emilio Pacheco**, la cual apareció origina
 
 ![](/images/2023-01-05-libros_batallas.jpeg)
 
-Los cuatro acuerdos
+### Los cuatro acuerdos
+
+Este es uno de los títulos más exitosos en el género conocido como "autoayuda" y fue escrito por el doctor Miguel Ángel Ruiz Macías, mejor conocido como **Miguel Ruiz**. En él, aborda cuatro principios o preceptos que, supuestamente, fueron retomados de la sabiduría del pueblo tolteca —los cuales son "sé impecable con tus palabras", "no te tomes nada como personal", "no adivines ni supongas" y "haz siempre lo mejor que puedas". Aunque muchos han puesto en tela de juicio la veracidad del origen de estas enseñanzas, sin duda son un buen principio para, en este Año Nuevo, empezar a llevarnos mejor con el prójimo y con nosotros mismos.
+
+![](/images/2023-01-05-libros_acuerdos.jpg)
 
 Dos crímenes
 
