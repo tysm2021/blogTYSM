@@ -41,7 +41,11 @@ Este es uno de los títulos más exitosos en el género conocido como "autoayuda
 
 ![](/images/2023-01-05-libros_acuerdos.jpg)
 
-Dos crímenes
+### Dos crímenes
+
+La siguiente recomendación es una novela del fallecido **Jorge Ibargüengoitia**, la cual ha sido muy celebrada y sin duda aportará una pequeña dosis de humor a tus primeros días del año. La historia comienza con Marcos y su pareja, "La chamuca", teniendo una fiesta a la que acude un amigo de ellos que está implicado en un crimen; por ello, ambos deben huir, y Marcos va a dar a un pueblo ficticio llamado Muérdago, donde vive su tío, a quien piensa pedirle dinero para sobrevivir mientras está prófugo… y ahí empiezan sus verdaderos problemas. La trama es tan buena que fue llevada al cine con Damián Alcázar en el papel de Marcos.
+
+![](/images/2023-01-05-libros_doscrimenes.jpg)
 
 Cómo escribir tu propia historia
 
