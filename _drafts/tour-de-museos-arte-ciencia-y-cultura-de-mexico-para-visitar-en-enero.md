@@ -41,7 +41,7 @@ Se encuentra en Carlos Abedrop Dávila 3745, col. Parque las Maravillas, en Salt
 
 Vámonos ahora a la ciudad de **San Luis Potos**í, donde, en una hermosa casona neoclásica ubicada junto a la Plaza del Carmen, en el Centro Histórico de la ciudad, se encuentra este museo privado que fue inaugurado en 1982 y que está dedicado a proteger y promover el patrimonio ritual de la danza con **máscaras** en **México**, desde el periodo prehispánico hasta el presente. Su acervo es de más de 1300 máscaras.
 
-Se encuentra en la calle de Villerías 2, en el Centro Histórico de San Luis Potosí, y está abierto los lunes de 10 a 15 hrs., martes a viernes de 10 a 18 hrs., sábado de 10 a 17 hrs. y domingo de 10 a 15 hrs. La entrada general cuesta $ 20 y las personas mayores pagan $10.00 mostrando su credencial. Para los maestros, estudiantes y personas con capacidades diferentes la entrada es libre.
+Se encuentra en la calle de Villerías 2, en el Centro Histórico de San Luis Potosí, y está abierto los lunes de 10 a 15 hrs., martes a viernes de 10 a 18 hrs., sábado de 10 a 17 hrs. y domingo de 10 a 15 hrs. La entrada general cuesta $ 20 y las personas mayores pagan $10 mostrando su credencial. Para los maestros, estudiantes y personas con capacidades diferentes la entrada es libre.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Museo_de_la_Mascara_San_Luis_Potosi.JPG/1024px-Museo_de_la_Mascara_San_Luis_Potosi.JPG)
 
@@ -49,4 +49,6 @@ Museo del Títere Rosete Aranda
 
 ## Museo Amparo
 
-Por último, este mes de enero de 2023 recomendamos visitar el Museo Amparo, en la ciudad de **Puebla de los Ángeles**. Este museo tiene una historia, pues fue creado en memoria de doña Amparo Rugarcía de Espinosa, viuda del millonario, banquero y filántropo poblano Manuel Espinosa Yglesias. 
+Por último, este mes de enero de 2023 recomendamos visitar el Museo Amparo, en la ciudad de **Puebla de los Ángeles**. Este museo tiene su historia, pues fue creado en memoria de doña Amparo Rugarcía de Espinosa, viuda del millonario, banquero y filántropo poblano Manuel Espinosa Yglesias. Se inauguró el 28 de febrero de 1991 y su propósito es difundir la cultura a través de todas sus formas: las artes plásticas, la música, el cine, la literatura y la danza. 
+
+El **Museo Amparo** se encuentra en la calle 2 Sur número 708,  en el Centro Histórico de Puebla, Pue., en el edificio conocido como Está abierto de miércoles a lunes de 10:00 a 18:00 hrs. La entrada general (excepto domingo) cuesta $ 85, salvo para los residentes de Puebla, estudiantes, adultos mayores y personas con capacidades diferentes, cuya entrada es gratuita.
