@@ -15,7 +15,7 @@ article_header:
     src: "/images/2023-01-04-world_war_ii_nurses_holding_hands.jpeg"
 sharing: true
 title: "¿Por qué en México celebramos el Día de la Enfermera el 6 de enero?"
-summary: 'En el Día de los Reyes Magos, celebramos también a otros entidades bondadosas,
+summary: 'En el Día de los Reyes Magos, celebramos también a otras entidades bondadosas,
   vestidas de blanco y que salvan vidas. Y no son ángeles: son enfermeras…'
 cover: "/images/2023-01-04-world_war_ii_nurses_holding_hands.jpeg"
 tags: historia mexico efemerides
