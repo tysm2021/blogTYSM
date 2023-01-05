@@ -31,7 +31,7 @@ Como en todas las listas, ni son todos los que son ni están todos los que está
 
 ### Las batallas en el desierto
 
-Empezamos con esta novela de **José Emilio Pacheco**, la cual apareció originalmente en el periódico Uno más uno en 1990, y un año más tarde se publicó en formato de novela. Se trata de la historia de Carlos, un niño de ocho años que vive en la colonia Roma de la Ciudad de México en tiempos de la posguerra, ante cuyos ojos desfilan los avances tecnológicos de la época; en el transcurso de la trama, se enamora de la mamá de su mejor amigo, lo que le genera problemas con su familia y en la escuela. Es un recuento original y divertido del México de otros tiempos, ideal para iniciar el año en ánimo reflexivo.
+Empezamos con esta obra de **José Emilio Pacheco**, la cual apareció originalmente en el periódico _Uno más uno_ en 1990, y un año más tarde se publicó en formato de novela. Se trata de la historia de Carlos, un niño de ocho años que vive en la colonia Roma de la Ciudad de México en tiempos de la posguerra, ante cuyos ojos desfilan los avances tecnológicos de la época; en el transcurso de la trama, se enamora de la mamá de su mejor amigo, lo que le genera problemas con su familia y en la escuela. Es un recuento original y divertido del México de otros tiempos, ideal para **iniciar el año** con un ánimo nostálgico.
 
 ![](/images/2023-01-05-libros_batallas.jpeg)
 
