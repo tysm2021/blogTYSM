@@ -28,3 +28,5 @@ En el santoral católico, el día **6 de enero** se celebra la **Epifanía de lo
 A continuación, haremos un breve recorrido desde los primeros tiempos del cristianismo hasta el día de hoy, cuando millones de mexicanos comparten con sus familias, amigos y compañeros de trabajo la costumbre de "partir la **Rosca**" y de que quien "saque" el muñeco pague los tamales del Día de la Candelaria.
 
 **TE RECOMENDAMOS:** [**Café de olla: historia y origen del cafecito más mexicano de todos**](https://blog.tonoysumariachi.com/gastronomia/2022/08/22/cafe-de-olla-historia-y-origen-del-cafecito-mas-mexicano-de-todos.html)**.**
+
+En principio, la **Rosca de Reyes** tiene un doble **simbolismo**: por un lado, está hecha de pan, el alimento por excelencia que —como se dice en las misas— representa el fruto del **trabajo de los hombres**; por otro lado, tiene una forma **circular**, la cual se relaciona con los **ciclos** agrícolas, las estaciones del año, el ciclo de la vida, muerte y renacimiento, y la idea de la "**completitud**" del universo. 
