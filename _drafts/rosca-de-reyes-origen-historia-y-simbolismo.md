@@ -37,4 +37,22 @@ Es bien sabido que el hecho de que el nacimiento de **Jesús** se celebre el 25 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rosca_de_Reyes.jpg/1024px-Rosca_de_Reyes.jpg)
 
-Siglos más tarde, inició la costumbre de introducir un haba seca en la masa de la **Rosca**, para que quien la hallara fuera designado como "Rey de Reyes" o "rey del haba" durante esa noche. Actualmente, esa haba ha sido sustituida por una figura de porcelana o de plástico que representa al Niño Jesús recién nacido,
+Siglos más tarde, inició la costumbre de introducir un haba seca en la masa de la **Rosca**, para que quien la hallara fuera designado como "Rey de Reyes" o "rey del haba" durante esa noche. Actualmente, esa haba ha sido sustituida por una figura de porcelana o de plástico que representa al Niño Jesús recién nacido. Ya entrada la Edad Media europea, este pan de forma redonda fue conocido en Navarra y otras regiones españolas como "**Roscón de Reyes**", y la costumbre señalaba que aquél que sacara el haba debería pagar el Roscón del año entrante —en México, eso fue el antecedente de los famosos tamales del Día de la Candelaria, que marca el fin de la cuarentena de la Virgen María después del parto, así como la presentación del propio Jesús en el templo.
+
+Con la llegada de los españoles y el establecimiento del Virreinato en México, llegó también el **Roscón de Reyes**, el cual se fue ornamentado con frutos secos propios de nuestra tierra, tales como el famoso acitrón, el cual tradicionalmente se elabora con la biznaga, un cacto que crece en las regiones desérticas de nuestro país y que en la actualidad se considera una especie protegida y en peligro de extinción, por lo que el acitrón es un alimento, digamos, "prohibido". En la actualidad, en **México** se venden las **roscas** "tradicionales", hechas de masa de bizcocho y cubiertas con frutos secos —o ate de frutas— y pasta de azúcar, a las cuales se les añade uno o varios muñecos de plástico, y variaciones como la rosca rellena de nata o de crema pastelera, con chocolate, nutella, frutos rojos y otros ingredientes.
+
+## Simbolismo
+
+#### Pan de forma circular
+
+Como dijimos, el pan es el alimento por excelencia y el símbolo del trabajo de la raza humana. La forma circular representa los **ciclos** agrícolas, de vida y muerte, y la **completitud** del universo.
+
+#### Figura
+
+El **muñeco** de plástico o de porcelana representa, desde luego, al **Niño Jesús**; el hecho de que esté oculto en la masa simboliza el momento en que, huyendo de la persecución de Herodes —quien según la tradición ordenó la muerte de los niños de Belén para acabar también con Jesús y así eludir la profecía del Mesías—, huye hacia Egipto escondido por sus padres.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rosca_de_Reyes%2C_casera%2C_M%C3%A9xico_03B.jpg/1024px-Rosca_de_Reyes%2C_casera%2C_M%C3%A9xico_03B.jpg)
+
+#### Frutos secos
+
+Los coloridos frutos secos y la pasta de azúcar representa, por una parte, a las joyas que portaban los Reyes Maos
