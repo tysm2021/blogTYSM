@@ -37,7 +37,7 @@ Empezamos con esta obra de **José Emilio Pacheco**, la cual apareció originalm
 
 ### Los cuatro acuerdos
 
-Este es uno de los títulos más exitosos en el género conocido como "autoayuda" y fue escrito por el doctor Miguel Ángel Ruiz Macías, mejor conocido como **Miguel Ruiz**. En él, aborda cuatro principios o preceptos que, supuestamente, fueron retomados de la sabiduría del pueblo tolteca —los cuales son "sé impecable con tus palabras", "no te tomes nada como personal", "no adivines ni supongas" y "haz siempre lo mejor que puedas". Aunque muchos han puesto en tela de juicio la veracidad del origen de estas enseñanzas, sin duda son un buen principio para, en este Año Nuevo, empezar a llevarnos mejor con el prójimo y con nosotros mismos.
+Este es uno de los títulos mexicanos más exitosos en el género conocido como "**autoayuda**" y fue escrito por el doctor Miguel Ángel Ruiz Macías, mejor conocido como **Miguel Ruiz**. En él, aborda cuatro principios o preceptos que, supuestamente, fueron retomados de la sabiduría del pueblo tolteca —los cuales son: "sé impecable con tus palabras", "no te tomes nada como personal", "no adivines ni supongas" y "haz siempre lo mejor que puedas". Aunque muchos han puesto en tela de juicio la veracidad del origen de estas enseñanzas, sin duda son un buen principio para, en este Año Nuevo, empezar a llevarnos mejor con el prójimo y con nosotros mismos.
 
 ![](/images/2023-01-05-libros_acuerdos.jpg)
 
@@ -49,12 +49,12 @@ La siguiente recomendación es una novela del fallecido **Jorge Ibargüengoitia*
 
 ### Cómo escribir tu propia historia
 
-¿Qué mejor manera de empezar el año que escribiendo tu propia historia, tal como siempre has querido contarla? Por eso te recomendamos este título de los escritores **Raquel Castro** y **Alberto Chimal**, los cuales ofrecen una guía para aquellos interesados en adentrarse en la aventura de la escritura, dando además consejos y técnicas de redacción, de desarrollo de personajes y, también, de manejo de la postergación, la desidia y la auto crítica. Si  empezar a plasmar tus ideas en el papel es uno de tus propósitos de Año Nuevo, éste es el libro para ti.
+¿Qué mejor modo de empezar el año que escribiendo tu propia historia, tal como siempre has querido contarla? Por eso te recomendamos este título de los escritores **Raquel Castro** y **Alberto Chimal**, los cuales ofrecen una guía para aquellos interesados en adentrarse en la aventura de la escritura, dando además consejos y técnicas de redacción, de desarrollo de personajes y, también, de manejo de la postergación, la desidia y la autocrítica. Si  empezar a plasmar tus ideas en el papel es uno de tus propósitos de **Año Nuevo**, éste es el libro para ti.
 
 ![](/images/2023-01-05-libros_como.jpg)
 
 ### La rebeldía de pensar
 
-Hay gente que dice que "se pone muy filosófica" al cerrar un año y dar inicio al siguiente. Por esa razón hemos elegido, justamente, un libro en el que, en lenguaje muy sencillo y sin demasiadas complicaciones, el escritor **Óscar de la Borbolla** guía al lector a través de los grandes temas de la filosofía —tales como el sentido de la vida, la libertad, la acción y la felicidad—, encaminándolo siempre hacia la duda y las preguntas como método y brindando las herramientas necesarias para responderlas. Y es que en tiempos de la comunicación masiva, de los memes que se repiten hasta el cansancio y de los modismos del lenguaje que todo el mundo adopta, pensar por uno mismo es en verdad un acto de rebeldía.
+Hay gente que dice que "se pone muy filosófica" al cerrar un año y dar inicio al siguiente. Por esa razón hemos elegido, justamente, un libro en el que, en lenguaje muy sencillo y sin demasiadas complicaciones, el escritor **Óscar de la Borbolla** guía al lector a través de los grandes temas de la filosofía —tales como el sentido de la vida, la libertad, la acción y la felicidad—, encaminándolo siempre hacia la duda y las preguntas como método y brindándole las herramientas necesarias para responderlas. Y es que en tiempos de la comunicación masiva, de los memes que se repiten hasta el cansancio y de los modismos del lenguaje que todo el mundo adopta, pensar por uno mismo es en verdad un acto de rebeldía.
 
 ![](/images/2023-01-05-libros_pensar.jpg)
