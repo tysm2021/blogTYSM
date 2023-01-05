@@ -55,4 +55,6 @@ La siguiente recomendación es una novela del fallecido **Jorge Ibargüengoitia*
 
 ### La rebeldía de pensar
 
-Hay gente que dice que "se pone muy filosófica" al cerrar un año y dar inicio al siguiente. Por esa razón hemos elegido, justamente, un libro de filosofía en el que, en lenguaje muy sencillo y sin demasiadas complicaciones, el escritor **Óscar de la Borbolla** guía al lector a través de las principales 
+Hay gente que dice que "se pone muy filosófica" al cerrar un año y dar inicio al siguiente. Por esa razón hemos elegido, justamente, un libro en el que, en lenguaje muy sencillo y sin demasiadas complicaciones, el escritor **Óscar de la Borbolla** guía al lector a través de los grandes temas de la filosofía —tales como el sentido de la vida, la libertad, la acción y la felicidad—, encaminándolo siempre hacia la duda y las preguntas como método y brindando las herramientas necesarias para responderlas. Y es que en tiempos de la comunicación masiva, de los memes que se repiten hasta el cansancio y de los modismos del lenguaje que todo el mundo adopta, pensar por uno mismo es en verdad un acto de rebeldía.
+
+![](/images/2023-01-05-libros_pensar.jpg)
