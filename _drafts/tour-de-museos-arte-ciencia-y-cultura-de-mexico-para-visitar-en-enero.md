@@ -47,4 +47,6 @@ Se encuentra en la calle de Villerías 2, en el Centro Histórico de San Luis Po
 
 Museo del Títere Rosete Aranda
 
-Museo Amparo
+## Museo Amparo
+
+Por último, este mes de enero de 2023 recomendamos visitar el Museo Amparo, en la ciudad de **Puebla de los Ángeles**. Este museo tiene una historia, pues fue creado en memoria de doña Amparo Rugarcía de Espinosa, viuda del millonario, banquero y filántropo poblano Manuel Espinosa Yglesias. 
