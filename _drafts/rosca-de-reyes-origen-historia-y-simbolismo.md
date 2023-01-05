@@ -55,4 +55,10 @@ El **muñeco** de plástico o de porcelana representa, desde luego, al **Niño J
 
 #### Frutos secos
 
-Los coloridos frutos secos y la pasta de azúcar representa, por una parte, a las joyas que portaban los Reyes Maos
+Los coloridos frutos secos y la pasta de azúcar representa, por una parte, a las **joyas** que portaban los Reyes Magos en sus coronas, y por otra es también símbolo de la preciada **Gracia de Dios**.
+
+#### Comida
+
+El hecho de comer la **Rosca** en comunidad es símbolo tanto de la **comunión con lo divino** como del hecho de "c**ompartir el pan**" con la familia y los seres amados, tal como lo hizo Jesús en su Última Cena. En resumen, la **Rosca** es un **signo** de principio a fin de la completitud de un ciclo y contiene, como si fuera uno más de los regalos de **Reyes**, a la presencia incógnita de Dios.
+
+Y tú, ¿ya partiste la Rosca?
