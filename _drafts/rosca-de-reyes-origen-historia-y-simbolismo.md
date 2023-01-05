@@ -36,3 +36,5 @@ En principio, la **Rosca de Reyes** tiene un doble **simbolismo**: por un lado, 
 Es bien sabido que el hecho de que el nacimiento de **Jesús** se celebre el 25 de diciembre tiene que ver tanto con el solsticio de invierno como con las fiestas paganas de la Roma Imperial que eran conocidas como **Saturnales**, que rendían culto al dios Saturno. En estas ocasiones, los romanos solían festejaban elaborar panes redondeados, en cuya masa se mezclaban miel, dátiles, higos y otros frutos para que, más tarde, estos panes fueran obsequiados a los pobres. Ese es el **origen** primigenio de nuestra **Rosca de Reyes**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rosca_de_Reyes.jpg/1024px-Rosca_de_Reyes.jpg)
+
+Siglos más tarde, inició la costumbre de introducir un haba seca en la masa de la **Rosca**, para que quien la hallara fuera designado como "Rey de Reyes" o "rey del haba" durante esa noche. Actualmente, esa haba ha sido sustituida por una figura de porcelana o de plástico que representa al Niño Jesús recién nacido,
