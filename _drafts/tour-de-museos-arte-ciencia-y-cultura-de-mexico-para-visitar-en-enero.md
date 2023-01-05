@@ -37,9 +37,13 @@ Se encuentra en Carlos Abedrop Dávila 3745, col. Parque las Maravillas, en Salt
 
 ![](/images/2023-01-05-1024px-museo_del_desierto-_saltillo-_coahuila.jpeg)
 
-Museo Nacional del Virreinato
+## Museo Nacional de la Máscara
 
-Museo Nacional de la Máscara
+Vámonos ahora a la ciudad de **San Luis Potos**í, donde, en una hermosa casona neoclásica ubicada junto a la Plaza del Carmen, en el Centro Histórico de la ciudad, se encuentra este museo privado que fue inaugurado en 1982 y que está dedicado a proteger y promover el patrimonio ritual de la danza con **máscaras** en **México**, desde el periodo prehispánico hasta el presente. Su acervo es de más de 1300 máscaras.
+
+Se encuentra en la calle de Villerías 2, en el Centro Histórico de San Luis Potosí, y está abierto los lunes de 10 a 15 hrs., martes a viernes de 10 a 18 hrs., sábado de 10 a 17 hrs. y domingo de 10 a 15 hrs. La entrada general cuesta $ 20 y las personas mayores pagan $10.00 mostrando su credencial. Para los maestros, estudiantes y personas con capacidades diferentes la entrada es libre.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Museo_de_la_Mascara_San_Luis_Potosi.JPG/1024px-Museo_de_la_Mascara_San_Luis_Potosi.JPG)
 
 Museo del Títere Rosete Aranda
 
