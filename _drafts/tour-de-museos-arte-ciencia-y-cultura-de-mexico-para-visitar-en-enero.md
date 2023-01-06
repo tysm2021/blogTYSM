@@ -31,9 +31,9 @@ Estas listas intentarás abarcar todo tipo de **museos**, desde los nacionales, 
 
 ## Museo del Desierto
 
-Ubicado en la ciudad de **Saltillo, Coahuila**, este **museo** se dedica a difundir el origen y las características de los desiertos del mundo, centrándose en los tres más grandes de México: el chihuahuense, el sonorense y el poblano-oaxaqueño. Algunos de sus más grandes atractivos son  una colonia de perritos de la pradera vivos y los esqueletos de tres dinosaurios: un Tiranosaurio rex, un Hadrosaurio y un Quetzalcoatlus.
+Ubicado en la ciudad de **Saltillo, Coahuila**, este **museo** se dedica a difundir el origen y las características de los desiertos del mundo, centrándose en los tres más grandes de México: el chihuahuense, el sonorense y el poblano-oaxaqueño. Algunos de sus más grandes atractivos son  una colonia de perritos de la pradera vivos y los esqueletos de tres **dinosaurios**: un Tiranosaurio rex, un Hadrosaurio y un Quetzalcoatlus.
 
-Se encuentra en Carlos Abedrop Dávila 3745, col. Parque las Maravillas, en Saltillo, Coahuila. Está abierto al público de martes a domingo de 10:00 a 17:00 hrs. y el costo de los boletos es: Niños de 4 a 12 años, $145; Adultos: $225; Adultos mayores con credencial del INAPAM vigente y personas con discapacidad, $145; Paquete familiar (2 adultos y 2 niños) $595. Niños de 0 a 3 años entran gratis.
+El **Museo del Desierto** se encuentra en Carlos Abedrop Dávila 3745, col. Parque las Maravillas, en Saltillo, Coahuila. Está abierto al público de martes a domingo de 10:00 a 17:00 hrs. y el costo de los boletos es: Niños de 4 a 12 años, $145; Adultos: $225; Adultos mayores con credencial del INAPAM vigente y personas con discapacidad, $145; Paquete familiar (2 adultos y 2 niños) $595. Niños de 0 a 3 años entran gratis.
 
 ![](/images/2023-01-05-1024px-museo_del_desierto-_saltillo-_coahuila.jpeg)
 
@@ -41,17 +41,23 @@ Se encuentra en Carlos Abedrop Dávila 3745, col. Parque las Maravillas, en Salt
 
 Vámonos ahora a la ciudad de **San Luis Potos**í, donde, en una hermosa casona neoclásica ubicada junto a la Plaza del Carmen, en el Centro Histórico de la ciudad, se encuentra este museo privado que fue inaugurado en 1982 y que está dedicado a proteger y promover el patrimonio ritual de la danza con **máscaras** en **México**, desde el periodo prehispánico hasta el presente. Su acervo es de más de 1300 máscaras.
 
-Se encuentra en la calle de Villerías 2, en el Centro Histórico de San Luis Potosí, y está abierto los lunes de 10 a 15 hrs., martes a viernes de 10 a 18 hrs., sábado de 10 a 17 hrs. y domingo de 10 a 15 hrs. La entrada general cuesta $ 20 y las personas mayores pagan $10 mostrando su credencial. Para los maestros, estudiantes y personas con capacidades diferentes la entrada es libre.
+El **Museo Nacional de la Máscara** e encuentra en la calle de Villerías 2, en el Centro Histórico de San Luis Potosí, y está abierto los lunes de 10 a 15 hrs., martes a viernes de 10 a 18 hrs., sábado de 10 a 17 hrs. y domingo de 10 a 15 hrs. La entrada general cuesta $ 20 y las personas mayores pagan $10 mostrando su credencial. Para los maestros, estudiantes y personas con capacidades diferentes la entrada es libre.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Museo_de_la_Mascara_San_Luis_Potosi.JPG/1024px-Museo_de_la_Mascara_San_Luis_Potosi.JPG)
 
 **TE RECOMENDAMOS:** [**Museo Nacional del Virreinato: historia del arte colonial en Tepotzotlán.**](https://blog.tonoysumariachi.com/cultura/2022/08/08/museo-nacional-del-virreinato-historia-del-arte-colonial-en-tepotzotlan.html)
 
-Museo del Títere Rosete Aranda
+## Museo Nacional del Títere Rosete Aranda
+
+En la ciudad de **Huamantla**, **Tlaxcala**, y siendo una dependencia del Instituto Tlaxcalteca de Cultura, este museo resguarda y exhibe más de 500 títeres fabricados con diversas técnicas, de distintas épocas y procedencias. Destacan las colecciones de Rosete Aranda y la de la época de oro del teatro guiñol en México, así como algunos de la etapa precolombina y los procedentes de Asia y Europa. El edificio que lo alberga es patrimonio histórico de Huamantla y data del siglo XVIII; en sus inicios funcionó como casa-habitación y fue inaugurado como museo el 9 de agosto de 1991.
+
+El **Museo Nacional del Títere** se localiza en Parque Juárez 15, col. Centro, Huamantla, Tlaxcala.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Museo_Nacional_del_T%C3%ADtere_en_Huamantla%2C_Tlaxcala_01.jpg/1024px-Museo_Nacional_del_T%C3%ADtere_en_Huamantla%2C_Tlaxcala_01.jpg)
 
 ## Museo Amparo
 
-Por último, este mes de enero de 2023 recomendamos visitar el Museo Amparo, en la ciudad de **Puebla de los Ángeles**. Este museo tiene su historia, pues fue creado en memoria de doña Amparo Rugarcía de Espinosa, viuda del millonario, banquero y filántropo poblano Manuel Espinosa Yglesias. Se inauguró el 28 de febrero de 1991 y su propósito es difundir la cultura a través de todas sus formas: las artes plásticas, la música, el cine, la literatura y la danza. 
+Por último, este mes de enero de 2023 recomendamos visitar el Museo Amparo, en la ciudad de **Puebla de los Ángeles**. Este museo tiene su historia, pues fue creado en memoria de doña Amparo Rugarcía de Espinosa, viuda del millonario, banquero y filántropo poblano Manuel Espinosa Yglesias. Se inauguró el 28 de febrero de 1991 y su propósito es difundir la cultura a través de todas sus formas: las artes plásticas, la música, el cine, la literatura y la danza.
 
 El **Museo Amparo** se encuentra en la calle 2 Sur número 708,  en el Centro Histórico de Puebla, Pue., en el edificio conocido como "El Hospitalito". Está abierto de miércoles a lunes de 10:00 a 18:00 hrs. La entrada general (excepto domingo) cuesta $ 85, salvo para los residentes de Puebla, estudiantes, adultos mayores y personas con capacidades diferentes, cuya entrada es gratuita.
 
