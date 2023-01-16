@@ -33,3 +33,7 @@ La posición #10 la ocupa el magnate indio **Mukesk Ambani**, quien dirige una e
 Las posiciones #6 y #7 las ocupan los fundadores del gigante tecnológico Google —actualmente convertido en un corporativo llamado Alphabet— y quienes fueran sus presidentes hasta diciembre de 2019, cuando renunciaron a esa posición y quedaron sólo como accionistas; nos referimos a **Sergey Brin** y **Larry Page**, quienes amasaron sendas fortunas de  107 y 111 miles de millones de dólares, respectivamente. Aquí ambos, retratados en un evento del año 2008.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schmidt-Brin-Page-20080520_%28cropped%29.jpg/941px-Schmidt-Brin-Page-20080520_%28cropped%29.jpg)
+
+Ahora sí, vamos con los pesos pesados. El lugar número 5 lo ocupa uno de los inversionistas más exitosos de todos los tiempos: el señor **Warren Buffett**, quien por la precisión de sus predicciones financieras y relativas a la economía mundial era conocido como "el oráculo de Obama", refiriéndose al ex presidente de los Estados Unidos. Su empresa, Berkshire Hathaway, controla o posee numerosas propiedades y empresas internacionales, y su fortuna se estima en **118 miles de millones de dólares**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg/903px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg)
