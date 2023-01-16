@@ -54,4 +54,6 @@ Finalmente, el primer sitio está ocupado por un hombre que, desde la compra de 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/773px-Elon_Musk_Royal_Society_%28crop2%29.jpg)
 
-Dos notas adicionales, que adelantamos al inicio de esta nota: el mexicano **Carlos Slim Helú**, dueño de empresas de telecomunicaciones como Telmex, Telcel y América Móvil, o
+Dos notas adicionales, que adelantamos al inicio de esta nota: el mexicano **Carlos Slim Helú**, dueño de empresas de telecomunicaciones como Telmex, Telcel y América Móvil, ocupa la posición #13 entre los más ricos del mundo, aunque sigue siendo imbatible como el hombre más acaudalado de México. Y, por otro lado, está la francesa **Francoise Bettencourt Meyer**s, nieta de Eugène Schueller, fundador de la empresa L'Oreal, quien ostenta el título de **la mujer más rica del mundo** según Forbes, con sus 74.8 miles de millones de dólares que heredó del emporio familiar.
+
+Interesante, ¿no?
