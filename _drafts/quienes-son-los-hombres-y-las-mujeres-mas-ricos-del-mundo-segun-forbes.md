@@ -44,7 +44,7 @@ En la **cuarta posición** se encuentra un hombre de sobra conocido en los medio
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bernard_Arnault_%283%29_-_2017.jpg/1024px-Bernard_Arnault_%283%29_-_2017.jpg)
 
-El segundo hombre más rico del mundo es nada menos que **Jeff Bezos**, el fundador y dueño de la empresa de comercio electrónico **Amazon** —la cual empezó siendo una tienda de libros en línea y ahora es un consorcio que incluso produce series y películas, y su propio servicio de streaming— amén de otras más pequeñas como Blue Origin. Muchos años ha ocupado el sitio número uno, y luego de su renuncia a la posición de Presidente o CEO se quedó con unos "humildes" 171 miles de millones de dólares.
+El segundo hombre más rico del mundo es nada menos que **Jeff Bezos**, el fundador y dueño de la empresa de comercio electrónico **Amazon** —la cual empezó siendo una tienda de libros en línea y ahora es un consorcio que incluso produce series y películas, y su propio servicio de _streaming_— amén de otras más pequeñas como Blue Origin, ocupa el sitio #2 de esta lista que durante muchos años encabezó; luego de su renuncia a la posición de Presidente o CEO, y de su sonado divorcio, se quedó con unos "humildes" **171 miles de millones de dólares**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jeff_Bezos_Unveils_Blue_Origin_Lunar_Lander.jpg/1024px-Jeff_Bezos_Unveils_Blue_Origin_Lunar_Lander.jpg)
 
