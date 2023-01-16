@@ -30,4 +30,6 @@ La posición #10 la ocupa el magnate indio **Mukesk Ambani**, quien dirige una e
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Larry_Ellison_2013_%289887589546%29.jpg/1024px-Larry_Ellison_2013_%289887589546%29.jpg)
 
-La posición #7
+Las posiciones #6 y #7 las ocupan los fundadores del gigante tecnológico Google —actualmente convertido en un corporativo llamado Alphabet— y quienes fueran sus presidentes hasta diciembre de 2019, cuando renunciaron a esa posición y quedaron sólo como accionistas; nos referimos a **Sergey Brin** y **Larry Page**, quienes amasaron sendas fortunas de  107 y 111 miles de millones de dólares, respectivamente. Aquí ambos, retratados en un evento del año 2008.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schmidt-Brin-Page-20080520_%28cropped%29.jpg/941px-Schmidt-Brin-Page-20080520_%28cropped%29.jpg)
