@@ -94,26 +94,11 @@ fields:
   - type: text
     name: type
     label: type
-    default: overlay
+    default: cover
     hidden: true
-  - type: text
-    name: theme
-    label: theme
-    default: dark
-    hidden: true
-  - type: text
-    name: background_color
-    label: background_color
-    hidden: true
-    default: "#203028"
   - type: field_group
     name: background_image
     fields:
-    - type: text
-      name: gradient
-      label: gradient
-      default: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
-      hidden: true
     - type: file
       name: src
       label: src
