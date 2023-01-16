@@ -40,9 +40,7 @@ Ahora sí, vamos con los pesos pesados. La **posición #5** lo ocupa uno de los 
 
 En la **cuarta posición** se encuentra un hombre de sobra conocido en los medios, en especial en el ámbito tecnológico. Ahora es un conocido filántropo, junto con su ex esposa Melinda, pero en sus tiempos de gloria era el fundador y presidente ejecutivo de **Microsoft**. Nos referimos, desde luego, al estadounidense **Bill Gates**, quien luego de su renuncia como CEO de dicho emporio, de su divorcio —con la respectiva "tajada" que legalmente le dio a su ex cónyuge— y de sus numerosas donaciones filantrópicas, quien durante años fue el hombre más rico del mundo actualmente tiene una nada despreciable fortuna de **129 miles de millones de dólares**.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bill_Gates%2C_WEF_2009_Davos.jpg/1024px-Bill_Gates%2C_WEF_2009_Davos.jpg)
-
-El tercer escalón de esta lista está en manos del único europeo en este Top 10. Nos referimos al francés **Bernard Arnault**, quien posee la mayoría de las acciones del conglomerado de empresas de lujo LVMH —propietario de marcas como Louis Vuitton, Moet & Chandon, Hennessy, Christian Dior, Fendi, Givenchy y Tag Heuer— y, junto con su familia, tiene una fortuna que asciende a los **158 miles de millones de dólares**.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bill_Gates%2C_WEF_2009_Davos.jpg/1024px-Bill_Gates%2C_WEF_2009_Davos.jpg)El tercer escalón en esta lista lo ocupa el único europeo en este Top 10, el francés **Bernard Arnault**, quien posee la mayoría de las acciones del conglomerado de empresas de lujo LVMH —propietario de marcas como Louis Vuitton, Moet & Chandon, Hennessy, Christian Dior, Fendi, Givenchy y Tag Heuer— y, junto con su familia, tiene una fortuna que asciende a los **158 miles de millones de dólares**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bernard_Arnault_%283%29_-_2017.jpg/1024px-Bernard_Arnault_%283%29_-_2017.jpg)
 
@@ -56,4 +54,4 @@ Finalmente, el primer sitio está ocupado por un hombre que, desde la compra de 
 
 Dos notas adicionales, que adelantamos al inicio de esta nota: el mexicano **Carlos Slim Helú**, dueño de empresas de telecomunicaciones como Telmex, Telcel y América Móvil, ocupa la posición #13 entre los más ricos del mundo, aunque sigue siendo imbatible como el hombre más acaudalado de México. Y, por otro lado, está la francesa **Francoise Bettencourt Meyer**s, nieta de Eugène Schueller, fundador de la empresa L'Oreal, quien ostenta el título de **la mujer más rica del mundo** según Forbes, con sus 74.8 miles de millones de dólares que heredó del emporio familiar.
 
-Interesante, ¿no?
+Interesante, ¡n
