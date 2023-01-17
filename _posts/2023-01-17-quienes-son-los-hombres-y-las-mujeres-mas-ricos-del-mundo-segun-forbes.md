@@ -8,8 +8,6 @@ header:
   theme: dark
 article_header:
   type: cover
-  background_image:
-    src: "/images/2023-01-16-dmitry-demidko-ebwzfkaheau-unsplash.jpeg"
   image:
     src: "/images/2023-01-16-dmitry-demidko-ebwzfkaheau-unsplash.jpeg"
 sharing: true
