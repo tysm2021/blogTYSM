@@ -10,6 +10,8 @@ article_header:
   type: cover
   background_image:
     src: "/images/2023-01-16-dmitry-demidko-ebwzfkaheau-unsplash.jpeg"
+  image:
+    src: "/images/2023-01-16-dmitry-demidko-ebwzfkaheau-unsplash.jpeg"
 sharing: true
 title: "¿Quiénes son los hombres —y las mujeres— más ricos del mundo, según Forbes?"
 summary: 'Como cada año, la revista financiera Forbes publicó su lista de las personas
