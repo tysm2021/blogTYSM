@@ -1322,9 +1322,9 @@ p {
 }
 
 
-.btn-cat a, a:link, a:visited, a:hover{
+.btn-cat a{
   text-decoration: underline;
-  color: rgb(0, 85, 255);
+  color: rgb(212, 255, 0);
 }
 
 .footer-cat{
@@ -1403,7 +1403,7 @@ $gastronomia: url("https://conceptodefinicion.de/wp-content/uploads/2019/08/Gast
 }
 
 
-$historia: url("https://estaticos.muyhistoria.es/uploads/images/test/5af0410f5cafe8b9563c986b/historia0.jpg");
+$historia: url("https://superquadranews.files.wordpress.com/2014/01/mapasqm.jpg");
 
 .historia{
   background: $gradient , $historia;
@@ -2257,4 +2257,10 @@ border-radius: 5%;
 h2 {
     font-size: 1.6rem;
     color: #000;
+}
+
+
+
+.line-color a{
+  color: yellow
 }
