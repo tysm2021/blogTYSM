@@ -97,7 +97,7 @@ fields:
     default: cover
     hidden: true
   - type: field_group
-    name: background_image
+    name: image
     fields:
     - type: file
       name: src
