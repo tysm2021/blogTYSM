@@ -21,11 +21,11 @@ show_author_profile: false
 comment: false
 ---
 
-Cuando llegan las **vacaciones**, uno de los destinos favoritos de las familias **mexicanas** son las hermosas **playas**. Y es que tienen de todo: sol brillante, una temperatura cálida y reconfortante, el azul de nuestros mares, deliciosos mariscos y amaneceres o puestas de sol impresionantes. Pero de todas las **playas** en el Golfo y el Pacífico **mexicanos**, ¿cuáles son **las más visitadas** y qué **más turistas** reciben al año?
+Cuando llegan las **vacaciones**, uno de los destinos favoritos de las familias **mexicanas** son las hermosas **playas**. Y es que tienen de todo: sol brillante, una temperatura cálida y reconfortante, el azul de nuestros mares, refrescantes albercas y numerosos hoteles, deliciosos mariscos y amaneceres o puestas de sol impresionantes. Pero de todas las **playas** en el Golfo y el Pacífico **mexicanos**, ¿cuáles son **las más visitadas** y qué **más turistas** reciben al año?
 
 A continuación, las cinco **playas mexicanas más populares**, según estadísticas de la Secretaría de Turismo. Quizá te sorprenda cuáles son, o tal vez decidas que una de ellas es el próximo destino de tus siguientes vacaciones.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Sayulita y otras hermosas playas de la Riviera Nayarit**](https://blog.tonoysumariachi.com/turismo/2022/12/05/sayulita-y-otras-hermosas-playas-de-la-riviera-nayarit.html)**.**
 
 ## Playa del Carmen
 
@@ -45,6 +45,8 @@ Este conjunto turístico, vecino del clásico destino de Puerto Vallarta, se enc
 
 Desde hace décadas, esta ciudad en el estado de Quintana Roo es uno de los destinos más concurridos y con el 76.6% de ocupación hotelera promedio, actualmente ocupa el tercer lugar en popularidad de todo el país. Quienes lo visitan dicen que es un lugar que lo tiene todo: espectaculares **playas** de agua cristalina y arenas blancas, sitios arqueológicos, lujosos hoteles y restaurantes, bares y otros lugares de vida nocturna. Además, puedes visitar la vecina Isla Mujeres y llevarte hermosos recuerdos de tu visita.
 
+**TE RECOMENDAMOS:** [**Playas exóticas mexicanas: tres opciones para desconectarse**](https://blog.tonoysumariachi.com/turismo/2022/04/26/playas-exoticas-mexicanas-tres-opciones-para-desconectarse.html)**.**
+
 ## Puerto Vallarta
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Puerto_Vallarta%2C_Mexico%2C_2021_-_44.jpg/1024px-Puerto_Vallarta%2C_Mexico%2C_2021_-_44.jpg)
@@ -55,4 +57,4 @@ Otro destino clásico en el estado de Jalisco, que actualmente tiene un promedio
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Arco_de_Los_Cabos%2C_BCS.JPG/1024px-Arco_de_Los_Cabos%2C_BCS.JPG)
 
-El último lugar de esta breve lista es una destino al norte del país, en el estado de Baja California: ahí, entre ballenas y otras especies marinas, se encuentra **Los Cabos**, cuyos destinos principales son **Cabo San Lucas**, en cuyas playas se unen las aguas del Mar de Cortés y el Océano Pacífico, y San José del Cabo, la cabecera municipal que también es un extraordinario destino turístico. Con el 68.9% de ocupación hotelera al año, este sitio tiene el primer lugar en cuanto a los hoteles y vuelos más caros de todo el país: todo un lujo viajar a él… pero dicen que vale toda la pena del mundo.
+El último lugar de esta breve lista es una destino al norte del país, en el estado de Baja California: ahí, entre ballenas y otras especies marinas, se encuentra **Los Cabos**, cuyos destinos principales son **Cabo San Lucas**, en cuyas playas se unen las aguas del Mar de Cortés y el Océano Pacífico, y **San José del Cabo**, la cabecera municipal que también es un extraordinario destino turístico. Con el 68.9% de ocupación hotelera al año, este sitio tiene el primer lugar en cuanto a los hoteles y vuelos más caros de todo el país: todo un lujo viajar a él… pero dicen que vale toda la pena del mundo.

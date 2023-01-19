@@ -25,7 +25,7 @@ A veces olvidamos que nuestro **mundo** no es un planeta estático y que, debajo
 
 Hagamos, a continuación, un breve recuento a lo largo del tiempo y de la historia, para visitar a estas montañas de fuego, las cuales han causado el nacimiento y la muerte de muchas civilizaciones, y han tenido el poder de incluso apagar momentáneamente el brillo del Sol…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Gerardo Murillo: el Dr. Atl, sus increíbles volcanes y paisajes**](https://blog.tonoysumariachi.com/cultura/2022/11/25/gerardo-murillo-el-dr.atl-sus-increibles-volcanes-y-paisajes.html)**.**
 
 ## Vesubio
 

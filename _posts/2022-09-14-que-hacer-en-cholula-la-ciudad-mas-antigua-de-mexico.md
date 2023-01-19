@@ -25,7 +25,7 @@ En el estado de **Puebla**, a tan sólo 8 kilómetros de distancia de la capital
 
 Además, hay que tomar en cuenta que se trata de **la ciudad mexicana más antigua** que aún sigue habitada, pues los primeros vestigios de ocupación humana datan del siglo XII antes de nuestra era.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**La zona arqueológica de Malinalco y su historia**](https://blog.tonoysumariachi.com/turismo/2022/04/20/la-zona-arqueologica-de-malinalco-y-su-historia.html)**.**
 
 ### Historia
 

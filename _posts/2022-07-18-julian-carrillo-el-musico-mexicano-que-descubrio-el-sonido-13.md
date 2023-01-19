@@ -21,13 +21,13 @@ show_author_profile: false
 comment: false
 ---
 
-Muchos músicos mexicanos han brillado en el firmamento del estrellato, a veces como cantantes o como intérpretes de algún instrumentos, y otras como compositores. De entre ellos, destaca el potosino **Julián Carrillo**, quien , entre otros logros musicales desarrolló el llamado "**sonido 13**" y el microtonalismo. Aquí te contamos un poco de su **biografía** y acerca del significado de su **descubrimiento**.
+Muchos **músicos mexicanos** han brillado en el firmamento del estrellato, a veces como **cantantes** o como intérpretes de algún instrumentos, y otras como compositores. De entre ellos, destaca el potosino **Julián Carrillo**, quien , entre otros logros musicales desarrolló el llamado "**sonido 13**" y el microtonalismo. Aquí te contamos un poco de su **biografía** y acerca del significado de su **descubrimiento**.
 
 Además del sonido 13, **Carrillo** brilló con luz propia en México y en el extranjero, fue director de la Orquesta Sinfónica Nacional, así como director del Conservatorio Nacional de Música de la Ciudad de México.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Sabes quién fue Manuel M. Ponce, el gran compositor mexicano?**](https://blog.tonoysumariachi.com/cultura/2022/09/08/sabes-quien-fue-manuel-m.ponce-el-gran-compositor-mexicano.html)
 
-El 28 de enero de 1875, nació en el pequeño poblado de Ahualulco, San Luis Potosí, el compositor **Julián Carrillo Trujillo**. Desde muy pequeño mostró aptitudes para la música, de modo que a los diez años de edad fue llevado a la capital del estado para estudiar música. A los veinte años de edad, ingresó al Conservatorio Nacional de Música como alumno de las clases de composición, violín y acústica. Fue ahí donde escuchó por primera vez "un sonido extraño" que tras años de estudio acabaría recibiendo el nombre de **Sonido 13**.
+El 28 de enero de 1875, nació en el pequeño poblado de Ahualulco, San Luis Potosí, el compositor **Julián Carrillo Trujillo**. Desde muy pequeño mostró aptitudes para la música, de modo que a los diez años de edad fue llevado a la capital del estado para estudiar este arte. A los veinte años de edad, ingresó al Conservatorio Nacional de Música como alumno de las clases de composición, violín y acústica. Fue ahí donde escuchó por primera vez "un sonido extraño" que tras años de estudio acabaría recibiendo el nombre de **Sonido 13**.
 
 La historia dice que el **13 de julio de 1895** empezó a trabajar en la llamada "**música microtonal**". Todo sucedió a raíz de que, estando en una clase con el maestro Francisco Ortega y Fonseca, **Carrillo** aprendió la Ley de Divisiones de Cuerdas, la cual sostiene el principio de que si se divide una cuerda en dos segmentos idénticos, cada uno sonará como la octava; es decir, al dividir en dos una cuerda que suena en Do, el sonido pasaría por toda la escala —Re, Mi, Fa, Sol, La y Si— para sonar nuevamente en Do, pero una octava arriba.
 

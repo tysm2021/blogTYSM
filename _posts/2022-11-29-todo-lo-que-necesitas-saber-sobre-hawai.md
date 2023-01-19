@@ -11,7 +11,7 @@ article_header:
   image:
     src: "/images/2022-11-29-hapuna_beach_hawaii_2021.jpeg"
 sharing: true
-title: Todo lo que necesitas saber para visitar Hawái
+title: Todo lo que necesitas saber para visitar Hawai
 summary:
   Al pensar en Hawai, de inmediato pensamos en bailarinas, collares floridos,
   música de ukulele, volcanes, mucho sol y playas, ¿qué tan cierto es esto?

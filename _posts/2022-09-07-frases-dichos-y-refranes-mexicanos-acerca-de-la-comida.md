@@ -25,7 +25,7 @@ Al pueblo mexicano, hay que decirlo, simple y sencillamente le encanta la **comi
 
 Estas **expresiones** se cuentan por cientos, o quizá hasta por miles. Pero como este espacio es limitado, acá compartiremos y explicaremos algunas de las más usadas, **famosas** o singulares, o como se dice coloquialmente: "hay de chile, de dulce y de manteca".
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**La torta de tamal o guajolota y la leyenda de su origen**](https://blog.tonoysumariachi.com/gastronomia/2022/04/27/la-torta-de-tamal-o-guajolota-y-la-leyenda-de-su-origen.html)**.**
 
 ### Al que nace pa' tamal, del cielo le caen las hojas
 
@@ -44,6 +44,8 @@ Esta frase proviene del campo, en especial de los estados donde se cosechan o ra
 ### Chiquito, ¡pero picoso!
 
 Esta frase alude, desde luego, a los mexicanísimos chiles, pues quien sabe de ellos podrá dar fe de que casi siempre los más pequeños —como el chile de árbol, el chile piquín o el chile habanero—, a pesar de su apariencia inofensiva y su reducido tamaño, suelen dar la sorpresa y ser los más "bravos" o picantes. Este refrán tiene varias interpretaciones: una de ellas, tiene que ver con la estatura de una persona, pues hay gente chaparrita que es valiente, arrojada, emprendedora, conquistadora o triunfadora; otra interpretación, más propia de los albures, tiene que ver con las dimensiones de los atributos masculinos de un hombre, ámbito en el que no siempre lo más grande es lo mejor.
+
+**TE RECOMENDAMOS:** [**Mercados mexicanos famosos por sus comidas**](https://blog.tonoysumariachi.com/gastronomia/2022/10/11/mercados-mexicanos-famosos-por-sus-comidas.html)**.**
 
 ### Como el perro del hortelano: ni come, ni deja comer
 

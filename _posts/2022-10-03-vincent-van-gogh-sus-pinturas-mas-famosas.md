@@ -25,7 +25,7 @@ comment: false
 
 Como en Toño y su mariachi nos gusta conocer y compartir todo lo bueno de México y del mundo, a continuación conoceremos algunas de l**as pinturas más famosas de Vincent van Gogh**, varias de las cuales son **autorretratos** del **pintor**, que fue un ser atormentado y un **artista** incomprendido en su tiempo.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Museo del Louvre: arte de todo el mundo en París**](https://blog.tonoysumariachi.com/mundo/2022/08/26/museo-del-louvre-arte-de-todo-el-mundo-en-paris.html)**.**
 
 ## Girasoles
 

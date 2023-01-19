@@ -25,7 +25,7 @@ Aunque mucha gente piensa que era español, en realidad este escritor y dramatur
 
 Conozcamos un poco de la vida y de las obras de este ilustre **escritor mexicano,** que con su obra de teatro _La verdad sospechosa_ puso en alto las letras que es escribían en castellano de este lado del Océano Atlántico.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Sor Juana Inés de la Cruz: biografía y poemas selectos.**](https://blog.tonoysumariachi.com/cultura/2022/06/14/sor-juana-ines-de-la-cruz-biografia-y-poemas-selectos.html)
 
 **Juan Ruiz de Alarcón y Mendoza** nació el 2 de octubre de 1581 en el pueblo de **Taxco**, actual estado de Guerrero. Aunque él mismo afirmaba haber nacido en la Ciudad de México, los documentos y los estudios sobre su vida apuntan a que era natural de ese hermoso pueblo minero. Poco se sabe sobre su vida temprana, y a pesar de que corrían rumores de una supuesta ascendencia judía o mora —la cual era mal vista en aquellos tiempos de marcado catolicismo—, es muy probable que viniera de una familia acomodada con raíces en España y avecindada en el recientemente formado Virreinato de la Nueva España.
 

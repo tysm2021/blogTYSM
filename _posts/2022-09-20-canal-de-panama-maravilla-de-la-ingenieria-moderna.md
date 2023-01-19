@@ -25,7 +25,7 @@ En América Central, ubicado justamente en la parte más estrecha del **Istmo de
 
 Conozcamos un poco de la historia, el funcionamiento y algunos otros datos de esta gigantesca construcción, que es una de las maravillas de la hidráulica contemporánea.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles son los países más pequeños del mundo?**](https://blog.tonoysumariachi.com/mundo/2022/08/29/cuales-son-los-paises-mas-pequenos-del-mundo.html)
 
 Desde hace siglos, uno de los más grandes sueños de los navegantes que surcan las aguas aledañas al continente americano, ha sido el de poder contar con un paso que permita conectar las costas del Pacífico con las del Océano Atlántico, en especial si hablamos de la importancia económica que tienen las ciudades de ambos lados tanto en los Estados Unidos de América como en otros países americanos.
 

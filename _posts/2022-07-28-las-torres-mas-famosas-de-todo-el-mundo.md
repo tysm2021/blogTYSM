@@ -25,7 +25,7 @@ Desde los antiquísimos tiempos de la Biblia se hablaba de **torres** míticas, 
 
 Hagamos un breve recorrido por el tiempo y el espacio, para conocer algunas de las edificaciones que han resistido algunas guerras, violentos terremotos y, sobre todo, la acción devastadora del paso de los siglos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Cinco Cristos monumentales que puedes visitar en México**](https://blog.tonoysumariachi.com/turismo/2022/09/09/cinco-cristos-monumentales-que-puedes-visitar-en-mexico.html)**.**
 
 ## Torre Eiffel
 
@@ -43,7 +43,9 @@ Sin duda, es una de las **torres** más **famosas** del **mundo** debido a la no
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Empire_State_Building_during_sunset.jpg/1024px-Empire_State_Building_during_sunset.jpg)
 
-Este rascacielos neoyorquino es, sin lugar a dudas, uno de los edificios más célebres del mundo, pues incluso ha sido protagonista de películas, tanto románticas como de gorilas gigantes o de invasión extraterrestre. Ubicado en la isla de Manhattan, este emblemática **torre** fue diseñada por el despacho de arquitectos Shreve, Lamb & Harkon, y se construyó entre 1930 y 1931. Tiene una altura total de 44 metros, considerando su famosa antena, divididos entre sus 102 pisos. Su estilo arquitectónico se ubica dentro del Art Déco, y es uno de los puntos de observación más concurridos en la 'Gran Manzana'. Por si fuera poco, está considerado uno de las Siete Maravillas del Mundo Moderno por la Asociación Internacional de Ingenieros Civiles.
+Este rascacielos neoyorquino es, sin lugar a dudas, uno de los edificios más célebres del mundo, pues incluso ha sido protagonista de películas, tanto románticas como de gorilas gigantes o de invasión extraterrestre. Ubicado en la isla de Manhattan, este emblemática **torre** fue diseñada por el despacho de arquitectos Shreve, Lamb & Harkon, y se construyó entre 1930 y 1931. Tiene una altura total de 443 metros, considerando su famosa antena, divididos entre sus 102 pisos. Su estilo arquitectónico se ubica dentro del Art Déco, y es uno de los puntos de observación más concurridos en la 'Gran Manzana'. Por si fuera poco, está considerado uno de las Siete Maravillas del Mundo Moderno por la Asociación Internacional de Ingenieros Civiles.
+
+**TE RECOMENDAMOS:** [**Guerra de los Pasteles: resumen e historia**](https://blog.tonoysumariachi.com/historia/2022/04/20/guerra-de-los-pasteles-resumen-e-historia.html)**.**
 
 ## Torres Petronas
 

@@ -25,7 +25,7 @@ Una de las tradiciones mexicanas más arraigadas y más reconocidas en el extran
 
 Adentrémonos en esta interesante historia, de preferencia con un chocolatito o un atole, acompañados de una rebanada de **Pan de Muerto**, para saber un poco más del folclor, las tradiciones y la gastronomía de nuestro hermoso país.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**El Día de Muertos, ¿realmente es prehispánico?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/10/11/el-dia-de-muertos-realmente-es-prehispanico.html)
 
 Aunque mucho se ha dicho que la tradición del **Día de Muertos** es netamente prehispánica y relacionada con los ritos de los antiguos pueblos prehispánicos, ha quedado demostrado que si bien tiene esta influencia también deriva de la tradición cristiana y católica traída por los conquistadores españoles, pues del otro lado del Océano Atlántico desde hace siglos también se conmemoran festividades similares en cementerios y panteones, además de que se montan altares dedicados a los muertos, y de que el Día de los Fieles Difuntos forma parte del santoral católico.
 

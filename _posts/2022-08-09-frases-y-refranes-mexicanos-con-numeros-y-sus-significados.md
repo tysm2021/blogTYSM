@@ -25,7 +25,7 @@ La sabiduría popular del pueblo **mexicano** es inagotable: entre nuestros **di
 
 En algunos casos, la **frase** se explica por sí sola, pero en otros se trata de juegos de palabras o de **expresiones** de antaño que con el paso del tiempo hemos dejado de comprender. A ver qué te parecen…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Frases, dichos y refranes mexicanos acerca de la comida**](https://blog.tonoysumariachi.com/mexicanisimos/2022/09/07/frases-dichos-y-refranes-mexicanos-acerca-de-la-comida.html)**.**
 
 ## Me anda del uno
 
@@ -37,7 +37,7 @@ Cuando algo es excelente o magnífico, podemos decir que "**está del uno**", po
 
 ## ¡A la de tres!
 
-¡Esta es de mamá! Quienes fueron educados con el poder de la chancla, sabían que si estaban enmedio de un berrinche o tenían que hacer un encargo de un adulto —normalmente, la mamá o la abuela— a la mayor brevedad posible, tenían solamente **tres segundos** para recuperar la compostura o para llevar a cabo la tarea, pues normalmente a la cuenta del uno, dos… ¡tres!, sobrevenía el chanclazo, el pellizco o la nalgada. Por supuesto, esto de educar a los niños a base violencia es de tiempos lejanos… ¿o no lo será tanto?
+¡Esta es de mamá! Quienes fueron educados con el poder de la chancla, sabían que si estaban enmedio de un berrinche o tenían que hacer un encargo de un adulto —normalmente, la mamá o la abuela— a la mayor brevedad posible, tenían solamente **tres segundos** para recuperar la compostura o para llevar a cabo la tarea, pues normalmente a la cuenta del uno, dos… ¡tres!, sobrevenía el chanclazo, el pellizco o la nalgada. Por supuesto, esto de educar a los niños a base de violencia es de tiempos lejanos… ¿o no lo será tanto?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Crying-girl.jpg/1024px-Crying-girl.jpg)
 
@@ -54,6 +54,8 @@ Aunque más comúnmente se dice "ni un quinto", ambas expresiones se refieren a 
 ## Dejar de a seis
 
 Con el ojo cuadrado, asombrados, estupefactos, incrédulos: así es como se queda uno cuando alguien hace algo que nos deja "**de a seis**". Al parecer, esta frase tiene un origen militar: en algún tiempo, los cañones venían en dos diámetros, de a cuatro y de a **seis** pulgadas, y los daños que hacían éstos últimos naturalmente eran mayores y, digamos, "asombrosos". Por eso es que, con el tiempo, "dejar **de a seis**" o "quedarse **de a seis**" se relacionó en nuestra habla popular con algo que nos deja atónitos.
+
+**TE RECOMENDAMOS: ¿**[**Cuál es el origen de la frase popular “Ya sacó el cobre”?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/22/cual-es-el-origen-de-la-frase-popular-ya-saco-el-cobre.html)
 
 ## Salir con su domingo siete
 

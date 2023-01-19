@@ -24,9 +24,9 @@ summary:
 
 Músicos y cantantes van y vienen. Pero cuando se habla de música netamente mexicana, a casi todos nos vienen a la mente las canciones rancheras y, ¡cómo no!, los charros cantores de México, desde el pionero Tito Guízar hasta el recientemente fallecido Vicente Fernández.
 
-En este breve recuento, recordamos a las mejores voces que han incursionado en la música vernácula de México y que, ya sea en discos o en películas, han puesto muy en alto el nombre de nuestro país y son infaltables en un 15 de septiembre y, también, cuando uno trae unos tequilitas entre pecho y espalda…
+En este breve recuento, recordamos a las mejores voces que han incursionado en la **música vernácul**a de **México** y que, ya sea en discos o en películas, han puesto muy en alto el nombre de nuestro país y son infaltables en un 15 de septiembre y, también, cuando uno trae unos tequilitas entre pecho y espalda…
 
-TE PUEDE INTERESAR:
+**TE RECOMENDAMOS:** [**Traje de charro: historia y partes de la vestimenta más mexicana.**](https://blog.tonoysumariachi.com/mexicanisimos/2022/07/06/traje-de-charro-historia-y-partes-de-la-vestimenta-mas-mexicana.html)
 
 ### Tito Guízar (1908-1999)
 
@@ -38,7 +38,7 @@ El pionero. Fue uno de los primeros en ponerse el traje de charro y entonar canc
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/de/Jorge_Negrete_publicity_photo%2C_c.1940s_%28cropped%29.jpg)
 
-Una de las figuras central de la Época de Oro del Cine Mexicano. Destacó en el cine con su voz y su presencia, haciendo famosas composiciones como "Ay Jalisco, no te rajes", "Cocula" y "México lindo y querido".
+La mejor voz y el "Charro Cantor" por excelencia, siendo una de las figuras central de la Época de Oro del Cine Mexicano. Destacó en el cine con su voz y su presencia, haciendo famosas composiciones como "Ay Jalisco, no te rajes", "Cocula" y "México lindo y querido".
 
 ### Pedro Infante (1917-1957)
 
@@ -54,7 +54,7 @@ Apodado "El Gallo Giro" por la cinta del mismo nombre, fue otro de los grandes a
 
 ### Antonio Aguilar (1919-2007)
 
-### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Antonio_Aguilar%2C_c._1960s.jpg/770px-Antonio_Aguilar%2C_c._1960s.jpg)
+### ![](https://upload.wikimedia.org/wikipedia/commons/1/17/Antonio_Aguilar_in_The_Undefeated.jpg)
 
 "El charro de México", además de impulsar la charrería como deporte nacional, tuvo una gran carrera en el cine e interpretando canciones como "Un puño de tierra", "Qué falta me hace mi padre" y "Triste recuerdo".
 
@@ -64,9 +64,11 @@ Apodado "El Gallo Giro" por la cinta del mismo nombre, fue otro de los grandes a
 
 Originario del barrio capitalino de Tacubaya, "El rey del bolero ranchero" destacó por su suave timbre de voz y por canciones más melodiosas, tales como "Payaso", "Esclavo y amo" y su más grande éxito, "Sombras".
 
+**TE RECOMENDAMOS:** [**Día del mariachi: origen e historia de la celebración**](https://blog.tonoysumariachi.com/mexicanisimos/2022/05/27/dia-del-mariachi-origen-e-historia-de-la-celebracion.html)**.**
+
 ### José Alfredo Jiménez (1926-1973)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jos%C3%A9_Alfredo_Jim%C3%A9nez_en_1957.jpg/356px-Jos%C3%A9_Alfredo_Jim%C3%A9nez_en_1957.jpg)
+![](/images/2022-12-23-josealfredo.jpeg)
 
 Sin duda, uno de los más grandes cantautores del género ranchero. Se especula que compuso cerca de mil canciones, entre las que destacan "El rey", "Camino de Guanajuato", "Te solté la rienda" y "Si nos dejan".
 

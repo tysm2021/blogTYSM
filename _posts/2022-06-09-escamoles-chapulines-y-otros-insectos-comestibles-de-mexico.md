@@ -25,7 +25,7 @@ Desde tiempos prehispánicos, los **escamoles**, **chapulines**, **jumiles**, **
 
 A continuación te contamos un poco sobre estos animalitos y de las formas en que, a lo largo de distintos estados de la República, acostumbramos prepararlos y comerlos. Te sorprenderás…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Corundas, uchepos y otros tamales michoacanos.**](https://blog.tonoysumariachi.com/gastronomia/2022/09/06/corundas-uchepos-y-otros-tamales-michoacanos.html)
 
 Empecemos con los **grillos** o, como les conocemos en las zonas centrales de México por la influencia del náhuatl, **chapulines**. Estos animales nos los comemos ya secos y pasados por el comal, con sal y limón, o aderezados con ajo o con chile. Son ideales como botana, en tacos con su salsita y guacamole, y para acompañar un mezcalito, junto a unas hebras de queso Oaxaca o quesillo.
 
@@ -38,7 +38,7 @@ Seguimos con los **gusanos de maguey**, que son larvas de una especie que crece 
 Seguimos con los especies de nombre curioso: los **acociles** y los **jumiles**. Los primeros, también conocidos como langostas de río, son unos crustáceos —como los cangrejos— cuyo sabor es parecido al del camarón y se pone rojo al cocerse; los segundos son pequeñas chinches de monte que se consumen mucho en Morelos y Guerrero.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/romantm/33846350340" title="Acociles con limón y salsa Valentina #cdmx #cdmx #mexicocity #food #foodporn"><img src="https://live.staticflickr.com/2830/33846350340_93d1a0efc5_b.jpg" width="1024" height="1024" alt="Acociles con limón y salsa Valentina #cdmx #cdmx #mexicocity #food #foodporn"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Otras especies que se consumen a lo largo de la República son los pulgones, algunas mariposas, los escarabajos y diversas especies de arañas. Pero las palmas se las llevan los **escamoles**, que son larvas de hormigas güijeras que se dan en temporada de lluvias; por su delicioso sabor se le ha llamado "el caviar mexicano" y una de las formas más populares de comerlos son fritos en mantequilla, con un poco de cebolla, chile y el infaltable epazote.
+Otras especies que se consumen a lo largo de la República son los **pulgones**, algunas **mariposas**, los **escarabajos** y diversas especies de **arañas**. Pero las palmas se las llevan los **escamoles**, que son larvas de hormigas güijeras que se dan en temporada de lluvias; por su delicioso sabor se le ha llamado "el caviar mexicano" y una de las formas más populares de comerlos son fritos en mantequilla, con un poco de cebolla, chile y el infaltable epazote.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Escamoles.jpg/1024px-Escamoles.jpg)
 

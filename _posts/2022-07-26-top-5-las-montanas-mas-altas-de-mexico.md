@@ -11,7 +11,7 @@ article_header:
   image:
     src: "/images/2022-07-26-mexico-popocatepetl.jpeg"
 sharing: true
-title: "Top 5: las montañas más altas de México"
+title: "Top 5: ¿Cuáles son las montañas más altas de México?"
 summary:
   México es tierra de volcanes, por eso no es de extrañar que éstos sean también
   las montañas más altas de México, ¿sabes cuáles son?
@@ -25,7 +25,7 @@ Muchos paisajes de **México** consideran siempre a una **montaña** nevada o un
 
 A continuación, te decimos el **Top 5** de las **montañas** con **mayor** **altura** del país, las cuales —considerando que **México** está dentro del llamado 'Cinturón de Fuego' y tiene gran actividad sísmica y tectónica— casi todas son **volcanes** activos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Leyenda de los volcanes: Popocatépetl e Iztaccíhuatl**](https://blog.tonoysumariachi.com/mexicanisimos/2022/06/15/leyenda-de-los-volcanes-popocatepetl-e-iztaccihuatl.html)**.**
 
 ## Pico de Orizaba
 

@@ -25,7 +25,7 @@ Una de las primeras y más destacadas escritoras mexicanas —aunque, siendo pre
 
 A continuación, un breve recorrido biográfico de la "Décima Musa", cuyo fervor solamente era superado por su sed de conocimientos y por su amor a la lectura.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Octavio Paz, poeta, ensayista y Premio Nobel mexicano**](https://blog.tonoysumariachi.com/cultura/2022/09/20/octavio-paz-poeta-ensayista-y-premio-nobel-mexicano.html)**.**
 
 Sor Juana Inés nació el **12 de noviembre de 1648** —aunque otros dicen que fue en **1651**— en San Miguel Nepantla, Estado de México, con el nombre completo de Juana Inés Asbaje Ramírez de Santillana. Fue hija ilegítima de **Pedro de Asuaje y Vargas**, y de doña **Isabel Ramírez**, quienes nunca se casaron. Su infancia transcurrió en las haciendas de su abuelo, en Nepantla y Panoaya, donde la pequeña Juana Inés aprendió a leer a los tres años —y asimismo aprendió la lengua náhuatl por el contacto con los indígenas que ahí trabajaban.
 
@@ -37,19 +37,21 @@ Como expresó sus deseos de no casarse nunca, Juana Inés llamó la atención de
 
 En 1673, el virrey Toledo fue relevado de su cargo y, durante el viaje de regreso, falleció la virreina Leonor de Carreto. Este fue un duro golpe para Sor Juana, quien le escribió una sentida elegía. Unos años después, en 1680, la religiosa se ganaría también como protectora a la nueva virreina, **María Luisa Manrique de Lara y Gonzaga**. Fue durante esta época que la "Décima Musa" tuvo una época de esplendor en su producción literaria.
 
-Entre 1690 y 1691, Sor Juana se vio involucrada en una disputa teológica contra el obispo de Puebla, Manuel Fernández de Santa Cruz, que pudo acarrearle problemas a la religiosa por sus críticas a un sermón pronunciado por el jesuita Antonio Vieira. Muchos ven en este intercambio de argumentos el principio del fin de la carrera literaria de Sor Juana.
+Entre 1690 y 1691, **Sor Juana** se vio involucrada en una disputa teológica contra el obispo de Puebla, Manuel Fernández de Santa Cruz, que pudo acarrearle problemas a la religiosa por sus críticas a un sermón pronunciado por el jesuita Antonio Vieira. Muchos ven en este intercambio de argumentos el principio del fin de la carrera literaria de Sor Juana.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/cd/Sor_Juana_In%C3%A9s_de_la_Cruz_%28Juan_de_Miranda%29.jpg)
 
-En 1693, **Sor Juana** dejó de escribir. Un año más tarde, regaló o puso en venta su valiosa colección de libros con el fin de recolectar dinero para ayudar a los pobres. A principios de 1695, una **epidemia** azotó a la Ciudad de México —algunos decían que de fiebre amarilla, hoy todo parece indicar que fue de tifus— y fue especialmente implacable entre las monjas del **Convento de San Jerónimo**, pues nueve de cada diez religiosas que se enfermaban, morían a causa de la enfermedad.
+En 1693, **Sor Juana** dejó de escribir. Un año más tarde, regaló o puso en venta su valiosa colección de libros con el fin de recolectar dinero para ayudar a los pobres. A principios de 1695, una **epidemia** azotó a la Ciudad de México —algunos decían que de fiebre amarilla, hoy todo parece indicar que fue de tifus— y fue especialmente implacable entre las monjas del **Convento de San Jerónimo**, pues nueve de cada diez religiosas que se enfermaban morían a causa de la enfermedad.
 
 El 17 de febrero de ese año falleció su confesor, el padre Nuñez de Miranda. Sor Juana se habría contagiado poco después, pero aun enferma seguía cuidando a las monjas que se hallaban delicadas. La muerte alcanzó a la poetisa el **17 de abril de 1695**. Actualmente el espacio del ex Convento de San Jerónimo es ocupado por la Universidad del Claustro de Sor Juana.
 
 ## Acerca de su obra
 
-La obra de Sor Juana puede dividirse en: obras de teatro, autos sacramentales —dramas litúrgicos que se representaban el día de Corpus y fueron prohibidos en 1765—, poesía o lírica, y prosa. También escribió villancicos para la iglesia.
+Las **obras** de **Sor Juana** puede dividirse en: obras de teatro, autos sacramentales —dramas litúrgicos que se representaban el día de Corpus y fueron prohibidos en 1765—, poesía o lírica, y prosa. También escribió villancicos para la iglesia.
 
 En el teatro, su obra más conocida es _Los empeños de una casa_, una comedia de enredos sobre dos parejas que se aman pero por circunstancias no pueden estar juntas. De sus tres autos sacramentales, destaca _El divino Narciso_, escrita para ser representada en la corte de Madrid.
+
+**TE RECOMENDAMOS:** [**Cinco escritoras mexicanas del siglo XX y sus obras principales.**](https://blog.tonoysumariachi.com/cultura/2022/10/05/cinco-escritoras-mexicanas-del-siglo-xx-y-sus-obras-principales.html)
 
 La lírica conforma la mitad de toda la **producción literaria** de **Sor Juana** y abarcó diversas formas poéticas: poemas amorosos, sonetos, poemas de amistad o cortesanos dedicados a la virreina, así como composiciones ocasionales para hechos destacados o personajes de la época. Aquí algunas muestras:
 

@@ -25,17 +25,19 @@ Uno de los ingredientes indispensables de la cocina mexicana es, sin dudarlo, el
 
 A continuación, la respuesta a esa interrogante. Pero antes, un poco de ciencia para explicar cómo se mide el picor de un chile. ¿Estamos listos?…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Chiles en nogada: historia y la leyenda de su creación.**](https://blog.tonoysumariachi.com/gastronomia/2022/04/27/chiles-en-nogada-historia-y-la-leyenda-de-su-creacion.html)
 
 Para ciertos científicos como los químicos, la sensación que los mexicanos describimos como "**picor**" es descrita como **pungencia**, y se mide usando una unidad llamada **Scoville Heat Unit** (**SHU**), en honor al químico y farmacólogo estadounidense **Wilbur Scoville**, quien en 1912 realizó un examen profundo de las cualidades organolépticas —es decir, que pueden ser percibidas por los órganos de los sentidos— de los **chiles**, conocidos en otras partes como **pimientos**, **ajíes** o **guindillas**.
 
-El principio es muy sencillo: la unidad **SHU** expresa la cantidad de partes de agua en la que hay que diluir un concentrado del chile en cuestión, para que deje de ser perceptible. En otras palabras, si a una gota de concentrado **chile** serrano fresco le tenemos que añadir quinientas gotas de agua para que deje de picar, hablaremos de que tiene 500 SHU; en consecuencia, entre más grande es el número más picante será el **chile**.
+El principio es muy sencillo: la unidad **SHU** expresa la cantidad de partes de agua en la que hay que diluir un concentrado del chile en cuestión, para que deje de ser perceptible. En otras palabras, si a una gota de concentrado **chile** serrano fresco le tenemos que añadir quinientas gotas de agua para que deje de picar, hablaremos de que tiene 500 SHU; en consecuencia, entre más grande es el número más **picante** será el **chile**.
 
-¿Y qué es lo que hace que los chiles piquen? Pues una sustancia química llamada **capsaicina**, la cual estimula los receptores térmicos de la piel, especialmente en mucosas como las de la lengua y el interior de la boca. Contrariamente a lo que mucha gente piensa, la **capsaicina** no se concentra en las semillas sino en la placenta, a la que coloquialmente se le llama "venas"; por eso, cuando no queremos que nuestra salsa pique mucho, se nos aconseja "desvenar" los **chiles** antes de mezclarlos, molerlos o licuarlos.
+¿Y qué es lo que hace que los **chiles** piquen? Pues una sustancia química llamada **capsaicina**, la cual estimula los receptores térmicos de la piel, especialmente en mucosas como las de la lengua y el interior de la boca. Contrariamente a lo que mucha gente piensa, la **capsaicina** no se concentra en las semillas sino en la placenta, a la que coloquialmente se le llama "venas"; por eso, cuando no queremos que nuestra salsa pique mucho, se nos aconseja "desvenar" los **chiles** antes de mezclarlos, molerlos o licuarlos.
 
 ![](/images/2022-06-15-jalapenos-1320629_1280.jpeg)
 
 Después de esta explicación, ahora sí vamos a **los chiles más picantes**. Empezaremos con los más suavecitos y terminaremos con los más **picosos**. ¡Empezamos!
+
+**TE RECOMENDAMOS:** [**El mexicanísimo guacamole: historia y recetas.**](https://blog.tonoysumariachi.com/gastronomia/2022/10/17/el-mexicanisimo-guacamole-historia-y-recetas.html)
 
 ### Los que no pican
 
@@ -55,7 +57,7 @@ En esta misma clasificación están el **chile jalapeño** y el **chile chipotle
 
 ### Los más picosos
 
-Hasta arriba en la escala, y sólo para gente que le entra con gusto a lo picante, está primero el chile serrano, que es verde como los pericos, con entre 30,000 y 60,000 unidades SHU. Le sigue el **chile de árbol**, que es muy similar pero más chiquito y "flaquito" —de ahí la frase de "Chiquito, pero picoso"—, que tiene entre 50,000 y 100,000 unidades SHU. Ambos los usamos para las salsas verdes, el guacamole y algunos valientes hasta aplican el "chile de amor… didas".
+Hasta arriba en la escala, y sólo para gente que le entra con gusto a lo picante, está primero el **chile serrano**, que es verde como los pericos, con entre 30,000 y 60,000 unidades SHU. Le sigue el **chile de árbol**, que es muy similar pero más chiquito y "flaquito" —de ahí la frase de "Chiquito, pero picoso"—, que tiene entre 50,000 y 100,000 unidades SHU. Ambos los usamos para las salsas verdes, el guacamole y algunos valientes hasta aplican el "chile de amor… didas".
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Chile_de_%C3%81rbol_seco.JPG/1024px-Chile_de_%C3%81rbol_seco.JPG)
 

@@ -25,7 +25,7 @@ En el mundo actual, dividido entre **países** y sus fronteras, al mirar un mapa
 
 A continuación, te decimos cómo se llaman y **cuánto miden** estos "micro países" que cuentan con su propia bandera, su moneda y todas las instituciones que los hacen un **estado** libre, además del reconocimiento del resto de los **países** del mundo —descartamos de esta lista a los territorios, regiones o dependencias de otros **países**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles son los países con más hablantes de español?**](https://blog.tonoysumariachi.com/mundo/2022/07/22/cuales-son-los-paises-con-mas-hablantes-de-espanol.html)
 
 ## Liechtenstein
 
@@ -44,6 +44,8 @@ Oficialmente llamado República de **San Marino**, este país está enclavado en
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tuvalu_Funafuti_atoll_beach.jpg/1024px-Tuvalu_Funafuti_atoll_beach.jpg)
 
 ¿Habías oído hablar de **Tuvalu**? Nosotros tampoco, pero se trata de un país insular —es decir, de una isla que se constituye en **Estado** independiente— de apenas 26 kilómetros cuadrados de superficie y con una población de 11,900 personas, cifra que lo convierte en el segundo **país** con la menor población del mundo, sólo detrás de la Ciudad del Vaticano. Se encuentra en el continente de Oceanía, en la región polinesia, a unos 4 mil kilómetros de distancia de Australia y de Hawai, consta de cuatro arrecifes de coral y cinco atolones, y su ciudad capital se llama **Funafuti**. Por su condición geográfica, la economía de Tuvalu es básicamente para el auto consumo, así que gran parte de su pequeña población se dedica a la pesa y la agricultura.
+
+**TE RECOMENDAMOS:** [**Origen y significado del nombre de los cinco continentes**](https://blog.tonoysumariachi.com/mundo/2022/08/15/origen-y-significado-del-nombre-de-los-cinco-continentes.html)**.**
 
 ## Nauru
 

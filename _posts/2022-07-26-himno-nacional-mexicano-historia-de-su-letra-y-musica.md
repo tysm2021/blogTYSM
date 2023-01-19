@@ -25,7 +25,7 @@ A todos, en las escuelas, nos hacen memorizarlo desde muy pequeños y regularmen
 
 De todo esto y un poco más te platicaremos en esta breve nota, para que la próxima vez que entonces el famoso "**Mexicanos** al grito de guerra, el acero aprestad y el bridón…" sepas un poco del contexto del cántico marcial más famoso de **México**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Los "otros" Himnos Nacionales Mexicanos, ¿cuáles son?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/03/los-otros-himnos-nacionales-mexicanos-cuales-son.html)
 
 El **Himno Nacional Mexicano** es, junto con el Escudo y la Bandera, uno de los tres **símbolos patrios** establecidos por la ley. Su origen se remonta al año de 1853, cuando después de muchos fallidos intentos de músicos extranjeros por componer un **himno** que identificara y uniera a los ciudadanos de la joven nación, prácticamente recién nacida a la independencia, se publicó la convocatoria a un concurso doble.
 

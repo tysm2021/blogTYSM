@@ -23,9 +23,9 @@ comment: false
 
 Desde hace más de 500 años, **México** ha sido una tierra hospitalaria que ha recibido a **migrantes** de muchas naciones europeas, asiáticas y de otras latitudes. Españoles, franceses, alemanes, británicos, rusos, irlandeses, libaneses, sirios, orientales y gente de otras nacionalidades ha llegado a nuestras tierras con la esperanza de hacer una nueva vida, y ha echado raíces que permean en nuestra **cultura**. Y las artes no son la excepción: por eso hoy te presentamos a **cinco artistas extranjeros** que realizaron lo mejor de su producción en tierras **mexicanas**.
 
-Hablamos del muralista francés **Jean Charlot**, de la pintora española **Remedios Varo**, del arquitecto y escultor alemán **Mathias Goerit**z, de la surrealista británica **Leonora Carrington** y de un pintor ruso que cariñosamente recibió el apodo de **Vlady**, quienes huyeron de una Europa dominada por los nazis y hallaron refugio en nuestro país. Conozcamos un poco sobre sus vidas y obras.
+Hablamos del muralista francés **Jean Charlot**, de la pintora española **Remedios Varo**, del arquitecto y escultor alemán **Mathias Goeritz**, de la surrealista británica **Leonora Carrington** y de un pintor ruso que cariñosamente recibió el apodo de **Vlady**, quienes huyeron de una Europa dominada por los nazis y hallaron refugio en nuestro país. Conozcamos un poco sobre sus vidas y obras.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Traje de charro: historia y partes de la vestimenta más mexicana**](https://blog.tonoysumariachi.com/mexicanisimos/2022/07/06/traje-de-charro-historia-y-partes-de-la-vestimenta-mas-mexicana.html)**.**
 
 ## Jean Charlot
 
@@ -39,9 +39,9 @@ A su llegada a México, conoció al pintor **Fernando Leal**, con quien comparti
 
 María de los **Remedios** Alicia Rodriga **Varo** y Uranga, que era su nombre completo, nació en España, específicamente en Anglès, provincia de Gerona, el 16 de diciembre de 1908. La historia nos dice que en 1937 se trasladó a París y, ante la llegada del ejército nazi a la capital francesa, se exilió en México en el año 1941 y nunca regresó a su patria.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Useless_Science_or_the_Alchemist.jpg/517px-Useless_Science_or_the_Alchemist.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Varo_Remedios_%286857423303%29.jpg/597px-Varo_Remedios_%286857423303%29.jpg)
 
-A Remedios Varo la ubicamos dentro de la corriente surrealista, y fue aquí en México donde realizó la mayor parte de sus obras más reconocidas, al grado de que muchos la consideran casi una pintora mexicana. Los estudiosos de su obra la describen como "la evocación de un mundo que surgió de su imaginación, en el cual se mezclan lo científico, lo místico, lo esotérico y lo mágico", como se nota en sus hermosos lienzos.
+A **Remedios Varo** la ubicamos dentro de la corriente surrealista, y fue aquí en México donde realizó la mayor parte de sus obras más reconocidas, al grado de que muchos la consideran casi una pintora mexicana. Los estudiosos de su obra la describen como "la evocación de un mundo que surgió de su imaginación, en el cual se mezclan lo científico, lo místico, lo esotérico y lo mágico", como se nota en sus hermosos lienzos.
 
 ## Mathias Goeritz
 
@@ -50,6 +50,8 @@ A Remedios Varo la ubicamos dentro de la corriente surrealista, y fue aquí en M
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Torres_de_Sat%C3%A9lite_-_2.jpg/812px-Torres_de_Sat%C3%A9lite_-_2.jpg)
 
 En su obra destacan tanto las obras plásticas como la **escultura** y la **arquitectura**. También fue escenógrafo para el teatro y el cine mexicanos, aunque su obra más recordada son las famosas **Torres de Satélite**, que construyó en mancuerna con el mexicano **Luis Barragán**, además de otras obras escultóricas en el Hotel Camino Real y en la Ruta de la Amistad de la Ciudad de México.
+
+**TE RECOMENDAMOS:** [**Premios Nobel mexicanos: cuántos y quiénes son**](https://blog.tonoysumariachi.com/cultura/2022/04/22/premios-nobel-mexicanos-cuantos-y-quienes-son.html)**.**
 
 ## Leonora Carrington
 
@@ -65,4 +67,4 @@ El último **artista** de esta lista tiene un nombre casi impronunciable para lo
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Biblioteca_Miguel_Lerdo_de_Tejada.jpg/1024px-Biblioteca_Miguel_Lerdo_de_Tejada.jpg)
 
-Ya nacionalizado **mexicano**, se vinculó con la corriente de pintores conocido como la 'Generación de la Ruptura', que buscaba distanciarse del nacionalismo impuesto por Rivera, Siqueiros y Orozco. Dentro de su vasta obra, destaca que en 1971 fue invitado por el presidente Luis Echeverría para realizar murales en la ß. En el barrio de Mixcoac existe una casa con su nombre, donde existe más de un millar de obras suyas. **Vlady** murió en Cuernavaca, Morelos, en el año 2005.
+Ya nacionalizado **mexicano**, se vinculó con la corriente de pintores conocido como la 'Generación de la Ruptura', que buscaba distanciarse del nacionalismo impuesto por Rivera, Siqueiros y Orozco. Dentro de su vasta obra, destaca que en 1971 fue invitado por el presidente Luis Echeverría para realizar murales en la Biblioteca Lerdo de Tejada. En el barrio de Mixcoac existe una casa con su nombre, donde existe más de un millar de obras suyas. **Vlady** murió en Cuernavaca, Morelos, en el año 2005.

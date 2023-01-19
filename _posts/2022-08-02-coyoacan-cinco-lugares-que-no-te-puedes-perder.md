@@ -25,7 +25,7 @@ Los que saben de historia dicen que durante la época prehispánica se llamaba *
 
 Desde que el conquistador Hernán Cortés estableció ahí una de sus casas, **Coyoacán** ha sido hogar de políticos como el presidente Miguel de la Madrid, de intelectuales como Salvador Novo y Octavio Paz, y de gente del cine como Emilio 'Indio' Fernández o la hermosa Dolores del Río. ¿Tú ya lo conoces?
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**San Miguel de Allende: qué hacer en sus atractivos turísticos**](https://blog.tonoysumariachi.com/turismo/2022/08/16/san-miguel-de-allende-que-hacer-en-sus-atractivos-turisiticos.html)**.**
 
 ## La Casa Azul
 
@@ -45,7 +45,9 @@ En el centro de **Coyoacán** —de forma precisa, en la colonia **Villa Coyoac�
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Jard%C3%ADn_Sonoro_%28Fonoteca_Nacional%29_-_6.jpg/1024px-Jard%C3%ADn_Sonoro_%28Fonoteca_Nacional%29_-_6.jpg)
 
-Este es quizá uno de los edificios más hermosos y menos conocidos de **Coyoacán**. Se encuentra sobre en la esquina de Francisco Sosa y Salvador Novo, en el **Barrio Santa Catarina**, y ostenta en nombre de **Casa Alvarado**, que aunque no tiene relación con el conquistador Pedro de Alvarado es un edificio histórico del siglo XVII, con influencias andaluza y morisca, que de 1997 a 1998 —año de su muerte— fue residencia del Premio Nobel mexicano, el escritor **Octavio Paz**. Además de ser la encargada del resguardo de la memoria sonora de México, en la **Fonoteca Nacional** podrás disfrutar de eventos, conciertos, exposiciones o del hermoso Jardín Sonoro, donde entre columnas, vegetación y el trinar de los pájaros podrás relajarte escuchando música. Y ya si andas por ahí, puedes caminar unos metros y conocer el Museo de la Acuarela Guati Rojo, ubicado en la calle de Salvador Novo.
+Este es quizá uno de los edificios más hermosos y menos conocidos de **Coyoacán**. Se encuentra sobre en la esquina de Francisco Sosa y Salvador Novo, en el **Barrio Santa Catarina**, y ostenta en nombre de **Casa Alvarado**, que aunque no tiene relación con el conquistador Pedro de Alvarado es un edificio histórico del siglo XVII, con influencias andaluza y morisca, que de 1997 a 1998 —año de su muerte— fue residencia del Premio Nobel mexicano, el escritor **Octavio Paz**. Además de ser la encargada del resguardo de la memoria sonora de México, en la **Fonoteca Nacional** podrás disfrutar de eventos, conciertos, exposiciones o del hermoso Jardín Sonoro, donde entre columnas, vegetación y el trinar de los pájaros podrás relajarte escuchando música. Y ya si andas por ahí, puedes caminar unos metros y conocer el **Museo de la Acuarela Guati Rojo**, ubicado en la calle de Salvador Novo.
+
+**TE RECOMENDAMOS:** [**Ángel de la Independencia: historia del símbolo de la CdMx**](https://blog.tonoysumariachi.com/cultura/2022/07/28/angel-de-la-independencia-historia-del-simbolo-de-la-cdmx.html)**.**
 
 ## Los viveros
 

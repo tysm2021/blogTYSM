@@ -25,7 +25,7 @@ Las tías **solteras**, las que "no salen ni en rifa", los **solterones** empede
 
 Recuerda que, aunque la ciencia no avala estas prácticas y la razón nos dice que no son ciertas, forman parte del **folclor** y de la religiosidad del pueblo mexicano, así que vale la pena estudiarlas y averiguar sus orígenes, que muchas veces resultan fascinantes.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Santuarios religiosos para visitar en México**](https://blog.tonoysumariachi.com/turismo/2022/07/15/santuarios-religiosos-para-visitar-en-mexico.html)**.**
 
 **San Antonio de Padua** fue un sacerdote franciscano nacido en Lisboa, Portugal, en el año de 1195, y murió en la ciudad italiana de Padua el 13 de junio de 1231, razón por la cual ese día se celebra su fiesta. Además de **santo**, se le considera Doctor de la Iglesia y su canonización tuvo lugar apenas un año después de su muerte. Se le considera patrón de las mujeres estériles, los pobres, los viajeros, los albañiles, los panaderos y los papeleros.
 

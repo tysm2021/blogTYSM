@@ -24,11 +24,11 @@ summary:
 
 Cuando uno vive o está de visita en la **Ciudad de México**, es fácil darse cuenta que es una metrópoli donde todo mundo tiene prisa. Por esa razón, quizás, es que a todas horas abundan los puestos de comida callejera, pues a muchos no les da tiempo ni de desayunar. Y uno de los platillos mañaneros más famosos es la **torta de tamal**, a la que se le llama “**guajolota**”; ¿sabes que hay una **leyenda** sobre su **origen**?
 
-Como siempre sucede, nadie conoce el **origen** exacto de este popular antojito, ni mucho menos el nombre de su autor. Pero queda claro que, después de la comida, lo que más nos gusta a los mexicanos es inventar historias y **leyendas** sobre cómo surgieron ciertaas cosas.
+Como siempre sucede, nadie conoce el **origen** exacto de este popular antojito, ni mucho menos el nombre de su autor. Pero queda claro que, después de la comida, lo que más nos gusta a los mexicanos es inventar historias y **leyendas** sobre cómo surgieron ciertas cosas.
 
-TE PUEDE INTERESAR:
+**TE RECOMENDAMOS:** [**Corundas, uchepos y otros tamales michoacanos**](https://blog.tonoysumariachi.com/gastronomia/2022/09/06/corundas-uchepos-y-otros-tamales-michoacanos.html)**.**
 
-Primero, hablemos de la **guajolota**. Para quienes no la conocen, se trata simplemente de una **torta de tamal**; es decir, de una porción de masa de maíz al que se añade un guisado y se cuece envuelta en hoja de maíz, y después se coloca en medio de una pieza de pan blanco, ya sea un bolillo o una telera. Normalmente se acompaña con un atole y se vende en puestos callejeros, por ejemplo afuera de las estaciones del metro.
+Primero, hablemos de la **guajolota**. Para quienes no la conocen, se trata simplemente de una **torta de tamal**; es decir, de una porción de masa de maíz al que se añade un guisado y se cuece envuelta en hoja de maíz, y después se coloca en medio de una pieza de pan blanco, ya sea un bolillo o una telera; algunos le añaden salsa o crema. Normalmente se acompaña con un atole y se vende en puestos callejeros, por ejemplo afuera de las estaciones del metro.
 
 El nombre de “**guajolota**”, dicen, obedece a que el pan relleno con el **tamal** asemeja a la pechuga de un pavo —recordemos que pavo y **guajolote** son básicamente lo mismo—; o bien, debido a que por sus muchas calorías quienes acostumbran consumirlo engordan “como un **guajolote**”. Por último, otros dicen que antaño se preparaba con un pan de baja calidad conocido, justamente, como “**guajolote**”.
 

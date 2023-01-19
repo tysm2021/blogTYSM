@@ -25,7 +25,7 @@ Durante los siglos XIV, XV y parte del siglo XVI, el centro de **México** y gra
 
 Acá te compartimos una breve **lista** de las **deidades** más relevantes del mundo **mexica**, las cuales eran representadas en **esculturas**, **relieves**, **pinturas**, **códices** y otras manifestaciones de arte, y a las cuales se les rendía **culto** en **templos** y palacios, e incluso se les ofrecían sacrificios de animales… y de humanos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Mictlán: los nueve niveles del inframundo mexica**](https://blog.tonoysumariachi.com/historia/2022/04/21/mictlan-los-nueve-niveles-del-inframundo-mexica.html)**.**
 
 ## Dioses principales
 
@@ -39,13 +39,13 @@ Así como en el cristianismo se habla de Adán y Eva, en la religión de los mex
 
 El dios principal de los mexicas. Su nombre significa 'colibrí zurdo' o 'colibrí del sur'. Se le reconoce principalmente como **dios de la guerra**, aunque también se le asocia con el Sol y con el fuego. Fue él quien ordenó a las tribus nahuatlacas salir de la mítica Aztlán y migrar hacia el Valle de México. En su honor se levantó una de las torres del Templo Mayor y se le dedicaban sacrificios humanos. También se le vinculaba con las águilas, que son cazadoras diurnas.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Huitzilopochtli_V.svg/712px-Huitzilopochtli_V.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/3/3e/Huitzilopochtli_V.png)
 
-## Quetzalcóatl
+### Quetzalcóatl
 
 Uno de los dioses más complejos del panteón mexica. Su nombre significa 'serpiente emplumada' o 'serpiente de plumas preciosas' y fue uno de los primeros dioses que fueron creados. Principalmente se le conoce como **dios de la vida**, de la luz, la fertilidad, la civilización y el conocimiento, aunque también es señor de los vientos, en su manifestación de Ehécatl. También se le asociaba con el planeta Venus o "estrella matutina" y se le consideraba el 'gemelo precioso' de Xólotl, la estrella vespertina.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Quetzalcoatl_V.svg/878px-Quetzalcoatl_V.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Quetzalcoatl.svg/712px-Quetzalcoatl.svg.png)
 
 ### Tláloc
 
@@ -89,7 +89,7 @@ Su nombre completo era Huehuetéotl Xiuhtecuhtli, que significa 'Nuestro viejo s
 
 Es la **madre de los dioses** y también se usa como un genérico para describir a otras diosas madres como **Coatlicue**, **Omecíhuatl** y Tocih. Su templo estaba en el cerro del Tepeyac, el cual fue destruido y en su lugar se instauró el culto a la Virgen de Guadalupe.
 
-### Coyoxauhqui
+### Coyolxauhqui
 
 Diosa lunar o **diosa de la Luna**, función que cumple de forma parelela con la diosa **Meztli**. 'La de cascabeles en la cara', era hija de Coatlicue y hermana de Huitzilopochtli; cuando su madre estaba embarazada del mismo, amenazó con matarla, pero su hermano luchó contra ella, la venció y la despeño desde el cerro sagrado de Coatepec, por eso luce un cuerpo desmembrado. Es famosa por el monolito en el que está representada, cuyo hallazgo dio origen al Museo del Templo Mayor.
 
@@ -121,7 +121,7 @@ Dios del maíz, se le consideraba de gran importancia por ser el grano principal
 
 'Flor preciosa', era la diosa asociada a la belleza, las flores, el amor carnal, el placer amoroso y las artes. Se creía que había nacido de los cabellos de la diosa madre.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Xochiquetzal.svg/699px-Xochiquetzal.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/1/15/Xochiquetzal_V.png)
 
 ### Mayáhuel
 

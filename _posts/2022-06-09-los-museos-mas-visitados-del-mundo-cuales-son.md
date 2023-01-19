@@ -25,7 +25,7 @@ Para quienes tienen el deseo de viajar por el **mundo**, aunque sea de forma vir
 
 Acá va una lista de los recintos que **más visitantes** recibieron al año, considerando que algunos de ellos permanecieron cerrados durante casi todo 2020 y 2021, debido a la **pandemia** por covid de la cual el mundo apenas está recuperándose.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles son los museos más visitados de México?**](https://blog.tonoysumariachi.com/turismo/2022/06/07/cuales-son-los-museos-mas-visitados-de-mexico.html)
 
 Antes de marzo de 2020, cuando el mundo "aún era normal", la lista de **los museos más visitados del mundo**, según la Red de Museos Europeos (museums.eu) estaba como sigue:
 
@@ -68,6 +68,8 @@ Ahora nos vamos al otro lado del mundo para conocer este museo, que —como su n
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/The_British_Museum_today.jpg/1024px-The_British_Museum_today.jpg)
 
 El quinto lugar de este breve conteo lo ocupa este museo de rancio abolengo, dedicado al arte, la historia y la cultura de todo el mundo, poseyendo más de ocho millones de objetos que conforman la colección museística más grande del planeta. Recibía a unos **6 millones 701 mil visitantes** al año, antes de la pandemia.
+
+**TE RECOMENDAMOS:** [**Museo del Hermitage: todo el lujo de la Rusia de los zares hecho museo.**](https://blog.tonoysumariachi.com/mundo/2022/09/09/museo-del-hermitage-todo-el-lujo-de-la-rusia-de-los-zares-hecho-museo.html)
 
 ¿Y ahora, cómo están las cosas? Debido a los cierres y confinamientos, sobre todo en ciudades chinas, europeas y estadounidenses, las cosas cambiaron muchísimo. Aquí va la lista actualizada, con cifras del número de visitantes reportados en 2021:
 

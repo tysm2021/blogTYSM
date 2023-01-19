@@ -25,7 +25,7 @@ Nuestra herencia **gastronómica** es tan vasta que hasta para un alimento tan s
 
 Recorramos virtualmente este hermoso estado, donde en ciudades como **Morelia**, **Uruapan**, **Zamora** o **Pátzcuaro** es posible encontrar estas delicias culinarias hechas con **masa de maíz**, manteca y algunas variedades de carne, sin descontar las maravillosas y picosísimas salsas con las que los sazonamos o acompañamos. ¡Ven con nosotros!
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**La torta de tamal o guajolota y la leyenda de su origen**](https://blog.tonoysumariachi.com/gastronomia/2022/04/27/la-torta-de-tamal-o-guajolota-y-la-leyenda-de-su-origen.html)**.**
 
 Según algunos estudiosos y sus teorías, la palabra **tamal** proviene del náhuatl _tamalli_, que significaría 'envuelto'; aunque hay quienes discuten su origen, en general se acuerda que se trata de un antojito originario de **México**, del cual —como ya dijimos— existen muchas variantes, dependiendo del estado en que nos encontremos.
 

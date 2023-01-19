@@ -25,7 +25,7 @@ Si hablamos de la Guerra de **Independencia** de **México**, ese proceso que du
 
 Su vida comenzó el 31 de julio de 1773 en Tlalpujahua, Michoacán, con el nombre de José Ignacio **Antonio López-Rayón y López-Aguado**. Además de haber participado en toda la lucha independentista hasta verla consumada, fue diputado e incluso contendió por la presidencia. Veamos los detalles…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**27 de septiembre de 1821: Consumación de la Independencia de México**](https://blog.tonoysumariachi.com/historia/2022/08/15/27-de-septiembre-de-1821-consumacion-de-la-independencia-de-mexico.html)**.**
 
 **Ignacio López Rayón** estudió en el Colegio de San Nicolás, en Valladolid —actualmente Morelia—, la misma institución donde estudió Miguel Hidalgo. Después, partió a la Ciudad de México y estudió derecho en el Colegio de San Ildefonso. Ya convertido en abogado, regresó a Tlalpujahua por la enfermedad de su padre y para hacerse cargo de los negocios familiares. Al estallar el movimiento **insurgente** en 1810, se unió rápidamente a la causa, convirtiéndose en **secretario particular del cura Hidalgo**; más tarde, fue Secretario de Estado y de Despacho en el gobierno que Hidalgo formó en Guadalajara, y con él firmó el bando que prohibía la esclavitud en la Nueva España.
 

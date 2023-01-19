@@ -25,7 +25,7 @@ Todos los que fuimos a la primaria aprendimos que la **Constitución Política d
 
 Aquí va un recuento de las cartas magnas —como también se les conoce a las **constituciones políticas**— que han tenido validez legal en nuestro país, incluso desde los tiempos en que éramos un colonia española y durante los años que duró la Guerra de Independencia.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Monumento a la Revolución: de Palacio Legislativo a museo.**](https://blog.tonoysumariachi.com/historia/2022/09/28/monumento-a-la-revolucion-de-palacio-legislativo-a-museo.html)
 
 ## Constitución de Cádiz (1812)
 
@@ -50,6 +50,8 @@ El Imperio Mexicano tuvo muy corta vida, pues por presiones de la mayoría que a
 La primera constitución en forma de nuestro país se promulgó el 4 de octubre de 1824 con el nombre de **Constitución Federal de los Estados Unidos Mexicanos**, que nombraba como forma de gobierno la república federal, representativa y popular, al tiempo que mantenía los principios de intolerancia religiosa y división de poderes. Fue jurada por el primer presidente mexicano, **Guadalupe Victoria**, con **Nicolás Bravo** como vicepresidente.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Guadalupe_Victoria_-_02.jpg)
+
+**TE RECOMENDAMOS:** [**27 de septiembre de 1821: Consumación de la Independencia de México.**](https://blog.tonoysumariachi.com/historia/2022/08/15/27-de-septiembre-de-1821-consumacion-de-la-independencia-de-mexico.html)
 
 ## Leyes Constitucionales y Bases Orgánicas
 

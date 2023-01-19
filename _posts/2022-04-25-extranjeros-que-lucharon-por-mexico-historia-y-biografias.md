@@ -26,7 +26,7 @@ Nuestra historia está llena de mexicanos y mexicanos que, debido a su amor por 
 
 A continuación, te platicamos de **cuatro extranjeros** —un español, un irlandés, un japonés y un italiano— que se involucraron e incluso se sacrificaron en las diversas etapas bélicas de nuestra historia. ¿Ya los conocías?
 
-TE PUEDE INTERESAR:
+**TE PUEDE INTERESAR:** [**¿Qué héroes y heroínas están enterrados en el Ángel de la Independencia?**](https://blog.tonoysumariachi.com/historia/2022/09/02/que-heroes-y-heroinas-estan-enterrados-en-el-angel-de-la-independencia.html)
 
 ## Francisco Xavier Mina
 
@@ -50,7 +50,7 @@ Nació en Clifden, hoy República de Irlanda. Siendo joven, como muchos otros ir
 
 Durante la Guerra México-EU, también conocida como Intervención Estadounidense, que tuvo lugar entre 1846 y 1848, Riley —también llamado **John Patrick Riley** o **John O'Riley**— simpatizó con el bando mexicano, siendo él mismo católico y habiendo sufrido burlas por su origen y su fe religiosa. Junto con Patrick Dalton formó el **Batallón de San Patricio**, que él mismo dirigió, y peleó al lado del Ejército Mexicano.
 
-Fue capturado tras la **Batalla de Churubusco**, en la Ciudad de México. Pro su traición, fue azotado y marcado con un hierro candente en forma de "D" de desertor. Después de un año de trabajos forzados, desapareció y nunca se supo de él; un historiador encontró un acta de defunción a su nombre en el puerto de Veracruz.
+Fue capturado tras la **Batalla de Churubusco**, en la Ciudad de México. Por su traición, fue azotado y marcado con un hierro candente en forma de "D" de desertor. Después de un año de trabajos forzados, desapareció y nunca se supo de él; un historiador encontró un acta de defunción a su nombre en el puerto de Veracruz.
 
 ## Kingo Nonaka
 
@@ -62,7 +62,7 @@ Este japonés, apodado "**El samurai de la Revolución**", nació en la prefectu
 
 Durante la **Revolución Mexicana**, participó en un total de 14 acciones militares: dos con las fuerzas de **Francisco I. Madero**, y doce con la División del Norte, comandada por **Pancho Villa**. Un episodio pintoresco fue, siendo él buzo, rescató el cadáver de **Rodolfo Fierro**, guardaespaldas de Villa, de la Laguna de Casas Grandes donde se había ahogado.
 
-Se naturalizó mexicano y se fue a vivir a Tijuana. Sin embargo, durante la II Guerra Mundial se mudó a la Ciudad de México. Fue homenajeado como veterano de la Revolución por los presidente **López Mateos** y **Echeverría**, y murió en 1977.
+Se naturalizó mexicano y se fue a vivir a Tijuana, donde fue fotógrafo. Sin embargo, durante la II Guerra Mundial se mudó a la Ciudad de México. Fue homenajeado como veterano de la Revolución por los presidente **López Mateos** y **Echeverría**, y murió en 1977.
 
 ## Giuseppe 'Peppino' Garibaldi
 
@@ -70,7 +70,7 @@ Se naturalizó mexicano y se fue a vivir a Tijuana. Sin embargo, durante la II G
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ec/Peppino_Garibaldi.jpg)
 
-Se le conoce como _Peppino_ para distinguirlo de su abuelo, Giuseppe Garibaldi, a quien se le considera artífice de la unificación de Italia en el siglo XIX, aunque en México más bien lo conocemos como José Garibaldi y en su honor es que la famosa plaza del mariachi tomó su nombre.
+Se le conoce como _Peppino_ para distinguirlo de su abuelo, Giuseppe Garibaldi, a quien se le considera artífice de la unificación de Italia en el siglo XIX, aunque en México más bien lo conocemos como **José Garibaldi** y en su honor es que la famosa plaza del mariachi tomó su nombre.
 
 Peppino luchó en la Revolución Mexicana al lado de Francisco I. Madero, en cuyo ejército alcanzó el grado de general. Cuando el "apóstol de la democracia" tuvo su entrada triunfal a la Ciudad de México, Garibaldi estaba a su lado; pero como por se extranjero no era muy del agrado de otros revolucionarios, tras el triunfo maderista se fue de México y tomó parte de la I Guerra Mundial.
 

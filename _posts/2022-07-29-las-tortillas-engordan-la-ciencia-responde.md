@@ -25,11 +25,11 @@ Si uno pretende ponerse a **dieta** para **bajar de peso**, una de las primeras 
 
 A continuación, la opinión de expertos **médicos** y **nutriólogos**, que quizá te sorprenda un poco. Te adelantamos una pista: como en todo, la clave es la cantidad y la moderación.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Las tortas más famosas y sabrosas de todo México**](https://blog.tonoysumariachi.com/gastronomia/2022/06/28/las-tortas-mas-famosas-y-sabrosas-de-todo-mexico.html)**.**
 
 Uno de los alimentos básicos en la alimentación del pueblo mexicano es, sin duda, la **tortilla**. Ese disco de maíz nixtamalizado, normalmente horneado en máquinas **tortilladoras**, se consume en cantidades industriales por toda la población, que en total da cuenta de un promedio de 7 a 8 **tortillas** al día por persona. Pero, ¿qué tan cierta es la creencia de que comer **tortillas** hace que engordes?
 
-Pues resulta que, al parecer, esta idea es errónea. De hecho, la **tortilla** sola es un alimento bajo en calorías: según expertos en nutrición de la UNAM, si es una **tortilla** de harina de maíz industrializado, aporta sólo 64 calorías cada una; y si es de maíz nixtamalizado, el aporte es aún menor: tan sólo 53 calorías. Conclusión: **la tortilla no engord**a, y por si fuera poco es una fuente importante de calcio, proteínas y fibra, que promueve la digestión, proporciona energía y nos brinda saciedad.
+Pues resulta que, al parecer, esta idea es errónea. De hecho, la **tortilla** sola es un alimento bajo en calorías: según expertos en nutrición de la UNAM, si es una **tortilla** de harina de maíz industrializado, aporta sólo 64 calorías cada una; y si es de maíz nixtamalizado, el aporte es aún menor: tan sólo 53 calorías. Conclusión: **la tortilla no engorda**, y por si fuera poco es una fuente importante de calcio, proteínas y fibra, que promueve la digestión, proporciona energía y nos brinda saciedad.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tortillas_Tradicionales_QR_2017.jpg/1152px-Tortillas_Tradicionales_QR_2017.jpg)
 

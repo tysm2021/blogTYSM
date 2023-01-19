@@ -25,7 +25,7 @@ Es una especie de **tapete** hecho de hoja de palma trenzada y tiene tanto arrai
 
 Hoy en día, aunque ya casi ha caído en el desuso, muchos artesanos siguen produciéndolos incluso en una variedad de colores y con funciones más decorativas que prácticas. Pero comencemos por el principio…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Madera de Olinalá: fragante y colorida artesanía del estado de Guerrero**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/19/madera-de-olinala-la-fragante-y-colorida-artesania-del-estado-de-guerrero.html)**.**
 
 La palabra **petate** proviene de la lengua náhuatl que hablaban los antiguos mexicas y otros pueblos, y originalmente se le decía _petátl_ a esta estera o **tapete** hecho con fibras u hojas de palma trenzadas. Pueden tener cualquier medida, pero por lo regular se trenzan en forma cuadrada o rectangular y en un tamaño suficiente para que una persona adulta quepa acostado en ella.
 
@@ -35,7 +35,7 @@ En su origen, el **petate** era usado para dormir; en lugares muy calurosos, la 
 
 En tiempos previos a la Conquista, el **petate** era símbolo de poder, pues se tendían y servían como base para los tronos de los antiguos soberanos mesoamericanos. Con el tiempo, se convirtió en un accesorio para los hogares de clase humilde.
 
-El **petate** está profundamente arraigado a la cultura mexicana y al folclor de ciertos pueblos originarios. Además de su función como **cama**, también tiene otras funciones: es el lugar donde las mujeres dan a luz y donde, también, se arrodillan para moler reverencialmente el maíz; se le considera también el sitio para los sueños donde los recién casados reciben la bendición matrimonial y, por último, también se puede usar como mortaja para envolver un cadáver.
+El **petate** está profundamente arraigado a la cultura mexicana y al folclor de ciertos pueblos originarios. Además de su función como **cama**, también tiene otras funciones: es el lugar donde las mujeres dan a luz y donde, también, se arrodillan para moler reverencialmente el maíz; se le considera también el sitio para los sueños, donde los recién casados reciben la bendición matrimonial y, por último, también se puede usar como mortaja para envolver un cadáver.
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">En el pasado el vendedor de petates era vital en las pequeñas poblaciones, rancherías e incluso ciudades. Estas esteras eran usados a manera de camas por tradición y por su bajo costo. La primera foto es de 1912, mientras que la segunda es mucho más antigua, de 1860! <a href="https://twitter.com/hashtag/M%C3%A9xico?src=hash&ref_src=twsrc%5Etfw">#México</a> <a href="https://t.co/EO8iPnjIR6">pic.twitter.com/EO8iPnjIR6</a></p>— Tlatoani_Cuauhtemoc (@Cuauhtemoc_1521) <a href="https://twitter.com/Cuauhtemoc_1521/status/1278526729053593600?ref_src=twsrc%5Etfw">July 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

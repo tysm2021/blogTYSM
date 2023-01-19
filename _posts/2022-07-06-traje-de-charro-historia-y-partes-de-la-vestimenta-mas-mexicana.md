@@ -25,7 +25,7 @@ En todo mundo, una de las **vestimentas** que más representan a **México** es 
 
 Por eso, a continuación te compartimos un poco de la **historia** de este **traje** tan nuestro y que nuestros queridos **mariachis** usan y lucen con tanto orgullo.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Nuestros queridos charros cantores de México**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/26/nuestros-queridos-charros-cantores-de-mexico.html)**.**
 
 Lo primero que hay que saber es que el **traje de charro** deriva de la práctica, y actualmente el deporte, de la **charrería**. Esta actividad, en la que hombres y mujeres montan a caballo, lazan a los equinos y hacen una serie de suertes y evoluciones, tiene sus orígenes en el pasado colonial de México, allá por el siglo XVI, y su origen se lo disputan los actuales estados de Jalisco y de Hidalgo, ambos de gran tradición **charra**.
 
@@ -35,11 +35,11 @@ El antecedente más claro del **traje de charro** está en los llamados chinacos
 
 Tras la Independencia, durante el siglo XIX el **traje** de los chinacos fue mezclándose con el estilo de los **trajes** de montar ingleses y alemanes traídos por Maximiliano de Habsburgo. Se dice que el **traje de charro** como lo conocemos surgió a finales del siglo XIX, cuando se convirtió en la vestimenta típica del jinete mexicano, y se considera a Ponciano Díaz Salinas, primo del entonces presidente Porfirio Díaz, como el primer **charro** mexicano que solía usar traje de lana negra, botonaduras de plata y un sombrero plano; los charros humildes usaban **traje** de gamuza.
 
-Actualmente, el traje básico de charro de los hombres consiste en **pantalones** largos y ajustados, cubiertos con adornos a los lados; una **chaqueta** bolero o chaquetilla corta y bordada, tradicionalmente con hilo metálico o de fibra de pitea; un **sombrero de ala ancha** (sombrero) y una **corbata** de seda, así como botas de montar.
+Actualmente, el traje básico de charro de los hombres consiste en **pantalones** largos y ajustados, cubiertos con botonaduras a los lados; una **chaqueta** bolero o chaquetilla corta y bordada, tradicionalmente con hilo metálico o de fibra de pitea; un **sombrero de ala ancha** (sombrero) y una **corbata** de seda, así como botas de montar.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Charros_2.jpg/682px-Charros_2.jpg)
 
-El traje de charra es similar, salvo por una **falda** larga bordada que llega hasta los tobillos y lo suficientemente amplia como para permitir que monte de lado; también puede incluir **camisa** de vestir, **chaparreras**, un **sarape** y otros elementos. En ambos casos, se usan **botas** de tacón alto y los colores permitidos son cafés, azul oscuro, marrón, gris y verde seco, los cuales contrastan con las "grecas" o calados y las botonaduras.
+El traje de charra es similar, salvo por una **falda** larga bordada que llega hasta los tobillos y lo suficientemente amplia como para permitir que monte de lado; también puede incluir **camisa** de vestir, **chaparreras**, un **sarape** y otros elementos. En ambos casos, se usan **camisas** de algodón blancas, **botas** de tacón alto y los colores permitidos son cafés, azul oscuro, marrón, gris y verde seco, los cuales contrastan con las "grecas" o calados y las botonaduras.
 
 Aquí tenemos a Toño, luciendo un **traje de charro** y con las **partes** obligatorias señaladas:
 

@@ -26,7 +26,7 @@ summary:
 
 A continuación, te decimos un poco sobre qué puedes encontrar en ella, quiénes la construyeron, cuándo lo hicieron, a qué dios se rendía culto y también te compartimos algunas imágenes de este sitio sagrado.
 
-**TE PUEDE INTERESAR:**
+**TE PUEDE INTERESAR:** [**Cinco cosas que hacer en Tepoztlán, Morelos.**](https://blog.tonoysumariachi.com/turismo/2022/07/19/cinco-cosas-que-hacer-en-tepoztlan-morelos.html)
 
 Según la leyenda, cuando los mexicas peregrinaban desde la ciudad mítica de Aztlán, eran guiados por Huitzilopochtli, el dios de la guerra. Esta poderosa deidad tenía una hermana malvada, llamada **Malinalxóchitl**, la cual practicaba la brujería. Al darse cuenta de que urdía planes en su contra, Huitzilopochtli la abandonó en el camino al Valle de México…
 
@@ -38,7 +38,7 @@ Según el Instituto Nacional de Antropología e Historia, el sitio arqueológico
 
 Para acceder a él, hay que realizar una empinada caminata de unos 20 o 30 minutos entre la tupida vegetación de la zona. Al llegar a la zona, lo primero que destaca es el **Cuauhcalli**, que en la lengua de los mexicas quiere decir “Casa del Águila”, y que es una magnífica construcción que tiene la particularidad de haber sido labrada directamente en la piedra de la montaña en tiempos del tlatoani mexica Ahuizotl.
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La “Casa del Sol” de Malinalco es una magnífica obra de arte labrada en la misma montaña, construida a principios del siglo XVI durante el gobierno del Huey Tlatoani mexica Ahuizotl.<br><br>Conócela en 👉 <a href="https://t.co/w5RZLG8prb">https://t.co/w5RZLG8prb</a> <a href="https://t.co/9MBT5gNJx9">pic.twitter.com/9MBT5gNJx9</a></p>&mdash; MNA Oficial (@mna_inah) <a href="https://twitter.com/mna_inah/status/1217627530900824065?ref_src=twsrc%5Etfw">January 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La “Casa del Sol” de Malinalco es una magnífica obra de arte labrada en la misma montaña, construida a principios del siglo XVI durante el gobierno del Huey Tlatoani mexica Ahuizotl.<br><br>Conócela en 👉 <a href="https://t.co/w5RZLG8prb">https://t.co/w5RZLG8prb</a> <a href="https://t.co/9MBT5gNJx9">pic.twitter.com/9MBT5gNJx9</a></p>— MNA Oficial (@mna_inah) <a href="https://twitter.com/mna_inah/status/1217627530900824065?ref_src=twsrc%5Etfw">January 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 En la escalinata de la construcción se alcanzan a ver los vestigios de lo que fueran dos ocelotes, y su entrada presenta la temible figura de una serpiente con las fauces abiertas mostrando sus afilados colmillos y la lengua bífida. Según los expertos, se trata de una representación de **Tlaltecúhtli** o “el monstruo de la Tierra”, una deidad cuya función era al de devorar los cadáveres y regresarlos a la tierra.
 
@@ -46,4 +46,4 @@ En la escalinata de la construcción se alcanzan a ver los vestigios de lo que f
 
 En el interior del templo, se puede apreciar la escultura de un águila —de ahí el nombre de **Cuauhcalli**— con las alas plegadas y con un hueco en la base llamado _cuauhxicalli_. Se cree que éste servía para que ahí se depositara sangre humana en ofrenda, pues se creía que ésta era alimento para los dioses.
 
-Cabe resaltar que, además de la zona arqueológica, Malinalco cuenta con una variedad de atractivos para todos los gustos y presupuestos: desde el mercado local hasta galerías de arte, lujosos hoteles boutique y el afamado club de golf. No lo pienses más y lánzate, ¡no te arrepentirás!
+Cabe resaltar que, además de la zona arqueológica, **Malinalco** cuenta con una variedad de atractivos para todos los gustos y presupuestos: desde el mercado local hasta galerías de arte, lujosos hoteles boutique y el afamado club de golf. No lo pienses más y lánzate, ¡no te arrepentirás!

@@ -25,7 +25,7 @@ Hay mucha gente que, sencillamente, no puede separarse de sus **mascotas**… ni
 
 Todo se resume a tres ideas centrales: **investigación**, para averiguar la mejores opciones de **viaje** y **hospedaje**; **preparación**, para que a ti y a tu mascota no les caiga de peso el trayecto; y disfrute, que al final es a lo que uno va, acompañado por nuestros mejores amigos…
 
-TE RECOMENDAMOS
+**TE RECOMENDAMOS:** [**Tips para viajar (seguro y barato) en autobús por México**](https://blog.tonoysumariachi.com/turismo/2022/06/20/tips-para-viajar-seguro-y-barato-en-autobus-por-mexico.html)**.**
 
 ## Investiga las mejores opciones
 

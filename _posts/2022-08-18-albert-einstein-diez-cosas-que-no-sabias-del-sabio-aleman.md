@@ -21,11 +21,11 @@ show_author_profile: false
 comment: false
 ---
 
-El físico alemán **Albert Einstein** es, sin duda, uno de los **científicos** más famosos de todos los tiempos y una figura de la cultura popular del siglo XX. Sus supuestas **frases célebres** —muchas de las cuales son incorrectamente atribuidas a él— recorren las redes sociales como pequeñas cápsulas de inteligencia y sabiduría, pero ¿conoces su biografía? A continuación van diez **datos** que quizás no conocías de él.
+El físico alemán **Albert Einstein** es, sin duda, uno de los **científicos** más famosos de todos los tiempos y una figura de la cultura popular del siglo XX. Sus supuestas **frases célebres** —muchas de las cuales son incorrectamente atribuidas a él— recorren las redes sociales como pequeñas cápsulas de inteligencia y sabiduría, pero ¿conoces su **biografía**? A continuación van **diez** **datos** que quizás no conocías de él.
 
 Empecemos diciendo que **Einstein** nació en Ulm, Alemania, el 14 de marzo de 1879, y murió en los Estados Unidos, específicamente en Princeton, Nueva Jersey, el 18 de abril de 1955. Veamos otros diez sorprendentes **datos** sobre su **vida**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Vincent van Gogh: ¿cuáles son sus pinturas más famosas?**](https://blog.tonoysumariachi.com/mundo/2022/10/03/vincent-van-gogh-sus-pinturas-mas-famosas.html)
 
 ## No reprobó matemáticas de niño
 
@@ -53,13 +53,15 @@ Considerando su país de origen, una **Alemania** donde el nazismo alzaba el vue
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/780px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg)
 
+**TE RECOMENDAMOS:** [**Cinco castillos europeos que morirás por conocer**](https://blog.tonoysumariachi.com/mundo/2022/11/23/cinco-castillos-europeos-que-moriras-por-conocer.html)**.**
+
 ## Ofreció su Premio Nobel para divorciarse
 
-Cuando quiso divorciarse de **Mileva** para casarse con su propia prima, Elsa, **Einstein** ofreció a la serbia el monto que él suponía que ganaría con su **Premio Nobel**, que era de unos 32 mil dólares, los cuales hoy en día equivaldrían aproximadamente a un millón de dólares. Maric aceptó, confiando en que su ex pareja, en efecto, se llevaría el galardón que otorga la Academia Sueca, lo cual finalmente sucedió en 1922, año en que la primera esposa de **Einstein** recibió su pequeña fortuna.
+Cuando quiso divorciarse de **Mileva** para casarse con su propia prima, Elsa, **Einstein** ofreció a la serbia el monto que él suponía que ganaría con su **Premio Nobel**, que era de unos 32 mil dólares, los cuales hoy en día equivaldrían aproximadamente a un millón de billetes verdes. Maric aceptó, confiando en que su ex pareja, en efecto, se llevaría el galardón que otorga la Academia Sueca, lo cual finalmente sucedió en 1922, año en que la primera esposa de **Einstein** recibió su pequeña fortuna.
 
 ## Tuvo un romance con una espía rusa
 
-Como si fuera una película de espionaje, en la que el brillante científico se involucra con una _femme fatale_ al servicio del enemigo, se cuenta que Albert Einstein sostuvo un romance con una mujer rusa que le presentó su hija adoptiva, la cual se llamaba **Margartia Kokenkov**a. Aunque oficialmente nunca se reconoció, biógrafos posteriores afirman que **Kokenkova** era una **espía** encubierta al servicio del Kremlin.
+Como si fuera una película de espionaje, en la que el brillante científico se involucra con una _femme fatale_ al servicio del enemigo, se cuenta que Albert Einstein sostuvo un romance con una mujer rusa que le presentó su hija adoptiva, la cual se llamaba **Margartia Kokenkova**. Aunque oficialmente nunca se reconoció, biógrafos posteriores afirman que **Kokenkova** era una **espía** encubierta al servicio del Kremlin.
 
 ## Nunca dijo muchas de sus frases célebres
 
@@ -69,7 +71,7 @@ Como si fuera una película de espionaje, en la que el brillante científico se 
 
 ## Se le ofreció al presidencia de Israel
 
-Aunque no era un practicante ortodoxo del judaísmo, **Einstein** sí se identificaba profundamente con su herencia judía y era una voz pública en contra del antisemitismo que imperaba en Europa. Quizá por eso fue que, en 1952, cuando falleció el jefe de estado israelí Chaim Weizmann, se le ofreció ser el presidente sucesor. Einstein se sintió halagado, pero con humildad rechazó el ofrecimiento, argumentando que toda su vida había estado acostumbrado a lidiar con situaciones concretas y que carecías de las habilidades políticas que se requerían para el puesto.
+Aunque no era un practicante ortodoxo del judaísmo, **Einstein** sí se identificaba profundamente con su herencia judía y era una voz pública en contra del antisemitismo que imperaba en Europa. Quizá por eso fue que, en 1952, cuando falleció el jefe de estado israelí Chaim Weizmann, se le ofreció ser el presidente sucesor. **Einstein** se sintió halagado, pero con humildad rechazó el ofrecimiento, argumentando que toda su vida había estado acostumbrado a lidiar con situaciones concretas y que carecías de las habilidades políticas que se requerían para el puesto.
 
 ## Tras su muerte, su cerebro fue robado
 

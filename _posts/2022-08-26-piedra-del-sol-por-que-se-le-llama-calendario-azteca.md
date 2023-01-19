@@ -21,11 +21,11 @@ show_author_profile: false
 comment: false
 ---
 
-Se trata, sin duda, de la pieza **arqueológica** más famosa del mundo prehispánico: es la **Piedra del Sol**, perteneciente a la cultura **mexica**, aunque casi todos los mexicanos y extranjeros la conocen con el nombre de **Calendario Azteca**. Y uno se pregunta: ¿**por qué** le llamamos así y cuál era su función? ¿Era un **calendario** o tenía otro uso? ¿Qué significan los múltiples símbolos que luce?
+Se trata, sin duda, de la pieza **arqueológica** más famosa del mundo prehispánico: es la **Piedra del Sol**, perteneciente a la cultura **mexica**, aunque casi todos los mexicanos y extranjeros la conocen con el nombre de **Calendario Azteca**. Y uno se pregunta: ¿**por qué** le llamamos así y cuál era su **función**? ¿Era un **calendario** o tenía otro uso? ¿Qué significan los múltiples símbolos que luce?
 
 A continuación, una breve historia de la **Piedra del Sol**, que actualmente se exhibe en la **Sala Mexica** del Museo Nacional de Antropología, y también una pequeña historia de su descubrimiento y de sus posibles interpretaciones.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Los olmecas y sus cabezas colosales: historia y significado**](https://blog.tonoysumariachi.com/historia/2022/07/20/los-olmecas-y-sus-cabezas-colosales-historia-y-significado.html)**.**
 
 La **Piedra del Sol**, también llamada **Calendario Aztec**a, es un enorme disco de basalto que mide 3.60 metros de diámetro y tiene un espesor de 120 cm. En su cara frontal luce numerosas inscripciones que han sido interpretadas como inscripciones alusivas a la cosmogonia mexica —es decir, al modo en que ese pueblo prehispánico explicaba la creación del mundo— y a los cultos de la deidad solar, que muchas veces se llamaba **Tonatiuh**, cuyo rostro supuestamente es el que está plasmado en el centro de la piedra.
 
@@ -41,7 +41,7 @@ Acerca de la función de la **Piedra del Sol**, arqueólogos han sugerido que se
 
 Describiéndolo de forma general, la **Piedra del Sol** tiene en su centro el rostro de **Tonatiuh**, dios del Sol, envuelto en un símbolo que se conoce como Nahui Ollin, que en náhuatl significa "cuatro-movimiento" y es una fecha que alude a la quinta era dentro de la cosmogonía **mexica** —recordemos que, según la religión de los antiguos mexicanos, vivimos en la era del Quinto Sol—; alrededor del rostro del "niño Sol", están cuatro símbolos más, llamados glifos, que representan las cuatro eras anteriores a la actual: 4-viento, 4-jaguar, 4-viento de fuego y 4-agua.
 
-Alrededor del centro hay tres anillos que contiene diversos símbolos de la mitología y de los sistemas de medición del tiempo de los mexicas: el primero está dividido en veinte, que era el número de días que tenía un mes entre los mexicas; en el segundo están los cuatro puntos cardinales o, en opinión de algunos arqueólogos, los equinoccios y los solsticios; por último, en el tercero se aprecian 52 divisiones, que representan el número de años solares que duraba un ciclo completo antes del Fuego Nuevo.
+Alrededor del centro hay tres **anillos** que contiene diversos símbolos de la mitología y de los sistemas de medición del **tiempo** de los **mexicas**: el primero está dividido en veinte, que era el número de días que tenía un **mes** entre los **mexicas**; en el segundo están los cuatro puntos cardinales o, en opinión de algunos arqueólogos, los equinoccios y los solsticios; por último, en el tercero se aprecian 52 divisiones, que representan el número de años solares que duraba un ciclo completo antes del Fuego Nuevo.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Piedra_del_Sol_Mexica_vista_desde_abajo.jpg/960px-Piedra_del_Sol_Mexica_vista_desde_abajo.jpg)
 

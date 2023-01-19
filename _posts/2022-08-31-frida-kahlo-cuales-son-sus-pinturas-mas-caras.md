@@ -25,7 +25,7 @@ Sin lugar a dudas, **Frida Kahlo** se ha convertido en una de las **artistas mex
 
 A continuación, un conteo con los cuatro lienzos más costosos de la coyoacanense, actualizado a septiembre de 2022, pues en esto del comercio y la venta de obras de arte… todo puede cambiar de un día para otro.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Cinco artistas extranjeros que brillaron en México**](https://blog.tonoysumariachi.com/cultura/2022/08/05/cinco-artistas-extranjeros-que-brillaron-en-mexico.html)**.**
 
 ## #4 Autorretrato con aeroplano
 

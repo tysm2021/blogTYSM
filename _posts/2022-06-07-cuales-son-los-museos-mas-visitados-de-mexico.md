@@ -25,13 +25,13 @@ México es un país con mucha **historia**, desde nuestro pasado prehispánico, 
 
 A continuación, te compartimos una lista con los diez recintos museísticos que **más visitantes** recibieron en un año. Cabe aclarar que, debido a la pandemia por covid, que mantuvo cerrados muchos de estos recintos desde marzo de 2020 hasta hace relativamente poco, no existen cifras recientes al respecto; así, consignamos los registros correspondientes a 2019, reportados en enero de 2020.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Tres museos que visitar en la ciudad de Guanajuato.**](https://blog.tonoysumariachi.com/turismo/2022/04/21/tres-museos-que-visitar-en-la-ciudad-de-guanajuato.html)
 
 ## Museo Nacional de Historia
 
 ### 2'661,615 visitantes
 
-Para quienes no lo conocen con ese nombre, se trata nada menos que del **museo** que se encuentra alojado en el famoso **Castillo de Chapultepec**, en la **Ciudad de México**. Además de poder admirar el magnífico edificio donde algún día vivieron los emperadores Maximiliano y Carlota, también podrás observar objetos representativos de cuatro siglos de la **historia** de **México**.
+Para quienes no lo conocen con ese nombre, se trata nada menos que del **museo** que se encuentra alojado en el famoso **Castillo de Chapultepec**, en la **Ciudad de México**. Además de poder admirar el magnífico alcázar donde algún día vivieron los emperadores Maximiliano y Carlota, y los presidentes Juárez y Díaz, también podrás observar objetos representativos de cuatro siglos de la **historia** de **México**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jardines_del_Castillo_de_Chapultepec_4.jpg/1280px-Jardines_del_Castillo_de_Chapultepec_4.jpg)
 

@@ -25,7 +25,7 @@ Es una de las obras de arte más famosas y más hermosas del mundo, y fue creada
 
 Como dato curioso, vale la pena mencionar que en México tenemos una réplica del '**David**' de **Miguel Ánge**l, aunque está hecha en bronce, la cual se puede contemplar en la Plaza Río de Janeiro, una de las más visitadas en la colonia Roma de la Ciudad de México.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Las torres más famosas de todo el mundo.**](https://blog.tonoysumariachi.com/mundo/2022/07/28/las-torres-mas-famosas-de-todo-el-mundo.html)
 
 ### ¿Quién la hizo?
 

@@ -25,7 +25,7 @@ Para estudiar y analizar nuestro pasado **prehispánico**, además de las eviden
 
 A continuación te ofrecemos una breve revisión al tema de los **códices**, cuáles son los más **famosos** y útiles, **donde** se encuentran, **quiénes** los hicieron y qué es lo que se puede encontrar en ellos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cómo se dice: azteca o mexica? ¿Cuál es el término correcto?**](https://blog.tonoysumariachi.com/historia/2022/07/13/como-se-dice-azteca-o-mexica-cual-es-el-termino-correcto.html)
 
 La palabra **códice** deriva del latín _codex_, _codicis_, que significa 'libro manuscrito', y en el contexto del estudio de los pueblos y las culturas del **México prehispánico** se refiere a una serie de documentos escritos y pictóricos que, supuestamente, son copias fieles de documentos perdidos que provendrían de la época anterior a la Conquista. En náhuatl se les conocía como _amoxtli_, y desde épocas muy antiguas en ellos se plasmaban los avances culturales y científicos, las creencias religiosas, los ritos y ceremonias, las genealogías y alianzas de los gobernantes, los conocimientos geográficos, el sistema económico y las cronologías de hechos.
 
@@ -52,6 +52,8 @@ El **Códice Mendocino** consta de 71 hojas organizadas en forma de biombo y est
 El _Codex Boturini_ también es conocido como la **Tira de la Peregrinación**, pues es una descripción en forma horizontal y alargada de la **migración mexica** desde la mítica y sagrada ciudad de Aztlán hasta la llegada al Valle de México, donde fundaron su ciudad capital: Mexico-Tenochtitlan. Consta de 21 láminas de papel amate recubiertas de estuco, y se presume que es una copia del original que habría sido elaborado en tiempos anteriores a la **Conquista**. Este códice sí se encuentra en **México**, pues es parte del patrimonio resguardado en el Museo Nacional de Antropología.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Boturini_Codex_%28folio_15%29.JPG/1005px-Boturini_Codex_%28folio_15%29.JPG)
+
+**TE RECOMENDAMOS:** [**Tlatoanis: lista completa de los emperadores mexicas**](https://blog.tonoysumariachi.com/historia/2022/06/08/tlatoanis-lista-completa-de-los-emperadores-mexicas.html)**.**
 
 ## Códice Florentino
 

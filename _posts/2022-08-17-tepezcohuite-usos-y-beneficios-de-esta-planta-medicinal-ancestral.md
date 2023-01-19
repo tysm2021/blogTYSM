@@ -23,9 +23,9 @@ comment: false
 
 Hace algunas décadas, una tragedia de grandes dimensiones trajo a la luz esta **planta** ancestral, que dentro de la **herbolaria** y la **medicina tradicional** durante siglos ha servido para tratar **quemaduras** y diversas **enfermedades** o afecciones de la **piel**. ¿Qué es el **tepezcohuite**, **para qué sirve** y cuáles son sus **usos** y **beneficios**? A continuación te lo contamos.
 
-Aunque actualmente es un **remedio** conocido que se puede encontrar en forma de pomada casi cualquier farmacia o en negocios de **herbolaria** y **medicina** **alternativa**, fue hasta hace relativamente poco que su **uso** se popularizó. Aquí te contamos la historia…
+Aunque actualmente es un **remedio** conocido que se puede encontrar en forma de pomada casi cualquier farmacia o en negocios de **herbolaria** y **medicina** **alternativa**, fue hasta hace relativamente poco que su **uso** se popularizó. Aquí te compartimos la historia…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Toloache, la hierba del amor: ¿en verdad sirve para que se enamoren de ti?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/18/toloache-la-hierba-del-amor-en-verdad-sirve-para-que-se-enamoren-de-ti.html)
 
 El 19 de noviembre de 1984, el norte de la Ciudad de México y parte del Estado de México se despertaron de súbito debido a varias explosiones que hicieron cimbrar las casas y rompieron o hicieron vibrar vidrios y ventanas. ¿La razón? Que en el pueblo de **San Juan Ixhuatepec** —mejor conocido como **San Juanico**—, un accidente hizo que explotaran varias de las gaseras que ahí se ubicaban, por lo que los quemados se contaban por decenas y una gran nube de humo daba fe de la tragedia que sucedía en esta colonia del municipio de Tlanepantla de Baz, Estado de México.
 
@@ -35,7 +35,7 @@ Los hospitales de la zona norte no se daban abasto atendiendo a los cientos de a
 
 Pero, ¿qué es el **tepezcohuite**? Su nombre científico es _Mimosa tenuiflora_ o _Mimosa hostilis_, y en otras partes del mundo se le conoce también como **jurema**, **jurema preta** o **catinga**. Se trata de una especie de arbusto de la familia de las fabáceas —a la que pertenecen también el huizache y el guaje—, nativo de México y de otras partes de América; es un árbol espinoso que puede llegar hasta los 6 metros de altura, con espinas muy punzantes, y que tiene una **corteza** color rojizo castaño, la cual tiene diversas propiedades medicinales.
 
-Dentro de la medicina tradicional, se menciona en libros desde la década de 1970, diciendo que "su cáscara se hace polvo y cura heridas. En cuanto al **significado**, según el _Diccionario de Aztequismos_, **tepezcohuite** deriva del náhuatl _tépetl_, 'cerro' y _cuahuitl_, 'árbol', es decir "árbol del cerro", aunque por su uso se popularizó la versión de que su nombre significa **"árbol de la piel"**.
+Dentro de la medicina tradicional, se menciona en libros desde la década de 1970, diciendo que "su cáscara se hace polvo y cura heridas". En cuanto al **significado**, según el _Diccionario de Aztequismos_, **tepezcohuite** deriva del náhuatl _tépetl_, 'cerro' y _cuahuitl_, 'árbol', es decir "árbol del cerro", aunque por su uso se popularizó la versión de que su nombre significa **"árbol de la piel"**.
 
 ![](/images/2022-08-17-tepezcohuite-1024x1024.jpg)
 

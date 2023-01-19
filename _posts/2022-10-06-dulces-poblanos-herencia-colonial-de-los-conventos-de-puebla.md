@@ -25,7 +25,7 @@ Cuando uno piensa en **dulces típicos**, una de las primeras ciudades que viene
 
 Conozcamos un poco de la gran variedad de **dulces** que son originarios de la "ciudad de los Ángeles", donde además de un soberbio mole, unos deliciosos chiles en nogada o unas cemitas, uno puede deleitarse con estos estupendos postres.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Chiles en nogada: historia y leyenda de su creación**](https://blog.tonoysumariachi.com/gastronomia/2022/04/27/chiles-en-nogada-historia-y-la-leyenda-de-su-creacion.html)**.**
 
 Si uno visita la capital **poblana**, además de conocer la imponente Catedral, la hermosa Capilla del Rosario, los fuertes donde se defendió a México de los invasores franceses, la Casa del Alfeñique o los comercios donde se vende la típica talavera, una visita casi obligada es a la "**calle de los dulces**", que es la 6 Oriente en el **Centro Histórico** de **Puebla**.
 

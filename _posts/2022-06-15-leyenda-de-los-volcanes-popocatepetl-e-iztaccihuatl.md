@@ -25,11 +25,11 @@ Si uno visita el centro de México, hay dos imponentes **volcanes** que segurame
 
 A continuación, te compartimos una de las tantas versiones que existe de la famosa "**leyenda de los volcanes**": se trata de una historia de un amor que fue frustrado por la envidia de los hombres, pero que halló la forma de imponerse al tiempo y de preservarse para toda la eternidad.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Top 5: ¿Cuáles son las montañas más altas de México?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/07/26/top-5-las-montanas-mas-altas-de-mexico.html)
 
 Los nombres de los **volcanes** **Popocatépetl** e **Iztaccíhuatl** significan, respectivamente, "cerro que humea" y "mujer blanca" o "mujer dormida". Y es que, en efecto, desde hace siglos el primero tiene a cada tanto un poco de actividad y con frecuencia arroja fumarolas, mientras que el segundo aparente ser una joven con el pelo suelto que duerme una especie de sueño eterno.
 
-O, al menos, así lo interpretaron nuestros antiguos antepasados indígenas. Una leyenda —al parecer, de origen mexica— cuenta que se trata de la representación de dos jóvenes tlaxcaltecas: la princesa **Iztaccíhuatl,** una joven heredera al reino de gran belleza, y el valeroso **Popocatépetl**, el más fuerte y arrojado de los guerreros de aquel reino. Ambos estaban profundamente enamorados.
+O, al menos, así lo interpretaron nuestros antiguos antepasados indígenas. Una leyenda —al parecer, de origen mexica— cuenta que se trata de la representación de dos jóvenes tlaxcaltecas: la princesa **Iztaccíhuatl,** una joven de gran belleza heredera del reino, y el valeroso **Popocatépetl**, el más fuerte y arrojado de los guerreros de aquel reino. Ambos estaban profundamente enamorados.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/86/Iztaccihuatl-Popocatepetl_en_vista_a%C3%A9rea.jpg)
 

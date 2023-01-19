@@ -21,6 +21,10 @@ show_author_profile: false
 comment: false
 ---
 
+Desde principios del pasado siglo XX, **Hollywood** —en California, Estados Unidos— se convirtió en la "meca del **cine**" por la calidad y el éxito comercial de sus producciones, que llevaron a la fama mundial a estrellas como Marilyn Monroe o Clark Gable: por eso es que muchos consideran que es un logro aparecer en alguna de estas famosas **cintas**. Aquí una breve selección de los **mexicanos** y las **mexicanas** que, a lo largo del tiempo, han cosechado éxitos en las grandes ligas del séptimo arte mundial.
+
+**TE RECOMENDAMOS:** [**Las cinco mejores películas de Mario Moreno 'Cantinflas'**](https://blog.tonoysumariachi.com/mexicanisimos/2022/09/26/las-cinco-mejores-peliculas-de-mario-moreno-cantinflas.html)**.**
+
 ## Dolores del Río
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bird_of_Paradise_%281932%29_2.jpg/1024px-Bird_of_Paradise_%281932%29_2.jpg)

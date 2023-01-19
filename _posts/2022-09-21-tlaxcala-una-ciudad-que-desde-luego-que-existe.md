@@ -25,7 +25,7 @@ En memes y redes sociales desde hace algunos años circula la broma de decir que
 
 A continuación te compartimos algunos de los sitios de mayor interés de la **capital tlaxcalteca**, destacando las **iglesias** y **ex conventos** de su **Centro** Histórico, y siguiendo por algunos **museos** y edificaciones de interés.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Oaxaca de Juárez: cinco cosas que hacer en la capital oaxaqueña**](https://blog.tonoysumariachi.com/turismo/2022/08/11/oaxaca-de-juarez-cinco-cosas-que-hacer-en-la-capital-oaxaquena.html)**.**
 
 ## Centro Histórico
 

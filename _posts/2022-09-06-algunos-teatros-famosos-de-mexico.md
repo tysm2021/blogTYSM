@@ -25,7 +25,7 @@ Herederos como somos de toda una tradición de **teatro** y dramaturgia venida d
 
 Conozcamos, pues, algunos de los **teatros** más **antiguos** y más **hermosos** de **México**. Muchos de ellos continúan como centros de entretenimiento y cultura activos, y siguen presentando obras y otros espectáculos, y otros están cerrados o cambiaron de giro, pero continúan de pie. Veamos…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Palacio de Bellas Artes: teatro, museo y emblema de la cultura mexicana**](https://blog.tonoysumariachi.com/cultura/2022/08/04/palacio-de-bellas-artes-teatro-museo-y-emblema-de-la-cultura-mexicana.html)**.**
 
 ## Teatro Juárez
 
@@ -52,6 +52,8 @@ En **Guadalajara**, capital del estado de Jalisco, se encuentra este teatro cuyo
 Este inmueble histórico se encuentra en la ciudad de **Querétaro**. Su edificación dio inicio en el año de 1845, y fue inaugurado el 2 de mayo de 1852 con la presentación de la obertura "Iturbide", de Bonifacio Sánchez, y la obra picaresca _Por dinero baila el perro y por el pan si se lo dan_. Originalmente se llamó Gran Teatro de Iturbide y Teatro Iturbide, en honor a quien fuera el primer emperador de México, Agustín de Iturbide; en 1922, sin embargo, cambió su nombre a **Teatro de la República**.
 
 Además de sus funciones como centro de entretenimiento, cultura y espectáculos, el teatro ha sido escenario de grandes **acontecimientos históricos**: entre mayo y junio de 1867, fue el lugar donde se llevó a cabo el consejo de guerra donde se condenó a muerte a Maximiliano de Habsburgo, junto con los conservadores Miramón y Mejía; el 5 de febrero de 1917, fue el lugar donde el Congreso solemnemente juró la Constitución Política que sigue vigente hoy en día; en 1929, fue sede de la primera convención del Partido Nacional Revolucionario, hoy PRI, y cuatro años después ahí se formuló el Plan Sexenal, que estipula el periodo presidencial de seis años.
+
+**TE RECOMENDAMOS:** [**Cinco poetas mexicanos románticos y sus mejores poemas**](https://blog.tonoysumariachi.com/ciencias/2022/04/20/cinco-poetas-mexicanos-romanticos-y-sus-mejores-poemas.html)**.**
 
 ## Teatro Macedonio Alcalá
 

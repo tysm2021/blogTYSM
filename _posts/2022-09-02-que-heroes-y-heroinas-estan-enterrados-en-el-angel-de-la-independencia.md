@@ -25,7 +25,7 @@ El **Monumento a la Independencia**, popularmente conocido como "El **Ángel**" 
 
 A continuación, te contamos quiénes están **enterrados** —por así decirlo, porque no es que estén propiamente depositados bajo tierra— en el famoso **Ángel de la Independencia**, y qué papel jugaron durante la lucha **insurgente** que culminó con la **independencia** política de la Nueva España, la cual marcó el comienzo de la nación mexicana que hoy conocemos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Apodos y títulos de los héroes y heroínas de la historia de México**](https://blog.tonoysumariachi.com/historia/2022/07/15/apodos-y-sobrenombres-de-los-heroes-y-heroinas-de-la-historia-de-mexico.html)**.**
 
 En primer lugar, desde luego que están los primeros insurgentes, aquellos que iniciaron la Guerra de Independencia la madrugada del 16 de septiembre de 1810, y que un año después sería capturados, enjuiciados y condenados a muerte para que después sus cabezas fueran exhibidas como escarmiento en las cuatro esquinas de la Alhóndiga de Granaditas en el año de 1811. Nos referimos, desde luego, a **Miguel Hidalgo y Costilla**, **Ignacio Allende**, **Juan Aldama** y **Mariano Jiménez**.
 
@@ -35,11 +35,11 @@ Enseguida, debemos mencionar a **José María Morelos y Pavón**, continuador de
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/25/Mexico.JoseMariaMorelos.01.jpg)
 
-Luego de la muerte de Morelos, vino la tercera etapa de la Independencia, que se libró mayormente a base de la "guerra de guerrillas". De esta etapa, destacan **Francisco Xavier Min**a, un español que se unió a la causa insurgente, y el jalisciense **Pedro Moreno**, lugarteniente de Mina que murió en octubre de 1817, durante el sitio del rancho "El Venadito", en el que el propio Mina fue apresado y fusilado dos meses más tarde.
+Luego de la muerte de Morelos, vino la tercera etapa de la Independencia, que se libró mayormente a base de la "guerra de guerrillas". De esta etapa, destacan **Francisco Xavier Mina**, un español que se unió a la causa insurgente, y el jalisciense **Pedro Moreno**, lugarteniente de Mina que murió en octubre de 1817, durante el sitio del rancho "El Venadito", en el que el propio Mina fue apresado y fusilado dos meses más tarde.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a3/Thomas_wright-general_xavier_mina-bn.jpg)
 
-De esta etapa también destaca el militar zacatecano **Víctor Rosales**, quien estaba al mando de Ignacio López Rayón —el cual, extrañamente debido a su gran importancia en la lucha de Independencia, está enterrado en la Iglesia de la Santa Veracruz, en el centro de la Ciudad de México—; **Rosales** murió en el Rancho de la Campana, situado en Ario, Michoacán, mientras enfrentaba a las fuerzas realistas.
+De esta etapa también destaca el militar zacatecano **Víctor Rosales**, quien estaba bajo las órdenes de Ignacio López Rayón —quien, extrañamente debido a su gran importancia en la lucha de Independencia, está enterrado en la Iglesia de la Santa Veracruz, en el centro de la Ciudad de México—; **Rosales** murió en el Rancho de la Campana, situado en Ario, Michoacán, mientras enfrentaba a las fuerzas realistas.
 
 De la última etapa de la Independencia, conocida como la Consumación, en el Ángel descansan los restos de **Vicente Guerrero**, artífice de la independencia junto con Agustín de Iturbide —quien seguramente por sus aires de emperador fue excluido de este mausoleo—, quien vio terminada la lucha e incluso fue presidente de México, pero fue traicionado por un mercenario genovés que trabajaba para Anastasio Bustamante y fue fusilado mientras ocupaba el cargo, en 1831.
 

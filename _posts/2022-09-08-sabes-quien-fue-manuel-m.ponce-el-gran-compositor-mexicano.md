@@ -25,7 +25,7 @@ Además de grandes pintores, notables literatos, bailarines y escultores, Méxic
 
 Así pues, te recomendamos que, antes de empezar a leer, le des clic al video que adjuntamos a continuación, para que tu lectura se vea acompañada por la apacible y hermosa música del zacatecano… ¡Música, maestro!
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Julián Carrillo, el músico mexicano que descubrió el "sonido 13"**](https://blog.tonoysumariachi.com/cultura/2022/07/18/julian-carrillo-el-musico-mexicano-que-descubrio-el-sonido-13.html)**.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QyW2Yb6eG4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

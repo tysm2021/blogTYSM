@@ -25,7 +25,7 @@ En temporada de lluvias y debido a la humedad, algunas mazorcas del **maíz** ll
 
 ¿Cuál es el origen de este **hongo** y cómo fue que se convirtió en uno de los alimentos más ricos, exóticos y codiciados de nuestra gastronomía, sobre todo en el centro de **México**? Sigue leyendo para enterarte de los detalles…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Escamoles, chapulines y otros insectos comestibles de México**](https://blog.tonoysumariachi.com/gastronomia/2022/06/09/escamoles-chapulines-y-otros-insectos-comestibles-de-mexico.html)**.**
 
 El **huitlacoche** o **cuitlacoche**, cuyo nombre científico es _Ustilado maydis_, es un **hongo** que crece entre las mazorcas del **maíz** y que tiene una larga historia en el cultivo y el aprovechamiento de este grano dentro de la **gastronomía** mexicana, al grado de convertirse en uno de los **alimentos** tradicionales de nuestra cocina.
 
@@ -33,7 +33,7 @@ Acerca del origen de su nombre, hay varias versiones. Una de ellas dice que el n
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/66/Ustilago_maydis_de_1.jpg)
 
-Es pertinente decir que, aunque comúnmente ahora se le considera un manjar y que su presencia en la **mazorca** hace que el precio de ésta se incremente, la realidad es que el **cuitlacoche** era considerada una plaga que incluso podía terminar con un cultivo entero, pues las **mazorcas** infectas a menudo eran desechadas. De hecho, hay quienes sostienen que la idea de que los antiguos mexicas y otros habitantes del centro de **México** incluían al **huitlacoche** en su alimentación es una fantasía, pues en la única referencia escrita que se tiene de él poco después de la Conquista, Fray Bernardino de Sahagún la describe como _cujtlacochi_, una suciedad que crecía encima del **maíz** y que lo echaba a perder.
+Es pertinente decir que, aunque comúnmente ahora se le considera un manjar y que su presencia en la **mazorca** hace que el precio de ésta se incremente, la realidad es que el **cuitlacoche** era considerada una plaga que incluso podía terminar con un cultivo entero, pues las **mazorcas** infectadas a menudo eran desechadas. De hecho, hay quienes sostienen que la idea de que los antiguos mexicas y otros habitantes del centro de **México** incluían al **huitlacoche** en su alimentación es una fantasía, pues en la única referencia escrita que se tiene de él poco después de la Conquista, Fray Bernardino de Sahagún la describe como _cujtlacochi_, una suciedad que crecía encima del **maíz** y que lo echaba a perder.
 
 Fue hasta la primera mitad del siglo XIX, con las continuas crisis alimentarias que trajo la inestabilidad política del país, que el **cuitlacoche** empezó a ser consumido por los campesinos más pobres, quienes quizá descubrieron con agrado que —a pesar de su desagradable aspecto— tenía un sabor entre dulce, salado, amaderado y, sobre todo, terroso. Así, poco a poco se fue colando en nuestras cocinas hasta convertirse en uno de los ingredientes básicos para comer en tortillas o quesadillas.
 

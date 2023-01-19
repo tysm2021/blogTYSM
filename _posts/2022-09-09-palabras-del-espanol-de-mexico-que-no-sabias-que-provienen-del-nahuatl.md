@@ -25,7 +25,7 @@ Los lingüistas y demás estudiosos de la lengua española saben bien que el esp
 
 A continuación, te compartimos una breve lista de las más usuales o de las más sorprendentes, porque según los diccionarios existen miles de ellas, fruto de la mezcla de nuestras dos raíces étnicas, culturales y lingüísticas más importantes, la española y la indígena.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuál es el origen de la frase popular “Ya sacó el cobre”?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/22/cual-es-el-origen-de-la-frase-popular-ya-saco-el-cobre.html)
 
 ### Tlapalería
 

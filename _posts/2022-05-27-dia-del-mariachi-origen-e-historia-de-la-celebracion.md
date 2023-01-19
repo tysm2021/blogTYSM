@@ -26,7 +26,7 @@ Desde 2004, el **21 de enero** de cada año se festeja, en **México** y el mund
 
 Toño y sus amigos, siendo **mariachis**, se la saben de memoria. Aquí te compartimos un poco de la alegría de esta fiesta.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Nuestros queridos charros cantores de México.**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/26/nuestros-queridos-charros-cantores-de-mexico.html)
 
 Pues resulta que, en el año de 2004, el gremio de los músicos decidió dedicar un día para celebrar a los **mariachis** y su canciones, eligiendo el **21 de enero** para reconocerlos como una expresión artística que transmite valores y fomenta el respeto hacia el patrimonio nacional.
 

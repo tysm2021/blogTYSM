@@ -25,7 +25,7 @@ Todo mundo recuerda a **Miguel Hidalgo** porque, con su **Grito de Dolores**, di
 
 Todo empezó en la ciudad de Valladolid, que en tiempos de la Nueva España tenía ese nombre inspirado en el de una urbe española, pero que tras la Independencia fue conocida como **Morelia** en honor a este **insurgente**, y actualmente es la capital del estado de Michoacán.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Dónde está la tumba de Hernán Cortés?**](https://blog.tonoysumariachi.com/historia/2022/06/14/donde-esta-la-tumba-de-hernan-cortes.html)
 
 **José María Morelos y Pavón** nació el 30 de septiembre de 1765 en Valladolid, actualmente **Morelia** —llamada así en su honor—; estudió la carrera de sacerdote en el Colegio de San Nicolás, donde daba clases **Miguel Hidalgo**, y más tarde entró al Seminario de Valladolid, de donde se graduó en 1795. Cuatro más tarde fue nombrado cura de Carácuaro, donde permaneció hasta el inicio de la gesta insurgente.
 
@@ -35,9 +35,11 @@ El 20 de octubre de 1810, en el poblado de Charo, Michoacán, se reunió con el 
 
 **Morelos** regresó a Carácuaro, reclutó a algunos hombres y se dirigió hacia Zacatula y luego hacia Huetamo. En Zihuatanejo y Petatlán su ejército creció hasta contar con casi dos mil soldados, por lo que decidió tomar Tecpan, donde se le unió **Hermenegildo** **Galeana**, que contaba con un cañón llamado "El Niño". En febrero de 1811 pactó la entrega del puerto de Acapulco, pero fue traicionado, de modo que tuvo que regresar a Tecpan a reagrupar su ejército. En ese trance se le unieron **Nicolás Bravo**, **Vicente Guerrero** y un militar de nombre Miguel Fernández Félix, quien poco después cambiaría su nombre a **Guadalupe Victoria**.
 
-Tras la muerte de los principales jefes insurgentes —Hidalgo, Allende, Aldama y Jiménez— en julio de 1811, **Morelos** se reunió con **Ignacio López Rayón**, que había sido asistente de Hidalgo y había quedado al frente de las tropas, para reorganizar los mandos de la lucha. Así se organizó la Suprema Junta Nacional Gubernativa, que pretendía gobernar al país en ausencia del rey Fernando VII, que había sido apresado en Francia.
+Tras la muerte de los principales jefes insurgentes —Hidalgo, Allende, Aldama y Jiménez— en julio de 1811, **Morelos** se reunió con **Ignacio López Rayón**, quien era asistente de Hidalgo y había quedado al frente de las tropas, para reorganizar los mandos de la lucha. Así se organizó la Suprema Junta Nacional Gubernativa, que pretendía gobernar al país en ausencia del rey Fernando VII, el cual había sido apresado en Francia.
 
 Morelos trasladó sus operaciones a Chilapa, tomó Tlapa, Cuautla, Chiautla e Izúcar, donde estuvo a punto de ser capturado y conoció a otro sacerdote, **Mariano Matamoros**, que se unió a la causa insurgente y terminó convirtiéndose en la "mano derecha" de Morelos. En 1812, el general realista Félix María Calleja derrotó a los insurgentes en Zitácuaro, y como los españoles temían que Morelos fuera a tomar la Ciudad de México, Calleja recibió la orden de enfrentarlo en Cuautla.
+
+**TE RECOMENDAMOS:** [**27 de septiembre de 1821: Consumación de la Independencia de México**](https://blog.tonoysumariachi.com/historia/2022/08/15/27-de-septiembre-de-1821-consumacion-de-la-independencia-de-mexico.html)**.**
 
 El **sitio de Cuautla** duró más de sesenta días, en los que **Morelos** consideró seriamente entregar la plaza y los realistas estuvieron a punto de vencerlo, de no ser por la heroica acción de un niño llamado **Narciso Mendoza**, quien accionó un cañón para repeler a los realistas y por ello fue conocido como 'El Niño Artillero'. Después de dos meses, los insurgentes decidieron romper el sitio, de modo que el 2 de mayo de 1812 abandonaron la ciudad guerrerense.
 

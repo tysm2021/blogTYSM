@@ -26,19 +26,19 @@ Los mexicanos somos un pueblo lleno de talento e inventiva. Por eso, desde los p
 
 A continuación te presentamos a algunos inventores y sus creaciones, en estricto orden cronológico. Aunque en algunos casos la creación mexicana sirvió de base para el invento que todos conocemos, seguramente te sorprenderá saber que muchos de estos adelantos los debemos a un mexicano.
 
-TE PUEDE INTERESAR:
+**TE RECOMENDAMOS:** [**Mexicanos ganadores del Oscar: quiénes son y cuántos ganaron**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/27/mexicanos-ganadores-del-oscar-quienes-son-y-cuantos-ganaron.html)**.**
 
 ## José Antonio Alzate y Ramírez
 
 ### Flotador de baño (1790)
 
-El **flotador** que todos conocemos y que está en casi todos los WC de México, fue obra de un mexicano, quien lo denominó "**obturador automático flotante**"; éste consta de un elemento hueco que se eleva a medida que el depósito se va llenando y, al alcanzar cierta altura, cierra el paso del agua para evitar que se desperdicie.
+El **flotador** que todos conocemos y que está en casi todos los WC de México, fue obra de un mexicano, quien lo denominó "**obturador automático flotante**"; éste consta de un elemento hueco que se eleva a medida que el depósito se va llenando y, al alcanzar cierta altura, cierra el paso del agua para evitar que se derrame y desperdicie.
 
 ## Everardo Rodríguez Arce y Luis Romero
 
 ### Máquina tortilladora (1904)
 
-¿Qué alimento es más representativo de México que la **tortilla**? Y como a principios del siglo XX éstas se hacían a mano, los inventores tuvieron la idea de crear una **máquina** que aplanara la masa y la cortara de forma automática; sin embargo no se les ocurrió que, al cortarlas en forma cuadrada, no serían bien recibidas por el público. Después hubo otras máquinas que mejoraron el mecanismo, pero la idea fue de ellos.
+¿Qué alimento es más representativo de México que la **tortilla**? Y como a principios del siglo XX éstas se hacían a mano, los inventores tuvieron la idea de crear una **máquina** que aplanara la masa y la cortara de forma automática; sin embargo, no se les ocurrió que, al cortarlas en forma cuadrada, no serían bien recibidas por el público. Después hubo otras máquinas que mejoraron el mecanismo y cortaban tortillas redondas, pero la idea fue de ellos.
 
 ## Guillermo González Camarena
 
@@ -53,6 +53,8 @@ Uno de los inventos más trascendentes del siglo XX y que cambió de forma más 
 ### Píldora anticonceptiva (1951)
 
 Aquí vale la pena hacer una aclaración: el doctor Miramontes, siendo aún un estudiante universitario que estaba bajo la tutela de George Rosenkranz —CEO de la empresa Pfizer— y del investigador Carl Djerassi, sintetizó la **noretisterona**, que es el ingrediente activo de la **píldora anticonceptiva**. La patente de los primeros **anticonceptivos orales** la compartió, cinco años más tarde, con dichos estadounidenses.
+
+**TE RECOMENDAMOS:** [**Premios Nobel mexicanos: cuántos y quiénes son**](https://blog.tonoysumariachi.com/cultura/2022/04/22/premios-nobel-mexicanos-cuantos-y-quienes-son.html)**.**
 
 ## Tridilosa (1964)
 

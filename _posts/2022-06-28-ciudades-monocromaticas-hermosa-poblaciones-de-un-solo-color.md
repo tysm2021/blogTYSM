@@ -23,9 +23,9 @@ comment: false
 
 A lo largo del mundo, existen algunos pueblos y ciudades que se distinguen por un rasgo característico: en sus casas, calles y edificios predomina un solo color. Por eso, muchas veces se les llama ciudades monocromáticas, y en años recientes han llamado la atención de los turistas.
 
-Algunas veces este hecho obedece a la costumbre local o a los materiales que abundan en el entorno, mientras que en otras siguen una minuciosa planeación urbana que busca lograr una armonía visual que resulte agradable a la vista. Como sea, demos un vistazo a algunas de estas ciudades monocromáticas.
+Algunas veces este hecho obedece a la costumbre local o a los materiales que abundan en el entorno, mientras que en otras siguen una minuciosa planeación urbana que busca lograr una armonía visual que resulte agradable a la vista. Como sea, demos un vistazo a algunas de estas **ciudades monocromáticas**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Todo lo que necesitas saber para visitar Hawai.**](https://blog.tonoysumariachi.com/mundo/2022/11/29/todo-lo-que-necesitas-saber-sobre-hawai.html)
 
 ## Jaipur, India
 
@@ -37,7 +37,7 @@ Esta población forma parte la lista del Patrimonio Mundial de la UNESCO desde 2
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Izamal_collage.jpg/1015px-Izamal_collage.jpg)
 
-Aunque Mérida, la capital yucateca, recibe el mote de "la ciudad blanca" por el brillante color de sus calles, en esta ocasión hablaremos de este Pueblo Mágico al que por méritos propios se le llama "**ciudad amarilla**". La costumbre de pintar las casas y edificios de este color empezó a mediados del siglo XIX, cuando decayó la industria del henequén, pero adquirió impulso en 1993 con la visita del papa **Juan Pablo II**: fue entonces que el pueblo se pintó con los colores de El Vaticano, el **amarillo** y el blanco, los cuales se oficializaron en 2002.
+Aunque Mérida, la capital yucateca, recibe el mote de "la ciudad blanca" por el brillante color de sus calles, en esta ocasión hablaremos de este Pueblo Mágico al que por méritos propios se le llama "**ciudad amarilla**". La costumbre de pintar las casas y edificios de este color empezó a mediados del siglo XIX, cuando decayó la industria del henequén, y adquirió impulso en 1993 con la visita del papa **Juan Pablo II**: fue entonces que el pueblo se pintó con los colores de El Vaticano, el **amarillo** y el blanco, los cuales se oficializaron en 2002.
 
 ## Majaelrayo, España
 
@@ -55,6 +55,6 @@ Esta importante ciudad marroquí es, junto con Fez, Meknes y Rabat, una de las t
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Thira_%28Santorini%29_-_Ia-01.jpg/1024px-Thira_%28Santorini%29_-_Ia-01.jpg)
 
-Esta hermosísima aldea en la que predomina el **color blanco** se encuentra en al isla de Santorini, una de las islas griegas que están distribuidas en el Mar Egeo. Antiguamente, su esplendor económico se debió al comercio mercante, que obedecía a su privilegiada posición, geográfica; actualmente, sus habitantes viven del turismo y de los miles de visitantes que año tras año acuden para maravillarse con los impactantes paisajes.
+Esta hermosísima aldea en la que predomina el **color blanco** se encuentra en la isla de **Santorini**, una de las islas griegas que están distribuidas en el Mar Egeo. Antiguamente, su esplendor económico se debió al comercio mercante, que obedecía a su privilegiada posición, geográfica; actualmente, sus habitantes viven del turismo y de los miles de visitantes que año tras año acuden para maravillarse con los impactantes paisajes.
 
 Y tú, ¿qué otras **ciudades monocromáticas** conoces?

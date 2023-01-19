@@ -25,7 +25,7 @@ En redes sociales circulan muchos chistes y memes sobre la supuesta inmortalidad
 
 A continuación, la lista de los "más grandes" con sus edades y sus respectivas fechas de nacimiento, actualizada en mayo de 2022. No vaya siendo que ahora que leas esta lista, alguno de ellos tristemente se nos haya adelantado. Como sea, nos quitamos el sombrero ante la grandeza de todos ellos y todas ellas…
 
-TE PUEDE INTERESAR:
+**TE PUEDE INTERESAR:** [**Cinco escritoras mexicanas del siglo XX y sus obras principales.**](https://blog.tonoysumariachi.com/cultura/2022/10/05/cinco-escritoras-mexicanas-del-siglo-xx-y-sus-obras-principales.html)
 
 ### Ignacio López Tarso
 

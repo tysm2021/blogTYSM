@@ -25,11 +25,11 @@ Junto con los chiles en nogada, el **mole poblano** es una de las más preciadas
 
 Acompáñanos en este breve recorrido alrededor de la historia del **mole poblano**, que lo mismo disfrutamos en **enchiladas** o enmoladas, que bañando unos huevitos estrellados o bañando una pieza de pollo o guajolote, con su respectiva porción de arroz rojo. ¡De rechupete!
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Dulces poblanos, herencia colonial de los conventos de Puebla**](https://blog.tonoysumariachi.com/gastronomia/2022/10/06/dulces-poblanos-herencia-colonial-de-los-conventos-de-puebla.html)**.**
 
-Los estudiosos afirman que la palabra **mole** deriva del náhuatl _mulli_ o _molli_, que significa "salsa". En tiempos previos a la Conquista, sin embargo, no se le añadía cacao ni chocolate y era básicamente una mezcla de chiles y especias que acompañaban a un guajolote cocido. El **mole poblano**, como su nombre lo indica, tuvo su origen en la ciudad de **Puebla** y existen dos **leyendas** sobre su creación.
+Los estudiosos afirman que la palabra **mole** deriva del náhuatl _mulli_ o _molli_, que significa "salsa". En tiempos previos a la Conquista, sin embargo, no se le añadía cacao ni chocolate y era básicamente una mezcla pastosa de chiles y especias que acompañaban a un guajolote cocido. El **mole poblano**, como su nombre lo indica, tuvo su origen en la ciudad de **Puebla** en tiempos de la **Colonia** y existen dos **leyendas** sobre su creación.
 
-Una de ellas afirma que el **mole** fue inventado en el Convento de Santa Rosa por Sor Andrea de la Asunción, allá por el año 1681; en el convento se cuenta que la monja dominica dio con la **receta** del **mole** gracias a la inspiración divina, y que el aroma que surgió al prepararlo fue tan exquisito que la madre superiora rompió su voto de silencio y exclamó: “Hermana, ¡qué buen mole!”; las demás monjas rieron y corrigieron a la madre diciendo: “Se dice muele”.
+Una de ellas afirma que el **mole** fue inventado en el **Convento de Santa Rosa** por Sor Andrea de la Asunción, allá por el año 1681; en el convento se cuenta que la monja dominica dio con la **receta** del **mole** gracias a la inspiración divina, y que el aroma que surgió al prepararlo fue tan exquisito que la madre superiora rompió su voto de silencio y exclamó: “Hermana, ¡qué buen mole!”; las demás monjas rieron y corrigieron a la madre diciendo: “Se dice _muele_”.
 
 Otra leyenda adjudica la creación del **mole** a un afortunado cocinero llamado **Fray Pascual**, que en una ocasión que debía ofrecer un banquete al virrey Juan de Palafox —a la sazón, también arzobispo de Puebla— estaba tan nervioso en su cocina que acabó tropezando justo enfrente de donde se cocían unos guajolotes y accidentalmente derramó chiles, almendras, trozos de chocolate y especias en la olla de la cocción. Para su sorpresa, el resultado fue magnífico y agradó a su Eminencia.
 
@@ -37,7 +37,7 @@ Otra leyenda adjudica la creación del **mole** a un afortunado cocinero llamado
 
 ### Receta del mole poblano
 
-**Ingredientes**
+**Ingredientes (24 personas)**
 
 - 1½ tazas de manteca de cerdo
 - 250 g de chile mulato limpio

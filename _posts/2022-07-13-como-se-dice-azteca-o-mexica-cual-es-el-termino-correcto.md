@@ -25,7 +25,7 @@ Una de las civilizaciones que más destaca en la **historia** del **México** **
 
 Aunque en el uso común se usan ambas **palabras**, y de hecho es mucho más frecuente que se use el término **azteca** para referirse al pueblo que conquistó casi toda Mesoamérica entre los siglos XIV y XV de nuestra era, consultemos la opinión de los arqueólogos que han dedicado su vida a estudiar al heroico pueblo **mexica** que fue conquistado por los invasores españoles.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Piedra del Sol: ¿por qué se le llama Calendario Azteca?**](https://blog.tonoysumariachi.com/historia/2022/08/26/piedra-del-sol-por-que-se-le-llama-calendario-azteca.html)
 
 El pueblo **mexica** tiene una historia que abarca varios siglos, desde su salida y peregrinación de la ciudad legendaria de Aztlán, cuya ubicación nadie conoce y de donde habrían tomado el gentilicio de **aztecas**, hasta su llegada al Valle de México, la posterior fundación de la ciudad de México-Tenochtitlan, la creación y la expansión del Imperio hasta su caída en 1521 a manos de las fuerzas del conquistador español Hernán Cortés.
 
@@ -35,8 +35,8 @@ Dentro de la enseñanza de la historia a los propios mexicanos, comúnmente y de
 
 **Aztecas**, una palabra que deriva de su origen en la mítica **Aztlán**, "es un vocablo erróneo si uno se refiere a los habitantes de Tenochtitlan y Tlatelolco" pero puede emplearse para designar a los grupos que hablaban la lengua náhuatl en el Centro de México durante la etapa histórica conocida como Posclásico Tardío, incluidos los **mexicas**, sin dejar de reconocer que cada uno de estos poseía su propia identidad étnica y cultura.
 
-**Mexicas**, en cambio, se refiere a los habitantes de México, así como son tenochcas los que habitaban Tenochtitlan y tlatelolcas los de Tlatelolco. Entonces, volviendo al arqueólogo Vela, "es exacto decir **mexicas** cuando uno se refiere a los originarios de esas ciudades, y no lo es tanto para referirse a otros grupos contemporáneos aunque compartan un origen mítico, un ámbito geográfico (la Cuenca de México) o una lengua (el náhuatl)".
+**Mexicas**, en cambio, se refiere a los habitantes de México, así como son _tenochcas_ los que habitaban Tenochtitlan y _tlatelolcas_ los de Tlatelolco. Entonces, volviendo al arqueólogo Vela, "es exacto decir **mexicas** cuando uno se refiere a los originarios de esas ciudades, y no lo es tanto para referirse a otros grupos contemporáneos aunque compartan un origen mítico, un ámbito geográfico (la Cuenca de México) o una lengua (el náhuatl)".
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aztec_Sun_Stone_or_Calendar_Stone.jpg/1024px-Aztec_Sun_Stone_or_Calendar_Stone.jpg)
 
-Así pues, y aunque en inglés se use el término **_Aztec_** para referirse al Imperio y a la civilización **mexicas**, y exista un monolito que es popularmente conocido como Calendario **Azteca** —aunque en realidad si nombre es Piedra del Sol—, los arqueólogos acuerdan que **mexica** es más preciso para referirse a los habitantes de la capital México-Tenochtitlan…
+Así pues, y aunque en inglés se use el término **_Aztec_** para referirse al Imperio y a la civilización **mexicas**, y exista un monolito que es popularmente conocido como Calendario **Azteca** —aunque en realidad su nombre es Piedra del Sol—, los arqueólogos acuerdan que **mexica** es más preciso para referirse a los habitantes de la ciudad de México-Tenochtitlan…

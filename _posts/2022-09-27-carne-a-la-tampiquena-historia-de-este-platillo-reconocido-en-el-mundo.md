@@ -25,7 +25,7 @@ Alguna vez, el famoso intelectual y escritor José Vasconcelos dijo algo así co
 
 Así pues, averigüemos cómo y dónde es que surgió esta forma tan mexicana de comer la **sábana de res**, si se conoce el nombre del "genio" que la inventó y si en verdad procede del puerto de **Tampico**, Tamaulipas, y si sólo es una denominación como la de las tortas cubanas, que no son de Cuba, o del chile habanero, que tampoco es de La Habana…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Tacos al pastor: cinco cosas que no sabías del "mejor platillo del mundo"**](https://blog.tonoysumariachi.com/gastronomia/2022/08/24/tacos-al-pastor-cinco-cosas-que-no-sabias-del-mejor-platillo-del-mundo.html)**.**
 
 ¿**Qué lleva la carne a la tampiqueña?** Aunque los componentes pueden variar, en general sus ingredientes son: filete de res cortado en tiras largas, guacamole —ya sabes, esa salsa espesita hecha con aguacate, cebolla, cilantro, chile verde y, a veces, jitomate—, frijoles bayos refritos bañados en queso blanco relleno, una enchilada —que puede ser verde o de mole—, arroz blanco o rojo con verduras, y a veces unas rajas de chile poblano. Algunos golosos le añaden hasta una porción de papas fritas, pero eso ya es un exceso…
 

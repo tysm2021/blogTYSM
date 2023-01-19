@@ -25,7 +25,7 @@ Hasta hace algunos años, el puerto de **Acapulco** era la **playa** mexicana po
 
 Recordemos juntos este **sitio** emblemático, que incluso ha aparecido en películas como la que protagonizó en 1963 el rey del rock, **Elvis Presley**, y que llevó por nombre _Fun in Acapulco_.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles son las playas más visitadas de México?**](https://blog.tonoysumariachi.com/turismo/2022/07/29/cuales-son-las-playas-mas-visitadas-de-mexico.html)
 
 **La Quebrada** es un acantilado situado en la parte "vieja" del puerto de **Acapulco**, Guerrero. Tiene una altura de 45 metros, y mide siete metros de ancho y sólo cuatro de profundidad cuando las olas están bajas. Este acantilado no es natural: se formó a finales del siglo XIX cuando, en un intento por dar una ventilación natural al caluroso puerto, se dinamitó parte de la montaña, que quedó quebrada y de ahí el nombre del sitio, que es famoso porque, desde la década de 1930, valerosos **clavadistas** **acapulqueños** se lanzan al vacío desde una plataforma situada a 35 metros de altura, lo que conforma uno de los espectáculos acuáticos más famosos y visitados del puerto guerrerense.
 
@@ -35,6 +35,6 @@ La dificultad del asunto radica en dos factores: uno, que el fondo del acantilad
 
 Este espectáculo tuvo su origen en 1934, cuando el grupo de jóvenes que halló la forma de lanzarse clavados desde la roca empezó a cobrar por el show. Hoy en día, están organizados en un grupo llamado, justamente, **Asociación de Clavadistas Profesionales de La Quebrada**. El primero de ellos en lanzarse, según dice la Historia que se lee en su [website](https://www.clavadistaslaquebrada.com/historia) oficial, fue un chico acapulqueño de nombre Rigoberto Apac Ríos, quien pagó cara su osadía, pues acabó dislocándose los brazos. Más tarde, otros clavadistas perfeccionarían la técnica.
 
-Un hecho importante en la historia de **La Quebrada** tuvo lugar en 1954, cuando el señor Teddy Stauffer —que era el gerente del hotel El Mirador, que tiene vista a **La Quebrada**— llevó a los clavadistas acapulqueños a un concurso internacional de clavados de altura. Este hecho le dio proyección internacional al sitio, la cual se vio fortalecida cuando Elvis Presley filmó _Fun in Acapulco_ en 1963, y el espectáculo de los clavados convirtió a Acapulco en un sitio de interés para turistas de todo el mundo.
+Un hecho importante en la historia de **La Quebrada** tuvo lugar en 1954, cuando el señor Teddy Stauffer —que era el gerente del hotel El Mirador, que tiene vista a **La Quebrada**— llevó a los clavadistas acapulqueños a un concurso internacional de clavados de altura. Este hecho le dio proyección internacional al sitio, la cual se vio fortalecida cuando Elvis Presley filmó _Fun in Acapulco_ en 1963, y el espectáculo de los **clavados** convirtió a **Acapulco** en un sitio de interés para turistas de todo el mundo.
 
 Actualmente, existen cinco funciones para admirar los famosos **clavados**: a la 1 pm, y cada hora desde las 7 hasta las 10 pm, algunos de los cuales se realizan con antorchas para dar mayor lucimiento al espectáculo. El costo de los boletos es de 20 pesos para los niños y 50 para los adultos.

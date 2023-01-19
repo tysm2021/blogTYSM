@@ -25,7 +25,7 @@ Una de las piezas de **pan** blanco más vendidas en todo **México** es, sin du
 
 A continuación te platicamos brevemente el recorrido que hizo el **bolillo** en nuestras tierras, desde un humilde grano de trigo, hasta convertirse en una de las bases de la alimentación de la gran familia mexicana. Acompáñanos…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**La torta de tamal o guajolota y la leyenda de su origen.**](https://blog.tonoysumariachi.com/gastronomia/2022/04/27/la-torta-de-tamal-o-guajolota-y-la-leyenda-de-su-origen.html)
 
 Primero, describamos un **bolillo**: de trata de una pieza de **pan** blanco, elaborada con harina de trigo, levadura, sal y agua, la cual tiene forma de óvalo o de rombo, y lleva una hendidura en el centro; es crujiente y doradito por fuera, y esponjoso por dentro, con una consistencia que llamamos "migajón" y que muchos prefieren retirar antes de comerlo.
 
@@ -43,6 +43,6 @@ Al birote jalisciense y a la baguette francesa se le hicieron algunas modificaci
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bread_mexican_pan_mexicano_bolillo_%282%29.jpg/768px-Bread_mexican_pan_mexicano_bolillo_%282%29.jpg)
 
-Con bolillos podemos preparar tortas, ya sean las típicas tortas calientes de jamón, milanesa o cubanas, o las tortas ahogadas de Jalisco, que van rellenas de carnitas y se bañan con una salsa roja picante; en la capital del país se elaboran las famosas tortas de tamal o 'guajolotas', de igual modo que en Toluca tienen merecida fama las tortas de chorizo. Otros sitios tienen sus tortas locales: las guacayamas de León, Guanajuato, o las de la barda, de Tampico. Y no hay que olvidar que, si lleva tres hendiduras en lugar de una, no es bolillo: es telera.
+Con **bolillos** podemos preparar **tortas**, ya sean las típicas tortas calientes de jamón, milanesa o cubanas, o las tortas ahogadas de Jalisco, que van rellenas de carnitas y se bañan con una salsa roja picante; en la capital del país se elaboran las famosas tortas de tamal o 'guajolotas', de igual modo que en Toluca tienen merecida fama las tortas de chorizo. Otros sitios tienen sus tortas locales: las guacayamas de León, Guanajuato, o las de la barda, de Tampico. Y no hay que olvidar que, si lleva tres hendiduras en lugar de una, no es bolillo: es telera.
 
 Y sobre el tema de que sirve pa'l susto… ¿vieras que sí es cierto? Pero como decían en el comercial: eso ya es otra historia, y te la contaremos en otro artículo de Toño y su mariachi.

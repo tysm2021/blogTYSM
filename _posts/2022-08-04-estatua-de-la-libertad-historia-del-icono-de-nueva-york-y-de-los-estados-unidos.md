@@ -27,7 +27,7 @@ Su verde silueta coronada y con una antorcha es un símbolo que casi todos hemos
 
 Acompáñanos por este breve recorrido a **Liberty Island**, una pequeña isla en la bahía de **Nueva York**, desde donde la majestuosa **estatua** daba la bienvenida a los miles de migrantes que llegaban en barco a los **Estados Unidos** buscando refugio o con la esperanza de una nueva vida.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Washington D.C.: los edificios y monumentos más bellos**](https://blog.tonoysumariachi.com/mundo/2022/10/14/washington-d.c.los-edificios-y-monumentos-mas-bellos.html)**.**
 
 Su nombre oficial es "La **libertad** iluminando al mundo" y se encuentra en **Liberty Island**, un pequeño islote de unos 60 mil metros cuadrados que, además de a la famosa efigie, alberga un museo dedicado a la **Estatua de la Libertad**. Se trata de una colosal estatua de cobre que fue regalada por el gobierno francés al gobierno estadounidense a finales del siglo XIX. Su creador fue el escultor francés Frederic Auguste Bartholdi y la estructura metálica fue diseñada por Gustave Eiffel, autor de la también célebre torre parisina que lleva su apellido.
 

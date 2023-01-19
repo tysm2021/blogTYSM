@@ -25,7 +25,7 @@ En la porción poniente del Estado de México, rodeados de bosques de coníferas
 
 Todo inicia cuando el poblado era llamado Pameje, un nombre de origen mazahua que durante los primeros años de la Colonia fue cambiando a San Francisco del Valle de Temascaltepec o Temascaltepec de Indios. Después se le llamó Villa del Valle y, finalmente, **Valle de Bravo** en honor al héroe insurgente **Nicolás Bravo**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Cinco cosas que hacer en Tepoztlán, Morelos**](https://blog.tonoysumariachi.com/turismo/2022/07/19/cinco-cosas-que-hacer-en-tepoztlan-morelos.html)**.**
 
 Lo primero que destaca al llegar a **Valle de Bravo** es el majestuoso **lago** que preside la vista de este **Pueblo Mágico**, aunque no es un **lago** natural, sino que se formó por el embalse de la **Presa Miguel Alemán**, la cual fue construida por la Comisión Federal de Electricidad en 1947 como parte de un sistema hidroeléctrico que ya no está en operación, pues fue sustituido por el Sistema Cutzamala. Este lugar es idóneo para practicar deportes acuáticos como navegación en velero, esquí acuático, kayak, _paddle_, pesca deportiva o paseos en yates y lanchas.
 

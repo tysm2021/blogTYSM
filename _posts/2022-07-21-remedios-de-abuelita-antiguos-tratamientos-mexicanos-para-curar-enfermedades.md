@@ -21,11 +21,11 @@ show_author_profile: false
 comment: false
 ---
 
-Si bien desde el siglo XIX en nuestro país la **medicina** y la salud pública han avanzado a pasos agigantados, dando solución a tratamiento a muchas **enfermedades** graves y a pequeños **malestares** comunes, eso no resta a que, en la práctica, se sigan aplicando **remedios de abuelita** basados en el **folclor**, la tradición y, a veces, en la **herbolaria** y la **medicina** **alternativa**. Aquí te damos algunos de los **ejemplos** más comunes.
+Si bien desde el siglo XIX en nuestro país la **medicina** y la salud pública han avanzado a pasos agigantados, dando solución a tratamiento a muchas **enfermedades** graves y a pequeños **malestares** comunes, eso no resta a que, en la práctica, en México se sigan aplicando **remedios de abuelita** basados en el **folclor**, la tradición y, a veces, en la **herbolaria** y la **medicina** **alternativa**. Aquí te damos algunos de los **ejemplos** más comunes.
 
 Entre los muchos **tratamientos** que podemos encontrar en el vasto campo de la **medicina** **tradicional** están los **chiqueadores**, las **limpias**, las **ventosas** y los remedios contra el **empacho**, el **mal de ojo** y el **espanto**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Toloache, la hierba del amor: ¿en verdad sirve para que se enamoren de ti?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/18/toloache-la-hierba-del-amor-en-verdad-sirve-para-que-se-enamoren-de-ti.html)
 
 ### Chiqueadores
 
@@ -39,7 +39,7 @@ Hay gente muy mala en el mundo, eso que ni qué. Y cuando hay "un trabajo" de po
 
 ### Ventosas
 
-Según algunos, este remedio proviene de la milenaria China. Pero aquí en México es muy socorrida para aliviar distintos malestares y enfermedades. El principio es muy simple: se tiende al enfermo o la enferma boca abajo, con la espalda descubierta; se vierte un poco de alcohol en un vaso pequeño y se unta por las paredes del mismo, se le prende fuego y, antes de que se apague, rápidamente se adhiere a la piel del paciente; el vacío que provoca el fuego hará que el vaso "succione" la piel, lo cual —dependiendo del mal y de la habilidad de quien lo aplica— aliviará el malestar… o te dejará una serie de moretones y chupetones en la espalda que mejor ni platicamos.
+Según algunos, este remedio proviene de la milenaria China, pero aquí en México es muy socorrida para aliviar distintos malestares y enfermedades. El principio es muy simple: se tiende al enfermo o la enferma boca abajo, con la espalda descubierta; se vierte un poco de alcohol en un vaso pequeño y se unta por las paredes del mismo, se le prende fuego y, antes de que se apague, rápidamente se adhiere a la piel del paciente; el vacío que provoca el fuego hará que el vaso "succione" la piel, lo cual —dependiendo del mal y de la habilidad de quien lo aplica— aliviará el malestar… o te dejará una serie de moretones y chupetones en la espalda que mejor ni platicamos.
 
 ### Otros remedios
 
@@ -51,10 +51,10 @@ Cuando comes de más o algo de lo que comiste te cayó mal, de peso o "se te que
 
 **Mal de ojo**
 
-Hay gente con "vista pesada", que te mira pero con envidia o coraje, deseando que algo terrible te suceda o que te vaya mal. Contra ello hay varios remedios, desde la ya mencionada **limpia** hasta un **sahumerio**, que no es sino someterte al humo de alguna hierba medicinal siendo quemada, ¿qué dices, te animas?
+Hay gente con "vista pesada", que te mira pero con envidia o coraje, deseando que algo terrible te suceda o que te vaya mal. Contra ello hay varios remedios, desde la ya mencionada **limpia** hasta un **sahumerio**, que no es sino someterte al humo de alguna hierba medicinal siendo quemada, ¿qué dices, te avientas?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_cure.jpg/1024px-The_cure.jpg)
 
 **Espanto**
 
-Por último, hablemos del **espanto** que, como su nombre lo indica, proviene de un **susto** fuerte —por ejemplo, si sufres un accidente automovilístico, te caes de una escalera o estás a punto de ahogarte en una alberca—; los **síntomas** son un desgano profundo, la mirada perdida y, en casos graves, se pierden las ganas de salir a la calle. Para tratarlo, en tiendas de herbolaría, mercados o boticas de colonias populares se venden "**espíritus de tomar**" y "**espíritus de untar**", aunque el remedio por excelencia en el "**pan puerco**", una pomada que está elaborada con manteca de cerdo. Aunque uno no deja de sospechar que lo que cura, más bien, es el apapacho, la atención y los cuidados, ¿o tú qué opinas?
+Por último, hablemos del **espanto** que, como su nombre lo indica, proviene de un **susto** fuerte —por ejemplo, si sufres un accidente automovilístico, te caes de una escalera o estás a punto de ahogarte en una alberca—; los **síntomas** son un desgano profundo, la mirada perdida y, en casos graves, se pierden las ganas de salir a la calle. Para tratarlo, en tiendas de herbolaria, mercados o boticas de colonias populares se venden "**espíritus de tomar**" y "**espíritus de untar**", aunque el remedio por excelencia en el "**pan puerco**", una pomada que está elaborada con manteca de cerdo. Aunque uno no deja de sospechar que lo que cura, más bien, es el apapacho, la atención y los cuidados, ¿o tú qué opinas?

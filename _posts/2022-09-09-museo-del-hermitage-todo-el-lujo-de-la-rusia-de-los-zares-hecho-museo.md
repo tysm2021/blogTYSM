@@ -25,7 +25,7 @@ Aunque quizá no es tan famoso como el Museo del Louvre, en París, el Museo del
 
 Para que te des una idea, el **Museo** consta de seis edificios y su colección consta de más de tres millones de **piezas**, entre antigüedades de Grecia y Roma, pinturas y esculturas de los artistas más importantes de Europa, muestras de arte oriental, lo mejor del arte ruso y, también, armas y otros objetos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuáles son museos más visitados del mundo, antes y después de la pandemia?**](https://blog.tonoysumariachi.com/mundo/2022/06/09/los-museos-mas-visitados-del-mundo-cuales-son.html)
 
 El **Museo del Hermitage** se encuentra en la histórica ciudad de **San Petersburgo, Rusia**, la cual fue la sede del poder imperial de los zares de 1703, cuando fue fundada por el zar Pedro el Grande, hasta 1918, cuando la capital rusa fue trasladada a Moscú. También se le conoció como Petrogrado y, hasta 1991, como Leningrado. El **museo** es un complejo de seis edificios situados a las orillas del Río Neva, y el más importante de ellos es el llamado **Palacio de Invierno**, que entre 1732 y 1917, cuando estalló la Revolución, fue la residencia oficial de los zares de Rusia; los otros dos edificios más importantes son el Palacio Menshikov, el Edificio del Estado Mayor.
 

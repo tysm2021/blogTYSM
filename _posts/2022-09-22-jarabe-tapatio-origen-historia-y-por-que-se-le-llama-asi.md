@@ -25,7 +25,7 @@ Todos conocemos —o eso queremos pensar— el Himno Nacional Mexicano, ese que 
 
 A continuación, una breve semblanza a una de las composiciones más famosas y más sentidas por todos los mexicanos, así como algunos datos curiosos sobre ella.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**"México lindo y querido": historia de la canción inmortalizada por Jorge Negrete**](https://blog.tonoysumariachi.com/cultura/2022/04/22/mexico-lindo-y-querido-origen-e-historia-de-la-cancion.html)**.**
 
 Empecemos aclarando una cosa: tanto la **danza** regional que se **baila** en parejas, un hombre y una mujer, como la **música** que la acompaña, se conocen como **Jarabe tapatío**. La vestimenta consiste en traje de charro, para el hombre, y traje de "china poblana" para la mujer, con su falda de vuelos y listones adornando el cabello. La danza empieza con él tirando al piso el sombrero de ala ancha y empezando a bailar alrededor del mismo, imitando los cortejos que buscan conquistar a la pareja, la cual al principio lo rechaza, pero al final levanta el sombrero y con él cubre el beso final con el que se sella el romance.
 

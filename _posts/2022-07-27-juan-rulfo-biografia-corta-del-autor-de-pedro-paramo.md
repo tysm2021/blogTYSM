@@ -25,7 +25,7 @@ Hay autores que consiguen hacerse de fama a base de esfuerzo y de un cierto núm
 
 Conozcamos a este **escritor** jalisciense y, también, examinemos un poco más de cerca su **obra**, que por su calidad e inspiración es lectura obligada para los estudiantes de educación media en todo el país.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Octavio Paz, poeta, ensayista y Premio Nobel mexicano**](https://blog.tonoysumariachi.com/cultura/2022/09/20/octavio-paz-poeta-ensayista-y-premio-nobel-mexicano.html)**.**
 
 Los libros nos dicen que **Juan Nepomuceno Carlos Pérez Rulfo Vizcaíno** nació el 16 de mayo de 1917 en el pequeño poblado jalisciense de **Apulco**, en una hacienda que su madre habría heredado de sus abuelos maternos. Desde muy joven conoció a un México violento y convulsionado por movimientos sociales como la Revolución Mexicana y la Guerra Cristera, pues a la edad de seis años quedó huérfano de padre —que fue asesinado— y al año siguiente también perdió a su madre, lo que causó toda clase de interrupciones en su educación básica.
 
@@ -37,7 +37,7 @@ Entre 1944 y 1947, los primeros **cuentos** de **Juan Rulfo** empezaron a ser pu
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/14/Rulfo_por_Lyon.jpg)
 
-Entre 1952 y 1954, Rulfo recibió la beca del Centro Mexicano de Escritores y gracias a ello pudo concluir su **novela**, _Pedro Páramo_, el cual entregó para su publicación al Fondo de Cultura Económica en septiembre de 1954. Unos meses después, en marzo de 1955, el título fue puesto a la venta dentro de la colección Letras Mexicanas. Además de estos dos títulos importantísimos, **Rulfo** también escribió una novela corta titulada _El gallo de oro_, la cual no sería publicada sino hasta 1980.
+Entre 1952 y 1954, Rulfo recibió la beca del Centro Mexicano de Escritores y gracias a ello pudo concluir su **novela**, _Pedro Páramo_, el cual entregó para su publicación al Fondo de Cultura Económica en septiembre de 1954. Unos meses después, en marzo de 1955, el título fue puesto a la venta dentro de la colección Letras Mexicanas. Además de estos dos títulos importantísimos, **Rulfo** también escribió una novela corta titulada _El gallo de oro_, la cual no sería publicada sino hasta 1980 y sobre la cual se hizo un guión cinematográfico que terminó en la pantalla grande.
 
 La publicación de _Pedro Páramo_ fue el acontecimiento más significativo en la carrera literaria de **Juan Rulfo**, y la **novela** obtuvo excelentes reseñas inmediatamente después de su aparición, tanto entre los literatos mexicanos como en el extranjero. La trama es sencilla: Juan Preciado decide ir a Comala, "porque le dijeron que ahí vivía su padre, un tal **Pedro Páramo**"; en ese misterioso pueblo, Juan habrá de conocer a una serie de personajes y vivir episodios que, a medida que avanza la lectura, hacen que uno confunda la realidad con el sueño y deje de distinguir a los vivos de quienes ya están muertos.
 

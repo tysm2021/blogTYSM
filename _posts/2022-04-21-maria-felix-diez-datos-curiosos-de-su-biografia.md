@@ -24,7 +24,7 @@ subcategorie: ASISOMOS
 
 Entre las grandes estrellas que dio el cine mexicano durante su llamada “Época de Oro” destacan figuras como Pedro Infante, Jorge Negrete, Dolores del Río y, desde luego, **“La Doña” María Félix**, quien tuvo una **vida** turbulenta dentro y fuera del celuloide. A continuación te presentamos diez **datos curiosos** sobre su interesante **biografía**:
 
-TE PUEDE INTERESAR:
+**TE PUEDE INTERESAR:** [**Mexicanos que la armaron en el cine de Hollywood.**](https://blog.tonoysumariachi.com/mundo/2022/07/13/mexicanos-que-la-armaron-en-el-cine-de-hollywood.html)
 
 1\.Nació el **8 de abril de 1914** en Álamos, Sonora. Sus padres fueron el militar y político Bernardo Félix Flores y doña Josefina Güereña Rosas.
 

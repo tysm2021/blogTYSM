@@ -26,7 +26,7 @@ Una de las conmemoraciones que une a prácticamente todos los **mexicanos**, des
 
 A continuación, revisaremos algunas posturas sobre los **orígenes** de la **tradición** del **Día de Muertos**, tanto las que afirman que se trata de un ritual con raíces **prehispánicas**, como quienes desmienten esto y sostienen que su origen tiene más que ver con el **catolicismo** que se impuso en nuestro país tras la Conquista española.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Día del mariachi: origen e historia de la celebración**](https://blog.tonoysumariachi.com/mexicanisimos/2022/05/27/dia-del-mariachi-origen-e-historia-de-la-celebracion.html)**.**
 
 En un posteo compartido por el Gobierno de México el 1 de noviembre de 2017, se dice que "El _Día de Muertos_ es una celebración mexicana en la que se honra a los difuntos y que se remonta a la época **prehispánica**"; sin embargo, esta misma fuente no ahonda en el tema ni explica cómo se celebraba antes del siglo XVI y cuáles son las pruebas físicas de ello.
 

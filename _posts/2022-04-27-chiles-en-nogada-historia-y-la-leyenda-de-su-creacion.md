@@ -26,7 +26,7 @@ La **historia** de nuestra **gastronomía** no es sólo una conjunción de proce
 
 A continuación, te contamos algunas versiones sobre el **origen** casi mitológico de estos chiles rellenos y bañados en salsa, los cuales vienen desde la época de la Independencia, así como lo que dicen los hechos históricos al respecto.
 
-TE PUEDE INTERESAR:
+**TE PUEDE INTERESAR:** [**27 de septiembre de 1821: Consumación de la Independencia de México.**](https://blog.tonoysumariachi.com/historia/2022/08/15/27-de-septiembre-de-1821-consumacion-de-la-independencia-de-mexico.html)
 
 La **leyenda** más popular se remite a los últimos días de la Guerra de la Independencia: cuando don **Agustín de Iturbide** se dirigía a su entrada triunfal en la Ciudad de México, el 27 de septiembre de 1821, que coronó la lucha insurgente, pasó por la ciudad de **Puebla**. En esa ciudad, las monjas agustinas del **convento de Santa Mónica** decidieron homenajearlo creándole un platillo especial.
 
@@ -40,6 +40,6 @@ Así, le rezaron a San Pascual Bailón —un santo cocinero, por cierto, tambié
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chile_en_nogada_in_Mexico_City.jpg/1024px-Chile_en_nogada_in_Mexico_City.jpg)
 
-Lo cierto es que los célebres y deliciosos **chiles en nogada** no aparecen en documentos ni recetarios de esa época, y todo parece indicar que estas leyendas son sólo eso: invenciones derivadas del folclor para otorgar orígenes mágicos o heroicos a creaciones más simples.
+Lo cierto es que los célebres y deliciosos **chiles en nogada** no aparecen en documentos ni recetarios de esa época, y todo parece indicar que estas **leyendas** son sólo eso: invenciones derivadas del **folclor** para otorgar orígenes mágicos o heroicos a creaciones más simples.
 
 Según los historiadores, estas historias que atribuyen la creación al fervor nacionalistas nacieron en la década de 1930, y sostienen que los **chiles** a los que nos referimos son una creación del siglo XX. Pero también es cierto que estos hechos no nos impiden disfrutarlos en los meses de agosto y septiembre, cuando es temporada, ¿a poco no?

@@ -26,7 +26,7 @@ Una de las **ciudades coloniales** mexicanas más hermosas y cargadas de histori
 
 A continuación te presentamos tres de los muchos **museos** que te esperan en **Guanajuato** . ¿Te animas a conocerlos?
 
-TE PUEDES INTERESAR:
+TE RECOMENDAMOS: [**Da un vistazo a los seis Pueblos Mágicos del estado de Querétaro.**](https://blog.tonoysumariachi.com/turismo/2022/11/04/pueblos-magicos-en-el-estado-de-queretaro.html)
 
 ## Museo Regional de Guanajuato
 
@@ -36,13 +36,11 @@ Empezamos con uno de los edificios más antiguos de la ciudad y, también, de lo
 
 En el primero, cuando las fuerzas insurgentes dirigidas por Miguel Hidalgo y Costilla atacaron la **ciudad de Guanajuato**, los españoles y criollos se refugiaron en la **Alhóndiga**, que se constituyó como un fuerte impenetrable. Fue hasta que Juan José de los Reyes Martínez, el famoso “Pípila”, cargando una pesada losa que lo protegía de las balas realistas logró prender fuego a la puerta, permitiendo así la entrada de los rebeldes.
 
-![](https://www.inah.gob.mx/images/fotodeldia/20170714_alhondiga.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alh%C3%B3ndiga_de_Granaditas%2C_Guanajuato_%2832812854180%29.jpg/1024px-Alh%C3%B3ndiga_de_Granaditas%2C_Guanajuato_%2832812854180%29.jpg)
 
 El otro episodio es doloroso: tras ser capturados, enjuiciados y ejecutados los líderes del movimiento insurgente, Miguel Hidalgo, Ignacio Allende, Juan Aldama y Mariano Abasolo, sus cabezas fueron colgadas dentro de jaulas metálicas en las cuatro esquinas de la **Alhóndiga**, como escarmiento y castigo ejemplar para evitar futuras insurrecciones.
 
 En este museo se exhiben las Artes y costumbres del estado, el arte mesoamericano de la región y una colección de mapas, documentos y gráficos que dan fe de los hechos de la Guerra de Independencia. Además, puedes contemplar los murales que pintó el artista guanajuatense José Chávez Morado. Está abierto de jueves a domingo, de las 10 a las 16 horas.
-
-![](https://www.inah.gob.mx/images/fotodeldia/20181231_murales.jpg)
 
 ## Museo de las Momias de Guanajuato
 

@@ -25,7 +25,7 @@ Ya sea por los hermosos paisajes que nos regala, o cuando despierta entre explos
 
 A continuación te contamos una de las tantas versiones que se cuentan de esta **leyenda**, la cual ha pasado de generación en generación y dan fe del respeto que se le tiene a este coloso que, Dios no lo quiera, cualquier día puede despertar…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Los volcanes más famosos y destructivos del mundo**](https://blog.tonoysumariachi.com/mundo/2022/09/07/los-volcanes-mas-famosos-y-destructivos-del-mundo.html)**.**
 
 El **Popocatépetl** —cuyo nombre, en náhuatl, significa "cerro que humea"— es un **volcán** activo que se encuentra en la frontera de los estados de Puebla, Morelos y el Estado de México. Se alza a unos 5500 metros sobre el nivel del mar y desde que se reactivó en diciembre de 1994, con frecuencia presenta explosiones, fumarolas, emisiones de gas y ceniza, y ocasionalmente erupciones que hasta el momento no han sido demasiado graves.
 

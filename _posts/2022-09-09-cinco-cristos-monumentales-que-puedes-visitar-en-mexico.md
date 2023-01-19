@@ -25,7 +25,7 @@ Desde hace 500 años, en **México** existe un profundo arraigo **católico** qu
 
 Conozcamos algunas de estas **estatuas gigantescas**, las cuales muchas veces son visibles desde lejos, y que son centros de peregrinaje de miles de fieles católicos que acuden a sus pies a refrendar su fe o a hacer alguna petición a Jesús, el resucitado.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Santuarios religiosos para visitar en México.**](https://blog.tonoysumariachi.com/turismo/2022/07/15/santuarios-religiosos-para-visitar-en-mexico.html)
 
 ## Cristo Rey
 

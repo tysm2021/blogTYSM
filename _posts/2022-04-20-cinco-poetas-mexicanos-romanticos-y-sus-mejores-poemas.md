@@ -13,18 +13,17 @@ title: Cinco poetas mexicanos románticos y sus mejores poemas
 author: Francisco Massé
 cover: "/images/2022-04-20-manuelacuna.png"
 categories: CULTURA
-categories: CIENCIAS
 tags: cultura literatura poesía
 show_author_profile: false
 comment: false
-summary: Si quieres dedicarle un poema a tu persona amada, aquí te recomendamos cinco
+summary:
+  Si quieres dedicarle un poema a tu persona amada, aquí te recomendamos cinco
   de los mejores…
-
 ---
 
-Si lo que buscas son unos textos para arrancar suspiros o ayudarte a conquistar a alguien, aquí te recomendamos a **cinco notables poetas románticos mexicanos.**
+Si lo que buscas son unos buenos y sentidos **poemas** para arrancar suspiros o ayudarte a conquistar a alguien, aquí te recomendamos a **cinco notables poetas románticos mexicanos.**
 
-#### Manuel Acuña (1849-1873)
+### Manuel Acuña (1849-1873)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Manuel_Acu%C3%B1a.jpg/676px-Manuel_Acu%C3%B1a.jpg)
 
@@ -41,9 +40,9 @@ Este poeta originario de Saltillo es el primero que viene a la mente si hablamos
 > te imploro y te hablo en nombre
 > de mi última ilusión._
 
-TE PUEDE INTERESAR:
+**TE RECOMENDAMOS:** [**Cinco escritores mexicanos del siglo XX que no te puedes perder.**](https://blog.tonoysumariachi.com/cultura/2022/08/29/cinco-escritores-mexicanos-del-siglo-xx-que-no-te-puedes-perder.html)
 
-#### Amado Nervo (1870-1919)
+### Amado Nervo (1870-1919)
 
 ![](https://cdn.zendalibros.com/wp-content/uploads/2018/03/poemas-de-amado-nervo.jpg)
 
@@ -59,7 +58,7 @@ El nativo de Tepic, Nayarit, no podría ser más distinto del poeta anterior: si
 > comunión del amor, tu boca joven;
 > pero hay algo mejor aún: ¡tu alma!_
 
-#### Sor Juana Inés de la Cruz (1648-1695)
+### Sor Juana Inés de la Cruz (1648-1695)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5a/Sor_Juana_by_Miguel_Cabrera_%28cropped%29.jpg)
 
@@ -83,11 +82,11 @@ Llama la atención que, tratándose de una religiosa, **Sor Juana Inés** se enc
 > de quien no quiero, ser violento empleo,
 > que de quien no me quiere, vil despojo._
 
-#### Jaime Sabines (1926-1999)
+### Jaime Sabines (1926-1999)
 
 ![](https://cdn.zendalibros.com/wp-content/uploads/2018/10/yo-no-lo-se-d-e-cierto-jaime-sabines.jpg)
 
-El nativo de Tuxtla Gutiérrez es infaltable en la lista de los poetas mexicanos románticos y, también, uno de los más socorridos cuando se trata de hallar inspiración o de sufrir por el mal de amores. De joven fue vendedor de telas en el almacén de su hermano y escribía poesía por las noches, hasta que poco a poco fue ganando reconocimiento en los círculos literarios por poemas como **“Los amorosos”**:
+El nativo de Tuxtla Gutiérrez es infaltable en la lista de los **poetas** **mexicanos** **románticos** y, también, uno de los más socorridos cuando se trata de hallar inspiración o de sufrir por el mal de amores. De joven fue vendedor de telas en el almacén de su hermano y escribía poesía por las noches, hasta que poco a poco fue ganando reconocimiento en los círculos literarios por poemas como **“Los amorosos”**:
 
 > _Los amorosos buscan,
 > los amorosos son los que abandonan,
@@ -99,7 +98,7 @@ El nativo de Tuxtla Gutiérrez es infaltable en la lista de los poetas mexicanos
 > entregándose, dándose a cada rato,
 > llorando porque no salvan al amor._
 
-#### Pita Amor (1918-2000)
+### Pita Amor (1918-2000)
 
 ![](/images/2022-04-20-pita.jpeg)
 

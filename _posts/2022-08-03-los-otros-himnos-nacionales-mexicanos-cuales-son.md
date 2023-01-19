@@ -21,11 +21,11 @@ show_author_profile: false
 comment: false
 ---
 
-Todos sabemos que la noche del 15 de septiembre de 1854, durante una de las tantas presidencias de Antonio López de Santa Anna, se estrenó oficialmente en **Himno Nacional Mexicano**, cuya letra fue escrita por el poeta potosino Francisco González Bocanegra y su música corrió a cargo del español Jaime Nunó. Pero también sabemos que hay canciones y composiciones musicales que, aunque no sean oficiales, son considerados casi **segundos himnos nacionales** por un gran número de **mexicanos**.
+Todos sabemos que la noche del 15 de septiembre de 1854, durante una de las tantas presidencias de Antonio López de Santa Anna, se estrenó oficialmente en **Himno Nacional Mexicano**, cuya letra fue escrita por el poeta potosino Francisco **González Bocanegra** y su música corrió a cargo del español **Jaime Nunó**. Pero también sabemos que hay canciones y composiciones musicales que, aunque no sean oficiales, son considerados casi **segundos himnos nacionales** por un gran número de **mexicanos**.
 
 A continuación, un breve recuento de estas canciones que nos representan en el extranjero y que son capaces de sacar de lo más recóndito de nuestro ser el espíritu **patriótico** y el amor por **México** que se nos inculcó desde muy pequeños.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Himno Nacional Mexicano: historia de su letra y música**](https://blog.tonoysumariachi.com/mexicanisimos/2022/07/26/himno-nacional-mexicano-historia-de-su-letra-y-musica.html)**.**
 
 ## Cielito lindo
 
@@ -55,4 +55,4 @@ Dicen los que han estudiado o trabajado en el extranjero, que su melancólica le
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ec/Marcha_Arechiga.jpg)
 
-La última composición considerada un "s**egundo himno nacional mexicano**" es esta marcha que proviene del centro geográfico de México y fue compuesta por el zacatecano **Genaro Codina**. Oficialmente es el himno del estado de Zacatecas y en origen se llamaba "Marcha Aréchiga" en honor al entonces gobernador del estado, Jesús Aréchiga; fue compuesta en el año 1892 y estrenada al año siguiente por la banda del estado, dirigida por el maestro Fernando Villalpando, quien también realizó la instrumentación. Por su ritmo marcial, es muy frecuente su uso en desfiles militares u oficiales, así como dentro de la charrería mexicana.
+La última composición considerada un "**segundo himno nacional mexicano**" es esta marcha que proviene del centro geográfico de México y fue compuesta por el zacatecano **Genaro Codina**. Oficialmente es el himno del estado de Zacatecas y en origen se llamaba "Marcha Aréchiga" en honor al entonces gobernador del estado, Jesús Aréchiga; fue compuesta en el año 1892 y estrenada al año siguiente por la banda del estado, dirigida por el maestro Fernando Villalpando, quien también realizó la instrumentación. Por su ritmo marcial, es muy frecuente su uso en desfiles militares u oficiales, así como dentro de la charrería mexicana.

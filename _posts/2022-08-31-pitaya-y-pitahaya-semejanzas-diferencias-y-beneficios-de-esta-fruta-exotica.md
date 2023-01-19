@@ -25,7 +25,7 @@ Las hemos visto en tianguis, mercados y tiendas de autoservicio, y a menudo uno 
 
 Lo que sí es un hecho es que, aunque sus nombres pueden confundirnos, ambas **frutas** se consideran "**exóticas**" y son igualmente deliciosas y nutritivas.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Xoconostle: el colorido fruto del nopal, sus usos y beneficios**](https://blog.tonoysumariachi.com/gastronomia/2022/11/29/xoconostle-el-colorido-fruto-del-nopal-sus-usos-y-beneficios.html)**.**
 
 Las **pitayas** y las **pitahayas** son frutas consideradas exóticas y son nativas de algunas regiones de México y de América Central; tienen un origen común, pero son diferentes. Su nombre proviene de la lengua antillana y significa "**fruta** escamosa", aunque en otros lugares se les conoce como frutas del dragón o _dragonfruits_, en inglés. Para los biólogos, ambas pertenecen a la familia de las _Cactaceae_, pero pertenecen a géneros distintos: la pitahaya pertenece al género _Hylocereus_ y la pitaya, al _Selenicereus_.
 
