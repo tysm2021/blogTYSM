@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-06-09-1280px-louvre_courtyard-_looking_west.jpeg"
 sharing: true
 title: "¿Cuáles son museos más visitados del mundo, antes y después de la pandemia?"
-summary: Si te gusta el arte y la cultura, y pudieras hacer un viaje alrededor del
+summary:
+  Si te gusta el arte y la cultura, y pudieras hacer un viaje alrededor del
   mundo, ¿cuáles de estos populares museos visitarías?
 cover: "/images/2022-06-09-1280px-louvre_courtyard-_looking_west.jpeg"
 tags: cultura turismo viajes museos
 show_author_profile: false
 comment: false
-
 ---
+
 Para quienes tienen el deseo de viajar por el **mundo**, aunque sea de forma virtual, sin duda los **museos** son uno de los destinos favoritos. Y, de todos los que existen, ¿sabes cuáles son **los más visitados** por los turistas de todo el **mundo**, **antes** y **después** de la **pandemia**?
 
 Acá va una lista de los recintos que **más visitantes** recibieron al año, considerando que algunos de ellos permanecieron cerrados durante casi todo 2020 y 2021, debido a la **pandemia** por covid de la cual el mundo apenas está recuperándose.
@@ -75,15 +73,15 @@ El quinto lugar de este breve conteo lo ocupa este museo de rancio abolengo, ded
 
 ¿Y ahora, cómo están las cosas? Debido a los cierres y confinamientos, sobre todo en ciudades chinas, europeas y estadounidenses, las cosas cambiaron muchísimo. Aquí va la lista actualizada, con cifras del número de visitantes reportados en 2021:
 
- 1. Museo del Louvre (París, Francia) 2'825,000
- 2. Museo Ruso (San Petersburgo, Rusia) 2'260,231
- 3. Museo de Arte Multimedia (Moscú, Rusia) 2'242,405
- 4. Museo Metropolitano de Arte (Nueva York, EUA) 1'958,000
- 5. Galería de los Uffizi (Florencia, Italia) 1'721,637
- 6. Galería Nacional de Arte (Washington D.C., EUA) 1'704,606
- 7. Museo del Hermitage (San Petersburgo, Rusia) 1'649,443
- 8. Museo Reina Sofía (Madrid, España) 1'643,000
- 9. Museos del Vaticano (Ciudad del Vaticano) 1'612,530
+1.  Museo del Louvre (París, Francia) 2'825,000
+2.  Museo Ruso (San Petersburgo, Rusia) 2'260,231
+3.  Museo de Arte Multimedia (Moscú, Rusia) 2'242,405
+4.  Museo Metropolitano de Arte (Nueva York, EUA) 1'958,000
+5.  Galería de los Uffizi (Florencia, Italia) 1'721,637
+6.  Galería Nacional de Arte (Washington D.C., EUA) 1'704,606
+7.  Museo del Hermitage (San Petersburgo, Rusia) 1'649,443
+8.  Museo Reina Sofía (Madrid, España) 1'643,000
+9.  Museos del Vaticano (Ciudad del Vaticano) 1'612,530
 10. Galería Tretyakov (Moscú, Rusia) 1'580,819
 
 ¿Qué te parece? Cómo cambian las cosas, ¿no es así?…

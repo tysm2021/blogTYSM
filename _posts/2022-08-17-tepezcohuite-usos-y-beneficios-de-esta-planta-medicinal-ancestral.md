@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-08-17-1280px-mimosa-tenuiflora-jurema-yellow.jpeg"
 sharing: true
-title: 'Tepezcohuite: usos y beneficios de esta planta medicinal ancestral'
-summary: 'A mediados de la década de 1980, una tragedia llevó a la fama esta planta
-  medicinal: conozcamos sus usos tradicionales y en la medicina '
+title: "Tepezcohuite: usos y beneficios de esta planta medicinal ancestral"
+summary:
+  "A mediados de la década de 1980, una tragedia llevó a la fama esta planta
+  medicinal: conozcamos sus usos tradicionales y en la medicina "
 cover: "/images/2022-08-17-1280px-mimosa-tenuiflora-jurema-yellow.jpeg"
 tags: medicina plantas folclor
 show_author_profile: false
 comment: false
-
 ---
+
 Hace algunas décadas, una tragedia de grandes dimensiones trajo a la luz esta **planta** ancestral, que dentro de la **herbolaria** y la **medicina tradicional** durante siglos ha servido para tratar **quemaduras** y diversas **enfermedades** o afecciones de la **piel**. ¿Qué es el **tepezcohuite**, **para qué sirve** y cuáles son sus **usos** y **beneficios**? A continuación te lo contamos.
 
 Aunque actualmente es un **remedio** conocido que se puede encontrar en forma de pomada casi cualquier farmacia o en negocios de **herbolaria** y **medicina** **alternativa**, fue hasta hace relativamente poco que su **uso** se popularizó. Aquí te compartimos la historia…

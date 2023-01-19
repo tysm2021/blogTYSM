@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-11-14-1024px-fachada_frontal_de_la_catedral_de_zacatecas-_zac.jpeg"
 sharing: true
-title: 'Zacatecas: esplendorosa ciudad colonial en el centro exacto de México'
-summary: Si quieres conocer una hermosa ciudad colonial, con edificios de cantera
+title: "Zacatecas: esplendorosa ciudad colonial en el centro exacto de México"
+summary:
+  Si quieres conocer una hermosa ciudad colonial, con edificios de cantera
   rosa, joyerías, un teleférico, museos y otros atractivos, Zacatecas es para ti
 cover: "/images/2022-11-14-1024px-fachada_frontal_de_la_catedral_de_zacatecas-_zac.jpeg"
 tags: turismo viajes ciudades
 show_author_profile: false
 comment: false
-
 ---
+
 La **ciudad** de **Zacatecas** es capital del estado del mismo nombre, ubicado en el centro exacto de la República Mexicana, así como cabecera municipal del estado homónimo. En algún tiempo fue una de las ciudades más ricas del país y hoy, como ciudad colonial, sigue siendo un gran **destino turístico** para el visitante, con numerosos **atractivos** **culturales**, **gastronómicos** y **arquitectónicos**. Demos un breve recorrido y veamos **qué hacer**, a **dónde ir**, **qué comer** y **qué comprar** en esta hermosa ciudad.
 
 La historia de **Zacatecas** empieza con la de los pueblos zacatecas, una tribu chichimeca que se estableció en el valle que hoy ocupa la ciudad. Tras la Conquista, en el año de 1546 el explorador **Juan de Tolosa** descubrió en la región ricos yacimientos de plata, lo que dio lugar a la fundación del Real de Minas de Nuestra Señora de los Zacatecas, el cual en 1588 fue nombrada "Muy Noble y Muy Leal Ciudad" por el rey Felipe II de España, en virtud de las grandes riquezas con las que proveyó a la corona española.
@@ -35,7 +33,7 @@ Debido a los beneficios obtenidos por la extracción de plata en sus minas, en a
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Catedral%2C_Arquitectura_Colonial%2C_Zacatecas_%2816461248359%29.jpg/1024px-Catedral%2C_Arquitectura_Colonial%2C_Zacatecas_%2816461248359%29.jpg)
 
-En el Centro Histórico de la ciudad se encuentra esta joya del estilo barroco churrigueresco mexicano, la cual está catalogada dentro de la Lista del Patrimonio Mundial de la UNESCO. La actual **Catedral de Zacatecas** —dedicada a al Virgen de la Asunción—  empezó a construirse a mediados del siglo XVIII y tomó mas de cien años para completarse. Destaca por su fachada realizada en cantera rosa, la cual está construida en tres cuerpos con motivos vegetales y motivos de ángeles y de la vida de los santos; se dice que las tonalidades de la cantera van variando a lo largo del día, y al ser iluminada por las noches ofrece al viajero una vista espectacular.
+En el Centro Histórico de la ciudad se encuentra esta joya del estilo barroco churrigueresco mexicano, la cual está catalogada dentro de la Lista del Patrimonio Mundial de la UNESCO. La actual **Catedral de Zacatecas** —dedicada a al Virgen de la Asunción— empezó a construirse a mediados del siglo XVIII y tomó mas de cien años para completarse. Destaca por su fachada realizada en cantera rosa, la cual está construida en tres cuerpos con motivos vegetales y motivos de ángeles y de la vida de los santos; se dice que las tonalidades de la cantera van variando a lo largo del día, y al ser iluminada por las noches ofrece al viajero una vista espectacular.
 
 ### Museo Rafael Coronel
 
@@ -53,7 +51,7 @@ Al este del Centro Histórico de **Zacatecas** se encuentra una elevación natur
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d6/Mina_El_Ed%C3%A9n_Zacatecas_M%C3%A9xico.jpg)
 
-¿Recuerdas que dijimos que **Zacatecas** fue una urbe opulenta  gracias a la explotación de la plata? Pues gran parte de la fama de la ciudad se debe al noble metal que fue extraído de esta **mina**, la cual estuvo en funciones desde el siglo XVI hasta la década de 1960, cuando se agotó y fue abandonada. Hoy, para recordar los tiempos del esplendor minero zacatecano, puedes visitarla y recorrer dos kilómetros de túneles y galerías excavados del **Cerro del Grillo**. Y si lo tuyo es "el reventón", podrás darle rienda suelta a tus ganas de bailar y divertirte en el **Mina Club**, una discoteca que está abierta de las 10 de la noche a las 3 de la mañana del día siguiente.
+¿Recuerdas que dijimos que **Zacatecas** fue una urbe opulenta gracias a la explotación de la plata? Pues gran parte de la fama de la ciudad se debe al noble metal que fue extraído de esta **mina**, la cual estuvo en funciones desde el siglo XVI hasta la década de 1960, cuando se agotó y fue abandonada. Hoy, para recordar los tiempos del esplendor minero zacatecano, puedes visitarla y recorrer dos kilómetros de túneles y galerías excavados del **Cerro del Grillo**. Y si lo tuyo es "el reventón", podrás darle rienda suelta a tus ganas de bailar y divertirte en el **Mina Club**, una discoteca que está abierta de las 10 de la noche a las 3 de la mañana del día siguiente.
 
 ### Templo de Nuestra Señora de Fátima
 

@@ -7,25 +7,23 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-09-20-panama_canal_trip_1994_01.jpeg"
 sharing: true
-title: 'Canal de Panamá: maravilla de la ingeniería moderna'
-summary: En la parte más angosta del continente americano se encuentra esta obra de
+title: "Canal de Panamá: maravilla de la ingeniería moderna"
+summary:
+  En la parte más angosta del continente americano se encuentra esta obra de
   ingeniería civil e hidráulica que conecta el Océano Pacífico con el Mar Caribe
 cover: "/images/2022-09-20-panama_canal_trip_1994_01.jpeg"
 tags: mundo paises datos
 show_author_profile: false
 comment: false
-
 ---
+
 En América Central, ubicado justamente en la parte más estrecha del **Istmo de Panamá**, se encuentra el **Canal de Panamá**, una construcción que es considerada una de las más grandes obras de la **ingeniería** mundial del siglo XX y que permite el paso de embarcaciones de gran envergadura del Océano Pacífico al Océano Atlántico, a través del Mar Caribe, conectando ambos lados del continente americano.
 
-Conozcamos un poco de la historia, el funcionamiento y algunos  otros datos de esta gigantesca construcción, que es una de las maravillas de la hidráulica contemporánea.
+Conozcamos un poco de la historia, el funcionamiento y algunos otros datos de esta gigantesca construcción, que es una de las maravillas de la hidráulica contemporánea.
 
 **TE RECOMENDAMOS:** [**¿Cuáles son los países más pequeños del mundo?**](https://blog.tonoysumariachi.com/mundo/2022/08/29/cuales-son-los-paises-mas-pequenos-del-mundo.html)
 

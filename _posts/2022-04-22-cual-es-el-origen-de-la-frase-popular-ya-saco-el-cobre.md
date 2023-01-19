@@ -5,11 +5,8 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-22-gold-1633073_1280.jpeg"
 sharing: true
 title: "¿Cuál es el origen de la frase popular “Ya sacó el cobre”?"
@@ -20,10 +17,11 @@ subcategorie: ASIHABLAMOS
 tags: méxico lenguaje frases
 show_author_profile: false
 comment: false
-summary: Conoce la historia de esta expresión popular y en qué casos se utiliza en
+summary:
+  Conoce la historia de esta expresión popular y en qué casos se utiliza en
   el habla cotidiana de México.
-
 ---
+
 Los mexicanos somos muy curiosos: a veces, cuando queremos decir algo pero preferimos no hacerlo directamente, recurrimos a una **frase** pintoresca o a una **expresión popular** que ilustra mejor nuestro sentir. Ese es el caso de “**Ya sacó el cobre**”, la cual tiene un **origen** enclavado en la **historia** y en los tiempos de cuando en **México** se acuñaban monedas de metales preciosos… y de otros no tanto.
 
 Aquí te contamos el **significado**, el **origen** y la **historia** de esta expresión. Desde luego que esta es una de las tantas versiones que existen, y quizás tú conoces alguna otra…

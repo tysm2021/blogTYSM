@@ -7,23 +7,21 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-06-14-corteshernan.jpg"
 sharing: true
-title: "¿Dónde está la tumba de Hernán Cortés? ¿En México o en España?"
-summary: "¿Tienes idea de dónde quedaron los restos del conquistador español, luego
+title: "¿Dónde está la tumba de Hernán Cortés?"
+summary:
+  "¿Tienes idea de dónde quedaron los restos del conquistador español, luego
   de su muerte en 1547?"
 cover: "/images/2022-06-14-cortes-_la_llegada.jpeg"
 tags: virreinato colonia personajes lugares
 show_author_profile: false
 comment: false
-
 ---
-**Hernán Cortés**, todos los sabemos, fue un **conquistador** **español** que entre 1520 y 1521 logró vencer al Imperio Mexica y sometió la ciudad de México-Tenochtitlán, culminando así la etapa conocida como Conquista de México. Pero, tras su muerte en 1547, ¿**dónde** está la **tumba** de **Cortés**? ¿En algún lugar de **México** o en su natal **España**, donde murió?
+
+**Hernán Cortés**, todos los sabemos, fue un conquistador español que entre 1520 y 1521 logró vencer al Imperio Mexica y sometió la ciudad de México-Tenochtitlán, culminando así la etapa conocida como Conquista de México. Pero, tras su muerte en 1547, ¿**dónde** está la **tumba** de **Cortés**?
 
 A continuación te compartimos un breve recuento de los distintos lugares por donde pasó los **restos** del **conquistador** extremeño, así como la **ubicación** actual de su **tumba**, que por cierto hoy en día casi pasa desapercibida.
 
@@ -39,7 +37,7 @@ Entonces, el primero de sus múltiples entierros tuvo lugar en el monasterio de 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Templo_del_hospitald_de_jesus.jpg/1024px-Templo_del_hospitald_de_jesus.jpg)
 
-Así fue que la **Iglesia de Jesús Nazareno** —actualmente ubicada en la esquina de las calles de República del Salvador y Pino Suárez, donde supuestamente tuvo lugar el primer encuentro de Cortés con Moctezuma— fue elegida para ser el último descanso del **conquistador**, quien fue nuevamente sepultado enmedio de una gran ceremonia en la que su tumba se coronó con un mausoleo y, en el medio, con un busto de "don Hernando".
+Así fue que la **Iglesia de Jesús Nazareno** —actualmente ubicada en la esquina de las calles de República del Salvador y Pino Suárez, donde supuestamente tuvo lugar el primer encuentro de Cortés con Moctezuma— fue elegida para ser el último descanso del conquistador, quien fue nuevamente sepultado enmedio de una gran ceremonia en la que su tumba se coronó con un mausoleo y, en el medio, con un busto de "don Hernando".
 
 **TE RECOMENDAMOS:** [**27 de septiembre de 1821: Consumación de la Independencia de México.**](https://blog.tonoysumariachi.com/historia/2022/08/15/27-de-septiembre-de-1821-consumacion-de-la-independencia-de-mexico.html)
 

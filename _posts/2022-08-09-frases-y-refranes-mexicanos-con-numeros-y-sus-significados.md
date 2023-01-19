@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-08-09-1280px-bingo_numbers_-red.jpeg"
 sharing: true
 title: Frases y refranes mexicanos con números y sus significados
-summary: Los mexicanos tenemos dichos para todo. Por eso, hoy te compartimos algunos
+summary:
+  Los mexicanos tenemos dichos para todo. Por eso, hoy te compartimos algunos
   que usan números, y sus significados
 cover: "/images/2022-08-09-1280px-bingo_numbers_-red.jpeg"
 tags: folclor lenguaje frases
 show_author_profile: false
 comment: false
-
 ---
+
 La sabiduría popular del pueblo **mexicano** es inagotable: entre nuestros **dichos**, **refranes** y **expresiones populares** tenemos al menos uno que se acomoda a cualquier situación, queja o contratiempo. Por eso, hoy te compartimos los **significados** de algunas **frases** que usan **números**… en este caso del uno al diez (o hasta el once, ya verás por qué), porque también algunas que afirman que "nos cae el veinte" o que uno "se siente al cien".
 
 En algunos casos, la **frase** se explica por sí sola, pero en otros se trata de juegos de palabras o de **expresiones** de antaño que con el paso del tiempo hemos dejado de comprender. A ver qué te parecen…

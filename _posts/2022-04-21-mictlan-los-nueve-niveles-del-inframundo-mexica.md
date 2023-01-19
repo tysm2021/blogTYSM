@@ -5,25 +5,23 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-21-1280px-la_leyenda_de_mictlantecuhtli.jpeg"
 sharing: true
-title: 'Mictlán: los nueve niveles del inframundo mexica'
+title: "Mictlán: los nueve niveles del inframundo mexica"
 author: Francisco Massé
 cover: "/images/2022-04-21-1280px-la_leyenda_de_mictlantecuhtli.jpeg"
 categories: HISTORIA
 tags: historia arqueologia mitologia mexicas prehispanico
 show_author_profile: false
 comment: false
-summary: "¿Sabías que, para los mexicas o aztecas, los muertos debían atravesar nueve
+summary:
+  "¿Sabías que, para los mexicas o aztecas, los muertos debían atravesar nueve
   niveles en el inframundo?"
 subcategorie: PREHISPANICOYCOLONIAL
-
 ---
+
 En la religión de los antiguos **mexicas**, comúnmente conocidos como “**aztecas**”, el destino de los **muertos** estaba dictado por la forma en que morían. Las mujeres que morían de parto, los guerreros y quienes perecían ahogados o alcanzados por un rayo tenían un mejor destino que los que morían plácidamente en sus casas. De cualquier modo, todos ellos tenían que atravesar **nueve niveles del inframundo** o **reino de los muertos**, al que conocían como **Mictlán**.
 
 A continuación, te describimos cada uno de **los nueve niveles** con sus **nombres** y sus **significados**, así como las pruebas que tenían que superar las almas de los difuntos antes de alcanzar el descanso eterno.

@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-09-05-1280px-pozole-1.jpg"
 sharing: true
 title: El sangriento origen de nuestro querido pozole
-summary: "¿Sabías que, en su origen prehispánico, nuestro delicioso pozole incluía
+summary:
+  "¿Sabías que, en su origen prehispánico, nuestro delicioso pozole incluía
   entre sus ingredientes la carne humana?"
 cover: "/images/2022-09-05-1280px-pozole.jpg"
 tags: historia comida platillos prehispanico
 show_author_profile: false
 comment: false
-
 ---
+
 Llegando el mes de septiembre, millones de mexicanos empiezan a saborearse el clásico **pozole**, que tradicionalmente se elabora con **maíz** y **carne de cerdo**, y que se adereza con chile, limón, orégano, lechuga, rábano y cebolla, acompañado con sus tostadas. Pero, ¿sabías que, en principio, nuestros antepasados **prehispánicos**, en lugar de carne de **puerco**, lo preparaban con **carne humana**?
 
 Enseguida te platicamos un poco sobre el sangriento origen del mexicanísimo **pozole**, un platillo impregnado de tradición y que está relacionado con las prácticas religiosas del pasado prehispánico, que entre otras cosas incluía el **sacrificio humano** y la ingestión de **carne humana.**
@@ -43,6 +41,6 @@ En las crónicas donde se describe esta práctica —que los conquistadores cali
 
 En una publicación del Gobierno de México se dice que **pozole** proviene del náhuatl _pozolli_, palabra que deriva de _tlapozonalli_, que significa 'espumoso'. Aclara, además, que se trata de un caldo elaborado a base de granos de **maíz cacahuazintle**, el cual se precoce durante dos horas para que los granos de maíz pierdan la cáscara fibrosa que los cubre y cuando hierven se abren como flor, lo cual "les da una apariencia de espuma". Asimismo, confirma que este platillo se consumía desde antes de la Conquista y que el mismísmo emperador Moctezuma disfrutaba de él, pues era ofrendado al dios Xipe Tótec, señor de la fertilidad y la regeneración del maíz y la guerra.
 
-Además, en las crónicas realizadas por los frailes españoles se manifiesta que **carne humana** era la que se cocían con el maíz, aunque hay otras versiones que señalan que el pozole no incluía **carne humana**, sino carne de xoloitzcuintle, el famoso "perro pelón" que había sido domesticado y criado para consumo humano. Algunos antropólogos, sin embargo, confirman el sacrificio humano con fines de consumo de la carne del enemigo sacramentado, y especulan que la ceremonia del sacrificio no era sino una aparatosa ceremonia  para disfrazar el auténtico propósito: alimentar a los soldados y a las élites mexicas con proteína animal, en una época en la que la **carne** de res y de **cerdo** aún no existía en nuestras tierras.
+Además, en las crónicas realizadas por los frailes españoles se manifiesta que **carne humana** era la que se cocían con el maíz, aunque hay otras versiones que señalan que el pozole no incluía **carne humana**, sino carne de xoloitzcuintle, el famoso "perro pelón" que había sido domesticado y criado para consumo humano. Algunos antropólogos, sin embargo, confirman el sacrificio humano con fines de consumo de la carne del enemigo sacramentado, y especulan que la ceremonia del sacrificio no era sino una aparatosa ceremonia para disfrazar el auténtico propósito: alimentar a los soldados y a las élites mexicas con proteína animal, en una época en la que la **carne** de res y de **cerdo** aún no existía en nuestras tierras.
 
 Y tú, ¿qué opinas?…

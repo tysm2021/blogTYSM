@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-06-27-carranza.jpeg"
 sharing: true
-title: 'Constituciones de México: lista completa'
-summary: La Constitución que nos rige se promulgó en 1917; antes de eso, ¿cuántas
+title: "Constituciones de México: lista completa"
+summary:
+  La Constitución que nos rige se promulgó en 1917; antes de eso, ¿cuántas
   versiones previas tuvimos?
 cover: "/images/2022-06-27-carranza.jpeg"
 tags: sigloXX efemerides personajes
 show_author_profile: false
 comment: false
-
 ---
+
 Todos los que fuimos a la primaria aprendimos que la **Constitución Política de los Estados Unidos Mexicanos** se promulgó el **5 de febrero de 1917** por el congreso constituyente del presidente **Venustiano Carranza**. Pero, antes de ese documento, ¿**cuántas** **constituciones** tuvimos en **México**?
 
 Aquí va un recuento de las cartas magnas —como también se les conoce a las **constituciones políticas**— que han tenido validez legal en nuestro país, incluso desde los tiempos en que éramos un colonia española y durante los años que duró la Guerra de Independencia.
@@ -49,7 +47,7 @@ El Imperio Mexicano tuvo muy corta vida, pues por presiones de la mayoría que a
 
 ## Constitución Federal (1824)
 
-La primera constitución en forma de nuestro país se promulgó el  4 de octubre de 1824 con el nombre de **Constitución Federal de los Estados Unidos Mexicanos**, que nombraba como forma de gobierno la república federal, representativa y popular, al tiempo que mantenía los principios de intolerancia religiosa y división de poderes. Fue jurada por el primer presidente mexicano, **Guadalupe Victoria**, con **Nicolás Bravo** como vicepresidente.
+La primera constitución en forma de nuestro país se promulgó el 4 de octubre de 1824 con el nombre de **Constitución Federal de los Estados Unidos Mexicanos**, que nombraba como forma de gobierno la república federal, representativa y popular, al tiempo que mantenía los principios de intolerancia religiosa y división de poderes. Fue jurada por el primer presidente mexicano, **Guadalupe Victoria**, con **Nicolás Bravo** como vicepresidente.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Guadalupe_Victoria_-_02.jpg)
 

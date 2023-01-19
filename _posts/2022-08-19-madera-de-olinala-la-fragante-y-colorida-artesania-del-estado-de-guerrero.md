@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-08-19-1280px-baul_de_madera_con_base_de_olinala-_guerrero-_mexico.jpeg"
 sharing: true
-title: 'Madera de Olinalá: fragante y colorida artesanía del estado de Guerrero'
-summary: 'Se distingue por sus colores y por el peculiar aroma que despide: conoce
-  la madera de Olinalá y las hermosas artesanías que se hacen con ella'
+title: "Madera de Olinalá: fragante y colorida artesanía del estado de Guerrero"
+summary:
+  "Se distingue por sus colores y por el peculiar aroma que despide: conoce
+  la madera de Olinalá y las hermosas artesanías que se hacen con ella"
 cover: "/images/2022-08-19-1280px-baul_de_madera_con_base_de_olinala-_guerrero-_mexico.jpeg"
 tags: artesania guerrero folclor
 show_author_profile: false
 comment: false
-
 ---
+
 Esta **artesanía** resulta inconfundible: a menudo se trata de **cajas** de distintos tamaños — aunque también pueden ser otros objetos— que se distinguen por sus vibrantes colores, por sus diseños con flores y otros elementos naturales y, sobre todo, por el fragante y delicioso olor que despide la **madera** cuando abres una de ellas. Proviene de una población del estado de **Guerrero**, donde abundan los árboles que proveen de la aromática materia prima, y se le conoce como **madera de Olinalá.** ¿Conoces su **origen**?
 
 Enseguida te platicamos un poco acerca de esta notable artesanía mexicana, la cual —dependiendo del tamaño y la complejidad de la obra— puede resultar en piezas cuyo costo va de los 10 mil hasta los 200 mil pesos. Pero vamos por partes…

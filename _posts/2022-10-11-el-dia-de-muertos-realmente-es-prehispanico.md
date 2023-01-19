@@ -7,23 +7,21 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-10-11-1280px-panteon_dia_de_muertos.jpeg"
 sharing: true
 title: El Día de Muertos, ¿realmente es prehispánico?
-summary: Mucho se habla de que el Día de Muertos que conmemoramos los mexicanos tiene
+summary:
+  Mucho se habla de que el Día de Muertos que conmemoramos los mexicanos tiene
   sus raíces en las tradiciones prehispánicas, ¿qué dicen los historiadores sobre
   esto?
 cover: "/images/2022-10-11-1280px-panteon_dia_de_muertos.jpeg"
 tags: folclor tradiciones mexico
 show_author_profile: false
 comment: false
-
 ---
+
 Una de las conmemoraciones que une a prácticamente todos los **mexicanos**, desde la Baja California hasta la península de Yucatán, es la **tradición** del **Día de Muertos**, que se celebra entre el 1 y el **2 noviembre** en casi todo el país. Y se dice que esta conmemoración tiene sus raíces en tradiciones **prehispánicas** y en el culto que los antiguos pueblos de **México** hacían a sus **difuntos**, el cual incluía al copal y a la flor de cempasúchitl. Pero, ¿qué tan **cierto** es esto? ¿Qué opinan los historiadores y los estudiosos sobre el **origen** y la **historia** del **Día de Muertos**?
 
 A continuación, revisaremos algunas posturas sobre los **orígenes** de la **tradición** del **Día de Muertos**, tanto las que afirman que se trata de un ritual con raíces **prehispánicas**, como quienes desmienten esto y sostienen que su origen tiene más que ver con el **catolicismo** que se impuso en nuestro país tras la Conquista española.

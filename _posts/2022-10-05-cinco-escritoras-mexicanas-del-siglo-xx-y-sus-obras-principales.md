@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-10-05-1280-eliott-reyna-kct-7cirbew-unsplash.jpeg"
 sharing: true
 title: Cinco escritoras mexicanas del siglo XX y sus obras principales
-summary: En este artículo te presentamos a algunas autoras nacidas en México, además
+summary:
+  En este artículo te presentamos a algunas autoras nacidas en México, además
   de algunos de sus libros más famosos, entre cuentos, novelas y poesía…
 cover: "/images/2022-10-05-1280-eliott-reyna-kct-7cirbew-unsplash.jpeg"
 tags: cultura literatura autores novelas cuentos
 show_author_profile: false
 comment: false
-
 ---
+
 En el panorama de la **literatura** **mexicana**, normalmente se destaca la obra de **autores** mundialmente reconocidos como Octavio Paz, Carlos Fuentes, Juan José Arreola o Juan Rulfo. Pero, ¿qué hay de las **escritoras** **mexicanas** y de sus **obras**? Para que conozcas a algunas de las **autoras** más **famosas** de **cuentos**, **novelas** y **poesía** en **México**, a continuación brevemente te presentamos a **cinco** **literatas** de nuestro país cuyos **libros** son más que recomendables.
 
 **TE RECOMENDAMOS:** [**Inventores mexicanos famosos y sus inventos**](https://blog.tonoysumariachi.com/cultura/2022/04/25/inventores-mexicanos-famosos-y-sus-inventos.html)**.**
@@ -41,7 +39,7 @@ A esta famosa escritora —también poblana y nacida en 1949— se le reconoce s
 
 ## Rosario Castellanos
 
-Nacida en 1925 y fallecida en 1974, es considerada una de las más grandes escritoras del siglo XX. Su obra trata de temas políticos y tiene claros tintes feministas. Su primera novela, _Balún Canán_ (1957), tiene lugar en Chiapas, donde ella pasó gran parte de su infancia y adolescencia en la hacienda familiar. También destacan _Ciudad Real_ (1960), un libro de cuentos, y _Oficio de tiniebla_s (1962). Además está su vasta producción poética. También era diplomática y falleció en Tel Aviv, Israel, al recibir accidentalmente un descarga eléctrica por salir a contestar el teléfono a mitad de un baño. Tenía 49 años.
+Nacida en 1925 y fallecida en 1974, es considerada una de las más grandes escritoras del siglo XX. Su obra trata de temas políticos y tiene claros tintes feministas. Su primera novela, _Balún Canán_ (1957), tiene lugar en Chiapas, donde ella pasó gran parte de su infancia y adolescencia en la hacienda familiar. También destacan _Ciudad Real_ (1960), un libro de cuentos, y \_Oficio de tiniebla_s (1962). Además está su vasta producción poética. También era diplomática y falleció en Tel Aviv, Israel, al recibir accidentalmente un descarga eléctrica por salir a contestar el teléfono a mitad de un baño. Tenía 49 años.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/81/Rosario_Castellanos_conversa_sentada_tras_un_escritorio%2C_retrato.png)
 

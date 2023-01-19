@@ -5,11 +5,8 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-21-1280px-mulata.jpeg"
 sharing: true
 title: La escalofriante leyenda de la Mulata de Córdoba
@@ -20,10 +17,11 @@ subcategorie: ASISOMOS
 tags: leyendas folclor méxico colonial
 show_author_profile: false
 comment: false
-summary: El México colonial estuvo lleno de maravillosas y espeluznantes leyendas
+summary:
+  El México colonial estuvo lleno de maravillosas y espeluznantes leyendas
   como esta, sobre una hermosa bruja…
-
 ---
+
 Desde tiempos muy remotos, en nuestro país han circulado una multitud de **leyendas** que hablan de muertos, aparecidos y de sucesos **sobrenaturales** que invariablemente dan una lección o una moraleja. Una de ellas, de tiempos de la **Colonia**, habla de una hermosa **mulata** que vivía en la ciudad de **Córdoba, Veracruz,** para la cual no había prisión que pudiera contenerla.
 
 En seguida, te contamos una de las tantas versiones que circulan sobre esta **leyenda** y sobre los poderes extraordinarios de esa mujer.
@@ -44,4 +42,4 @@ Ante la acusación, los tribunales condenaron a la **mulata** a morir en la hogu
 
 Esa noche, la bella **mulata** le preguntó al guardia: “¿Qué le falta al barco que dibujé”. Y éste le contestó: “Pues que navegue”. Acto seguido, y ante la mirada atónita del carcelero, la mujer respondió: “Pues mira cómo navega”, y de un brinco subió al barco, que emprendió el viaje entre las olas que había dibujado.
 
-A la mañana siguiente, en la celda no había rastro del dibujo ni de la hermosa **mulata**, la cual no fue vista jamás. Escalofriante, ¿no lo crees?…
+A la mañana siguiente, en la celda no había rastro del dibujo ni de la hermosa **mulata**, la cual no fue vista jamás. Escalofriante, ¿no?…

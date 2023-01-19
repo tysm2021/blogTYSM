@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-10-06-dulces_de_puebla.jpeg"
 sharing: true
 title: Dulces poblanos, herencia colonial de los conventos de Puebla
-summary: Desde el Virreinato, las manos de las monjas de conventos poblanos como el
+summary:
+  Desde el Virreinato, las manos de las monjas de conventos poblanos como el
   de Santa Clara han regalado a México numerosas delicias dulces…
 cover: "/images/2022-10-06-dulces_de_puebla.jpeg"
 tags: gastronomia platillos productos postres puebla
 show_author_profile: false
 comment: false
-
 ---
+
 Cuando uno piensa en **dulces típicos**, una de las primeras ciudades que vienen a la mente es **Puebla**, capital del estado del mismo nombre. Y es que hay razones de sobra, pues desde la época **virreinal** y a lo largo de la historia las hábiles **monjas** de clausura de **conventos** como el de **Santa Clara** o el de Santa Mónica han producido verdaderos manjares **dulces** que hacen las delicias de chicos y grandes.
 
 Conozcamos un poco de la gran variedad de **dulces** que son originarios de la "ciudad de los Ángeles", donde además de un soberbio mole, unos deliciosos chiles en nogada o unas cemitas, uno puede deleitarse con estos estupendos postres.

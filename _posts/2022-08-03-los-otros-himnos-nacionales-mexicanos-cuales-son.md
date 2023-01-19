@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-08-03-1280px-mexico_flag_bandera_de_mexico_-esparta.jpeg"
 sharing: true
 title: Los "otros" Himnos Nacionales Mexicanos, ¿cuáles son?
-summary: Todos conocemos el Himno Nacional escrito por González Bocanegra, pero estas
+summary:
+  Todos conocemos el Himno Nacional escrito por González Bocanegra, pero estas
   composiciones le sacan lo patriótico a cualquier mexicano…
 cover: "/images/2022-08-03-1280px-mexico_flag_bandera_de_mexico_-esparta.jpeg"
 tags: folclor méxico musica canciones
 show_author_profile: false
 comment: false
-
 ---
+
 Todos sabemos que la noche del 15 de septiembre de 1854, durante una de las tantas presidencias de Antonio López de Santa Anna, se estrenó oficialmente en **Himno Nacional Mexicano**, cuya letra fue escrita por el poeta potosino Francisco **González Bocanegra** y su música corrió a cargo del español **Jaime Nunó**. Pero también sabemos que hay canciones y composiciones musicales que, aunque no sean oficiales, son considerados casi **segundos himnos nacionales** por un gran número de **mexicanos**.
 
 A continuación, un breve recuento de estas canciones que nos representan en el extranjero y que son capaces de sacar de lo más recóndito de nuestro ser el espíritu **patriótico** y el amor por **México** que se nos inculcó desde muy pequeños.

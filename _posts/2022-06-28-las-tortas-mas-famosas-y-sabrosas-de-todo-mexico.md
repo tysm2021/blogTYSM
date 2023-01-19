@@ -7,23 +7,21 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-06-28-1280px-torta_ahogada.jpeg"
 sharing: true
 title: Las tortas más famosas y sabrosas de todo México
-summary: 'La fórmula es simple: un alimento en medio de un pan blanco; ¿cuáles son
-  las mejores tortas mexicanas?'
+summary:
+  "La fórmula es simple: un alimento en medio de un pan blanco; ¿cuáles son
+  las mejores tortas mexicanas?"
 cover: "/images/2022-06-28-1280px-torta_ahogada.jpeg"
 tags: platillos antojitos
 show_author_profile: false
 comment: false
-
 ---
-A diferencia de otros países, donde "**torta**" es sinónimo del pastel que se comparte cuando alguien cumple años, los mexicanos así le llamamos al **antojito** que consiste en un alimento colocado en medio de un **pan** blanco. Hay desde las más básicas, como la de jamón, hasta verdaderas sofisticaciones como la torta ahogada, pasando por la popularísima "guajolota" capitalina, que es una torta de tamal. Pero, a todo esto, ¿cuáles son las **tortas** más **famosas** y más **sabrosas** de **México**?
+
+A diferencia de otros países, donde "**torta**" es sinónimo del pastel que se comparte cuando alguien cumple años, los mexicanos así le llamamos al **antojito** que consiste en un alimento colocado en medio de un **pan** blanco. Hay desde las más básicas, como la de jamón, hasta verdaderas sofisticaciones como la torta ahogada, pasando por la popularísima "guajolota" capitalina, que es una torta de tamal.
 
 Acá van cinco de las tortas más célebres y disfrutables de todo el país, según los tragones profesionales de Toño y su mariachi. Recordemos que, como siempre pasa en un listado, ni están todas las que son ni son todas las que están.
 
@@ -57,4 +55,4 @@ Si uno viaja a la ciudad de **León**, **Guanajuato**, en una de esas podrá ver
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PambazosDF.JPG/1024px-PambazosDF.JPG)
 
-¡Achis, achis, los mariachis! ¿A poco el **pambazo** de la **Ciudad de México** también es **torta**? Pues sí, ya que cumple con el requisito de ser un platillo colocado entre una base y una tapa de pan. Para los que no lo conozcan, consiste en un pan —justamente llamado pambazo, que es más blanco y suave que una telera, y sin divisiones— que tradicionalmente se baña con una salsa roja de guajillo, se pasa por un comal para que se dore y se rellena de papas con chorizo, lechuga, crema, queso y salsa. Es un platillo nocturno y, ¿a poco no se antoja nomás de imaginárselo?…
+¡Achis, achis, los mariachis! ¿A poco el **pambazo** también es **torta**? Pues sí, ya que cumple con el requisito de ser un platillo colocado entre una base y una tapa de pan. Para los que no lo conozcan, consiste en un pan —justamente llamado pambazo, que es más blanco y suave que una telera, y sin divisiones— que tradicionalmente se baña con una salsa roja de guajillo, se pasa por un comal para que se dore y se rellena de papas con chorizo, lechuga, crema, queso y salsa. Es un platillo nocturno y, ¿a poco no se antoja nomás de imaginárselo?…

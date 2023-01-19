@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-22-pancho_villas_death_mask_-11199646203.jpeg"
 sharing: true
 title: "¿Dónde está o quién tiene la cabeza de Pancho Villa?"
-summary: "¿Sabías que la tumba de Villa fue profanada para cortarle la cabeza, y al
+summary:
+  "¿Sabías que la tumba de Villa fue profanada para cortarle la cabeza, y al
   día de hoy nadie sabe dónde está?"
 cover: "/images/2022-04-22-pancho_villas_death_mask_-11199646203.jpeg"
 tags: revolucion personajes sigloXX
 show_author_profile: false
 comment: false
-
 ---
+
 En la madrugada del 6 de febrero de 1926, el velador del camposanto de Parral, Chihuahua, descubrió que la tumba del **Pancho Villa** había sido profanada y que a su cadáver le habían cortado la **cabeza**. A casi cien años de la muerte del '**Centauro del Norte**', aquí te presentamos algunas de las teorías sobre **quién** fue el **autor** del degollamiento y del posible paradero de su histórica **cabeza**.
 
 Antes de entrar en materia, vale la pena recordar algunos hechos de la vida del revolucionario **Doroteo Arango**, que en algún momento de su vida —y por razones que sólo él conoció con precisión— cambió su nombre por el de **Pancho Villa**.

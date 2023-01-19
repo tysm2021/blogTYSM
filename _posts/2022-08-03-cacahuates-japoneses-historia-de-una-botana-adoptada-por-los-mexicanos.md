@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-08-03-cacahuates_japoneses.jpeg"
 sharing: true
-title: 'Cacahuates japoneses: historia de una botana adoptada por los mexicanos'
-summary: 'Están en cualquier tiendita, en puestos callejeros y como botana en las
-  cantinas: conoce las historia de los cacahuates japoneses '
+title: "Cacahuates japoneses: historia de una botana adoptada por los mexicanos"
+summary:
+  "Están en cualquier tiendita, en puestos callejeros y como botana en las
+  cantinas: conoce las historia de los cacahuates japoneses "
 cover: "/images/2022-08-03-cacahuates_japoneses.jpeg"
 tags: comida botanas recetas
 show_author_profile: false
 comment: false
-
 ---
+
 ¿Conoces la **historia** de los **cacahuates japoneses**, eso que vienen con una especie de cascarita salada que a muchos les encanta y que otros tantos detestan? Quizá te sorprenda saber que en **origen** fueron creados por un migrante **japonés** en la década de 1940, quien además fue padre de un famoso cantante de baladas ochenteras. Aquí te contamos los detalles.
 
 Y es que hoy están tan asimilados por la cultura mexicana que se venden por miles en tiendas de conveniencia, misceláneas, supermercados, en puesto callejeros y hasta de manos de vendedores ambulantes, además de ser una **botana** infaltable en bares, cantinas y hasta en fiestas familiares o con amigos.

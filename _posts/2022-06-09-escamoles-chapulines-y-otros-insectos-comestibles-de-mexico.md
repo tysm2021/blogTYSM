@@ -7,23 +7,21 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-06-09-gusanos.jpeg"
 sharing: true
 title: Escamoles, chapulines y otros insectos comestibles de México
-summary: Tú, ¿comerías insectos? Pues aunque a muchos les den asco, son parte esencial
+summary:
+  Tú, ¿comerías insectos? Pues aunque a muchos les den asco, son parte esencial
   de nuestra gastronomía…
 cover: "/images/2022-06-09-gusanos.jpeg"
 tags: cocina platillos insectos
 show_author_profile: false
 comment: false
-
 ---
-Desde tiempos prehispánicos,  los **escamoles**, **chapulines**, **jumiles**, **gusanos de maguey** y otras variedades de **insectos** **comestibles** han formado parte de nuestra **gastronomía**. Y, aunque a muchos les den asco, ¿sabías que son muy **nutritivos** y una de las mejores fuentes de proteína?
+
+Desde tiempos prehispánicos, los **escamoles**, **chapulines**, **jumiles**, **gusanos de maguey** y otras variedades de **insectos** **comestibles** han formado parte de nuestra **gastronomía**. Y, aunque a muchos les den asco, ¿sabías que son muy **nutritivos** y una de las mejores fuentes de proteína?
 
 A continuación te contamos un poco sobre estos animalitos y de las formas en que, a lo largo de distintos estados de la República, acostumbramos prepararlos y comerlos. Te sorprenderás…
 
@@ -44,4 +42,4 @@ Otras especies que se consumen a lo largo de la República son los **pulgones**,
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Escamoles.jpg/1024px-Escamoles.jpg)
 
-¿Qué dices? ¿Te atreves a probar una de estas exquisiteces… o te da frío?
+¿Qué dices? ¿Te animas a probar una de estas exquisiteces… o te da frío?

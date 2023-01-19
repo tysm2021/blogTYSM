@@ -5,14 +5,11 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-21-pozole_rojo.jpeg"
 sharing: true
-title: 'Sí, el pozole es nutritivo: te decimos por qué'
+title: "Sí, el pozole es nutritivo: te decimos por qué"
 author: Francisco Massé
 cover: "/images/2022-04-21-pozole_rojo.jpeg"
 categories: GASTRONOMIA
@@ -20,11 +17,12 @@ subcategorie: NUESTRACOCINA
 tags: pozole comida nutricion
 show_author_profile: false
 comment: false
-summary: 'A pesar de lo que crees, el pozole es un alimento balanceado y nutritivo:
-  te decimos las razones.'
-
+summary:
+  "A pesar de lo que crees, el pozole es un alimento balanceado y nutritivo:
+  te decimos las razones."
 ---
-Hay que reconocerlo: una gran parte de la **comida** **mexicana**, aunque es deliciosa, está lejos de ser **saludable** y **nutritiva**. Pero entre las muchas cosas fritas y abundantes de grasa, el pan blanco, o bien, las que son extremadamente dulces y malas para la salud —y ni hablar de la vitamina T, que incluye tacos, tortas y tostadas—, el **pozole** se distingue porque, a pesar de lo que puedas pensar, es **un alimento nutritivo**, ¿te has preguntado **por qué**?
+
+Hay que reconocerlo: una gran parte de la comida mexicana, aunque es deliciosa, está lejos de ser **saludable** y **nutritiva**. Pero entre las muchas cosas fritas y abundantes de grasa, el pan blanco, o bien, las que son extremadamente dulces y malas para la salud —y ni hablar de la vitamina T, que incluye tacos, tortas y tostadas—, el **pozole** destaca porque, a pesar de lo que puedas pensar, es **un alimento nutritivo**, ¿te has preguntado **por qué**?
 
 Resulta que si analizamos uno por uno los ingredientes que componen este delicioso platillo, ya sea el típico **rojo** o el **verde**, conocido como **“estilo Guerrero”**, son ricos en **nutrientes** por lo que, si se come con moderación, no entra en la categoría de “comida chatarra”.
 

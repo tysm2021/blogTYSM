@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-09-08-01_queso_mexicano_oaxaca.jpeg"
 sharing: true
-title: 'Quesos de México: delicias sólidas hechas con leche'
-summary: Herederos de una tradición traída de España y perfeccionada en el Porfiriato,
+title: "Quesos de México: delicias sólidas hechas con leche"
+summary:
+  Herederos de una tradición traída de España y perfeccionada en el Porfiriato,
   los queseros mexicanos producen estas auténticas delicias…
 cover: "/images/2022-09-08-01_queso_mexicano_oaxaca.jpeg"
 tags: gastronomia platillos productos
 show_author_profile: false
 comment: false
-
 ---
+
 En prácticamente todos los estados de **México** donde se crían **vacas**, **ovejas** o **cabras**, es casi seguro que se producirán **quesos**. Ya sean **frescos**, **suaves**, de **hebra**, semi **maduros**, que gratinan o no, untables o que se desmoronan, los **quesos mexicanos** están a la altura de cualquiera que le pongan enfrente, e incluso tenemos uno que se ha ganado su propia **Denominación de Origen**.
 
 Hagamos un breve recorrido por el fascinante y exquisito mundo de los **quesos mexicanos**, en los que revisaremos su **origen**, su forma de **elaboración**, el modo de distinguirlos y hasta algunos consejos para consumirlos o combinarlos con otros alimentos. Eso sí: no nos hacemos responsables si se te antojan tanto que tengas que salir corriendo a comprar uno.

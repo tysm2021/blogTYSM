@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-12-02-beach_at_sayulita_-17268510126.jpeg"
 sharing: true
 title: Sayulita y otras hermosas playas de la Riviera Nayarit
-summary: En la costa del estado de Nayarit, muy cerca de Puerto Vallarta y de la frontera
+summary:
+  En la costa del estado de Nayarit, muy cerca de Puerto Vallarta y de la frontera
   con Jalisco, estas playas están ganando fama por su belleza…
 cover: "/images/2022-12-02-beach_at_sayulita_-17268510126.jpeg"
 tags: turismo playas vacaciones
 show_author_profile: false
 comment: false
-
 ---
+
 El estado de **Nayarit** se encuentra en la costa del Pacíifico, colindando con con los estados de Sinaloa, Durango y Zacatecas hacia el norte y con el estado de Jalisco hacia el sur. Y aunque en esa zona, en lo que a **playas** se refiere, mucho de hablaba de **Puerto Vallarta** y, si acaso, de **Guayabitos**, en las dos últimas décadas una serie de hermosas y limpias **playas** **nayaritas** han ganado fama entre los vacacionistas, conformando una franja que se ha denominado **Riviera Nayarit**.
 
 Conozcamos algunas generalidades sobre esta prometedora y hermosa **zona turística**, las regiones en la que está dividida, qué **playas** son consideradas dentro de ella y algunas **recomendaciones** sobre qué hacer, a dónde ir, qué coner y dónde quedarse.
@@ -33,7 +31,7 @@ La **Riviera Nayarit** es una franja costera de casi 300 kilómetros de largo ub
 
 ### Nuevo Nayarit
 
-Ubicado entre el Océano Pacífico y la Sierra de Vallejo, a sólo 20 minutos en auto del aeropuerto de Puerto Vallarta, este exclusivo destino turístico antes se llamaba **Nuevo Vallarta** y es uno de los destinos de playa más visitados y exclusivos de todo México. Nuevo Nayarit se considera la puerta de entrada a la Riviera Nayarit, con una oferta  de hoteles y resorts que es la segunda más grande en todo el país. Además de disfrutar del mar y sus aguas cristalinas, aquí podrás practicar deportes acuáticos como el surf o hacer yoga en uno de sus exclusivos spas.
+Ubicado entre el Océano Pacífico y la Sierra de Vallejo, a sólo 20 minutos en auto del aeropuerto de Puerto Vallarta, este exclusivo destino turístico antes se llamaba **Nuevo Vallarta** y es uno de los destinos de playa más visitados y exclusivos de todo México. Nuevo Nayarit se considera la puerta de entrada a la Riviera Nayarit, con una oferta de hoteles y resorts que es la segunda más grande en todo el país. Además de disfrutar del mar y sus aguas cristalinas, aquí podrás practicar deportes acuáticos como el surf o hacer yoga en uno de sus exclusivos spas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Villa_Del_Palmar_Flamingos_Nuevo_Vallarta%2C_Mexico_-_panoramio_%2816%29.jpg/1024px-Villa_Del_Palmar_Flamingos_Nuevo_Vallarta%2C_Mexico_-_panoramio_%2816%29.jpg)
 

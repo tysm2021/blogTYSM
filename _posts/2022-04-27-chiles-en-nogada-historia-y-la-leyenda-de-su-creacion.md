@@ -6,24 +6,22 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-27-chile_en_nogada_con_granada.jpeg"
 sharing: true
-title: 'Chiles en nogada: historia y la leyenda de su creación'
+title: "Chiles en nogada: historia y la leyenda de su creación"
 author: Francisco Massé
 cover: "/images/2022-04-27-chile_en_nogada_con_granada.jpeg"
 tags: gastronomia leyendas chiles
 show_author_profile: false
 comment: false
-summary: "¿Es cierto que monjas poblanas inventaron este platillo tricolor en honor
+summary:
+  "¿Es cierto que monjas poblanas inventaron este platillo tricolor en honor
   a Agustín de Iturbide?"
 subcategorie: NUESTRACOCINA
-
 ---
+
 La **historia** de nuestra **gastronomía** no es sólo una conjunción de procedimientos y de ingredientes propios y otros traídos de otros países, sino también de relatos de **leyenda** sobre el **origen** de ciertos platillos. Uno de ellos es la de los mexicanísimos **chiles en nogada**, el manjar por excelencia en la noche mexicana, cuyo supuesto origen involucra a **Agustín de Iturbide.**
 
 A continuación, te contamos algunas versiones sobre el **origen** casi mitológico de estos chiles rellenos y bañados en salsa, los cuales vienen desde la época de la Independencia, así como lo que dicen los hechos históricos al respecto.

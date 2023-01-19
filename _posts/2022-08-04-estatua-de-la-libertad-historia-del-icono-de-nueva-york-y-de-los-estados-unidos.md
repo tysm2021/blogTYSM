@@ -7,23 +7,22 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-08-04-1280px-statue_of_liberty-_ny.jpeg"
 sharing: true
-title: 'Estatua de la Libertad: historia del ícono de Nueva York y de los Estados
-  Unidos'
-summary: Es uno de los símbolos más reconocibles del país vecino y una de las estatuas
+title:
+  "Estatua de la Libertad: historia del ícono de Nueva York y de los Estados
+  Unidos"
+summary:
+  Es uno de los símbolos más reconocibles del país vecino y una de las estatuas
   más famosas del mundo, ¿conoces su historia?
 cover: "/images/2022-08-04-1280px-statue_of_liberty-_ny.jpeg"
 tags: mundo EUA monumentos turismo
 show_author_profile: false
 comment: false
-
 ---
+
 Su verde silueta coronada y con una antorcha es un símbolo que casi todos hemos visto en postales, fotos, películas y comerciales, lo que la convierte en una de las estatuas más famosas del mundo, en símbolo de la ciudad de **Nueva York** y en ícono de los **Estados Unidos de América**. Pero, ¿conoces la **historia** de la **Estatua de la Libertad**, quién fue su **creador**, desde **cuándo** está ahí y cuál es su **significado**?
 
 Acompáñanos por este breve recorrido a **Liberty Island**, una pequeña isla en la bahía de **Nueva York**, desde donde la majestuosa **estatua** daba la bienvenida a los miles de migrantes que llegaban en barco a los **Estados Unidos** buscando refugio o con la esperanza de una nueva vida.

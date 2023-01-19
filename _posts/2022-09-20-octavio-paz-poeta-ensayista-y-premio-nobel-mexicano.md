@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-09-15-octaviopaz.jpg"
 sharing: true
 title: Octavio Paz, poeta, ensayista y Premio Nobel mexicano
-summary: Este poeta, diplomático y ensayista nacido en CDMX es uno de los pocos mexicanos
+summary:
+  Este poeta, diplomático y ensayista nacido en CDMX es uno de los pocos mexicanos
   que se ganaron el Premio Nobel. Conozcamos lo más importante de su obra
 cover: "/images/2022-09-15-octaviopaz.jpg"
 tags: cultura literatura autores poesía
 show_author_profile: false
 comment: false
-
 ---
+
 Uno de los **escritores** **mexicanos** más importantes del siglo XX fue, sin lugar a dudas, **Octavio Paz**, quien incursionó en la **poesía** y el **ensayo**, además de ser un importante editor y diplomático, y por su trabajo en pro de las letras fue galardonado con el **Premio Nobel de Literatura**, honor que comparte con apenas otros cuatro connacionales. Conozcamos un poco de su **biografía**, así como sus **obras** más importantes.
 
 Cabe mencionar que la casa donde pasó sus últimos días, llamada Casa de Alvarado —en la calle de Francisco Sosa, en Coyoacán—, le fue otorgada como reconocimiento por el Gobierno de México, y actualmente es la sede de la Fonoteca Nacional.
@@ -39,6 +37,6 @@ Años después, en 1962, don **Octavio** sería embajador de México en la India
 
 En cuanto a su obra literaria, su título más conocido es **_El laberinto de la soledad_** (1950), su primer libro de ensayos donde analiza la identidad e idiosincrasia del pueblo mexicano y es una lectura obligada en la enseñanza media superior. También destacan **_Sor Juana Inés o las trampas de la fe_** (1980), donde analiza a profundidad la vida y la obra de la poetisa novohispana llamada por muchos "La Décima Musa", y **_La llama doble_** (1993) donde hace un estudio del amor y el erotismo en occidente.
 
-En el terreno de la **poesía**, destacan **_Águila o sol_** (1951), un largo poema en prosa; **_Piedra de sol_** (1960), un poema de 584  versos dedicado al planeta Venus y al Calendario Azteca o "Piedra del Sol"; los **_Discos visuales_** (1968) que hizo con el artista plástico Vicente Rojo, y Árbol dentro (1987). Además, hay una enorme cantidad de entrevistas y de cartas que intercambió con diversos intelectuales, los cuales dan fe de una mente erudita y universal.
+En el terreno de la **poesía**, destacan **_Águila o sol_** (1951), un largo poema en prosa; **_Piedra de sol_** (1960), un poema de 584 versos dedicado al planeta Venus y al Calendario Azteca o "Piedra del Sol"; los **_Discos visuales_** (1968) que hizo con el artista plástico Vicente Rojo, y Árbol dentro (1987). Además, hay una enorme cantidad de entrevistas y de cartas que intercambió con diversos intelectuales, los cuales dan fe de una mente erudita y universal.
 
 En 1990, recibió el **Premio Nobel de Literatura** por su "escritura apasionada con amplios horizontes, caracterizados por una inteligencia sensual y una integridad humanística". Finalmente, murió el **19 de abril de 1998** en la Casa de Alvarado, en Coyoacán, a la que fue trasladado por el Gobierno en enero de 1997, ya estando enfermo, luego de que un incendio destruyera su departamento en la colonia Cuauhtémoc. Se le sigue considerando u**no de los más grandes poetas** de todos los tiempos.

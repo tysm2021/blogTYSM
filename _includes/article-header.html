@@ -11,7 +11,7 @@ _show_edit_on_github -%}
   {%- if _show_title -%}
   <header>
     <h1>{{ _article_title }}</h1>
-    <p class="overlay__excerpt">
+    <p class="overlay__excerpt italic">
       {{ page.summary | strip_html | strip_newlines | strip | truncate:
       _article_header_excerpt_truncate }}
     </p>

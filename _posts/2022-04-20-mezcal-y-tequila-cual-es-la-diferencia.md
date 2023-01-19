@@ -5,14 +5,11 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-20-summer-3106910_1280.jpeg"
 sharing: true
-title: 'Mezcal y tequila: ¿cuál es la diferencia?'
+title: "Mezcal y tequila: ¿cuál es la diferencia?"
 author: Francisco Massé
 cover: "/images/2022-04-20-tequila-bottle-1353391_1280.jpeg"
 categories: GASTRONOMIA
@@ -20,10 +17,11 @@ subcategorie: BEBIDAS
 tags: bebidas destilados tequila mezcal
 show_author_profile: false
 comment: false
-summary: Ambas bebidas son deliciosas y muy mexicanas, pero… ¿sabes cuál es la diferencia
+summary:
+  Ambas bebidas son deliciosas y muy mexicanas, pero… ¿sabes cuál es la diferencia
   entre las dos?
-
 ---
+
 Si nos preguntaran cuál es la bebida más representativa de México, seguramente muchos de nosotros diríamos que es el **tequila**, aunque quizá algunos otros opinarían que no hay destilado más mexicano que el **mezcal**. Y es que, aunque ambos destilados se obtienen del **agave** y tienen muchas **similitudes**, también tienen grandes **diferencias**.
 
 En Toño y su mariachi no tenemos una preferencia al respecto. Pero le preguntamos a Felipe, que es un gran conocedor de ambas bebidas, y esto fue lo que nos contestó.

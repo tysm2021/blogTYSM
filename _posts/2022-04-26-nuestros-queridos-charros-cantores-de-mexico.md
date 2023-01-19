@@ -7,11 +7,8 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-26-charros1.jpg"
 sharing: true
 title: Nuestros queridos charros cantores de México
@@ -20,11 +17,12 @@ cover: "/images/2022-04-26-charros1.jpg"
 tags: musica cantantes folclor
 show_author_profile: false
 comment: false
-summary: 'Nada más mexicano que la figura del charro que canta: conoce aquí a los
-  más grandes.'
-
+summary:
+  "Nada más mexicano que la figura del charro que canta: conoce aquí a los
+  más grandes."
 ---
-Músicos y cantantes van y vienen. Pero cuando se habla de **música** netamente **mexicana**, a casi todos nos vienen a la mente las **canciones** **rancheras** y, ¡cómo no!, los **charros** **cantores** de México, desde el pionero Tito Guízar hasta el recientemente fallecido Vicente Fernández.
+
+Músicos y cantantes van y vienen. Pero cuando se habla de música netamente mexicana, a casi todos nos vienen a la mente las canciones rancheras y, ¡cómo no!, los charros cantores de México, desde el pionero Tito Guízar hasta el recientemente fallecido Vicente Fernández.
 
 En este breve recuento, recordamos a las mejores voces que han incursionado en la **música vernácul**a de **México** y que, ya sea en discos o en películas, han puesto muy en alto el nombre de nuestro país y son infaltables en un 15 de septiembre y, también, cuando uno trae unos tequilitas entre pecho y espalda…
 
@@ -78,4 +76,4 @@ Sin duda, uno de los más grandes cantautores del género ranchero. Se especula 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/27/Fernandez-3-24-13_03.JPG)
 
-Considerado del último de los **charros cantores** de México. Originario de Huentitán, Jalisco, tuvo una importante carrera discográfica con éxitos como "La ley del monte", "De qué manera te olvido" y "Por tu maldito amor".
+Considerado del último de los charros cantores de México. Originario de Huentitán, Jalisco, tuvo una importante carrera discográfica con éxitos como "La ley del monte", "De qué manera te olvido" y "Por tu maldito amor".

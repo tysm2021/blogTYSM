@@ -7,23 +7,21 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-11-23-tim-mossholder-shgjspy39a-unsplash.jpeg"
 sharing: true
-title: 'Verde, blanco y rojo: ¿qué significan los colores de la bandera de México?'
-summary: La actual bandera mexicana hereda sus tres colores del estandarte del Ejército
+title: "Verde, blanco y rojo: ¿qué significan los colores de la bandera de México?"
+summary:
+  La actual bandera mexicana hereda sus tres colores del estandarte del Ejército
   Trigarante; pero, ¿hoy en día qué significan el verde, blanco y rojo de la enseña
   patria?
 cover: "/images/2022-11-23-tim-mossholder-shgjspy39a-unsplash.jpeg"
 tags: mexico folclor
 show_author_profile: false
 comment: false
-
 ---
+
 Desde que somos niños y, en la escuela primaria, aprendemos las estrofas del Himno Nacional Mexicano y el coro del Toque de **Bandera**, se nos enseña a rendir honores al lábaro patrio, el cual luce sus tres **colores** —el **verde**, el **blanco** y el **rojo**— con su escudo nacional en el centro. Pero, ¿te has preguntado cuál es el **significado** y el **simbolismo** de los colores de la **bandera** de **México**?
 
 A continuación, hacemos un breve repaso de la historia de la **bandera** **mexicana**, la cual nos permitirá entender cuáles fueron, desde el principio, los **significados** de los tres **colores** del lábaro patrio.
@@ -40,4 +38,4 @@ Toda vez que se consumó la independencia y de que finalizó el imperio de Agust
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_del_Ej%C3%A9rcito_Constitucionalista_Mexico.jpg)
 
-A mediados del siglo XIX, con la llegada de Benito Juárez a la presidencia y a consecuencia de la separación del Estado y la Iglesia católica, se cambió el **significado** de los **colores** de la **bandera** **mexicana**: el **verde** representa la esperanza; el blanco, la unidad —y algunos dicen que la nieve de nuestros volcanes—, y el **rojo** simboliza la sangre de los héroes nacionales. Actualmente, ese es el **simbolismo** "oficial" y el uso, medidas y estándares para la confección del lábaro patrio están contenidos en la  Ley sobre el Escudo, la **Bandera** y el Himno Nacionales, la cual entró en vigencia el 24 de febrero de 1984.
+A mediados del siglo XIX, con la llegada de Benito Juárez a la presidencia y a consecuencia de la separación del Estado y la Iglesia católica, se cambió el **significado** de los **colores** de la **bandera** **mexicana**: el **verde** representa la esperanza; el blanco, la unidad —y algunos dicen que la nieve de nuestros volcanes—, y el **rojo** simboliza la sangre de los héroes nacionales. Actualmente, ese es el **simbolismo** "oficial" y el uso, medidas y estándares para la confección del lábaro patrio están contenidos en la Ley sobre el Escudo, la **Bandera** y el Himno Nacionales, la cual entró en vigencia el 24 de febrero de 1984.

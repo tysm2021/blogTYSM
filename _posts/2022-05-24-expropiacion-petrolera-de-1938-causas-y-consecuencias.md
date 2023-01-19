@@ -8,23 +8,19 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-26-presidente_lazaro_cardenas_reunido_con_sindicato_obrero_veracruzano_en_1938.jpeg"
 sharing: true
-title: 'Expropiación Petrolera de 1938: causas y consecuencias'
-summary: El 18 de marzo de 1983, el presidente Lázaro Cárdenas nacionalizó los recursos
-  petroleros del país, ¿a qué se debió y qué consecuencias tuvo este acto?
+title: "Expropiación Petrolera de 1938: causas y consecuencias"
+summary: Por favor colocar summary a esta publicación codigo de prueba 234
 cover: "/images/2022-04-26-presidente_lazaro_cardenas_reunido_con_sindicato_obrero_veracruzano_en_1938.jpeg"
 tags: prueba ejemplo
 show_author_profile: false
 comment: false
-
 ---
-El **18 de marzo** de cada año, celebramos un aniversario más de la **Expropiación Petrolera** de **México**, que se llevó a cabo en **1938** por un decreto del entonces presidente, **Lázaro Cárdenas del Río**. En **resumen**, ¿cuáles fueron las **causas** de este suceso histórico y las **consecuencias** de la nacionalización de los recursos petroleros de México?
+
+El **18 de marzo** de cada año, celebramos un aniversario más de la **Expropiación Petrolera** de **México**, que se llevó a cabo en **1938** por un decreto del entonces presidente, **Lázaro Cárdenas del Río**. En **resumen**, ¿cuáles fueron las **causas** de este suceso histórico, y las **consecuencias** de la nacionalización de los recursos petroleros de México?
 
 En Toño y su mariachi, además de promover nuestra cultura y nuestros mejores destinos turísticos, también te damos breve repasos a nuestra **historia**, desde la época prehispánica hasta lo sucedido en el **siglo XX** y hasta la fecha. Acompáñanos…
 

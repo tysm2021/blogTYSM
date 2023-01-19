@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-08-19-1280px-los_prismas_basalticos.jpeg"
 sharing: true
-title: 'Prismas Basálticos: maravilla natural en el estado de Hidalgo'
-summary: Por sus angulosas formas geométricas, estos prismas sorprenden a los turistas;
+title: "Prismas Basálticos: maravilla natural en el estado de Hidalgo"
+summary:
+  Por sus angulosas formas geométricas, estos prismas sorprenden a los turistas;
   ¿dónde están y cómo surgieron?
 cover: "/images/2022-08-19-1280px-los_prismas_basalticos.jpeg"
 tags: hidalgo lugares pueblos
 show_author_profile: false
 comment: false
-
 ---
+
 En el estado de **Hidalgo**, muy cerca del Pueblo Mágico de **Huasca de Ocampo** y de la Hacienda de **Santa María Regla**, se encuentra esta maravilla natural que se conoce como los **Prismas Basálticos**. ¿Cuál es el **origen** de estas formaciones rocosas, **cómo llegar** a ellas y qué **actividades** pueden hacerse en este sitio?
 
 A continuación te platicamos de estas curiosas formaciones de **basalto** que desde hace siglos han maravillado a visitantes y turistas por su inusual apariencia geométrica, que las hace parecer más una escultura que una obra de la naturaleza.

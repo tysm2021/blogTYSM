@@ -5,14 +5,11 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-20-episode_de_l-expedition_du_mexique_en_1838.jpeg"
 sharing: true
-title: 'Guerra de los Pasteles: resumen e historia de la Primera Intervención Francesa'
+title: "Guerra de los Pasteles: resumen e historia de la Primera Intervención Francesa"
 author: Francisco Massé
 cover: "/images/2022-04-20-episode_de_l-expedition_du_mexique_en_1838.jpeg"
 categories: HISTORIA
@@ -20,10 +17,11 @@ subcategorie: SIGLOXIX
 tags: historia méxico guerra francia
 show_author_profile: false
 comment: false
-summary: 'No, no se agarraron a pastelazos: fue un episodio bélico entre Francia y
-  México, por una deuda con un pastelero…'
-
+summary:
+  "No, no se agarraron a pastelazos: fue un episodio bélico entre Francia y
+  México, por una deuda con un pastelero…"
 ---
+
 Cuando uno escucha eso de la **Guerra de los Pasteles**, podría imaginarse a dos ejércitos armados con tartas llenas de merengue, arrojándoselas a ver quién es el que gana. Pero no: en **resumen**, se trató de un episodio de la **historia de México** —también llamado **Primera Intervención Francesa**— que tuvo lugar entre los años de 1838 y 1839, contra invasores **franceses**.
 
 Todo empezó con la reclamación de **un pastelero enojado**, y el asunto llegó tan lejos que **México** acabó pagando una enorme cantidad de dinero. En seguida, te contamos todos los detalles.

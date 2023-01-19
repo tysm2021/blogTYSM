@@ -5,24 +5,22 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-22-nobel_prize_medal_in_chemistry.jpeg"
 sharing: true
-title: 'Premios Nobel mexicanos: cuántos y quiénes son '
+title: "Premios Nobel mexicanos: cuántos y quiénes son "
 author: Francisco Massé
 cover: "/images/2022-04-22-nobel_prize_medal_in_chemistry.jpeg"
 categories: CULTURA
 tags: cultura premios mexico
 show_author_profile: false
 comment: false
-summary: "¿Sabes cuántos mexicanos han ganado el premio creado por Alfred Nobel? Aquí
+summary:
+  "¿Sabes cuántos mexicanos han ganado el premio creado por Alfred Nobel? Aquí
   sabrás quiénes son."
-
 ---
+
 El **Premio Nobel** es un galardón internacional que cada año distingue a personajes destacados en seis categorías: **Física, Química, Medicina, Literatura, Paz y Economía**. Fue establecido en 1895 como última voluntad del industrial sueco **Alfred Nobel**, inventor de la dinamita. Y uno se pregunta: **¿cuántos mexicanos lo han ganado y quiénes son?**
 
 Ahora te presentaremos a los paisanos que se han hecho acreedores a este premio, cuya idea es premiar a quienes hacen “el mayor beneficio a la humanidad”, luego de que su creador arrastró durante años una gran culpa por el daño y las muertes que ocasionó indirectamente con sus explosivos inventos.

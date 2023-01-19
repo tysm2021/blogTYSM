@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-10-17-1280px-guacamole_imgp1271.jpeg"
 sharing: true
-title: 'El mexicanísimo guacamole: historia y recetas'
-summary: Aunque para nosotros es una salsa de sobra conocida, el guacamole ha ganado
+title: "El mexicanísimo guacamole: historia y recetas"
+summary:
+  Aunque para nosotros es una salsa de sobra conocida, el guacamole ha ganado
   popularidad mundial debido al Super Bowl en los Estados Unidos
 cover: "/images/2022-10-17-1280px-guacamole_imgp1271.jpeg"
 tags: gastronomia platillos recetas
 show_author_profile: false
 comment: false
-
 ---
+
 La receta básica es muy sencilla: mezclar chile verde con cebolla, tomate y, claro está, aguacate. Desde luego, nos referimos al guacamole, una de las salsas mexicanas más famosas en el mundo debido a que, de unos años para acá, es una de las preferidas por el público aficionado al futbol americano, y es uno de los platillos clásicos para disfrutar del Super Bowl. Pero, ¿cuál es su origen o su historia? Y, ¿cuál es la mejor receta para prepararlo?
 
 Echemos un vistazo al origen de esta popular salsa y tratemos de dar respuesta a estas interrogantes… si es posible, disfrutando de un taquito de guacamole, con o sin su chicharroncito seco y crujiente.
@@ -39,14 +37,14 @@ Al respecto del **aguacate**, vale la pena decir que es un fruto nativo de Méxi
 
 Hablando de la **receta** más común, podríamos resumirla en:
 
-* 3 **aguacates** grandes y maduros (de la variedad que más te guste)
-* 2 jitomates grandes
-* 3 chiles jalapeños (puedes cambiarlos por 5 serranos o chiles de árbol)
-* Media cebolla blanca
-* 1 diente de ajo
-* El jugo de un limón
-* Unas ramitas de cilantro
-* Sal al gusto
+- 3 **aguacates** grandes y maduros (de la variedad que más te guste)
+- 2 jitomates grandes
+- 3 chiles jalapeños (puedes cambiarlos por 5 serranos o chiles de árbol)
+- Media cebolla blanca
+- 1 diente de ajo
+- El jugo de un limón
+- Unas ramitas de cilantro
+- Sal al gusto
 
 Para prepararlo, lo mejor es usar un molcajete. Primero, pica finamente, la cebolla, los **chiles**, el jitomate y el cilantro. Después, se muele el ajo en el molcajete; enseguida, se pelan los **aguacates** y se echa la pulpa, desbaratándola un poco con las manos, y después moliéndola hasta que quede una mezcla homogénea, e inmediatamente añade el jugo del limón, para evitar que se oxide. Añade poco a poco los demás ingredientes hasta que se incorporen. Ponle sal al gusto y deja reposar un par de horas, cubierto de preferencia, para que se integren los sabores.
 

@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-06-17-posada.jpg"
 sharing: true
 title: 'José Guadalupe Posada: el "papá" de la Catrina'
-summary: Este grabador hidrocálido que vivió a principios del siglo XX se especializó
+summary:
+  Este grabador hidrocálido que vivió a principios del siglo XX se especializó
   en la creación de calaveras para burlarse de la alta sociedad
 cover: "/images/2022-06-17-posada.jpg"
 tags: artes grabado catrina sigloxx
 show_author_profile: false
 comment: false
-
 ---
+
 Mucha gente en el mundo relaciona a la **Catrina**, esa **calavera** estilizada y elegantemente vestida, con el **arte** de **México**. Pero, ¿tú sabías que el grabador **José Guadalupe Posada** fue quien ideó la famosa figura?
 
 Hoy te platicaremos un poco de este gran artista, de su obsesión con las **calaveras**, de sus demás **obras** y de la triste forma en que halló la muerte.
@@ -45,6 +43,4 @@ A través de su obra, **Posada** hizo críticas sobre los abusos y las ineptitud
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gran_calavera_el%C3%A9ctrica2.jpg/1024px-Gran_calavera_el%C3%A9ctrica2.jpg)
 
-**TE RECOMENDAMOS:** [**Frida Kahlo: ¿Cuáles son sus pinturas más caras?**](https://blog.tonoysumariachi.com/cultura/2022/08/31/frida-kahlo-cuales-son-sus-pinturas-mas-caras.html)
-
-**Posada** vivió y murió, si no en la pobreza —porque al parecer tenía trabajo suficiente—, sí prácticamente en el anonimato. Murió a consecuencia de su alcoholismo el 20 de enero de 1913; su cadáver salió de una vecindad en el barrio de Tepito y fue sepultado en el Panteón de Dolores en una tumba de sexta clase, que eran las únicas gratuitas. Su obra habría pasado al olvido a no ser por el pintor **Diego Rivera**, quien la revaloró, le dio difusión y posicionó a **Posada** como un gran "artista del pueblo".
+Posada vivió y murió, si no en la pobreza —porque al parecer tenía trabajo suficiente—, sí prácticamente en el anonimato. Murió a consecuencia de su alcoholismo el 20 de enero de 1913; su cadáver salió de una vecindad en el barrio de Tepito y fue sepultado en el Panteón de Dolores en una tumba de sexta clase, que eran las únicas gratuitas. Su obra habría pasado al olvido a no ser por el pintor **Diego Rivera**, quien la revaloró, le dio difusión y posicionó a Posada como un gran "artista del pueblo".

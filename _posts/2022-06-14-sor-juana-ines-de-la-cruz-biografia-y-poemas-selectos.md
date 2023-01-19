@@ -7,29 +7,27 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-06-14-sorjuana.jpg"
 sharing: true
-title: 'Sor Juana Inés de la Cruz: biografía y poemas selectos'
-summary: Conoce la vida y la obra de esta poetisa y escritora novohispana que fue
+title: "Sor Juana Inés de la Cruz: biografía y poemas selectos"
+summary:
+  Conoce la vida y la obra de esta poetisa y escritora novohispana que fue
   llamada "La Décima Musa".
 cover: "/images/2022-06-14-sorjuana.jpg"
 tags: letras poesía poemas biografías
 show_author_profile: false
 comment: false
-
 ---
-Una de las primeras y más destacadas **escritoras** **mexicanas** —aunque, siendo precisos, era más bien novohispana— fue **Sor Juana Inés de la Cruz**, cuyos **poemas** aún son leídos y memorizados por estudiantes desde la educación media, y que tuvo una biografía bastante singular para tratarse de una religiosa. ¿Qué tanto sabes de su **biografía** y de su **obra**?
+
+Una de las primeras y más destacadas escritoras mexicanas —aunque, siendo precisos, era más bien novohispana— fue Sor Juana Inés de la Cruz, cuyos poemas aún son leídos y memorizados por estudiantes desde la educación media, y que tuvo una biografía bastante singular para tratarse de una religiosa.
 
 A continuación, un breve recorrido biográfico de la "Décima Musa", cuyo fervor solamente era superado por su sed de conocimientos y por su amor a la lectura.
 
 **TE RECOMENDAMOS:** [**Octavio Paz, poeta, ensayista y Premio Nobel mexicano**](https://blog.tonoysumariachi.com/cultura/2022/09/20/octavio-paz-poeta-ensayista-y-premio-nobel-mexicano.html)**.**
 
-Sor Juana Inés nació el **12 de noviembre de 1648** —aunque otros dicen que fue en **1651**— en San Miguel Nepantla, Estado de México, con el nombre completo de Juana Inés Asbaje Ramírez de Santillana. Fue hija ilegítima de **Pedro de Asbaje y Vargas**, y de doña **Isabel Ramírez**, quienes nunca se casaron.  Su infancia transcurrió en las haciendas de su abuelo, en Nepantla y Panoaya, donde la pequeña Juana Inés aprendió a leer a los tres años y asimismo aprendió la lengua náhuatl por el contacto con los indígenas que ahí trabajaban.
+Sor Juana Inés nació el **12 de noviembre de 1648** —aunque otros dicen que fue en **1651**— en San Miguel Nepantla, Estado de México, con el nombre completo de Juana Inés Asbaje Ramírez de Santillana. Fue hija ilegítima de **Pedro de Asuaje y Vargas**, y de doña **Isabel Ramírez**, quienes nunca se casaron. Su infancia transcurrió en las haciendas de su abuelo, en Nepantla y Panoaya, donde la pequeña Juana Inés aprendió a leer a los tres años —y asimismo aprendió la lengua náhuatl por el contacto con los indígenas que ahí trabajaban.
 
 Desde muy joven mostró un gran amor por los libros y, tras la muerte de su abuelo, se trasladó a la Ciudad de México. Entre 1664 y 1665 entró a la corte del **virrey Antonio Sebastián de Toledo, marqués de Mancera** por su notable inteligencia. La virreina, **Leonor de Carreto**, de inmediato le tuvo en gran consideración y se convirtió en su protectora y su más importante mecenas —es decir, en la persona que financia los gastos y las obras de un artista para que pueda crear a gusto.
 
@@ -59,77 +57,77 @@ La lírica conforma la mitad de toda la **producción literaria** de **Sor Juana
 
 ### En perseguirme, Mundo, ¿qué interesas?
 
-_En perseguirme, Mundo, ¿qué interesas?  
-¿En qué te ofendo, cuando sólo intento  
-poner bellezas en mi entendimiento  
-y no mi entendimiento en las bellezas?_
+En perseguirme, Mundo, ¿qué interesas?
+¿En qué te ofendo, cuando sólo intento
+poner bellezas en mi entendimiento
+y no mi entendimiento en las bellezas?
 
-_Yo no estimo tesoros ni riquezas;  
-y así, siempre me causa más contento  
-poner riquezas en mi pensamiento  
-que no mi pensamiento en las riquezas._
+Yo no estimo tesoros ni riquezas;
+y así, siempre me causa más contento
+poner riquezas en mi pensamiento
+que no mi pensamiento en las riquezas.
 
-_Y no estimo hermosura que, vencida,  
-es despojo civil de las edades,  
-ni riqueza me agrada fementida,_
+Y no estimo hermosura que, vencida,
+es despojo civil de las edades,
+ni riqueza me agrada fementida,
 
-_teniendo por mejor, en mis verdades,  
-consumir vanidades de la vida  
-que consumir la vida en vanidades._
+teniendo por mejor, en mis verdades,
+consumir vanidades de la vida
+que consumir la vida en vanidades.
 
 ### Esta tarde, mi bien, cuando te hablaba
 
-_Esta tarde, mi bien, cuando te hablaba,  
-como en tu rostro y en tus acciones vía  
-que con palabras no te persuadía,  
-que el corazón me vieses deseaba;_
+Esta tarde, mi bien, cuando te hablaba,
+como en tu rostro y en tus acciones vía
+que con palabras no te persuadía,
+que el corazón me vieses deseaba;
 
-_y Amor, que mis intentos ayudaba,  
-venció lo que imposible parecía,  
-pues entre el llanto que el dolor vertía,  
-el corazón deshecho destilaba._
+y Amor, que mis intentos ayudaba,
+venció lo que imposible parecía,
+pues entre el llanto que el dolor vertía,
+el corazón deshecho destilaba.
 
-_Baste ya de rigores, mi bien, baste,  
-no te atormenten más celos tiranos,  
-ni el vil recelo tu quietud contraste_
+Baste ya de rigores, mi bien, baste,
+no te atormenten más celos tiranos,
+ni el vil recelo tu quietud contraste
 
-_con sombras necias, con indicios vanos:  
-pues ya en líquido humor viste y tocaste  
-mi corazón deshecho entre tus manos._
+con sombras necias, con indicios vanos:
+pues ya en líquido humor viste y tocaste
+mi corazón deshecho entre tus manos.
 
 ### Hombres necios
 
-_Hombres necios que acusáis  
-a la mujer sin razón,  
-sin ver que sois la ocasión  
-de lo mismo que culpáis:_
+Hombres necios que acusáis
+a la mujer sin razón,
+sin ver que sois la ocasión
+de lo mismo que culpáis:
 
-_si con ansia sin igual  
-solicitáis su desdén,  
-¿por qué queréis que obren bien  
-si las incitáis al mal?_
+si con ansia sin igual
+solicitáis su desdén,
+¿por qué queréis que obren bien
+si las incitáis al mal?
 
-_Combatís su resistencia  
-y luego, con gravedad,  
-decís que fue liviandad  
-lo que hizo la diligencia._
+Combatís su resistencia
+y luego, con gravedad,
+decís que fue liviandad
+lo que hizo la diligencia.
 
-_Dan vuestras amantes penas  
-a sus libertades alas,  
-y después de hacerlas malas  
-las queréis hallar muy buenas._
+Dan vuestras amantes penas
+a sus libertades alas,
+y después de hacerlas malas
+las queréis hallar muy buenas.
 
-_¿Cuál mayor culpa ha tenido  
-en una pasión errada:  
-la que cae de rogada,  
-o el que ruega de caído?_
+¿Cuál mayor culpa ha tenido
+en una pasión errada:
+la que cae de rogada,
+o el que ruega de caído?
 
-_¿O cuál es más de culpar,  
-aunque cualquiera mal haga:  
-la que peca por la paga,  
-o el que paga por pecar?_
+¿O cuál es más de culpar,
+aunque cualquiera mal haga:
+la que peca por la paga,
+o el que paga por pecar?
 
-_Pues, ¿para qué os espantáis  
-de la culpa que tenéis?  
-Queredlas cual las hacéis  
-o hacedlas cual las buscáis._
+Pues, ¿para qué os espantáis
+de la culpa que tenéis?
+Queredlas cual las hacéis
+o hacedlas cual las buscáis.
