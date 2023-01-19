@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2023-01-04-world_war_ii_nurses_holding_hands.jpeg"
 sharing: true
 title: "¿Por qué en México celebramos el Día de la Enfermera el 6 de enero?"
-summary: 'En el Día de los Reyes Magos, celebramos también a otras entidades bondadosas,
-  vestidas de blanco y que salvan vidas. Y no son ángeles: son enfermeras…'
+summary:
+  "En el Día de los Reyes Magos, celebramos también a otras entidades bondadosas,
+  vestidas de blanco y que salvan vidas. Y no son ángeles: son enfermeras…"
 cover: "/images/2023-01-04-world_war_ii_nurses_holding_hands.jpeg"
 tags: historia mexico efemerides
 show_author_profile: false
 comment: false
-
 ---
+
 Por donde se le mire, el **6 de enero** es una fecha especial para todos los **mexicanos**: entre que partimos la Rosca y los niños estrenan los juguetes que la noche anterior les trajeron los Reyes Magos, sin duda es un día de fiesta. Y por si fuera poco, ese mismo día se conmemora a quienes eligieron una de las profesiones más nobles y abnegadas que existen: las **enfermeras**. ¿**Por qué** se celebra el **Día de la Enfermera** el **6 de enero** en **México**?
 
 Enseguida, una breve explicación del **origen** de esta conmemoración que reconoce la labor de esos "ángeles de blanco" que cuidan enfermos, asisten médicos y salvan vidas. Y aunque tradicionalmente hablamos de **enfermeras** mujeres, también existen —y cada día más— **enfermeros** hombres que ejercen con pasión la misma labor altruista.
