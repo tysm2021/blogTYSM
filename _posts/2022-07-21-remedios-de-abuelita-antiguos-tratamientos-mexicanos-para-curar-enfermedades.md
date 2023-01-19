@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-07-21-1280px-curandera.jpeg"
 sharing: true
-title: 'Remedios de abuelita: antiguos tratamientos mexicanos para curar enfermedades'
-summary: "¿Sabes qué es un chiqueador, una ventosa o una 'jalada de cuero'? Aquí te
+title: "Remedios de abuelita: antiguos tratamientos mexicanos para curar enfermedades"
+summary:
+  "¿Sabes qué es un chiqueador, una ventosa o una 'jalada de cuero'? Aquí te
   explicamos los remedios de las abuelitas"
 cover: "/images/2022-07-21-1280px-curandera.jpeg"
 tags: folclor tradiciones medicina leyendas
 show_author_profile: false
 comment: false
-
 ---
+
 Si bien desde el siglo XIX en nuestro país la **medicina** y la salud pública han avanzado a pasos agigantados, dando solución a tratamiento a muchas **enfermedades** graves y a pequeños **malestares** comunes, eso no resta a que, en la práctica, se sigan aplicando **remedios de abuelita** basados en el **folclor**, la tradición y, a veces, en la **herbolaria** y la **medicina** **alternativa**. Aquí te damos algunos de los **ejemplos** más comunes.
 
 Entre los muchos **tratamientos** que podemos encontrar en el vasto campo de la **medicina** **tradicional** están los **chiqueadores**, las **limpias**, las **ventosas** y los remedios contra el **empacho**, el **mal de ojo** y el **espanto**.
@@ -35,7 +33,7 @@ Si tuviste una **abuelita** que le sabía a los **remedios**, quizá recordarás
 
 ### Limpias
 
-Hay gente muy mala en el mundo, eso que ni qué. Y cuando hay  "un trabajo" de por medio, gente con "vista pesada" o, simple y llanamente, una **enfermedad** que no se quita o una racha de mala suerte, quizá sea prudente —o eso decían algunas **abuelas**—, "hacerte una limpia", la cual debe llevarla a cabo alguien que tenga experiencia en ese tipo de **tratamientos**, y puede ser con un ramo o con un huevo. Aunque hay que tener cuidado, pues luego hay gente que suele quemar el ramo en habitaciones cerradas, con el consecuente riesgo de asfixia. Ahora sí que a veces "sale peor el remedio que la enfermedad".
+Hay gente muy mala en el mundo, eso que ni qué. Y cuando hay "un trabajo" de por medio, gente con "vista pesada" o, simple y llanamente, una **enfermedad** que no se quita o una racha de mala suerte, quizá sea prudente —o eso decían algunas **abuelas**—, "hacerte una limpia", la cual debe llevarla a cabo alguien que tenga experiencia en ese tipo de **tratamientos**, y puede ser con un ramo o con un huevo. Aunque hay que tener cuidado, pues luego hay gente que suele quemar el ramo en habitaciones cerradas, con el consecuente riesgo de asfixia. Ahora sí que a veces "sale peor el remedio que la enfermedad".
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rufina%2C_a_mexican_coffee_farmer.jpg/1024px-Rufina%2C_a_mexican_coffee_farmer.jpg)
 
@@ -59,4 +57,4 @@ Hay gente con "vista pesada", que te mira pero con envidia o coraje, deseando qu
 
 **Espanto**
 
-Por último, hablemos del **espanto** que, como su nombre lo indica, proviene de un **susto** fuerte —por ejemplo, si sufres un accidente automovilístico, te caes de una escalera o estás a punto de ahogarte en una alberca—; los **síntomas** son un desgano profundo, la mirada perdida y, en casos graves, se pierden las ganas de salir a la calle. Para tratarlo, en tiendas de herbolaría, mercados o boticas de colonias populares se venden  "**espíritus de tomar**" y "**espíritus de untar**", aunque el remedio por excelencia en el "**pan puerco**", una pomada que está elaborada con manteca de cerdo. Aunque uno no deja de sospechar que lo que cura, más bien, es el apapacho, la atención y los cuidados, ¿o tú qué opinas?
+Por último, hablemos del **espanto** que, como su nombre lo indica, proviene de un **susto** fuerte —por ejemplo, si sufres un accidente automovilístico, te caes de una escalera o estás a punto de ahogarte en una alberca—; los **síntomas** son un desgano profundo, la mirada perdida y, en casos graves, se pierden las ganas de salir a la calle. Para tratarlo, en tiendas de herbolaría, mercados o boticas de colonias populares se venden "**espíritus de tomar**" y "**espíritus de untar**", aunque el remedio por excelencia en el "**pan puerco**", una pomada que está elaborada con manteca de cerdo. Aunque uno no deja de sospechar que lo que cura, más bien, es el apapacho, la atención y los cuidados, ¿o tú qué opinas?

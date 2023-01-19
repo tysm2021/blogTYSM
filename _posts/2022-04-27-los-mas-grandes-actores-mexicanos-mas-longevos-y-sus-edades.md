@@ -1,29 +1,26 @@
 ---
-
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg"
 sharing: true
-title: 'Los más grandes: actores mexicanos más longevos y sus edades'
+title: "Los más grandes: actores mexicanos más longevos y sus edades"
 author: Francisco Massé
 cover: "/images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg"
 tags: cine television actores actrices
 show_author_profile: false
 comment: false
-summary: 'Estos actores, actrices y cantantes hicieron historia y siguen vivos: por
-  eso decimos que son los más grandes.'
+summary:
+  "Estos actores, actrices y cantantes hicieron historia y siguen vivos: por
+  eso decimos que son los más grandes."
 categories: CULTURA
-
 ---
+
 En redes sociales circulan muchos chistes y memes sobre la supuesta inmortalidad de "Chabelo", adjudicándole una muy avanzada edad. Pero, ya hablando en serio y tomando en cuenta cuántos años tienen, ¿quiénes son los actores y las actrices mexicanas más longevos y cuáles son sus edades?
 
 A continuación, la lista de los "más grandes" con sus edades y sus respectivas fechas de nacimiento, actualizada en mayo de 2022. No vaya siendo que ahora que leas esta lista, alguno de ellos tristemente se nos haya adelantado. Como sea, nos quitamos el sombrero ante la grandeza de todos ellos y todas ellas…
@@ -44,17 +41,13 @@ Este excelso actor, recordado por muchos debido a su papel protagónico en la ci
 
 <img class="image image--xl" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Sergio_Corona_-_Premio_Luz_de_Plata_2018.jpg"/>
 
-
 Este cómico que saltó a la fama por su papel en la serie de TV _Hogar, dulce hogar_, al lado de Luz María Aguilar, sigue acumulando años y a pesar de eso no pierde el buen humor.
 
 ### Ana Luisa Peluffo
 
 #### 92 años (9 de octubre de 1929)
 
-
 <img class="image image--xl" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Ana_Luisa_de_Jes%C3%BAs_Quintana_Paz_Peluffo.jpg"/>
-
-
 
 Esta hermosa actriz, que en décadas pasadas escandalizó a la sociedad mexicanas por sus desnudos artísticos y en el cine, ostenta hasta hoy el récord de la actriz mexicana más longeva.
 
@@ -90,16 +83,13 @@ La curvilínea bailarina que hizo cimbrar a los hombres en películas de la déc
 
 <img class="image image--xl border shadow" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Mar%C3%ADa_Victoria_Cervantes%2C_c._1950s.jpg"/>
 
-
 Por su forma de cantar, la apodaban "La dama del pujidito", y se hizo célebre por sus papeles cómicos en las series _La criada bien criada_ y _Mis_ _huéspedes_, ¿te acuerdas de ella?…
 
 ### Eric del Castillo
 
 #### 88 años (22 de junio de 1933)
 
-
 <img class="image image--xl border shadow" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eric_del_Castillo_in_2017.jpg"/>
-
 
 Este galán y excelente actor —al que muchos llaman "suegro" por su hija Kate— es otro ejemplo de cómo envejecer con dignidad y apostura, a pesar de algunos problemas de salud.
 

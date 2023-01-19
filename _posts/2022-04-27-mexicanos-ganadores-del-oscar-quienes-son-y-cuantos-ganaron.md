@@ -7,23 +7,21 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-27-oscar-3679610_1280.jpeg"
 sharing: true
-title: 'Mexicanos ganadores del Oscar: quiénes son y cuántos ganaron'
+title: "Mexicanos ganadores del Oscar: quiénes son y cuántos ganaron"
 author: Francisco Massé
 cover: "/images/2022-04-27-oscar-3679610_1280.jpeg"
 tags: cine mexico farandula peliculas
 show_author_profile: false
 comment: false
-summary: "¿Sabías que en total 16 mexicanos se han llevado el Premio de la Academia,
+summary:
+  "¿Sabías que en total 16 mexicanos se han llevado el Premio de la Academia,
   mejor conocido como el Oscar?"
-
 ---
+
 El **Oscar** —oficialmente llamado **Premio de la Academia** o "Academy Award"— es un galardón otorgado anualmente por la Academia de Ciencias y Artes Cinematográficas de Estados Unidos a los personajes más destacados del cine en aquel país. Por ello, resulta notable que existan **mexicanos** que se han levantado como **ganadores** de la preciada estatuilla. ¿Quieres saber **quiénes son** y **cuántos Oscares ganaron**?
 
 A continuación te damos la **lista completa**, con los nombres de los **ganadores**, sus **premios** y las producciones por las que los ganaron.
@@ -42,7 +40,7 @@ A continuación te damos la **lista completa**, con los nombres de los **ganador
 
 **Guillermo Navarro** — Mejor Fotografía por _El laberinto del fauno_ (2006)..
 
-__Lupita Nyong'o*__ — Mejor Actriz Secundaria por _12 Years A Slave_ (2013).
+**Lupita Nyong'o\*** — Mejor Actriz Secundaria por _12 Years A Slave_ (2013).
 
 ![](https://i0.wp.com/i1.ytimg.com/vi/fTA-1DkKHxI/maxresdefault.jpg)
 
@@ -52,7 +50,7 @@ __Lupita Nyong'o*__ — Mejor Actriz Secundaria por _12 Years A Slave_ (2013).
 
 **Emile Kuri** — Mejor Dirección de Arte y Decorados por _The Heiress_ (1949) y _20,000 leguas de viaje submarino_ (1954).
 
-__Anthony Quinn*__ — Mejor Actor Secundario por _Viva Zapata_ (1952) y _Lust for Life_ (1956).
+**Anthony Quinn\*** — Mejor Actor Secundario por _Viva Zapata_ (1952) y _Lust for Life_ (1956).
 
 **Manuel Arango** — Mejor Cortometraje y Mejor Documental Corto por _Centinelas del silencio_ (1971).
 

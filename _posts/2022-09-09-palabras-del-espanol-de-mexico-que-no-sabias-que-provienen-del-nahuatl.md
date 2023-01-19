@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-09-09-la_derrota_en_la_batalla_de_atlixco_contra_los_huejotzingas-_en_el_folio_168v.png"
 sharing: true
 title: Palabras del español de México que no sabías que provienen del náhuatl
-summary: El español que usamos en México no es igual al de otros países, debido a
+summary:
+  El español que usamos en México no es igual al de otros países, debido a
   la influencia de lenguas indígenas como el náhuatl en nuestra habla cotidiana…
 cover: "/images/2022-09-09-la_derrota_en_la_batalla_de_atlixco_contra_los_huejotzingas-_en_el_folio_168v.png"
 tags: lenguaje palabras frases mexicas
 show_author_profile: false
 comment: false
-
 ---
+
 Los lingüistas y demás estudiosos de la lengua española saben bien que el español que se habla, por ejemplo, en España o en Argentina, no es igual ni tiene el mismo vocabulario que el español de México. Esto no está mal ni tiene nada de extraño, pues se debe a la influencia de lo que se llama "el sustrato lingüístico", término que se refiere a las distintas lenguas indígenas que se hablaban en nuestro país antes de la imposición del español o castellano. Por eso es que en el habla cotidiana de los mexicanos, especialmente en la región central donde alguna vez se ubicó el Imperio Mexica, usamos una gran cantidad de voces, vocablos y palabras que provienen de la lengua náhuatl, que son llamadas nahuatlismos.
 
 A continuación, te compartimos una breve lista de las más usuales o de las más sorprendentes, porque según los diccionarios existen miles de ellas, fruto de la mezcla de nuestras dos raíces étnicas, culturales y lingüísticas más importantes, la española y la indígena.
@@ -45,7 +43,7 @@ Este simpático y tierno animalito es nativo de México, y tiene la particularid
 
 ### Chipi chipi
 
-Esta expresión se refiere a una lluvia muy ligera, muy menuda. Y no, aunque no lo creas, no se trata de una onomatopeya —es decir, una palabra derivada del sonido, tales como ¡guau! o ¡pum!— de las gotas al caer, sino de la palabra náhuatl _chichipictli_, que significa 'gota'. 
+Esta expresión se refiere a una lluvia muy ligera, muy menuda. Y no, aunque no lo creas, no se trata de una onomatopeya —es decir, una palabra derivada del sonido, tales como ¡guau! o ¡pum!— de las gotas al caer, sino de la palabra náhuatl _chichipictli_, que significa 'gota'.
 
 ### Tlacoyo
 
@@ -59,7 +57,7 @@ Uno de los frutos más populares y deliciosos de **México**, con el que se elab
 
 ### Chocolate
 
-En esencia, el chocolate proviene del árbol llamado cacaotero, que da unos frutos del cual se obtiene el cacao, el cual ya procesado en industrializado se convierte en cocoa, un polvo del que se obtiene el preciado chocolate. Sobre esta palabra, hay distintas versiones: una dice que proviene de _xococ_, 'agrio' y atl, 'agua'; mientras que otra sostiene que las raíces son _póchotl_, 'semilla de ceiba', _cacáuatl '_cacao' y _atl_, 'agua', de donde saldría _pocho-cacaua-atl_ ‘bebida de cacao y ceiba’, abreviado por los españoles en _chocauatl._
+En esencia, el chocolate proviene del árbol llamado cacaotero, que da unos frutos del cual se obtiene el cacao, el cual ya procesado en industrializado se convierte en cocoa, un polvo del que se obtiene el preciado chocolate. Sobre esta palabra, hay distintas versiones: una dice que proviene de _xococ_, 'agrio' y atl, 'agua'; mientras que otra sostiene que las raíces son _póchotl_, 'semilla de ceiba', _cacáuatl '\_cacao' y \_atl_, 'agua', de donde saldría _pocho-cacaua-atl_ ‘bebida de cacao y ceiba’, abreviado por los españoles en _chocauatl._
 
 ### Mole
 

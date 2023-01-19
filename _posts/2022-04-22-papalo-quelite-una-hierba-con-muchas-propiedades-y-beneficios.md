@@ -5,14 +5,11 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-22-papalo1.jpg"
 sharing: true
-title: 'Papalo quelite: una hierba con muchas propiedades y beneficios'
+title: "Papalo quelite: una hierba con muchas propiedades y beneficios"
 author: Francisco Massé
 cover: "/images/2022-04-22-papalo1.jpg"
 categories: GASTRONOMIA
@@ -20,10 +17,11 @@ subcategorie: NUESTRACOCINA
 tags: gastronomia hierbas medicina folclor
 show_author_profile: false
 comment: false
-summary: "¿Qué sería de un taco placero sin su pápalo quelite? ¿Y sabías que tiene
+summary:
+  "¿Qué sería de un taco placero sin su pápalo quelite? ¿Y sabías que tiene
   muchos beneficios para tu salud?"
-
 ---
+
 Entre las muchas **hierbas** y plantas que sazonan nuestra gastronomía, una que destaca es el llamado “**pápalo quelite**”, el cual es usado por su sabor fuerte en tacos placeros y otros platillos. Pero, ¿sabías que además tiene muchas **propiedades** y trae muchos **beneficios** a la **salud**?
 
 Enseguida te platicamos un poco de su origen, sus usos en la cocina y, sobre todo, de lo bueno que resulta su consumo para tu organismo.
@@ -38,12 +36,12 @@ Su uso proviene de épocas muy antiguas pues, como su propio nombre lo indica, e
 
 Según el Gobierno de México, algunas de sus **propiedades** y **beneficios** dentro de la medicina tradicional son los siguientes:
 
-* Es rico en **antioxidantes** y **minerales** como calcio, potasio y fósforo. Para aprovechar mejor sus nutrientes se recomienda consumirlo crudo y fresco.
-* También combate las **enfermedades respiratorias**, ayuda a reducir la **inflamación** y el dolor del **reumatismo**.
-* Alivia **dolores de muela**.
-* Mejora los **problemas de la vista**.
-* Controla los niveles de **colesterol**.
-* Ayuda a combatir la **anemia**.
-* Y además, funciona como **anticancerígeno**.
+- Es rico en **antioxidantes** y **minerales** como calcio, potasio y fósforo. Para aprovechar mejor sus nutrientes se recomienda consumirlo crudo y fresco.
+- También combate las **enfermedades respiratorias**, ayuda a reducir la **inflamación** y el dolor del **reumatismo**.
+- Alivia **dolores de muela**.
+- Mejora los **problemas de la vista**.
+- Controla los niveles de **colesterol**.
+- Ayuda a combatir la **anemia**.
+- Y además, funciona como **anticancerígeno**.
 
 Como puedes ver, nuestro querido **pápalo** es todo un estuche de monerías, así que si por su sabor lo omites dentro de tu consumo diario, quizá sea momento de darle una segunda oportunidad, ¿qué dices? ¿Te animas?

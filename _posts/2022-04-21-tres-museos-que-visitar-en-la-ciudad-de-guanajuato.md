@@ -5,11 +5,8 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-21-patio_central_de_la_alhondiga_de_granaditas.jpeg"
 sharing: true
 title: Tres museos que visitar en la ciudad de Guanajuato
@@ -19,11 +16,12 @@ categories: TURISMO
 tags: turismo cultura museos guanajuato
 show_author_profile: false
 comment: false
-summary: Guanajuato es una ciudad llena de arte e historia, por eso te recomendamos
+summary:
+  Guanajuato es una ciudad llena de arte e historia, por eso te recomendamos
   tres museos para visitar.
 subcategorie: CIUDADES
-
 ---
+
 Una de las **ciudades coloniales** mexicanas más hermosas y cargadas de historia es, sin duda, **Guanajuato** . Esta urbe minera, que es la capital del estado donde se forjó nuestra independencia y sede del **Festival Internacional Cervantino** , guarda entre sus calles y callejones una diversidad de **museos** que vale la pena visitar.
 
 A continuación te presentamos tres de los muchos **museos** que te esperan en **Guanajuato** . ¿Te animas a conocerlos?

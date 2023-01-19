@@ -7,29 +7,27 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-06-17-posada.jpg"
 sharing: true
 title: 'José Guadalupe Posada: el "papá" de la Catrina'
-summary: Este grabador hidrocálido que vivió a principios del siglo XX se especializó
+summary:
+  Este grabador hidrocálido que vivió a principios del siglo XX se especializó
   en la creación de calaveras para burlarse de la alta sociedad
 cover: "/images/2022-06-17-posada.jpg"
 tags: artes grabado catrina sigloxx
 show_author_profile: false
 comment: false
-
 ---
+
 Mucha gente en el mundo relaciona a la **Catrina**, esa **calavera** estilizada y elegantemente vestida, con el **arte** de **México**. Pero, ¿tú sabías que el grabador **José Guadalupe Posada** fue quien ideó la famosa figura?
 
 Hoy te platicaremos un poco de este gran artista, de su obsesión con las **calaveras**, de sus demás **obras** y de la triste forma en que halló la muerte.
 
 TE RECOMENDAMOS:
 
-**José Guadalupe Posada Aguilar** nació el 2 de febrero de 1852 en la ciudad de Aguascalientes. Desde pequeño mostró aptitudes artísticas, de modo que después de aprender a leer y escribir se inscribió a la Academia Municipal de Dibujo de Aguascalientes. A los 16 años ya era aprendiz en el taller de Trinidad Pedroza y ahí empezó a hacer caricaturas políticas e imágenes religiosas. 
+**José Guadalupe Posada Aguilar** nació el 2 de febrero de 1852 en la ciudad de Aguascalientes. Desde pequeño mostró aptitudes artísticas, de modo que después de aprender a leer y escribir se inscribió a la Academia Municipal de Dibujo de Aguascalientes. A los 16 años ya era aprendiz en el taller de Trinidad Pedroza y ahí empezó a hacer caricaturas políticas e imágenes religiosas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Jos%C3%A9_Guadalupe_Posada%2C_Calavera_oaxaque%C3%B1a%2C_broadsheet%2C_1903.jpg/771px-Jos%C3%A9_Guadalupe_Posada%2C_Calavera_oaxaque%C3%B1a%2C_broadsheet%2C_1903.jpg)
 

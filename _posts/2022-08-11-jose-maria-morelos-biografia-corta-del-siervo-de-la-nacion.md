@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-08-11-morelos1.jpg"
 sharing: true
-title: 'José María Morelos: biografía corta del ''Siervo de la Nación'''
-summary: 'Luego de la muerte de Hidalgo y Allende, el continuador de la lucha independentista
-  fue Morelos: conoce un poco de su vida…'
+title: "José María Morelos: biografía corta del 'Siervo de la Nación'"
+summary:
+  "Luego de la muerte de Hidalgo y Allende, el continuador de la lucha independentista
+  fue Morelos: conoce un poco de su vida…"
 cover: "/images/2022-08-11-morelos1.jpg"
 tags: historia mexico independencia biografias personajes
 show_author_profile: false
 comment: false
-
 ---
+
 Todo mundo recuerda a **Miguel Hidalgo** porque, con su **Grito de Dolores**, dio inicio a la guerra armada por la **Independencia** de **México**; sin embargo, otro personaje central en el movimiento insurgente fue **José María Morelos**, quien continuó la lucha tras la muerte de **Hidalgo** y se nombró a sí mismo 'El **Siervo de la Nación**'. Conozcamos un poco de su **biografía**, su **obra** y su **vida** de servicio a la Patria.
 
 Todo empezó en la ciudad de Valladolid, que en tiempos de la Nueva España tenía ese nombre inspirado en el de una urbe española, pero que tras la Independencia fue conocida como **Morelia** en honor a este **insurgente**, y actualmente es la capital del estado de Michoacán.
@@ -45,11 +43,11 @@ El **sitio de Cuautla** duró más de sesenta días, en los que **Morelos** cons
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/25/Mexico.JoseMariaMorelos.01.jpg)
 
-En noviembre de 1812, luego de tomar Tehuacán y Orizaba, **Morelos** se lanzó a la toma de la ciudad de Oaxaca, la cual capituló a finales de mes, y ahí se estableció la Junta insurgente.  En diciembre del mismo año, de ahí se dirigió a cumplir la misión que dos años antes le había encargado **Hidalgo**: tomar el puerto de **Acapulco**. Luego de un sitio que duró cuatro meses, el Fuerte de San Diego se rindió en agosto de 1813.
+En noviembre de 1812, luego de tomar Tehuacán y Orizaba, **Morelos** se lanzó a la toma de la ciudad de Oaxaca, la cual capituló a finales de mes, y ahí se estableció la Junta insurgente. En diciembre del mismo año, de ahí se dirigió a cumplir la misión que dos años antes le había encargado **Hidalgo**: tomar el puerto de **Acapulco**. Luego de un sitio que duró cuatro meses, el Fuerte de San Diego se rindió en agosto de 1813.
 
 El 13 de septiembre de ese año, **Morelos** organizó el Congreso de Chilpancingo —también llamado Congreso de Anáhuac—, el cual era la primera reunión oficial de los insurgentes donde se declaró la independencia de América septentrional. En ese congreso **Morelos** dio lectura al famoso documento **"Sentimientos de la Nación"**, donde destacó la importancia de los derechos humanos y de la libertad; ese documento se considera el primer antecedente de la constitución política mexicana. En esa ocasión, Morelos fue nombrado Generalísimo y, ante la tentativa de ser reconocido como "Alteza Serenísima", el insurgente rechazó el cargo y se autonombró '**Siervo de la Nación**'.
 
-El 23 de diciembre, **Morelos**, Bravo y Galeana atacaron Valladolid, ciudad natal del primero, pero fueron repelidos. De ahí, una parte del ejército marchó a Puruarán en enero de 1814, donde Matamoros fue apresado, enjuiciado y fusilado, a pesar de que **Morelos** había ofrecido 300 soldados realistas a cambio de la vida del militar. El 22 de octubre de 1814, el Congreso promulgó en **Apatzingán** la primera constitución de la historia de México. El 5 de noviembre de 1815, **José María Morelos** fue capturado en Tezmalaca, Guerrero, junto con otros 200 soldados insurgentes, por las tropas de Manuel de la Concha. Morelos fue llevado a la Ciudad de México el 13 de noviembre de 1815 para ser enjuiciado. 
+El 23 de diciembre, **Morelos**, Bravo y Galeana atacaron Valladolid, ciudad natal del primero, pero fueron repelidos. De ahí, una parte del ejército marchó a Puruarán en enero de 1814, donde Matamoros fue apresado, enjuiciado y fusilado, a pesar de que **Morelos** había ofrecido 300 soldados realistas a cambio de la vida del militar. El 22 de octubre de 1814, el Congreso promulgó en **Apatzingán** la primera constitución de la historia de México. El 5 de noviembre de 1815, **José María Morelos** fue capturado en Tezmalaca, Guerrero, junto con otros 200 soldados insurgentes, por las tropas de Manuel de la Concha. Morelos fue llevado a la Ciudad de México el 13 de noviembre de 1815 para ser enjuiciado.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Fusilamiento_Morelos.jpg/1024px-Fusilamiento_Morelos.jpg)
 

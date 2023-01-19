@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-06-07-1280px-museo_nacional_de_antropologia_-_wiki_takes_antropologia_020.jpeg"
 sharing: true
 title: "¿Cuáles son los museos más visitados de México?"
-summary: Uno de los más grandes atractivos para los turistas nacionales y extranjeros,
+summary:
+  Uno de los más grandes atractivos para los turistas nacionales y extranjeros,
   son los museos de México; ¿sabes cuáles son los que más visitantes reciben?
 cover: "/images/2022-06-07-1280px-museo_nacional_de_antropologia_-_wiki_takes_antropologia_020.jpeg"
 tags: museos ciudades arqueología cultura
 show_author_profile: false
 comment: false
-
 ---
+
 México es un país con mucha **historia**, desde nuestro pasado prehispánico, pasando por el Virreinato, el México independiente, hasta llegar al siglo XX. Eso se refleja en la cantidad y la calidad de nuestros **museos**, los cuales ponen al alcance del público la **cultura**, las **artes** y los vestigios de todo nuestro pasado. Pero, ¿sabes **cuáles son los museos más visitados de México**?
 
 A continuación, te compartimos una lista con los diez recintos museísticos que **más visitantes** recibieron en un año. Cabe aclarar que, debido a la pandemia por covid, que mantuvo cerrados muchos de estos recintos desde marzo de 2020 hasta hace relativamente poco, no existen cifras recientes al respecto; así, consignamos los registros correspondientes a 2019, reportados en enero de 2020.
@@ -69,6 +67,6 @@ El último de los museos en este conteo también se encuentra en el **Bosque de 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Museo_de_Arte_Moderno_DSC0023_%2835557149325%29.jpg/1280px-Museo_de_Arte_Moderno_DSC0023_%2835557149325%29.jpg)
 
-A estos museos les siguen, en orden descendente de acuerdo al número de visitantes anuales, el **Museo Nacional de las Culturas**, el **Museo Nacional de Arte** —también conocido como Munal—, ubicados en el centro de la CdMx, y el **Museo Nacional de Arquitectura**, ubicado en la planta alta del Palacio de Bellas Artes. Ya fuera de la capital, los de mayor concurrencia son el **Museo Regional de Guanajuato**, ubicado en la Alhóndiga de Granaditas, y el **Museo del Fuerte de San Juan de Ulúa**, en el bello puerto de Veracruz. 
+A estos museos les siguen, en orden descendente de acuerdo al número de visitantes anuales, el **Museo Nacional de las Culturas**, el **Museo Nacional de Arte** —también conocido como Munal—, ubicados en el centro de la CdMx, y el **Museo Nacional de Arquitectura**, ubicado en la planta alta del Palacio de Bellas Artes. Ya fuera de la capital, los de mayor concurrencia son el **Museo Regional de Guanajuato**, ubicado en la Alhóndiga de Granaditas, y el **Museo del Fuerte de San Juan de Ulúa**, en el bello puerto de Veracruz.
 
 ¿Qué tal? ¿Ya los conoces todos?…

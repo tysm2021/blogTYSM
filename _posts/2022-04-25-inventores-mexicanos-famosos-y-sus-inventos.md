@@ -7,11 +7,8 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-25-gonzalezcamarena.jpeg"
 sharing: true
 title: Inventores mexicanos famosos y sus inventos
@@ -20,10 +17,11 @@ cover: "/images/2022-04-25-gonzalezcamarena.jpeg"
 tags: cultura inventos inventores mexicanos
 show_author_profile: false
 comment: false
-summary: Además de la TV a color de González Camarena, ¿qué otros grandes inventos
+summary:
+  Además de la TV a color de González Camarena, ¿qué otros grandes inventos
   son mexicanos?
-
 ---
+
 Los mexicanos somos un pueblo lleno de talento e inventiva. Por eso, desde los principios de su historia ha habido toda una serie de **inventores** que, gracias a su esfuerzo y creatividad, han aportado grandes e innovadoras soluciones al mundo. Pero, ¿**quiénes son** los más **famosos** y cuáles son sus **inventos** más notables?
 
 A continuación te presentamos a algunos inventores y sus creaciones, en estricto orden cronológico. Aunque en algunos casos la creación mexicana sirvió de base para el invento que todos conocemos, seguramente te sorprenderá saber que muchos de estos adelantos los debemos a un mexicano.

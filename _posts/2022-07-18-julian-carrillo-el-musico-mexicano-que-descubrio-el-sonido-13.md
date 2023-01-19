@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-07-18-juliancarrillo.jpg"
 sharing: true
 title: Julián Carrillo, el músico mexicano que descubrió el "sonido 13"
-summary: Este músico mexicano es conocido en todo el mundo por descubrir o crear el
+summary:
+  Este músico mexicano es conocido en todo el mundo por descubrir o crear el
   llamado "sonido 13", ¿sabes qué es y por qué es importante?
 cover: "/images/2022-07-18-juliancarrillo.jpg"
 tags: musica personajes biografias
 show_author_profile: false
 comment: false
-
 ---
+
 Muchos músicos mexicanos han brillado en el firmamento del estrellato, a veces como cantantes o como intérpretes de algún instrumentos, y otras como compositores. De entre ellos, destaca el potosino **Julián Carrillo**, quien , entre otros logros musicales desarrolló el llamado "**sonido 13**" y el microtonalismo. Aquí te contamos un poco de su **biografía** y acerca del significado de su **descubrimiento**.
 
 Además del sonido 13, **Carrillo** brilló con luz propia en México y en el extranjero, fue director de la Orquesta Sinfónica Nacional, así como director del Conservatorio Nacional de Música de la Ciudad de México.
@@ -37,7 +35,7 @@ Carrillo quedó maravillado con la teoría matemática y empezó a experimentar 
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">From Julián Carrillo' Preludio a Cristóbal Colón - a microtonal piece! <a href="https://t.co/71i4lI6VKk">pic.twitter.com/71i4lI6VKk</a></p>— Musical Notation is Beautiful (@NotationIsGreat) <a href="https://twitter.com/NotationIsGreat/status/1521961349278052353?ref_src=twsrc%5Etfw">May 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**Julián Carrillo** llamó inicialmente "**Sonido 13**" al intervalo de un dieciseisavo de tono, cuyo valor matemático es de 1.0072, en contraste con los doce tonos de la escala musical convencional —siete notas que van de Do a Si, más cinco bemoles o sostenidos—. Más tarde utilizó el término para denominar así al  **sistema microtonal** que creó en su totalidad: luego de su ardua experimentación, **Carrillo** logró producir y registrar 4640 sonidos diferentes en la octava.
+**Julián Carrillo** llamó inicialmente "**Sonido 13**" al intervalo de un dieciseisavo de tono, cuyo valor matemático es de 1.0072, en contraste con los doce tonos de la escala musical convencional —siete notas que van de Do a Si, más cinco bemoles o sostenidos—. Más tarde utilizó el término para denominar así al **sistema microtonal** que creó en su totalidad: luego de su ardua experimentación, **Carrillo** logró producir y registrar 4640 sonidos diferentes en la octava.
 
 Por intercesión del presidente Porfirio Díaz, **Julián** recibió una beca para estudiar música en Leipzig, Alemania, donde compuso su primera sinfonía. A su regreso es nombrado profesor en el Conservatorio Nacional y, años más tarde, director del mismo. Después, **Carrillo** hizo otro viaje pero esta vez a Nueva York, donde fundó la Orquesta Sinfónica América. A su retorno, en 1918, es nombrado director de la Orquesta Sinfónica Nacional, que bajo su batuta alcanza un nivel de excelencia.
 

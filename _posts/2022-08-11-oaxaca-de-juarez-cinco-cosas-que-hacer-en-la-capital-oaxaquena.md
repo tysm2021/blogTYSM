@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-08-11-1280px-catedral_oaxaca_juarez.jpeg"
 sharing: true
-title: 'Oaxaca de Juárez: cinco cosas que hacer en la capital oaxaqueña'
-summary: 'Una de las ciudades más ricas en cultura, folclor y gastronomía es Oaxaca:
-  aquí unas recomendaciones para el turista'
+title: "Oaxaca de Juárez: cinco cosas que hacer en la capital oaxaqueña"
+summary:
+  "Una de las ciudades más ricas en cultura, folclor y gastronomía es Oaxaca:
+  aquí unas recomendaciones para el turista"
 cover: "/images/2022-08-11-1280px-catedral_oaxaca_juarez.jpeg"
 tags: turismo ciudades oaxaca
 show_author_profile: false
 comment: false
-
 ---
+
 Con sus quinientos setenta municipios, **Oaxaca** no podría ser un estado más diverso en cuanto a **cultura**, **historia**, **folclor**, tradiciones y **gastronomía**. Y esto aplica también a su **ciudad** capital, **Oaxaca de Juárez**, donde el **turista** podrá encontrar un sinfín de actividades interesantes que hacer durante su estadía. Aquí te recomendamos **cinco** que son infaltables.
 
 Ya sea que te guste caminar y admirar la **arquitectura**, que seas un entusiasta de nuestra **cultura** prehispánica, o que lo tuyo sea la **gastronomía**, la comida y las bebidas, a continuación te darás cuenta de que **Oaxaca** tiene algo que ofrecer para personas de todos los gustos.

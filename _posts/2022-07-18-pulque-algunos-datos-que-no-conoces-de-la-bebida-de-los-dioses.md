@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-07-18-mx_tv_museo_del_pulque_y_las_pulquerias_24.jpeg"
 sharing: true
 title: 'Pulque: algunos datos que no conoces de la "bebida de los dioses"'
-summary: Desde tiempos prehispánicos, el pulque obtenido de la fermentación del agave
+summary:
+  Desde tiempos prehispánicos, el pulque obtenido de la fermentación del agave
   ha deleitado al paladar de los mexicanos…
 cover: "/images/2022-07-18-mx_tv_museo_del_pulque_y_las_pulquerias_24.jpeg"
-tags: 'bebidas agave '
+tags: "bebidas agave "
 show_author_profile: false
 comment: false
-
 ---
+
 Algunos, atendiendo a su origen mitológico de siglos, dicen que el **pulque** es "la **bebida de los dioses**"; otros lo aprecian por su origen, por su historia y por la tradición; y muchos más, simplemente porque es una **bebida** alcohólica deliciosa y muy mexicana. Por eso, aquí te compartimos algunos **datos** **curiosos** sobre el **pulque** que a lo mejor no conocías.
 
 Recuerda que no sólo puedes disfrutarlo al natural, sino que también tenemos una gran variedad de "curados", que vienen mezclados con ingredientes naturales como frutas y verduras, así como con sabores que no niegan que es un producto netamente de estas tierras…
@@ -39,7 +37,7 @@ Con el corazón destrozado, Quetzalcóatl rescató los restos de la planta y la 
 
 ### Tiene un origen histórico
 
-Más allá de la leyenda, el **pulque** es una bebida alcohólica fermentada que tiene su origen en tiempos prehispánicos; se obtiene del **maguey** y se elabora a partir de la fermentación de  una sustancia de textura viscosa, propia de algunos vegetales, llamado mucílago pero popularmente conocido como “**aguamiel**”.
+Más allá de la leyenda, el **pulque** es una bebida alcohólica fermentada que tiene su origen en tiempos prehispánicos; se obtiene del **maguey** y se elabora a partir de la fermentación de una sustancia de textura viscosa, propia de algunos vegetales, llamado mucílago pero popularmente conocido como “**aguamiel**”.
 
 ### Es una bebida fermentada
 

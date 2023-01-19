@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-08-17-1280px-mimosa-tenuiflora-jurema-yellow.jpeg"
 sharing: true
-title: 'Tepezcohuite: usos y beneficios de esta planta medicinal ancestral'
-summary: 'A mediados de la década de 1980, una tragedia llevó a la fama esta planta
-  medicinal: conozcamos sus usos tradicionales y en la medicina '
+title: "Tepezcohuite: usos y beneficios de esta planta medicinal ancestral"
+summary:
+  "A mediados de la década de 1980, una tragedia llevó a la fama esta planta
+  medicinal: conozcamos sus usos tradicionales y en la medicina "
 cover: "/images/2022-08-17-1280px-mimosa-tenuiflora-jurema-yellow.jpeg"
 tags: medicina plantas folclor
 show_author_profile: false
 comment: false
-
 ---
+
 Hace algunas décadas, una tragedia de grandes dimensiones trajo a la luz esta **planta** ancestral, que dentro de la **herbolaria** y la **medicina tradicional** durante siglos ha servido para tratar **quemaduras** y diversas **enfermedades** o afecciones de la **piel**. ¿Qué es el **tepezcohuite**, **para qué sirve** y cuáles son sus **usos** y **beneficios**? A continuación te lo contamos.
 
 Aunque actualmente es un **remedio** conocido que se puede encontrar en forma de pomada casi cualquier farmacia o en negocios de **herbolaria** y **medicina** **alternativa**, fue hasta hace relativamente poco que su **uso** se popularizó. Aquí te contamos la historia…
@@ -45,4 +43,4 @@ La efectividad del **tepezcohuite** radica en el poder cicatrizante de su cortez
 
 Según los médicos que trataron a los quemados de San Juanico, el **tepezcohuite** reporta grandes **beneficios** contra tres agentes nocivos propios de las **quemaduras** de segundo y tercer grados: el **dolor**, las **infecciones** y la **deshidratación**. Según un artículo de la Universidad Veracruzana, la "empanizada" con **tepezcohuite** tenía sus ventajas, pues el polvo vegetal formaba una masa que, al endurecerse, se convertía en una costra que protegía herméticamente el tejido subyacente; varias semanas después, al desprenderse la costra y lavar con agua tibia las heridas, la piel nueva y rosada aparecía casi siempre sin retracción e impecable.
 
-Actualmente, el **tepezcohuite** se comercializa en pomada y ungüentos, aunque quienes saben dicen que la mejor manera de aplicarse es, justo, obteniendo la **corteza** seca, moliéndola hasta reducirla a un polvo con el que se "empaniza" la piel para obtener los mejores beneficios. Fuera del ámbito terapéutico, algunas personas reportan también un uso estético, pues reduce las manchas y las cicatrices en el cutis del rostro. 
+Actualmente, el **tepezcohuite** se comercializa en pomada y ungüentos, aunque quienes saben dicen que la mejor manera de aplicarse es, justo, obteniendo la **corteza** seca, moliéndola hasta reducirla a un polvo con el que se "empaniza" la piel para obtener los mejores beneficios. Fuera del ámbito terapéutico, algunas personas reportan también un uso estético, pues reduce las manchas y las cicatrices en el cutis del rostro.

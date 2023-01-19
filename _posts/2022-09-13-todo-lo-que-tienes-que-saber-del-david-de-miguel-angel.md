@@ -7,23 +7,21 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-09-13-1280px-david-_by_michelangelo_jbu14.jpeg"
 sharing: true
 title: Todo lo que tienes que saber del David de Miguel Ángel
-summary: 'Es reconocida como una de las esculturas más bellas del mundo y una muestra
-  del Renacimiento italiano: aquí te decimos todo lo que hay que saber'
+summary:
+  "Es reconocida como una de las esculturas más bellas del mundo y una muestra
+  del Renacimiento italiano: aquí te decimos todo lo que hay que saber"
 cover: "/images/2022-09-13-1280px-david-_by_michelangelo_jbu14.jpeg"
 tags: mundo turismo europa artes
 show_author_profile: false
 comment: false
-
 ---
-Es una de las obras de arte más famosas y más hermosas del mundo, y fue creada por el maestro del Renacimiento italiano **Michelangelo Buonarroti** o **Miguel Ángel,** en español. Pero, ¿a **quién** representa, **cuánto mide**, **dónde está** y **cuándo** fue esculpida esta obra maestra? En este artículo te compartimos **todo lo que hay que saber** sobre esta monumental **escultura**  de mármol.
+
+Es una de las obras de arte más famosas y más hermosas del mundo, y fue creada por el maestro del Renacimiento italiano **Michelangelo Buonarroti** o **Miguel Ángel,** en español. Pero, ¿a **quién** representa, **cuánto mide**, **dónde está** y **cuándo** fue esculpida esta obra maestra? En este artículo te compartimos **todo lo que hay que saber** sobre esta monumental **escultura** de mármol.
 
 Como dato curioso, vale la pena mencionar que en México tenemos una réplica del '**David**' de **Miguel Ánge**l, aunque está hecha en bronce, la cual se puede contemplar en la Plaza Río de Janeiro, una de las más visitadas en la colonia Roma de la Ciudad de México.
 
@@ -43,7 +41,7 @@ La escultura que nos ocupa en este artículo representa a nadie menos que al fam
 
 ### ¿Cuándo se esculpió?
 
-Luego de que dos notables escultores empezaron a tallar un enorme bloque del afamado mármol traído de Carrara, Italia, **Miguel Ángel** convenció a la poderosa unión de comerciantes florentinos de la lana, de que él era el escultor adecuado para completar la tarea de esculpir al monumental rey **David**. Así, empezó a trabajar en el bloque la mañana del 13 de septiembre de **1501** y terminó la escultura a mediados del mes de junio de **1504**. 
+Luego de que dos notables escultores empezaron a tallar un enorme bloque del afamado mármol traído de Carrara, Italia, **Miguel Ángel** convenció a la poderosa unión de comerciantes florentinos de la lana, de que él era el escultor adecuado para completar la tarea de esculpir al monumental rey **David**. Así, empezó a trabajar en el bloque la mañana del 13 de septiembre de **1501** y terminó la escultura a mediados del mes de junio de **1504**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Michelangelo%27s_David.JPG/685px-Michelangelo%27s_David.JPG)
 

@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-06-28-1280px-torta_ahogada.jpeg"
 sharing: true
 title: Las tortas más famosas y sabrosas de todo México
-summary: 'La fórmula es simple: un alimento en medio de un pan blanco; ¿cuáles son
-  las mejores tortas mexicanas?'
+summary:
+  "La fórmula es simple: un alimento en medio de un pan blanco; ¿cuáles son
+  las mejores tortas mexicanas?"
 cover: "/images/2022-06-28-1280px-torta_ahogada.jpeg"
 tags: platillos antojitos
 show_author_profile: false
 comment: false
-
 ---
+
 A diferencia de otros países, donde "**torta**" es sinónimo del pastel que se comparte cuando alguien cumple años, los mexicanos así le llamamos al **antojito** que consiste en un alimento colocado en medio de un **pan** blanco. Hay desde las más básicas, como la de jamón, hasta verdaderas sofisticaciones como la torta ahogada, pasando por la popularísima "guajolota" capitalina, que es una torta de tamal.
 
 Acá van cinco de las tortas más famosas y sabrosas de todo el país, según los tragones profesionales de Toño y su mariachi. Recordemos que, como siempre pasa en un listado, ni están todas las que son ni son todas las que están.

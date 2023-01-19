@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-08-05-1280px-sealnationalcollegecharlotsicdf.jpeg"
 sharing: true
 title: Cinco artistas extranjeros que brillaron en México
-summary: 'Por su belleza natural y hospitalidad, México ha sido refugio de artistas
-  extranjeros que produjeron sus mejoras obras en nuestro país: conoce a algunos…'
+summary:
+  "Por su belleza natural y hospitalidad, México ha sido refugio de artistas
+  extranjeros que produjeron sus mejoras obras en nuestro país: conoce a algunos…"
 cover: "/images/2022-08-05-1280px-sealnationalcollegecharlotsicdf.jpeg"
 tags: cultura artes pintura extranjeros
 show_author_profile: false
 comment: false
-
 ---
+
 Desde hace más de 500 años, **México** ha sido una tierra hospitalaria que ha recibido a **migrantes** de muchas naciones europeas, asiáticas y de otras latitudes. Españoles, franceses, alemanes, británicos, rusos, irlandeses, libaneses, sirios, orientales y gente de otras nacionalidades ha llegado a nuestras tierras con la esperanza de hacer una nueva vida, y ha echado raíces que permean en nuestra **cultura**. Y las artes no son la excepción: por eso hoy te presentamos a **cinco artistas extranjeros** que realizaron lo mejor de su producción en tierras **mexicanas**.
 
 Hablamos del muralista francés **Jean Charlot**, de la pintora española **Remedios Varo**, del arquitecto y escultor alemán **Mathias Goerit**z, de la surrealista británica **Leonora Carrington** y de un pintor ruso que cariñosamente recibió el apodo de **Vlady**, quienes huyeron de una Europa dominada por los nazis y hallaron refugio en nuestro país. Conozcamos un poco sobre sus vidas y obras.
@@ -31,7 +29,7 @@ TE RECOMENDAMOS:
 
 ## Jean Charlot
 
-Empezamos con un artista relativamente poco conocido, pero que tiene una relevancia determinante en la vida artística de **México**. Nos referimos a **Louis Henri Jean Charlot**, quien nació en París, Francia, el 8 de febrero de 1898. Su madre, de quien heredó la vena artística, provenía de una familia de la Ciudad de **México** y supuestamente su bisabuelo tenía raíces mexicas, por lo que desde muy joven Jean se interesó en la cultura prehispánica mexicana e incluso aprendió a hablar náhuatl. Llegó a **México** junto con su madre en 1921. 
+Empezamos con un artista relativamente poco conocido, pero que tiene una relevancia determinante en la vida artística de **México**. Nos referimos a **Louis Henri Jean Charlot**, quien nació en París, Francia, el 8 de febrero de 1898. Su madre, de quien heredó la vena artística, provenía de una familia de la Ciudad de **México** y supuestamente su bisabuelo tenía raíces mexicas, por lo que desde muy joven Jean se interesó en la cultura prehispánica mexicana e incluso aprendió a hablar náhuatl. Llegó a **México** junto con su madre en 1921.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Masacre_en_el_Templo_Mayor_por_Jean_Charlot_01.jpg/1024px-Masacre_en_el_Templo_Mayor_por_Jean_Charlot_01.jpg)
 
@@ -51,7 +49,7 @@ A Remedios Varo la ubicamos dentro de la corriente surrealista, y fue aquí en M
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Torres_de_Sat%C3%A9lite_-_2.jpg/812px-Torres_de_Sat%C3%A9lite_-_2.jpg)
 
-En su obra destacan tanto las obras plásticas como la **escultura** y la **arquitectura**. También fue escenógrafo para el teatro y el cine mexicanos, aunque su obra más recordada son las famosas **Torres de Satélite**, que construyó en mancuerna con el mexicano **Luis Barragán**, además de otras obras escultóricas en el Hotel Camino Real y en la Ruta de la Amistad de la Ciudad de México. 
+En su obra destacan tanto las obras plásticas como la **escultura** y la **arquitectura**. También fue escenógrafo para el teatro y el cine mexicanos, aunque su obra más recordada son las famosas **Torres de Satélite**, que construyó en mancuerna con el mexicano **Luis Barragán**, además de otras obras escultóricas en el Hotel Camino Real y en la Ruta de la Amistad de la Ciudad de México.
 
 ## Leonora Carrington
 

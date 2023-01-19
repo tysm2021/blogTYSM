@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-07-14-migueldominguez.jpg"
 sharing: true
 title: Apodos y títulos de los héroes y heroínas de la historia de México
-summary: ¿Por qué a nuestros héroes les pusieron los apodos como "El apóstol de la
+summary:
+  ¿Por qué a nuestros héroes les pusieron los apodos como "El apóstol de la
   democracia", "El quince uñas" y "La Corregidora"?
 cover: "/images/2022-07-14-migueldominguez.jpg"
 tags: personajes independencia revolución sigloXIX siglo XX
 show_author_profile: false
 comment: false
-
 ---
+
 La historia de México, o al menos como nos la cuentan, cuenta con dos tipos de personajes: los villanos, que explotaban a los pobres, eran crueles e injustos, o se aferraban al poder, y los héroes, quienes ofrendaron incluso sus vidas en pro de la libertad, la justicia y la soberanía del país y de su pueblo. Por esas acciones muchos de ellos recibieron sobrenombres o apodos con los que son mayormente conocidos.
 
 Así las cosas, sabes quiénes son "El barón de Cuatrociénegas", "El quince uñas", "La Corregidora", "El centauro del norte", "El siervo de la Nación" o "El apóstol de la democracia". No te preocupes: aquí te lo contamos.
@@ -67,5 +65,5 @@ En la mitología griega, un centauro era una criatura fabulosa que tenía el tor
 
 ## El apóstol de la democracia
 
-Cuando se opuso al régimen de Porfirio Díaz, quien estaba en el poder desde hacía treinta años, **Francisco I. Madero** enarboló el emblema de "Sufragio efectivo, no reelección". Por eso, cuando lo derrotó limpiamente en las urnas el 6 de noviembre de 1911, pronunció la frase: "Estoy más orgulloso por las victorias obtenidas en el campo de la democracia que por las alcanzadas en los campos de batalla".  
+Cuando se opuso al régimen de Porfirio Díaz, quien estaba en el poder desde hacía treinta años, **Francisco I. Madero** enarboló el emblema de "Sufragio efectivo, no reelección". Por eso, cuando lo derrotó limpiamente en las urnas el 6 de noviembre de 1911, pronunció la frase: "Estoy más orgulloso por las victorias obtenidas en el campo de la democracia que por las alcanzadas en los campos de batalla".
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Madero_Retrato_%28Castillo_de_Chapultepec%29.png/527px-Madero_Retrato_%28Castillo_de_Chapultepec%29.png)

@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-06-14-1280px-guanajuato-_guanajuato_-23784476462.jpeg"
 sharing: true
 title: Cinco ciudades coloniales mexicanas y sus principales atractivos
-summary: Estas ciudades fueron fundadas en tiempos de la Colonia, entre los siglos
+summary:
+  Estas ciudades fueron fundadas en tiempos de la Colonia, entre los siglos
   XVI y XVIII
 cover: "/images/2022-06-14-1280px-guanajuato-_guanajuato_-23784476462.jpeg"
 tags: ciudades virreinato paseos
 show_author_profile: false
 comment: false
-
 ---
+
 En América Latina, se le llama "**ciudad colonial**" a un centro urbano construido durante los tres siglos de dominación española, del XVI al XVIII. Y en **México** tenemos varios ejemplos de **ciudades coloniales** que, por su **historia** y atractivos **turísticos**, vale la pena visitar.
 
 A continuación, un breve resumen sobre qué hacer en las hermosas **ciudades coloniales** de Guanajuato, Zacatecas, Morelia, San Luis Potosí y Puebla.

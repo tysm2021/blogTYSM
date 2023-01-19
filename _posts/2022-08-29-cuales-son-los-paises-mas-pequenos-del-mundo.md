@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-08-29-globe-3383088_1280-1.jpeg"
 sharing: true
 title: "¿Cuáles son los países más pequeños del mundo?"
-summary: Bien sabemos que países como Rusia, China o la India son gigantescos; pero,
+summary:
+  Bien sabemos que países como Rusia, China o la India son gigantescos; pero,
   en contraste, ¿cuáles son los más pequeños del planeta?
 cover: "/images/2022-08-29-globe-3383088_1280.jpeg"
 tags: mundo paises geografia datos
 show_author_profile: false
 comment: false
-
 ---
+
 En el mundo actual, dividido entre **países** y sus fronteras, al mirar un mapa nos damos cuenta de que hay Estados enormes como Rusia, Canadá, los Estados Unidos de América, Brasil, China o la India. Pero, en contraste, hay otros que miden apenas unos kilómetros cuadrados pero son estados libres; entonces, ¿**cuáles son los países más pequeños del mundo**?
 
 A continuación, te decimos cómo se llaman y **cuánto miden** estos "micro países" que cuentan con su propia bandera, su moneda y todas las instituciones que los hacen un **estado** libre, además del reconocimiento del resto de los **países** del mundo —descartamos de esta lista a los territorios, regiones o dependencias de otros **países**.
@@ -51,7 +49,7 @@ Oficialmente llamado República de **San Marino**, este país está enclavado en
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Menen_Hotel_%2815219270317%29.jpg/1024px-Menen_Hotel_%2815219270317%29.jpg)
 
-Otro pequeño país insular que se halla en el centro del Océano Pacífico, en la región conocida como la Micronesia, y consta de una sola isla situada justo sobre la línea del Ecuador. La capital de la República de **Nauru** se llama Yaren, y la población total del país es de unos 11 mil 500 habitantes, que ocupan los 23.1 kilómetros cuadrados de superficie que tiene su isla. Es un **Estado** independiente desde 1968, cuando se emancipó de Australia, y gran parte de su prosperidad económica se debe a la explotación de los depósitos de fosfato que se encuentran en la isla, el cual se usa como fertilizante y se exporta mayormente a la vecina Australia. 
+Otro pequeño país insular que se halla en el centro del Océano Pacífico, en la región conocida como la Micronesia, y consta de una sola isla situada justo sobre la línea del Ecuador. La capital de la República de **Nauru** se llama Yaren, y la población total del país es de unos 11 mil 500 habitantes, que ocupan los 23.1 kilómetros cuadrados de superficie que tiene su isla. Es un **Estado** independiente desde 1968, cuando se emancipó de Australia, y gran parte de su prosperidad económica se debe a la explotación de los depósitos de fosfato que se encuentran en la isla, el cual se usa como fertilizante y se exporta mayormente a la vecina Australia.
 
 ## Mónaco
 

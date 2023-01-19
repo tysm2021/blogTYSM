@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-10-04-1280px-menudo_-sopa_de_mexico.jpeg"
 sharing: true
-title: 'Pancita o menudo: el guiso popular al que hasta Tin-Tan le cantó'
-summary: El menudo o la pancita no es sino el estómago de la res cocido y guisado
+title: "Pancita o menudo: el guiso popular al que hasta Tin-Tan le cantó"
+summary:
+  El menudo o la pancita no es sino el estómago de la res cocido y guisado
   de distintas maneras… y dicen que es un gran remedio para la 'cruda'
 cover: "/images/2022-10-04-1280px-menudo_-sopa_de_mexico.jpeg"
 tags: gastronomia platillos
 show_author_profile: false
 comment: false
-
 ---
+
 La pancita, como se le llama en la Ciudad de México y los estados cercano, o menudo, como se le conoce en otros estados, es un guiso picante y caldoso que se elabora con el estómago de la res, el cual consta de varias partes. Su origen humilde se pierde entre la historia y la leyenda, y sus supuestas propiedades "curativas" para remediar la resaca o "cruda" lo han convertido en un platillo popular emblemático, al que hasta artistas como Tin-Tan le dedicaron una canción.
 
 Revisemos la historia, alguna receta y los detalles de la "rica pancita", como se le llama en mercados y puestos callejeros, pues aunque no es del gusto de todos, sin duda es un platillo mexicanísimo.
@@ -33,7 +31,7 @@ Dice una **leyenda** que la **pancita** o el **menudo** tienen su origen en Espa
 
 Una leyenda sobre este origen virreinal dice que, antiguamente, los carniceros vendían muy cara la pulpa de res —es decir, la carne—, razón por la cual los más pobres —es decir, los indígenas y los mestizos— no podían adquirirla. Otra versión dice que, más bien, no se les pegaba la gana expenderla, pues decían que "era comida para blancos, no para indios", de modo que éstos tenían que conformarse con las **vísceras**, las **tripas** y el **estómago**.
 
-Así fue —continúa el relato— que a alguno le vino la afortunada de cocinarlos con salsa de jitomate, chiles ancho y guajillo —según la receta—, hierbas como hoja de aguacate, cebolla y ajo.  Así, con lo picante y el largo cocimiento se le quitaba el sabor amargo y la consistencia gelatinosa. Un día, termina el relato, la cocinera de una familia blanca fue al carnicero a comprar patas y pancita de res, lo cual no se acostumbraba; el carnicero, intrigado le preguntó que para qué, a lo que ella contestó: "Pues para preparar menudo, como el que hacen los indios". Así terminó por popularizarse y aceptarse este platillo.
+Así fue —continúa el relato— que a alguno le vino la afortunada de cocinarlos con salsa de jitomate, chiles ancho y guajillo —según la receta—, hierbas como hoja de aguacate, cebolla y ajo. Así, con lo picante y el largo cocimiento se le quitaba el sabor amargo y la consistencia gelatinosa. Un día, termina el relato, la cocinera de una familia blanca fue al carnicero a comprar patas y pancita de res, lo cual no se acostumbraba; el carnicero, intrigado le preguntó que para qué, a lo que ella contestó: "Pues para preparar menudo, como el que hacen los indios". Así terminó por popularizarse y aceptarse este platillo.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/4a/Plato_de_Pancita_y_cerveza.jpg)
 

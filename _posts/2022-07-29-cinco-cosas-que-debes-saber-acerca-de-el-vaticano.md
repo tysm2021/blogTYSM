@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-07-29-1280px-st_peter-s_square-_vatican_city_-_april_2007.jpeg"
 sharing: true
 title: Cinco cosas que debes saber acerca de Ciudad del Vaticano
-summary: Además de ser el país donde vive el Papa, ¿qué más distingue a la Ciudad
+summary:
+  Además de ser el país donde vive el Papa, ¿qué más distingue a la Ciudad
   del Vaticano? Aquí te lo contamos…
 cover: "/images/2022-07-29-1280px-st_peter-s_square-_vatican_city_-_april_2007.jpeg"
 tags: mundo turismo europa ciudades paises
 show_author_profile: false
 comment: false
-
 ---
+
 Por su gran tradición **católica** y por el enorme número de practicantes del **catolicismo** —117 millones, según censos recientes, que nos ubican como el segundo país con más católicos en el mundo—, México es un país que se identifica con la figura del **Papa** y, por ende, con la **Ciudad del Vaticano**, donde vive el **Sumo** Pontífice y desde donde oficia misas que se transmiten en todo el mundo en fechas como la Semana Santa y la Navidad. Por eso resulta oportuno compartirte cinco **datos** **curiosos** que quizá no sabías sobre **El** **Vaticano**.
 
 Porque, aunque no lo creas y a pesar de que tenga nombre de ciudad, se trata de un país independiente que tiene como jefe de estado nada menos que al mismo **Papa**, obispo de Roma y Sumo Pontífice de la Iglesia Católica. Pero no nos adelantemos…

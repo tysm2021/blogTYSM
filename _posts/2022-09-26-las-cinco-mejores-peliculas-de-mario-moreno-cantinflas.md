@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-09-26-1280px-cantinflas.jpg"
 sharing: true
 title: Las cinco mejores películas de Mario Moreno 'Cantinflas'
-summary: Casi todos coinciden en que uno de los más grandes cómicos del cine nacional
+summary:
+  Casi todos coinciden en que uno de los más grandes cómicos del cine nacional
   fue 'Cantinflas'; conozcamos algunas de sus mejores películas
 cover: "/images/2022-09-26-1280px-cantinflas.jpg"
 tags: cine películas actores
 show_author_profile: false
 comment: false
-
 ---
+
 Uno de los **actores** y de los personajes más famosos y queridos del **cine mexicano** es, sin dudas, **Mario Moreno 'Cantinflas'**, quien nació en la Ciudad de México el 12 de agosto de 1991 y murió en la misma ciudad capital el 20 de abril de 1993. A lo largo de más de cuarenta años y con casi 50 **películas** en su haber, lo mismo interpretó a su famosísima caracterización del peladito de barrio, con su pantalón caído y su forma de hablar característica, que a un maestro, un bombero, un diputado o un agente de la policía. Aquí te recomendamos las que consideramos son sus **mejores** cinco **películas**.
 
 Los críticos y estudiosos del cine reconocen dos grandes etapas en la carrera de '**Cantinflas**': el cine blanco y negro, de 1936 a 1963, cuando se produjo lo mejor de su **filmografía**, y el cine a color, de 1964 a 1983, cuando ya no tenía la misma gracia e incluso te tornó un poco regañón, y de igual forma participó en producciones extranjeras.

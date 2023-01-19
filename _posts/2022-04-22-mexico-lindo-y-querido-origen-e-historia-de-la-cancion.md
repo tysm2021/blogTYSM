@@ -5,11 +5,8 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-04-22-jorgenegrete.jpg"
 sharing: true
 title: '"México lindo y querido": historia de la canción inmortalizada por Jorge Negrete'
@@ -20,10 +17,11 @@ subcategorie: MUSICA
 tags: cultura musica canciones
 show_author_profile: false
 comment: false
-summary: "¿Conoces el origen de esta canción y la historia que la relaciona con el
+summary:
+  "¿Conoces el origen de esta canción y la historia que la relaciona con el
   gran Jorge Negrete?"
-
 ---
+
 Esta **canción** es una de esas que, como el Huapango de Moncayo y la Marcha de Zacatecas, se consideran casi un segundo himno nacional del México. Pero, ¿conoces cuál fue el **origen** de “**México lindo y querido**”, de la inspiración del compositor **Chucho Monge**, y cuál fue la **historia** que la hizo famosa?
 
 Todo tiene que ver con una de las voces más famosas del Cine de Oro mexicano, su trágica muerte en el extranjero y lo profética que resultó su letra. Te contamos…

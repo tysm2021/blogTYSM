@@ -7,22 +7,20 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
-  background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  type: cover
+  image:
     src: "/images/2022-09-07-bodegon_-_tomas_yepes-_1668.jpeg"
 sharing: true
 title: Frases, dichos y refranes mexicanos acerca de la comida
-summary: 'La comida es tan importante en la cultura mexicana que se refleja en la
-  cantidad de expresiones populares acerca de ella: aquí algunas de ellas'
+summary:
+  "La comida es tan importante en la cultura mexicana que se refleja en la
+  cantidad de expresiones populares acerca de ella: aquí algunas de ellas"
 cover: "/images/2022-09-07-bodegon_-_tomas_yepes-_1668.jpeg"
 tags: folclor lenguaje frases comida
 show_author_profile: false
 comment: false
-
 ---
+
 Al pueblo mexicano, hay que decirlo, simple y sencillamente le encanta la **comida**: desde la selección de los ingredientes, los rituales y procesos de la preparación, los olores que van despidiéndose de las cocinas, la forma de servir los platillos y de compartirlos, la dicha y el placer del primer bocado, hasta la satisfacción plena del que quedó saciado por un soberbio banquete, pareciera que nuestra vida gira en torno a la **comida**: de ahí la cantidad de **dichos**, **frases populares** y **refranes** que la tienen como elemento central.
 
 Estas **expresiones** se cuentan por cientos, o quizá hasta por miles. Pero como este espacio es limitado, acá compartiremos y explicaremos algunas de las más usadas, **famosas** o singulares, o como se dice coloquialmente: "hay de chile, de dulce y de manteca".
@@ -49,7 +47,7 @@ Esta frase alude, desde luego, a los mexicanísimos chiles, pues quien sabe de e
 
 ### Como el perro del hortelano: ni come, ni deja comer
 
-¿Quién no ha conocido a alguien así? Una persona que, como dice otro refrán, ni picha, ni cacha, ni deja batear… ¡y ya ni es del equipo! Alude a los perros entrenados por los que tienen hortalizas, que ladran y ahuyentan a todos los que se acercan pero, desde luego, no tocan el producto que están cuidando. Puede referirse a personas avaras o mezquinas, que prefieren que la comida se les eche a perder antes que compartirla, o bien, a cualquiera que no disfruta de la vida y sus delicias, y de pilón impide que los demás también lo hagan. 
+¿Quién no ha conocido a alguien así? Una persona que, como dice otro refrán, ni picha, ni cacha, ni deja batear… ¡y ya ni es del equipo! Alude a los perros entrenados por los que tienen hortalizas, que ladran y ahuyentan a todos los que se acercan pero, desde luego, no tocan el producto que están cuidando. Puede referirse a personas avaras o mezquinas, que prefieren que la comida se les eche a perder antes que compartirla, o bien, a cualquiera que no disfruta de la vida y sus delicias, y de pilón impide que los demás también lo hagan.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fuegian_dog_%281863%29.jpg/1024px-Fuegian_dog_%281863%29.jpg)
 
