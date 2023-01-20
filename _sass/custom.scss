@@ -1419,7 +1419,7 @@ $historia: url("https://superquadranews.files.wordpress.com/2014/01/mapasqm.jpg"
   background-size: cover;
 }
 
-$mundo: url("https://th.bing.com/th/id/R.46806354e4c4e8e1f2da8ef742e56e80?rik=A%2fChJpCpv0NyTw&pid=ImgRaw&r=0");
+$mundo: url("https://media.wsimag.com/attachments/eb7b82690330a1401090129630e15d58cbce7993/store/fill/1722/969/d08304a1534124eb4812cb9459a18cb18b51f15c81410bd372856aec55e8/Analizzare-se-esiste-un-nesso-tra-la-stabilita-politica-e-quella-economica.jpg");
 
 .mundo{
   background: $gradient , $mundo;
@@ -2245,7 +2245,7 @@ border-radius: 5%;
 
 
 .article__header--cover {
-    height: 85vh;
+    height: 75vh;
 }
 
 
@@ -2274,4 +2274,15 @@ h2 {
 .italic{
 font-style: italic;
 font-size: 1.8em;
+}
+
+
+.container-banner{
+  width: 100%;
+}
+
+
+.container-banner img{
+  width: 100%;
+  object-fit: cover;
 }
