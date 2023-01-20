@@ -175,7 +175,7 @@ show_date: true
             {%- if page.article_header.image.src -%}
               {%- include snippets/get-nav-url.html path=page.article_header.image.src -%}
               {%- assign _header_image_src = __return -%}
-              <img class="article__header--cover" src="{{ _header_image_src }}" />
+              <div class="container-banner"><img class="article__header--cover" src="{{ _header_image_src }}" /></div>
             {%- endif -%}
           {%- endif -%}
 
