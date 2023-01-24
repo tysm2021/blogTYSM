@@ -38,10 +38,16 @@ No hay 'regio' y 'regia' que se respeten que no sea carnívoros: O, bueno, quiz�
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/85/Parrillada_Carne_asada.jpg)
 
-Puntas
+## Salsa molcajeteada
 
-Machaca con huevo
+Esta salsa es un derivado de la cultura del asador que existe en **Monterrey**. La cosa es muy sencilla: se agarran los tomates, los chiles y la cebolla, y se ponen a asar al carbón; ya que estén acitronaditos, con partes crujientes ligeramente carbonizdas y ese toque ahumado que da el carbón de mezquite, se echan al molcajete con sal, ajo y cilantro, y se muele hasta que quede "martajada" —es decir, no completamente molida—. Es el complemento ideal de carnes, quesos, frijoles, machaca y muchos otros platillos.
 
-Salsa molcajeteada
+![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Salsa_mexicana_en_molcajete.jpg)
+
+## Machacado con huevo
+
+Otro clásico **regiomontano**. La **machaca** es **carne seca** de res que los **regios** disfrutan incluso como botana, con su salsa y su limón. Pero la manera más común de prepararla es sofriendo la carne en una sartén, con cebolla y chiles finamente picados, y  cuando esté crujiente se le añade huevo batido. Se acompaña con tortillas de harina de trigo, guacamole, frijoles refritos y salsa molcajeteada.
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Machacado_con_huevo.jpg)
 
 Glorias
