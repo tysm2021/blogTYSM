@@ -20,3 +20,8 @@ show_author_profile: false
 comment: false
 
 ---
+La pujante e industriosa ciudad de Monterrey, Nuevo León, se distingue por algunos rasgos característicos: lo trabajadora, franca y emprendedora que es su gente; el emblemático Cerro de la Silla y, desde luego, la gastronomía típica de la Sultana del Norte, que entre Glorias, carnes y cabritos, tiene mucho que ofrecer a los paladares de los turistas mexicanos y extranjeros.
+
+A continuación, daremos un paseo por la gastronomía de la capital neoleonesa para conocer algunos de los platos fuertes, carnes, guisos, salsas y postres que caracterizan a la segunda ciudad más poblada de México.
+
+TE RECOMENDAMOS: 
