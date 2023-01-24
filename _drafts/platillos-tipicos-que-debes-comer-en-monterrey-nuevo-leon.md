@@ -32,7 +32,11 @@ El **platillo** por excelencia de la cocina de la capital de Nuevo León es el *
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Cabritos_in_Monterrey.jpg/1024px-Cabritos_in_Monterrey.jpg)
 
-Carne asada
+## Carne asada
+
+No hay 'regio' y 'regia' que se respeten que no sea carnívoros: O, bueno, quizá hay mucha gente vegetariana o que no le gusta la carne roja, pero es un hecho que en **Monterrey**, como en gran parte del norte del México, la **carne asada** es un ritual no sólo gastronómico sino casi un ritual de cohesión social, de convivencia familiar y entre amigos. Desde luego, no faltan las cervezas bien frías, el guacamole, las cebollitas cambray y las tortillas para acompañar un buen corte asado al carbón. ¿Qué dices, no se te antoja?
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/85/Parrillada_Carne_asada.jpg)
 
 Puntas
 
