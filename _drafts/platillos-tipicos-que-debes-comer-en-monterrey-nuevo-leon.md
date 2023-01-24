@@ -24,4 +24,4 @@ La pujante e industriosa ciudad de Monterrey, Nuevo León, se distingue por algu
 
 A continuación, daremos un paseo por la gastronomía de la capital neoleonesa para conocer algunos de los platos fuertes, carnes, guisos, salsas y postres que caracterizan a la segunda ciudad más poblada de México.
 
-TE RECOMENDAMOS: 
+**TE RECOMENDAMOS:** [**Mole de olla: qué es, de dónde y cómo se prepara.**](https://blog.tonoysumariachi.com/gastronomia/2022/11/16/mole-de-olla-que-es-donde-y-como-se-prepara.html)
