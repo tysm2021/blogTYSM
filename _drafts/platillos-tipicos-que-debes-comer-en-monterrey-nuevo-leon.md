@@ -25,3 +25,17 @@ La pujante e industriosa ciudad de Monterrey, Nuevo León, se distingue por algu
 A continuación, daremos un paseo por la gastronomía de la capital neoleonesa para conocer algunos de los platos fuertes, carnes, guisos, salsas y postres que caracterizan a la segunda ciudad más poblada de México.
 
 **TE RECOMENDAMOS:** [**Mole de olla: qué es, de dónde y cómo se prepara.**](https://blog.tonoysumariachi.com/gastronomia/2022/11/16/mole-de-olla-que-es-donde-y-como-se-prepara.html)
+
+Cabrito
+
+El platillo por excelencia de la cocina de la capital de Nuevo León es el cabrito estilo Monterrey, que consiste en asar a un cabrito nonato "al espetón"; es decir, a las brasas de carbón y atravesado por una varilla metálica. Hay variedades: al carbón, al pastor (asado al calor de la leña), en salsa (guisado), en su sangre (fritada), al ataúd (horneado) y hasta en consomé. Por lo regular se acompaña con tortillas de harina de trigo, guacamole y salsa molcajeteada, a la que ya llegaremos.
+
+Carne asada
+
+Puntas
+
+Machaca con huevo
+
+Salsa molcajeteada
+
+Glorias
