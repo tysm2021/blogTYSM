@@ -1828,7 +1828,7 @@ input[id="5"]:checked ~ .pagination-slide .item-pagination[for="5"]{
 
 
 .main-menu .nav li .nav-link {
-  color: #FFF;
+  color: yellow;
   font-size: 5vh;
   font-weight: 600;
   text-decoration: none;
@@ -2207,8 +2207,8 @@ $marginExternal: 70px 0 50px 0;
 }
 
 
-.text-white{
-  color: #fff;
+.text-yellow{
+  color: yellow;
 }
 
 .bg-black{
@@ -2226,7 +2226,7 @@ color: #fff;
 }
 .main-menu .nav li .nav-links{
     color: #FFF;
-    font-size: 3vh;
+    font-size: 2.5vh;
     font-weight: 600;
     text-decoration:none
 
@@ -2261,7 +2261,7 @@ h1{
 }
 
 h2 {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     color: #000;
 }
 
