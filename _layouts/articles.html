@@ -193,8 +193,8 @@ _articles -%}
       <h1 class="article__text">HISTORIA</h1>
     </div>
     <div class="article-list grid grid--p-3">
-      {% assign sortedPosts = site.categories.HISTORIA | sort: "title" %} {% for
-      post in sortedPosts limit:3 %}
+      {% assign sortedPosts = site.categories.HISTORIA | sort: "summary" %} {%
+      for post in sortedPosts limit:3 %}
       <div class="cell cell--12 cell--md-6 cell--lg-4">
         <div class="card card--flat">
           <a href="{{ site.baseurl }}{{ post.url }}">

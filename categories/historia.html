@@ -1,80 +1,85 @@
 ---
 layout: base
-
 ---
-
-
-
 
 {%- include menus-cat.html -%}
 
- 
-<header class="header transparent" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+<header
+  class="header transparent"
+  {%-
+  if
+  include.background
+  -%}
+  style="background: {{ include.background }};"
+  {%-
+  endif
+  -%}
+>
+  <div class="main container">
+    <div class="header__title">
+      <div class="header__brand">
+        {%- assign _paths_root = site.paths.root | default:
+        site.data.variables.default.paths.root -%} {%- include
+        snippets/get-nav-url.html path=_paths_root -%} {%- if site.title -%}
+        <a
+          title="{%- if site.description -%}{{ site.description }}{%- endif -%}"
+          href="{{ __return }}"
+          >{{ site.title }}</a
+        >
+        {%- endif -%}
 
+        <div class="navigation-items">
+          {%- if site.search.provider -%}
+          <button
+            class="button button--secondary button--circle search-button js-search-toggle"
+          >
+            <i class="fas fa-search"></i>
+          </button>
+          {%- endif -%}
+          <div>
+            <a class="nav-button">
+              <span id="nav-icon3"
+                ><span></span><span></span><span></span><span></span
+              ></span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
 
-<div class="main container">
-  <div class="header__title">
-    <div class="header__brand">
-      {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
-      {%- include snippets/get-nav-url.html path=_paths_root -%}
-      {%- if site.title -%}
-      <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
-    {%- endif -%}
-
-    <div class="navigation-items">
-    {%- if site.search.provider -%}
-      <button class="button button--secondary button--circle search-button js-search-toggle">
-        <i class="fas fa-search"></i>
-      </button>
-      {%- endif -%} 
-     <div>
-        <a class="nav-button">
-          <span id="nav-icon3"><span></span><span></span><span></span><span></span></span>
-      </a>
-     </div>
-</div>
+<div class="hero hero--dark overlay back-historia pos">
+  <div class="hero__content">
+    <div class="main container">
+      <h1>Historia</h1>
     </div>
   </div>
 </div>
-</header>
- 
-  
-  
-
-<div class="hero hero--dark overlay back-historia pos">
-    <div class="hero__content">
-      <div class="main container">
-          <h1>Historia</h1>
-      </div>
-    </div>
-</div>
-
-
 
 <div class="page__main-inner">
-    <div class="page__content">
-        <div class="main container">  
-          <h1>Prehispanico y Colonial</h1>      
-            <div class=" article-list grid grid--p-3 p-5">
-                {% for post in site.tags.prehispanico %}
-                <div class="cell cell--12 cell--md-6 cell--lg-4">
-                    <div class="card card--flat">
-                      <a href="{{ site.baseurl }}{{ post.url }}">
-                        <div class="card__image">
-                            <img src="{{ post.cover }}" alt="" class="image">
-                            <div class="card__header">
-                               
-                                <h2 class="card__text">{{post.title}}</h2>
-                                <p class="card__summary">{{post.summary}}</p>
-                            </div>
-                        </div>
-                      </a>
-                    </div>
+  <div class="page__content">
+    <div class="main container">
+      <!-- <h1>Prehispanico y Colonial</h1>       -->
+      <div class="article-list grid grid--p-3 p-5">
+        {% for post in site.categories.HISTORIA %}
+        <div class="cell cell--12 cell--md-6 cell--lg-4">
+          <div class="card card--flat">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              <div class="card__image">
+                <img src="{{ post.cover }}" alt="" class="image" />
+                <div class="card__header">
+                  <h2 class="card__text">{{post.title}}</h2>
+                  <p class="card__summary">{{post.summary}}</p>
                 </div>
-                {% endfor %}
-            </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
 
-            <h1>Siglo XIX</h1>      
+      <!-- <h1>Siglo XIX</h1>
             <div class=" article-list grid grid--p-3 p-5">
                 {% for post in site.tags.XIX %}
                 <div class="cell cell--12 cell--md-6 cell--lg-4">
@@ -83,7 +88,7 @@ layout: base
                         <div class="card__image">
                             <img src="{{ post.cover }}" alt="" class="image">
                             <div class="card__header">
-                               
+
                                 <h2 class="card__text">{{post.title}}</h2>
                                 <p class="card__summary">{{post.summary}}</p>
                             </div>
@@ -94,7 +99,7 @@ layout: base
                 {% endfor %}
             </div>
 
-            <h1>Revolución</h1>      
+            <h1>Revolución</h1>
             <div class=" article-list grid grid--p-3 p-5">
                 {% for post in site.tags.revolucion %}
                 <div class="cell cell--12 cell--md-6 cell--lg-4">
@@ -113,7 +118,7 @@ layout: base
                 {% endfor %}
             </div>
 
-            <h1>Siglo XX y Actual</h1>      
+            <h1>Siglo XX y Actual</h1>
             <div class=" article-list grid grid--p-3 p-5">
                 {% for post in site.tags.XX %}
                 <div class="cell cell--12 cell--md-6 cell--lg-4">
@@ -130,24 +135,25 @@ layout: base
                     </div>
                 </div>
                 {% endfor %}
-            </div>
-
-
-        </div>
+            </div> -->
     </div>
+  </div>
 
-  
-    <script>{%- include scripts/lib/modal.js -%}</script>
-    {%- if _lightbox == true -%}
-    <div class="modal d-print-none js-page-gallery-modal"><div class="gallery"></div></div>
-    {%- endif -%}
-    {%- if _header != false -%}
-        <div class="modal modal--overflow page__search-modal d-print-none js-page-search-modal">{%- include search.html -%}</div>
+  <script>
+    {%- include scripts/lib/modal.js -%}
+  </script>
+  {%- if _lightbox == true -%}
+  <div class="modal d-print-none js-page-gallery-modal">
+    <div class="gallery"></div>
+  </div>
+  {%- endif -%} {%- if _header != false -%}
+  <div
+    class="modal modal--overflow page__search-modal d-print-none js-page-search-modal"
+  >
+    {%- include search.html -%}
+  </div>
 
-    {%- endif -%}
+  {%- endif -%}
 
-    <div class="page__footer d-print-none">
-    {%- include footer-cat.html -%}
-    </div>
-
+  <div class="page__footer d-print-none">{%- include footer-cat.html -%}</div>
 </div>
