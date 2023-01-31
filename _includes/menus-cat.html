@@ -1,7 +1,7 @@
 <div class="fixed-top main-menu">
   <div class="flex-center">
     <ul class="nav flex-column">
-      <li class="nav-item delay-2">
+      <li class="nav-item delay-1 text-yellow">
         {%- assign _paths_root = site.paths.root | default:
         site.data.variables.default.paths.root -%} {%- include
         snippets/get-nav-url.html path=_paths_root -%} {%- if site.title -%}
@@ -9,71 +9,89 @@
           class="nav-link hvr-pulse"
           title="{%- if site.description -%}{{ site.description }}{%- endif -%}"
           href="{{ __return }}"
-          >INICIO</a
-        >
+          >BLOG
+        </a>
         {%- endif -%}
       </li>
+
+      <li class="nav-item delay-2">
+        <a
+          class="nav-links hvr-pulse"
+          href="{{site.baseurl}}/categories/historia.html"
+        >
+          HISTORIA</a
+        >
+      </li>
+
       <li class="nav-item delay-3">
         <a
-          class="nav-link hvr-pulse"
-          href="https://tonoysumariachi.com/tono.html"
+          class="nav-links hvr-pulse"
+          href="{{site.baseurl}}/categories/mexicanisimos.html"
         >
-          TOÑO</a
+          MEXICANISIMOS</a
         >
       </li>
       <li class="nav-item delay-4">
         <a
-          class="nav-link hvr-pulse"
+          class="nav-links hvr-pulse"
+          href="{{site.baseurl}}/categories/cultura.html"
+        >
+          CULTURA</a
+        >
+      </li>
+      <li class="nav-item delay-5">
+        <a
+          class="nav-links hvr-pulse"
+          href="{{site.baseurl}}/categories/elmundo.html"
+        >
+          MUNDO</a
+        >
+      </li>
+      <li class="nav-item delay-6">
+        <a
+          class="nav-links hvr-pulse"
+          href="{{site.baseurl}}/categories/gastronomia.html"
+        >
+          GASTRONOMÍA</a
+        >
+      </li>
+      <li class="nav-item delay-7">
+        <a
+          class="nav-links hvr-pulse"
+          href="{{site.baseurl}}/categories/turismo.html"
+        >
+          TURISMO</a
+        >
+      </li>
+      <br />
+
+      <li class="nav-item delay-1">
+        <a class="nav-link hvr-pulse" href=""> NOSOTROS</a>
+      </li>
+
+      <li class="nav-item delay-2">
+        <a
+          class="nav-links hvr-pulse"
+          href="https://tonoysumariachi.com/tono.html"
+        >
+          QUIEN ES TOÑO</a
+        >
+      </li>
+      <li class="nav-item delay-3">
+        <a
+          class="nav-links hvr-pulse"
           href="https://tonoysumariachi.com/contacto.html"
         >
           CONTACTO</a
         >
       </li>
 
-      <li class="nav-item delay-7">
+      <li class="nav-item delay-4">
         <a
-          class="nav-link hvr-pulse"
+          class="nav-links hvr-pulse"
           href="https://tonoysumariachi.com/anunciate.html "
         >
           ANUNCÍATE</a
-        >
-      </li>
-      <li class="nav-item delay-7">
-        <label class="nav-title hvr-pulse text-white">CATEGORÍAS</label>
-      </li>
-
-      <li class="nav-item delay-7">
-        <a class="nav-links hvr-pulse" href="{{site.baseurl}}historia.html">
-          HISTORIA</a
-        >
-      </li>
-
-      <li class="nav-item delay-7">
-        <a
-          class="nav-links hvr-pulse"
-          href="{{site.baseurl}}mexicanisimos.html"
-        >
-          MEXICANISIMOS</a
-        >
-      </li>
-      <li class="nav-item delay-7">
-        <a class="nav-links hvr-pulse" href="{{site.baseurl}}cultura.html">
-          CULTURA</a
-        >
-      </li>
-      <li class="nav-item delay-7">
-        <a class="nav-links hvr-pulse" href="{{site.baseurl}}elmundo.html">
-          MUNDO</a
-        >
-      </li>
-      <li class="nav-item delay-7">
-        <a class="nav-links hvr-pulse" href="{{site.baseurl}}gastronomia.html">
-          GASTRONOMÍA</a
-        >
-      </li>
-      <li class="nav-item delay-7">
-        <a class="nav-links hvr-pulse" href="{{site.baseurl}}turismo.html">
-          TURISMO</a
         >
       </li>
     </ul>
