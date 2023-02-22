@@ -7,11 +7,9 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: overlay
-  theme: dark
+  type: cover
   background_color: "#203028"
-  background_image:
-    gradient: linear-gradient(1deg, rgba(0, 0, 0 , .7), rgba(8, 3, 8, .9))
+  image:
     src: "/images/2022-12-06-ayasofya_camisi.jpeg"
 sharing: true
 title: "Santa Sofía: la Catedral y mezquita de Estambul, Turquía"
