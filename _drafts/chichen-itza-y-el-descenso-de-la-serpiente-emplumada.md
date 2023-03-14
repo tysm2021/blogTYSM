@@ -32,6 +32,6 @@ En 1988, la zona arqueológica de **Chichén Itza** fue incluida en la lista del
 
 Desde hace algunas décadas, numerosos visitantes se reúnen en esta zona arqueológica ubicada en el estado de **Yucatán**, para contemplar un fenómeno arqueoastronómico conocido como "la **bajada** del dios **Kukulcán**" o "el **descenso** de la **serpiente** emplumada, el cual se presenta únicamente los días 20 o **21 de marzo**, cuando se presenta el **equinoccio de primavera**, y el 20 o 21 de septiembre, que corresponden al equinoccio de otoño. 
 
-Esos días, la posición del Sol y la orientación del Templo producen un juego de sombras en el que pareciera que el dios va bajando desde la punta del templo hasta donde se encuentra la **serpiente**.
+Esos días, la posición del Sol y la orientación del Templo producen un juego de sombras en el que pareciera que el dios va bajando desde la punta del templo hasta donde se encuentra la **serpiente**. Fue en la década de 1970 que los arqueólogos Jean-Jacques Rivard y Luis Arochi publicaron las primeras descripciones de este juego de luces y sombras, apuntando que sólo ocurre en los **equinoccios**, lo que aumentó considerablemente la popularidad del sitio, lo que derivó en una gran afluencia de turistas nacionales y extranjeros en **Chichén Itzá** durante estas fechas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Serpiente_de_Chich%C3%A9n-Itz%C3%A1.JPG/1024px-Serpiente_de_Chich%C3%A9n-Itz%C3%A1.JPG)
