@@ -26,6 +26,8 @@ Aquí te contamos un poco más sobre ese fenómeno, en torno al cual los **arque
 
 **TE RECOMENDAMOS:** [**¿Cuáles eran los principales dioses mayas?**](https://blog.tonoysumariachi.com/historia/2022/09/21/cuales-eran-los-principales-dioses-mayas.html)
 
-En 1988, la zona arqueológica de **Chichén Itza** fue incluida en la lista del Patrimonio de la Humanidad por la UNESCO. Se trataba de una ciudad **maya** esplendorosa, llena de palacios y templos imponentes con gran influencia de la cultura tolteca. Y sin duda la más representativa de sus edificaciones es el Templo de Quetzalcóatl, conocido popularmente como "**El Castillo**", una pirámide alta de base cuadrada y numerosas escalinatas, en cuyas bases pueden apreciarse cabezas de serpiente que aluden a **Kukulcán** o "la **serpiente emplumada**", que es como se le llamaba al dios **Quetzalcóatl** en esta parte de Mesoamérica.
+En 1988, la zona arqueológica de **Chichén Itza** fue incluida en la lista del Patrimonio de la Humanidad por la UNESCO. Se trataba de una ciudad **maya** esplendorosa, llena de palacios y templos imponentes con gran influencia de la cultura tolteca. Y sin duda la más representativa de sus edificaciones es el Templo de Quetzalcóatl, conocido popularmente como "**El Castillo**", una pirámide alta de base cuadrada y cuatro escalinatas, una por cada lado, en cuyas bases pueden apreciarse cabezas de serpiente que aluden a **Kukulcán** o "la **serpiente emplumada**", que es como se le llamaba al dios **Quetzalcóatl** en esta parte de Mesoamérica.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/El_Castillo%2C_Chichen_Itza_%2814367088455%29.jpg/1024px-El_Castillo%2C_Chichen_Itza_%2814367088455%29.jpg)
+
+Desde hace
