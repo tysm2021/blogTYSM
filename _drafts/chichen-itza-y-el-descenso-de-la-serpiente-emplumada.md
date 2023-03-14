@@ -30,4 +30,8 @@ En 1988, la zona arqueológica de **Chichén Itza** fue incluida en la lista del
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/El_Castillo%2C_Chichen_Itza_%2814367088455%29.jpg/1024px-El_Castillo%2C_Chichen_Itza_%2814367088455%29.jpg)
 
-Desde hace algunas décadas, numerosos visitantes se reúnen en esta zona arqueológica ubicada en el estado de Yucatán, para contemplar un fenómeno arqueoastronómico conocido como "la bajada del dios Kukulcán" o "el descenso de la serpiente emplumada, el cual se presenta únicamente los días 20 o 21 de marzo, cuando se presenta el equinoccio de primavera, y el 20 o 21 de septiembre, que corresponden al equinoccio de otoño. Esos días, la posición del Sol y la orientación del Templo producen un juego de sombras en el que pareciera que el dios va bajando desde la punta del templo hasta donde se encuentra la la serpiente.
+Desde hace algunas décadas, numerosos visitantes se reúnen en esta zona arqueológica ubicada en el estado de **Yucatán**, para contemplar un fenómeno arqueoastronómico conocido como "la **bajada** del dios **Kukulcán**" o "el **descenso** de la **serpiente** emplumada, el cual se presenta únicamente los días 20 o **21 de marzo**, cuando se presenta el **equinoccio de primavera**, y el 20 o 21 de septiembre, que corresponden al equinoccio de otoño. 
+
+Esos días, la posición del Sol y la orientación del Templo producen un juego de sombras en el que pareciera que el dios va bajando desde la punta del templo hasta donde se encuentra la **serpiente**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Serpiente_de_Chich%C3%A9n-Itz%C3%A1.JPG/1024px-Serpiente_de_Chich%C3%A9n-Itz%C3%A1.JPG)
