@@ -20,3 +20,10 @@ show_author_profile: false
 comment: false
 
 ---
+Equinoccio es una palabra que significa que el día dura lo mismo que la noche, y señala la entrada de la primavera en marzo y del otoño en septiembre. Y, desde hace algunas décadas, miles de visitantes se congregan en la pirámide conocida como "El Castillo", en la zona arqueológica de Chichén Itza, para contemplar el juego de sombras conocido como "el descenso de la serpiente emplumada", que es como se le conocía al dios maya Kukulcán.
+
+Aquí te contamos un poco más sobre ese fenómeno, en torno al cual los arqueólogos y demás estudiosos aún no se ponen de acuerdo si es una coincidencia o si, en efecto, los constructores mayas orientaron su templo en la dirección correcta para que cada año se presentara este fenómeno.
+
+TE RECOMENDAMOS:
+
+Chichén Itza es 
