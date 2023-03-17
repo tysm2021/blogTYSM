@@ -11,22 +11,22 @@ article_header:
   image:
     src: "/images/2023-03-14-1024px_chichenitza-1.jpg"
 sharing: true
-title: Chichén Itza y el descenso de la serpiente emplumada
+title: Chichén Itzá y el descenso de la serpiente emplumada
 summary: En el equinoccio de primavera y el de otoño, miles de visitantes se reúnen
-  para ver el "descenso" de Kukulkán en el Castillo de Chichén Itza …
+  para ver el "descenso" de Kukulkán en el Castillo de Chichén Itzá …
 cover: "/images/2023-03-14-1024px_chichenitza-1.jpg"
 tags: turismo arqueologia yucatan
 show_author_profile: false
 comment: false
 
 ---
-**Equinoccio** es una palabra que significa que el día dura lo mismo que la noche, y señala la entrada de la **primavera** en marzo y del otoño en septiembre. Y, desde hace algunas décadas, miles de visitantes se congregan en la **pirámide** conocida como "**El Castillo**", en la zona arqueológica de **Chichén Itza**, para contemplar el juego de sombras conocido como "**el descenso de la serpiente emplumada**", que es como se le conocía al dios **maya** **Kukulcán**.
+**Equinoccio** es una palabra que significa que el día dura lo mismo que la noche, y señala la entrada de la **primavera** en marzo y del otoño en septiembre. Y, desde hace algunas décadas, miles de visitantes se congregan en la **pirámide** conocida como "**El Castillo**", en la zona arqueológica de **Chichén Itzá**, para contemplar el juego de sombras conocido como "**el descenso de la serpiente emplumada**", que es como se le conocía al dios **maya** **Kukulcán**.
 
 Aquí te contamos un poco más sobre ese fenómeno, en torno al cual los **arqueólogos** y demás estudiosos aún no se ponen de acuerdo si es una coincidencia o si, en efecto, los constructores **mayas** orientaron su templo en la dirección correcta para que cada año se presentara este fenómeno.
 
 **TE RECOMENDAMOS:** [**¿Cuáles eran los principales dioses mayas?**](https://blog.tonoysumariachi.com/historia/2022/09/21/cuales-eran-los-principales-dioses-mayas.html)
 
-En 1988, la zona arqueológica de **Chichén Itza** fue incluida en la lista del Patrimonio de la Humanidad por la UNESCO. Se trataba de una ciudad **maya** esplendorosa, llena de palacios y templos imponentes con gran influencia de la cultura tolteca. Y sin duda la más representativa de sus edificaciones es el Templo de Quetzalcóatl, conocido popularmente como "**El Castillo**", una pirámide alta de base cuadrada y cuatro escalinatas, una por cada lado, en cuyas bases pueden apreciarse cabezas de serpiente que aluden a **Kukulcán** o "la **serpiente emplumada**", que es como se le llamaba al dios **Quetzalcóatl** en esta parte de Mesoamérica.
+En 1988, la zona arqueológica de **Chichén Itzá** fue incluida en la lista del Patrimonio de la Humanidad por la UNESCO. Se trataba de una ciudad **maya** esplendorosa, llena de palacios y templos imponentes con gran influencia de la cultura tolteca. Y sin duda la más representativa de sus edificaciones es el Templo de Quetzalcóatl, conocido popularmente como "**El Castillo**", una pirámide alta de base cuadrada y cuatro escalinatas, una por cada lado, en cuyas bases pueden apreciarse cabezas de serpiente que aluden a **Kukulcán** o "la **serpiente emplumada**", que es como se le llamaba al dios **Quetzalcóatl** en esta parte de Mesoamérica.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/El_Castillo%2C_Chichen_Itza_%2814367088455%29.jpg/1024px-El_Castillo%2C_Chichen_Itza_%2814367088455%29.jpg)
 
@@ -40,4 +40,4 @@ Según la descripción que ofrece el Instituto Nacional de Antropología e Histo
 
 Esos días, la sombra ondulada de los cuerpos de la **pirámide** empieza a proyectarse en la cara poniente de la escalinata norte, un par de horas antes de la puesta del Sol. A medida que desciende el astro rey, la sombra va descendiendo y forma siete triángulos iluminados que se han interpretado como el cuerpo del dios que "serpentea" hasta tocar la Tierra. Sin embargo, algunos estudiosos de la cultura **maya** y de los fenómenos arqueoastronómicos han comprobado que dicho efecto se presenta también en otros días y no es exclusivo de los **equinoccios**, por lo que ponen en duda que los arquitectos **mayas** hayan planeado esta supuesta "bajada" de forma intencional.
 
-Como sea, es un fenómeno que atrae a las multitudes, junto con el de la "Serpiente Lunar", descubierto en 1993 por el arqueólogo Víctor Segovia Pinto y el matemático Eddie Salazar Gamboa y que tiene lugar cuando la luz de la Luna Llena produce el mismo efecto de sombras en la escalinata, pero durante la noche. Y tú, ¿qué opinas? ¿Fue intencional o todo es obra de la casualidad?…
+Como sea, es un fenómeno que atrae a las multitudes, junto con el de la "**Serpiente Lunar**", descubierto en 1993 por el arqueólogo **Víctor Segovia Pinto** y el matemático **Eddie Salazar Gamboa** y que tiene lugar cuando la luz de la Luna Llena produce el mismo efecto de sombras en la escalinata, pero durante la noche. Y tú, ¿qué opinas? ¿Fue intencional o todo es obra de la casualidad?…
