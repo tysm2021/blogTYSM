@@ -26,4 +26,6 @@ A continuación, haremos una visita virtual a cada uno de ellos, para que en tus
 
 **TE RECOMENDAMOS:** [**Da un vistazo a los seis Pueblos Mágicos del estado de Querétaro.**](https://blog.tonoysumariachi.com/turismo/2022/11/04/pueblos-magicos-en-el-estado-de-queretaro.html)
 
-Creel
+## Creel
+
+Este Pueblo Mágico —que lleva el apellido de un famoso político mexicano, nieto de — está enclavado en las montañas de la Sierra Madre Occidental, en el municipio de Mocoyna, a unos 175 kilómetros de la ciudad de Chihuahua. 
