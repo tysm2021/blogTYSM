@@ -28,4 +28,8 @@ A continuación, haremos una visita virtual a cada uno de ellos, para que en tus
 
 ## Creel
 
-Este Pueblo Mágico —que lleva el apellido de un famoso político mexicano, nieto de — está enclavado en las montañas de la Sierra Madre Occidental, en el municipio de Mocoyna, a unos 175 kilómetros de la ciudad de Chihuahua. 
+Este **Pueblo Mágico** —que lleva el nombre de Enrique C. **Creel**, quien fuera gobernador del estado de Chihuahua y bisabuelo de un famoso político mexicano del mismo apellido— está enclavado en las montañas de la Sierra Madre Occidental, en el municipio de Mocoyna, a unos 175 kilómetros de la ciudad de Chihuahua. Se fundó en 1907 como **Estación Creel** —una estación ferroviaria instalada donde se encontraba una ranchería rarámuri de nombre Nariachi—, y por ella pasa el ferrocarril que proviene de la capital del estado y culmina su trayecto en el puerto sinaloense de Topolobampo.
+
+Creel es un hermoso y típico pueblo de alta montaña, donde puede respirarse aire puro y entrar en contacto con la naturaleza pues está rodeado de lagos, cascadas, ríos, peñas y cuevas, y se pueden contemplar contemplar paisajes boscosos, cielos límpidos y las espectaculares **Barrancas del Cobre**. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Creel_Copper_Canyon_Mexico_-_Charlie_on_Travel_5.jpg/1280px-Creel_Copper_Canyon_Mexico_-_Charlie_on_Travel_5.jpg)
