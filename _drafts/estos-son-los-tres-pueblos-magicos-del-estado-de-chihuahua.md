@@ -33,3 +33,5 @@ Este **Pueblo Mágico** —que lleva el nombre de Enrique C. **Creel**, quien fu
 Creel es un hermoso y típico pueblo de alta montaña, donde puede respirarse aire puro y entrar en contacto con la naturaleza pues está rodeado de lagos, cascadas, ríos, peñas y cuevas, y se pueden contemplar contemplar paisajes boscosos, cielos límpidos y las espectaculares **Barrancas del Cobre**. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Creel_Copper_Canyon_Mexico_-_Charlie_on_Travel_5.jpg/1280px-Creel_Copper_Canyon_Mexico_-_Charlie_on_Travel_5.jpg)
+
+**Creel** es, además, una de las estaciones del tren Chihuahua-Pacífico, mejor conocido como "**El Chepe**", o sea que una de las mejores formas de llegar a él es a bordo de este romántico ferrocarril que ofrece asombrosas vistas de las Barrancas del Cobre. 
