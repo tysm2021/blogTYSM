@@ -34,4 +34,10 @@ Creel es un hermoso y típico pueblo de alta montaña, donde puede respirarse ai
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Creel_Copper_Canyon_Mexico_-_Charlie_on_Travel_5.jpg/1280px-Creel_Copper_Canyon_Mexico_-_Charlie_on_Travel_5.jpg)
 
-**Creel** es, además, una de las estaciones del tren Chihuahua-Pacífico, mejor conocido como "**El Chepe**", o sea que una de las mejores formas de llegar a él es a bordo de este romántico ferrocarril que ofrece asombrosas vistas de las Barrancas del Cobre. 
+**Creel** es, además, una de las estaciones del tren Chihuahua-Pacífico, mejor conocido como "**El Chepe**", o sea que una de las mejores formas de llegar a él es a bordo de este romántico ferrocarril que ofrece asombrosas vistas de las Barrancas del Cobre. En invierno, el paisaje se viste de blanco y es una oportunidad para gozar de este paraíso nevado. 
+
+Otros destinos que vale la pena visitar en Creel son: **San Ignacio Arareko**, una comunidad donde uno puede convivir con el pueblo rarámuri y visitar su hermoso lago, que está rodeado de rocas y bosques de pinos; 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Arareko_Lake%2C_Creel_Copper_Canyon_Mexico_-_Charlie_on_Travel_9.jpg/1024px-Arareko_Lake%2C_Creel_Copper_Canyon_Mexico_-_Charlie_on_Travel_9.jpg)
+
+## Batopilas
