@@ -8,7 +8,7 @@
 <meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}{%- else -%}{{ site.description }}{%- endif -%}">
 <meta name="twitter:card" content="{{ site.description }}" />
 <meta name="twitter:site" content="{{ site.title }}" />
-<meta property="og:image" content="{{ _header_image_src }}" />
+<meta property="og:image" content="https://blog.tonoysumariachi.com/images/PortadaBLOG.png" />
 <link rel="canonical" href="{%- include snippets/page-url.html -%}">
 
 {%- assign _paths_rss = site.paths.rss | default: site.data.variables.default.paths.rss -%}
