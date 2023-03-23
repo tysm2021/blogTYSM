@@ -6,12 +6,7 @@
 <title>{%- if __return -%}{{ __return }} - {{ site.title }}{%- else -%}{{ site.title }}{%- endif -%}</title>
 
 <meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}{%- else -%}{{ site.description }}{%- endif -%}">
-{% for post in site.posts %}
-<meta property="og:type" content="article" />
-<meta property="og:title" content="{{ post.tittle }}" />
-<meta property="og:description" content="{{ post.summary }}" />
-<meta property="og:image" content="{{ post.cover }}" />
-{% endfor %}
+
 <link rel="canonical" href="{%- include snippets/page-url.html -%}">
 
 {%- assign _paths_rss = site.paths.rss | default: site.data.variables.default.paths.rss -%}
