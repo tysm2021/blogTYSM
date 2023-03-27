@@ -9,31 +9,30 @@ article_header:
   image:
     src: "/images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg"
 sharing: true
-title: "Los más grandes: actores mexicanos más longevos y sus edades"
+title: 'Los más grandes: actores mexicanos más longevos y sus edades'
 author: Francisco Massé
 cover: "/images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg"
 tags: cine television actores actrices
 show_author_profile: false
 comment: false
-summary:
-  "Estos actores, actrices y cantantes hicieron historia y siguen vivos: por
-  eso decimos que son los más grandes."
+summary: 'Estos actores, actrices y cantantes hicieron historia y siguen vivos: por
+  eso decimos que son los más grandes.'
 categories: CULTURA
+
 ---
+Hasta hace poco, en redes sociales circulaban muchos chistes y memes sobre la supuesta inmortalidad de "**Chabelo**", adjudicándole una muy avanzada edad. Ya vimos que no es así, y como en marzo de 2023 se nos fueron dos celebridades con vidas y carreras de largo aliente, en esta primavera de 2023 ¿quiénes son **los actores y las actrices mexicanas más longevos** y cuáles son sus **edades**?
 
-En redes sociales circulan muchos chistes y memes sobre la supuesta inmortalidad de "Chabelo", adjudicándole una muy avanzada edad. Pero, ya hablando en serio y tomando en cuenta cuántos años tienen, ¿quiénes son los actores y las actrices mexicanas más longevos y cuáles son sus edades?
-
-A continuación, la lista de los "más grandes" con sus edades y sus respectivas fechas de nacimiento, actualizada en mayo de 2022. No vaya siendo que ahora que leas esta lista, alguno de ellos tristemente se nos haya adelantado. Como sea, nos quitamos el sombrero ante la grandeza de todos ellos y todas ellas…
+A continuación, la **lista actualizada** de los "más grandes" con sus **edades** y sus respectivas fechas de nacimiento. Como podrás leer, algunos de ellos ya se nos adelantaron; pero, como sea, nos quitamos el sombrero ante la grandeza de todos ellos y todas ellas…
 
 **TE PUEDE INTERESAR:** [**Cinco escritoras mexicanas del siglo XX y sus obras principales.**](https://blog.tonoysumariachi.com/cultura/2022/10/05/cinco-escritoras-mexicanas-del-siglo-xx-y-sus-obras-principales.html)
 
-### Ignacio López Tarso
+### Ignacio López Tarso (†)
 
-#### 97 años (15 de enero de 1925)
+#### 97 años (1925-2023)
 
 <img class="image image--xl" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Ignacio_L%C3%B3pez_Tarso_on_stage_in_2019_%28cropped%29.jpg"/>
 
-Este excelso actor, recordado por muchos debido a su papel protagónico en la cinta _Macario_, encabeza la lista con su 97 años. Y con todo, el señor sigue trabajando, ¿admirable, no?
+Este excelso actor, recordado por muchos debido a su papel protagónico en la cinta _Macario_, hasta el 11 de marzo de 2023 encabezaba la lista con sus 97 años. Y con todo, el señor siguió trabajando casi hasta el día de su muerte, ¿admirable, no?
 
 ### Sergio Corona
 
