@@ -25,3 +25,5 @@ Todos tenemos un amigo o una amiga que se la pasan **imaginando** que un día se
 Acá te contamos algunas de las versiones que circulan en diversas fuentes, así como una teoría que tenemos por aquí y qu no suena tan descabellada, después de leer todas las anteriores.
 
 **TE RECOMENDAMOS:** [**¿Cuál es el origen de la frase "Ya sacó el cobre"?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/22/cual-es-el-origen-de-la-frase-popular-ya-saco-el-cobre.html)
+
+Empecemos por el principio y veamos **quién son los guajiros**. Al respecto, hay dos posibles **orígenes**: uno, el más popular, dice que así se le llamaba a los grandes señores o a los hombres poderosos en una lengua antillana llamada arahuaco, la cual se hablaba en **Cuba**, y que después esta voz se usó para referirse a los **campesinos**, en especial a los más pobres; el otro origen se refiere al pueblo wayú, el cual habita en la Península de la Guajira, situada a orillas del Mar Caribe, principalmente en Colombia y en partes de Venezuela.
