@@ -44,7 +44,7 @@ Este cómico que saltó a la fama por su papel en la serie de TV _Hogar, dulce h
 
 ### Ana Luisa Peluffo
 
-#### 92 años (9 de octubre de 1929)
+#### 93 años (9 de octubre de 1929)
 
 <img class="image image--xl" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Ana_Luisa_de_Jes%C3%BAs_Quintana_Paz_Peluffo.jpg"/>
 
@@ -52,7 +52,7 @@ Esta hermosa actriz, que en décadas pasadas escandalizó a la sociedad mexicana
 
 ### Elsa Aguirre
 
-#### 91 años (25 de septiembre de 1930)
+#### 92 años (25 de septiembre de 1930)
 
 <img class="image image--xl" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Elsa_Aguire.jpg/943px-Elsa_Aguire.jpg"/>
 
@@ -60,7 +60,7 @@ Otra actriz que, a pesar del paso del tiempo, conserva con dignidad su belleza. 
 
 ### Silvia Pinal
 
-90 años (12 de septiembre de 1931)
+91 años (12 de septiembre de 1931)
 
 <img class="image image--xl circle border shadow" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Silvia_Pinal_in_2019_%283%29.jpg"/>
 
@@ -68,7 +68,7 @@ La "Chivis" como cariñosamente se le conoce en el medio artístico, nos metió 
 
 ### Yolanda Montes "Tongolele"
 
-#### 90 años (31 de enero de 1932)
+#### 91 años (31 de enero de 1932)
 
 <img class="image image--xl border rounded shadow" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Tongolele_Habana_Cuba%2C_1955_%28cropped%29.jpg"/>
 
@@ -78,7 +78,7 @@ La curvilínea bailarina que hizo cimbrar a los hombres en películas de la déc
 
 ### María Victoria
 
-#### 89 años (26 de febrero de 1933)
+#### 96 años (26 de febrero de 1927)
 
 <img class="image image--xl border shadow" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Mar%C3%ADa_Victoria_Cervantes%2C_c._1950s.jpg"/>
 
