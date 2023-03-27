@@ -86,16 +86,16 @@ La curvilínea bailarina que hizo cimbrar a los hombres en películas de la déc
 
 ### Eric del Castillo
 
-#### 88 años (22 de junio de 1933)
+#### 89 años (22 de junio de 1933)
 
 <img class="image image--xl border shadow" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eric_del_Castillo_in_2017.jpg"/>
 
 Este galán y excelente actor —al que muchos llaman "suegro" por su hija Kate— es otro ejemplo de cómo envejecer con dignidad y apostura, a pesar de algunos problemas de salud.
 
-### Xavier López "Chabelo"
+### Xavier López "Chabelo" (†)
 
-#### 87 años (17 de febrero de 1935)
+#### 88 años (1935-2023)
 
 ![](/images/2022-04-27-chabelo.jpeg)
 
-Y resulta que el "más chavito" de este conteo es el legendario "Chabelo", el amigo de todos los niños. Para que veas que no debes creer en todo lo que se dice en internet, ¿ah, verdad?...
+Y resulta que el "más chavito" de este conteo era el legendario "Chabelo", el amigo de todos los niños, quien para sorpresa de muchos falleció "por complicaciones abdominales" el pasado 25 de marzo. Para que veas que no debes creer en todo lo que se dice en internet, ¿ah, verdad?...
