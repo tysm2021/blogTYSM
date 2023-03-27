@@ -38,7 +38,7 @@ Este excelso actor, recordado por muchos debido a su papel protagónico en la ci
 
 #### 96 años (26 de febrero de 1927)
 
-<img class="image image--xl border shadow" src="![](https://upload.wikimedia.org/wikipedia/commons/6/64/Mar%C3%ADa_Victoria_Cervantes%2C_c._1950s.jpg)"/>
+![](https://upload.wikimedia.org/wikipedia/commons/6/64/Mar%C3%ADa_Victoria_Cervantes%2C_c._1950s.jpg)
 
 Por su forma de cantar, la apodaban "La dama del pujidito", y se hizo célebre por sus papeles cómicos en las series _La criada bien criada_ y _Mis_ _huéspedes_, ¿te acuerdas de ella?…Sergio Corona
 
