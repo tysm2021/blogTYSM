@@ -34,7 +34,13 @@ A continuación, la **lista actualizada** de los "más grandes" con sus **edades
 
 Este excelso actor, recordado por muchos debido a su papel protagónico en la cinta _Macario_, hasta el 11 de marzo de 2023 encabezaba la lista con sus 97 años. Y con todo, el señor siguió trabajando casi hasta el día de su muerte, ¿admirable, no?
 
-### Sergio Corona
+### María Victoria
+
+#### 96 años (26 de febrero de 1927)
+
+<img class="image image--xl border shadow" src="![](https://upload.wikimedia.org/wikipedia/commons/6/64/Mar%C3%ADa_Victoria_Cervantes%2C_c._1950s.jpg)"/>
+
+Por su forma de cantar, la apodaban "La dama del pujidito", y se hizo célebre por sus papeles cómicos en las series _La criada bien criada_ y _Mis_ _huéspedes_, ¿te acuerdas de ella?…Sergio Corona
 
 #### 93 años (7 de octubre de 1928)
 
@@ -75,14 +81,6 @@ La "Chivis" como cariñosamente se le conoce en el medio artístico, nos metió 
 ![]()
 
 La curvilínea bailarina que hizo cimbrar a los hombres en películas de la década de 1950 también ya anda en el "noveno piso" y conserva en muy buen estado la figura que la hizo famosa.
-
-### María Victoria
-
-#### 96 años (26 de febrero de 1927)
-
-<img class="image image--xl border shadow" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Mar%C3%ADa_Victoria_Cervantes%2C_c._1950s.jpg"/>
-
-Por su forma de cantar, la apodaban "La dama del pujidito", y se hizo célebre por sus papeles cómicos en las series _La criada bien criada_ y _Mis_ _huéspedes_, ¿te acuerdas de ella?…
 
 ### Eric del Castillo
 
