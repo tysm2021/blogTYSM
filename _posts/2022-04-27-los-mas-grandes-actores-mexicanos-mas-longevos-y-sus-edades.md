@@ -40,7 +40,9 @@ Este excelso actor, recordado por muchos debido a su papel protagónico en la ci
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/64/Mar%C3%ADa_Victoria_Cervantes%2C_c._1950s.jpg)
 
-Por su forma de cantar, la apodaban "La dama del pujidito", y se hizo célebre por sus papeles cómicos en las series _La criada bien criada_ y _Mis_ _huéspedes_, ¿te acuerdas de ella?…Sergio Corona
+¿Te acuerdas de ella? Por su forma de cantar, la apodaban "La dama del pujidito", y se hizo célebre por sus papeles cómicos en las series _La criada bien criada_ y _Mis_ _huéspedes_. Y ahora, con la muerte reciente de don Ignacio López Tarso, ostenta el título de la actriz y cantante mexicana más longeva…
+
+### Sergio Corona
 
 #### 93 años (7 de octubre de 1928)
 
