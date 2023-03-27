@@ -24,4 +24,4 @@ Todos tenemos un amigo o una amiga que se la pasan **imaginando** que un día se
 
 Acá te contamos algunas de las versiones que circulan en diversas fuentes, así como una teoría que tenemos por aquí y qu no suena tan descabellada, después de leer todas las anteriores.
 
-TE RECOMENDAMOS:
+TE RECOMENDAMOS: ¿Cuál es el origen de la frase "Ya sacó el cobre"?
