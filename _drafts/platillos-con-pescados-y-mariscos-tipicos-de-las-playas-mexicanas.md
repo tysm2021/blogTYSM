@@ -49,3 +49,7 @@ Cuenta una leyenda —bueno, una versión popular, porque aún no alcanza nivele
 En nuestros días, este platillo se consume en la costa del Pacífico, principalmente en el noreste y en los estados de Baja California, Sonora, Jalisco, Nayarit y Sinaloa. Se cuenta que el **aguachile** original es de la sierra sinaloense y un poco distinto al que se conoce en el resto del país, pues se elabora con chile chiltepín —que es muy picante—, machaca de pescado y agua hervida. Con el tiempo, se empezó a elaborar con camarón y se le añadió jugo de limón, tiras de cebolla y rebanadas de pepino, además de chiles verdes en lugar de chitepines. Actualmente hay una variedad tremenda de aguchiles, a los que se les añade hasta tequila y mezcal.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/72/Aguachile.jpg)
+
+## Tikin Xic (Yucatán)
+
+El nombre en maya de este platillo delata su origen, propio de los estados de **Yucatán** y **Quintana Roo**. Se prepara con pescado mero cortado por la mitad y extendido, el cual se marina con una mezcla de achiote —como la cochinita pibil—, jugo de naranjas agrias, especias y hierbas de olor; después, se envuelve en una hojaa de plátano y se asa en un horno de leña sobre tierra. ¡Una delicia!
