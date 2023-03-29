@@ -24,4 +24,6 @@ Según los cánones, la **Semana Santa** inicia el Domingo de Ramos, con la bend
 
 Acá te contamos la historia de este **altar**, los **elementos** que lleva y sus **simbolismos**, pues al parecer es una tradición que está desapareciendo debido a que muchos fieles prefieren pasar los días de asueto vacacionando y en las playas, y no recordando la Pasión y Muerte de Jesús de Nazaret.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: El Día de Muertos, ¿realmente es prehispánico?**
+
+Recordemos que, hace unos 500 años, conquistadores españoles llegaron a tierras americanas y por la vía de las armas impusieron su cultura, su lengua y su religión. Por eso es que desde hace siglos y hasta hoy México ha sido un país mayormente católico, y esta fe ha moldeado muchas de nuestras creencias, prácticas y festividades. Lo mismo sucede con el Viernes de Dolores, pues éste empezó a conmemorarse —no a celebrarse, pues hablamos de las penurias de la Virgen María durante la Semana Santa—
