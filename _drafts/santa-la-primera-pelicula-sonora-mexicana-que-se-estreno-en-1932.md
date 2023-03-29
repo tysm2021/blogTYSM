@@ -31,3 +31,9 @@ Tras el fin del agitado y violento periodo de la Revolución Mexicana, la capita
 ![](/images/2023-03-29-automovil-gris.jpeg)
 
 Así empezó a crecer la industria del cine nacional, pero hasta el momento todas las producciones eran mudas o tenían "sonido indirecto", o sea que la escena se grababa y después se le imponían la música y las voces, las cuales a veces no sincronizaban bien con la imagen. Fue hasta 1931 cuando empezó la filmación de _Santa_, basada en la novela del mismo nombre y escrita por **Federico Gamboa**, la cual a grandes rasgos cuenta la historia de una bella joven que se enamora de un soldado y se entrega a él, pero éste la abandona, causando que a Santa la corran de su casa, por lo que se ve orillada a trabajar en un prostíbulo, donde se enamora de ella el pianista ciego del lugar.
+
+Para encarnar a la hermosa, inocente y corrompida Santa se eligió a la actriz oaxaqueña **Lupita Tovar**, quien ya había probado suerte en el cine de Hollywood pero no alcanzó la fama de sus compatriotas Lupe Vélez y Dolores del Río, por lo que regresó a México y fue reclutada por el director Antonio Moreno para protagonizar su película. Su pareja fue **Carlos Orellana**, un ex revolucionario carrancista con una notable carrera en el teatro, para quien _Santa_ marcó el debut en el cine.
+
+![](https://procine.cdmx.gob.mx/storage/app/media/Lupita%201.jpg)
+
+Durante la filmación, para lograr
