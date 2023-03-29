@@ -39,7 +39,9 @@ Según los historiadores, la tradición del **Viernes de Dolores** fue introduci
 
 Según el portal católico [Desde la fe](https://desdelafe.mx/noticias/sabias-que/todo-lo-que-debes-saber-sobre-el-altar-de-dolores/), los **elementos** que debe llevar el Altar de Dolores son:
 
-Imagen central
+#### Imagen central
+
+Una imagen de la Virgen
 
 Flores
 
