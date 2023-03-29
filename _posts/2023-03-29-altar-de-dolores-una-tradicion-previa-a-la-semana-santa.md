@@ -41,29 +41,23 @@ Según el portal católico [Desde la fe](https://desdelafe.mx/noticias/sabias-qu
 
 #### Imagen central
 
-Una imagen de la Virgen, preferentemente en su advocación de la Dolorosa, de la Piedad, de la Soledad, del Consuelo o de las Angustias, ya sea en pintura, cuadro o en estatua de bulto.
+Una imagen de la **Virgen**, preferentemente en su advocación de **la Dolorosa**, de la Piedad, de la Soledad, del Consuelo o de las Angustias, ya sea en pintura, cuadro o en estatua de bulto.
 
 #### Flores
 
-Acompañan a la Virgen y deben estar marchitas, preferentemente de color morado, símbolo de la tristeza.
+Acompañan a la **Virgen** y deben estar marchitas, preferentemente de **color morado**, símbolo de la tristeza.
 
-Aguas
+#### Aguas
 
-de diferentes colores, en especial: blanco, verde, anaranjado y rojo (horchata, chía, limón, melón, naranja, sandía o jamaica) y representan la pureza de la Virgen, la esperanza de María en la Resurrección de su hijo, el atardecer del Calvario durante la crucifixión y la sangre derramada por Cristo para la redención de los hombres.
+Aguas frescas de diferentes colores, representan la pureza de la **Virgen**, la esperanza de **María** en la Resurrección de su hijo, el atardecer del Calvario durante la crucifixión y la sangre derramada por **Cristo** para la redención de los hombres. Se ofrecen a quienes visitan a la Virgen y rezan un rosario a su lado.
 
-Las aguas se ofrecen a quienes visitan a la Virgen y rezan un rosario a su lado. Simbolizan que a través de la intercesión de María, los visitantes recibirán el agua de vida eterna
+#### Trigo germinado
 
-Al inicio de la Cuaresma se siembran en macetas semillas de trigo, chía y cebada; deben germinar para el viernes. Los cereales en crecimiento simbolizan la nueva vida que Jesús ha participado al mundo con su muerte y el trigo en particular simboliza la hostia en donde Cristo se hace presente.
+Al inicio de la **Cuaresma** se siembran en macetas semillas de trigo, que deben germinar y una semana antes se guardan de la luz para que se pongan amarillas. Las semillas simbolizan la nueva vida que Jesús ha participado al mundo con su muerte y el trigo representa la hostia en donde **Cristo** se hace presente.
 
-5\. Vid: Algunos altares también incluyen la presencia de las uvas, pues de ellas habrá de surgir el vino que en la Misa se convertirá en la sangra de Cristo que alimenta y redime a los creyentes.
+#### Naranjas y banderas doradas
 
-6\. Naranjas y banderas doradas: Sobre las naranjas agrias se insertan pequeñas banderitas que ancestralmente fueron de oro volador, pero pueden ser de papel brillante. Este elemento significa que sobre el agrio y amargo sentimiento por la muerte de Cristo hay estandartes de gloria que anuncian su Resurrección.
-
-Trigo germinado
-
-Uvas
-
-Naranjas y banderas picadas
+Sobre las naranjas agrias se insertan pequeñas banderitas que solían ser de oro, pero ahora son de papel brillante. Este elemento significa que sobre el agrio sentimiento por la muerte de Cristo hay señales de gloria que anuncian su Resurrección.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Altar_de_viernes_de_dolores_en_Puebla.jpg/768px-Altar_de_viernes_de_dolores_en_Puebla.jpg)
 
@@ -75,8 +69,6 @@ Se realiza con pétalos de rosa marchita.
 
 Un corazón de cualquier material, atravesado por las siete espadas que simbolizan los dolores sufridos por la Virgen: la profecía de Simeón, la huida a Egipto, la pérdida del niño Dios en el Templo, Jesús y María se encuentran en el camino a la Cruz, Jesús muere en la Cruz, Jesús es bajado de la Cruz y puesto en los brazos de María, y Jesús es sepultado.
 
-Símbolos de la Pasión
-
-#### Elementos de la Pasión
+#### Símbolos de la Pasión
 
 Los clavos, el martillo, la corona de espinas, el gallo, la esponja, el pilar, el INRI, la caña, los dados, la lanza y la cruz sin Jesús también pueden colocarse a los pies del altar.
