@@ -24,6 +24,6 @@ Muchos no lo saben, pero México fue uno de los primeros países en tener cinema
 
 Viajemos, pues, noventa años hacia el pasado, y conozcamos cómo fue que esta cinta hizo historia y abrió el camino para el inicio de la llamada Época de Oro del **Cine Mexicano**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Las cinco mejores películas de Mario Moreno 'Cantinflas'.**](https://blog.tonoysumariachi.com/mexicanisimos/2022/09/26/las-cinco-mejores-peliculas-de-mario-moreno-cantinflas.html)
 
  
