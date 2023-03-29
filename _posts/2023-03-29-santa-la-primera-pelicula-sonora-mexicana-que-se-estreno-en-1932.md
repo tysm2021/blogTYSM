@@ -11,7 +11,7 @@ article_header:
   image:
     src: "/images/2023-03-29-1024px_santa1932.jpg"
 sharing: true
-title: 'Santa: la primera película sonora mexicana que se estrenó en 1932'
+title: 'Santa: la primera película sonora mexicana, que se estrenó en 1932'
 summary: Basada en la novela homónima de Federico Gamboa, esta cinta hizo historia
   por ser la primera que contó con sonido directo y sincronizado.
 cover: "/images/2023-03-29-1024px_santa1932.jpg"
