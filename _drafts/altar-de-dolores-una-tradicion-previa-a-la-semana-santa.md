@@ -27,3 +27,5 @@ Acá te contamos la historia de este **altar**, los **elementos** que lleva y su
 **TE RECOMENDAMOS: El Día de Muertos, ¿realmente es prehispánico?**
 
 Recordemos que, hace unos 500 años, conquistadores españoles llegaron a tierras americanas y por la vía de las armas impusieron su cultura, su lengua y su **religión**. Por eso es que desde hace siglos y hasta hoy México ha sido un país mayormente **católico**, y esta fe ha moldeado muchas de nuestras creencias, prácticas y festividades. Lo mismo sucede con el **Viernes de Dolores**, pues éste empezó a conmemorarse —no a celebrarse, pues hablamos de las penurias de la Virgen María durante la **Semana Santa**— en sustitución de la fiesta de los Dolores de Nuestra Señora, que se pasó al 15 de septiembre y se convirtió en la fiesta de la Virgen de los Dolores.
+
+Según los historiadores, la tradición del Viernes de Dolores fue introducida por los primeros frailes franciscanos que llegaron a nuestro país recién terminada la Conquista, en la década de 1520, y se arraigó en el pueblo al mezclarse con las costumbres prehispánicas, en un fenómeno que los estudiosos llaman "sincretismo" o "simbiosis".
