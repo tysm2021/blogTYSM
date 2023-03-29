@@ -65,14 +65,14 @@ Uvas
 
 Naranjas y banderas picadas
 
-Monograma de la Virgen
+#### Monograma de la Virgen
 
-Corazón de María
+Se realiza con pétalos de rosa marchita.
+
+#### Corazón de María
+
+Un corazón de cualquier material, atravesado por las siete espadas que simbolizan los dolores sufridos por la Virgen: la profecía de Simeón, la huida a Egipto, la pérdida del niño Dios en el Templo, Jesús y María se encuentran en el camino a la Cruz, Jesús muere en la Cruz, Jesús es bajado de la Cruz y puesto en los brazos de María, y Jesús es sepultado.
 
 Símbolos de la Pasión
-
-7\. Monograma de la Virgen: Se realiza con pétalos de rosa marchita.
-
-8\. Corazón atravesado de las lágrimas de María: Un corazón hecho de cualquier material con las siete espadas que simbolizan los dolores sufridos por la Virgen: la profecía de Simeón, la huida a Egipto, la pérdida del niño Dios en el Templo, Jesús y María se encuentran en el camino a la Cruz, Jesús muere en la Cruz, Jesús es bajado de la Cruz y puesto en los brazos de María, y Jesús es sepultado.
 
 9\. Elementos de la Pasión: Los clavos, el martillo, la corona de espinas, el gallo, la esponja, el pilar, el INRI, la caña, los dados, la lanza y la cruz sin Jesús también se colocan a los pies del altar.
