@@ -20,3 +20,4 @@ show_author_profile: false
 comment: false
 
 ---
+Muchos no lo saben, pero México fue uno de los primeros países en tener cinematógrafos, pues los hermanos Lumière sabían de la admiración que el entonces presidente Porfirio Díaz sentía por la cultura francesa, lo visitaron para mostrarle su nueva invención. De hecho, el mandatario puede considerarse el "primer actor" del cine mexicano, pues fue retratado a caballo en la primera filmación realizada en nuestro país. Unas décadas después de eso, en 1932, se estrenó la primera película sonora mexicana: Santa, con Lupita Tovar y Carlos Orellana, basada en la novela del mismo nombre, escrita por Federico Gamboa.
