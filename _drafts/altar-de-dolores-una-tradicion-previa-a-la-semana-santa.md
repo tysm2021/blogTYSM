@@ -27,7 +27,7 @@ Acá te contamos la historia de este **altar**, los **elementos** que lleva y su
 
 **TE RECOMENDAMOS: El Día de Muertos, ¿realmente es prehispánico?**
 
-Historia
+### Origen e historia
 
 Recordemos que, hace unos 500 años, conquistadores españoles llegaron a tierras americanas y por la vía de las armas impusieron su cultura, su lengua y su **religión**. Por eso es que desde hace siglos y hasta hoy México ha sido un país mayormente **católico**, y esta fe ha moldeado muchas de nuestras creencias, prácticas y festividades. Lo mismo sucede con el **Viernes de Dolores**, pues éste empezó a conmemorarse —no a celebrarse, pues hablamos de las penurias de la Virgen María durante la **Semana Santa**— en sustitución de la fiesta de los Dolores de Nuestra Señora, que se pasó al 15 de septiembre y se convirtió en la fiesta de la Virgen de los Dolores. Los **"siete dolores" de María** son: Escuchar la profecía de Simeón, huir a Egipto con Jesús y José, perder a Jesús en el Templo, encontrarse con Jesús camino al Calvario, ver a Jesús crucificado, recibir el cuerpo de su hijo y sepultar a Jesús. 
 
@@ -35,6 +35,24 @@ Según los historiadores, la tradición del **Viernes de Dolores** fue introduci
 
 ![](/images/2023-03-29-1024px_altardoloresmuseoamparo.jpg)
 
-Elementos
+### Elementos
 
-Según el portal católico Desde la fe, los ele
+Según el portal católico [Desde la fe](https://desdelafe.mx/noticias/sabias-que/todo-lo-que-debes-saber-sobre-el-altar-de-dolores/), los **elementos** que debe llevar el Altar de Dolores son:
+
+Imagen central
+
+Flores
+
+Aguas
+
+Trigo germinado
+
+Uvas
+
+Naranjas y banderas picadas
+
+Monograma de la Virgen
+
+Corazón de María
+
+Símbolos de la Pasión
