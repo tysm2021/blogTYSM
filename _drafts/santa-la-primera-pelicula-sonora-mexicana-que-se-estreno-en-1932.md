@@ -27,3 +27,7 @@ Viajemos, pues, noventa años hacia el pasado, y conozcamos cómo fue que esta c
 **TE RECOMENDAMOS:** [**Las cinco mejores películas de Mario Moreno 'Cantinflas'.**](https://blog.tonoysumariachi.com/mexicanisimos/2022/09/26/las-cinco-mejores-peliculas-de-mario-moreno-cantinflas.html)
 
 Tras el fin del agitado y violento periodo de la Revolución Mexicana, la capital del país entró en un tiempo de paz que permitió retomar ciertas prácticas de entretenimiento de la vida cotidiana, tales como ir al cine. Así, empezaron a proliferar **salas de cine** como las Olimpia, Goya, el Salón Rojo, el Odeón, el cine Rialto, el Venecia, el Rivoli, el Buen Tono o el Condesa, donde se exhibían películas alquiladas o compradas a las grandes casas productoras de los Estados Unidos, así como producciones del cine mudo mexicano, como _El automóvil gris_ (1919).
+
+![](/images/2023-03-29-automovil-gris.jpeg)
+
+Así empezó a crecer la industria del cine nacional, pero hasta el momento todas las producciones eran mudas o tenían "sonido indirecto", o sea que la escena se grababa y después se le imponían la música y las voces, las cuales a veces no sincronizaban bien con la imagen. Fue hasta 1931 cuando empezó la filmación de 
