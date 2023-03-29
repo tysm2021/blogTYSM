@@ -27,7 +27,7 @@ Acá te contamos la historia de este **altar**, los **elementos** que lleva y su
 
 **TE RECOMENDAMOS: El Día de Muertos, ¿realmente es prehispánico?**
 
-### Origen e historia
+## Origen e historia
 
 Recordemos que, hace unos 500 años, conquistadores españoles llegaron a tierras americanas y por la vía de las armas impusieron su cultura, su lengua y su **religión**. Por eso es que desde hace siglos y hasta hoy México ha sido un país mayormente **católico**, y esta fe ha moldeado muchas de nuestras creencias, prácticas y festividades. Lo mismo sucede con el **Viernes de Dolores**, pues éste empezó a conmemorarse —no a celebrarse, pues hablamos de las penurias de la Virgen María durante la **Semana Santa**— en sustitución de la fiesta de los Dolores de Nuestra Señora, que se pasó al 15 de septiembre y se convirtió en la fiesta de la Virgen de los Dolores. Los **"siete dolores" de María** son: Escuchar la profecía de Simeón, huir a Egipto con Jesús y José, perder a Jesús en el Templo, encontrarse con Jesús camino al Calvario, ver a Jesús crucificado, recibir el cuerpo de su hijo y sepultar a Jesús. 
 
@@ -35,17 +35,29 @@ Según los historiadores, la tradición del **Viernes de Dolores** fue introduci
 
 ![](/images/2023-03-29-1024px_altardoloresmuseoamparo.jpg)
 
-### Elementos
+## Elementos
 
 Según el portal católico [Desde la fe](https://desdelafe.mx/noticias/sabias-que/todo-lo-que-debes-saber-sobre-el-altar-de-dolores/), los **elementos** que debe llevar el Altar de Dolores son:
 
 #### Imagen central
 
-Una imagen de la Virgen
+Una imagen de la Virgen, preferentemente en su advocación de la Dolorosa, de la Piedad, de la Soledad, del Consuelo o de las Angustias, ya sea en pintura, cuadro o en estatua de bulto.
 
-Flores
+#### Flores
+
+Acompañan a la Virgen y deben estar marchitas, preferentemente de color morado, símbolo de la tristeza.
 
 Aguas
+
+de diferentes colores, en especial: blanco, verde, anaranjado y rojo (horchata, chía, limón, melón, naranja, sandía o jamaica) y representan la pureza de la Virgen, la esperanza de María en la Resurrección de su hijo, el atardecer del Calvario durante la crucifixión y la sangre derramada por Cristo para la redención de los hombres.
+
+Las aguas se ofrecen a quienes visitan a la Virgen y rezan un rosario a su lado. Simbolizan que a través de la intercesión de María, los visitantes recibirán el agua de vida eterna
+
+Al inicio de la Cuaresma se siembran en macetas semillas de trigo, chía y cebada; deben germinar para el viernes. Los cereales en crecimiento simbolizan la nueva vida que Jesús ha participado al mundo con su muerte y el trigo en particular simboliza la hostia en donde Cristo se hace presente.
+
+5\. Vid: Algunos altares también incluyen la presencia de las uvas, pues de ellas habrá de surgir el vino que en la Misa se convertirá en la sangra de Cristo que alimenta y redime a los creyentes.
+
+6\. Naranjas y banderas doradas: Sobre las naranjas agrias se insertan pequeñas banderitas que ancestralmente fueron de oro volador, pero pueden ser de papel brillante. Este elemento significa que sobre el agrio y amargo sentimiento por la muerte de Cristo hay estandartes de gloria que anuncian su Resurrección.
 
 Trigo germinado
 
@@ -58,3 +70,9 @@ Monograma de la Virgen
 Corazón de María
 
 Símbolos de la Pasión
+
+7\. Monograma de la Virgen: Se realiza con pétalos de rosa marchita.
+
+8\. Corazón atravesado de las lágrimas de María: Un corazón hecho de cualquier material con las siete espadas que simbolizan los dolores sufridos por la Virgen: la profecía de Simeón, la huida a Egipto, la pérdida del niño Dios en el Templo, Jesús y María se encuentran en el camino a la Cruz, Jesús muere en la Cruz, Jesús es bajado de la Cruz y puesto en los brazos de María, y Jesús es sepultado.
+
+9\. Elementos de la Pasión: Los clavos, el martillo, la corona de espinas, el gallo, la esponja, el pilar, el INRI, la caña, los dados, la lanza y la cruz sin Jesús también se colocan a los pies del altar.
