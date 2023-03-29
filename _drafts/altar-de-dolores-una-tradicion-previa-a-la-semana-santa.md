@@ -20,8 +20,8 @@ show_author_profile: false
 comment: false
 
 ---
-Según los cánones, la **Semana Santa** inicia el Domingo de Ramos, con la bendición de las palmas, y culmina la noche del Sábado de Gloria, cuando las campanadas en las iglesias "rompen la Gloria" anunciando al resurrección de Jesús, y al domingo siguiente muchos festejan la Pascua. Sin embargo, hoy hablaremos de otra conmemoración que antecede a esta Semana Mayor: se trata del Viernes de Dolores, que es el viernes previo al Domingo de Ramos; es decir, una semana antes del Viernes Santo, cuando se acostumbra montar el Altar de Dolores en las iglesias y las casas de los devotos.
+Según los cánones, la **Semana Santa** inicia el Domingo de Ramos, con la bendición de las palmas, y culmina la noche del Sábado de Gloria, cuando las campanadas en las iglesias "rompen la Gloria" anunciando al resurrección de Jesús, y al domingo siguiente muchos festejan la Pascua. Sin embargo, hoy hablaremos de otra conmemoración que antecede a esta Semana Mayor: se trata del **Viernes de Dolores**, que es el viernes previo al Domingo de Ramos; es decir, una semana antes del Viernes Santo, cuando se acostumbra montar el **Altar de Dolores** en las iglesias y las casas de los devotos.
 
-Acá te contamos la historia de este altar, los elementos que lleva y sus simbolismos, pues al parecer es una tradición que está desapareciendo debido a que muchos fieles prefieren pasar los días de asueto vacacionando y en las playas, y no recordando la Pasión y Muerte de Jesús de Nazaret.
+Acá te contamos la historia de este **altar**, los **elementos** que lleva y sus **simbolismos**, pues al parecer es una tradición que está desapareciendo debido a que muchos fieles prefieren pasar los días de asueto vacacionando y en las playas, y no recordando la Pasión y Muerte de Jesús de Nazaret.
 
 TE RECOMENDAMOS:
