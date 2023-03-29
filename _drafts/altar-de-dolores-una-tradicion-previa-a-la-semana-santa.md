@@ -65,6 +65,8 @@ Uvas
 
 Naranjas y banderas picadas
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Altar_de_viernes_de_dolores_en_Puebla.jpg/768px-Altar_de_viernes_de_dolores_en_Puebla.jpg)
+
 #### Monograma de la Virgen
 
 Se realiza con pétalos de rosa marchita.
@@ -75,4 +77,6 @@ Un corazón de cualquier material, atravesado por las siete espadas que simboliz
 
 Símbolos de la Pasión
 
-9\. Elementos de la Pasión: Los clavos, el martillo, la corona de espinas, el gallo, la esponja, el pilar, el INRI, la caña, los dados, la lanza y la cruz sin Jesús también se colocan a los pies del altar.
+#### Elementos de la Pasión
+
+Los clavos, el martillo, la corona de espinas, el gallo, la esponja, el pilar, el INRI, la caña, los dados, la lanza y la cruz sin Jesús también pueden colocarse a los pies del altar.
