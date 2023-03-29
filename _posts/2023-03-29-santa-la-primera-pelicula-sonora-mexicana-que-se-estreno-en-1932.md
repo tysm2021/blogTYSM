@@ -36,4 +36,12 @@ Para encarnar a la hermosa, inocente y corrompida Santa se eligió a la actriz o
 
 ![](https://procine.cdmx.gob.mx/storage/app/media/Lupita%201.jpg)
 
-Durante la filmación, para lograr
+Durante la filmación, para lograr el sonido directo se recurrió a los hermanos **Joselito y Roberto Rodríguez**, quienes desarrollaron la sincronía perfecta con su Rodríguez Sound Recording System, logrando así el primer largometraje sonoro con sistema óptico —es decir, que el sonido queda grabado en la misma cinta que la imagen— de América Latina. Las escenas fueron rodadas en el pueblo de **Chimalistac**, donde está situada la novela, que entonces estaba a las afueras de la Ciudad de México y hoy es una colonia residencial ubicada entre Coyoacán y San Ángel, donde existe una calle y una plaza con el nombre de Federico Gamboa.
+
+**El estreno de _Santa_ fue el 30 de marzo de 1932,** en el Cinema Palacio de la Ciudad de México, ubicado en la avenida Cinco de Mayo, en el Centro Histórico de la CDMX, donde había 2 mil 307 butacas ocupadas. Se trató de un gran evento que contó con la participación de orquestas de jazz del Primer Circuito, el canto del barítono Juan José Martínez Casado y la presencia del director Federico Gamboa, en persona.
+
+![](/images/2023-03-29-santaanuncio.jpeg)
+
+A pesar de que a la sociedad de esa época _Santa_ le pareció una cinta en extremo atrevida, por abordar el tema de la prostitución y cuestionar las creencias en torno a la castidad y virginidad en la mujer, la película fue bien recibida y se convirtió en uno de los primeros éxitos de taquilla del naciente cine nacional, el cual **abrió paso a la llamada Época de Oro del Cine Mexicano, la cual oficialmente inició en 1936** con el estreno de _Allá en el Rancho Grande_, protagonizada por Tito Guízar y Esther Fernández.
+
+***
