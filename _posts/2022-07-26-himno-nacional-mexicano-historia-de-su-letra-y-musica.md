@@ -1,6 +1,13 @@
 ---
+title: 'Himno Nacional Mexicano: historia de su letra y música'
+date: 2022-07-26 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- musica
+- historia
+- biografias
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-07-26-himnonacional1.jpg"
 sharing: true
-title: "Himno Nacional Mexicano: historia de su letra y música"
-summary:
-  '"Mexicanos al grito de guerra…"; ¿conoces la historia detrás del Himno Nacional
+summary: '"Mexicanos al grito de guerra…"; ¿conoces la historia detrás del Himno Nacional
   que se canta en las escuelas los lunes por la mañana?'
 cover: "/images/2022-07-26-himnonacional1.jpg"
-tags: musica historia biografias
 show_author_profile: false
 comment: false
 ---

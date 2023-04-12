@@ -1,6 +1,13 @@
 ---
+title: Da un vistazo a los seis Pueblos Mágicos del estado de Querétaro
+date: 2022-11-04 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- pueblos
+- queretaro
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-11-04-1024px-pena_de_bernal_vista.jpeg"
 sharing: true
-title: Da un vistazo a los seis Pueblos Mágicos del estado de Querétaro
-summary:
-  "Además de la importancia histórica de su ciudad capital, Querétaro tiene
-  seis Pueblos Mágicos ideales para visitar un fin de semana: te decimos cuáles son"
+summary: 'Además de la importancia histórica de su ciudad capital, Querétaro tiene
+  seis Pueblos Mágicos ideales para visitar un fin de semana: te decimos cuáles son'
 cover: "/images/2022-11-04-1024px-pena_de_bernal_vista.jpeg"
-tags: turismo pueblos queretaro
 show_author_profile: false
 comment: false
 ---

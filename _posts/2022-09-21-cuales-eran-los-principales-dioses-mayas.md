@@ -1,6 +1,13 @@
 ---
+title: "¿Cuáles eran los principales dioses mayas?"
+date: 2022-09-21 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- arqueologia
+- prehispánico
+- mayas
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-09-21-1280px-bonampak_painting-contrast.jpeg"
 sharing: true
-title: "¿Cuáles eran los principales dioses mayas?"
-summary:
-  "La religión del pueblo maya era vasta, rica e interesante, con mitos de
-  la creación y un grupo de dioses y diosas: conozcamos a algunos de ellos"
+summary: 'La religión del pueblo maya era vasta, rica e interesante, con mitos de
+  la creación y un grupo de dioses y diosas: conozcamos a algunos de ellos'
 cover: "/images/2022-09-21-1280px-bonampak_painting-contrast.jpeg"
-tags: "arqueologia prehispánico mayas "
 show_author_profile: false
 comment: false
 ---

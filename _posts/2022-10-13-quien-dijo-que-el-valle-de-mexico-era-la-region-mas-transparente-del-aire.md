@@ -1,6 +1,14 @@
 ---
+title: "¿Quién dijo que el Valle de México era “la región más transparente del aire”?"
+date: 2022-10-13 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- historia
+- cdmx
+- frases
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-10-13-1280px-santaisabelvelascodf.jpeg"
 sharing: true
-title: "¿Quién dijo que el Valle de México era “la región más transparente del aire”?"
-summary:
-  Se dice que la región del Anáhuac, donde se asienta la capital del país,
+summary: Se dice que la región del Anáhuac, donde se asienta la capital del país,
   es "la región más transparente del aire"; pero, ¿quién dijo esa frase?
 cover: "/images/2022-10-13-1280px-santaisabelvelascodf.jpeg"
-tags: cultura historia cdmx frases
 show_author_profile: false
 comment: false
 ---

@@ -1,6 +1,14 @@
 ---
+title: "¿Quiénes construyeron Machu Picchu, en Perú?"
+date: 2022-11-17 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- paises
+- monumentos
+- datos
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-11-17-machu_picchu-_peru.jpeg"
 sharing: true
-title: "¿Quiénes construyeron Machu Picchu, en Perú?"
-summary:
-  En las altas cumbres de los Andes, en el país sudamericano del Perú, se encuentra
+summary: En las altas cumbres de los Andes, en el país sudamericano del Perú, se encuentra
   esta enigmática ciudad prehispánica de piedra construida en el siglo XV
 cover: "/images/2022-11-17-machu_picchu-_peru.jpeg"
-tags: mundo paises monumentos datos
 show_author_profile: false
 comment: false
 ---

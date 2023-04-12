@@ -1,6 +1,14 @@
 ---
+title: 'Top 5: ¿Cuáles son las montañas más altas de México?'
+date: 2022-07-26 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- montañas
+- top5
+- geografia
+- volcanes
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-07-26-mexico-popocatepetl.jpeg"
 sharing: true
-title: "Top 5: ¿Cuáles son las montañas más altas de México?"
-summary:
-  México es tierra de volcanes, por eso no es de extrañar que éstos sean también
+summary: México es tierra de volcanes, por eso no es de extrañar que éstos sean también
   las montañas más altas de México, ¿sabes cuáles son?
 cover: "/images/2022-07-26-mexico-popocatepetl.jpeg"
-tags: montañas top5 geografia volcanes
 show_author_profile: false
 comment: false
 ---

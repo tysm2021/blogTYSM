@@ -1,4 +1,13 @@
 ---
+title: La zona arqueológica de Malinalco y su historia
+date: 2022-04-20 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- historia
+- arqueologia
+- malinalco
+- mexicas
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -9,17 +18,13 @@ article_header:
   image:
     src: "/images/2022-04-20-malinalco-5289026_1280.jpeg"
 sharing: true
-title: La zona arqueológica de Malinalco y su historia
 author: Francisco Massé
 cover: "/images/2022-04-20-malinalco-5289026_1280.jpeg"
-categories: TURISMO
 subcategorie: ARQUEOLOGIA
-tags: historia arqueologia malinalco mexicas
 show_author_profile: false
 comment: false
-summary:
-  "Este Pueblo Mágico tiene de todo: arte, galerías, gastronomía, hoteles y
-  una impactante zona arqueológica."
+summary: 'Este Pueblo Mágico tiene de todo: arte, galerías, gastronomía, hoteles y
+  una impactante zona arqueológica.'
 ---
 
 **Malinalco** es un hermoso **Pueblo Mágico** ubicado en el Estado de México, a unos cien kilómetros de la Ciudad de México, que cuenta tanto con un pintoresco centro de calles empedradas, casas coloridas, galerías y museos, como con una importante **zona arqueológica** que data del siglo XV de nuestra era, con mucha **historia** que contar.

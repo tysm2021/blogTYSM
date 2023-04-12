@@ -1,6 +1,13 @@
 ---
+title: 'El Chepe: costos, ruta e historia de este tren turístico'
+date: 2022-07-05 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- viajes
+- paseos
+- ciudades
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-07-05-chepe.jpeg"
 sharing: true
-title: "El Chepe: costos, ruta e historia de este tren turístico"
-summary:
-  "¿Alguna vez has viajado en tren? Una de las pocas opciones que quedan es
+summary: "¿Alguna vez has viajado en tren? Una de las pocas opciones que quedan es
   el famoso Chepe…"
 cover: "/images/2022-07-05-chepe.jpeg"
-tags: viajes paseos ciudades
 show_author_profile: false
 comment: false
 ---

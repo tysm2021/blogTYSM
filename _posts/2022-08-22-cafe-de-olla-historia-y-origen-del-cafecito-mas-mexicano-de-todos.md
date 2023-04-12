@@ -1,6 +1,13 @@
 ---
+title: 'Café de olla: historia y origen del cafecito más mexicano de todos'
+date: 2022-08-22 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- bebidas
+- recetas
+- cafe
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-08-22-1280px-cafe_de_olla_.jpeg"
 sharing: true
-title: "Café de olla: historia y origen del cafecito más mexicano de todos"
-summary:
-  Con su inconfundible olor a canela y su sabor a piloncillo, sin duda el café
+summary: Con su inconfundible olor a canela y su sabor a piloncillo, sin duda el café
   de olla es una de las bebidas más populares de México…
 cover: "/images/2022-08-22-1280px-cafe_de_olla_.jpeg"
-tags: bebidas recetas cafe
 show_author_profile: false
 comment: false
 ---

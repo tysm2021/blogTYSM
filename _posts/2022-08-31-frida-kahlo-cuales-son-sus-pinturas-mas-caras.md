@@ -1,6 +1,12 @@
 ---
+title: 'Frida Kahlo: ¿Cuáles son sus pinturas más caras?'
+date: 2022-08-31 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- pintura
+- obras
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +17,9 @@ article_header:
   image:
     src: "/images/2022-08-30-biografia_frida_kahlo_ideal_barcelona_-12.jpeg"
 sharing: true
-title: "Frida Kahlo: ¿Cuáles son sus pinturas más caras?"
-summary:
-  "Durante las últimas décadas, las obras de la pintora mexicana Frida Kahlo
-  han alcanzado precios estratosféricos: aquí te decimos las más costosas."
+summary: 'Durante las últimas décadas, las obras de la pintora mexicana Frida Kahlo
+  han alcanzado precios estratosféricos: aquí te decimos las más costosas.'
 cover: "/images/2022-08-30-biografia_frida_kahlo_ideal_barcelona_-12.jpeg"
-tags: "pintura obras "
 show_author_profile: false
 comment: false
 ---

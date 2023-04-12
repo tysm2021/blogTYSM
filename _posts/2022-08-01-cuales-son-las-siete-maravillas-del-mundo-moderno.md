@@ -1,6 +1,14 @@
 ---
+title: "¿Cuáles son las Siete Nuevas Maravillas del Mundo y cómo se eligieron?"
+date: 2022-08-01 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- turismo
+- lugares
+- ciudades
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-08-01-taj-mahal.jpeg"
 sharing: true
-title: "¿Cuáles son las Siete Nuevas Maravillas del Mundo y cómo se eligieron?"
-summary:
-  En la escuela aprendimos las Siete Maravillas del Mundo Antiguo; pero, ¿sabías
+summary: En la escuela aprendimos las Siete Maravillas del Mundo Antiguo; pero, ¿sabías
   que existen siete nuevas maravillas?
 cover: "/images/2022-08-01-taj-mahal.jpeg"
-tags: mundo turismo lugares ciudades
 show_author_profile: false
 comment: false
 ---

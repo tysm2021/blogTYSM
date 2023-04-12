@@ -1,6 +1,15 @@
 ---
+title: Dulces poblanos, herencia colonial de los conventos de Puebla
+date: 2022-10-06 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- platillos
+- productos
+- postres
+- puebla
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +20,9 @@ article_header:
   image:
     src: "/images/2022-10-06-dulces_de_puebla.jpeg"
 sharing: true
-title: Dulces poblanos, herencia colonial de los conventos de Puebla
-summary:
-  Desde el Virreinato, las manos de las monjas de conventos poblanos como el
+summary: Desde el Virreinato, las manos de las monjas de conventos poblanos como el
   de Santa Clara han regalado a México numerosas delicias dulces…
 cover: "/images/2022-10-06-dulces_de_puebla.jpeg"
-tags: gastronomia platillos productos postres puebla
 show_author_profile: false
 comment: false
 ---

@@ -1,6 +1,12 @@
 ---
+title: 'Carne a la tampiqueña: historia de este platillo reconocido en el mundo'
+date: 2022-09-27 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- platillos
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +17,9 @@ article_header:
   image:
     src: "/images/2022-09-27-carne_a_la_tampiquena.jpeg"
 sharing: true
-title: "Carne a la tampiqueña: historia de este platillo reconocido en el mundo"
-summary:
-  "Carne asada, guacamole, frijoles refritos, arroz, rajas y hasta una enchilada:
-  todo eso lleva la famosa carne a la tampiqueña, pero, ¿cuál es su origen?"
+summary: 'Carne asada, guacamole, frijoles refritos, arroz, rajas y hasta una enchilada:
+  todo eso lleva la famosa carne a la tampiqueña, pero, ¿cuál es su origen?'
 cover: "/images/2022-09-27-carne_a_la_tampiquena.jpeg"
-tags: gastronomia platillos
 show_author_profile: false
 comment: false
 ---

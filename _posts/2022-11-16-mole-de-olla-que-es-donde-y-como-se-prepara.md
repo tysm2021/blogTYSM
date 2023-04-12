@@ -1,6 +1,13 @@
 ---
+title: 'Mole de olla: qué es, de dónde y cómo se prepara'
+date: 2022-11-16 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- platillos
+- recetas
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-11-15-mole_de_olla.jpeg"
 sharing: true
-title: "Mole de olla: qué es, de dónde y cómo se prepara"
-summary:
-  "Es un caldillo de chile rojo que se elabora con espinazo de res, ejotes,
-  papas, elotes y otras verduras y legumbres: conozcamos su origen"
+summary: 'Es un caldillo de chile rojo que se elabora con espinazo de res, ejotes,
+  papas, elotes y otras verduras y legumbres: conozcamos su origen'
 cover: "/images/2022-11-15-mole_de_olla.jpeg"
-tags: gastronomia platillos recetas
 show_author_profile: false
 comment: false
 ---

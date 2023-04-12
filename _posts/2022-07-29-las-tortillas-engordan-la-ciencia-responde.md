@@ -1,6 +1,13 @@
 ---
+title: "¿Las tortillas engordan? La ciencia responde…"
+date: 2022-07-29 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- comida
+- alimentos
+- maiz
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-07-29-mexican_tortilla.jpeg"
 sharing: true
-title: "¿Las tortillas engordan? La ciencia responde…"
-summary:
-  Son la base de la alimentación del mexicano y siempre se nos ha dicho que
+summary: Son la base de la alimentación del mexicano y siempre se nos ha dicho que
   hacen que uno engorde, pero… ¿qué dice la ciencia?
 cover: "/images/2022-07-29-mexican_tortilla.jpeg"
-tags: comida alimentos maiz
 show_author_profile: false
 comment: false
 ---

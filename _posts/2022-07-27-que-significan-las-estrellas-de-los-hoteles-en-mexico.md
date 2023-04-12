@@ -1,6 +1,15 @@
 ---
+title: "¿Qué significan las estrellas de los hoteles en México?"
+date: 2022-07-27 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- hoteles
+- playas
+- ciudades
+- pueblos
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +20,9 @@ article_header:
   image:
     src: "/images/2022-07-27-cancun_aerial_photo_by_safa.jpeg"
 sharing: true
-title: "¿Qué significan las estrellas de los hoteles en México?"
-summary:
-  Una, dos o hasta cinco estrellas, ¿qué significa este sistema de clasificación
+summary: Una, dos o hasta cinco estrellas, ¿qué significa este sistema de clasificación
   y quién decide cuántas estrellas tiene cada hotel?
 cover: "/images/2022-07-27-cancun_aerial_photo_by_safa.jpeg"
-tags: turismo hoteles playas ciudades pueblos
 show_author_profile: false
 comment: false
 ---

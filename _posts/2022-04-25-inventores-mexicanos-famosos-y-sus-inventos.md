@@ -1,5 +1,13 @@
 ---
-categories: CULTURA
+title: Inventores mexicanos famosos y sus inventos
+date: 2022-04-25 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- inventos
+- inventores
+- mexicanos
 subcategorie: CIENCIA
 layout: article
 excerpt_separator: "<!--more-->"
@@ -11,14 +19,11 @@ article_header:
   image:
     src: "/images/2022-04-25-gonzalezcamarena.jpeg"
 sharing: true
-title: Inventores mexicanos famosos y sus inventos
 author: Francisco Massé
 cover: "/images/2022-04-25-gonzalezcamarena.jpeg"
-tags: cultura inventos inventores mexicanos
 show_author_profile: false
 comment: false
-summary:
-  Además de la TV a color de González Camarena, ¿qué otros grandes inventos
+summary: Además de la TV a color de González Camarena, ¿qué otros grandes inventos
   son mexicanos?
 ---
 

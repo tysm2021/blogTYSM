@@ -1,6 +1,13 @@
 ---
+title: Todo lo que necesitas saber para visitar Hawai
+date: 2022-11-29 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- turismo
+- paises
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-11-29-hapuna_beach_hawaii_2021.jpeg"
 sharing: true
-title: Todo lo que necesitas saber para visitar Hawai
-summary:
-  Al pensar en Hawai, de inmediato pensamos en bailarinas, collares floridos,
+summary: Al pensar en Hawai, de inmediato pensamos en bailarinas, collares floridos,
   música de ukulele, volcanes, mucho sol y playas, ¿qué tan cierto es esto?
 cover: "/images/2022-11-29-hapuna_beach_hawaii_2021.jpeg"
-tags: mundo turismo paises
 show_author_profile: false
 comment: false
 ---

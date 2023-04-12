@@ -1,6 +1,14 @@
 ---
+title: '27 de septiembre de 1821: Consumación de la Independencia de México'
+date: 2022-08-15 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- independencia
+- sigloXIX
+- efemerides
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-08-15-27sept1821.jpg"
 sharing: true
-title: "27 de septiembre de 1821: Consumación de la Independencia de México"
-summary:
-  Once años después del inicio de la lucha insurgente, se consumó la independencia
+summary: Once años después del inicio de la lucha insurgente, se consumó la independencia
   de México, ¿cómo se logró este hecho histórico?
 cover: "/images/2022-08-15-27sept1821.jpg"
-tags: historia independencia sigloXIX efemerides
 show_author_profile: false
 comment: false
 ---

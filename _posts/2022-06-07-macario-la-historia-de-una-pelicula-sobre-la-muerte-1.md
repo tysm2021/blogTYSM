@@ -1,6 +1,14 @@
 ---
+title: 'Macario: la historia de una película sobre la muerte'
+date: 2022-06-07 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cine
+- películas
+- artes
+- muertos
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-06-07-macario1.jpg"
 sharing: true
-title: "Macario: la historia de una película sobre la muerte"
-summary:
-  Un campesino hambriento conoce a Dios, al Diablo y a la muerte en esta película,
+summary: Un campesino hambriento conoce a Dios, al Diablo y a la muerte en esta película,
   calificada como una de las mejores del cine mexicano.
 cover: "/images/2022-06-07-macario1.jpg"
-tags: cine películas artes muertos
 show_author_profile: false
 comment: false
 ---

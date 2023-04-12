@@ -1,6 +1,14 @@
 ---
+title: 'Grito de Dolores: historia de la celebración más patriótica de México'
+date: 2022-07-21 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- historia
+- folclor
+- celebraciones
+- independencia
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-07-21-grito.jpeg"
 sharing: true
-title: "Grito de Dolores: historia de la celebración más patriótica de México"
-summary:
-  "¿Desde cuándo es que el Presidente de la República da el Grito cada 15 de
+summary: "¿Desde cuándo es que el Presidente de la República da el Grito cada 15 de
   septiembre?"
 cover: "/images/2022-07-21-grito.jpeg"
-tags: historia folclor celebraciones independencia
 show_author_profile: false
 comment: false
 ---

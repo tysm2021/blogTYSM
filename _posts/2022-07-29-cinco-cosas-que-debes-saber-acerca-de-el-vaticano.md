@@ -1,6 +1,15 @@
 ---
+title: Cinco cosas que debes saber acerca de Ciudad del Vaticano
+date: 2022-07-29 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- turismo
+- europa
+- ciudades
+- paises
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +20,9 @@ article_header:
   image:
     src: "/images/2022-07-29-1280px-st_peter-s_square-_vatican_city_-_april_2007.jpeg"
 sharing: true
-title: Cinco cosas que debes saber acerca de Ciudad del Vaticano
-summary:
-  Además de ser el país donde vive el Papa, ¿qué más distingue a la Ciudad
+summary: Además de ser el país donde vive el Papa, ¿qué más distingue a la Ciudad
   del Vaticano? Aquí te lo contamos…
 cover: "/images/2022-07-29-1280px-st_peter-s_square-_vatican_city_-_april_2007.jpeg"
-tags: mundo turismo europa ciudades paises
 show_author_profile: false
 comment: false
 ---

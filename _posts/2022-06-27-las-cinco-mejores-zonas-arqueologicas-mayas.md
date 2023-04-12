@@ -1,6 +1,13 @@
 ---
+title: Las cinco mejores zonas arqueológicas mayas
+date: 2022-06-27 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- arqueologia
+- viajes
+- mayas
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-06-27-pyramid-5744558_1280.jpeg"
 sharing: true
-title: Las cinco mejores zonas arqueológicas mayas
-summary:
-  La cultura maya dejó importantes vestigios dentro del territorio nacional;
+summary: La cultura maya dejó importantes vestigios dentro del territorio nacional;
   pero, ¿cuáles son los más importantes?
 cover: "/images/2022-06-27-pyramid-5744558_1280.jpeg"
-tags: arqueologia viajes mayas
 show_author_profile: false
 comment: false
 ---

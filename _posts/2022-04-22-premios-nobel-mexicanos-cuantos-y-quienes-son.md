@@ -1,4 +1,12 @@
 ---
+title: 'Premios Nobel mexicanos: cuántos y quiénes son '
+date: 2022-04-22 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- premios
+- mexico
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -9,15 +17,11 @@ article_header:
   image:
     src: "/images/2022-04-22-nobel_prize_medal_in_chemistry.jpeg"
 sharing: true
-title: "Premios Nobel mexicanos: cuántos y quiénes son "
 author: Francisco Massé
 cover: "/images/2022-04-22-nobel_prize_medal_in_chemistry.jpeg"
-categories: CULTURA
-tags: cultura premios mexico
 show_author_profile: false
 comment: false
-summary:
-  "¿Sabes cuántos mexicanos han ganado el premio creado por Alfred Nobel? Aquí
+summary: "¿Sabes cuántos mexicanos han ganado el premio creado por Alfred Nobel? Aquí
   sabrás quiénes son."
 ---
 

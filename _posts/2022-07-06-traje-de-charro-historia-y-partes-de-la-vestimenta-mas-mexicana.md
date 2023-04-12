@@ -1,6 +1,13 @@
 ---
+title: 'Traje de charro: historia y partes de la vestimenta más mexicana'
+date: 2022-07-06 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- tradiciones
+- folclor
+- vestimenta
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-07-06-mariachi-3603720_1280.jpeg"
 sharing: true
-title: "Traje de charro: historia y partes de la vestimenta más mexicana"
-summary:
-  "¿De dónde surgió y en qué consiste el mexicanísimo traje de charro? Aquí
+summary: "¿De dónde surgió y en qué consiste el mexicanísimo traje de charro? Aquí
   te lo contamos…"
 cover: "/images/2022-07-06-mariachi-3603720_1280.jpeg"
-tags: tradiciones folclor vestimenta
 show_author_profile: false
 comment: false
 ---

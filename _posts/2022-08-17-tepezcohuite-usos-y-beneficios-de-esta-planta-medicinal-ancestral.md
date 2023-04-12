@@ -1,3 +1,8 @@
+---
+title: Tepezcohuite Usos Y Beneficios De Esta Planta Medicinal Ancestral
+date: 2022-08-17 00:00:00 Z
+---
+
   ---
 author: Redacción TYSM
 categories: MEXICANISIMOS

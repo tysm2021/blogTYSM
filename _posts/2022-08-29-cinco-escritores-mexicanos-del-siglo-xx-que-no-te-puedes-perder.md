@@ -1,6 +1,15 @@
 ---
+title: Cinco escritores mexicanos del siglo XX que no te puedes perder
+date: 2022-08-29 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- literatura
+- autores
+- novelas
+- cuentos
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +20,9 @@ article_header:
   image:
     src: "/images/2022-08-29-books-1204029_1280.jpeg"
 sharing: true
-title: Cinco escritores mexicanos del siglo XX que no te puedes perder
-summary:
-  Hablando de literatura, te presentamos a cinco autores del siglo pasado cuya
+summary: Hablando de literatura, te presentamos a cinco autores del siglo pasado cuya
   obra te encantará y te abrirá la mente hacia nuevos mundos
 cover: "/images/2022-08-29-books-1204029_1280.jpeg"
-tags: cultura literatura autores novelas cuentos
 show_author_profile: false
 comment: false
 ---

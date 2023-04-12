@@ -1,6 +1,14 @@
 ---
+title: 'Coyolxauhqui: la diosa mexica de la Luna que dio origen a un museo'
+date: 2022-08-17 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- prehispanico
+- mexicas
+- dioses
+- arqueologia
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-08-17-aztec_coyolxauhqui_stone_-9781512996.jpeg"
 sharing: true
-title: "Coyolxauhqui: la diosa mexica de la Luna que dio origen a un museo"
-summary:
-  Fue hallada una madrugada de 1978 y su hallazgo provocó la construcción del
+summary: Fue hallada una madrugada de 1978 y su hallazgo provocó la construcción del
   Museo del Templo Mayor; ¿quién fue Coyolxauhqui y por qué acabo así?
 cover: "/images/2022-08-17-aztec_coyolxauhqui_stone_-9781512996.jpeg"
-tags: prehispanico mexicas dioses arqueologia
 show_author_profile: false
 comment: false
 ---

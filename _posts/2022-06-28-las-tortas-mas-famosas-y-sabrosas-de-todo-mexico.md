@@ -1,6 +1,12 @@
 ---
+title: Las tortas más famosas y sabrosas de todo México
+date: 2022-06-28 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- platillos
+- antojitos
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +17,9 @@ article_header:
   image:
     src: "/images/2022-06-28-1280px-torta_ahogada.jpeg"
 sharing: true
-title: Las tortas más famosas y sabrosas de todo México
-summary:
-  "La fórmula es simple: un alimento en medio de un pan blanco; ¿cuáles son
-  las mejores tortas mexicanas?"
+summary: 'La fórmula es simple: un alimento en medio de un pan blanco; ¿cuáles son
+  las mejores tortas mexicanas?'
 cover: "/images/2022-06-28-1280px-torta_ahogada.jpeg"
-tags: platillos antojitos
 show_author_profile: false
 comment: false
 ---

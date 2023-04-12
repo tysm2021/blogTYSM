@@ -1,6 +1,14 @@
 ---
+title: Origen y significado del nombre de los cinco continentes
+date: 2022-08-15 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- geografia
+- ciudades
+- turismo
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-08-15-old-world-map.jpeg"
 sharing: true
-title: Origen y significado del nombre de los cinco continentes
-summary:
-  África, América, Asia, Europa y Oceanía, ¿qué significan esos nombres y quién
+summary: África, América, Asia, Europa y Oceanía, ¿qué significan esos nombres y quién
   se los puso?
 cover: "/images/2022-08-15-old-world-map.jpeg"
-tags: mundo geografia ciudades turismo
 show_author_profile: false
 comment: false
 ---

@@ -1,6 +1,13 @@
 ---
+title: 'Mango manila, ataulfo y petacón: ¿Cuál es la diferencia?'
+date: 2022-07-19 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- comida
+- frutas
+- postres
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-07-19-dasheri_mango.jpeg"
 sharing: true
-title: "Mango manila, ataulfo y petacón: ¿Cuál es la diferencia?"
-summary:
-  "Una de las frutas favoritas de muchísimos mexicanos es el mango, en cualquiera
-  de sus tres variedades: aquí te hablamos acerca de ellas"
+summary: 'Una de las frutas favoritas de muchísimos mexicanos es el mango, en cualquiera
+  de sus tres variedades: aquí te hablamos acerca de ellas'
 cover: "/images/2022-07-19-dasheri_mango.jpeg"
-tags: comida frutas postres
 show_author_profile: false
 comment: false
 ---

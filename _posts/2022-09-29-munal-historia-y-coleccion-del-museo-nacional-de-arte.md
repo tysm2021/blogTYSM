@@ -1,6 +1,14 @@
 ---
+title: 'MUNAL: historia y colección del Museo Nacional de Arte'
+date: 2022-09-29 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- arte
+- museos
+- cdmx
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-09-29-1280px-museo_nacional_de_arte_-munal-_ciudad_de_mexico_-_plaza_manuel_tolsa_1.jpeg"
 sharing: true
-title: "MUNAL: historia y colección del Museo Nacional de Arte"
-summary:
-  En la calle de Tacuba, en el Centro Histórico de la CDMX, está este museo
+summary: En la calle de Tacuba, en el Centro Histórico de la CDMX, está este museo
   que cuenta la historia del arte en México desde sus inicios hasta el siglo XX
 cover: "/images/2022-09-29-1280px-museo_nacional_de_arte_-munal-_ciudad_de_mexico_-_plaza_manuel_tolsa_1.jpeg"
-tags: cultura arte museos cdmx
 show_author_profile: false
 comment: false
 ---

@@ -1,6 +1,13 @@
 ---
+title: "¿Cuáles son los países con más hablantes de español?"
+date: 2022-07-22 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- lenguaje
+- cultura
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-07-22-diccionario_de_la_lengua_espanola-_-2014.jpeg"
 sharing: true
-title: "¿Cuáles son los países con más hablantes de español?"
-summary:
-  El español o castellano tiene más de 400 millones de hablantes en el mundo;
+summary: El español o castellano tiene más de 400 millones de hablantes en el mundo;
   pero, ¿cuántos lo hablan en cada país?
 cover: "/images/2022-07-22-diccionario_de_la_lengua_espanola-_-2014.jpeg"
-tags: mundo lenguaje cultura
 show_author_profile: false
 comment: false
 ---

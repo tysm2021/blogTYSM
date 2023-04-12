@@ -1,6 +1,14 @@
 ---
+title: 'GALERÍA: Los mejores cuadros de José María Velasco'
+date: 2022-09-02 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- pintura
+- siglo
+- XIX
+- artistas
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-09-02-1280px-jose_maria_velasco_en_el_munal_dsc0287_-35357396650.jpeg"
 sharing: true
-title: "GALERÍA: Los mejores cuadros de José María Velasco"
-summary:
-  Conoce la obra de este pintor, considerado uno de los mejores paisajistas
+summary: Conoce la obra de este pintor, considerado uno de los mejores paisajistas
   mexicanos de todos los tiempos…
 cover: "/images/2022-09-02-1280px-jose_maria_velasco_en_el_munal_dsc0287_-35357396650.jpeg"
-tags: pintura siglo XIX artistas
 show_author_profile: false
 comment: false
 ---

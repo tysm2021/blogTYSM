@@ -1,6 +1,14 @@
 ---
+title: 'Piedra del Sol: ¿por qué se le llama Calendario Azteca?'
+date: 2022-08-26 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- prehispanico
+- mexicas
+- escultura
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-08-26-1280px-aztec_calendar_stone_in_national_museum_of_anthropology-_mexico_city.jpeg"
 sharing: true
-title: "Piedra del Sol: ¿por qué se le llama Calendario Azteca?"
-summary:
-  Una de las esculturas más conocidas de los mexicas es la Piedra del Sol,
+summary: Una de las esculturas más conocidas de los mexicas es la Piedra del Sol,
   pero, ¿por qué se conoce como Calendario Azteca?
 cover: "/images/2022-08-26-1280px-aztec_calendar_stone_in_national_museum_of_anthropology-_mexico_city.jpeg"
-tags: historia prehispanico mexicas escultura
 show_author_profile: false
 comment: false
 ---

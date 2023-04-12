@@ -1,6 +1,13 @@
 ---
+title: Antonio López de Santa Anna, ¿el peor presidente de la historia de México?
+date: 2022-11-11 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- sigloXIX
+- independencia
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-11-11-1024px-gfp-antonio-lopez-de-santa-anna.jpeg"
 sharing: true
-title: Antonio López de Santa Anna, ¿el peor presidente de la historia de México?
-summary:
-  "No sólo ocupó la presidencia más ocasiones que cualquier otro: durante el
-  mandato de López de Santa Anna, México perdió más de la mitad de su territorio…"
+summary: 'No sólo ocupó la presidencia más ocasiones que cualquier otro: durante el
+  mandato de López de Santa Anna, México perdió más de la mitad de su territorio…'
 cover: "/images/2022-11-11-1024px-gfp-antonio-lopez-de-santa-anna.jpeg"
-tags: historia sigloXIX independencia
 show_author_profile: false
 comment: false
 ---

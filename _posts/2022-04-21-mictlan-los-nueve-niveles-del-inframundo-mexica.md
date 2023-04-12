@@ -1,4 +1,14 @@
 ---
+title: 'Mictlán: los nueve niveles del inframundo mexica'
+date: 2022-04-21 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- arqueologia
+- mitologia
+- mexicas
+- prehispanico
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -9,15 +19,11 @@ article_header:
   image:
     src: "/images/2022-04-21-1280px-la_leyenda_de_mictlantecuhtli.jpeg"
 sharing: true
-title: "Mictlán: los nueve niveles del inframundo mexica"
 author: Francisco Massé
 cover: "/images/2022-04-21-1280px-la_leyenda_de_mictlantecuhtli.jpeg"
-categories: HISTORIA
-tags: historia arqueologia mitologia mexicas prehispanico
 show_author_profile: false
 comment: false
-summary:
-  "¿Sabías que, para los mexicas o aztecas, los muertos debían atravesar nueve
+summary: "¿Sabías que, para los mexicas o aztecas, los muertos debían atravesar nueve
   niveles en el inframundo?"
 subcategorie: PREHISPANICOYCOLONIAL
 ---

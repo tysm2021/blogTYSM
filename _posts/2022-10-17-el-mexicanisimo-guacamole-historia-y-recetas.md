@@ -1,6 +1,13 @@
 ---
+title: 'El mexicanísimo guacamole: historia y recetas'
+date: 2022-10-17 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- platillos
+- recetas
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-10-17-1280px-guacamole_imgp1271.jpeg"
 sharing: true
-title: "El mexicanísimo guacamole: historia y recetas"
-summary:
-  Aunque para nosotros es una salsa de sobra conocida, el guacamole ha ganado
+summary: Aunque para nosotros es una salsa de sobra conocida, el guacamole ha ganado
   popularidad mundial debido al Super Bowl en los Estados Unidos
 cover: "/images/2022-10-17-1280px-guacamole_imgp1271.jpeg"
-tags: gastronomia platillos recetas
 show_author_profile: false
 comment: false
 ---

@@ -1,6 +1,15 @@
 ---
+title: Cinco libros mexicanos para empezar bien el Año Nuevo
+date: 2023-01-05 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- literatura
+- autores
+- novelas
+- cuentos
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +20,9 @@ article_header:
   image:
     src: "/images/2023-01-05-freddie-marriage-w8jisvyjy-8-unsplash.jpeg"
 sharing: true
-title: Cinco libros mexicanos para empezar bien el Año Nuevo
-summary:
-  El inicio del año es un momento de reflexión, de buenos propósitos y de ganas
+summary: El inicio del año es un momento de reflexión, de buenos propósitos y de ganas
   de empezar de nuevo; aquí te recomendamos algunos libros para hacerlo bien…
 cover: "/images/2023-01-05-freddie-marriage-w8jisvyjy-8-unsplash.jpeg"
-tags: cultura literatura autores novelas cuentos
 show_author_profile: false
 comment: false
 ---

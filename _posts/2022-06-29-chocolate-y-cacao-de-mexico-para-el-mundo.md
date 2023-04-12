@@ -1,6 +1,13 @@
 ---
+title: 'Chocolate y cacao: de México para el mundo'
+date: 2022-06-29 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- comida
+- alimentos
+- mexico
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-06-29-chocolate-183543_1280-1.jpeg"
 sharing: true
-title: "Chocolate y cacao: de México para el mundo"
-summary:
-  "Una de las grandes aportaciones gastronómicas de México es el cacao: conoce
-  su historia"
+summary: 'Una de las grandes aportaciones gastronómicas de México es el cacao: conoce
+  su historia'
 cover: "/images/2022-06-29-chocolate-183543_1280.jpeg"
-tags: comida alimentos mexico
 show_author_profile: false
 comment: false
 ---

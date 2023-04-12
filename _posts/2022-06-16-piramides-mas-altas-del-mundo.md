@@ -1,6 +1,13 @@
 ---
+title: Conoce las ocho pirámides más altas del mundo
+date: 2022-06-16 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- países
+- arqueología
+- historia
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-06-16-all_gizah_pyramids.jpeg"
 sharing: true
-title: Conoce las ocho pirámides más altas del mundo
-summary:
-  "¿Sabías que, detrás de las egipicias, tres pirámides mexicanas están entre
+summary: "¿Sabías que, detrás de las egipicias, tres pirámides mexicanas están entre
   las más altas del mundo?"
 cover: "/images/2022-06-16-all_gizah_pyramids.jpeg"
-tags: países arqueología historia
 show_author_profile: false
 comment: false
 ---

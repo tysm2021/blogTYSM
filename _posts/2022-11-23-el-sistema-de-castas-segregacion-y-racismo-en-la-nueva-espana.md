@@ -1,6 +1,13 @@
 ---
+title: 'El sistema de castas: segregación y racismo en la Nueva España'
+date: 2022-11-23 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- virreinato
+- mexico
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-11-23-1280px-casta_-_de_mulato_y_china_sale_cambujo-_s-_xviii_-_anonimo.jpg"
 sharing: true
-title: "El sistema de castas: segregación y racismo en la Nueva España"
-summary:
-  "¿Sabías que, durante los 300 años que duró el virreinato de la Nueva España,
+summary: "¿Sabías que, durante los 300 años que duró el virreinato de la Nueva España,
   la sociedad estuvo dividida en castas según el color de piel y el origen étnico?"
 cover: "/images/2022-11-23-1280px-casta_-_de_mulato_y_china_sale_cambujo-_s-_xviii_-_anonimo.jpg"
-tags: historia virreinato mexico
 show_author_profile: false
 comment: false
 ---

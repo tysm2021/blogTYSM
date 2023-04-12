@@ -1,6 +1,15 @@
 ---
+title: 'Los olmecas y sus cabezas colosales: historia y significado'
+date: 2022-07-20 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- prehispanico
+- olmecas
+- veracruz
+- tabasco
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +20,9 @@ article_header:
   image:
     src: "/images/2022-07-20-cabeza_olmeca_6_de_san_lorenzo_-veracruz-_-_museo_nacional_de_antropologia_-_nariz.jpeg"
 sharing: true
-title: "Los olmecas y sus cabezas colosales: historia y significado"
-summary:
-  "Estas esculturas colosales son uno de los primeros vestigios de civilización
-  encontrados en Mesoamérica: conócelas mejor"
+summary: 'Estas esculturas colosales son uno de los primeros vestigios de civilización
+  encontrados en Mesoamérica: conócelas mejor'
 cover: "/images/2022-07-20-cabeza_olmeca_6_de_san_lorenzo_-veracruz-_-_museo_nacional_de_antropologia_-_nariz.jpeg"
-tags: historia prehispanico olmecas veracruz tabasco
 show_author_profile: false
 comment: false
 ---

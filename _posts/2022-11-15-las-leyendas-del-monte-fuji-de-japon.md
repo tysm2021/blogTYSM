@@ -1,6 +1,13 @@
 ---
+title: Las leyendas del Monte Fuji, la montaña más alta de Japón
+date: 2022-11-15 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- turismo
+- paises
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-11-15-1024px-mount_fuji_from_hotel_mt_fuji_1994-11-29.jpeg"
 sharing: true
-title: Las leyendas del Monte Fuji, la montaña más alta de Japón
-summary:
-  Alrededor de este hermoso y peculiar volcán, que es la montaña más alta de
+summary: Alrededor de este hermoso y peculiar volcán, que es la montaña más alta de
   Japón, se han creado numerosas y antiguas leyendas
 cover: "/images/2022-11-15-1024px-mount_fuji_from_hotel_mt_fuji_1994-11-29.jpeg"
-tags: mundo turismo paises
 show_author_profile: false
 comment: false
 ---

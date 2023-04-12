@@ -1,6 +1,14 @@
 ---
+title: 'Coyoacán: cinco lugares que no te puedes perder'
+date: 2022-08-02 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- ciudades
+- barrios
+- cdmx
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-08-02-atrial_arch_coyoacan.jpeg"
 sharing: true
-title: "Coyoacán: cinco lugares que no te puedes perder"
-summary:
-  "Al sur de la CdMx se encuentra Coyoacán, en cuyos barrios encontrarás muchos
-  sitios de interés: conoce algunos de ellos…"
+summary: 'Al sur de la CdMx se encuentra Coyoacán, en cuyos barrios encontrarás muchos
+  sitios de interés: conoce algunos de ellos…'
 cover: "/images/2022-08-02-atrial_arch_coyoacan.jpeg"
-tags: turismo ciudades barrios cdmx
 show_author_profile: false
 comment: false
 ---

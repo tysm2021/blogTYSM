@@ -1,28 +1,26 @@
 ---
 layout: articles
 titles:
-  # @start locale config
-  en      : &EN       
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  主页
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  主頁
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       홈
-  ko-KR   : *KO
-  fr      : &FR       Accueil
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
+  en: 
+  en-GB: 
+  en-US: 
+  en-CA: 
+  en-AU: 
+  zh-Hans: 主页
+  zh: 主页
+  zh-CN: 主页
+  zh-SG: 主页
+  zh-Hant: 主頁
+  zh-TW: 主頁
+  zh-HK: 主頁
+  ko: 홈
+  ko-KR: 홈
+  fr: Accueil
+  fr-BE: Accueil
+  fr-CA: Accueil
+  fr-CH: Accueil
+  fr-FR: Accueil
+  fr-LU: Accueil
 show_title: false
 articles:
   data_source: paginator.posts
@@ -33,6 +31,7 @@ articles:
   show_info: true
   type: grid
 ---
+
 <div class="layout--home">
   {%- include paginator.html -%}
 </div>

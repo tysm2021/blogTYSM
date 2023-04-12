@@ -1,6 +1,13 @@
 ---
+title: Frases y refranes mexicanos con números y sus significados
+date: 2022-08-09 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- folclor
+- lenguaje
+- frases
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-08-09-1280px-bingo_numbers_-red.jpeg"
 sharing: true
-title: Frases y refranes mexicanos con números y sus significados
-summary:
-  Los mexicanos tenemos dichos para todo. Por eso, hoy te compartimos algunos
+summary: Los mexicanos tenemos dichos para todo. Por eso, hoy te compartimos algunos
   que usan números, y sus significados
 cover: "/images/2022-08-09-1280px-bingo_numbers_-red.jpeg"
-tags: folclor lenguaje frases
 show_author_profile: false
 comment: false
 ---

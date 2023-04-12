@@ -1,6 +1,13 @@
 ---
+title: 'Petate: origen, historia y expresiones de la "alfombra mexicana"'
+date: 2022-06-28 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- folclor
+- artesanias
+- prehispanico
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-06-28-petate.jpg"
 sharing: true
-title: 'Petate: origen, historia y expresiones de la "alfombra mexicana"'
-summary:
-  Este tapete hecho de hoja de palma trenzada tiene una larga historia en nuestro
+summary: Este tapete hecho de hoja de palma trenzada tiene una larga historia en nuestro
   país, ¿la conoces?
 cover: "/images/2022-06-28-petate.jpg"
-tags: folclor artesanias prehispanico
 show_author_profile: false
 comment: false
 ---

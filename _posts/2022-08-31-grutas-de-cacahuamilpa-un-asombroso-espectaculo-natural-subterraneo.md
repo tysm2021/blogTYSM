@@ -1,6 +1,14 @@
 ---
+title: 'Grutas de Cacahuamilpa: un asombroso espectáculo natural subterráneo'
+date: 2022-08-31 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- viajes
+- naturaleza
+- guerrero
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-08-31-1280px-grutas_de_cacahuamilpa-_guerrero_-33165502951.jpeg"
 sharing: true
-title: "Grutas de Cacahuamilpa: un asombroso espectáculo natural subterráneo"
-summary:
-  En el estado de Guerrero se encuentran estas famosas grutas, donde las escalactitas
+summary: En el estado de Guerrero se encuentran estas famosas grutas, donde las escalactitas
   han recibido nombres por las formas que aparentan tener.
 cover: "/images/2022-08-31-1280px-grutas_de_cacahuamilpa-_guerrero_-33165502951.jpeg"
-tags: turismo viajes naturaleza guerrero
 show_author_profile: false
 comment: false
 ---

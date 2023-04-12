@@ -1,6 +1,14 @@
 ---
+title: Corundas, uchepos y otros tamales michoacanos
+date: 2022-09-06 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- comida
+- antojitos
+- platillos
+- michoacan
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-09-06-1280px-tianguiapurhepechafood35.jpeg"
 sharing: true
-title: Corundas, uchepos y otros tamales michoacanos
-summary:
-  En nuestro país existe una gran variedad de tamales, y en el estado de Michoacán
+summary: En nuestro país existe una gran variedad de tamales, y en el estado de Michoacán
   destacan algunas deliciosas variedades
 cover: "/images/2022-09-06-1280px-tianguiapurhepechafood35.jpeg"
-tags: comida antojitos platillos michoacan
 show_author_profile: false
 comment: false
 ---

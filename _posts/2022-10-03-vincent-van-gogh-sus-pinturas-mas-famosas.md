@@ -1,6 +1,14 @@
 ---
+title: 'Vincent van Gogh: sus pinturas más famosas'
+date: 2022-10-03 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- cultura
+- arte
+- pinturas
+- artistas
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-10-03-1280px_vangogh.jpg"
 sharing: true
-title: "Vincent van Gogh: sus pinturas más famosas"
-summary:
-  Uno de los artistas más reconocidos del mundo es el holandés Vincent van
+summary: Uno de los artistas más reconocidos del mundo es el holandés Vincent van
   Gogh; para conocerlos, veamos cuáles son algunas de sus obras más famosas
 cover: "/images/2022-10-03-1280px_vangogh.jpg"
-tags: cultura arte pinturas artistas
 show_author_profile: false
 comment: false
 ---

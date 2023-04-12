@@ -1,6 +1,14 @@
 ---
+title: 'El delicioso pan de muerto: origen, historia y significado'
+date: 2022-09-26 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- platillos
+- productos
+- pan
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-09-26-1280px-pan_de_muerto_closeup.jpeg"
 sharing: true
-title: "El delicioso pan de muerto: origen, historia y significado"
-summary:
-  Aunque ya se consigue todo el año, con la llegada del otoño las panaderías
+summary: Aunque ya se consigue todo el año, con la llegada del otoño las panaderías
   se llenan del azucarado y sabroso Pan de Muerto, ¿conoces su historia y simbolismo?
 cover: "/images/2022-09-26-1280px-pan_de_muerto_closeup.jpeg"
-tags: gastronomia platillos productos pan
 show_author_profile: false
 comment: false
 ---

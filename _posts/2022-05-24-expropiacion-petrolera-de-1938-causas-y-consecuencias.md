@@ -1,6 +1,12 @@
 ---
+title: 'Expropiación Petrolera de 1938: causas y consecuencias'
+date: 2022-05-24 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- prueba
+- ejemplo
 author: Redacción TYSM
-categories: HISTORIA
 subcategorie: SIGLOXIX
 layout: article
 excerpt_separator: "<!--more-->"
@@ -12,10 +18,8 @@ article_header:
   image:
     src: "/images/2022-04-26-presidente_lazaro_cardenas_reunido_con_sindicato_obrero_veracruzano_en_1938.jpeg"
 sharing: true
-title: "Expropiación Petrolera de 1938: causas y consecuencias"
 summary: Por favor colocar summary a esta publicación codigo de prueba 234
 cover: "/images/2022-04-26-presidente_lazaro_cardenas_reunido_con_sindicato_obrero_veracruzano_en_1938.jpeg"
-tags: prueba ejemplo
 show_author_profile: false
 comment: false
 ---

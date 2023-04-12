@@ -1,6 +1,13 @@
 ---
+title: 'Tlaxcala: lugares que conocer de una ciudad que desde luego que existe'
+date: 2022-09-21 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- viajes
+- ciudades
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-09-21-tlaxcala_patrimonio_10.jpeg"
 sharing: true
-title: "Tlaxcala: lugares que conocer de una ciudad que desde luego que existe"
-summary:
-  En redes sociales se hace la broma —muy mala, por cierto— de que "Tlaxcala
+summary: En redes sociales se hace la broma —muy mala, por cierto— de que "Tlaxcala
   no existe"; pero aquí te compartimos las pruebas de que claro que sí…
 cover: "/images/2022-09-21-tlaxcala_patrimonio_10.jpeg"
-tags: turismo viajes ciudades
 show_author_profile: false
 comment: false
 ---

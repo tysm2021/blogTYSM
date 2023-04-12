@@ -1,6 +1,13 @@
 ---
+title: 'Jarabe tapatío: origen, historia y por qué se le llama así'
+date: 2022-09-22 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- folclor
+- musica
+- bailes
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-09-22-1280px-los_jaliscienses.jpeg"
 sharing: true
-title: "Jarabe tapatío: origen, historia y por qué se le llama así"
-summary:
-  'Es una de las piezas musicales mexicanas que podrían considerarse "segundo
+summary: 'Es una de las piezas musicales mexicanas que podrían considerarse "segundo
   Himno Nacional": conoce la historia del Jarabe Tapatío…'
 cover: "/images/2022-09-22-1280px-los_jaliscienses.jpeg"
-tags: folclor musica bailes
 show_author_profile: false
 comment: false
 ---

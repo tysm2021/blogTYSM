@@ -1,6 +1,14 @@
 ---
+title: 'Códices prehispánicos y coloniales: herencia gráfica del pasado'
+date: 2022-09-12 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- prehispanico
+- mexicas
+- codices
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-09-12-matanza_de_comerciantes_mexicas_en_quetzaltepec-_en_el_folio_165r.jpg"
 sharing: true
-title: "Códices prehispánicos y coloniales: herencia gráfica del pasado"
-summary:
-  "¿Sabías que la mayor parte de los códices que aún existen se elaboraron
+summary: "¿Sabías que la mayor parte de los códices que aún existen se elaboraron
   después de la Conquista? Conozcamos algunos de los más famosos"
 cover: "/images/2022-09-12-matanza_de_comerciantes_mexicas_en_quetzaltepec-_en_el_folio_165r.jpg"
-tags: historia prehispanico mexicas codices
 show_author_profile: false
 comment: false
 ---

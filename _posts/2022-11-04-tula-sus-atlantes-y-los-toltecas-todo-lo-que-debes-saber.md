@@ -1,6 +1,14 @@
 ---
+title: 'Tula, sus atlantes y los toltecas: todo lo que debes saber'
+date: 2022-11-04 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- prehispanico
+- toltecas
+- hidalgo
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-11-04-1024px-telamones_tula.jpeg"
 sharing: true
-title: "Tula, sus atlantes y los toltecas: todo lo que debes saber"
-summary:
-  En el estado de Hidalgo se encuentra esta zona arqueológica con los vestigios
+summary: En el estado de Hidalgo se encuentra esta zona arqueológica con los vestigios
   de la civilización tolteca, una de las más importantes de Mesoamérica
 cover: "/images/2022-11-04-1024px-telamones_tula.jpeg"
-tags: historia prehispanico toltecas hidalgo
 show_author_profile: false
 comment: false
 ---

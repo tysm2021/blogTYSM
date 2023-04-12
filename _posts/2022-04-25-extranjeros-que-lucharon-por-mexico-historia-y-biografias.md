@@ -1,5 +1,14 @@
 ---
-categories: HISTORIA
+title: 'Extranjeros que lucharon por México: historia y biografías'
+date: 2022-04-25 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- extranjeros
+- independencia
+- revolucion
+- prehispanico
 subcategorie: SIGLOXIX
 layout: article
 excerpt_separator: "<!--more-->"
@@ -11,15 +20,12 @@ article_header:
   image:
     src: "/images/2022-04-25-batallonsanpatricio.png"
 sharing: true
-title: "Extranjeros que lucharon por México: historia y biografías"
 author: Francisco Massé
 cover: "/images/2022-04-25-batallonsanpatricio.png"
-tags: historia extranjeros independencia revolucion prehispanico
 show_author_profile: false
 comment: false
-summary:
-  "Nuestra historia no sólo tiene héroes mexicanos: también algunos extranjeros
-  lucharon por nosotros."
+summary: 'Nuestra historia no sólo tiene héroes mexicanos: también algunos extranjeros
+  lucharon por nosotros.'
 ---
 
 Nuestra historia está llena de mexicanos y mexicanos que, debido a su amor por la Patria, lucharon en cruentas batallas contra colonizadores, invasores, tiranos y otros infames personajes, e incluso dieron sus vidas para forjar nuestra nación. Pero, ¿sabías que también ha habido **extranjeros** que **lucharon** en diversas ocasiones por **México**?

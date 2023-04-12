@@ -1,6 +1,13 @@
 ---
+title: Juan Ruiz de Alarcón, ¿quién fue este escritor de la Nueva España?
+date: 2022-10-07 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- literatura
+- virreinato
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-10-07-juanruizdealarcon.jpg"
 sharing: true
-title: Juan Ruiz de Alarcón, ¿quién fue este escritor de la Nueva España?
-summary:
-  ¿Sabes por qué se dice que el Pueblo Mágico de Taxco es "de Alarcón"? Pues
+summary: ¿Sabes por qué se dice que el Pueblo Mágico de Taxco es "de Alarcón"? Pues
   por este sabio que vivió en México entre los siglos XVI y XVII. Conócelo un poco…
 cover: "/images/2022-10-07-juanruizdealarcon.jpg"
-tags: cultura literatura virreinato
 show_author_profile: false
 comment: false
 ---

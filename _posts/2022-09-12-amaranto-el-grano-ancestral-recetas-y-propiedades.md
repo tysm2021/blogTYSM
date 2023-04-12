@@ -1,6 +1,14 @@
 ---
+title: 'Amaranto: el grano ancestral, recetas y propiedades'
+date: 2022-09-12 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- plantas
+- alimentos
+- dulces
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-09-12-1280px-productores_de_amaranto_-i-i-_-33833123631.jpeg"
 sharing: true
-title: "Amaranto: el grano ancestral, recetas y propiedades"
-summary:
-  "Desde tiempos prehispánicos, esta planta ha sido una de las más importantes
-  en la alimentación del pueblo mexicano: conozcamos su historia…"
+summary: 'Desde tiempos prehispánicos, esta planta ha sido una de las más importantes
+  en la alimentación del pueblo mexicano: conozcamos su historia…'
 cover: "/images/2022-09-12-1280px-productores_de_amaranto_-i-i-_-33833123631.jpeg"
-tags: gastronomia plantas alimentos dulces
 show_author_profile: false
 comment: false
 ---

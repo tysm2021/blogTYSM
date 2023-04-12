@@ -1,6 +1,15 @@
 ---
+title: 'Museo del Hermitage: todo el lujo de la Rusia de los zares hecho museo'
+date: 2022-09-09 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- cultura
+- turismo
+- museos
+- rusia
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +20,9 @@ article_header:
   image:
     src: "/images/2022-09-09-spb_06-2012_palace_embankment_various_14.jpeg"
 sharing: true
-title: "Museo del Hermitage: todo el lujo de la Rusia de los zares hecho museo"
-summary:
-  En la ciudad de San Petersburgo se encuentra este museo, que alberga una
+summary: En la ciudad de San Petersburgo se encuentra este museo, que alberga una
   de las pinacotecas más vastas e importantes de Europa y del mundo
 cover: "/images/2022-09-09-spb_06-2012_palace_embankment_various_14.jpeg"
-tags: mundo cultura turismo museos rusia
 show_author_profile: false
 comment: false
 ---

@@ -1,6 +1,14 @@
 ---
+title: Octavio Paz, poeta, ensayista y Premio Nobel mexicano
+date: 2022-09-20 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- literatura
+- autores
+- poesía
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-09-15-octaviopaz.jpg"
 sharing: true
-title: Octavio Paz, poeta, ensayista y Premio Nobel mexicano
-summary:
-  Este poeta, diplomático y ensayista nacido en CDMX es uno de los pocos mexicanos
+summary: Este poeta, diplomático y ensayista nacido en CDMX es uno de los pocos mexicanos
   que se ganaron el Premio Nobel. Conozcamos lo más importante de su obra
 cover: "/images/2022-09-15-octaviopaz.jpg"
-tags: cultura literatura autores poesía
 show_author_profile: false
 comment: false
 ---

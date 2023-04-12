@@ -1,6 +1,13 @@
 ---
+title: "¿Sabes quién fue Manuel M. Ponce, el gran compositor mexicano?"
+date: 2022-09-08 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- musica
+- musicos
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-09-08-manuelmponce.jpg"
 sharing: true
-title: "¿Sabes quién fue Manuel M. Ponce, el gran compositor mexicano?"
-summary:
-  "Una de las estrellas más brillantes del firmamento musical mexicano fue
-  el zacatecano Manuel M. Ponce: conoce un poco de su vida y obra."
+summary: 'Una de las estrellas más brillantes del firmamento musical mexicano fue
+  el zacatecano Manuel M. Ponce: conoce un poco de su vida y obra.'
 cover: "/images/2022-09-08-manuelmponce.jpg"
-tags: "cultura musica musicos "
 show_author_profile: false
 comment: false
 ---

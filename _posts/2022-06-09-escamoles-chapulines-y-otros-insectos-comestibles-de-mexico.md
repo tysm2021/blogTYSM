@@ -1,6 +1,13 @@
 ---
+title: Escamoles, chapulines y otros insectos comestibles de México
+date: 2022-06-09 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- cocina
+- platillos
+- insectos
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-06-09-gusanos.jpeg"
 sharing: true
-title: Escamoles, chapulines y otros insectos comestibles de México
-summary:
-  Tú, ¿comerías insectos? Pues aunque a muchos les den asco, son parte esencial
+summary: Tú, ¿comerías insectos? Pues aunque a muchos les den asco, son parte esencial
   de nuestra gastronomía…
 cover: "/images/2022-06-09-gusanos.jpeg"
-tags: cocina platillos insectos
 show_author_profile: false
 comment: false
 ---

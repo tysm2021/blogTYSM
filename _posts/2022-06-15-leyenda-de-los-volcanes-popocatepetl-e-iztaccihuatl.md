@@ -1,6 +1,14 @@
 ---
+title: 'Leyenda de los volcanes: Popocatépetl e Iztaccíhuatl'
+date: 2022-06-15 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- leyendas
+- folclor
+- volcanes
+- prehispánico
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-06-15-1024px-popocatepetl_iztaccihuatl_-64035865.jpeg"
 sharing: true
-title: "Leyenda de los volcanes: Popocatépetl e Iztaccíhuatl"
-summary:
-  "¿Sabías que existe una leyenda que explica el origen de los dos volcanes
+summary: "¿Sabías que existe una leyenda que explica el origen de los dos volcanes
   que enmarcan al Valle de México?"
 cover: "/images/2022-06-15-1024px-popocatepetl_iztaccihuatl_-64035865.jpeg"
-tags: leyendas folclor volcanes prehispánico
 show_author_profile: false
 comment: false
 ---

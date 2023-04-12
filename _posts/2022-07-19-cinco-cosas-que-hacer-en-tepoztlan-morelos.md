@@ -1,6 +1,14 @@
 ---
+title: Cinco cosas que hacer en Tepoztlán, Morelos
+date: 2022-07-19 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- viajes
+- pueblos
+- morelos
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-07-19-iglesia_la_santisima_trinidad_tepoztlan_por_silvia-webp.png"
 sharing: true
-title: Cinco cosas que hacer en Tepoztlán, Morelos
-summary:
-  A las faldas del cerro del Tepozteco se encuentra este Pueblo Mágico lleno
+summary: A las faldas del cerro del Tepozteco se encuentra este Pueblo Mágico lleno
   de misticismo y buena vibra…
 cover: "/images/2022-07-19-iglesia_la_santisima_trinidad_tepoztlan_por_silvia-webp.png"
-tags: turismo viajes pueblos morelos
 show_author_profile: false
 comment: false
 ---

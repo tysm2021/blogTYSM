@@ -1,6 +1,13 @@
 ---
+title: 'Toloache, la hierba del amor: ¿en verdad sirve para que se enamoren de ti?'
+date: 2022-08-18 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- medicina
+- plantas
+- folclor
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-08-18-datura_innoxia_-_habitus.jpeg"
 sharing: true
-title: "Toloache, la hierba del amor: ¿en verdad sirve para que se enamoren de ti?"
-summary:
-  Se dice que una pócima hecha con él asegura que se enamoren de ti, pero,
+summary: Se dice que una pócima hecha con él asegura que se enamoren de ti, pero,
   ¿qué tan cierto es que el toloache es la 'planta del amor'?
 cover: "/images/2022-08-18-datura_innoxia_-_habitus.jpeg"
-tags: "medicina plantas folclor "
 show_author_profile: false
 comment: false
 ---

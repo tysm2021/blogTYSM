@@ -1,6 +1,13 @@
 ---
+title: El Día de Muertos, ¿realmente es prehispánico?
+date: 2022-10-11 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- folclor
+- tradiciones
+- mexico
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,13 +18,10 @@ article_header:
   image:
     src: "/images/2022-10-11-1280px-panteon_dia_de_muertos.jpeg"
 sharing: true
-title: El Día de Muertos, ¿realmente es prehispánico?
-summary:
-  Mucho se habla de que el Día de Muertos que conmemoramos los mexicanos tiene
+summary: Mucho se habla de que el Día de Muertos que conmemoramos los mexicanos tiene
   sus raíces en las tradiciones prehispánicas, ¿qué dicen los historiadores sobre
   esto?
 cover: "/images/2022-10-11-1280px-panteon_dia_de_muertos.jpeg"
-tags: folclor tradiciones mexico
 show_author_profile: false
 comment: false
 ---

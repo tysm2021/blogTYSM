@@ -1,6 +1,14 @@
 ---
+title: Palabras del español de México que no sabías que provienen del náhuatl
+date: 2022-09-09 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- lenguaje
+- palabras
+- frases
+- mexicas
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: "/images/2022-09-09-la_derrota_en_la_batalla_de_atlixco_contra_los_huejotzingas-_en_el_folio_168v.png"
 sharing: true
-title: Palabras del español de México que no sabías que provienen del náhuatl
-summary:
-  El español que usamos en México no es igual al de otros países, debido a
+summary: El español que usamos en México no es igual al de otros países, debido a
   la influencia de lenguas indígenas como el náhuatl en nuestra habla cotidiana…
 cover: "/images/2022-09-09-la_derrota_en_la_batalla_de_atlixco_contra_los_huejotzingas-_en_el_folio_168v.png"
-tags: lenguaje palabras frases mexicas
 show_author_profile: false
 comment: false
 ---

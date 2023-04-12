@@ -1,6 +1,13 @@
 ---
+title: "¿Cuáles son los chiles más picantes de México?"
+date: 2022-06-16 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- comida
+- cocina
+- platillos
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-06-15-hot-peppers-1539472_1280.jpeg"
 sharing: true
-title: "¿Cuáles son los chiles más picantes de México?"
-summary:
-  A los mexicanos nos gusta el ardor de lo picante, pero… ¿sabes cuáles son
+summary: A los mexicanos nos gusta el ardor de lo picante, pero… ¿sabes cuáles son
   los chiles más picosos?
 cover: "/images/2022-06-15-hot-peppers-1539472_1280.jpeg"
-tags: comida cocina platillos
 show_author_profile: false
 comment: false
 ---

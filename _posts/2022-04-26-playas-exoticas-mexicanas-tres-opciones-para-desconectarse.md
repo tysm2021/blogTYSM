@@ -1,5 +1,12 @@
 ---
-categories: TURISMO
+title: 'Playas exóticas mexicanas: tres opciones para desconectarse'
+date: 2022-04-26 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- playas
+- vacaciones
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -10,15 +17,12 @@ article_header:
   image:
     src: "/images/2022-04-26-beach-2836300_1280.jpeg"
 sharing: true
-title: "Playas exóticas mexicanas: tres opciones para desconectarse"
 author: Francisco Massé
 cover: "/images/2022-04-26-beach-2836300_1280.jpeg"
-tags: turismo playas vacaciones
 show_author_profile: false
 comment: false
-summary:
-  "Si no te gustan los tumultos, te recomendamos tres playas mexicanas exóticas
-  y solitarias para descansar. "
+summary: 'Si no te gustan los tumultos, te recomendamos tres playas mexicanas exóticas
+  y solitarias para descansar. '
 subcategorie: PLAYAS
 ---
 

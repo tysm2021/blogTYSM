@@ -1,6 +1,13 @@
 ---
+title: "“No seas puerco”: mitos y realidades sobre la carne de cerdo"
+date: 2022-12-02 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- comida
+- cocina
+- platillos
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,13 +18,10 @@ article_header:
   image:
     src: "/images/2022-12-02-hk_food_ingredient_red_meat_frozen_pork_chop_raw_butt_steak_october_2021_ss2_012.jpeg"
 sharing: true
-title: "“No seas puerco”: mitos y realidades sobre la carne de cerdo"
-summary:
-  "La cochinita pibil, el frijol con puerco, las carnitas y otros platillos
+summary: 'La cochinita pibil, el frijol con puerco, las carnitas y otros platillos
   regionales tienen como base a la carne de cerdo: aquí algunos mitos y realidades
-  sobre ella."
+  sobre ella.'
 cover: "/images/2022-12-02-hk_food_ingredient_red_meat_frozen_pork_chop_raw_butt_steak_october_2021_ss2_012.jpeg"
-tags: comida cocina platillos
 show_author_profile: false
 comment: false
 ---

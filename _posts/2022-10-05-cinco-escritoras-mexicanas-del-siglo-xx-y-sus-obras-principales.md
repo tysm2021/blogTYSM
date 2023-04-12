@@ -1,6 +1,15 @@
 ---
+title: Cinco escritoras mexicanas del siglo XX y sus obras principales
+date: 2022-10-05 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- literatura
+- autores
+- novelas
+- cuentos
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +20,9 @@ article_header:
   image:
     src: "/images/2022-10-05-1280-eliott-reyna-kct-7cirbew-unsplash.jpeg"
 sharing: true
-title: Cinco escritoras mexicanas del siglo XX y sus obras principales
-summary:
-  En este artículo te presentamos a algunas autoras nacidas en México, además
+summary: En este artículo te presentamos a algunas autoras nacidas en México, además
   de algunos de sus libros más famosos, entre cuentos, novelas y poesía…
 cover: "/images/2022-10-05-1280-eliott-reyna-kct-7cirbew-unsplash.jpeg"
-tags: cultura literatura autores novelas cuentos
 show_author_profile: false
 comment: false
 ---

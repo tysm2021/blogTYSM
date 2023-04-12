@@ -1,6 +1,13 @@
 ---
+title: Algunas películas extranjeras filmadas en México
+date: 2022-10-11 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- cine
+- peliculas
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,10 +18,8 @@ article_header:
   image:
     src: "/images/2022-10-10-1024romeoandjuliet-1.jpg"
 sharing: true
-title: Algunas películas extranjeras filmadas en México
-summary: "Por la riqueza de nuestro escenarios naturales, "
+summary: 'Por la riqueza de nuestro escenarios naturales, '
 cover: "/images/2022-10-10-1024romeoandjuliet.jpg"
-tags: mundo cine peliculas
 show_author_profile: false
 comment: false
 ---

@@ -1,6 +1,13 @@
 ---
+title: Según el INEGI, ¿cuáles son los apellidos más comunes en México?
+date: 2022-12-02 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- mexico
+- folclor
+- estadisticas
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-12-02-people_at_taco_cart_in_mexico_city.jpeg"
 sharing: true
-title: Según el INEGI, ¿cuáles son los apellidos más comunes en México?
-summary:
-  Entre López, Pérez, Sánchez y Hernández, ¿cuáles son los apellidos que más
+summary: Entre López, Pérez, Sánchez y Hernández, ¿cuáles son los apellidos que más
   gente usa en México, según el Instituto Nacional de Estadística y Geografía?
 cover: "/images/2022-12-02-people_at_taco_cart_in_mexico_city.jpeg"
-tags: mexico folclor estadisticas
 show_author_profile: false
 comment: false
 ---

@@ -1,6 +1,12 @@
 ---
+title: 'Pancita o menudo: el guiso popular al que hasta Tin-Tan le cantó'
+date: 2022-10-04 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- platillos
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +17,9 @@ article_header:
   image:
     src: "/images/2022-10-04-1280px-menudo_-sopa_de_mexico.jpeg"
 sharing: true
-title: "Pancita o menudo: el guiso popular al que hasta Tin-Tan le cantó"
-summary:
-  El menudo o la pancita no es sino el estómago de la res cocido y guisado
+summary: El menudo o la pancita no es sino el estómago de la res cocido y guisado
   de distintas maneras… y dicen que es un gran remedio para la 'cruda'
 cover: "/images/2022-10-04-1280px-menudo_-sopa_de_mexico.jpeg"
-tags: gastronomia platillos
 show_author_profile: false
 comment: false
 ---

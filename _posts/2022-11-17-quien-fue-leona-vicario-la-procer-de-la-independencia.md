@@ -1,6 +1,13 @@
 ---
+title: "¿Quién fue Leona Vicario, prócer de la Independencia de México?"
+date: 2022-11-17 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- independencia
+- biografias
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-11-17-1024px_leonavicario.jpg"
 sharing: true
-title: "¿Quién fue Leona Vicario, prócer de la Independencia de México?"
-summary:
-  2020 fue nombrado el Año de Leona Vicario por el Gobierno de México, para
+summary: 2020 fue nombrado el Año de Leona Vicario por el Gobierno de México, para
   reconocer el importante papel que esta heroína tuvo en la Guerra de Independencia
 cover: "/images/2022-11-17-1024px_leonavicario.jpg"
-tags: historia independencia biografias
 show_author_profile: false
 comment: false
 ---

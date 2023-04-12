@@ -1,6 +1,13 @@
 ---
+title: 'Monumento a la Revolución: de Palacio Legislativo a museo'
+date: 2022-09-28 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- revolucion
+- lugares
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: "<!--more-->"
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: "/images/2022-09-28-1280px-monumento_a_la_revolucion_iluminado.jpeg"
 sharing: true
-title: "Monumento a la Revolución: de Palacio Legislativo a museo"
-summary:
-  En la colonia Tabacalera de la CDMX, cerca del Centro Histórico, se encuentra
+summary: En la colonia Tabacalera de la CDMX, cerca del Centro Histórico, se encuentra
   esta enorme estructura de concreto que iba a tener un destino diferente…
 cover: "/images/2022-09-28-1280px-monumento_a_la_revolucion_iluminado.jpeg"
-tags: historia revolucion lugares
 show_author_profile: false
 comment: false
 ---
