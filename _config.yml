@@ -5,11 +5,10 @@ collections:
   posts:
     title: Posts
     output: true
+    layout: article
+    mode: inmersive
   uploads:
     title: Uploads
-    output: true
-  post:
-    title: post
     output: true
 defaults:
 - scope:
