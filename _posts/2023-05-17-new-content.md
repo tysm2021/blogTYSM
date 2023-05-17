@@ -1,6 +1,6 @@
 ---
 title: Agustín de Iturbide, el primer emperador de México
-date: 2023-05-17T12:00
+date: 2023-05-17 12:00:00 Z
 categories:
 - HISTORIA
 tags:
