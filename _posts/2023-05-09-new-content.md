@@ -13,7 +13,8 @@ header:
   theme: dark
 article_header:
   type: cover
-  image: src /images/image-df23f1.png
+  image: 
+    src: /images/image-df23f1.png
 sharing: 'true'
 author: Redacción TYSM
 cover: "/images/image-df23f1.png"
@@ -32,7 +33,7 @@ Su nombre completo era **Agustín Cosme Damián de Iturbide y Arámburu**, y nac
 
 Ante el avance de los **insurgentes**, **Iturbide** dejó su natal Valladolid y huyó a la Ciudad de México. Participó en la famosa **batalla del Monte de las Cruces**, donde el ejército de Hidalgo, Allende y Aldama salió victorioso ante las fuerzas realistas, comandadas por Torcuato Trujillo. A pesar de la derrota, **Agustín** fue premiado por su actuación y el virrey Venegas le concedió el grado de capitán de su propio batallón.
 
-![image-a017a8.png](images/image-a017a8.png)
+![image-a017a8.png](/images/image-a017a8.png)
 
 Pasaron los años y, siempre del lado realista, **Iturbide** fue acumulando victorias militares contra los **insurgentes**: en 1811, sometió a las fuerzas rebeldes comandadas por Albino García; en 1813, derrotó a **Ignacio López Rayón** en el Puente de Salvatierra; en 1815, derrotó al ejército insurgente del cura **José María Morelos y Pavón**, aunque poco después López Rayón le cobró la derrota anterior humillándolo en Cóporo. En ese mismo periodo, sobrevendría otro revés en su carrera política: ante las numerosas denuncias que lo acusaban de abuso de autoridad, de monopolizar el comercio y malversar los fondos de la corona, el virrey **Félix María Callej**a lo destituyó de su cargo. Poco después fue absuelto, pero no regresó al mando de su ejército y se retiró a su hacienda, donde estuvo algún tiempo inactivo.
 
@@ -40,13 +41,13 @@ En 1820, ante la crisis política en España que hizo tambalear al reinado de **
 
 Tras ser derrotado en dos ocasiones por los insurgentes **Guerrero** y Ascencio, y ante la perspectiva de una lucha demasiado larga, **Iturbide** adelantó el plan que tenía y el 10 de enero de 1821 envió una carta a **Guerrero**, invitándolo a establecer una alianza, añadiendo además que varios insurgentes habían sido liberados, que enviados a España solicitarían que un heredero a la corona gobernara la Nueva España. Poco después, **Iturbide** propuso a **Guerrero** un cese al fuego y un pacto de paz; así, el 10 de febrero de 1821, ambos se reunieron en **Acatempan**, donde sellaron el pacto con un abrazo… aunque algunos historiadores afirman que esto nunca sucedió y que es una versión romántica de los hechos.
 
-![image-157c16.png](images/image-157c16.png)
+![image-157c16.png](/images/image-157c16.png)
 
 Días después, el 24 de febrero, **Iturbide** proclamó el **Plan de Iguala**, donde declaraba la independencia de la Nueva España. Para hacerlo valer, se formó un ejército al que se le llamó **Trigarante** pues defendía tres garantías: religión católica, independencia y unión. Con este ejército, unidas las fuerzas de Iturbide, de Guerrero y de los demás insurgentes, fue cuestión de meses antes de que los realistas decidieran admitir su derrota y firmar los **Tratados de Córdoba**, donde el 24 de agosto de 1821 se reconoció la independencia de la colonia, que en lo sucesivo sería llamado **Imperio Mexicano**.
 
 El 27 de septiembre del mismo año —fecha del cumpleaños de Iturbide, dicho sea de paso—, el **Ejército Trigarante** entró triunfante a la Ciudad de México, y esta fecha es reconocida oficialmente como la Consumación de la Independencia de México. Se formó una Junta Provisional Gubernativa, la cual nombró a **Iturbide** _generalísimo de armas de mar y tierra_, y le dio el tratamiento de "Alteza Serenísima". Ya en 1822, el 24 de febrero se formó el primer Congreso Constituyente de la historia de México, el cual empezó a distanciarse del gobernante pues buscaba establecer la república como forma de gobierno, expresando desprecio por la figura monárquica que Iturbide deseaba asumir. Aun así, Iturbide fue nombrado emperador **Agustín I de México** el **19 de mayo de 1822**, siendo coronado el 21 de julio del mismo año.
 
-![image-4e9fbe.png](images/image-4e9fbe.png)
+![image-4e9fbe.png](/images/image-4e9fbe.png)
 
 Pero el gusto le duraría poco. Durante su corto gobierno enfrentó siempre la oposición republicana —en algún punto, disolvió el Congreso— e intentó derrotar al último bastión de resistencia española, atrincherado en el Fuerte de San Juan de Ulúa. Hacia fines de 1822, el general **Antonio López de Santa Anna** manifestó su descontento por el desempeño del emperador, que "de ser libertador, se había convertido en un tirano", y se levantó contra él con el **Plan de Casa Mata**, que buscaba derrocarlo y establecer una república. A este movimiento se unió el general **Guadalupe Victoria**.
 
