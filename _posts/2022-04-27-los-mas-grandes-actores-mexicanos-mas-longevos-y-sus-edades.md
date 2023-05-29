@@ -1,25 +1,31 @@
 ---
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg"
+    src: /images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg
 sharing: true
-title: "Los más grandes: actores mexicanos más longevos y sus edades"
+title: 'Los más grandes: actores mexicanos más longevos y sus edades'
 author: Francisco Massé
-cover: "/images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg"
+cover: /images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg
 tags: cine television actores actrices
 show_author_profile: false
 comment: false
-summary:
-  "Estos actores, actrices y cantantes hicieron historia y siguen vivos: por
-  eso decimos que son los más grandes."
+summary: >-
+  Estos actores, actrices y cantantes hicieron historia y siguen vivos: por eso
+  decimos que son los más grandes.
 categories: CULTURA
+_template: plantilla
 ---
+
+
+
+
+
 
 En redes sociales circulan muchos chistes y memes sobre la supuesta inmortalidad de "Chabelo", adjudicándole una muy avanzada edad. Pero, ya hablando en serio y tomando en cuenta cuántos años tienen, ¿quiénes son los actores y las actrices mexicanas más longevos y cuáles son sus edades?
 

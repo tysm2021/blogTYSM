@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MEXICANISIMOS
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-27-1280px-fumarola_del_popocatepetl_-octubre-_2012-_2.jpeg"
+    src: /images/2022-09-27-1280px-fumarola_del_popocatepetl_-octubre-_2012-_2.jpeg
 sharing: true
-title: "Don Goyo: ¿Por qué se le llama así al volcán Popocatépetl?"
-summary:
-  "El volcán Popocatépetl, uno de los más altos de México, tiene el apodo cariñoso
-  de Don Goyo, que deriva de una leyenda: aquí te la contamos"
-cover: "/images/2022-09-27-1280px-fumarola_del_popocatepetl_-octubre-_2012-_2.jpeg"
+title: 'Don Goyo: ¿Por qué se le llama así al volcán Popocatépetl?'
+summary: >-
+  El volcán Popocatépetl, uno de los más altos de México, tiene el apodo
+  cariñoso de Don Goyo, que deriva de una leyenda: aquí te la contamos
+cover: /images/2022-09-27-1280px-fumarola_del_popocatepetl_-octubre-_2012-_2.jpeg
 tags: folclor leyendas tradiciones
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Ya sea por los hermosos paisajes que nos regala, o cuando despierta entre explosiones, **fumarolas** y emisiones de ceniza, los habitantes del centro de **México** tienen siempre presente al **volcán** **Popocatépetl**, al cual cariñosamente se le conoce con el **apodo** de '**Don Goyo**'. ¿Sabías que, detrás del **origen** de este **sobrenombre** existe una **leyenda** que circula entre quienes habitan a las faldas del poderoso **volcán**?
 

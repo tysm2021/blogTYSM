@@ -2,24 +2,31 @@
 author: Redacción TYSM
 categories: CULTURA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-10-1024px_juventinorosas.jpg"
+    src: /images/2022-11-10-1024px_juventinorosas.jpg
 sharing: true
 title: Juventino Rosas y la historia de su vals "Sobre las olas"
-summary:
+summary: >-
   El México de finales del siglo XIX sucumbió ante el encanto de los valses
-  vieneses, pero aquí también se dieron grandes piezas y grandes músicos como éstos…
-cover: "/images/2022-11-10-1024px_juventinorosas.jpg"
-tags: "cultura musica musicos "
+  vieneses, pero aquí también se dieron grandes piezas y grandes músicos como
+  éstos…
+cover: /images/2022-11-10-1024px_juventinorosas.jpg
+tags: 'cultura musica musicos '
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En Europa, los **valses** se popularizaron durante el siglo XIX, especialmente con las piezas de los músicos austriacos Johann Strauss padre y Johann Strauss II, autor del famoso "Danubio Azul". En México, debido a la influencia que tuvo la cultura germánica debida al establecimiento del Segundo Imperio, a mediados del siglo XIX, el **vals** fue un ritmo bien acogido entre la sociedad y hasta la fecha se baila entre las clases populares durante la ceremonia religiosa conocida como "los XV años". Y si hablamos de **valses mexicanos**, sin duda destacan dos: "Alejandra" de Enrique Mora Andrade, y "**Sobre las olas**" del guanajuatense **Juventino Rosas**. Pero, ¿cuál es la **historia** de esta popular **melodía** y quién le puso **letra**?
 

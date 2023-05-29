@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MEXICANISIMOS
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-23-coins-912719_1280.jpeg"
+    src: /images/2022-06-23-coins-912719_1280.jpeg
 sharing: true
-title: "¿Eres muy codo? Aquí el origen de la palabra"
-summary:
+title: ¿Eres muy codo? Aquí el origen de la palabra
+summary: >-
   Cuando alguien es tacaño o avaro, se dice que "es muy codo", ¿conoces el
   origen de la palabra?
-cover: "/images/2022-06-23-coins-912719_1280.jpeg"
+cover: /images/2022-06-23-coins-912719_1280.jpeg
 tags: lenguaje folclor
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 "Es que es bien **codo**", es una **expresión** que uno emplea para referirse a una persona que es muy **tacaña**, avariciosa o que escatima a la hora de gastar, de prestar dinero o de regalar algo. Es una frase muy mexicana propia del **lenguaje** **popular**, pero… ¿conoces la **historia** y el **origen** de ella?
 

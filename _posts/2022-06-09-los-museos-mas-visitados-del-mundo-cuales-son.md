@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MUNDO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-09-1280px-louvre_courtyard-_looking_west.jpeg"
+    src: /images/2022-06-09-1280px-louvre_courtyard-_looking_west.jpeg
 sharing: true
-title: "¿Cuáles son museos más visitados del mundo, antes y después de la pandemia?"
-summary:
+title: '¿Cuáles son museos más visitados del mundo, antes y después de la pandemia?'
+summary: >-
   Si te gusta el arte y la cultura, y pudieras hacer un viaje alrededor del
   mundo, ¿cuáles de estos populares museos visitarías?
-cover: "/images/2022-06-09-1280px-louvre_courtyard-_looking_west.jpeg"
+cover: /images/2022-06-09-1280px-louvre_courtyard-_looking_west.jpeg
 tags: cultura turismo viajes museos
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Para quienes tienen el deseo de viajar por el **mundo**, aunque sea de forma virtual, sin duda los **museos** son uno de los destinos favoritos. Y, de todos los que existen, ¿sabes cuáles son **los más visitados** por los turistas de todo el **mundo**, **antes** y **después** de la **pandemia**?
 

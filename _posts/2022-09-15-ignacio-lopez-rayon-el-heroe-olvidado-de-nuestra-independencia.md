@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: HISTORIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-15-1280px_ignaciolopezrayon.jpg"
+    src: /images/2022-09-15-1280px_ignaciolopezrayon.jpg
 sharing: true
-title: Ignacio López Rayón, el héroe olvidado de nuestra Independencia
-summary:
+title: 'Ignacio López Rayón, el héroe olvidado de nuestra Independencia'
+summary: >-
   Mucho se habla de Hidalgo, Allende, Morelos, Guerrero, de doña Josefa y Leona
   Vicario, pero López Rayón parece haber sido olvidado por la historia…
-cover: "/images/2022-09-15-1280px_ignaciolopezrayon.jpg"
+cover: /images/2022-09-15-1280px_ignaciolopezrayon.jpg
 tags: historia independencia personajes biografias
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Si hablamos de la Guerra de **Independencia** de **México**, ese proceso que duró del **16 de septiembre de 1810** al 27 de septiembre de 1821 y que culminó con la libertad política de la Nueva España, convirtiéndose en la Nación mexicana, muchos mencionan a los iniciadores **Hidalgo** y **Allende**, al general **Morelos** o a los consumadores **Guerrero** e **Iturbide**. Pero hubo un **personaje** importantísimo a lo largo de este periodo que, sin embargo, no aparece mucho en los libros de **historia**. Conozcamos algunos **datos** de la **biografía** del héroe olvidado, **Ignacio López Rayón**.
 

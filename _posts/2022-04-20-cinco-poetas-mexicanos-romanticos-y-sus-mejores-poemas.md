@@ -1,25 +1,31 @@
 ---
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-20-manuelacuna.png"
+    src: /images/2022-04-20-manuelacuna.png
 sharing: true
 title: Cinco poetas mexicanos románticos y sus mejores poemas
 author: Francisco Massé
-cover: "/images/2022-04-20-manuelacuna.png"
+cover: /images/2022-04-20-manuelacuna.png
 categories: CULTURA
 tags: cultura literatura poesía
 show_author_profile: false
 comment: false
-summary:
+summary: >-
   Si quieres dedicarle un poema a tu persona amada, aquí te recomendamos cinco
   de los mejores…
+_template: plantilla
 ---
+
+
+
+
+
 
 Si lo que buscas son unos buenos y sentidos **poemas** para arrancar suspiros o ayudarte a conquistar a alguien, aquí te recomendamos a **cinco notables poetas románticos mexicanos.**
 

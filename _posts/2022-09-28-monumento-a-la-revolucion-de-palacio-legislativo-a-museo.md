@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: HISTORIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-28-1280px-monumento_a_la_revolucion_iluminado.jpeg"
+    src: /images/2022-09-28-1280px-monumento_a_la_revolucion_iluminado.jpeg
 sharing: true
-title: "Monumento a la Revolución: de Palacio Legislativo a museo"
-summary:
+title: 'Monumento a la Revolución: de Palacio Legislativo a museo'
+summary: >-
   En la colonia Tabacalera de la CDMX, cerca del Centro Histórico, se encuentra
   esta enorme estructura de concreto que iba a tener un destino diferente…
-cover: "/images/2022-09-28-1280px-monumento_a_la_revolucion_iluminado.jpeg"
+cover: /images/2022-09-28-1280px-monumento_a_la_revolucion_iluminado.jpeg
 tags: historia revolucion lugares
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Si uno sale del Centro Histórico de la CDMX con dirección a la Alameda Central y el Paseo de la Reforma, se topa con su colosal e inconfundible figura, la cual ha sido reproducida en los símbolos de una estación del metro y del metrobús, y hasta en el logotipo de un extinto partido político. Se trata del **Monumento a la Revolución**, un homenaje a nuestra **historia** que, además de tener una gran explanada con fuentes, un mirador y resguardar los restos de algunos de los héroes de la **Revolución Mexicana**, alberga al **Museo de la Revolución**.
 

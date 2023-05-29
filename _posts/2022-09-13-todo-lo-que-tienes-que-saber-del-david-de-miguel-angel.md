@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MUNDO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-13-1280px-david-_by_michelangelo_jbu14.jpeg"
+    src: /images/2022-09-13-1280px-david-_by_michelangelo_jbu14.jpeg
 sharing: true
 title: Todo lo que tienes que saber del David de Miguel Ángel
-summary:
-  "Es reconocida como una de las esculturas más bellas del mundo y una muestra
-  del Renacimiento italiano: aquí te decimos todo lo que hay que saber"
-cover: "/images/2022-09-13-1280px-david-_by_michelangelo_jbu14.jpeg"
+summary: >-
+  Es reconocida como una de las esculturas más bellas del mundo y una muestra
+  del Renacimiento italiano: aquí te decimos todo lo que hay que saber
+cover: /images/2022-09-13-1280px-david-_by_michelangelo_jbu14.jpeg
 tags: mundo turismo europa artes
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Es una de las obras de arte más famosas y más hermosas del mundo, y fue creada por el maestro del Renacimiento italiano **Michelangelo Buonarroti** o **Miguel Ángel,** en español. Pero, ¿a **quién** representa, **cuánto mide**, **dónde está** y **cuándo** fue esculpida esta obra maestra? En este artículo te compartimos **todo lo que hay que saber** sobre esta monumental **escultura** de mármol.
 

@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: HISTORIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-11-morelos1.jpg"
+    src: /images/2022-08-11-morelos1.jpg
 sharing: true
-title: "José María Morelos: biografía corta del 'Siervo de la Nación'"
-summary:
-  "Luego de la muerte de Hidalgo y Allende, el continuador de la lucha independentista
-  fue Morelos: conoce un poco de su vida…"
-cover: "/images/2022-08-11-morelos1.jpg"
+title: 'José María Morelos: biografía corta del ''Siervo de la Nación'''
+summary: >-
+  Luego de la muerte de Hidalgo y Allende, el continuador de la lucha
+  independentista fue Morelos: conoce un poco de su vida…
+cover: /images/2022-08-11-morelos1.jpg
 tags: historia mexico independencia biografias personajes
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Todo mundo recuerda a **Miguel Hidalgo** porque, con su **Grito de Dolores**, dio inicio a la guerra armada por la **Independencia** de **México**; sin embargo, otro personaje central en el movimiento insurgente fue **José María Morelos**, quien continuó la lucha tras la muerte de **Hidalgo** y se nombró a sí mismo 'El **Siervo de la Nación**'. Conozcamos un poco de su **biografía**, su **obra** y su **vida** de servicio a la Patria.
 

@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MEXICANISIMOS
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-14-1024px_chupacabras1.jpg"
+    src: /images/2022-11-14-1024px_chupacabras1.jpg
 sharing: true
-title: "El Chupacabras: origen y versiones de la sangrienta leyenda "
-summary:
+title: 'El Chupacabras: origen y versiones de la sangrienta leyenda '
+summary: >-
   En la década de 1990, una serie de misteriosas muertes entre el ganado dio
   origen a esta leyenda sobre una criatura chupasangre…
-cover: "/images/2022-11-14-1024px_chupacabras1.jpg"
+cover: /images/2022-11-14-1024px_chupacabras1.jpg
 tags: folclor leyendas tradiciones
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En la década de 1990, una era aún dominada por internet, se hizo famosa la leyenda de una espantosa criatura que, supuestamente, durante las noches se alimentaba de la **sangre** de las **cabras** y de otros animales, los cuales al día siguiente aparecían muertos, exangües y con huellas de colmillos en el cuello. El imaginario popular le llamó "el **Chupacabras**"y durante algún tiempo mantuvo ocupada a la prensa de aquellos tiempos. ¿De qué se trató, cuál fue el **origen** y la **explicación** de esta **leyenda**?
 

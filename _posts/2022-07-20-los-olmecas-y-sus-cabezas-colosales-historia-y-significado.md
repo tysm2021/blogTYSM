@@ -2,24 +2,32 @@
 author: Redacción TYSM
 categories: HISTORIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-20-cabeza_olmeca_6_de_san_lorenzo_-veracruz-_-_museo_nacional_de_antropologia_-_nariz.jpeg"
+    src: >-
+      /images/2022-07-20-cabeza_olmeca_6_de_san_lorenzo_-veracruz-_-_museo_nacional_de_antropologia_-_nariz.jpeg
 sharing: true
-title: "Los olmecas y sus cabezas colosales: historia y significado"
-summary:
-  "Estas esculturas colosales son uno de los primeros vestigios de civilización
-  encontrados en Mesoamérica: conócelas mejor"
-cover: "/images/2022-07-20-cabeza_olmeca_6_de_san_lorenzo_-veracruz-_-_museo_nacional_de_antropologia_-_nariz.jpeg"
+title: 'Los olmecas y sus cabezas colosales: historia y significado'
+summary: >-
+  Estas esculturas colosales son uno de los primeros vestigios de civilización
+  encontrados en Mesoamérica: conócelas mejor
+cover: >-
+  /images/2022-07-20-cabeza_olmeca_6_de_san_lorenzo_-veracruz-_-_museo_nacional_de_antropologia_-_nariz.jpeg
 tags: historia prehispanico olmecas veracruz tabasco
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Los **olmecas** fueron uno de los primeros pueblos que habitaron la zona que hoy conocemos como Mesoamérica. Localizados principalmente en la costa del Golfo y el sureste —en los estados de **Veracruz** y **Tabasco**, sobre todo—, dejaron numerosos vestigios **arqueológicos**, entre los que destacan sus imponentes y hermosas **cabezas colosales**. ¿Sabes cuál es su **historia** y **significado**?
 

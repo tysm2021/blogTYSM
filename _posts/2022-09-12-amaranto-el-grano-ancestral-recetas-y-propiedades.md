@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: GASTRONOMIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-12-1280px-productores_de_amaranto_-i-i-_-33833123631.jpeg"
+    src: /images/2022-09-12-1280px-productores_de_amaranto_-i-i-_-33833123631.jpeg
 sharing: true
-title: "Amaranto: el grano ancestral, recetas y propiedades"
-summary:
-  "Desde tiempos prehispánicos, esta planta ha sido una de las más importantes
-  en la alimentación del pueblo mexicano: conozcamos su historia…"
-cover: "/images/2022-09-12-1280px-productores_de_amaranto_-i-i-_-33833123631.jpeg"
+title: 'Amaranto: el grano ancestral, recetas y propiedades'
+summary: >-
+  Desde tiempos prehispánicos, esta planta ha sido una de las más importantes en
+  la alimentación del pueblo mexicano: conozcamos su historia…
+cover: /images/2022-09-12-1280px-productores_de_amaranto_-i-i-_-33833123631.jpeg
 tags: gastronomia plantas alimentos dulces
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Desde tiempos inmemoriales, el **amaranto** ha formado parte de nuestras dietas y ha sido una de las principales plantas domesticadas por los antiguos **mexicanos**. Recientemente, el mundo descubrió su enorme poder **nutricional** e incluso se le ha considerado un "**súper alimento**" y una alternativa para combatir el hambre en el mundo. Aunque actualmente la forma más popular de consumirlo es en las famosas "**Alegrías**", la **historia** y las **propiedades** de este cereal van mucho más allá.
 

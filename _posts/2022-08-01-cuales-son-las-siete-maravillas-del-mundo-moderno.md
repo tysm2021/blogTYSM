@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MUNDO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-01-taj-mahal.jpeg"
+    src: /images/2022-08-01-taj-mahal.jpeg
 sharing: true
-title: "¿Cuáles son las Siete Nuevas Maravillas del Mundo y cómo se eligieron?"
-summary:
+title: ¿Cuáles son las Siete Nuevas Maravillas del Mundo y cómo se eligieron?
+summary: >-
   En la escuela aprendimos las Siete Maravillas del Mundo Antiguo; pero, ¿sabías
   que existen siete nuevas maravillas?
-cover: "/images/2022-08-01-taj-mahal.jpeg"
+cover: /images/2022-08-01-taj-mahal.jpeg
 tags: mundo turismo lugares ciudades
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En nuestras clases de Historia de la primaria y la secundaria, aprendimos que las **Siete Maravillas del Mundo Antiguo** fueron el Coloso de Rodas, los Jardines Colgantes de Babilonia, el Templo de Diana en Efeso, la Estatua de Zeus en Olimpia, el Mausoleo en Halicarnaso, el Faro de Alejandría y la Gran Pirámide de Guisa, la única que sigue en pie hasta nuestros días. Pero, ¿sabes **cuáles son** las **Nuevas Siete Maravillas o Las Siete Maravillas del Mundo Moderno** y cuándo se eligieron?
 

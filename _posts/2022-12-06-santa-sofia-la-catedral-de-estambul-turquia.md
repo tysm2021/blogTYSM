@@ -2,25 +2,31 @@
 author: Redacción TYSM
 categories: MUNDO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
-  background_color: "#203028"
+  background_color: '#203028'
   image:
-    src: "/images/2022-12-06-ayasofya_camisi.jpeg"
+    src: /images/2022-12-06-ayasofya_camisi.jpeg
 sharing: true
-title: "Santa Sofía: la Catedral y mezquita de Estambul, Turquía"
-summary:
+title: 'Santa Sofía: la Catedral y mezquita de Estambul, Turquía'
+summary: >-
   Justo en la frontera entre Occidente y Oriente, en lo que era Constantinopla,
   se erige esta espléndida construcción que divide el mundo cristiano del árabe…
-cover: "/images/2022-12-06-ayasofya_camisi.jpeg"
+cover: /images/2022-12-06-ayasofya_camisi.jpeg
 tags: mundo países asia europa
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Hace casi 1500 años cayó la Roma imperial a manos de las llamadas tribus bárbaras, y en Europa se instauró la Edad Media. Pero en lo que ahora es **Estambul**, capital de Turquía, se fundó la ciudad de **Constantinopla** como sede del poder del Imperio Romano de Oriente. Y una de las pocas joyas arquitectónicas de este periodo que aún sobrevive es la **Catedral de Santa Sofía**, también conocida como **Hagia Sophia**, la cual ha funcionado tanto como iglesia cristiana que como mezquita musulmana.
 

@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: GASTRONOMIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-24-tacosalpastor.jpg"
+    src: /images/2022-08-24-tacosalpastor.jpg
 sharing: true
 title: 'Tacos al pastor: cinco cosas que no sabías del "mejor platillo del mundo"'
-summary:
-  Conoce unos datos interesantes sobre estos tacos de carne de cerdo adobada
-  y asada al carbón en horno vertical
-cover: "/images/2022-08-24-tacosalpastor.jpg"
+summary: >-
+  Conoce unos datos interesantes sobre estos tacos de carne de cerdo adobada y
+  asada al carbón en horno vertical
+cover: /images/2022-08-24-tacosalpastor.jpg
 tags: gastronomia tacos antojitos cdmx
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Sobre todo en la **Ciudad de México** y sus alrededores del centro del país, las noches se llenan de puestos callejeros donde hábiles **taqueros** hacen girar enormes "**trompos**" de carne de cerdo fileteada y adobada, que se asan en hornos verticales —hoy alimentados con gas; antiguamente y en algunos establecimientos muy ortodoxos, funcionan a base de brasas de carbón— y de donde se obtienen las deliciosas láminas de carne que, aderezadas con un trocito de piña, llamamos "**tacos al pastor**".
 

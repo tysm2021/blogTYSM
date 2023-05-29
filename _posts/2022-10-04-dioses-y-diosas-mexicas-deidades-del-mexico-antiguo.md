@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: HISTORIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-10-04-british_museum_-_room_27_-17947483409.jpeg"
+    src: /images/2022-10-04-british_museum_-_room_27_-17947483409.jpeg
 sharing: true
-title: "Dioses y diosas mexicas: deidades del México antiguo"
-summary:
-  "La religión y la mitología de los mexicas —mal llamados aztecas— consideraba
-  a diversos dioses y dioses: aquí encontrarás a los más importantes"
-cover: "/images/2022-10-04-british_museum_-_room_27_-17947483409.jpeg"
+title: 'Dioses y diosas mexicas: deidades del México antiguo'
+summary: >-
+  La religión y la mitología de los mexicas —mal llamados aztecas— consideraba a
+  diversos dioses y dioses: aquí encontrarás a los más importantes
+cover: /images/2022-10-04-british_museum_-_room_27_-17947483409.jpeg
 tags: historia prehispanico mexicas
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Durante los siglos XIV, XV y parte del siglo XVI, el centro de **México** y gran parte de nuestro territorio actual —e incluso partes de Centroamérica— fue dominado por el gran **Imperio Mexica** —incorrectamente llamado **Azteca**—, el cual impuso un sistema religioso basado en un conjunto de **dioses** y **dioses** con profundos **simbolismos** y funciones sociales, económicas y militares. Pero, en resumen, ¿cuáles eran los **principales** **dioses** y **diosas** **mexicas**?
 

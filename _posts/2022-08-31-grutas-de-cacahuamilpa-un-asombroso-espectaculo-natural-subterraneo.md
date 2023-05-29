@@ -2,24 +2,31 @@
 author: Redacción TYSM
 categories: TURISMO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-31-1280px-grutas_de_cacahuamilpa-_guerrero_-33165502951.jpeg"
+    src: >-
+      /images/2022-08-31-1280px-grutas_de_cacahuamilpa-_guerrero_-33165502951.jpeg
 sharing: true
-title: "Grutas de Cacahuamilpa: un asombroso espectáculo natural subterráneo"
-summary:
-  En el estado de Guerrero se encuentran estas famosas grutas, donde las escalactitas
-  han recibido nombres por las formas que aparentan tener.
-cover: "/images/2022-08-31-1280px-grutas_de_cacahuamilpa-_guerrero_-33165502951.jpeg"
+title: 'Grutas de Cacahuamilpa: un asombroso espectáculo natural subterráneo'
+summary: >-
+  En el estado de Guerrero se encuentran estas famosas grutas, donde las
+  escalactitas han recibido nombres por las formas que aparentan tener.
+cover: /images/2022-08-31-1280px-grutas_de_cacahuamilpa-_guerrero_-33165502951.jpeg
 tags: turismo viajes naturaleza guerrero
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Ubicado en la Sierra Madre del Sur, en el estado de **Guerrero**, se encuentra el **Parque Nacional Grutas de Cacahuamilpa**, una área natural protegida por la Secretaría del Medio Ambiente y Recursos Naturales (SEMARNAT). Al recorrer este impactante espectáculo natural subterráneo, uno puede admirar **formaciones rocosas** que tomaron siglos en formarse y que los lugareños han bautizado con nombres a partir de las formas que aparentan tomar.
 

@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: CULTURA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-14-sorjuana.jpg"
+    src: /images/2022-06-14-sorjuana.jpg
 sharing: true
-title: "Sor Juana Inés de la Cruz: biografía y poemas selectos"
-summary:
+title: 'Sor Juana Inés de la Cruz: biografía y poemas selectos'
+summary: >-
   Conoce la vida y la obra de esta poetisa y escritora novohispana que fue
   llamada "La Décima Musa".
-cover: "/images/2022-06-14-sorjuana.jpg"
+cover: /images/2022-06-14-sorjuana.jpg
 tags: letras poesía poemas biografías
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Una de las primeras y más destacadas escritoras mexicanas —aunque, siendo precisos, era más bien novohispana— fue Sor Juana Inés de la Cruz, cuyos poemas aún son leídos y memorizados por estudiantes desde la educación media, y que tuvo una biografía bastante singular para tratarse de una religiosa.
 

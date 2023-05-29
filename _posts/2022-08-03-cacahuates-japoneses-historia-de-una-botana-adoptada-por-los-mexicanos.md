@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: GASTRONOMIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-03-cacahuates_japoneses.jpeg"
+    src: /images/2022-08-03-cacahuates_japoneses.jpeg
 sharing: true
-title: "Cacahuates japoneses: historia de una botana adoptada por los mexicanos"
-summary:
-  "Están en cualquier tiendita, en puestos callejeros y como botana en las
-  cantinas: conoce las historia de los cacahuates japoneses "
-cover: "/images/2022-08-03-cacahuates_japoneses.jpeg"
+title: 'Cacahuates japoneses: historia de una botana adoptada por los mexicanos'
+summary: >-
+  Están en cualquier tiendita, en puestos callejeros y como botana en las
+  cantinas: conoce las historia de los cacahuates japoneses 
+cover: /images/2022-08-03-cacahuates_japoneses.jpeg
 tags: comida botanas recetas
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 ¿Conoces la **historia** de los **cacahuates japoneses**, eso que vienen con una especie de cascarita salada que a muchos les encanta y que otros tantos detestan? Quizá te sorprenda saber que en **origen** fueron creados por un migrante **japonés** en la década de 1940, quien además fue padre de un famoso cantante de baladas ochenteras. Aquí te contamos los detalles.
 

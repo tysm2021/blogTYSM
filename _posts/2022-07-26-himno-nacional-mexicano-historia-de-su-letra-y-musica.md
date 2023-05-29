@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MEXICANISIMOS
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-26-himnonacional1.jpg"
+    src: /images/2022-07-26-himnonacional1.jpg
 sharing: true
-title: "Himno Nacional Mexicano: historia de su letra y música"
-summary:
-  '"Mexicanos al grito de guerra…"; ¿conoces la historia detrás del Himno Nacional
-  que se canta en las escuelas los lunes por la mañana?'
-cover: "/images/2022-07-26-himnonacional1.jpg"
+title: 'Himno Nacional Mexicano: historia de su letra y música'
+summary: >-
+  "Mexicanos al grito de guerra…"; ¿conoces la historia detrás del Himno
+  Nacional que se canta en las escuelas los lunes por la mañana?
+cover: /images/2022-07-26-himnonacional1.jpg
 tags: musica historia biografias
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 A todos, en las escuelas, nos hacen memorizarlo desde muy pequeños y regularmente lo cantamos las mañanas de todos los lunes mientras hacemos los "honores a la Bandera". Pero, ¿conoces la **historia** que dio **origen** al **Himno Nacional Mexicano**? ¿Quiénes escribieron su **letra** y su **música**, cuándo se estrenó y cuántas **estrofas** tiene?
 

@@ -57,5 +57,9 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
+  },
+  "dependencies": {
+    "@tinacms/cli": "^1.5.9",
+    "tinacms": "^1.5.2"
   }
 }

@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: GASTRONOMIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-10-04-1280px-menudo_-sopa_de_mexico.jpeg"
+    src: /images/2022-10-04-1280px-menudo_-sopa_de_mexico.jpeg
 sharing: true
-title: "Pancita o menudo: el guiso popular al que hasta Tin-Tan le cantó"
-summary:
-  El menudo o la pancita no es sino el estómago de la res cocido y guisado
-  de distintas maneras… y dicen que es un gran remedio para la 'cruda'
-cover: "/images/2022-10-04-1280px-menudo_-sopa_de_mexico.jpeg"
+title: 'Pancita o menudo: el guiso popular al que hasta Tin-Tan le cantó'
+summary: >-
+  El menudo o la pancita no es sino el estómago de la res cocido y guisado de
+  distintas maneras… y dicen que es un gran remedio para la 'cruda'
+cover: /images/2022-10-04-1280px-menudo_-sopa_de_mexico.jpeg
 tags: gastronomia platillos
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 La pancita, como se le llama en la Ciudad de México y los estados cercano, o menudo, como se le conoce en otros estados, es un guiso picante y caldoso que se elabora con el estómago de la res, el cual consta de varias partes. Su origen humilde se pierde entre la historia y la leyenda, y sus supuestas propiedades "curativas" para remediar la resaca o "cruda" lo han convertido en un platillo popular emblemático, al que hasta artistas como Tin-Tan le dedicaron una canción.
 

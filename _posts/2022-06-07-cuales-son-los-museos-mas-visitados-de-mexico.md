@@ -2,24 +2,32 @@
 author: Redacción TYSM
 categories: TURISMO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-07-1280px-museo_nacional_de_antropologia_-_wiki_takes_antropologia_020.jpeg"
+    src: >-
+      /images/2022-06-07-1280px-museo_nacional_de_antropologia_-_wiki_takes_antropologia_020.jpeg
 sharing: true
-title: "¿Cuáles son los museos más visitados de México?"
-summary:
+title: ¿Cuáles son los museos más visitados de México?
+summary: >-
   Uno de los más grandes atractivos para los turistas nacionales y extranjeros,
   son los museos de México; ¿sabes cuáles son los que más visitantes reciben?
-cover: "/images/2022-06-07-1280px-museo_nacional_de_antropologia_-_wiki_takes_antropologia_020.jpeg"
+cover: >-
+  /images/2022-06-07-1280px-museo_nacional_de_antropologia_-_wiki_takes_antropologia_020.jpeg
 tags: museos ciudades arqueología cultura
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 México es un país con mucha **historia**, desde nuestro pasado prehispánico, pasando por el Virreinato, el México independiente, hasta llegar al siglo XX. Eso se refleja en la cantidad y la calidad de nuestros **museos**, los cuales ponen al alcance del público la **cultura**, las **artes** y los vestigios de todo nuestro pasado. Pero, ¿sabes **cuáles son los museos más visitados de México**?
 

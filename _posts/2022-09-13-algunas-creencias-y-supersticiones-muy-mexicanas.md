@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MEXICANISIMOS
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-13-mercado_de_sonora_mexico_df_20_04_07.jpeg"
+    src: /images/2022-09-13-mercado_de_sonora_mexico_df_20_04_07.jpeg
 sharing: true
 title: Algunas creencias y supersticiones muy mexicanas
-summary:
-  En otros países le temen a los gatos negros o a pasar bajo una escalera,
-  pero en México tenemos una serie de creencias muy nuestras…
-cover: "/images/2022-09-13-mercado_de_sonora_mexico_df_20_04_07.jpeg"
+summary: >-
+  En otros países le temen a los gatos negros o a pasar bajo una escalera, pero
+  en México tenemos una serie de creencias muy nuestras…
+cover: /images/2022-09-13-mercado_de_sonora_mexico_df_20_04_07.jpeg
 tags: folclor tradiciones
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 A pesar de que **México** es un país moderno, con grandes avances científicos, médicos y tecnológicos, y una **cultura** para presumirle al mundo, entre nuestra gente existen aún una serie de **creencias**, **supersticiones** muy arraigadas que, aunque bien se sabe que no son ciertas, forman parte de nuestra idiosincrasia y del **folclor** de nuestras tierras. Muchas de ellas son una herencia **prehispánica**, otras derivan del **cristianismo** y otras tantas más no tiene un **origen** definido.
 

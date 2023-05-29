@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MEXICANISIMOS
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-15-1024px-popocatepetl_iztaccihuatl_-64035865.jpeg"
+    src: /images/2022-06-15-1024px-popocatepetl_iztaccihuatl_-64035865.jpeg
 sharing: true
-title: "Leyenda de los volcanes: Popocatépetl e Iztaccíhuatl"
-summary:
-  "¿Sabías que existe una leyenda que explica el origen de los dos volcanes
-  que enmarcan al Valle de México?"
-cover: "/images/2022-06-15-1024px-popocatepetl_iztaccihuatl_-64035865.jpeg"
+title: 'Leyenda de los volcanes: Popocatépetl e Iztaccíhuatl'
+summary: >-
+  ¿Sabías que existe una leyenda que explica el origen de los dos volcanes que
+  enmarcan al Valle de México?
+cover: /images/2022-06-15-1024px-popocatepetl_iztaccihuatl_-64035865.jpeg
 tags: leyendas folclor volcanes prehispánico
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Si uno visita el centro de México, hay dos imponentes **volcanes** que seguramente atrapan la mirada: el **Popocatépetl** y el **Iztaccíhuatl**. Desde tiempos prehispánicos, estas colosales montañas han generado todo tipo de **historias** y **leyendas**, como una que explica el origen de estas formaciones y de la peculiar forma que tienen.
 

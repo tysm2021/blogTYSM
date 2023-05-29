@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: TURISMO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-29-1280px-acapulco4.jpeg"
+    src: /images/2022-07-29-1280px-acapulco4.jpeg
 sharing: true
-title: "¿Cuáles son las playas más visitadas de México?"
-summary:
-  "Sol, arena y mar, la combinación perfecta de las playas mexicanas: conoce
-  cuáles son las más visitadas del país…"
-cover: "/images/2022-07-29-1280px-acapulco4.jpeg"
+title: ¿Cuáles son las playas más visitadas de México?
+summary: >-
+  Sol, arena y mar, la combinación perfecta de las playas mexicanas: conoce
+  cuáles son las más visitadas del país…
+cover: /images/2022-07-29-1280px-acapulco4.jpeg
 tags: playas mexico turismo
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Cuando llegan las **vacaciones**, uno de los destinos favoritos de las familias **mexicanas** son las hermosas **playas**. Y es que tienen de todo: sol brillante, una temperatura cálida y reconfortante, el azul de nuestros mares, refrescantes albercas y numerosos hoteles, deliciosos mariscos y amaneceres o puestas de sol impresionantes. Pero de todas las **playas** en el Golfo y el Pacífico **mexicanos**, ¿cuáles son **las más visitadas** y qué **más turistas** reciben al año?
 

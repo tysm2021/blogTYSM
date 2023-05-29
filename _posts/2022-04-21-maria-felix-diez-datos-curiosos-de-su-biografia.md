@@ -1,26 +1,32 @@
 ---
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-21-maria_felix_1947_-cropped.jpeg"
+    src: /images/2022-04-21-maria_felix_1947_-cropped.jpeg
 sharing: true
-title: "María Felix: diez datos curiosos de su biografía"
+title: 'María Felix: diez datos curiosos de su biografía'
 author: Francisco Massé
-cover: "/images/2022-04-21-maria_felix_1947_-cropped.jpeg"
+cover: /images/2022-04-21-maria_felix_1947_-cropped.jpeg
 categories: MEXICANISIMOS
 tags: cine mexico farandula popular
 show_author_profile: false
 comment: false
-summary:
-  '"La Doña" tuvo una vida apasionada y polémica; aquí conocerás diez datos
-  curiosos para comprobarlo.'
+summary: >-
+  "La Doña" tuvo una vida apasionada y polémica; aquí conocerás diez datos
+  curiosos para comprobarlo.
 subcategorie: ASISOMOS
+_template: plantilla
 ---
+
+
+
+
+
 
 Entre las grandes estrellas que dio el cine mexicano durante su llamada “Época de Oro” destacan figuras como Pedro Infante, Jorge Negrete, Dolores del Río y, desde luego, **“La Doña” María Félix**, quien tuvo una **vida** turbulenta dentro y fuera del celuloide. A continuación te presentamos diez **datos curiosos** sobre su interesante **biografía**:
 

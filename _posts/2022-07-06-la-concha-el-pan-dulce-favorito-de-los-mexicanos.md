@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: GASTRONOMIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-06-1280px-concha_-pan_dulce_mexicano-_03.jpeg"
+    src: /images/2022-07-06-1280px-concha_-pan_dulce_mexicano-_03.jpeg
 sharing: true
-title: "Concha: la historia del pan dulce favorito de los mexicanos"
-summary:
-  Este bizcocho cubierto con pasta de azúcar blanca o de chocolate es uno de
-  los consentidos de nuestra repostería
-cover: "/images/2022-07-06-1280px-concha_-pan_dulce_mexicano-_03.jpeg"
+title: 'Concha: la historia del pan dulce favorito de los mexicanos'
+summary: >-
+  Este bizcocho cubierto con pasta de azúcar blanca o de chocolate es uno de los
+  consentidos de nuestra repostería
+cover: /images/2022-07-06-1280px-concha_-pan_dulce_mexicano-_03.jpeg
 tags: platillos antojitos pan
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 No lo sabemos de cierto, pero lo sospechamos: en todas las latitudes de nuestro país, uno de las piezas de **pan** **dulce** favoritas de todos es la **concha**. Pero, ¿cuál es el **origen** y las **historia** de este delicioso bizcocho cubierto con figuras de pasta de azúcar que imitan la superficie de una **concha** marina?
 

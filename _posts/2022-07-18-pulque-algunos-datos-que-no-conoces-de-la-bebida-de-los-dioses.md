@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: GASTRONOMIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-18-mx_tv_museo_del_pulque_y_las_pulquerias_24.jpeg"
+    src: /images/2022-07-18-mx_tv_museo_del_pulque_y_las_pulquerias_24.jpeg
 sharing: true
 title: 'Pulque: algunos datos que no conoces de la "bebida de los dioses"'
-summary:
+summary: >-
   Desde tiempos prehispánicos, el pulque obtenido de la fermentación del agave
   ha deleitado al paladar de los mexicanos…
-cover: "/images/2022-07-18-mx_tv_museo_del_pulque_y_las_pulquerias_24.jpeg"
-tags: "bebidas agave "
+cover: /images/2022-07-18-mx_tv_museo_del_pulque_y_las_pulquerias_24.jpeg
+tags: 'bebidas agave '
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Algunos, atendiendo a su origen mitológico de siglos, dicen que el **pulque** es "la **bebida de los dioses**"; otros lo aprecian por su origen, por su historia y por la tradición; y muchos más, simplemente porque es una **bebida** alcohólica deliciosa y muy mexicana. Por eso, aquí te compartimos algunos **datos** **curiosos** sobre el **pulque** que a lo mejor no conocías.
 

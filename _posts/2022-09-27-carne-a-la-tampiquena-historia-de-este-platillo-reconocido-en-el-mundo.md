@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: GASTRONOMIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-27-carne_a_la_tampiquena.jpeg"
+    src: /images/2022-09-27-carne_a_la_tampiquena.jpeg
 sharing: true
-title: "Carne a la tampiqueña: historia de este platillo reconocido en el mundo"
-summary:
-  "Carne asada, guacamole, frijoles refritos, arroz, rajas y hasta una enchilada:
-  todo eso lleva la famosa carne a la tampiqueña, pero, ¿cuál es su origen?"
-cover: "/images/2022-09-27-carne_a_la_tampiquena.jpeg"
+title: 'Carne a la tampiqueña: historia de este platillo reconocido en el mundo'
+summary: >-
+  Carne asada, guacamole, frijoles refritos, arroz, rajas y hasta una enchilada:
+  todo eso lleva la famosa carne a la tampiqueña, pero, ¿cuál es su origen?
+cover: /images/2022-09-27-carne_a_la_tampiquena.jpeg
 tags: gastronomia platillos
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Alguna vez, el famoso intelectual y escritor José Vasconcelos dijo algo así como: "La civilización termina donde empieza la **carne asada**". Pero, por fortuna, en tierras mexicanas —sobre todo en el norte del país— somos expertos en complementar la suculenta y jugosa **carne de res** con aderezos que le otorgan un espíritu completamente nuevo, pues además de ser deliciosos son muy nutritivos y, en muchos casos, hasta facilitan su digestión. Tal es el caso de la famosa **carne a la tampiqueña**, cuyos componentes pueden variar, pero su esencia —y, también, su **historia**— casi siempre es la misma.
 

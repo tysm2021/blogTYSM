@@ -2,24 +2,32 @@
 author: Redacción TYSM
 categories: MEXICANISIMOS
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-19-1280px-baul_de_madera_con_base_de_olinala-_guerrero-_mexico.jpeg"
+    src: >-
+      /images/2022-08-19-1280px-baul_de_madera_con_base_de_olinala-_guerrero-_mexico.jpeg
 sharing: true
-title: "Madera de Olinalá: fragante y colorida artesanía del estado de Guerrero"
-summary:
-  "Se distingue por sus colores y por el peculiar aroma que despide: conoce
-  la madera de Olinalá y las hermosas artesanías que se hacen con ella"
-cover: "/images/2022-08-19-1280px-baul_de_madera_con_base_de_olinala-_guerrero-_mexico.jpeg"
+title: 'Madera de Olinalá: fragante y colorida artesanía del estado de Guerrero'
+summary: >-
+  Se distingue por sus colores y por el peculiar aroma que despide: conoce la
+  madera de Olinalá y las hermosas artesanías que se hacen con ella
+cover: >-
+  /images/2022-08-19-1280px-baul_de_madera_con_base_de_olinala-_guerrero-_mexico.jpeg
 tags: artesania guerrero folclor
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Esta **artesanía** resulta inconfundible: a menudo se trata de **cajas** de distintos tamaños — aunque también pueden ser otros objetos— que se distinguen por sus vibrantes colores, por sus diseños con flores y otros elementos naturales y, sobre todo, por el fragante y delicioso olor que despide la **madera** cuando abres una de ellas. Proviene de una población del estado de **Guerrero**, donde abundan los árboles que proveen de la aromática materia prima, y se le conoce como **madera de Olinalá.** ¿Conoces su **origen**?
 

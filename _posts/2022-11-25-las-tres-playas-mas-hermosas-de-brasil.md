@@ -2,24 +2,31 @@
 author: Redacción TYSM
 categories: MUNDO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-25-praia_de_copacabana_-_rio_de_janeiro-_brasil.jpeg"
+    src: /images/2022-11-25-praia_de_copacabana_-_rio_de_janeiro-_brasil.jpeg
 sharing: true
 title: Las tres playas más hermosas de Brasil
-summary:
-  Al sur de nuestro continente se encuentra Brasil, un país famoso por el colorido
-  de su carnaval, por lo rítmico de su música, por el sol y el mar de sus playas…
-cover: "/images/2022-11-25-praia_de_copacabana_-_rio_de_janeiro-_brasil.jpeg"
+summary: >-
+  Al sur de nuestro continente se encuentra Brasil, un país famoso por el
+  colorido de su carnaval, por lo rítmico de su música, por el sol y el mar de
+  sus playas…
+cover: /images/2022-11-25-praia_de_copacabana_-_rio_de_janeiro-_brasil.jpeg
 tags: mundo paises playas
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Si alguien menciona a **Brasil**, lo primero que nos viene a la mente —además del futbol, de la samba y del carnaval— es una **playa** de arena blanca que es golpeada por el **mar** y bañada por el ardiente **sol**. Y es que ese país sudamericano tiene casi 7 mil 500 kilómetros de costas y más de 2 mil **playas**; pero, bien a bien, ¿cuáles son las **tres playas brasileñas** más **famosas** y las más **hermosas** de todas?
 

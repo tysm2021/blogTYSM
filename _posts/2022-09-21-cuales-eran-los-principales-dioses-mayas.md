@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: HISTORIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-21-1280px-bonampak_painting-contrast.jpeg"
+    src: /images/2022-09-21-1280px-bonampak_painting-contrast.jpeg
 sharing: true
-title: "¿Cuáles eran los principales dioses mayas?"
-summary:
-  "La religión del pueblo maya era vasta, rica e interesante, con mitos de
-  la creación y un grupo de dioses y diosas: conozcamos a algunos de ellos"
-cover: "/images/2022-09-21-1280px-bonampak_painting-contrast.jpeg"
-tags: "arqueologia prehispánico mayas "
+title: ¿Cuáles eran los principales dioses mayas?
+summary: >-
+  La religión del pueblo maya era vasta, rica e interesante, con mitos de la
+  creación y un grupo de dioses y diosas: conozcamos a algunos de ellos
+cover: /images/2022-09-21-1280px-bonampak_painting-contrast.jpeg
+tags: 'arqueologia prehispánico mayas '
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En el sureste mexicano, principalmente en los estados de Yucatán, Quintana Roo y Chiapas, así como en Guatemala y otras partes de Centroamérica, floreció la **cultura maya**, la cual ha sido reconocida por arqueólogos, historiadores y expertos de todo el mundo como una de las más ricas, complejas y fascinantes del mundo antiguo. Y uno de los aspectos más estudiados es todo lo que tiene que ver con su **religión** y con el **panteón** **maya**, donde destacan **dioses** y **dioses** con **significados** que aún están en proceso de estudio.
 

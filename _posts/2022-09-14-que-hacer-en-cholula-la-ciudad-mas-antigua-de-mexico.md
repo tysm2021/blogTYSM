@@ -2,24 +2,32 @@
 author: Redacción TYSM
 categories: TURISMO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-14-1280px-view_over_cholula_from_summit_of_great_pyramid_-_cholula_-_puebla_-_mexico_-14924947814.jpeg"
+    src: >-
+      /images/2022-09-14-1280px-view_over_cholula_from_summit_of_great_pyramid_-_cholula_-_puebla_-_mexico_-14924947814.jpeg
 sharing: true
-title: Qué hacer en Cholula, la ciudad más antigua de México
-summary:
+title: 'Qué hacer en Cholula, la ciudad más antigua de México'
+summary: >-
   A unos kilómetros de Puebla se encuentra Cholula, una ciudad fundada incluso
   antes que México-Tenochtitlan y que es un deleite para el turista
-cover: "/images/2022-09-14-1280px-view_over_cholula_from_summit_of_great_pyramid_-_cholula_-_puebla_-_mexico_-14924947814.jpeg"
+cover: >-
+  /images/2022-09-14-1280px-view_over_cholula_from_summit_of_great_pyramid_-_cholula_-_puebla_-_mexico_-14924947814.jpeg
 tags: turismo viajes ciudades pueblos
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En el estado de **Puebla**, a tan sólo 8 kilómetros de distancia de la capital del estado —en el municipio de **San Andrés Cholula**—, se encuentra **Cholula de Rivadavia**, una ciudad de gran importancia histórica desde tiempos **prehispánicos** que desde el año 2012 fue nombrado **Pueblo Mágico**. Conozcamos un poco de su **historia**, de sus **atractivos turísticos** —como la **Gran Pirámide de Cholula**—, las actividades que se pueden realizar y **cómo** se puede **llegar** a ella.
 

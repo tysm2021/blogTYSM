@@ -2,24 +2,31 @@
 author: Redacción TYSM
 categories: GASTRONOMIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-10-11-fonda_de_comida_en_el_mercado_de_medellin.jpeg"
+    src: /images/2022-10-11-fonda_de_comida_en_el_mercado_de_medellin.jpeg
 sharing: true
 title: Mercados mexicanos famosos por sus comidas
-summary:
-  "En el panorama gastronómico mexicano, más que en los restaurantes, es en
-  los mercados donde se puede probar la auténtica sazón tradicional: conozcamos algunos"
-cover: "/images/2022-10-11-fonda_de_comida_en_el_mercado_de_medellin.jpeg"
+summary: >-
+  En el panorama gastronómico mexicano, más que en los restaurantes, es en los
+  mercados donde se puede probar la auténtica sazón tradicional: conozcamos
+  algunos
+cover: /images/2022-10-11-fonda_de_comida_en_el_mercado_de_medellin.jpeg
 tags: gastronomia platillos mercados folclor
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 La **culinaria** y la **gastronomía** **mexicanas**, bien lo sabemos, no tiene comparación. Y si bien las mejores comidas uno las prueba en las **cocinas** de las familias, donde la tradición de siglos se hace presente y nos llena de sabores extraordinarios, fragantes aromas y hermosos colores y texturas. Pero otro sitio donde uno puede probar los mejores **platillos** **tradicionales** **mexicanos**, más que en los restaurantes, es en los **mercados** de los distintos **pueblos**, **ciudades** y **estados** de la República Mexicana. En este artículo conoceremos algunos de los más **famosos**.
 

@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MUNDO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-29-hapuna_beach_hawaii_2021.jpeg"
+    src: /images/2022-11-29-hapuna_beach_hawaii_2021.jpeg
 sharing: true
 title: Todo lo que necesitas saber para visitar Hawai
-summary:
+summary: >-
   Al pensar en Hawai, de inmediato pensamos en bailarinas, collares floridos,
   música de ukulele, volcanes, mucho sol y playas, ¿qué tan cierto es esto?
-cover: "/images/2022-11-29-hapuna_beach_hawaii_2021.jpeg"
+cover: /images/2022-11-29-hapuna_beach_hawaii_2021.jpeg
 tags: mundo turismo paises
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Gracias a multitud de películas —desde las de Elvis Presley hasta _Lilo & Stitch_— y a programas de TV como _Hawai 5-0_, _Magnum P.I._ o _La Isla de la Fantasía_, para el imaginario del mexicano Hawai es un lugar paradisiaco lleno de hermosas playas, abundante sol, surfistas, sensuales bailarianas que mueven sus caderas y usan collares hechos con flores, ardientes volcanes y cocteles para mitigar el calor. Pero uno se pregunta, exactamente, ¿dónde está **Hawái**? ¿Qué tan lejos está de México? ¿Y realmente es como en las películas y en la tele?
 

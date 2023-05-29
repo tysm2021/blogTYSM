@@ -2,24 +2,32 @@
 author: Redacción TYSM
 categories: TURISMO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-14-1024px-fachada_frontal_de_la_catedral_de_zacatecas-_zac.jpeg"
+    src: >-
+      /images/2022-11-14-1024px-fachada_frontal_de_la_catedral_de_zacatecas-_zac.jpeg
 sharing: true
-title: "Zacatecas: esplendorosa ciudad colonial en el centro exacto de México"
-summary:
-  Si quieres conocer una hermosa ciudad colonial, con edificios de cantera
-  rosa, joyerías, un teleférico, museos y otros atractivos, Zacatecas es para ti
-cover: "/images/2022-11-14-1024px-fachada_frontal_de_la_catedral_de_zacatecas-_zac.jpeg"
+title: 'Zacatecas: esplendorosa ciudad colonial en el centro exacto de México'
+summary: >-
+  Si quieres conocer una hermosa ciudad colonial, con edificios de cantera rosa,
+  joyerías, un teleférico, museos y otros atractivos, Zacatecas es para ti
+cover: >-
+  /images/2022-11-14-1024px-fachada_frontal_de_la_catedral_de_zacatecas-_zac.jpeg
 tags: turismo viajes ciudades
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 La **ciudad** de **Zacatecas** es capital del estado del mismo nombre, ubicado en el centro exacto de la República Mexicana, así como cabecera municipal del estado homónimo. En algún tiempo fue una de las ciudades más ricas del país y hoy, como ciudad colonial, sigue siendo un gran **destino turístico** para el visitante, con numerosos **atractivos** **culturales**, **gastronómicos** y **arquitectónicos**. Demos un breve recorrido y veamos **qué hacer**, a **dónde ir**, **qué comer** y **qué comprar** en esta hermosa ciudad.
 

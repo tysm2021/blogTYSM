@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: HISTORIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-22-pancho_villas_death_mask_-11199646203.jpeg"
+    src: /images/2022-04-22-pancho_villas_death_mask_-11199646203.jpeg
 sharing: true
-title: "¿Dónde está o quién tiene la cabeza de Pancho Villa?"
-summary:
-  "¿Sabías que la tumba de Villa fue profanada para cortarle la cabeza, y al
-  día de hoy nadie sabe dónde está?"
-cover: "/images/2022-04-22-pancho_villas_death_mask_-11199646203.jpeg"
+title: ¿Dónde está o quién tiene la cabeza de Pancho Villa?
+summary: >-
+  ¿Sabías que la tumba de Villa fue profanada para cortarle la cabeza, y al día
+  de hoy nadie sabe dónde está?
+cover: /images/2022-04-22-pancho_villas_death_mask_-11199646203.jpeg
 tags: revolucion personajes sigloXX
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En la madrugada del 6 de febrero de 1926, el velador del camposanto de Parral, Chihuahua, descubrió que la tumba del **Pancho Villa** había sido profanada y que a su cadáver le habían cortado la **cabeza**. A casi cien años de la muerte del '**Centauro del Norte**', aquí te presentamos algunas de las teorías sobre **quién** fue el **autor** del degollamiento y del posible paradero de su histórica **cabeza**.
 

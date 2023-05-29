@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MUNDO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-15-old-world-map.jpeg"
+    src: /images/2022-08-15-old-world-map.jpeg
 sharing: true
 title: Origen y significado del nombre de los cinco continentes
-summary:
+summary: >-
   África, América, Asia, Europa y Oceanía, ¿qué significan esos nombres y quién
   se los puso?
-cover: "/images/2022-08-15-old-world-map.jpeg"
+cover: /images/2022-08-15-old-world-map.jpeg
 tags: mundo geografia ciudades turismo
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Todos, o casi todos, desde las clases de **historia** y **geografía** en la primaria aprendimos que en el mundo existen **cinco** **continentes** y que sus nombres son: **África**, **América**, **Asia**, **Europa** y **Oceanía**. Hasta ahí, todo bien; pero, ¿cuál es el **significado** y el **origen** de esos **nombres**, **quién** se los puso y **cuándo** sucedió eso?
 

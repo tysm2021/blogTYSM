@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MEXICANISIMOS
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-06-mariachi-3603720_1280.jpeg"
+    src: /images/2022-07-06-mariachi-3603720_1280.jpeg
 sharing: true
-title: "Traje de charro: historia y partes de la vestimenta más mexicana"
-summary:
-  "¿De dónde surgió y en qué consiste el mexicanísimo traje de charro? Aquí
-  te lo contamos…"
-cover: "/images/2022-07-06-mariachi-3603720_1280.jpeg"
+title: 'Traje de charro: historia y partes de la vestimenta más mexicana'
+summary: >-
+  ¿De dónde surgió y en qué consiste el mexicanísimo traje de charro? Aquí te lo
+  contamos…
+cover: /images/2022-07-06-mariachi-3603720_1280.jpeg
 tags: tradiciones folclor vestimenta
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En todo mundo, una de las **vestimentas** que más representan a **México** es el **traje de charro**. Ya sea de gala o de faena, o incluso de fantasía —como lo portan algunos **mariachis** y cantantes—, este traje típico tiene una **historia** profundamente ligada a la tradición del campo mexicano, y consta de una serie de **partes** que hay que conocer.
 

@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: CULTURA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-12-05-1024px-ballet_folklorico_de_amalia_hernandez_.jpeg"
+    src: /images/2022-12-05-1024px-ballet_folklorico_de_amalia_hernandez_.jpeg
 sharing: true
 title: Amalia Hernández y la historia del Ballet Folklórico de México
-summary:
+summary: >-
   Uno de los estandartes de la mexicanidad es esta compañía de bailarines que
   lleva lo mejor de las danza tradicionales mexicanas a todo el mundo
-cover: "/images/2022-12-05-1024px-ballet_folklorico_de_amalia_hernandez_.jpeg"
+cover: /images/2022-12-05-1024px-ballet_folklorico_de_amalia_hernandez_.jpeg
 tags: cultura artes danza folclor
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Desde hace varias décadas, el **Ballet Folklórico de México** fundado por **Amalia Hernández** es una compañía de **danza** que todos los años presenta lo mejor de los **bailes regionales** **mexicanos** en escenarios como el Auditorio Nacional o el Teatro del Palacio de Bellas Artes, y en numerosas ocasiones nos ha representado en el extranjero en eventos internacionales como los Juegos Panamericanos.
 

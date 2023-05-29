@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: HISTORIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-30-1024px-codex_mendoza_folio_67r_bottom.jpeg"
+    src: /images/2022-11-30-1024px-codex_mendoza_folio_67r_bottom.jpeg
 sharing: true
-title: "¿Cómo se llamaban las armas de los guerreros del ejército mexica?"
-summary:
+title: ¿Cómo se llamaban las armas de los guerreros del ejército mexica?
+summary: >-
   Entre los siglos XIV y XV, el Imperio Mexica cubría la mitad del país y parte
   de Centroamérica, territorio que fue sometido usando estas armas…
-cover: "/images/2022-11-30-1024px-codex_mendoza_folio_67r_bottom.jpeg"
+cover: /images/2022-11-30-1024px-codex_mendoza_folio_67r_bottom.jpeg
 tags: historia prehispanico mexicas codices
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Uno de los **imperios** de mayor relevancia y poderío militar en **Mesoamérica**, entre los siglos XIV y XV, fue el **Imperio Mexica** —también llamado, erróneamente, **Azteca**—, el cual poseía un **ejército** eficiente y altamente entrenado, con jerarquías claras, estrategias de **guerra** y, desde luego, **armamento** propio de la época hecho con piedras, maderas y algunos metales. Pero, ¿**cómo se llamaban las armas** que usaban los **guerreros** **mexicas**?
 

@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MUNDO
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-13-1280px-salma_hayek_-14594486099.jpeg"
+    src: /images/2022-07-13-1280px-salma_hayek_-14594486099.jpeg
 sharing: true
 title: Mexicanos que la armaron en el cine de Hollywood
-summary:
+summary: >-
   Desde hace décadas, varios mexicanos han destacado en la llamada 'Meca del
   Cine", ¿sabes quiénes son?
-cover: "/images/2022-07-13-1280px-salma_hayek_-14594486099.jpeg"
+cover: /images/2022-07-13-1280px-salma_hayek_-14594486099.jpeg
 tags: mundo cine celebridades mexicanos
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Desde principios del pasado siglo XX, **Hollywood** —en California, Estados Unidos— se convirtió en la "meca del **cine**" por la calidad y el éxito comercial de sus producciones, que llevaron a la fama mundial a estrellas como Marilyn Monroe o Clark Gable: por eso es que muchos consideran que es un logro aparecer en alguna de estas famosas **cintas**. Aquí una breve selección de los **mexicanos** y las **mexicanas** que, a lo largo del tiempo, han cosechado éxitos en las grandes ligas del séptimo arte mundial.
 

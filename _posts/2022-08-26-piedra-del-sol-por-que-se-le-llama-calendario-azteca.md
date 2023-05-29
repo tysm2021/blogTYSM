@@ -2,24 +2,32 @@
 author: Redacción TYSM
 categories: HISTORIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-26-1280px-aztec_calendar_stone_in_national_museum_of_anthropology-_mexico_city.jpeg"
+    src: >-
+      /images/2022-08-26-1280px-aztec_calendar_stone_in_national_museum_of_anthropology-_mexico_city.jpeg
 sharing: true
-title: "Piedra del Sol: ¿por qué se le llama Calendario Azteca?"
-summary:
-  Una de las esculturas más conocidas de los mexicas es la Piedra del Sol,
-  pero, ¿por qué se conoce como Calendario Azteca?
-cover: "/images/2022-08-26-1280px-aztec_calendar_stone_in_national_museum_of_anthropology-_mexico_city.jpeg"
+title: 'Piedra del Sol: ¿por qué se le llama Calendario Azteca?'
+summary: >-
+  Una de las esculturas más conocidas de los mexicas es la Piedra del Sol, pero,
+  ¿por qué se conoce como Calendario Azteca?
+cover: >-
+  /images/2022-08-26-1280px-aztec_calendar_stone_in_national_museum_of_anthropology-_mexico_city.jpeg
 tags: historia prehispanico mexicas escultura
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Se trata, sin duda, de la pieza **arqueológica** más famosa del mundo prehispánico: es la **Piedra del Sol**, perteneciente a la cultura **mexica**, aunque casi todos los mexicanos y extranjeros la conocen con el nombre de **Calendario Azteca**. Y uno se pregunta: ¿**por qué** le llamamos así y cuál era su **función**? ¿Era un **calendario** o tenía otro uso? ¿Qué significan los múltiples símbolos que luce?
 

@@ -2,24 +2,32 @@
 author: Redacción TYSM
 categories: GASTRONOMIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-02-agregados_a_la_gastronomia_mexicana-_sincretismo_02-_bolillos.jpeg"
+    src: >-
+      /images/2022-08-02-agregados_a_la_gastronomia_mexicana-_sincretismo_02-_bolillos.jpeg
 sharing: true
-title: "El bolillo: historia del pan blanco más socorrido para hacer tortas"
-summary:
-  "Nuestra panadería y repostería tienen clara influencia europea: prueba de
-  ellos son los famosos bolillos, ¿conoces su historia?"
-cover: "/images/2022-08-02-agregados_a_la_gastronomia_mexicana-_sincretismo_02-_bolillos.jpeg"
+title: 'El bolillo: historia del pan blanco más socorrido para hacer tortas'
+summary: >-
+  Nuestra panadería y repostería tienen clara influencia europea: prueba de
+  ellos son los famosos bolillos, ¿conoces su historia?
+cover: >-
+  /images/2022-08-02-agregados_a_la_gastronomia_mexicana-_sincretismo_02-_bolillos.jpeg
 tags: comida cocina pan
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Una de las piezas de **pan** blanco más vendidas en todo **México** es, sin duda, el **bolillo**. Ya sea para acompañar unos huevitos, un guisado o en **tortas**, a los mexicanos nos gustan tanto los bolillos que hasta le otorgamos propiedades medicinales, diciendo que son "buenos pa'l susto". ¿Conoces la **historia** que dio **origen** a su llegada a **México**?
 

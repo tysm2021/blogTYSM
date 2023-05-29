@@ -2,25 +2,31 @@
 categories: GASTRONOMIA
 subcategorie: DEGORDOS
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-25-guajolota.jpeg"
+    src: /images/2022-04-25-guajolota.jpeg
 sharing: true
-title: "La torta de tamal o guajolota y la leyenda de su origen "
+title: 'La torta de tamal o guajolota y la leyenda de su origen '
 author: Francisco Massé
-cover: "/images/2022-04-25-guajolota.jpeg"
+cover: /images/2022-04-25-guajolota.jpeg
 tags: gastronomia tortas antojitos
 show_author_profile: false
 comment: false
-summary:
-  La torta de tamal es un antojito típico chilango y existen muchas versiones
-  en torno a su origen.
+summary: >-
+  La torta de tamal es un antojito típico chilango y existen muchas versiones en
+  torno a su origen.
+_template: plantilla
 ---
+
+
+
+
+
 
 Cuando uno vive o está de visita en la **Ciudad de México**, es fácil darse cuenta que es una metrópoli donde todo mundo tiene prisa. Por esa razón, quizás, es que a todas horas abundan los puestos de comida callejera, pues a muchos no les da tiempo ni de desayunar. Y uno de los platillos mañaneros más famosos es la **torta de tamal**, a la que se le llama “**guajolota**”; ¿sabes que hay una **leyenda** sobre su **origen**?
 

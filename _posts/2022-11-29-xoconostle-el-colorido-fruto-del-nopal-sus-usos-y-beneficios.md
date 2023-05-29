@@ -2,24 +2,31 @@
 author: Redacción TYSM
 categories: GASTRONOMIA
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-29-1024px-xoconostles_de_tequixquiac.jpeg"
+    src: /images/2022-11-29-1024px-xoconostles_de_tequixquiac.jpeg
 sharing: true
-title: "Xoconostle: el colorido fruto del nopal, sus usos y beneficios"
-summary:
+title: 'Xoconostle: el colorido fruto del nopal, sus usos y beneficios'
+summary: >-
   Es muy similar a la tuna, pero de sabor más agrio y un color que puede ser
-  rojizo y casi violáceo; se llama xonocostle y aquí te platicamos un poco sobre él
-cover: "/images/2022-11-29-1024px-xoconostles_de_tequixquiac.jpeg"
+  rojizo y casi violáceo; se llama xonocostle y aquí te platicamos un poco sobre
+  él
+cover: /images/2022-11-29-1024px-xoconostles_de_tequixquiac.jpeg
 tags: gastronomia frutas productos
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Dice el refrán que "Al nopal, sólo lo van a ver cuando tiene **tunas**", refiriéndose a la gente interesada que sólo nos visita o nos llama cuando quiere sacar algún provecho. Pero, quizá más preciado que la verde y dulce **tuna** es el **xoconostle**, otro fruto del **nopal** de color rojizo y sabor ácido, que lo mismo se consume solo —previamente pelado— que en **guisados** y otros **platillos**. ¿Cuáles son sus **diferencias** entre la **tuna** y el **xoconostle**, y cuáles son sus **usos** y sus **beneficios**?
 

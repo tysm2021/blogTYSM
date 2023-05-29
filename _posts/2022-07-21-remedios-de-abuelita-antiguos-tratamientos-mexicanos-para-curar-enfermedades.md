@@ -2,24 +2,30 @@
 author: Redacción TYSM
 categories: MEXICANISIMOS
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-21-1280px-curandera.jpeg"
+    src: /images/2022-07-21-1280px-curandera.jpeg
 sharing: true
-title: "Remedios de abuelita: antiguos tratamientos mexicanos para curar enfermedades"
-summary:
-  "¿Sabes qué es un chiqueador, una ventosa o una 'jalada de cuero'? Aquí te
-  explicamos los remedios de las abuelitas"
-cover: "/images/2022-07-21-1280px-curandera.jpeg"
+title: 'Remedios de abuelita: antiguos tratamientos mexicanos para curar enfermedades'
+summary: >-
+  ¿Sabes qué es un chiqueador, una ventosa o una 'jalada de cuero'? Aquí te
+  explicamos los remedios de las abuelitas
+cover: /images/2022-07-21-1280px-curandera.jpeg
 tags: folclor tradiciones medicina leyendas
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Si bien desde el siglo XIX en nuestro país la **medicina** y la salud pública han avanzado a pasos agigantados, dando solución a tratamiento a muchas **enfermedades** graves y a pequeños **malestares** comunes, eso no resta a que, en la práctica, en México se sigan aplicando **remedios de abuelita** basados en el **folclor**, la tradición y, a veces, en la **herbolaria** y la **medicina** **alternativa**. Aquí te damos algunos de los **ejemplos** más comunes.
 
