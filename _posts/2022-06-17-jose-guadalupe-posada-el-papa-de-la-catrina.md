@@ -1,6 +1,14 @@
 ---
+title: 'José Guadalupe Posada: el "papá" de la Catrina'
+date: 2022-06-17 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- artes
+- grabado
+- catrina
+- sigloxx
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-06-17-posada.jpg
 sharing: true
-title: 'José Guadalupe Posada: el "papá" de la Catrina'
-summary: >-
-  Este grabador hidrocálido que vivió a principios del siglo XX se especializó
+summary: Este grabador hidrocálido que vivió a principios del siglo XX se especializó
   en la creación de calaveras para burlarse de la alta sociedad
-cover: /images/2022-06-17-posada.jpg
-tags: artes grabado catrina sigloxx
+cover: "/images/2022-06-17-posada.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

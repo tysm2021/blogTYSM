@@ -1,6 +1,13 @@
 ---
+title: La melodiosa historia de los organilleros y su origen en México
+date: 2022-06-30 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- historia
+- origen
+- folclor
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-06-30-organillero.jpeg
 sharing: true
-title: La melodiosa historia de los organilleros y su origen en México
-summary: >-
-  Son un sello musical de algunas ciudades mexicanas y la historia de cómo
+summary: Son un sello musical de algunas ciudades mexicanas y la historia de cómo
   llegaron a nuestro país es interesante
-cover: /images/2022-06-30-organillero.jpeg
-tags: historia origen folclor
+cover: "/images/2022-06-30-organillero.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

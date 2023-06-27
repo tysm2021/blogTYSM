@@ -1,5 +1,14 @@
 ---
-categories: HISTORIA
+title: 'Extranjeros que lucharon por México: historia y biografías'
+date: 2022-04-25 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- extranjeros
+- independencia
+- revolucion
+- prehispanico
 subcategorie: SIGLOXIX
 layout: article
 excerpt_separator: <!--more-->
@@ -11,16 +20,12 @@ article_header:
   image:
     src: /images/2022-04-25-batallonsanpatricio.png
 sharing: true
-title: 'Extranjeros que lucharon por México: historia y biografías'
 author: Francisco Massé
-cover: /images/2022-04-25-batallonsanpatricio.png
-tags: historia extranjeros independencia revolucion prehispanico
+cover: "/images/2022-04-25-batallonsanpatricio.png"
 show_author_profile: false
 comment: false
-summary: >-
-  Nuestra historia no sólo tiene héroes mexicanos: también algunos extranjeros
-  lucharon por nosotros.
-_template: plantilla
+summary: 'Nuestra historia no sólo tiene héroes mexicanos: también algunos extranjeros
+  lucharon por nosotros.'
 ---
 
 

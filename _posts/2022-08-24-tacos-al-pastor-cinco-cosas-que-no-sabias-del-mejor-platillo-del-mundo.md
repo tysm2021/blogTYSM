@@ -1,6 +1,14 @@
 ---
+title: 'Tacos al pastor: cinco cosas que no sabías del "mejor platillo del mundo"'
+date: 2022-08-24 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- tacos
+- antojitos
+- cdmx
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-08-24-tacosalpastor.jpg
 sharing: true
-title: 'Tacos al pastor: cinco cosas que no sabías del "mejor platillo del mundo"'
-summary: >-
-  Conoce unos datos interesantes sobre estos tacos de carne de cerdo adobada y
-  asada al carbón en horno vertical
-cover: /images/2022-08-24-tacosalpastor.jpg
-tags: gastronomia tacos antojitos cdmx
+summary: Conoce unos datos interesantes sobre estos tacos de carne de cerdo adobada
+  y asada al carbón en horno vertical
+cover: "/images/2022-08-24-tacosalpastor.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

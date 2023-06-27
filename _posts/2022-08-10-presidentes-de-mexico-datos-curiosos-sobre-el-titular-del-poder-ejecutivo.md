@@ -1,6 +1,15 @@
 ---
+title: 'Presidentes de México: datos curiosos sobre el titular del Poder Ejecutivo'
+date: 2022-08-10 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- mexico
+- sigloXIX
+- sigloXX
+- personajes
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,13 +20,9 @@ article_header:
   image:
     src: /images/2022-08-10-santaanna.jpg
 sharing: true
-title: 'Presidentes de México: datos curiosos sobre el titular del Poder Ejecutivo'
-summary: >-
-  Primero fueron tlatoanis, después virreyes, y aunque hubo un par de
-  emperadores desde 1824 a México lo gobiernan presidentes: aquí unos datos
-  curiosos… 
-cover: /images/2022-08-10-santaanna.jpg
-tags: historia mexico sigloXIX sigloXX personajes
+summary: 'Primero fueron tlatoanis, después virreyes, y aunque hubo un par de emperadores
+  desde 1824 a México lo gobiernan presidentes: aquí unos datos curiosos… '
+cover: "/images/2022-08-10-santaanna.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

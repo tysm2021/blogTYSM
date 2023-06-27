@@ -1,6 +1,14 @@
----
+  ---
+title: Mexicanos que la armaron en el cine de Hollywood
+date: 2022-07-13 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- cine
+- celebridades
+- mexicanos
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-07-13-1280px-salma_hayek_-14594486099.jpeg
 sharing: true
-title: Mexicanos que la armaron en el cine de Hollywood
-summary: >-
-  Desde hace décadas, varios mexicanos han destacado en la llamada 'Meca del
+summary: Desde hace décadas, varios mexicanos han destacado en la llamada 'Meca del
   Cine", ¿sabes quiénes son?
-cover: /images/2022-07-13-1280px-salma_hayek_-14594486099.jpeg
-tags: mundo cine celebridades mexicanos
+cover: "/images/2022-07-13-1280px-salma_hayek_-14594486099.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

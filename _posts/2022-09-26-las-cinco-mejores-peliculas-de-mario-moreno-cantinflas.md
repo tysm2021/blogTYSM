@@ -1,6 +1,13 @@
 ---
+title: Las cinco mejores películas de Mario Moreno 'Cantinflas'
+date: 2022-09-26 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- cine
+- películas
+- actores
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-09-26-1280px-cantinflas.jpg
 sharing: true
-title: Las cinco mejores películas de Mario Moreno 'Cantinflas'
-summary: >-
-  Casi todos coinciden en que uno de los más grandes cómicos del cine nacional
+summary: Casi todos coinciden en que uno de los más grandes cómicos del cine nacional
   fue 'Cantinflas'; conozcamos algunas de sus mejores películas
-cover: /images/2022-09-26-1280px-cantinflas.jpg
-tags: cine películas actores
+cover: "/images/2022-09-26-1280px-cantinflas.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

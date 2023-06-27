@@ -1,6 +1,12 @@
 ---
+title: "¿Quiénes son los hombres —y las mujeres— más ricos del mundo, según Forbes?"
+date: 2023-01-17 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- celebridades
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,20 +17,12 @@ article_header:
   image:
     src: /images/2023-01-16-dmitry-demidko-ebwzfkaheau-unsplash.jpeg
 sharing: true
-title: '¿Quiénes son los hombres —y las mujeres— más ricos del mundo, según Forbes?'
-summary: >-
-  Como cada año, la revista financiera Forbes publicó su lista de las personas
-  más acaudaladas del planeta: aquí te decimos quiénes están ahí…
-cover: /images/2023-01-16-dmitry-demidko-ebwzfkaheau-unsplash.jpeg
-tags: mundo celebridades
+summary: 'Como cada año, la revista financiera Forbes publicó su lista de las personas
+  más acaudaladas del planeta: aquí te decimos quiénes están ahí…'
+cover: "/images/2023-01-16-dmitry-demidko-ebwzfkaheau-unsplash.jpeg"
 show_author_profile: false
 comment: false
-_template: plantilla
 ---
-
-
-
-
 
 Ahora que el **mundo** empieza a salir de la pandemia de los años pasados y que la **economía** ha sufrido cambios sustanciales —favoreciendo a industrias como los suministros de salud y el comercio electrónico, y castigando a otras como el turismo, la hotelería y los restaurantes—, ¿**quiénes son las personas más ricas del mundo**? La afamada revista _Forbes_, como todos los años, publicó su **lista** de los **hombres** y las **mujeres** más **acaudalados** a finales de **2022**, misma que aquí te compartimos.
 

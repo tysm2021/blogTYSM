@@ -1,4 +1,13 @@
 ---
+title: 'María Felix: diez datos curiosos de su biografía'
+date: 2022-04-21 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- cine
+- mexico
+- farandula
+- popular
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -9,16 +18,12 @@ article_header:
   image:
     src: /images/2022-04-21-maria_felix_1947_-cropped.jpeg
 sharing: true
-title: 'María Felix: diez datos curiosos de su biografía'
 author: Francisco Massé
-cover: /images/2022-04-21-maria_felix_1947_-cropped.jpeg
-categories: MEXICANISIMOS
-tags: cine mexico farandula popular
+cover: "/images/2022-04-21-maria_felix_1947_-cropped.jpeg"
 show_author_profile: false
 comment: false
-summary: >-
-  "La Doña" tuvo una vida apasionada y polémica; aquí conocerás diez datos
-  curiosos para comprobarlo.
+summary: '"La Doña" tuvo una vida apasionada y polémica; aquí conocerás diez datos
+  curiosos para comprobarlo.'
 subcategorie: ASISOMOS
 _template: plantilla
 ---

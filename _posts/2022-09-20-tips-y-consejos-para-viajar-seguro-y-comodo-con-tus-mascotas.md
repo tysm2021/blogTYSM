@@ -1,6 +1,15 @@
 ---
+title: Tips y consejos para viajar seguro y cómodo con tus mascotas
+date: 2022-09-20 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- viajes
+- paseos
+- ciudades
+- pueblos
+- playas
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +20,9 @@ article_header:
   image:
     src: /images/2022-09-20-woman-2711279_1280-1.jpeg
 sharing: true
-title: Tips y consejos para viajar seguro y cómodo con tus mascotas
-summary: >-
-  Por fortuna para los amantes de los animales, ahora existen hoteles
-  pet-friendly y muchas otras posibilidades para viajar con tu mascota…
-cover: /images/2022-09-20-woman-2711279_1280.jpeg
-tags: viajes paseos ciudades pueblos playas
+summary: Por fortuna para los amantes de los animales, ahora existen hoteles pet-friendly
+  y muchas otras posibilidades para viajar con tu mascota…
+cover: "/images/2022-09-20-woman-2711279_1280.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

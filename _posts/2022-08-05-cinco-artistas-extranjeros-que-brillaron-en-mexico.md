@@ -1,6 +1,14 @@
 ---
+title: Cinco artistas extranjeros que brillaron en México
+date: 2022-08-05 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- artes
+- pintura
+- extranjeros
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,13 +19,9 @@ article_header:
   image:
     src: /images/2022-08-05-1280px-sealnationalcollegecharlotsicdf.jpeg
 sharing: true
-title: Cinco artistas extranjeros que brillaron en México
-summary: >-
-  Por su belleza natural y hospitalidad, México ha sido refugio de artistas
-  extranjeros que produjeron sus mejoras obras en nuestro país: conoce a
-  algunos…
-cover: /images/2022-08-05-1280px-sealnationalcollegecharlotsicdf.jpeg
-tags: cultura artes pintura extranjeros
+summary: 'Por su belleza natural y hospitalidad, México ha sido refugio de artistas
+  extranjeros que produjeron sus mejoras obras en nuestro país: conoce a algunos…'
+cover: "/images/2022-08-05-1280px-sealnationalcollegecharlotsicdf.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

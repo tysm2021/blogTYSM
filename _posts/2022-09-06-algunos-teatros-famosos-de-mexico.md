@@ -1,6 +1,14 @@
 ---
+title: Algunos teatros famosos de México
+date: 2022-09-06 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- teatro
+- arquitectura
+- ciudades
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-09-06-1280px-teatro_juarez.jpeg
 sharing: true
-title: Algunos teatros famosos de México
-summary: >-
-  Antes de que hubiera cines, el público mexicano acudía a teatros: conoce
-  algunos de los más bellos y antiguos
-cover: /images/2022-09-06-1280px-teatro_juarez.jpeg
-tags: cultura teatro arquitectura ciudades
+summary: 'Antes de que hubiera cines, el público mexicano acudía a teatros: conoce
+  algunos de los más bellos y antiguos'
+cover: "/images/2022-09-06-1280px-teatro_juarez.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

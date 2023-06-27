@@ -1,6 +1,13 @@
 ---
+title: Huitlacoche, el hongo del maíz que los mexicanos hemos aprendido a disfrutar
+date: 2022-08-24 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- maiz
+- plantas
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-08-24-ustilago_maydis_mexico_150331wa.jpeg
 sharing: true
-title: 'Huitlacoche, el hongo del maíz que los mexicanos hemos aprendido a disfrutar'
-summary: >-
-  Cuando es temporada, este hongo de aspecto negro o grisáceo abunda tanto en
-  los campos como en nuestras cocinas…
-cover: /images/2022-08-24-ustilago_maydis_mexico_150331wa.jpeg
-tags: 'gastronomia maiz plantas '
+summary: Cuando es temporada, este hongo de aspecto negro o grisáceo abunda tanto
+  en los campos como en nuestras cocinas…
+cover: "/images/2022-08-24-ustilago_maydis_mexico_150331wa.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

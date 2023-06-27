@@ -1,6 +1,14 @@
 ---
+title: 'Valle de Bravo: un Pueblo Mágico que vale por dos'
+date: 2022-09-14 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- viajes
+- ciudades
+- pueblos
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-09-14-valle_de_bravo_centro.jpeg
 sharing: true
-title: 'Valle de Bravo: un Pueblo Mágico que vale por dos'
-summary: >-
-  En el Estado de México se encuentra este pintoresco poblado que combina un
+summary: En el Estado de México se encuentra este pintoresco poblado que combina un
   lago y los deportes acuáticos con el aire misterioso de la montaña
-cover: /images/2022-09-14-valle_de_bravo_centro.jpeg
-tags: turismo viajes ciudades pueblos
+cover: "/images/2022-09-14-valle_de_bravo_centro.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

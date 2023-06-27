@@ -1,6 +1,13 @@
 ---
+title: Las cascadas más altas y hermosas de México que puedes conocer
+date: 2022-11-29 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- destinos
+- estados
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-11-29-cascada_de_tamul_vista_aerea.jpeg
 sharing: true
-title: Las cascadas más altas y hermosas de México que puedes conocer
-summary: >-
-  Estas imponentes y enormes caídas naturales de agua se encuentran escondidas a
-  lo largo de nuestro territorio: conozcamos cuáles son las más altas de todas
-cover: /images/2022-11-29-cascada_de_tamul_vista_aerea.jpeg
-tags: turismo destinos estados
+summary: 'Estas imponentes y enormes caídas naturales de agua se encuentran escondidas
+  a lo largo de nuestro territorio: conozcamos cuáles son las más altas de todas'
+cover: "/images/2022-11-29-cascada_de_tamul_vista_aerea.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

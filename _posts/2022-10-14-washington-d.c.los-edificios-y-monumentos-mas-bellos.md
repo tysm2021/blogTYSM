@@ -1,6 +1,14 @@
 ---
+title: 'Washington D.C.: los edificios y monumentos más bellos'
+date: 2022-10-14 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- turismo
+- ciudades
+- EUA
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,13 +19,9 @@ article_header:
   image:
     src: /images/2022-10-14-1280px-us_capitol_west_side.jpeg
 sharing: true
-title: 'Washington D.C.: los edificios y monumentos más bellos'
-summary: >-
-  La capital de los Estados Unidos de América, además de su importancia
-  política, es una ciudad con una gran cantidad de edificios, museos y
-  monumentos
-cover: /images/2022-10-14-1280px-us_capitol_west_side.jpeg
-tags: mundo turismo ciudades EUA
+summary: La capital de los Estados Unidos de América, además de su importancia política,
+  es una ciudad con una gran cantidad de edificios, museos y monumentos
+cover: "/images/2022-10-14-1280px-us_capitol_west_side.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

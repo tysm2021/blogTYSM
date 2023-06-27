@@ -1,6 +1,14 @@
 ---
+title: Ignacio López Rayón, el héroe olvidado de nuestra Independencia
+date: 2022-09-15 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- independencia
+- personajes
+- biografias
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-09-15-1280px_ignaciolopezrayon.jpg
 sharing: true
-title: 'Ignacio López Rayón, el héroe olvidado de nuestra Independencia'
-summary: >-
-  Mucho se habla de Hidalgo, Allende, Morelos, Guerrero, de doña Josefa y Leona
+summary: Mucho se habla de Hidalgo, Allende, Morelos, Guerrero, de doña Josefa y Leona
   Vicario, pero López Rayón parece haber sido olvidado por la historia…
-cover: /images/2022-09-15-1280px_ignaciolopezrayon.jpg
-tags: historia independencia personajes biografias
+cover: "/images/2022-09-15-1280px_ignaciolopezrayon.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

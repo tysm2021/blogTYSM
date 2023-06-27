@@ -1,6 +1,15 @@
 ---
+title: Juan Rulfo, biografía corta del autor de 'Pedro Páramo'
+date: 2022-07-27 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- literatura
+- autores
+- novelas
+- cuentos
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +20,9 @@ article_header:
   image:
     src: /images/2022-07-27-rulfo.jpg
 sharing: true
-title: 'Juan Rulfo, biografía corta del autor de ''Pedro Páramo'''
-summary: >-
-  Este escritor jalisciense es considerado una de las plumas más brillantes en
-  la literatura mexicana del siglo XX.
-cover: /images/2022-07-27-rulfo.jpg
-tags: cultura literatura autores novelas cuentos
+summary: Este escritor jalisciense es considerado una de las plumas más brillantes
+  en la literatura mexicana del siglo XX.
+cover: "/images/2022-07-27-rulfo.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

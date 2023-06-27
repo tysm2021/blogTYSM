@@ -1,6 +1,14 @@
 ---
+title: 'Gerardo Murillo: el Dr. Atl, sus increíbles volcanes y paisajes'
+date: 2022-11-25 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- arte
+- pinturas
+- artistas
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-11-25-1024px_dratl.jpg
 sharing: true
-title: 'Gerardo Murillo: el Dr. Atl, sus increíbles volcanes y paisajes'
-summary: >-
-  Este pintor mexicano sentía una enorme pasión por el fuego y los colores de
-  los volcanes, los cuales retrató de primera mano en muchas ocasiones
-cover: /images/2022-11-25-1024px_dratl.jpg
-tags: cultura arte pinturas artistas
+summary: Este pintor mexicano sentía una enorme pasión por el fuego y los colores
+  de los volcanes, los cuales retrató de primera mano en muchas ocasiones
+cover: "/images/2022-11-25-1024px_dratl.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

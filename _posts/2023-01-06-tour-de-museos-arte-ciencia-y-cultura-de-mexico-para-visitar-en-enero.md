@@ -1,6 +1,13 @@
 ---
+title: 'Tour de museos: arte, ciencia y cultura de México para visitar en enero'
+date: 2023-01-06 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- museos
+- mexico
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2023-01-05-1024px-museo_del_desierto-_saltillo-_coahuila.jpeg
 sharing: true
-title: 'Tour de museos: arte, ciencia y cultura de México para visitar en enero'
-summary: >-
-  ¿Qué tal empezar el año visitando museos? Si te gusta la idea, acá te daremos
-  mes a mes algunas recomendaciones para que empieces tu tour.
-cover: /images/2023-01-05-1024px-museo_del_desierto-_saltillo-_coahuila.jpeg
-tags: cultura museos mexico
+summary: "¿Qué tal empezar el año visitando museos? Si te gusta la idea, acá te daremos
+  mes a mes algunas recomendaciones para que empieces tu tour."
+cover: "/images/2023-01-05-1024px-museo_del_desierto-_saltillo-_coahuila.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

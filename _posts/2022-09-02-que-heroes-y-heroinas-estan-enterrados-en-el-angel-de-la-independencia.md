@@ -1,6 +1,14 @@
 ---
+title: "¿Qué héroes y heroínas están enterrados en el Ángel de la Independencia?"
+date: 2022-09-02 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- sigloXX
+- independencia
+- heroes
+- monumentos
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-09-02-angel_de_la_independencia_after_a_sunny_sunset.jpeg
 sharing: true
-title: ¿Qué héroes y heroínas están enterrados en el Ángel de la Independencia?
-summary: >-
-  ¿Sabías que, además tener la escultura de la Victoria Alada en la punta, el
-  Monumento de la Independencia es también un mausoleo?
-cover: /images/2022-09-02-angel_de_la_independencia_after_a_sunny_sunset.jpeg
-tags: sigloXX independencia heroes monumentos
+summary: "¿Sabías que, además tener la escultura de la Victoria Alada en la punta,
+  el Monumento de la Independencia es también un mausoleo?"
+cover: "/images/2022-09-02-angel_de_la_independencia_after_a_sunny_sunset.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

@@ -1,6 +1,14 @@
 ---
+title: 'Tunas: el mexicanísimo fruto del nopal y sus beneficios a la salud'
+date: 2022-08-08 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- comida
+- frutas
+- nopal
+- beneficios
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-08-08-prickly_pears.jpeg
 sharing: true
-title: 'Tunas: el mexicanísimo fruto del nopal y sus beneficios a la salud'
-summary: >-
-  "Me he de comer esa tuna, aunque me espine la mano", decía la canción, y es
-  que el fruto del nopal tiene buen sabor y muchas propiedades benéficas
-cover: /images/2022-08-08-prickly_pears.jpeg
-tags: comida frutas nopal beneficios
+summary: '"Me he de comer esa tuna, aunque me espine la mano", decía la canción, y
+  es que el fruto del nopal tiene buen sabor y muchas propiedades benéficas'
+cover: "/images/2022-08-08-prickly_pears.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

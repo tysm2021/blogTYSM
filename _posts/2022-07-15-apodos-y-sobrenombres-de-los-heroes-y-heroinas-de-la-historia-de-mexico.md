@@ -1,6 +1,16 @@
 ---
+title: Apodos y títulos de los héroes y heroínas de la historia de México
+date: 2022-07-15 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- personajes
+- independencia
+- revolución
+- sigloXIX
+- siglo
+- XX
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +21,9 @@ article_header:
   image:
     src: /images/2022-07-14-migueldominguez.jpg
 sharing: true
-title: Apodos y títulos de los héroes y heroínas de la historia de México
-summary: >-
-  ¿Por qué a nuestros héroes les pusieron los apodos como "El apóstol de la
+summary: ¿Por qué a nuestros héroes les pusieron los apodos como "El apóstol de la
   democracia", "El quince uñas" y "La Corregidora"?
-cover: /images/2022-07-14-migueldominguez.jpg
-tags: personajes independencia revolución sigloXIX siglo XX
+cover: "/images/2022-07-14-migueldominguez.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

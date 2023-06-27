@@ -41,10 +41,10 @@ default:
 
 sources:
   bootcdn:
-    font_awesome: "https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
-    jquery: "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js   "
-    leancloud_js_sdk: "//cdn.jsdelivr.net/npm/leancloud-storage@3.13.2/dist/av-min.js"
-    chart: "https://cdn.bootcss.com/Chart.js/2.7.2/Chart.bundle.min.js"
+    font_awesome: 'https://pro.fontawesome.com/releases/v5.10.0/css/all.css'
+    jquery: "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"
+    leancloud_js_sdk: '//cdn.jsdelivr.net/npm/leancloud-storage@3.13.2/dist/av-min.js'
+    chart: 'https://cdn.bootcss.com/Chart.js/2.7.2/Chart.bundle.min.js'
     gitalk:
       js: "https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.js"
       css: "https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.css"

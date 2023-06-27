@@ -1,4 +1,12 @@
 ---
+title: '"México lindo y querido": historia de la canción inmortalizada por Jorge Negrete'
+date: 2022-04-22 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- musica
+- canciones
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -9,20 +17,13 @@ article_header:
   image:
     src: /images/2022-04-22-jorgenegrete.jpg
 sharing: true
-title: >-
-  "México lindo y querido": historia de la canción inmortalizada por Jorge
-  Negrete
 author: Francisco Massé
-cover: /images/2022-04-22-jorgenegrete.jpg
-categories: CULTURA
+cover: "/images/2022-04-22-jorgenegrete.jpg"
 subcategorie: MUSICA
-tags: cultura musica canciones
 show_author_profile: false
 comment: false
-summary: >-
-  ¿Conoces el origen de esta canción y la historia que la relaciona con el gran
-  Jorge Negrete?
-_template: plantilla
+summary: "¿Conoces el origen de esta canción y la historia que la relaciona con el
+  gran Jorge Negrete?"
 ---
 
 

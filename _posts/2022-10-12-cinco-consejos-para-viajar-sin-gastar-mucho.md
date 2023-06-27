@@ -1,6 +1,13 @@
 ---
+title: Cinco consejos para viajar sin gastar mucho
+date: 2022-10-12 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- viajes
+- consejos
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,13 +18,9 @@ article_header:
   image:
     src: /images/2022-10-12-edgar-chaparro-7hdi-ekg11i-unsplash.jpeg
 sharing: true
-title: Cinco consejos para viajar sin gastar mucho
-summary: >-
-  A todos, o casi, nos gusta viajar y conocer lugares nuevos; pero como en estos
-  tiempos de crisis puede resultar difícil, aquí unas ideas para no gastar
-  tanto…
-cover: /images/2022-10-12-edgar-chaparro-7hdi-ekg11i-unsplash.jpeg
-tags: turismo viajes consejos
+summary: A todos, o casi, nos gusta viajar y conocer lugares nuevos; pero como en
+  estos tiempos de crisis puede resultar difícil, aquí unas ideas para no gastar tanto…
+cover: "/images/2022-10-12-edgar-chaparro-7hdi-ekg11i-unsplash.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

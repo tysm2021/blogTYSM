@@ -1,6 +1,14 @@
 ---
+title: "¿Cuáles son los países más pequeños del mundo?"
+date: 2022-08-29 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- paises
+- geografia
+- datos
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-08-29-globe-3383088_1280-1.jpeg
 sharing: true
-title: ¿Cuáles son los países más pequeños del mundo?
-summary: >-
-  Bien sabemos que países como Rusia, China o la India son gigantescos; pero, en
-  contraste, ¿cuáles son los más pequeños del planeta?
-cover: /images/2022-08-29-globe-3383088_1280.jpeg
-tags: mundo paises geografia datos
+summary: Bien sabemos que países como Rusia, China o la India son gigantescos; pero,
+  en contraste, ¿cuáles son los más pequeños del planeta?
+cover: "/images/2022-08-29-globe-3383088_1280.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

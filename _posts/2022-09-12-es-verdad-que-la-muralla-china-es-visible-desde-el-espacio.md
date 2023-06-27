@@ -1,6 +1,14 @@
 ---
+title: "¿Es verdad que la Muralla China es visible desde el espacio?"
+date: 2022-09-12 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- paises
+- monumentos
+- datos
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-09-12-the_great_wall_-_by_hao_wei.jpeg
 sharing: true
-title: ¿Es verdad que la Muralla China es visible desde el espacio?
-summary: >-
-  Un rumor muy difundido afirma que la Gran Muralla de China es tan grande que
-  puede ser vista desde el espacio exterior, ¿será cierto esto?
-cover: /images/2022-09-12-the_great_wall_-_by_hao_wei.jpeg
-tags: mundo paises monumentos datos
+summary: Un rumor muy difundido afirma que la Gran Muralla de China es tan grande
+  que puede ser vista desde el espacio exterior, ¿será cierto esto?
+cover: "/images/2022-09-12-the_great_wall_-_by_hao_wei.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

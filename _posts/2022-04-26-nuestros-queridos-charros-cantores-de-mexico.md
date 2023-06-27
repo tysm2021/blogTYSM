@@ -1,5 +1,12 @@
 ---
-categories: MEXICANISIMOS
+title: Nuestros queridos charros cantores de México
+date: 2022-04-26 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- musica
+- cantantes
+- folclor
 subcategorie: NUESTROCINE
 layout: article
 excerpt_separator: <!--more-->
@@ -11,16 +18,12 @@ article_header:
   image:
     src: /images/2022-04-26-charros1.jpg
 sharing: true
-title: Nuestros queridos charros cantores de México
 author: Francisco Massé
-cover: /images/2022-04-26-charros1.jpg
-tags: musica cantantes folclor
+cover: "/images/2022-04-26-charros1.jpg"
 show_author_profile: false
 comment: false
-summary: >-
-  Nada más mexicano que la figura del charro que canta: conoce aquí a los más
-  grandes.
-_template: plantilla
+summary: 'Nada más mexicano que la figura del charro que canta: conoce aquí a los
+  más grandes.'
 ---
 
 

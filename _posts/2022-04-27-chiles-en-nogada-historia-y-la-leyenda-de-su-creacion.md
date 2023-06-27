@@ -1,5 +1,12 @@
 ---
-categories: GASTRONOMIA
+title: 'Chiles en nogada: historia y la leyenda de su creación'
+date: 2022-04-27 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- leyendas
+- chiles
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -10,15 +17,12 @@ article_header:
   image:
     src: /images/2022-04-27-chile_en_nogada_con_granada.jpeg
 sharing: true
-title: 'Chiles en nogada: historia y la leyenda de su creación'
 author: Francisco Massé
-cover: /images/2022-04-27-chile_en_nogada_con_granada.jpeg
-tags: gastronomia leyendas chiles
+cover: "/images/2022-04-27-chile_en_nogada_con_granada.jpeg"
 show_author_profile: false
 comment: false
-summary: >-
-  ¿Es cierto que monjas poblanas inventaron este platillo tricolor en honor a
-  Agustín de Iturbide?
+summary: "¿Es cierto que monjas poblanas inventaron este platillo tricolor en honor
+  a Agustín de Iturbide?"
 subcategorie: NUESTRACOCINA
 _template: plantilla
 ---

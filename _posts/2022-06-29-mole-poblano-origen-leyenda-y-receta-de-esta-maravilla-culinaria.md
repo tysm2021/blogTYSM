@@ -1,6 +1,13 @@
 ---
+title: 'Mole poblano: origen, leyenda y receta de esta maravilla culinaria'
+date: 2022-06-29 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- platillos
+- recetas
+- Puebla
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-06-29-mole-5980185_1280.jpeg
 sharing: true
-title: 'Mole poblano: origen, leyenda y receta de esta maravilla culinaria'
-summary: >-
-  Además de sus numerosos ingredientes y sabores, el mole tiene un origen
-  anclado en la leyenda…
-cover: /images/2022-06-29-mole-5980185_1280.jpeg
-tags: platillos recetas Puebla
+summary: Además de sus numerosos ingredientes y sabores, el mole tiene un origen anclado
+  en la leyenda…
+cover: "/images/2022-06-29-mole-5980185_1280.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

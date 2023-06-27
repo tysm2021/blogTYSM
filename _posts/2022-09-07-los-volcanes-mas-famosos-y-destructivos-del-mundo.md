@@ -1,6 +1,14 @@
 ---
+title: Los volcanes más famosos y destructivos del mundo
+date: 2022-09-07 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- geografia
+- historia
+- curiosidades
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,13 +19,9 @@ article_header:
   image:
     src: /images/2022-09-07-1280px-mt_etna_and_catania1.jpeg
 sharing: true
-title: Los volcanes más famosos y destructivos del mundo
-summary: >-
-  La erupción de un volcán es uno de los fenómenos más violentos de la
-  Naturaleza; aquí te contamos de algunos volcanes famosos en la historia
-  mundial
-cover: /images/2022-09-07-1280px-mt_etna_and_catania1.jpeg
-tags: mundo geografia historia curiosidades
+summary: La erupción de un volcán es uno de los fenómenos más violentos de la Naturaleza;
+  aquí te contamos de algunos volcanes famosos en la historia mundial
+cover: "/images/2022-09-07-1280px-mt_etna_and_catania1.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

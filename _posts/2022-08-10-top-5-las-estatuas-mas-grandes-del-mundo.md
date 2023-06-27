@@ -1,6 +1,15 @@
 ---
+title: 'Top 5: las estatuas más grandes del mundo'
+date: 2022-08-10 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- ciudades
+- paises
+- estatuas
+- top5
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +20,9 @@ article_header:
   image:
     src: /images/2022-08-10-tallest_statue_of_lord_shiva.jpeg
 sharing: true
-title: 'Top 5: las estatuas más grandes del mundo'
-summary: >-
-  Si el Cristo del Cubilete te parece grande, espera a ver estas construcciones
+summary: Si el Cristo del Cubilete te parece grande, espera a ver estas construcciones
   que tienen más de cien metros de altura…
-cover: /images/2022-08-10-tallest_statue_of_lord_shiva.jpeg
-tags: mundo ciudades paises estatuas top5
+cover: "/images/2022-08-10-tallest_statue_of_lord_shiva.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

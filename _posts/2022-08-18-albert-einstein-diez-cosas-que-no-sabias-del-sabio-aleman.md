@@ -1,6 +1,14 @@
 ---
+title: 'Albert Einstein: diez cosas que no sabías del sabio alemán'
+date: 2022-08-18 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- ciencia
+- personajes
+- alemania
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-08-18-einstein_blackboard_exploitable_template.jpeg
 sharing: true
-title: 'Albert Einstein: diez cosas que no sabías del sabio alemán'
-summary: >-
-  Sin duda, es uno de los científicos más admirados y citados en redes sociales:
-  conoce diez datos de su biografía
-cover: /images/2022-08-18-einstein_blackboard_exploitable_template.jpeg
-tags: mundo ciencia personajes alemania
+summary: 'Sin duda, es uno de los científicos más admirados y citados en redes sociales:
+  conoce diez datos de su biografía'
+cover: "/images/2022-08-18-einstein_blackboard_exploitable_template.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

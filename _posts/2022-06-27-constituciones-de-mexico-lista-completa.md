@@ -1,6 +1,13 @@
 ---
+title: 'Constituciones de México: lista completa'
+date: 2022-06-27 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- sigloXX
+- efemerides
+- personajes
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-06-27-carranza.jpeg
 sharing: true
-title: 'Constituciones de México: lista completa'
-summary: >-
-  La Constitución que nos rige se promulgó en 1917; antes de eso, ¿cuántas
+summary: La Constitución que nos rige se promulgó en 1917; antes de eso, ¿cuántas
   versiones previas tuvimos?
-cover: /images/2022-06-27-carranza.jpeg
-tags: sigloXX efemerides personajes
+cover: "/images/2022-06-27-carranza.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

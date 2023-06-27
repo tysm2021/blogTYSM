@@ -1,5 +1,12 @@
 ---
-categories: CULTURA
+title: Tres paseos en globo para hacer en pareja
+date: 2022-05-05 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- turismo
+- paseos
+- viajes
 subcategorie: VIAJES
 layout: article
 excerpt_separator: <!--more-->
@@ -11,10 +18,8 @@ article_header:
   image:
     src: /images/2022-04-27-hot-air-balloon-693452_1280.jpeg
 sharing: true
-title: Tres paseos en globo para hacer en pareja
 author: Francisco Massé
-cover: /images/2022-04-27-hot-air-balloon-693452_1280.jpeg
-tags: turismo paseos viajes
+cover: "/images/2022-04-27-hot-air-balloon-693452_1280.jpeg"
 show_author_profile: false
 comment: false
 summary: ¿Te animas a volar en globo aerostático al lado del amor de tu vida?

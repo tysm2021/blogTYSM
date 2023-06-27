@@ -1,6 +1,14 @@
 ---
+title: La famosa leyenda del Callejón del Beso, en Guanajuato
+date: 2022-09-22 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- folclor
+- leyendas
+- tradiciones
+- guanajuato
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-09-22-1280px-callejon_del_beso-_guanajuato_-32380256143.jpeg
 sharing: true
-title: 'La famosa leyenda del Callejón del Beso, en Guanajuato'
-summary: >-
-  Muchas de las leyendas mexicanas que aún corren de boca en boca provienen de
-  la época de la Colonia. Una de las más famosas es esta…
-cover: /images/2022-09-22-1280px-callejon_del_beso-_guanajuato_-32380256143.jpeg
-tags: folclor leyendas tradiciones guanajuato
+summary: Muchas de las leyendas mexicanas que aún corren de boca en boca provienen
+  de la época de la Colonia. Una de las más famosas es esta…
+cover: "/images/2022-09-22-1280px-callejon_del_beso-_guanajuato_-32380256143.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

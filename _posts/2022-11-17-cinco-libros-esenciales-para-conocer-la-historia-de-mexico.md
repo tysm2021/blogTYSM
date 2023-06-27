@@ -1,6 +1,13 @@
 ---
+title: Cinco libros esenciales para conocer la historia de México
+date: 2022-11-17 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- mexico
+- libros
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,13 +18,9 @@ article_header:
   image:
     src: /images/2022-11-17-cristina-gottardi-bj7pt0zmbok-unsplash.jpeg
 sharing: true
-title: Cinco libros esenciales para conocer la historia de México
-summary: >-
-  Desde los tiempos prehispánicos hasta el siglo XXI, la historia de México es
-  como una aventura que vale la pena conocer leyendo alguna de estas
-  recomendaciones…
-cover: /images/2022-11-17-cristina-gottardi-bj7pt0zmbok-unsplash.jpeg
-tags: historia mexico libros
+summary: Desde los tiempos prehispánicos hasta el siglo XXI, la historia de México
+  es como una aventura que vale la pena conocer leyendo alguna de estas recomendaciones…
+cover: "/images/2022-11-17-cristina-gottardi-bj7pt0zmbok-unsplash.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

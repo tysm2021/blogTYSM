@@ -1,6 +1,14 @@
 ---
+title: Frases, dichos y refranes mexicanos acerca de la comida
+date: 2022-09-07 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- folclor
+- lenguaje
+- frases
+- comida
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-09-07-bodegon_-_tomas_yepes-_1668.jpeg
 sharing: true
-title: 'Frases, dichos y refranes mexicanos acerca de la comida'
-summary: >-
-  La comida es tan importante en la cultura mexicana que se refleja en la
-  cantidad de expresiones populares acerca de ella: aquí algunas de ellas
-cover: /images/2022-09-07-bodegon_-_tomas_yepes-_1668.jpeg
-tags: folclor lenguaje frases comida
+summary: 'La comida es tan importante en la cultura mexicana que se refleja en la
+  cantidad de expresiones populares acerca de ella: aquí algunas de ellas'
+cover: "/images/2022-09-07-bodegon_-_tomas_yepes-_1668.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

@@ -1,6 +1,14 @@
 ---
+title: 'La Quebrada: los clavados más emblemáticos de Acapulco'
+date: 2022-08-09 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- playas
+- lugares
+- ciudades
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-04-26-majahuitas_pinterest.jpeg
 sharing: true
-title: 'La Quebrada: los clavados más emblemáticos de Acapulco'
-summary: >-
-  Desde hace décadas, es tradición en Acapulco ir a ver a los temerarios
-  clavadistas de la Quebrada: conoce su historia
-cover: /images/2022-08-09-la_quebrada_acapulco-gro.jpeg
-tags: turismo playas lugares ciudades
+summary: 'Desde hace décadas, es tradición en Acapulco ir a ver a los temerarios clavadistas
+  de la Quebrada: conoce su historia'
+cover: "/images/2022-08-09-la_quebrada_acapulco-gro.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

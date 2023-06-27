@@ -1,6 +1,14 @@
 ---
+title: La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?
+date: 2022-06-30 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- siglo
+- XIX
+- biografias
+- intervencion
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-06-30-ninosheroes.jpeg
 sharing: true
-title: 'La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?'
-summary: >-
-  Algunos historiadores afirman que lo que se nos cuenta sobre los Niños Héroes
+summary: Algunos historiadores afirman que lo que se nos cuenta sobre los Niños Héroes
   está plagado de mentiras…
-cover: /images/2022-06-30-ninosheroes.jpeg
-tags: siglo XIX biografias intervencion
+cover: "/images/2022-06-30-ninosheroes.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

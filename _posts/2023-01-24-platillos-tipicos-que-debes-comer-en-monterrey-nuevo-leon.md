@@ -1,6 +1,14 @@
 ---
+title: Platillos típicos que debes comer en Monterrey, Nuevo León
+date: 2023-01-24 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- platillos
+- productos
+- monterrey
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,20 +19,12 @@ article_header:
   image:
     src: /images/2023-01-24-1024px-cabrito_con_tamales.jpeg
 sharing: true
-title: 'Platillos típicos que debes comer en Monterrey, Nuevo León'
-summary: >-
-  Cuando uno visita la Sultana del Norte, hay algunas joyas de la gastronomía
+summary: Cuando uno visita la Sultana del Norte, hay algunas joyas de la gastronomía
   neoleonesa que no hay que perderse…
-cover: /images/2023-01-24-1024px-cabrito_con_tamales.jpeg
-tags: gastronomia platillos productos monterrey
+cover: "/images/2023-01-24-1024px-cabrito_con_tamales.jpeg"
 show_author_profile: false
 comment: false
-_template: plantilla
 ---
-
-
-
-
 
 La pujante e industriosa ciudad de Monterrey, Nuevo León, se distingue por algunos rasgos característicos: lo trabajadora, franca y emprendedora que es su gente; el emblemático Cerro de la Silla y, desde luego, la gastronomía típica de la Sultana del Norte, que entre Glorias, carnes y cabritos, tiene mucho que ofrecer a los paladares de los turistas mexicanos y extranjeros.
 

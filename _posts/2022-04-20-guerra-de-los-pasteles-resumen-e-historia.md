@@ -1,4 +1,13 @@
 ---
+title: 'Guerra de los Pasteles: resumen e historia de la Primera Intervención Francesa'
+date: 2022-04-20 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- méxico
+- guerra
+- francia
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -9,18 +18,13 @@ article_header:
   image:
     src: /images/2022-04-20-episode_de_l-expedition_du_mexique_en_1838.jpeg
 sharing: true
-title: 'Guerra de los Pasteles: resumen e historia de la Primera Intervención Francesa'
 author: Francisco Massé
-cover: /images/2022-04-20-episode_de_l-expedition_du_mexique_en_1838.jpeg
-categories: HISTORIA
+cover: "/images/2022-04-20-episode_de_l-expedition_du_mexique_en_1838.jpeg"
 subcategorie: SIGLOXIX
-tags: historia méxico guerra francia
 show_author_profile: false
 comment: false
-summary: >-
-  No, no se agarraron a pastelazos: fue un episodio bélico entre Francia y
-  México, por una deuda con un pastelero…
-_template: plantilla
+summary: 'No, no se agarraron a pastelazos: fue un episodio bélico entre Francia y
+  México, por una deuda con un pastelero…'
 ---
 
 

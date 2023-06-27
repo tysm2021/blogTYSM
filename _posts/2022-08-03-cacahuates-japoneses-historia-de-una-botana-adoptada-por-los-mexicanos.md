@@ -1,6 +1,13 @@
 ---
+title: 'Cacahuates japoneses: historia de una botana adoptada por los mexicanos'
+date: 2022-08-03 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- comida
+- botanas
+- recetas
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-08-03-cacahuates_japoneses.jpeg
 sharing: true
-title: 'Cacahuates japoneses: historia de una botana adoptada por los mexicanos'
-summary: >-
-  Están en cualquier tiendita, en puestos callejeros y como botana en las
-  cantinas: conoce las historia de los cacahuates japoneses 
-cover: /images/2022-08-03-cacahuates_japoneses.jpeg
-tags: comida botanas recetas
+summary: 'Están en cualquier tiendita, en puestos callejeros y como botana en las
+  cantinas: conoce las historia de los cacahuates japoneses '
+cover: "/images/2022-08-03-cacahuates_japoneses.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

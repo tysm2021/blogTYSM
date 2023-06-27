@@ -1,6 +1,13 @@
 ---
+title: 'Benito Juárez, ¿por qué dijo: “el respeto al derecho ajeno es la paz”?'
+date: 2022-12-01 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- sigloXIX
+- personajes
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,13 +18,9 @@ article_header:
   image:
     src: /images/2022-12-01-1024px_juarez.jpg
 sharing: true
-title: 'Benito Juárez, ¿por qué dijo: “el respeto al derecho ajeno es la paz”?'
-summary: >-
-  El presidente mexicano era famoso por sus cartas y por sus frases
-  contundentes, como ésta que es una de las más famosas, ¿cuándo y por qué la
-  dijo?
-cover: /images/2022-12-01-1024px_juarez.jpg
-tags: historia sigloXIX personajes
+summary: El presidente mexicano era famoso por sus cartas y por sus frases contundentes,
+  como ésta que es una de las más famosas, ¿cuándo y por qué la dijo?
+cover: "/images/2022-12-01-1024px_juarez.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

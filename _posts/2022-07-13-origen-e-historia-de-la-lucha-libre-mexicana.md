@@ -1,6 +1,13 @@
 ---
+title: 'Máscara contra cabellera: origen e historia de la lucha libre mexicana'
+date: 2022-07-13 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- deportes
+- folclor
+- cultura
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-07-13-mexican-1224725_1280.jpeg
 sharing: true
-title: 'Máscara contra cabellera: origen e historia de la lucha libre mexicana'
-summary: >-
-  Los rudos, los técnicos y todo el folclor de la lucha libre tuvieron un
-  inicio, ¿lo conoces?
-cover: /images/2022-07-13-mexican-1224725_1280.jpeg
-tags: deportes folclor cultura
+summary: Los rudos, los técnicos y todo el folclor de la lucha libre tuvieron un inicio,
+  ¿lo conoces?
+cover: "/images/2022-07-13-mexican-1224725_1280.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

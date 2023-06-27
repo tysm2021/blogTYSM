@@ -1,6 +1,14 @@
 ---
+title: 'Alebrijes: la historia de estas fantásticas criaturas'
+date: 2022-11-22 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- artesania
+- folclor
+- cdmx
+- oaxaca
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-11-22-alebrije_iluminado_en_fnsm.jpeg
 sharing: true
-title: 'Alebrijes: la historia de estas fantásticas criaturas'
-summary: >-
-  Son un poco animales y un poco alucinaciones: conoce el origen de los
-  increíbles alebrijes y los estados que se disputan su creación…
-cover: /images/2022-11-22-alebrije_iluminado_en_fnsm.jpeg
-tags: artesania folclor cdmx oaxaca
+summary: 'Son un poco animales y un poco alucinaciones: conoce el origen de los increíbles
+  alebrijes y los estados que se disputan su creación…'
+cover: "/images/2022-11-22-alebrije_iluminado_en_fnsm.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

@@ -1,6 +1,14 @@
 ---
+title: 'Rosca de Reyes: origen, historia y simbolismo'
+date: 2023-01-05 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- platillos
+- tradiciones
+- folclor
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,13 +19,9 @@ article_header:
   image:
     src: /images/2023-01-05-1024px-rosca_de_reyes_mexico_02.jpeg
 sharing: true
-title: 'Rosca de Reyes: origen, historia y simbolismo'
-summary: >-
-  El final de las fiestas de fin e inicio de año lo marca el momento de la
-  "partida" de la Rosca de Reyes. Revisemos el origen y el significado de sus
-  partes.
-cover: /images/2023-01-05-1024px-rosca_de_reyes_mexico_02.jpeg
-tags: gastronomia platillos tradiciones folclor
+summary: El final de las fiestas de fin e inicio de año lo marca el momento de la
+  "partida" de la Rosca de Reyes. Revisemos el origen y el significado de sus partes.
+cover: "/images/2023-01-05-1024px-rosca_de_reyes_mexico_02.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

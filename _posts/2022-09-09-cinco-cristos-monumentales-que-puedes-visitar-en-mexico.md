@@ -1,6 +1,14 @@
 ---
+title: Cinco Cristos monumentales que puedes visitar en México
+date: 2022-09-09 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- lugares
+- ciudades
+- religion
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-09-09-cristo_rey-_guanajuato.jpeg
 sharing: true
-title: Cinco Cristos monumentales que puedes visitar en México
-summary: >-
-  Siendo el nuestro un país mayormente católico, no es de extrañar que abunden
-  las figuras de Cristos monumentales: conozcamos algunos
-cover: /images/2022-09-09-cristo_rey-_guanajuato.jpeg
-tags: turismo lugares ciudades religion
+summary: 'Siendo el nuestro un país mayormente católico, no es de extrañar que abunden
+  las figuras de Cristos monumentales: conozcamos algunos'
+cover: "/images/2022-09-09-cristo_rey-_guanajuato.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

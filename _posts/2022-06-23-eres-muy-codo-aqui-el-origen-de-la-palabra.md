@@ -1,6 +1,12 @@
 ---
+title: "¿Eres muy codo? Aquí el origen de la palabra"
+date: 2022-06-23 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- lenguaje
+- folclor
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +17,9 @@ article_header:
   image:
     src: /images/2022-06-23-coins-912719_1280.jpeg
 sharing: true
-title: ¿Eres muy codo? Aquí el origen de la palabra
-summary: >-
-  Cuando alguien es tacaño o avaro, se dice que "es muy codo", ¿conoces el
+summary: Cuando alguien es tacaño o avaro, se dice que "es muy codo", ¿conoces el
   origen de la palabra?
-cover: /images/2022-06-23-coins-912719_1280.jpeg
-tags: lenguaje folclor
+cover: "/images/2022-06-23-coins-912719_1280.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

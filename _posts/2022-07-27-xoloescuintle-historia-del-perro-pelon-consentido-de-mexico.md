@@ -1,6 +1,14 @@
 ---
+title: 'Xoloescuintle: historia del "perro pelón" consentido de México'
+date: 2022-07-27 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- animales
+- fauna
+- folclor
+- prehispanico
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-07-27-xoloitzquintleperou_-1-_01.jpeg
 sharing: true
-title: 'Xoloescuintle: historia del "perro pelón" consentido de México'
-summary: >-
-  Los antiguos creían que un xolo, como se les dice de cariño, los acompañaría
+summary: Los antiguos creían que un xolo, como se les dice de cariño, los acompañaría
   en su camino al Más Allá
-cover: /images/2022-07-27-xoloitzquintleperou_-1-_01.jpeg
-tags: animales fauna folclor prehispanico
+cover: "/images/2022-07-27-xoloitzquintleperou_-1-_01.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

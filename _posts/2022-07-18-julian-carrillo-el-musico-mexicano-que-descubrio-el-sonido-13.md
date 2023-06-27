@@ -1,6 +1,13 @@
 ---
+title: Julián Carrillo, el músico mexicano que descubrió el "sonido 13"
+date: 2022-07-18 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- musica
+- personajes
+- biografias
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-07-18-juliancarrillo.jpg
 sharing: true
-title: 'Julián Carrillo, el músico mexicano que descubrió el "sonido 13"'
-summary: >-
-  Este músico mexicano es conocido en todo el mundo por descubrir o crear el
+summary: Este músico mexicano es conocido en todo el mundo por descubrir o crear el
   llamado "sonido 13", ¿sabes qué es y por qué es importante?
-cover: /images/2022-07-18-juliancarrillo.jpg
-tags: musica personajes biografias
+cover: "/images/2022-07-18-juliancarrillo.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

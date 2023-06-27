@@ -1,6 +1,13 @@
 ---
+title: '17 de julio de 1928: asesinato de Álvaro Obregón'
+date: 2022-11-24 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- revolucion
+- personajes
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-11-24-1024px-alvaro_obregon_salido.jpeg
 sharing: true
-title: '17 de julio de 1928: asesinato de Álvaro Obregón'
-summary: >-
-  Para muchos, este magnicidio cometido en el restaurante La Bombilla de la
+summary: Para muchos, este magnicidio cometido en el restaurante La Bombilla de la
   Ciudad de México marca el fin de la Revolución Mexicana…
-cover: /images/2022-11-24-1024px-alvaro_obregon_salido.jpeg
-tags: historia revolucion personajes
+cover: "/images/2022-11-24-1024px-alvaro_obregon_salido.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

@@ -1,6 +1,13 @@
 ---
+title: 'Quesos de México: delicias sólidas hechas con leche'
+date: 2022-09-09 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- platillos
+- productos
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-09-08-01_queso_mexicano_oaxaca.jpeg
 sharing: true
-title: 'Quesos de México: delicias sólidas hechas con leche'
-summary: >-
-  Herederos de una tradición traída de España y perfeccionada en el Porfiriato,
+summary: Herederos de una tradición traída de España y perfeccionada en el Porfiriato,
   los queseros mexicanos producen estas auténticas delicias…
-cover: /images/2022-09-08-01_queso_mexicano_oaxaca.jpeg
-tags: gastronomia platillos productos
+cover: "/images/2022-09-08-01_queso_mexicano_oaxaca.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

@@ -1,6 +1,13 @@
 ---
+title: Sayulita y otras hermosas playas de la Riviera Nayarit
+date: 2022-12-05 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- playas
+- vacaciones
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-12-02-beach_at_sayulita_-17268510126.jpeg
 sharing: true
-title: Sayulita y otras hermosas playas de la Riviera Nayarit
-summary: >-
-  En la costa del estado de Nayarit, muy cerca de Puerto Vallarta y de la
-  frontera con Jalisco, estas playas están ganando fama por su belleza…
-cover: /images/2022-12-02-beach_at_sayulita_-17268510126.jpeg
-tags: turismo playas vacaciones
+summary: En la costa del estado de Nayarit, muy cerca de Puerto Vallarta y de la frontera
+  con Jalisco, estas playas están ganando fama por su belleza…
+cover: "/images/2022-12-02-beach_at_sayulita_-17268510126.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

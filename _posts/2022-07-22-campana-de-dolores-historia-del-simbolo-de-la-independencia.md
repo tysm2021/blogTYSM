@@ -1,6 +1,13 @@
 ---
+title: 'Campana de Dolores: historia del símbolo de la Independencia'
+date: 2022-07-22 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- historia
+- independencia
+- tradiciones
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-07-22-campanadolores.jpg
 sharing: true
-title: 'Campana de Dolores: historia del símbolo de la Independencia'
-summary: >-
-  Los días 15 de septiembre, el Presidente hace sonar la misma campana que en
-  1810 tocó el cura Hidalgo: conoce su historia.
-cover: /images/2022-07-22-campanadolores.jpg
-tags: historia independencia tradiciones
+summary: 'Los días 15 de septiembre, el Presidente hace sonar la misma campana que
+  en 1810 tocó el cura Hidalgo: conoce su historia.'
+cover: "/images/2022-07-22-campanadolores.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

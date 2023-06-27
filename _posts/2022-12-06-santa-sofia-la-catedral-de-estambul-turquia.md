@@ -1,6 +1,14 @@
 ---
+title: 'Santa Sofía: la Catedral y mezquita de Estambul, Turquía'
+date: 2022-12-06 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- países
+- asia
+- europa
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -12,12 +20,9 @@ article_header:
   image:
     src: /images/2022-12-06-ayasofya_camisi.jpeg
 sharing: true
-title: 'Santa Sofía: la Catedral y mezquita de Estambul, Turquía'
-summary: >-
-  Justo en la frontera entre Occidente y Oriente, en lo que era Constantinopla,
+summary: Justo en la frontera entre Occidente y Oriente, en lo que era Constantinopla,
   se erige esta espléndida construcción que divide el mundo cristiano del árabe…
-cover: /images/2022-12-06-ayasofya_camisi.jpeg
-tags: mundo países asia europa
+cover: "/images/2022-12-06-ayasofya_camisi.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

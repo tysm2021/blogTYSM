@@ -1,6 +1,13 @@
 ---
+title: 'Tlatoanis: lista completa de los emperadores mexicas'
+date: 2022-06-08 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- arqueologia
+- prehispánico
+- mexicas
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -12,13 +19,9 @@ article_header:
     src: >-
       /images/2022-06-08-coronacion_del_rey_de_tescoco_y_destierro_del_otro_a_influencia_de_cortes-_en_la_tabla_13_de_la_conquista_de_mexico-_juan_gonzalez_-_miguel_gonzalez.png
 sharing: true
-title: 'Tlatoanis: lista completa de los emperadores mexicas'
-summary: >-
-  Los mexicas —mal llamados "aztecas"— llamaban a su gobernante tlatoani o Huey
-  tlatoani; aquí está la lista de todos ellos.
-cover: >-
-  /images/2022-06-08-coronacion_del_rey_de_tescoco_y_destierro_del_otro_a_influencia_de_cortes-_en_la_tabla_13_de_la_conquista_de_mexico-_juan_gonzalez_-_miguel_gonzalez.png
-tags: 'arqueologia prehispánico mexicas '
+summary: Los mexicas —mal llamados "aztecas"— llamaban a su gobernante tlatoani o
+  Huey tlatoani; aquí está la lista de todos ellos.
+cover: "/images/2022-06-08-coronacion_del_rey_de_tescoco_y_destierro_del_otro_a_influencia_de_cortes-_en_la_tabla_13_de_la_conquista_de_mexico-_juan_gonzalez_-_miguel_gonzalez.png"
 show_author_profile: false
 comment: false
 _template: plantilla

@@ -1,6 +1,15 @@
 ---
+title: 'Pozole verde o estilo Guerrero: una deliciosa variante de nuestro platillo
+  favorito'
+date: 2022-07-15 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- cocina
+- platillos
+- recetas
+- antojitos
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,14 +20,9 @@ article_header:
   image:
     src: /images/2022-07-15-pozoleverde1.jpg
 sharing: true
-title: >-
-  Pozole verde o estilo Guerrero: una deliciosa variante de nuestro platillo
-  favorito
-summary: >-
-  A diferencia de otros estados, en Guerrero se prepara un pozole verde que vale
-  la pena probar, ¿lo conoces?
-cover: /images/2022-07-15-pozoleverde1.jpg
-tags: cocina platillos recetas antojitos
+summary: A diferencia de otros estados, en Guerrero se prepara un pozole verde que
+  vale la pena probar, ¿lo conoces?
+cover: "/images/2022-07-15-pozoleverde1.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

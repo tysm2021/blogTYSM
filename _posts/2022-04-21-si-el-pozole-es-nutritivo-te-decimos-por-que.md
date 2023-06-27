@@ -1,4 +1,12 @@
 ---
+title: 'Sí, el pozole es nutritivo: te decimos por qué'
+date: 2022-04-21 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- pozole
+- comida
+- nutricion
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -9,18 +17,13 @@ article_header:
   image:
     src: /images/2022-04-21-pozole_rojo.jpeg
 sharing: true
-title: 'Sí, el pozole es nutritivo: te decimos por qué'
 author: Francisco Massé
-cover: /images/2022-04-21-pozole_rojo.jpeg
-categories: GASTRONOMIA
+cover: "/images/2022-04-21-pozole_rojo.jpeg"
 subcategorie: NUESTRACOCINA
-tags: pozole comida nutricion
 show_author_profile: false
 comment: false
-summary: >-
-  A pesar de lo que crees, el pozole es un alimento balanceado y nutritivo: te
-  decimos las razones.
-_template: plantilla
+summary: 'A pesar de lo que crees, el pozole es un alimento balanceado y nutritivo:
+  te decimos las razones.'
 ---
 
 

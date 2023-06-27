@@ -1,6 +1,14 @@
 ---
+title: 'Palacio de Bellas Artes: teatro, museo y emblema de la cultura mexicana'
+date: 2022-08-04 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- arquitectura
+- edificios
+- artes
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -12,12 +20,9 @@ article_header:
     src: >-
       /images/2022-08-04-palacio_de_bellas_artes_-_ciudad_de_mexico_-_nocturna.jpeg
 sharing: true
-title: 'Palacio de Bellas Artes: teatro, museo y emblema de la cultura mexicana'
-summary: >-
-  En pleno Centro Histórico de la CdMx se alza uno de los edificios artísticos
-  más emblemáticos del país: conoce su historia…
-cover: /images/2022-08-04-palacio_de_bellas_artes_-_ciudad_de_mexico_-_nocturna.jpeg
-tags: cultura arquitectura edificios artes
+summary: 'En pleno Centro Histórico de la CdMx se alza uno de los edificios artísticos
+  más emblemáticos del país: conoce su historia…'
+cover: "/images/2022-08-04-palacio_de_bellas_artes_-_ciudad_de_mexico_-_nocturna.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

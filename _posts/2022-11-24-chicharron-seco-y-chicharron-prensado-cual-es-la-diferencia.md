@@ -1,6 +1,13 @@
 ---
+title: Chicharrón seco y chicharrón prensado, ¿cuál es la diferencia?
+date: 2022-11-24 00:00:00 Z
+categories:
+- GASTRONOMIA
+tags:
+- gastronomia
+- platillos
+- productos
 author: Redacción TYSM
-categories: GASTRONOMIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-11-24-chicharron_fried_pork_rinds.jpeg
 sharing: true
-title: 'Chicharrón seco y chicharrón prensado, ¿cuál es la diferencia?'
-summary: >-
-  Los amantes del chicharrón de cerdo disfrutan por igual de la versión seca que
-  del prensado; pero, ¿cómo se preparan el uno y el otro?
-cover: /images/2022-11-24-chicharron_fried_pork_rinds.jpeg
-tags: gastronomia platillos productos
+summary: Los amantes del chicharrón de cerdo disfrutan por igual de la versión seca
+  que del prensado; pero, ¿cómo se preparan el uno y el otro?
+cover: "/images/2022-11-24-chicharron_fried_pork_rinds.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

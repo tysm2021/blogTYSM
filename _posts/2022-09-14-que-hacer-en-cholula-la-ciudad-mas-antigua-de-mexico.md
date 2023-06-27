@@ -1,6 +1,14 @@
 ---
+title: Qué hacer en Cholula, la ciudad más antigua de México
+date: 2022-09-14 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- viajes
+- ciudades
+- pueblos
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -12,13 +20,9 @@ article_header:
     src: >-
       /images/2022-09-14-1280px-view_over_cholula_from_summit_of_great_pyramid_-_cholula_-_puebla_-_mexico_-14924947814.jpeg
 sharing: true
-title: 'Qué hacer en Cholula, la ciudad más antigua de México'
-summary: >-
-  A unos kilómetros de Puebla se encuentra Cholula, una ciudad fundada incluso
+summary: A unos kilómetros de Puebla se encuentra Cholula, una ciudad fundada incluso
   antes que México-Tenochtitlan y que es un deleite para el turista
-cover: >-
-  /images/2022-09-14-1280px-view_over_cholula_from_summit_of_great_pyramid_-_cholula_-_puebla_-_mexico_-14924947814.jpeg
-tags: turismo viajes ciudades pueblos
+cover: "/images/2022-09-14-1280px-view_over_cholula_from_summit_of_great_pyramid_-_cholula_-_puebla_-_mexico_-14924947814.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

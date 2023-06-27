@@ -1,6 +1,15 @@
 ---
+title: 'Estatua de la Libertad: historia del ícono de Nueva York y de los Estados
+  Unidos'
+date: 2022-08-04 00:00:00 Z
+categories:
+- MUNDO
+tags:
+- mundo
+- EUA
+- monumentos
+- turismo
 author: Redacción TYSM
-categories: MUNDO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,14 +20,9 @@ article_header:
   image:
     src: /images/2022-08-04-1280px-statue_of_liberty-_ny.jpeg
 sharing: true
-title: >-
-  Estatua de la Libertad: historia del ícono de Nueva York y de los Estados
-  Unidos
-summary: >-
-  Es uno de los símbolos más reconocibles del país vecino y una de las estatuas
+summary: Es uno de los símbolos más reconocibles del país vecino y una de las estatuas
   más famosas del mundo, ¿conoces su historia?
-cover: /images/2022-08-04-1280px-statue_of_liberty-_ny.jpeg
-tags: mundo EUA monumentos turismo
+cover: "/images/2022-08-04-1280px-statue_of_liberty-_ny.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

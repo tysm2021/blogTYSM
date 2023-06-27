@@ -1,6 +1,15 @@
 ---
+title: 'San Miguel de Allende: qué hacer en sus atractivos turísticos'
+date: 2022-08-16 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- ciudades
+- pueblos
+- guanajuato
+- destinos
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +20,9 @@ article_header:
   image:
     src: /images/2022-08-16-san_miguel_de_allende_sky.jpeg
 sharing: true
-title: 'San Miguel de Allende: qué hacer en sus atractivos turísticos'
-summary: >-
-  Esta ciudad guanajuantense tiene fama de ser una de las mejores para vivir en
-  México: conoce qué hacer y sus principales destinos
-cover: /images/2022-08-16-san_miguel_de_allende_sky.jpeg
-tags: turismo ciudades pueblos guanajuato destinos
+summary: 'Esta ciudad guanajuantense tiene fama de ser una de las mejores para vivir
+  en México: conoce qué hacer y sus principales destinos'
+cover: "/images/2022-08-16-san_miguel_de_allende_sky.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

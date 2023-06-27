@@ -1,6 +1,13 @@
 ---
+title: Juventino Rosas y la historia de su vals "Sobre las olas"
+date: 2022-11-10 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- musica
+- musicos
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,13 +18,9 @@ article_header:
   image:
     src: /images/2022-11-10-1024px_juventinorosas.jpg
 sharing: true
-title: Juventino Rosas y la historia de su vals "Sobre las olas"
-summary: >-
-  El México de finales del siglo XIX sucumbió ante el encanto de los valses
-  vieneses, pero aquí también se dieron grandes piezas y grandes músicos como
-  éstos…
-cover: /images/2022-11-10-1024px_juventinorosas.jpg
-tags: 'cultura musica musicos '
+summary: El México de finales del siglo XIX sucumbió ante el encanto de los valses
+  vieneses, pero aquí también se dieron grandes piezas y grandes músicos como éstos…
+cover: "/images/2022-11-10-1024px_juventinorosas.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

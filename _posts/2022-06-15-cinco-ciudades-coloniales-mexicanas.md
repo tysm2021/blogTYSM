@@ -1,6 +1,13 @@
 ---
+title: Cinco ciudades coloniales mexicanas y sus principales atractivos
+date: 2022-06-15 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- ciudades
+- virreinato
+- paseos
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-06-14-1280px-guanajuato-_guanajuato_-23784476462.jpeg
 sharing: true
-title: Cinco ciudades coloniales mexicanas y sus principales atractivos
-summary: >-
-  Estas ciudades fueron fundadas en tiempos de la Colonia, entre los siglos XVI
-  y XVIII
-cover: /images/2022-06-14-1280px-guanajuato-_guanajuato_-23784476462.jpeg
-tags: ciudades virreinato paseos
+summary: Estas ciudades fueron fundadas en tiempos de la Colonia, entre los siglos
+  XVI y XVIII
+cover: "/images/2022-06-14-1280px-guanajuato-_guanajuato_-23784476462.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

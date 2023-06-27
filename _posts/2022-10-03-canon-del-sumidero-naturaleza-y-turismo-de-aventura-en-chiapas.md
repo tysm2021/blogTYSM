@@ -1,6 +1,14 @@
 ---
+title: 'Cañón del Sumidero: naturaleza y turismo de aventura en Chiapas'
+date: 2022-10-03 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- turismo
+- viajes
+- ecoturismo
+- chiapas
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-10-03-sumidero_canyon-_chiapas.jpeg
 sharing: true
-title: 'Cañón del Sumidero: naturaleza y turismo de aventura en Chiapas'
-summary: >-
-  Una de las maravillas naturales del estado de Chiapas es este espectacular
+summary: Una de las maravillas naturales del estado de Chiapas es este espectacular
   cañón formado por el cauce del río Grijalva, con 250 metros de profundidad
-cover: /images/2022-10-03-sumidero_canyon-_chiapas.jpeg
-tags: turismo viajes ecoturismo chiapas
+cover: "/images/2022-10-03-sumidero_canyon-_chiapas.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

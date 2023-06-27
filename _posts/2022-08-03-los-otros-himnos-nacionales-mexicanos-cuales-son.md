@@ -1,6 +1,14 @@
 ---
+title: Los "otros" Himnos Nacionales Mexicanos, ¿cuáles son?
+date: 2022-08-03 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- folclor
+- méxico
+- musica
+- canciones
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-08-03-1280px-mexico_flag_bandera_de_mexico_-esparta.jpeg
 sharing: true
-title: 'Los "otros" Himnos Nacionales Mexicanos, ¿cuáles son?'
-summary: >-
-  Todos conocemos el Himno Nacional escrito por González Bocanegra, pero estas
+summary: Todos conocemos el Himno Nacional escrito por González Bocanegra, pero estas
   composiciones le sacan lo patriótico a cualquier mexicano…
-cover: /images/2022-08-03-1280px-mexico_flag_bandera_de_mexico_-esparta.jpeg
-tags: folclor méxico musica canciones
+cover: "/images/2022-08-03-1280px-mexico_flag_bandera_de_mexico_-esparta.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

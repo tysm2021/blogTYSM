@@ -1,6 +1,13 @@
 ---
+title: 'Prismas Basálticos: maravilla natural en el estado de Hidalgo'
+date: 2022-08-19 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- hidalgo
+- lugares
+- pueblos
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-08-19-1280px-los_prismas_basalticos.jpeg
 sharing: true
-title: 'Prismas Basálticos: maravilla natural en el estado de Hidalgo'
-summary: >-
-  Por sus angulosas formas geométricas, estos prismas sorprenden a los turistas;
+summary: Por sus angulosas formas geométricas, estos prismas sorprenden a los turistas;
   ¿dónde están y cómo surgieron?
-cover: /images/2022-08-19-1280px-los_prismas_basalticos.jpeg
-tags: hidalgo lugares pueblos
+cover: "/images/2022-08-19-1280px-los_prismas_basalticos.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

@@ -1,6 +1,13 @@
 ---
+title: El Pípila y la toma de la Alhóndiga de Granaditas
+date: 2022-07-28 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- independencia
+- biografias
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-07-28-1280px-el_pipila.jpeg
 sharing: true
-title: El Pípila y la toma de la Alhóndiga de Granaditas
-summary: >-
-  Uno de los héroes de la guerra de Independencia fue 'el Pípila'; ¿quién fue en
-  realidad este personaje y por qué se hizo famoso?
-cover: /images/2022-07-28-1280px-el_pipila.jpeg
-tags: historia independencia biografias
+summary: Uno de los héroes de la guerra de Independencia fue 'el Pípila'; ¿quién fue
+  en realidad este personaje y por qué se hizo famoso?
+cover: "/images/2022-07-28-1280px-el_pipila.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

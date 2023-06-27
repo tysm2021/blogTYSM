@@ -1,6 +1,14 @@
 ---
+title: 'Sor Juana Inés de la Cruz: biografía y poemas selectos'
+date: 2022-06-14 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- letras
+- poesía
+- poemas
+- biografías
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-06-14-sorjuana.jpg
 sharing: true
-title: 'Sor Juana Inés de la Cruz: biografía y poemas selectos'
-summary: >-
-  Conoce la vida y la obra de esta poetisa y escritora novohispana que fue
+summary: Conoce la vida y la obra de esta poetisa y escritora novohispana que fue
   llamada "La Décima Musa".
-cover: /images/2022-06-14-sorjuana.jpg
-tags: letras poesía poemas biografías
+cover: "/images/2022-06-14-sorjuana.jpg"
 show_author_profile: false
 comment: false
 _template: plantilla

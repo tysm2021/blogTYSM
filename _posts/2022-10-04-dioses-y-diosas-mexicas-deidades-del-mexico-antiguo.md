@@ -1,6 +1,13 @@
 ---
+title: 'Dioses y diosas mexicas: deidades del México antiguo'
+date: 2022-10-04 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- historia
+- prehispanico
+- mexicas
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-10-04-british_museum_-_room_27_-17947483409.jpeg
 sharing: true
-title: 'Dioses y diosas mexicas: deidades del México antiguo'
-summary: >-
-  La religión y la mitología de los mexicas —mal llamados aztecas— consideraba a
-  diversos dioses y dioses: aquí encontrarás a los más importantes
-cover: /images/2022-10-04-british_museum_-_room_27_-17947483409.jpeg
-tags: historia prehispanico mexicas
+summary: 'La religión y la mitología de los mexicas —mal llamados aztecas— consideraba
+  a diversos dioses y dioses: aquí encontrarás a los más importantes'
+cover: "/images/2022-10-04-british_museum_-_room_27_-17947483409.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

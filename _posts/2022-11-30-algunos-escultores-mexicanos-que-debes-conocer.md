@@ -1,6 +1,14 @@
 ---
+title: Siete escultores mexicanos cuyas obras deberías conocer
+date: 2022-11-30 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- artes
+- escultura
+- artistas
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,13 +19,9 @@ article_header:
   image:
     src: /images/2022-11-30-caballito-sebastian.jpeg
 sharing: true
-title: Siete escultores mexicanos cuyas obras deberías conocer
-summary: >-
-  Todo mundo sabe de grandes pintores mexicanos como Rivera, Coronel, Kahlo o
-  Tamayo; pero, ¿cuáles son los escultores mexicanos más destacados de la
-  historia?
-cover: /images/2022-11-30-caballito-sebastian.jpeg
-tags: cultura artes escultura artistas
+summary: Todo mundo sabe de grandes pintores mexicanos como Rivera, Coronel, Kahlo
+  o Tamayo; pero, ¿cuáles son los escultores mexicanos más destacados de la historia?
+cover: "/images/2022-11-30-caballito-sebastian.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

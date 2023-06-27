@@ -1,6 +1,14 @@
 ---
+title: "¿Dónde está la tumba de Hernán Cortés?"
+date: 2022-06-14 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- virreinato
+- colonia
+- personajes
+- lugares
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-06-14-corteshernan.jpg
 sharing: true
-title: ¿Dónde está la tumba de Hernán Cortés?
-summary: >-
-  ¿Tienes idea de dónde quedaron los restos del conquistador español, luego de
-  su muerte en 1547?
-cover: /images/2022-06-14-cortes-_la_llegada.jpeg
-tags: virreinato colonia personajes lugares
+summary: "¿Tienes idea de dónde quedaron los restos del conquistador español, luego
+  de su muerte en 1547?"
+cover: "/images/2022-06-14-cortes-_la_llegada.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

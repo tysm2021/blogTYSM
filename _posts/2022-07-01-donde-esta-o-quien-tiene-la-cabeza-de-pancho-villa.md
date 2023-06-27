@@ -1,6 +1,13 @@
 ---
+title: "¿Dónde está o quién tiene la cabeza de Pancho Villa?"
+date: 2022-07-01 00:00:00 Z
+categories:
+- HISTORIA
+tags:
+- revolucion
+- personajes
+- sigloXX
 author: Redacción TYSM
-categories: HISTORIA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-04-22-pancho_villas_death_mask_-11199646203.jpeg
 sharing: true
-title: ¿Dónde está o quién tiene la cabeza de Pancho Villa?
-summary: >-
-  ¿Sabías que la tumba de Villa fue profanada para cortarle la cabeza, y al día
-  de hoy nadie sabe dónde está?
-cover: /images/2022-04-22-pancho_villas_death_mask_-11199646203.jpeg
-tags: revolucion personajes sigloXX
+summary: "¿Sabías que la tumba de Villa fue profanada para cortarle la cabeza, y al
+  día de hoy nadie sabe dónde está?"
+cover: "/images/2022-04-22-pancho_villas_death_mask_-11199646203.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

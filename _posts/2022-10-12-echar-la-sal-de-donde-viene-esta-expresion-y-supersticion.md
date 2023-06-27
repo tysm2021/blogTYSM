@@ -1,6 +1,13 @@
 ---
+title: 'Echar la sal: de dónde viene esta expresión y superstición'
+date: 2022-10-12 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- folclor
+- lenguaje
+- frases
 author: Redacción TYSM
-categories: MEXICANISIMOS
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +18,9 @@ article_header:
   image:
     src: /images/2022-10-12-himalayan_salt_-coarse.jpeg
 sharing: true
-title: 'Echar la sal: de dónde viene esta expresión y superstición'
-summary: >-
-  "Echar la sal" o "estar salado" son expresiones mexicanas que tienen que ver
-  con la mala suerte; pero, ¿de dónde vienen? ¿Cuál es su origen?
-cover: /images/2022-10-12-himalayan_salt_-coarse.jpeg
-tags: folclor lenguaje frases
+summary: '"Echar la sal" o "estar salado" son expresiones mexicanas que tienen que
+  ver con la mala suerte; pero, ¿de dónde vienen? ¿Cuál es su origen?'
+cover: "/images/2022-10-12-himalayan_salt_-coarse.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

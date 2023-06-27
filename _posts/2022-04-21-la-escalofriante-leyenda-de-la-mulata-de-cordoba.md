@@ -1,4 +1,13 @@
 ---
+title: La escalofriante leyenda de la Mulata de Córdoba
+date: 2022-04-21 00:00:00 Z
+categories:
+- MEXICANISIMOS
+tags:
+- leyendas
+- folclor
+- méxico
+- colonial
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -9,19 +18,13 @@ article_header:
   image:
     src: /images/2022-04-21-1280px-mulata.jpeg
 sharing: true
-title: La escalofriante leyenda de la Mulata de Córdoba
 author: Francisco Massé
-cover: >-
-  /images/2022-04-21-1280px-de_mulata_y_espanol-_morisca_-juan_patricio_morlete.jpeg
-categories: MEXICANISIMOS
+cover: "/images/2022-04-21-1280px-de_mulata_y_espanol-_morisca_-juan_patricio_morlete.jpeg"
 subcategorie: ASISOMOS
-tags: leyendas folclor méxico colonial
 show_author_profile: false
 comment: false
-summary: >-
-  El México colonial estuvo lleno de maravillosas y espeluznantes leyendas como
-  esta, sobre una hermosa bruja…
-_template: plantilla
+summary: El México colonial estuvo lleno de maravillosas y espeluznantes leyendas
+  como esta, sobre una hermosa bruja…
 ---
 
 

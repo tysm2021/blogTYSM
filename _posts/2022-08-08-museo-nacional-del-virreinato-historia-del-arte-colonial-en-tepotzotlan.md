@@ -1,6 +1,15 @@
 ---
+title: 'Museo Nacional del Virreinato: historia del arte colonial en Tepotzotlán'
+date: 2022-08-08 00:00:00 Z
+categories:
+- CULTURA
+tags:
+- cultura
+- turismo
+- museos
+- edomex
+- virreinato
 author: Redacción TYSM
-categories: CULTURA
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -12,13 +21,9 @@ article_header:
     src: >-
       /images/2022-08-08-1280px-capilla_domestica_-_museo_nacional_del_virreinato_-_tepotzotlan_-_mexico_-_01.jpeg
 sharing: true
-title: 'Museo Nacional del Virreinato: historia del arte colonial en Tepotzotlán'
-summary: >-
-  Al norte de la CdMx se encuentra el Colegio Jesuita de San Francisco Javier,
+summary: Al norte de la CdMx se encuentra el Colegio Jesuita de San Francisco Javier,
   que actualmente alberga al Museo Nacional del Virreinato, ¿lo conoces?
-cover: >-
-  /images/2022-08-08-1280px-capilla_domestica_-_museo_nacional_del_virreinato_-_tepotzotlan_-_mexico_-_01.jpeg
-tags: cultura turismo museos edomex virreinato
+cover: "/images/2022-08-08-1280px-capilla_domestica_-_museo_nacional_del_virreinato_-_tepotzotlan_-_mexico_-_01.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla

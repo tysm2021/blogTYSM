@@ -1,6 +1,14 @@
 ---
+title: Tips para viajar (seguro y barato) en autobús por México
+date: 2022-06-20 00:00:00 Z
+categories:
+- TURISMO
+tags:
+- viajes
+- ciudades
+- playas
+- pueblos
 author: Redacción TYSM
-categories: TURISMO
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -11,12 +19,9 @@ article_header:
   image:
     src: /images/2022-06-20-highway-74188_1280.jpeg
 sharing: true
-title: Tips para viajar (seguro y barato) en autobús por México
-summary: >-
-  Si no tienes auto o prefieres evitarte el estrés de la carretera, aquí unos
+summary: Si no tienes auto o prefieres evitarte el estrés de la carretera, aquí unos
   consejos para viajar en autobús con seguridad y ahorrando
-cover: /images/2022-06-20-highway-74188_1280.jpeg
-tags: viajes ciudades playas pueblos
+cover: "/images/2022-06-20-highway-74188_1280.jpeg"
 show_author_profile: false
 comment: false
 _template: plantilla
