@@ -10,21 +10,27 @@ tags:
 - intervencion
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-30-ninosheroes.jpeg"
+    src: /images/2022-06-30-ninosheroes.jpeg
 sharing: true
 summary: Algunos historiadores afirman que lo que se nos cuenta sobre los Niños Héroes
   está plagado de mentiras…
 cover: "/images/2022-06-30-ninosheroes.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 De niños, todos aprendimos en la escuela que los **Niños Héroes** de **Chapultepec** defendieron al país contra los invasores de Estados Unidos y que "**murieron** por la Patria" en situaciones tan heroicas como drásticas. Pero, según algunos estudiosos de la **historia**, todo eso dista mucho de ser **verdad** y entra en el terreno del **mito**.
 

@@ -9,21 +9,27 @@ tags:
 - queretaro
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-04-1024px-pena_de_bernal_vista.jpeg"
+    src: /images/2022-11-04-1024px-pena_de_bernal_vista.jpeg
 sharing: true
 summary: 'Además de la importancia histórica de su ciudad capital, Querétaro tiene
   seis Pueblos Mágicos ideales para visitar un fin de semana: te decimos cuáles son'
 cover: "/images/2022-11-04-1024px-pena_de_bernal_vista.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Desde su arranque hace poco más de veinte años, el programa **Pueblos Mágicos** ha exaltado la belleza y los atractivos históricos. culturales y naturales de diversos **pueblos** a lo largo y ancho de **México**, promoviéndolos como importantes destinos turísticos ante el visitante nacional y extranjero. En esta ocasión, nos referiremos a los **seis** **Pueblos Mágicos** del estado de **Querétaro**, que son: **Amealco**, **Bernal**, **Cadereyta**, **Jalpan de Serra**, **San Joaquín** y **Tequisquiapan**.
 

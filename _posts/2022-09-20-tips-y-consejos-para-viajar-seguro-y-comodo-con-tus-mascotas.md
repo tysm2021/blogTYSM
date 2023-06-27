@@ -11,21 +11,27 @@ tags:
 - playas
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-20-woman-2711279_1280-1.jpeg"
+    src: /images/2022-09-20-woman-2711279_1280-1.jpeg
 sharing: true
 summary: Por fortuna para los amantes de los animales, ahora existen hoteles pet-friendly
   y muchas otras posibilidades para viajar con tu mascota…
 cover: "/images/2022-09-20-woman-2711279_1280.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Hay mucha gente que, sencillamente, no puede separarse de sus **mascotas**… ni para **viajar**. Por fortuna para ellos, actualmente existen muchas facilidades para **viajar** acompañado de tu **perro** o tu **gato**, así como **líneas aéreas** que los admiten bajo ciertas condiciones y, desde luego, **hoteles** y otras opciones de **hospedaje** que son _pet-friendly_. Por eso, acá te damos algunos **tips** y **consejos** para **viajar** con tu **mascota**.
 

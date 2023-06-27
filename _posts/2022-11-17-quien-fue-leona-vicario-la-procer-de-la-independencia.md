@@ -9,21 +9,27 @@ tags:
 - biografias
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-17-1024px_leonavicario.jpg"
+    src: /images/2022-11-17-1024px_leonavicario.jpg
 sharing: true
 summary: 2020 fue nombrado el Año de Leona Vicario por el Gobierno de México, para
   reconocer el importante papel que esta heroína tuvo en la Guerra de Independencia
 cover: "/images/2022-11-17-1024px_leonavicario.jpg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Durante nuestra Guerra de **Independencia** la participación de las mujeres fue trascendental y hasta hace poco no había sido muy reconocida. Una de las heroínas que tuve un papel importante fue la insurgente **Leona Vicario**, nombrada Benemérita y Dulcísima **Madre de la Patria**. ¿**Quién fue** esta importante mujer, qué hizo durante su **vida** y por qué se le concedió ese nombramiento a nivel nacional?
 

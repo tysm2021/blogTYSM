@@ -9,20 +9,26 @@ tags:
 - peliculas
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-10-10-1024romeoandjuliet-1.jpg"
+    src: /images/2022-10-10-1024romeoandjuliet-1.jpg
 sharing: true
 summary: 'Por la riqueza de nuestro escenarios naturales, '
 cover: "/images/2022-10-10-1024romeoandjuliet.jpg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Hay muchos factores por los que **México** ha sido el escenario ideal donde se han **filmado** importantes **películas extranjeras** de corte internacional. Entre ellos están: la belleza y la riqueza de nuestros paisajes naturales, desde los desérticos parajes del norte del país hasta los del selvático sureste; también está la riqueza arquitectónica, desde las ruinas arqueológicas de nuestro pasada prehispánico hasta las urbes ultramodernas, pasando por nuestro pasado colonial y los edificios del siglo XIX y el Porfiriato; por último, están el profesionalismo de nuestro técnicos y la relativa cercanía de **México** con **Hollywood**, la meca del **cine**.
 

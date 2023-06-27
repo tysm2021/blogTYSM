@@ -10,21 +10,27 @@ tags:
 - guanajuato
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-22-1280px-callejon_del_beso-_guanajuato_-32380256143.jpeg"
+    src: /images/2022-09-22-1280px-callejon_del_beso-_guanajuato_-32380256143.jpeg
 sharing: true
 summary: Muchas de las leyendas mexicanas que aún corren de boca en boca provienen
   de la época de la Colonia. Una de las más famosas es esta…
 cover: "/images/2022-09-22-1280px-callejon_del_beso-_guanajuato_-32380256143.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 La ciudad de **Guanajuato**, capital del estado del mismo nombres, es una urbe que aún conserva un sabor y un espíritu propios de la época del **Virreinato** en México. Sus calles empedradas, sus pasos a desnivel y, sobre todo, en su angostos callejones, cuentan **historias** y **leyendas** que ensalzan algunas virtudes o, bien, que erizan la piel por el miedo. La más famosa de ellas, sin duda, es la **leyenda** del **Callejón del Beso**, un lugar marcado por la fatalidad, los celos y el **amor** apasionado de dos jóvenes.
 

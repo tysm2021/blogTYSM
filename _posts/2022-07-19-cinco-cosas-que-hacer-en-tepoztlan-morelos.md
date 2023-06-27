@@ -10,21 +10,28 @@ tags:
 - morelos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-19-iglesia_la_santisima_trinidad_tepoztlan_por_silvia-webp.png"
+    src: >-
+      /images/2022-07-19-iglesia_la_santisima_trinidad_tepoztlan_por_silvia-webp.png
 sharing: true
 summary: A las faldas del cerro del Tepozteco se encuentra este Pueblo Mágico lleno
   de misticismo y buena vibra…
 cover: "/images/2022-07-19-iglesia_la_santisima_trinidad_tepoztlan_por_silvia-webp.png"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 A tan sólo 80 kilómetros al sur de la Ciudad de México se encuentra el **Pueblo** **Mágico** de **Tepoztlán**, en el estado de **Morelos**. Se trata de uno de los destinos favoritos para el fin de semana de muchos **turistas** capitalinos y aquí te decimos **cinco cosas qué hacer** para pasártela increíble.
 

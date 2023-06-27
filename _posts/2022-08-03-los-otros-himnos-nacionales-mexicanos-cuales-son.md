@@ -10,21 +10,27 @@ tags:
 - canciones
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-03-1280px-mexico_flag_bandera_de_mexico_-esparta.jpeg"
+    src: /images/2022-08-03-1280px-mexico_flag_bandera_de_mexico_-esparta.jpeg
 sharing: true
 summary: Todos conocemos el Himno Nacional escrito por González Bocanegra, pero estas
   composiciones le sacan lo patriótico a cualquier mexicano…
 cover: "/images/2022-08-03-1280px-mexico_flag_bandera_de_mexico_-esparta.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Todos sabemos que la noche del 15 de septiembre de 1854, durante una de las tantas presidencias de Antonio López de Santa Anna, se estrenó oficialmente en **Himno Nacional Mexicano**, cuya letra fue escrita por el poeta potosino Francisco **González Bocanegra** y su música corrió a cargo del español **Jaime Nunó**. Pero también sabemos que hay canciones y composiciones musicales que, aunque no sean oficiales, son considerados casi **segundos himnos nacionales** por un gran número de **mexicanos**.
 

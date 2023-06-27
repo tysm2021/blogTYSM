@@ -9,21 +9,27 @@ tags:
 - historia
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-16-all_gizah_pyramids.jpeg"
+    src: /images/2022-06-16-all_gizah_pyramids.jpeg
 sharing: true
 summary: "¿Sabías que, detrás de las egipicias, tres pirámides mexicanas están entre
   las más altas del mundo?"
 cover: "/images/2022-06-16-all_gizah_pyramids.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Diversos pueblos de la Antigüedad construyeron hermosas e imponentes **pirámides**, las cuales a veces servían como tumbas de los gobernantes, y otras tenían una función religiosa o eran templos dedicados a alguna deidad. Pero, de las que aún existen, ¿cuáles son las **pirámides más altas del mundo**?
 

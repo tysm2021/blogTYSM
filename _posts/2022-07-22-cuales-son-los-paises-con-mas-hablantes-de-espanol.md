@@ -9,21 +9,27 @@ tags:
 - cultura
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-22-diccionario_de_la_lengua_espanola-_-2014.jpeg"
+    src: /images/2022-07-22-diccionario_de_la_lengua_espanola-_-2014.jpeg
 sharing: true
 summary: El español o castellano tiene más de 400 millones de hablantes en el mundo;
   pero, ¿cuántos lo hablan en cada país?
 cover: "/images/2022-07-22-diccionario_de_la_lengua_espanola-_-2014.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Debido a la expansión del Imperio **Español** en el continente americano y otras partes del mundo durante los siglos XVI, XVII y XVIII, el **español** o **castellano** es una de las **lenguas** más **habladas** de todo el **mundo**. Pero, ¿cuáles son los **países con mayor número de hablantes** de la llamada "**lengua** de Cervantes"?
 

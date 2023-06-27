@@ -9,21 +9,27 @@ tags:
 - frases
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-10-12-himalayan_salt_-coarse.jpeg"
+    src: /images/2022-10-12-himalayan_salt_-coarse.jpeg
 sharing: true
 summary: '"Echar la sal" o "estar salado" son expresiones mexicanas que tienen que
   ver con la mala suerte; pero, ¿de dónde vienen? ¿Cuál es su origen?'
 cover: "/images/2022-10-12-himalayan_salt_-coarse.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Los **mexicanos**, como muchos pueblos del mundo, creemos en la existencia de la buena y de la **mala suerte**. Y una de las maneras en que nos expresamos al respecto es usando **frases** que involucran a la **sal**: "**Echar la sal**", "**estar salado**" y otras que aluden a esta fatalidad, **superstición** o "mala pata" con la que muchas personas parecen haber nacido. Pero, ¿cuál es el **origen** o la **historia** de estas **expresiones**? ¿**De dónde viene esta** relación de la **sal** con la **mala suerte**?
 

@@ -10,21 +10,27 @@ tags:
 - religion
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-09-cristo_rey-_guanajuato.jpeg"
+    src: /images/2022-09-09-cristo_rey-_guanajuato.jpeg
 sharing: true
 summary: 'Siendo el nuestro un país mayormente católico, no es de extrañar que abunden
   las figuras de Cristos monumentales: conozcamos algunos'
 cover: "/images/2022-09-09-cristo_rey-_guanajuato.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Desde hace 500 años, en **México** existe un profundo arraigo **católico** que se ha expresado, no sólo en el fervor de sus creyentes, sino en abundantes **iglesias** que se erigen como auténticos monumentos arquitectónicos a la fe en **Cristo**. De igual modo, a lo largo de las últimas décadas los avances tecnológicos han permitido la construcción de **Cristos monumentales**, cuya extraordinaria talla causa asombro lo mismo entre creyentes que en los laicos.
 

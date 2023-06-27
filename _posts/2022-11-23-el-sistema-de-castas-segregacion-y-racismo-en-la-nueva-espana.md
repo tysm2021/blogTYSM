@@ -9,21 +9,28 @@ tags:
 - mexico
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-23-1280px-casta_-_de_mulato_y_china_sale_cambujo-_s-_xviii_-_anonimo.jpg"
+    src: >-
+      /images/2022-11-23-1280px-casta_-_de_mulato_y_china_sale_cambujo-_s-_xviii_-_anonimo.jpg
 sharing: true
 summary: "¿Sabías que, durante los 300 años que duró el virreinato de la Nueva España,
   la sociedad estuvo dividida en castas según el color de piel y el origen étnico?"
 cover: "/images/2022-11-23-1280px-casta_-_de_mulato_y_china_sale_cambujo-_s-_xviii_-_anonimo.jpg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Dentro de la historia de México, se le llama época de la **Colonia** o, más propiamente, del **Virreinato** al periodo entre el año 1521, cuando cayó la ciudad de México-Tenochtitlan ante el invasor español, y el 1821, cuando la **Nueva España** declaró su independencia y se hizo llamar México. Y en gran parte de ese periodo la sociedad estuvo dividida en un **sistema de castas** basadas en el color de la piel y el origen étnico, las cuales otorgaban o negaban derechos y privilegios.
 

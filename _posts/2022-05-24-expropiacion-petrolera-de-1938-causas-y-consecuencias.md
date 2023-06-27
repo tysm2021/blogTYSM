@@ -9,20 +9,27 @@ tags:
 author: Redacción TYSM
 subcategorie: SIGLOXIX
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-26-presidente_lazaro_cardenas_reunido_con_sindicato_obrero_veracruzano_en_1938.jpeg"
+    src: >-
+      /images/2022-04-26-presidente_lazaro_cardenas_reunido_con_sindicato_obrero_veracruzano_en_1938.jpeg
 sharing: true
 summary: Por favor colocar summary a esta publicación codigo de prueba 234
 cover: "/images/2022-04-26-presidente_lazaro_cardenas_reunido_con_sindicato_obrero_veracruzano_en_1938.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 El **18 de marzo** de cada año, celebramos un aniversario más de la **Expropiación Petrolera** de **México**, que se llevó a cabo en **1938** por un decreto del entonces presidente, **Lázaro Cárdenas del Río**. En **resumen**, ¿cuáles fueron las **causas** de este suceso histórico, y las **consecuencias** de la nacionalización de los recursos petroleros de México?
 

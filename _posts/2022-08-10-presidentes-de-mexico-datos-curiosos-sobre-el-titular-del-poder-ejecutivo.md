@@ -11,21 +11,27 @@ tags:
 - personajes
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-10-santaanna.jpg"
+    src: /images/2022-08-10-santaanna.jpg
 sharing: true
 summary: 'Primero fueron tlatoanis, después virreyes, y aunque hubo un par de emperadores
   desde 1824 a México lo gobiernan presidentes: aquí unos datos curiosos… '
 cover: "/images/2022-08-10-santaanna.jpg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 A lo largo de los siglos, el territorio y el estado que hoy llamamos **México** ha sido **gobernado** por distintas figuras: en la época prehispánica, había reyes y tlatoanis; tras la Conquista, la Nueva España fue regida por virreyes leales a la Corona española; pero ya como país independiente y con la excepción de dos emperadores, la Nación mexicana ha sido gobernada por un total de 65 **presidentes**. En este artículo, te presentaremos **datos curiosos** sobre algunos de ellos.
 

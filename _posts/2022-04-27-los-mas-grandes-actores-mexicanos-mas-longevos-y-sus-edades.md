@@ -9,14 +9,14 @@ tags:
 - actores
 - actrices
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg"
+    src: /images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg
 sharing: true
 author: Francisco Massé
 cover: "/images/2022-04-27-1280px-ignacio_lopez_tarso_on_stage_in_2019.jpeg"

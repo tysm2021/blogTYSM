@@ -10,21 +10,27 @@ tags:
 - aztecas
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-13-1024px-florentine_codex_ix_aztec_warriors.jpeg"
+    src: /images/2022-07-13-1024px-florentine_codex_ix_aztec_warriors.jpeg
 sharing: true
 summary: El pueblo que dominó el Valle de México y conquistó gran parte de Mesoamérica
   en los siglos XIV y XV, ?¿era azteca o mexica?
 cover: "/images/2022-07-13-1024px-florentine_codex_ix_aztec_warriors.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Una de las civilizaciones que más destaca en la **historia** del **México** **prehispánico** es el Imperio **Mexica**, aunque también se le llama **Azteca**. ¿Cuál de las dos **palabras** es la **correcta**, dado que era un pueblo que decía venir de la mítica ciudad de Aztlán pero fundó una portentosa capital que se llamaba **México-Tenochtitlan**?
 

@@ -9,21 +9,27 @@ tags:
 - actores
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-26-1280px-cantinflas.jpg"
+    src: /images/2022-09-26-1280px-cantinflas.jpg
 sharing: true
 summary: Casi todos coinciden en que uno de los más grandes cómicos del cine nacional
   fue 'Cantinflas'; conozcamos algunas de sus mejores películas
 cover: "/images/2022-09-26-1280px-cantinflas.jpg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Uno de los **actores** y de los personajes más famosos y queridos del **cine mexicano** es, sin dudas, **Mario Moreno 'Cantinflas'**, quien nació en la Ciudad de México el 12 de agosto de 1991 y murió en la misma ciudad capital el 20 de abril de 1993. A lo largo de más de cuarenta años y con casi 50 **películas** en su haber, lo mismo interpretó a su famosísima caracterización del peladito de barrio, con su pantalón caído y su forma de hablar característica, que a un maestro, un bombero, un diputado o un agente de la policía. Aquí te recomendamos las que consideramos son sus **mejores** cinco **películas**.
 

@@ -9,21 +9,27 @@ tags:
 - tradiciones
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-22-sevilla_-_convento_de_san_antonio_de_padua_7.jpeg"
+    src: /images/2022-08-22-sevilla_-_convento_de_san_antonio_de_padua_7.jpeg
 sharing: true
 summary: Dicen que un remedio infalible para la soltería es poner de cabeza una imagen
   de San Antonio de Padua; ¿cuál es el origen de esta creencia?
 cover: "/images/2022-08-22-sevilla_-_convento_de_san_antonio_de_padua_7.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Las tías **solteras**, las que "no salen ni en rifa", los **solterones** empedernidos y cualquier persona que quiera **conseguir novio**, esposa o al menos una pareja, ha oído hablar de que, para librarse de la soledad, hay que **poner de cabeza** a **San Antonio de Padua** —o, al menos a una imagen de este **santo**—; si te has preguntado cuál es el **origen** de esta **costumbre** o **creencia**… pues nosotros también, por eso la investigamos y aquí te compartimos lo que descubrimos.
 

@@ -10,14 +10,14 @@ tags:
 - monterrey
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2023-01-24-1024px-cabrito_con_tamales.jpeg"
+    src: /images/2023-01-24-1024px-cabrito_con_tamales.jpeg
 sharing: true
 summary: Cuando uno visita la Sultana del Norte, hay algunas joyas de la gastronomía
   neoleonesa que no hay que perderse…

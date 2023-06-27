@@ -11,21 +11,27 @@ tags:
 - cuentos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-10-05-1280-eliott-reyna-kct-7cirbew-unsplash.jpeg"
+    src: /images/2022-10-05-1280-eliott-reyna-kct-7cirbew-unsplash.jpeg
 sharing: true
 summary: En este artículo te presentamos a algunas autoras nacidas en México, además
   de algunos de sus libros más famosos, entre cuentos, novelas y poesía…
 cover: "/images/2022-10-05-1280-eliott-reyna-kct-7cirbew-unsplash.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En el panorama de la **literatura** **mexicana**, normalmente se destaca la obra de **autores** mundialmente reconocidos como Octavio Paz, Carlos Fuentes, Juan José Arreola o Juan Rulfo. Pero, ¿qué hay de las **escritoras** **mexicanas** y de sus **obras**? Para que conozcas a algunas de las **autoras** más **famosas** de **cuentos**, **novelas** y **poesía** en **México**, a continuación brevemente te presentamos a **cinco** **literatas** de nuestro país cuyos **libros** son más que recomendables.
 

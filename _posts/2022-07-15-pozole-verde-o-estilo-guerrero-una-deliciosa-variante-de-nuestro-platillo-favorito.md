@@ -11,21 +11,27 @@ tags:
 - antojitos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-15-pozoleverde1.jpg"
+    src: /images/2022-07-15-pozoleverde1.jpg
 sharing: true
 summary: A diferencia de otros estados, en Guerrero se prepara un pozole verde que
   vale la pena probar, ¿lo conoces?
 cover: "/images/2022-07-15-pozoleverde1.jpg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 A millones de mexicanos, especialmente en la región del centro del país, al acercarse el mes de septiembre nos encanta preparar y disfrutar del tradicional **pozole** que se prepara con chiles rojos y **carne de cerdo**. Pero, ¿sabías que también existe el **pozole verde** o "**estilo Guerrero**", que aunque también se elabora con puerco lleva una **receta** diferente?
 

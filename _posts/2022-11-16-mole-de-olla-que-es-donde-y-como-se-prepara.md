@@ -9,21 +9,27 @@ tags:
 - recetas
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-15-mole_de_olla.jpeg"
+    src: /images/2022-11-15-mole_de_olla.jpeg
 sharing: true
 summary: 'Es un caldillo de chile rojo que se elabora con espinazo de res, ejotes,
   papas, elotes y otras verduras y legumbres: conozcamos su origen'
 cover: "/images/2022-11-15-mole_de_olla.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Una de las variedades de los mexicanísimos moles —palabra que proviene del náhuatl _mulli_, que significa 'salsa'— es el **mole de olla** que se prepara en el **centro** de **México** con carne roja y verduras. En este artículo te contaremos un poco sobre su **origen**, los **elementos** que lleva, las **variantes** por región y estado, y hasta una **receta** para prepararlo.
 

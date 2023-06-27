@@ -9,21 +9,27 @@ tags:
 - folclor
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-30-organillero.jpeg"
+    src: /images/2022-06-30-organillero.jpeg
 sharing: true
 summary: Son un sello musical de algunas ciudades mexicanas y la historia de cómo
   llegaron a nuestro país es interesante
 cover: "/images/2022-06-30-organillero.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Si uno camina por las calles del Centro Histórico de la Ciudad de **México** —así como en otros barrios, como el de Coyoacán, y numerosas otras ciudades mexicanas—, es muy probable encontrarse con uno o varios hombres vestidos de color caqui que cargan una pesada caja de la cual, al accionar una manivela, brotan maravillosa melodías que nos transportan a tiempos pasados. Desde luego, hablamos de los **organilleros**: ¿conoces la **historia** de cómo llegaron a **México**?
 

@@ -9,21 +9,27 @@ tags:
 - libros
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-17-cristina-gottardi-bj7pt0zmbok-unsplash.jpeg"
+    src: /images/2022-11-17-cristina-gottardi-bj7pt0zmbok-unsplash.jpeg
 sharing: true
 summary: Desde los tiempos prehispánicos hasta el siglo XXI, la historia de México
   es como una aventura que vale la pena conocer leyendo alguna de estas recomendaciones…
 cover: "/images/2022-11-17-cristina-gottardi-bj7pt0zmbok-unsplash.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Algo que distingue a los seguidores de Toño y su mariachi es que, en general, somos apasionados de la **historia de México**. Ya sea que hablemos de nuestros pueblos **prehispánicos**, de la epoca del **Virreinato**, de la Guerra de **Independencia**, del siglo XIX y del **México** independiente, del movimiento de la **Revolución** o de los hechos del siglo XX, nadie puede negar que la vida del país podrá ser lo que uno quiera, menos aburrida. Y a todo esto, ¿qué **recomendaciones** de **libros** podemos dar para saber más sobre **historia nacional**?
 

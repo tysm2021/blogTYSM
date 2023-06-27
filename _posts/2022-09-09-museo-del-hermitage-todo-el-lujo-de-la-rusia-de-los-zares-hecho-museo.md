@@ -11,21 +11,27 @@ tags:
 - rusia
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-09-spb_06-2012_palace_embankment_various_14.jpeg"
+    src: /images/2022-09-09-spb_06-2012_palace_embankment_various_14.jpeg
 sharing: true
 summary: En la ciudad de San Petersburgo se encuentra este museo, que alberga una
   de las pinacotecas más vastas e importantes de Europa y del mundo
 cover: "/images/2022-09-09-spb_06-2012_palace_embankment_various_14.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Aunque quizá no es tan famoso como el Museo del Louvre, en París, el Museo del Prado madrileño o el Museo Británico de Londres, el **Museo del Hermitage** —ubicado en la ciudad de **San Petersburgo**, **Rusia**— es, sin lugar a dudas, uno de los **museos** más importantes del mundo y sede de una de las **pinacotecas** más vastas, importantes y hermosas de todo el mundo. Acompáñanos en un breve recorrido por su **historia**, sus **salas** y **edificios**, y conozcamos juntos un poco de las **obras de arte** que están contenidas en su interior.
 

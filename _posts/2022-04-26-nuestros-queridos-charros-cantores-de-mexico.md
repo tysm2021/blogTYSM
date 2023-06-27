@@ -9,14 +9,14 @@ tags:
 - folclor
 subcategorie: NUESTROCINE
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-26-charros1.jpg"
+    src: /images/2022-04-26-charros1.jpg
 sharing: true
 author: Francisco Massé
 cover: "/images/2022-04-26-charros1.jpg"
@@ -25,6 +25,11 @@ comment: false
 summary: 'Nada más mexicano que la figura del charro que canta: conoce aquí a los
   más grandes.'
 ---
+
+
+
+
+
 
 Músicos y cantantes van y vienen. Pero cuando se habla de música netamente mexicana, a casi todos nos vienen a la mente las canciones rancheras y, ¡cómo no!, los charros cantores de México, desde el pionero Tito Guízar hasta el recientemente fallecido Vicente Fernández.
 

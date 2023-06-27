@@ -10,21 +10,27 @@ tags:
 - frases
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-10-13-1280px-santaisabelvelascodf.jpeg"
+    src: /images/2022-10-13-1280px-santaisabelvelascodf.jpeg
 sharing: true
 summary: Se dice que la región del Anáhuac, donde se asienta la capital del país,
   es "la región más transparente del aire"; pero, ¿quién dijo esa frase?
 cover: "/images/2022-10-13-1280px-santaisabelvelascodf.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Una **frase** muy usada para referirse al antiguo paisaje del **Valle de México**, donde se asentó la ciudad de México-Tenochtitlan, capital del país que en algún tiempo se llamó **Distrito Federal** y que actualmente se conoce como **Ciudad de México**, era "**la región más transparente del aire**". Aunque actualmente esa transparencia sólo vive en el recuerdo, pues es una de las urbes más contaminadas de América Latina y del mundo, resulta interesante averiguar **quién acuñó**, **escribió** o **dijo por primera vez** esa **frase**.
 

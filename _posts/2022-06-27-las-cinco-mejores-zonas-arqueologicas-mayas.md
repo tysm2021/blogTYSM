@@ -9,21 +9,27 @@ tags:
 - mayas
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-27-pyramid-5744558_1280.jpeg"
+    src: /images/2022-06-27-pyramid-5744558_1280.jpeg
 sharing: true
 summary: La cultura maya dejó importantes vestigios dentro del territorio nacional;
   pero, ¿cuáles son los más importantes?
 cover: "/images/2022-06-27-pyramid-5744558_1280.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 A lo largo de sus muchos siglos de historia, los **mayas** dejaron importantes vestigios en nuestro país: desde restos de sus ciudades-estado hasta muestras de su **arte**, arquitectura, pintura y otras manifestaciones. Por eso, aquí te presentamos las cinco **zonas arqueológicas mayas** más **importantes** de **México**.
 

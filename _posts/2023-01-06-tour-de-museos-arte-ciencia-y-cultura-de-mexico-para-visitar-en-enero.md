@@ -9,21 +9,27 @@ tags:
 - mexico
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2023-01-05-1024px-museo_del_desierto-_saltillo-_coahuila.jpeg"
+    src: /images/2023-01-05-1024px-museo_del_desierto-_saltillo-_coahuila.jpeg
 sharing: true
 summary: "¿Qué tal empezar el año visitando museos? Si te gusta la idea, acá te daremos
   mes a mes algunas recomendaciones para que empieces tu tour."
 cover: "/images/2023-01-05-1024px-museo_del_desierto-_saltillo-_coahuila.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Si algo abunda en **México** son las muestras de **arte** —desde la época prehispánica hasta la actual—, de **historia**, de **cultura** y de **ciencias**, las cuales son exhibidas en las redes de **museos** **públicos** —los cuales dependen del INAH y del INBAL— y **privados** que están distribuidos a lo largo y ancho de la República Mexicana. Por eso, en Toño y su mariachi mes con mes te propondremos los siguientes _tours_ de **museos**, en los cuales conocerás diversas instituciones que preservan y exhiben piezas arqueológicas y paleontológicas, pinturas, esculturas, artesanías y otras manifestaciones culturales.
 

@@ -1,57 +1,87 @@
-{%- include menus.html -%}
+{%- include menus.html -%} {%- if include.theme == 'dark' -%}
+<header
+  class="header header--dark"
+  {%-
+  if
+  include.background
+  -%}
+  style="background: {{ include.background }};"
+  {%-
+  endif
+  -%}
+>
+  {%- elsif include.theme == 'light' -%}
+  <header
+    class="header header--light"
+    {%-
+    if
+    include.background
+    -%}
+    style="background: {{ include.background }};"
+    {%-
+    endif
+    -%}
+  >
+    {%- else -%}
+    <header
+      class="header"
+      {%-
+      if
+      include.background
+      -%}
+      style="background: {{ include.background }};"
+      {%-
+      endif
+      -%}
+    >
+      {%- endif -%}
 
-{%- if include.theme == 'dark' -%}
-  <header class="header header--dark" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
-{%- elsif include.theme == 'light' -%}
-  <header class="header header--light" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
-{%- else -%}
-  <header class="header" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
-{%- endif -%}
+      <div class="main container">
+        <div class="header__title">
+          <div class="header__brand">
+            {%- assign _paths_root = site.paths.root | default:
+            site.data.variables.default.paths.root -%} {%- include
+            snippets/get-nav-url.html path=_paths_root -%} {%- if site.title -%}
+            <a
+              title="{%- if site.description -%}{{ site.description }}{%- endif -%}"
+              href="{{ __return }}"
+              >{{ site.title }}</a
+            >
+            {%- endif -%}
 
-<div class="main container">
-  <div class="header__title">
-    <div class="header__brand">
-      {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
-      {%- include snippets/get-nav-url.html path=_paths_root -%}
-      {%- if site.title -%}
-      <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
-    {%- endif -%}
+            <div class="navigation-items">
+              {%- if site.search.provider -%}
+              <button
+                class="button button--secondary button--circle search-button js-search-toggle"
+              >
+                <i class="fas fa-search"></i>
+              </button>
+              {%- endif -%}
+              <div>
+                <a class="nav-button">
+                  <span id="nav-icon3"
+                    ><span></span><span></span><span></span><span></span
+                  ></span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
 
-    <div class="navigation-items">
-    {%- if site.search.provider -%}
-      <button class="button button--secondary button--circle search-button js-search-toggle">
-        <i class="fas fa-search"></i>
-      </button>
-      {%- endif -%} 
-     <div>
-        <a class="nav-button">
-          <span id="nav-icon3"><span></span><span></span><span></span><span></span></span>
-      </a>
-     </div>
-</div>
-    </div>
-  </div>
-</div>
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
 
-
-
+    <script>
+      $(document).ready(function () {
+        $(".nav-button").click(function () {
+          $("body").toggleClass("nav-open");
+        });
+      });
+    </script>
   </header>
-
- 
- 
- 
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-  integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
-</script>
-  
-  <script>
-    $(document).ready(function(){
-    $('.nav-button').click(function(){
-    $('body').toggleClass('nav-open');
-    });
-  });
-  </script>
-
-
-
-
+</header>

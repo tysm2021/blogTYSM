@@ -9,21 +9,27 @@ tags:
 - estados
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-29-cascada_de_tamul_vista_aerea.jpeg"
+    src: /images/2022-11-29-cascada_de_tamul_vista_aerea.jpeg
 sharing: true
 summary: 'Estas imponentes y enormes caídas naturales de agua se encuentran escondidas
   a lo largo de nuestro territorio: conozcamos cuáles son las más altas de todas'
 cover: "/images/2022-11-29-cascada_de_tamul_vista_aerea.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Una **cascada** es una caída de agua natural desde cierta altura, causada por un desnivel de su cauce. Y como **México** tiene un territorio con numerosas elevaciones y los cruzan abundantes ríos, es común que existan **cascadas** de alturas espectaculares, tremendamente caudalosas o que dan un espectáculo soberbio. ¿Cuáles son las cascadas mexicanas más altas, las más famosas y donde puedes hacer turismo de aventura?
 

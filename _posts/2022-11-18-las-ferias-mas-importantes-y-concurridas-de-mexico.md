@@ -9,21 +9,27 @@ tags:
 - destinos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-18-feria_de_san_marcos-_aguascalientes.jpeg"
+    src: /images/2022-11-18-feria_de_san_marcos-_aguascalientes.jpeg
 sharing: true
 summary: No es exagerado decir que todas las ciudades importantes de México tienen,
   al menos una feria anual; pero, ¿cuáles son las más visitadas de todo el país?
 cover: "/images/2022-11-18-feria_de_san_marcos-_aguascalientes.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Por **ferias** nos referimos, no a los parques de diversiones o a los lugares donde se montan juegos mecánicos itinerantes, sino a los eventos anuales históricamente auspiciados por el ayuntamiento o el gobierno de una **ciudad**, en los cuales se exponen y se ponen a la venta artesanías, comida típica, insumos agropecuarios y otros productos de una región, y además hay presentaciones artísticas y otras actividades populares. Así, casi en cada ciudad hay una **feria** ganadera, industrial, turística, artística o gastronómica, pero algunas se distinguen por su añeja tradición y por el gran número de asistentes que tienen cada año.
 

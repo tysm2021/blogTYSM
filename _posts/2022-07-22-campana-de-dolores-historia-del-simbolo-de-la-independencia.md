@@ -9,21 +9,27 @@ tags:
 - tradiciones
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-22-campanadolores.jpg"
+    src: /images/2022-07-22-campanadolores.jpg
 sharing: true
 summary: 'Los días 15 de septiembre, el Presidente hace sonar la misma campana que
   en 1810 tocó el cura Hidalgo: conoce su historia.'
 cover: "/images/2022-07-22-campanadolores.jpg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Los mexicanos llamamos a septiembre el "Mes de la Patria", y el punto culminante de las celebraciones que nos unen en torno a nuestra **Independencia** tiene lugar durante la noche mexicana, cuando en medio de la ceremonia de "**El Grito**", el Presidente de la República hace sonar la **campana de Dolores**, la misma con la que, según la **historia**, el cura **Miguel Hidalgo** y Costilla convocó a la lucha armada contra el mal gobierno la madrugada del 16 de septiembre de 1810.
 

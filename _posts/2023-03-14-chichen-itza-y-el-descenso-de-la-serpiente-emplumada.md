@@ -9,14 +9,14 @@ tags:
 - yucatan
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2023-03-14-1024px_chichenitza-1.jpg"
+    src: /images/2023-03-14-1024px_chichenitza-1.jpg
 sharing: true
 summary: En el equinoccio de primavera y el de otoño, miles de visitantes se reúnen
   para ver el "descenso" de Kukulkán en el Castillo de Chichén Itzá …
@@ -35,7 +35,7 @@ En 1988, la zona arqueológica de **Chichén Itzá** fue incluida en la lista de
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/El_Castillo%2C_Chichen_Itza_%2814367088455%29.jpg/1024px-El_Castillo%2C_Chichen_Itza_%2814367088455%29.jpg)
 
-Desde hace algunas décadas, numerosos visitantes se reúnen en esta zona arqueológica ubicada en el estado de **Yucatán**, para contemplar un fenómeno arqueoastronómico conocido como "la **bajada** del dios **Kukulcán**" o "el **descenso** de la **serpiente** emplumada, el cual se presenta únicamente los días 20 o **21 de marzo**, cuando se presenta el **equinoccio de primavera**, y el 20 o 21 de septiembre, que corresponden al equinoccio de otoño. 
+Desde hace algunas décadas, numerosos visitantes se reúnen en esta zona arqueológica ubicada en el estado de **Yucatán**, para contemplar un fenómeno arqueoastronómico conocido como "la **bajada** del dios **Kukulcán**" o "el **descenso** de la **serpiente** emplumada, el cual se presenta únicamente los días 20 o **21 de marzo**, cuando se presenta el **equinoccio de primavera**, y el 20 o 21 de septiembre, que corresponden al equinoccio de otoño.
 
 Esos días, la posición del Sol y la orientación del Templo producen un juego de sombras en el que pareciera que el dios va bajando desde la punta del templo hasta donde se encuentra la **serpiente**. Fue en la década de 1970 que los arqueólogos Jean-Jacques Rivard y Luis Arochi publicaron las primeras descripciones de este juego de luces y sombras, apuntando que sólo ocurre en los **equinoccios**, lo que aumentó considerablemente la popularidad del sitio, lo que derivó en una gran afluencia de turistas nacionales y extranjeros en **Chichén Itzá** durante estas fechas.
 

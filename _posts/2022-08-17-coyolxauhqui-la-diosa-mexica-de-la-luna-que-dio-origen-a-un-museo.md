@@ -10,21 +10,27 @@ tags:
 - arqueologia
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-17-aztec_coyolxauhqui_stone_-9781512996.jpeg"
+    src: /images/2022-08-17-aztec_coyolxauhqui_stone_-9781512996.jpeg
 sharing: true
 summary: Fue hallada una madrugada de 1978 y su hallazgo provocó la construcción del
   Museo del Templo Mayor; ¿quién fue Coyolxauhqui y por qué acabo así?
 cover: "/images/2022-08-17-aztec_coyolxauhqui_stone_-9781512996.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Se trata de un enorme monolito de color blanco calizo en el que está labrada una mujer desmembrada y con diversos adornos en todo el cuerpo. Se trata de la **diosa** **mexica** de la **Luna**, **Coyolxauhqui**, cuya escultura fue hallada en el Centro Histórico de la Ciudad de México en 1978, durante unos trabajos de excavación. ¿**Quién fue** esta **diosa**, **por qué** acabó así y cómo fue que su hallazgo dio origen al **Museo del Templo Mayor**?
 

@@ -10,14 +10,14 @@ tags:
 - mexicas
 - prehispanico
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-21-1280px-la_leyenda_de_mictlantecuhtli.jpeg"
+    src: /images/2022-04-21-1280px-la_leyenda_de_mictlantecuhtli.jpeg
 sharing: true
 author: Francisco Massé
 cover: "/images/2022-04-21-1280px-la_leyenda_de_mictlantecuhtli.jpeg"
@@ -26,7 +26,13 @@ comment: false
 summary: "¿Sabías que, para los mexicas o aztecas, los muertos debían atravesar nueve
   niveles en el inframundo?"
 subcategorie: PREHISPANICOYCOLONIAL
+_template: plantilla
 ---
+
+
+
+
+
 
 En la religión de los antiguos **mexicas**, comúnmente conocidos como “**aztecas**”, el destino de los **muertos** estaba dictado por la forma en que morían. Las mujeres que morían de parto, los guerreros y quienes perecían ahogados o alcanzados por un rayo tenían un mejor destino que los que morían plácidamente en sus casas. De cualquier modo, todos ellos tenían que atravesar **nueve niveles del inframundo** o **reino de los muertos**, al que conocían como **Mictlán**.
 

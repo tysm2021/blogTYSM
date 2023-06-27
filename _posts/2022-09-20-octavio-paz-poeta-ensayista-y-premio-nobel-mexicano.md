@@ -10,21 +10,27 @@ tags:
 - poesía
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-15-octaviopaz.jpg"
+    src: /images/2022-09-15-octaviopaz.jpg
 sharing: true
 summary: Este poeta, diplomático y ensayista nacido en CDMX es uno de los pocos mexicanos
   que se ganaron el Premio Nobel. Conozcamos lo más importante de su obra
 cover: "/images/2022-09-15-octaviopaz.jpg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Uno de los **escritores** **mexicanos** más importantes del siglo XX fue, sin lugar a dudas, **Octavio Paz**, quien incursionó en la **poesía** y el **ensayo**, además de ser un importante editor y diplomático, y por su trabajo en pro de las letras fue galardonado con el **Premio Nobel de Literatura**, honor que comparte con apenas otros cuatro connacionales. Conozcamos un poco de su **biografía**, así como sus **obras** más importantes.
 

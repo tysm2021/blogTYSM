@@ -10,21 +10,27 @@ tags:
 - lugares
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-14-corteshernan.jpg"
+    src: /images/2022-06-14-corteshernan.jpg
 sharing: true
 summary: "¿Tienes idea de dónde quedaron los restos del conquistador español, luego
   de su muerte en 1547?"
 cover: "/images/2022-06-14-cortes-_la_llegada.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 **Hernán Cortés**, todos los sabemos, fue un conquistador español que entre 1520 y 1521 logró vencer al Imperio Mexica y sometió la ciudad de México-Tenochtitlán, culminando así la etapa conocida como Conquista de México. Pero, tras su muerte en 1547, ¿**dónde** está la **tumba** de **Cortés**?
 

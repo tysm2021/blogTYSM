@@ -9,14 +9,14 @@ tags:
 - malinalco
 - mexicas
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-20-malinalco-5289026_1280.jpeg"
+    src: /images/2022-04-20-malinalco-5289026_1280.jpeg
 sharing: true
 author: Francisco Massé
 cover: "/images/2022-04-20-malinalco-5289026_1280.jpeg"
@@ -26,6 +26,11 @@ comment: false
 summary: 'Este Pueblo Mágico tiene de todo: arte, galerías, gastronomía, hoteles y
   una impactante zona arqueológica.'
 ---
+
+
+
+
+
 
 **Malinalco** es un hermoso **Pueblo Mágico** ubicado en el Estado de México, a unos cien kilómetros de la Ciudad de México, que cuenta tanto con un pintoresco centro de calles empedradas, casas coloridas, galerías y museos, como con una importante **zona arqueológica** que data del siglo XV de nuestra era, con mucha **historia** que contar.
 

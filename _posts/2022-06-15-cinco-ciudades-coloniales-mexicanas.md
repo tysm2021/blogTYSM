@@ -9,21 +9,27 @@ tags:
 - paseos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-14-1280px-guanajuato-_guanajuato_-23784476462.jpeg"
+    src: /images/2022-06-14-1280px-guanajuato-_guanajuato_-23784476462.jpeg
 sharing: true
 summary: Estas ciudades fueron fundadas en tiempos de la Colonia, entre los siglos
   XVI y XVIII
 cover: "/images/2022-06-14-1280px-guanajuato-_guanajuato_-23784476462.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En América Latina, se le llama "**ciudad colonial**" a un centro urbano construido durante los tres siglos de dominación española, del XVI al XVIII. Y en **México** tenemos varios ejemplos de **ciudades coloniales** que, por su **historia** y atractivos **turísticos**, vale la pena visitar.
 

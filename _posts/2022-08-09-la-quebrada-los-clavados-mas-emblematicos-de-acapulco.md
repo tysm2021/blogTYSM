@@ -10,21 +10,27 @@ tags:
 - ciudades
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-26-majahuitas_pinterest.jpeg"
+    src: /images/2022-04-26-majahuitas_pinterest.jpeg
 sharing: true
 summary: 'Desde hace décadas, es tradición en Acapulco ir a ver a los temerarios clavadistas
   de la Quebrada: conoce su historia'
 cover: "/images/2022-08-09-la_quebrada_acapulco-gro.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Hasta hace algunos años, el puerto de **Acapulco** era la **playa** mexicana por excelencia; además, su relativa cercanía a la Ciudad de México lo convertía en el lugar ideal para que miles de "chilangos" se dieran una escapada de fin de semana. Y sin duda uno de los sitios más emblemáticos del puerto es **La Quebrada**, un acantilado donde desde hace décadas osados **clavadistas** desafían a la muerte lanzándose en una caída de 35 metros.
 

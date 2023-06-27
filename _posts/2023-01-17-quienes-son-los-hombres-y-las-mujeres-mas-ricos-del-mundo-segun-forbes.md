@@ -8,14 +8,14 @@ tags:
 - celebridades
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2023-01-16-dmitry-demidko-ebwzfkaheau-unsplash.jpeg"
+    src: /images/2023-01-16-dmitry-demidko-ebwzfkaheau-unsplash.jpeg
 sharing: true
 summary: 'Como cada año, la revista financiera Forbes publicó su lista de las personas
   más acaudaladas del planeta: aquí te decimos quiénes están ahí…'

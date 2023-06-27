@@ -10,21 +10,27 @@ tags:
 - alemania
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-18-einstein_blackboard_exploitable_template.jpeg"
+    src: /images/2022-08-18-einstein_blackboard_exploitable_template.jpeg
 sharing: true
 summary: 'Sin duda, es uno de los científicos más admirados y citados en redes sociales:
   conoce diez datos de su biografía'
 cover: "/images/2022-08-18-einstein_blackboard_exploitable_template.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 El físico alemán **Albert Einstein** es, sin duda, uno de los **científicos** más famosos de todos los tiempos y una figura de la cultura popular del siglo XX. Sus supuestas **frases célebres** —muchas de las cuales son incorrectamente atribuidas a él— recorren las redes sociales como pequeñas cápsulas de inteligencia y sabiduría, pero ¿conoces su **biografía**? A continuación van **diez** **datos** que quizás no conocías de él.
 

@@ -10,21 +10,27 @@ tags:
 - francia
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-26-louvre_2007_02_24_c.jpeg"
+    src: /images/2022-08-26-louvre_2007_02_24_c.jpeg
 sharing: true
 summary: 'Uno de los museos más visitados del mundo es el del Louvre, que se encuentra
   en París: demos un vistazo a este hermoso sitio'
 cover: "/images/2022-08-26-louvre_2007_02_24_c.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Ubicado en la ciudad de **París**, **Francia,** el **Museo del Louvre** —_Musée du Louvre_, en su idioma original— es una de las instituciones culturales y artísticas europeas más visitadas del mundo, y hogar de la famosa '**Mona Lisa**' de Leonardo **da Vinci**. Conozcamos un poco más a fondo este histórico edificio, que resguarda y expone algunas de las obras maestras más relevantes de **arte** universal.
 

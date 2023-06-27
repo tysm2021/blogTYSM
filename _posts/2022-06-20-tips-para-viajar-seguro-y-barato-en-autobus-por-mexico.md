@@ -10,21 +10,27 @@ tags:
 - pueblos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-20-highway-74188_1280.jpeg"
+    src: /images/2022-06-20-highway-74188_1280.jpeg
 sharing: true
 summary: Si no tienes auto o prefieres evitarte el estrés de la carretera, aquí unos
   consejos para viajar en autobús con seguridad y ahorrando
 cover: "/images/2022-06-20-highway-74188_1280.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Si te gusta **viajar** por **México**, pero no tienes auto o prefieres no preocuparte por la **carretera** y ahorrar en casetas y gasolina, aquí te damos unos **tips** y **consejos** para **viajar** en **autobús** de modo **seguro** y **económico**.
 

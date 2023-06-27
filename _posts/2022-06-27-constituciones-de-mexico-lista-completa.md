@@ -9,21 +9,27 @@ tags:
 - personajes
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-27-carranza.jpeg"
+    src: /images/2022-06-27-carranza.jpeg
 sharing: true
 summary: La Constitución que nos rige se promulgó en 1917; antes de eso, ¿cuántas
   versiones previas tuvimos?
 cover: "/images/2022-06-27-carranza.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Todos los que fuimos a la primaria aprendimos que la **Constitución Política de los Estados Unidos Mexicanos** se promulgó el **5 de febrero de 1917** por el congreso constituyente del presidente **Venustiano Carranza**. Pero, antes de ese documento, ¿**cuántas** **constituciones** tuvimos en **México**?
 

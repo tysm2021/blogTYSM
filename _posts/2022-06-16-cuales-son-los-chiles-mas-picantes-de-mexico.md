@@ -9,21 +9,27 @@ tags:
 - platillos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-15-hot-peppers-1539472_1280.jpeg"
+    src: /images/2022-06-15-hot-peppers-1539472_1280.jpeg
 sharing: true
 summary: A los mexicanos nos gusta el ardor de lo picante, pero… ¿sabes cuáles son
   los chiles más picosos?
 cover: "/images/2022-06-15-hot-peppers-1539472_1280.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Uno de los ingredientes indispensables de la cocina mexicana es, sin dudarlo, el chile. Y es que nos gusta tanto el sabor de lo picosito que se lo ponemos hasta a los dulces y las frutas. Pero, de entre la gran gama de chiles, frescos y secos, que consumimos a diario, ¿cuáles son los más picantes?
 

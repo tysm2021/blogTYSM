@@ -9,21 +9,27 @@ tags:
 - maiz
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-29-mexican_tortilla.jpeg"
+    src: /images/2022-07-29-mexican_tortilla.jpeg
 sharing: true
 summary: Son la base de la alimentación del mexicano y siempre se nos ha dicho que
   hacen que uno engorde, pero… ¿qué dice la ciencia?
 cover: "/images/2022-07-29-mexican_tortilla.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Si uno pretende ponerse a **dieta** para **bajar de peso**, una de las primeras recomendaciones que recibe es "dejar el pan y la **tortilla**". Pero artículos **científicos** recientes han salido a desmentir la creencia generalizada de que **la tortilla hace que engordes**. ¿Qué tan cierto es esto y qué tan **nutritivas** son las mexicanísimas **tortillas** de maíz?
 

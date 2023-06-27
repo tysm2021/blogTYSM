@@ -10,21 +10,27 @@ tags:
 - ciudades
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-06-1280px-teatro_juarez.jpeg"
+    src: /images/2022-09-06-1280px-teatro_juarez.jpeg
 sharing: true
 summary: 'Antes de que hubiera cines, el público mexicano acudía a teatros: conoce
   algunos de los más bellos y antiguos'
 cover: "/images/2022-09-06-1280px-teatro_juarez.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Herederos como somos de toda una tradición de **teatro** y dramaturgia venida de España, en el **México** colonial y del siglo XIX se construyó una multitud de **teatros** a lo largo y ancho del país, muchos de los cuales ya desaparecieron, como el extinto **Teatro Nacional de México**, donde alguna vez se estrenó nuestro Himno Nacional. Pero, por fortuna, muchos de ellos aún siguen en pie y son mudos testigos de toda una amalgama de literatura, arte dramático y arquitectura.
 

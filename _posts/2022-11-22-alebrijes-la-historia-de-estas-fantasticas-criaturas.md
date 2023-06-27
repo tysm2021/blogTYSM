@@ -10,21 +10,27 @@ tags:
 - oaxaca
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-22-alebrije_iluminado_en_fnsm.jpeg"
+    src: /images/2022-11-22-alebrije_iluminado_en_fnsm.jpeg
 sharing: true
 summary: 'Son un poco animales y un poco alucinaciones: conoce el origen de los increíbles
   alebrijes y los estados que se disputan su creación…'
 cover: "/images/2022-11-22-alebrije_iluminado_en_fnsm.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Algunos reclaman que su origen está en la **Ciudad de Méxic**o y que son de cartón pintado de colores; otros, más aventurados, sostienen que en realidad están hechos de madera y son **oaxaqueños**. Pero, a todo esto, ¿quién creó a los famosos **alebrijes**, **qué representa** esta **artesanía**, qué **significa** su nombre, cómo se **fabrican** y dónde están los talleres que los vieron nacer?
 

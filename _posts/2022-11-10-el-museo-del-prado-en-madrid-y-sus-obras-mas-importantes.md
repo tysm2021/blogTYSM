@@ -10,21 +10,27 @@ tags:
 - españa
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-10-1024px_museo_del_prado_-madrid-_15.jpeg"
+    src: /images/2022-11-10-1024px_museo_del_prado_-madrid-_15.jpeg
 sharing: true
 summary: 'Es quizás el museo más importante de España y uno de los más visitados en
   el mundo por su importante colección pictórica: conozcamos el Museo del Prado'
 cover: "/images/2022-11-10-1024px_museo_del_prado_-madrid-_15.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Ubicado en **Madrid**, la capital de lo que fuera el Imperio Español, se encuentra el **Museo del Prado**, el cual durante sus más de doscientos años de existencia ha acumulado una importante **colección** de **pinturas** y **obras** artísticas, tanto de autores **españoles** como de otras nacionalidades, las cuales vale la pena conocer aunque sea de modo virtual. Por eso aquí te hablamos un poco de la historia del museo y te decimos cuáles son sus obras más importantes.
 

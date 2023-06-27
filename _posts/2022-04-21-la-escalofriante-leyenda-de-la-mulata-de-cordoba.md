@@ -9,14 +9,14 @@ tags:
 - méxico
 - colonial
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-21-1280px-mulata.jpeg"
+    src: /images/2022-04-21-1280px-mulata.jpeg
 sharing: true
 author: Francisco Massé
 cover: "/images/2022-04-21-1280px-de_mulata_y_espanol-_morisca_-juan_patricio_morlete.jpeg"
@@ -26,6 +26,11 @@ comment: false
 summary: El México colonial estuvo lleno de maravillosas y espeluznantes leyendas
   como esta, sobre una hermosa bruja…
 ---
+
+
+
+
+
 
 Desde tiempos muy remotos, en nuestro país han circulado una multitud de **leyendas** que hablan de muertos, aparecidos y de sucesos **sobrenaturales** que invariablemente dan una lección o una moraleja. Una de ellas, de tiempos de la **Colonia**, habla de una hermosa **mulata** que vivía en la ciudad de **Córdoba, Veracruz,** para la cual no había prisión que pudiera contenerla.
 

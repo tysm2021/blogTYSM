@@ -10,21 +10,27 @@ tags:
 - prehispanico
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-27-xoloitzquintleperou_-1-_01.jpeg"
+    src: /images/2022-07-27-xoloitzquintleperou_-1-_01.jpeg
 sharing: true
 summary: Los antiguos creían que un xolo, como se les dice de cariño, los acompañaría
   en su camino al Más Allá
 cover: "/images/2022-07-27-xoloitzquintleperou_-1-_01.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En las últimas décadas, en algunas ciudades de México se han puesto de moda unos "**perros pelones**" que desde tiempos prehispánicos conocemos como **xoloitzcuintles**, **xoloescuintles** o, simplemente, '**xolos**'. ¿Cuál es la **historia** de estos curiosos animales, por qué carecen de pelo y qué papel jugaban en la **cultura** y la **religión** de los antiguos mexicanos?
 

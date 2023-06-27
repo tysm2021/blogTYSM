@@ -11,21 +11,27 @@ tags:
 - cuentos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2023-01-05-freddie-marriage-w8jisvyjy-8-unsplash.jpeg"
+    src: /images/2023-01-05-freddie-marriage-w8jisvyjy-8-unsplash.jpeg
 sharing: true
 summary: El inicio del año es un momento de reflexión, de buenos propósitos y de ganas
   de empezar de nuevo; aquí te recomendamos algunos libros para hacerlo bien…
 cover: "/images/2023-01-05-freddie-marriage-w8jisvyjy-8-unsplash.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Una y otra vez, el **Año Nuevo** es el momento ideal para hacer recuentos, reflexionar sobre el pasado y hacer propósitos para un mejor futuro. Y, ¿qué mejor manera de ganar perspectiva y de hacerse del mejor ánimo para cumplir con nuestros objetivos que haciéndolo acompañados de los **mejores** **libros** **mexicanos**? Ya sean cuentos, novelas, ensayos sobre motivación o autoestima, historias de superación personal o incluso volúmenes de autoayuda, acá te mencionamos algunas **recomendaciones** para **empezar el año** con el pie derecho… y leyendo.
 

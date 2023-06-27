@@ -11,14 +11,14 @@ tags:
 - prehispanico
 subcategorie: SIGLOXIX
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-25-batallonsanpatricio.png"
+    src: /images/2022-04-25-batallonsanpatricio.png
 sharing: true
 author: Francisco Massé
 cover: "/images/2022-04-25-batallonsanpatricio.png"
@@ -27,6 +27,11 @@ comment: false
 summary: 'Nuestra historia no sólo tiene héroes mexicanos: también algunos extranjeros
   lucharon por nosotros.'
 ---
+
+
+
+
+
 
 Nuestra historia está llena de mexicanos y mexicanos que, debido a su amor por la Patria, lucharon en cruentas batallas contra colonizadores, invasores, tiranos y otros infames personajes, e incluso dieron sus vidas para forjar nuestra nación. Pero, ¿sabías que también ha habido **extranjeros** que **lucharon** en diversas ocasiones por **México**?
 

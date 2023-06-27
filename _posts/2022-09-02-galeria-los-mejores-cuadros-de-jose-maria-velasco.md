@@ -10,21 +10,28 @@ tags:
 - artistas
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-02-1280px-jose_maria_velasco_en_el_munal_dsc0287_-35357396650.jpeg"
+    src: >-
+      /images/2022-09-02-1280px-jose_maria_velasco_en_el_munal_dsc0287_-35357396650.jpeg
 sharing: true
 summary: Conoce la obra de este pintor, considerado uno de los mejores paisajistas
   mexicanos de todos los tiempos…
 cover: "/images/2022-09-02-1280px-jose_maria_velasco_en_el_munal_dsc0287_-35357396650.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 José María Tranquilino Francisco de Jesús Velasco Gómez Obregón, mejor conocido como **José María Velasco**, fue un pintor y **paisajista** mexicano que nació en el pueblo de Temascalcingo —actualmente, en el Estado de México— el 6 de julio de 1840, y murió el 26 de agosto de 1912 en la Ciudad de México, en el barrio de la Villa de Guadalupe. Sus **mejores obras**, sin duda, son los numeroso **paisajes** en los que plasmó la belleza del Valle de México durante el siglo XIX, así como otras localidades de nuestro bello país.
 

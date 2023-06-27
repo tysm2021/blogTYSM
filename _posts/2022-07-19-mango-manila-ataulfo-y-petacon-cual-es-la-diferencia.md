@@ -9,21 +9,27 @@ tags:
 - postres
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-19-dasheri_mango.jpeg"
+    src: /images/2022-07-19-dasheri_mango.jpeg
 sharing: true
 summary: 'Una de las frutas favoritas de muchísimos mexicanos es el mango, en cualquiera
   de sus tres variedades: aquí te hablamos acerca de ellas'
 cover: "/images/2022-07-19-dasheri_mango.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 A los mexicanos nos gusta tanto el **mango** que, hace años, cuando veíamos a una muchacha curvilínea y de buen ver, exclamábamos que "¡Es un **mango**!" Y como existen tres variedades principales de esta fruta —**manila**, **ataulfo** y **petacón**—, aquí te explicamos un poco las **diferencias** entre ellas.
 

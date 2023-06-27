@@ -9,21 +9,27 @@ tags:
 - productos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-24-1024px_gem_corn.jpeg"
+    src: /images/2022-11-24-1024px_gem_corn.jpeg
 sharing: true
 summary: De los mexicanos se dice que somos "los hombres y mujeres de maíz" por la
   importancia histórica de este grano; pero, ¿cuántos tipos existen en el país?
 cover: "/images/2022-11-24-1024px_gem_corn.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Desde tiempos prehispánicos y hasta el día de hoy, la base de la alimentación del pueblo de **México** ha sido el **maíz**, a tal grado se dice que los **mexicanos** somos los "hombres de **maíz**", pues incluso hay una leyenda mexica que afirma que los dioses crearon a la especie humana a partir de este grano. Pero, ¿**cuántos tipos de maíz existen en México**? ¿Son todos **comestibles**? ¿**Cómo** se **llaman** y en qué se distinguen?
 

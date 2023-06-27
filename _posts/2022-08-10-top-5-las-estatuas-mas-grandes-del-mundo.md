@@ -11,21 +11,27 @@ tags:
 - top5
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-10-tallest_statue_of_lord_shiva.jpeg"
+    src: /images/2022-08-10-tallest_statue_of_lord_shiva.jpeg
 sharing: true
 summary: Si el Cristo del Cubilete te parece grande, espera a ver estas construcciones
   que tienen más de cien metros de altura…
 cover: "/images/2022-08-10-tallest_statue_of_lord_shiva.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 A diferencia de un edificio, un monumento o una escultura, una **estatua** es una obra artística que tiene forma humana o, en su defecto, de un animal. Y aunque en todo el mundo podemos contemplar estatuas de gran **altura**, y algunas son tan famosas como la **Estatua de la Libertad** de Nueva York, el **Cristo Redentor** de Río de Janeiro o el del Cubilete, en el estado de Guanajuato, en este artículo veremos el **Top 5** de las **estatuas** **más altas del mundo**.
 

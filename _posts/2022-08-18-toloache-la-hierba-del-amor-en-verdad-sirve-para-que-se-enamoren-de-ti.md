@@ -9,21 +9,27 @@ tags:
 - folclor
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-18-datura_innoxia_-_habitus.jpeg"
+    src: /images/2022-08-18-datura_innoxia_-_habitus.jpeg
 sharing: true
 summary: Se dice que una pócima hecha con él asegura que se enamoren de ti, pero,
   ¿qué tan cierto es que el toloache es la 'planta del amor'?
 cover: "/images/2022-08-18-datura_innoxia_-_habitus.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Según la sabiduría popular del pueblo mexicano, cuando un hombre —aunque no se descarta que le suceda a las mujeres también— se **enamora** profundamente y de golpe, no duerme bien ni puede dejar de pensar en la mujer amada, se dice que puede que le "hayan dado **toloache**" o que está "**entoloachado**", haciendo referencia a una **planta** que, según se dice, tiene propiedades **herbolarias** capaces de hacer que una persona **se enamore** de otra. Pero, ¿qué tan cierto que con **toloache** puede elaborarse una '**pócima de amor**'? Y, sobre todo, ¿hay **riesgos** o **peligros** al beberla?
 

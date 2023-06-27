@@ -9,21 +9,27 @@ tags:
 - estadisticas
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-12-02-people_at_taco_cart_in_mexico_city.jpeg"
+    src: /images/2022-12-02-people_at_taco_cart_in_mexico_city.jpeg
 sharing: true
 summary: Entre López, Pérez, Sánchez y Hernández, ¿cuáles son los apellidos que más
   gente usa en México, según el Instituto Nacional de Estadística y Geografía?
 cover: "/images/2022-12-02-people_at_taco_cart_in_mexico_city.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En **México**, desde tiempos del Virreinato, se estila que los ciudadanos portemos uno, dos o varios nombres de pila —llamados así porque antiguamente se nos ponían en las pilas bautismales, aunque en la actualidad los que cuentan son los del Registro Civil— y, en general, dos **apellidos**: el del padre o **paterno**, seguido del de la madre o **materno**, aunque hay sus excepciones como son los **apellidos** compuestos y los hijos y las hijas "naturales" que llevan los dos **apellidos** de la madre. Pero, a todo esto y según el **INEGI**, ¿**cuáles** son los **apellidos más comunes** y los que mas gente usa en **México**, en este **2022**?
 

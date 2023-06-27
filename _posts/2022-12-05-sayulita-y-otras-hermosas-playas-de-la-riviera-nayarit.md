@@ -9,21 +9,27 @@ tags:
 - vacaciones
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-12-02-beach_at_sayulita_-17268510126.jpeg"
+    src: /images/2022-12-02-beach_at_sayulita_-17268510126.jpeg
 sharing: true
 summary: En la costa del estado de Nayarit, muy cerca de Puerto Vallarta y de la frontera
   con Jalisco, estas playas están ganando fama por su belleza…
 cover: "/images/2022-12-02-beach_at_sayulita_-17268510126.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 El estado de **Nayarit** se encuentra en la costa del Pacíifico, colindando con con los estados de Sinaloa, Durango y Zacatecas hacia el norte y con el estado de Jalisco hacia el sur. Y aunque en esa zona, en lo que a **playas** se refiere, mucho de hablaba de **Puerto Vallarta** y, si acaso, de **Guayabitos**, en las dos últimas décadas una serie de hermosas y limpias **playas** **nayaritas** han ganado fama entre los vacacionistas, conformando una franja que se ha denominado **Riviera Nayarit**.
 

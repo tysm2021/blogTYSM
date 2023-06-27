@@ -10,21 +10,27 @@ tags:
 - cdmx
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-02-atrial_arch_coyoacan.jpeg"
+    src: /images/2022-08-02-atrial_arch_coyoacan.jpeg
 sharing: true
 summary: 'Al sur de la CdMx se encuentra Coyoacán, en cuyos barrios encontrarás muchos
   sitios de interés: conoce algunos de ellos…'
 cover: "/images/2022-08-02-atrial_arch_coyoacan.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Los que saben de historia dicen que durante la época prehispánica se llamaba **Coyohuacan**, que quiere decir "lugar de **coyotes**". Hoy, lo conocemos simplemente como **Coyoacán**, un sitio mágico, tradicional y romántico al sur de la **CdMx**, en cuyos barrios encontrarás muchos **lugares** de interés **turístico**. Aquí te compartimos cinco que **no te puedes perder**.
 

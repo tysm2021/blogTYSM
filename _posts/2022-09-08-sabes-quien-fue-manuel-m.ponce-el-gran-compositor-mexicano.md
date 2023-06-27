@@ -9,21 +9,27 @@ tags:
 - musicos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-08-manuelmponce.jpg"
+    src: /images/2022-09-08-manuelmponce.jpg
 sharing: true
 summary: 'Una de las estrellas más brillantes del firmamento musical mexicano fue
   el zacatecano Manuel M. Ponce: conoce un poco de su vida y obra.'
 cover: "/images/2022-09-08-manuelmponce.jpg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Además de grandes pintores, notables literatos, bailarines y escultores, México ha dado al mundo toda una pléyade de **músicos**, tanto **intérpretes** y **compositores**, que han llevado muy lejos los sonidos y el sentimiento de nuestra tierra. Entre los nombres que más resuenan están los de Silvestre Revueltas, Juventino Rosas, Carlos Chávez y, desde luego, el de **Manuel M. Ponce**, quien fue un notable **pianista** y **compositor** a que recordamos por piezas como "Estrellita". Conozcamos un poco de su **biografía** y de sus **obras** más **notables**.
 

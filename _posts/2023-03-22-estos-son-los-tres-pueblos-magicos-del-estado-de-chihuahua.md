@@ -9,14 +9,14 @@ tags:
 - pueblos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2023-03-22-copper_canyon_near_creel_mexico_-_panoramio.jpeg"
+    src: /images/2023-03-22-copper_canyon_near_creel_mexico_-_panoramio.jpeg
 sharing: true
 summary: Al norte del país se encuentra Chihuahua, el estado más grande de la República,
   y estos son los tres Pueblos Mágicos que vale la pena visitar en él…

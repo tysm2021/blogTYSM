@@ -10,21 +10,27 @@ tags:
 - chiapas
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-10-03-sumidero_canyon-_chiapas.jpeg"
+    src: /images/2022-10-03-sumidero_canyon-_chiapas.jpeg
 sharing: true
 summary: Una de las maravillas naturales del estado de Chiapas es este espectacular
   cañón formado por el cauce del río Grijalva, con 250 metros de profundidad
 cover: "/images/2022-10-03-sumidero_canyon-_chiapas.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 El sureste mexicano, con sus abundantes ríos y su clima selvático, es ampliamente conocido por su maravillas naturales que invitan a realizar el llamado **turismo de aventura** y el **ecoturismo**. Una de esas impresionantes maravillas de la naturaleza es el **Cañón del Sumidero**, que se encuentra en el estado de **Chiapas**, y que es un impresionante y angosto canal natural formado por el cauce del **río Grijalva**.
 

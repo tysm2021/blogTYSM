@@ -9,21 +9,27 @@ tags:
 - pueblos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-19-1280px-los_prismas_basalticos.jpeg"
+    src: /images/2022-08-19-1280px-los_prismas_basalticos.jpeg
 sharing: true
 summary: Por sus angulosas formas geométricas, estos prismas sorprenden a los turistas;
   ¿dónde están y cómo surgieron?
 cover: "/images/2022-08-19-1280px-los_prismas_basalticos.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En el estado de **Hidalgo**, muy cerca del Pueblo Mágico de **Huasca de Ocampo** y de la Hacienda de **Santa María Regla**, se encuentra esta maravilla natural que se conoce como los **Prismas Basálticos**. ¿Cuál es el **origen** de estas formaciones rocosas, **cómo llegar** a ellas y qué **actividades** pueden hacerse en este sitio?
 

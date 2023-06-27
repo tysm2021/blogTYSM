@@ -9,21 +9,27 @@ tags:
 - ciudades
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-21-tlaxcala_patrimonio_10.jpeg"
+    src: /images/2022-09-21-tlaxcala_patrimonio_10.jpeg
 sharing: true
 summary: En redes sociales se hace la broma —muy mala, por cierto— de que "Tlaxcala
   no existe"; pero aquí te compartimos las pruebas de que claro que sí…
 cover: "/images/2022-09-21-tlaxcala_patrimonio_10.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En memes y redes sociales desde hace algunos años circula la broma de decir que "**Tlaxcala** no existe". Además de que denota cierto desprecio que resulta injustificado y un centralismo que no viene bien con el espíritu de fraternidad que nos caracteriza como mexicanos, hay algo que es innegable: que **Tlaxcala** existe, que es una de las **ciudades** más antiguas de México y que algunos de sus atractivos turísticos incluso han sido incluida en la lista del **Patrimonio de la Humanidad** de la UNESCO.
 

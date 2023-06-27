@@ -8,14 +8,14 @@ tags:
 - folclor
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-23-tim-mossholder-shgjspy39a-unsplash.jpeg"
+    src: /images/2022-11-23-tim-mossholder-shgjspy39a-unsplash.jpeg
 sharing: true
 summary: La actual bandera mexicana hereda sus tres colores del estandarte del Ejército
   Trigarante; pero, ¿hoy en día qué significan el verde, blanco y rojo de la enseña
@@ -23,7 +23,13 @@ summary: La actual bandera mexicana hereda sus tres colores del estandarte del E
 cover: "/images/2022-11-23-tim-mossholder-shgjspy39a-unsplash.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Desde que somos niños y, en la escuela primaria, aprendemos las estrofas del Himno Nacional Mexicano y el coro del Toque de **Bandera**, se nos enseña a rendir honores al lábaro patrio, el cual luce sus tres **colores** —el **verde**, el **blanco** y el **rojo**— con su escudo nacional en el centro. Pero, ¿te has preguntado cuál es el **significado** y el **simbolismo** de los colores de la **bandera** de **México**?
 

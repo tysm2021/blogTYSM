@@ -10,21 +10,28 @@ tags:
 - mexicas
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-09-la_derrota_en_la_batalla_de_atlixco_contra_los_huejotzingas-_en_el_folio_168v.png"
+    src: >-
+      /images/2022-09-09-la_derrota_en_la_batalla_de_atlixco_contra_los_huejotzingas-_en_el_folio_168v.png
 sharing: true
 summary: El español que usamos en México no es igual al de otros países, debido a
   la influencia de lenguas indígenas como el náhuatl en nuestra habla cotidiana…
 cover: "/images/2022-09-09-la_derrota_en_la_batalla_de_atlixco_contra_los_huejotzingas-_en_el_folio_168v.png"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Los lingüistas y demás estudiosos de la lengua española saben bien que el español que se habla, por ejemplo, en España o en Argentina, no es igual ni tiene el mismo vocabulario que el español de México. Esto no está mal ni tiene nada de extraño, pues se debe a la influencia de lo que se llama "el sustrato lingüístico", término que se refiere a las distintas lenguas indígenas que se hablaban en nuestro país antes de la imposición del español o castellano. Por eso es que en el habla cotidiana de los mexicanos, especialmente en la región central donde alguna vez se ubicó el Imperio Mexica, usamos una gran cantidad de voces, vocablos y palabras que provienen de la lengua náhuatl, que son llamadas nahuatlismos.
 

@@ -9,14 +9,14 @@ tags:
 - medicina
 - folclor
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-04-22-papalo1.jpg"
+    src: /images/2022-04-22-papalo1.jpg
 sharing: true
 author: Francisco Massé
 cover: "/images/2022-04-22-papalo1.jpg"
@@ -26,6 +26,11 @@ comment: false
 summary: "¿Qué sería de un taco placero sin su pápalo quelite? ¿Y sabías que tiene
   muchos beneficios para tu salud?"
 ---
+
+
+
+
+
 
 Entre las muchas **hierbas** y plantas que sazonan nuestra gastronomía, una que destaca es el llamado “**pápalo quelite**”, el cual es usado por su sabor fuerte en tacos placeros y otros platillos. Pero, ¿sabías que además tiene muchas **propiedades** y trae muchos **beneficios** a la **salud**?
 

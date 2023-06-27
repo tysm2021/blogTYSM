@@ -9,21 +9,27 @@ tags:
 - independencia
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-11-11-1024px-gfp-antonio-lopez-de-santa-anna.jpeg"
+    src: /images/2022-11-11-1024px-gfp-antonio-lopez-de-santa-anna.jpeg
 sharing: true
 summary: 'No sólo ocupó la presidencia más ocasiones que cualquier otro: durante el
   mandato de López de Santa Anna, México perdió más de la mitad de su territorio…'
 cover: "/images/2022-11-11-1024px-gfp-antonio-lopez-de-santa-anna.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Nuestra historia a menudo parece lo mismo estar llena de héroes y heroínas que de villanos, antagonistas y personajes de infausta memoria. Y si hablamos de los **presidentes de México**, muchos discutirán cuál ha sido **el peor** de ellos, proponiendo quizás al dictador **Porfirio Díaz**, a **Juárez** si uno es conservador, a **Miguel de la Madrid** con su inflación del 159% en un año u otros hasta se aventurarán a decir que el peor es el que actualmente ocupa la silla. Pero uno de los que no puede faltar en esta lista es **Antonio López de Santa Anna**, quien tiene varios **récords** poco presumibles en sus administraciones.
 

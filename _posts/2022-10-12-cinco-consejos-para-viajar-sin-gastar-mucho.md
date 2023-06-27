@@ -9,21 +9,27 @@ tags:
 - consejos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-10-12-edgar-chaparro-7hdi-ekg11i-unsplash.jpeg"
+    src: /images/2022-10-12-edgar-chaparro-7hdi-ekg11i-unsplash.jpeg
 sharing: true
 summary: A todos, o casi, nos gusta viajar y conocer lugares nuevos; pero como en
   estos tiempos de crisis puede resultar difícil, aquí unas ideas para no gastar tanto…
 cover: "/images/2022-10-12-edgar-chaparro-7hdi-ekg11i-unsplash.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Ya sea en avión, en camión o en nuestro propio auto; en pareja, con amigos, la familia o en solitario; a las playas, las ciudades, los Pueblos Mágicos, a sitios arqueológicos o a las maravillas naturales de México —o incluso hasta dentro de nuestra propia ciudad o estado—, a todos nos gusta **viajar**. Pero, bien lo sabemos, a veces nuestra **economía** no es la mejor y **hacer un viaje** parece un sueño inalcanzable; por eso, aquí te dejamos cinco **consejos** para **viajar** sin **gastar demasiado**, los cuales podrán ayudarte a romper la monotonía y conocer lugares y personas nuevas.
 

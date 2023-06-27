@@ -10,21 +10,27 @@ tags:
 - biografías
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-14-sorjuana.jpg"
+    src: /images/2022-06-14-sorjuana.jpg
 sharing: true
 summary: Conoce la vida y la obra de esta poetisa y escritora novohispana que fue
   llamada "La Décima Musa".
 cover: "/images/2022-06-14-sorjuana.jpg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Una de las primeras y más destacadas escritoras mexicanas —aunque, siendo precisos, era más bien novohispana— fue Sor Juana Inés de la Cruz, cuyos poemas aún son leídos y memorizados por estudiantes desde la educación media, y que tuvo una biografía bastante singular para tratarse de una religiosa.
 

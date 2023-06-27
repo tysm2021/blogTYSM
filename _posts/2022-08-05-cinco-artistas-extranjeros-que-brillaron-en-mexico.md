@@ -10,21 +10,27 @@ tags:
 - extranjeros
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-05-1280px-sealnationalcollegecharlotsicdf.jpeg"
+    src: /images/2022-08-05-1280px-sealnationalcollegecharlotsicdf.jpeg
 sharing: true
 summary: 'Por su belleza natural y hospitalidad, México ha sido refugio de artistas
   extranjeros que produjeron sus mejoras obras en nuestro país: conoce a algunos…'
 cover: "/images/2022-08-05-1280px-sealnationalcollegecharlotsicdf.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Desde hace más de 500 años, **México** ha sido una tierra hospitalaria que ha recibido a **migrantes** de muchas naciones europeas, asiáticas y de otras latitudes. Españoles, franceses, alemanes, británicos, rusos, irlandeses, libaneses, sirios, orientales y gente de otras nacionalidades ha llegado a nuestras tierras con la esperanza de hacer una nueva vida, y ha echado raíces que permean en nuestra **cultura**. Y las artes no son la excepción: por eso hoy te presentamos a **cinco artistas extranjeros** que realizaron lo mejor de su producción en tierras **mexicanas**.
 

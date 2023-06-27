@@ -10,21 +10,27 @@ tags:
 - iglesias
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-15-basilica_de_santa_maria_de_guadalupe_2018.jpeg"
+    src: /images/2022-07-15-basilica_de_santa_maria_de_guadalupe_2018.jpeg
 sharing: true
 summary: 'No todo son playas y Pueblos Mágicos: una parte importante del turismo en
   México es religioso y se concentra en estos importantes santuarios.'
 cover: "/images/2022-07-15-basilica_de_santa_maria_de_guadalupe_2018.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Ya sea para visitar al **santo**, al **Cristo** o la **Virgen** que ahí se adora, o para "pagar una manda", estos importantes **santuarios religiosos mexicanos** son también importantes **destinos turísticos** que año tras año atraen a miles de creyentes y visitantes. Aquí te compartimos una lista de los **más importantes**, que no puedes dejar de conocer.
 

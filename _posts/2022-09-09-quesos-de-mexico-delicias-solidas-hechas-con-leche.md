@@ -9,21 +9,27 @@ tags:
 - productos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-08-01_queso_mexicano_oaxaca.jpeg"
+    src: /images/2022-09-08-01_queso_mexicano_oaxaca.jpeg
 sharing: true
 summary: Herederos de una tradición traída de España y perfeccionada en el Porfiriato,
   los queseros mexicanos producen estas auténticas delicias…
 cover: "/images/2022-09-08-01_queso_mexicano_oaxaca.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En prácticamente todos los estados de **México** donde se crían **vacas**, **ovejas** o **cabras**, es casi seguro que se producirán **quesos**. Ya sean **frescos**, **suaves**, de **hebra**, semi **maduros**, que gratinan o no, untables o que se desmoronan, los **quesos mexicanos** están a la altura de cualquiera que le pongan enfrente, e incluso tenemos uno que se ha ganado su propia **Denominación de Origen**.
 

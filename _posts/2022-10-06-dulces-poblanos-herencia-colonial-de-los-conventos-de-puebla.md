@@ -11,21 +11,27 @@ tags:
 - puebla
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-10-06-dulces_de_puebla.jpeg"
+    src: /images/2022-10-06-dulces_de_puebla.jpeg
 sharing: true
 summary: Desde el Virreinato, las manos de las monjas de conventos poblanos como el
   de Santa Clara han regalado a México numerosas delicias dulces…
 cover: "/images/2022-10-06-dulces_de_puebla.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Cuando uno piensa en **dulces típicos**, una de las primeras ciudades que vienen a la mente es **Puebla**, capital del estado del mismo nombre. Y es que hay razones de sobra, pues desde la época **virreinal** y a lo largo de la historia las hábiles **monjas** de clausura de **conventos** como el de **Santa Clara** o el de Santa Mónica han producido verdaderos manjares **dulces** que hacen las delicias de chicos y grandes.
 

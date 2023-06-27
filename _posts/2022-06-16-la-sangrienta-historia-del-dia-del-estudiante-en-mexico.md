@@ -9,21 +9,27 @@ tags:
 - universidad
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-16-student-7036660_1280.jpeg"
+    src: /images/2022-06-16-student-7036660_1280.jpeg
 sharing: true
 summary: Cada 23 de mayo celebramos a los y las estudiantes de México, pero… ¿conoces
   el violento origen de esta conmemoración?
 cover: "/images/2022-06-16-student-7036660_1280.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En **México**, se celebra el **Día del Estudiante** cada **23 de mayo**, debido a un hecho violento que tuvo **origen** en el año de 1929, cuando mediante diversas movilizaciones los **estudiantes** de entonces buscaban la autonomía universitaria.
 

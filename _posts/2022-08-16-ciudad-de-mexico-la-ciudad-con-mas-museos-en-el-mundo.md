@@ -9,21 +9,27 @@ tags:
 - cdmx
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-16-1280px-templo_mayor_2015_207.jpeg"
+    src: /images/2022-08-16-1280px-templo_mayor_2015_207.jpeg
 sharing: true
 summary: 'En años recientes ha corrido la versión de que la CdMx es la ciudad con
   más museos en el mundo: aquí te contamos si esto es cierto…'
 cover: "/images/2022-08-16-1280px-templo_mayor_2015_207.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Con sus más de siete siglos de historia, la **Ciudad de México** —antes llamada México-Tenochtitlan— es una megalópolis donde abundan los vestigios **arqueológicos**, los **monumentos** y palacios coloniales, **edificios** modernos como los rascacielos, y también hay una dinámica vida cultural, así como una abundante producción artística, lo que se refleja en el gran número de **museos** públicos y privados que existen en ella, lo que ha llevado a afirmar que es **la ciudad con más museos en el mundo**.
 

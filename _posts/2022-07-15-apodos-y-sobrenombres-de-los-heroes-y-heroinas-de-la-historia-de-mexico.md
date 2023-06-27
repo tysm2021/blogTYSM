@@ -12,21 +12,27 @@ tags:
 - XX
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-14-migueldominguez.jpg"
+    src: /images/2022-07-14-migueldominguez.jpg
 sharing: true
 summary: ¿Por qué a nuestros héroes les pusieron los apodos como "El apóstol de la
   democracia", "El quince uñas" y "La Corregidora"?
 cover: "/images/2022-07-14-migueldominguez.jpg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 La **historia** de **México**, o al menos como nos la cuentan, cuenta con dos tipos de personajes: los villanos, que explotaban a los pobres, eran crueles e injustos, o se aferraban al poder, y los **héroes** y las **heroínas**, quienes ofrendaron incluso sus vidas en pro de la libertad, la justicia y la soberanía del país y de su pueblo. Por esas acciones muchos de ellos recibieron **sobrenombres** o **apodos** con los que son mayormente conocidos.
 

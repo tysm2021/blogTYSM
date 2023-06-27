@@ -9,21 +9,27 @@ tags:
 - recetas
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-10-17-1280px-guacamole_imgp1271.jpeg"
+    src: /images/2022-10-17-1280px-guacamole_imgp1271.jpeg
 sharing: true
 summary: Aunque para nosotros es una salsa de sobra conocida, el guacamole ha ganado
   popularidad mundial debido al Super Bowl en los Estados Unidos
 cover: "/images/2022-10-17-1280px-guacamole_imgp1271.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 La receta básica es muy sencilla: mezclar chile verde con cebolla, tomate y, claro está, aguacate. Desde luego, nos referimos al guacamole, una de las salsas mexicanas más famosas en el mundo debido a que, de unos años para acá, es una de las preferidas por el público aficionado al futbol americano, y es uno de los platillos clásicos para disfrutar del Super Bowl. Pero, ¿cuál es su origen o su historia? Y, ¿cuál es la mejor receta para prepararlo?
 

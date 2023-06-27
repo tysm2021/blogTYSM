@@ -9,21 +9,27 @@ tags:
 - oaxaca
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-11-1280px-catedral_oaxaca_juarez.jpeg"
+    src: /images/2022-08-11-1280px-catedral_oaxaca_juarez.jpeg
 sharing: true
 summary: 'Una de las ciudades más ricas en cultura, folclor y gastronomía es Oaxaca:
   aquí unas recomendaciones para el turista'
 cover: "/images/2022-08-11-1280px-catedral_oaxaca_juarez.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Con sus quinientos setenta municipios, **Oaxaca** no podría ser un estado más diverso en cuanto a **cultura**, **historia**, **folclor**, tradiciones y **gastronomía**. Y esto aplica también a su **ciudad** capital, **Oaxaca de Juárez**, donde el **turista** podrá encontrar un sinfín de actividades interesantes que hacer durante su estadía. Aquí te recomendamos **cinco** que son infaltables.
 

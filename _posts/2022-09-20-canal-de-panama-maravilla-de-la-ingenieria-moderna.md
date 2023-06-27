@@ -9,21 +9,27 @@ tags:
 - datos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-20-panama_canal_trip_1994_01.jpeg"
+    src: /images/2022-09-20-panama_canal_trip_1994_01.jpeg
 sharing: true
 summary: En la parte más angosta del continente americano se encuentra esta obra de
   ingeniería civil e hidráulica que conecta el Océano Pacífico con el Mar Caribe
 cover: "/images/2022-09-20-panama_canal_trip_1994_01.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En América Central, ubicado justamente en la parte más estrecha del **Istmo de Panamá**, se encuentra el **Canal de Panamá**, una construcción que es considerada una de las más grandes obras de la **ingeniería** mundial del siglo XX y que permite el paso de embarcaciones de gran envergadura del Océano Pacífico al Océano Atlántico, a través del Mar Caribe, conectando ambos lados del continente americano.
 

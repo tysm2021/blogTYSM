@@ -10,21 +10,27 @@ tags:
 - datos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-29-globe-3383088_1280-1.jpeg"
+    src: /images/2022-08-29-globe-3383088_1280-1.jpeg
 sharing: true
 summary: Bien sabemos que países como Rusia, China o la India son gigantescos; pero,
   en contraste, ¿cuáles son los más pequeños del planeta?
 cover: "/images/2022-08-29-globe-3383088_1280.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 En el mundo actual, dividido entre **países** y sus fronteras, al mirar un mapa nos damos cuenta de que hay Estados enormes como Rusia, Canadá, los Estados Unidos de América, Brasil, China o la India. Pero, en contraste, hay otros que miden apenas unos kilómetros cuadrados pero son estados libres; entonces, ¿**cuáles son los países más pequeños del mundo**?
 

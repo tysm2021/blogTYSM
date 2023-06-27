@@ -11,21 +11,28 @@ tags:
 - paises
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-29-1280px-st_peter-s_square-_vatican_city_-_april_2007.jpeg"
+    src: >-
+      /images/2022-07-29-1280px-st_peter-s_square-_vatican_city_-_april_2007.jpeg
 sharing: true
 summary: Además de ser el país donde vive el Papa, ¿qué más distingue a la Ciudad
   del Vaticano? Aquí te lo contamos…
 cover: "/images/2022-07-29-1280px-st_peter-s_square-_vatican_city_-_april_2007.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Por su gran tradición **católica** y por el enorme número de practicantes del **catolicismo** —117 millones, según censos recientes, que nos ubican como el segundo país con más católicos en el mundo—, México es un país que se identifica con la figura del **Papa** y, por ende, con la **Ciudad del Vaticano**, donde vive el **Sumo** Pontífice y desde donde oficia misas que se transmiten en todo el mundo en fechas como la Semana Santa y la Navidad. Por eso resulta oportuno compartirte cinco **datos** **curiosos** que quizá no sabías sobre **El** **Vaticano**.
 

@@ -9,14 +9,15 @@ tags:
 - platillos
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-12-02-hk_food_ingredient_red_meat_frozen_pork_chop_raw_butt_steak_october_2021_ss2_012.jpeg"
+    src: >-
+      /images/2022-12-02-hk_food_ingredient_red_meat_frozen_pork_chop_raw_butt_steak_october_2021_ss2_012.jpeg
 sharing: true
 summary: 'La cochinita pibil, el frijol con puerco, las carnitas y otros platillos
   regionales tienen como base a la carne de cerdo: aquí algunos mitos y realidades
@@ -24,7 +25,13 @@ summary: 'La cochinita pibil, el frijol con puerco, las carnitas y otros platill
 cover: "/images/2022-12-02-hk_food_ingredient_red_meat_frozen_pork_chop_raw_butt_steak_october_2021_ss2_012.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Aunque hay especies nativas de este continente, en general el **cerdo** que conocemos es una especie que fue traída a América por los conquistadores españoles. De hecho, hay un mito histórico sobre un supuesto banquete que incluía **cerdo** estofado, con el cual Hernán Cortés celebró la caída de México-Tenochtitlan. Como sea, es un hecho que la **carne de cerdo** o **puerco** es un ingrediente principal en la **gastronomía** **mexicana**, con platillos grandiosos como la cochinita pibil de Yucatán, las carnitas de Michoacán y los tacos al pastor de la CDMX. Sin embargo, existen algunos **mitos** en torno a su consumo, que vale la pena contrastar con **realidades**.
 

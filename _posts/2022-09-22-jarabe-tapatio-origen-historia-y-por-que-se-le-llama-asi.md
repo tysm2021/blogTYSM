@@ -9,21 +9,27 @@ tags:
 - bailes
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-09-22-1280px-los_jaliscienses.jpeg"
+    src: /images/2022-09-22-1280px-los_jaliscienses.jpeg
 sharing: true
 summary: 'Es una de las piezas musicales mexicanas que podrían considerarse "segundo
   Himno Nacional": conoce la historia del Jarabe Tapatío…'
 cover: "/images/2022-09-22-1280px-los_jaliscienses.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Todos conocemos —o eso queremos pensar— el Himno Nacional Mexicano, ese que cantábamos todos los lunes en las ceremonias cívicas de las primarias. Pero entre la gente se habla de piezas musicales que son como "**segundos himnos**" que nos representan ante el mundo, tales como el "Huapango" de Moncayo, el "Cielito lindo" o la pieza que nos ocupa en esta ocasión: el "**Jarabe tapatío**". ¿Cuál es el **origen** y la **historia** de esta reconocido **baile regional**, y **por qué se le llama** jarabe, si no es medicinal?
 

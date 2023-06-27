@@ -10,21 +10,27 @@ tags:
 - independencia
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-07-28-1280px-angel_de_la_independencia_-2045603524.jpeg"
+    src: /images/2022-07-28-1280px-angel_de_la_independencia_-2045603524.jpeg
 sharing: true
 summary: Su esbelta y dorada figura representa a la ciudad capital y a todo México,
   ¿cuál es la historia del Ángel de la Independencia?
 cover: "/images/2022-07-28-1280px-angel_de_la_independencia_-2045603524.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Es un **monumento** ubicado sobre el Paseo de la Reforma de la **Ciudad de México**, y su dorada silueta angelical se ha convertido en un símbolo visual tanto de la capital como del país entero. ¿Conoces la historia del **Monumento** a la **Independencia**, familiarmente conocido como 'el **Ángel**', y de la escultura que lo corona, llamada 'La **Victoria Alada**'?
 

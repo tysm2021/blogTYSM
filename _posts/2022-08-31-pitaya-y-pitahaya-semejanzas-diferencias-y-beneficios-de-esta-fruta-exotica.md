@@ -9,21 +9,27 @@ tags:
 - beneficios
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-08-30-1280px-dragonfruit_chiayi_market.jpeg"
+    src: /images/2022-08-30-1280px-dragonfruit_chiayi_market.jpeg
 sharing: true
 summary: 'Aunque a veces se confunden o se usan indistintamente estos nombres, no
   son el mismo fruto: conoce la diferencia'
 cover: "/images/2022-08-30-1280px-dragonfruit_chiayi_market.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Las hemos visto en tianguis, mercados y tiendas de autoservicio, y a menudo uno se confunde o hay gente que usa los dos nombres de forma indistinta. Pero no son lo mismo: aquí te contamos cuáles son las **semejanzas** entre la **pitaya** y la **pitahaya**, así como sus **diferencias** y los **beneficios** que su consumo aporta a tu **salud** y digestión.
 

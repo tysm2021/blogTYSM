@@ -9,21 +9,27 @@ tags:
 - mexico
 author: Redacción TYSM
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/2022-06-29-chocolate-183543_1280-1.jpeg"
+    src: /images/2022-06-29-chocolate-183543_1280-1.jpeg
 sharing: true
 summary: 'Una de las grandes aportaciones gastronómicas de México es el cacao: conoce
   su historia'
 cover: "/images/2022-06-29-chocolate-183543_1280.jpeg"
 show_author_profile: false
 comment: false
+_template: plantilla
 ---
+
+
+
+
+
 
 Desde tiempos muy antiguos, los **mexicanos** hemos atesorado las semillas del **cacao** y el mejor producto que de ellas deriva: el **chocolate**. Por eso, vale la pena dar una revisión a la historia de esta delicia gastronómica, que es una de las grandes aportaciones de México a las cocinas y la repostería del mundo.
 
