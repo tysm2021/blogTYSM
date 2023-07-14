@@ -1,6 +1,6 @@
 ---
 title: 'Leyenda de los volcanes: Popocatépetl e Iztaccíhuatl'
-date: 2022-06-15 00:00:00 Z
+date: 2022-06-15 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

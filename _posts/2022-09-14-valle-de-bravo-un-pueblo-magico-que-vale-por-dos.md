@@ -1,6 +1,6 @@
 ---
 title: 'Valle de Bravo: un Pueblo Mágico que vale por dos'
-date: 2022-09-14 00:00:00 Z
+date: 2022-09-14 00:00:00 UTC
 categories:
 - TURISMO
 tags:

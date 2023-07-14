@@ -1,6 +1,6 @@
 ---
 title: 'Frida Kahlo: ¿Cuáles son sus pinturas más caras?'
-date: 2022-08-31 00:00:00 Z
+date: 2022-08-31 00:00:00 UTC
 categories:
 - CULTURA
 tags:

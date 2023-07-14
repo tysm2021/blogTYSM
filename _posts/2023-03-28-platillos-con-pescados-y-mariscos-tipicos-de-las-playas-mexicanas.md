@@ -1,6 +1,6 @@
 ---
 title: Platillos con pescados y mariscos típicos de las playas mexicanas
-date: 2023-03-28 00:00:00 Z
+date: 2023-03-28 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'San Antonio: ¿por qué se pone de cabeza para conseguir novio?'
-date: 2022-08-22 00:00:00 Z
+date: 2022-08-22 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

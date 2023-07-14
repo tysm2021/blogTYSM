@@ -1,6 +1,6 @@
 ---
 title: "¿Por qué en México celebramos el Día de la Enfermera el 6 de enero?"
-date: 2023-01-05 00:00:00 Z
+date: 2023-01-05 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

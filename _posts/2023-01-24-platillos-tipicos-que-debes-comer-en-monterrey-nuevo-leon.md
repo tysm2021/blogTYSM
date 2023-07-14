@@ -1,6 +1,6 @@
 ---
 title: Platillos típicos que debes comer en Monterrey, Nuevo León
-date: 2023-01-24 00:00:00 Z
+date: 2023-01-24 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

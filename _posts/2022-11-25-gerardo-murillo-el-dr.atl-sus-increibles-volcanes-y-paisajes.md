@@ -1,6 +1,6 @@
 ---
 title: 'Gerardo Murillo: el Dr. Atl, sus increíbles volcanes y paisajes'
-date: 2022-11-25 00:00:00 Z
+date: 2022-11-25 00:00:00 UTC
 categories:
 - CULTURA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Tula, sus atlantes y los toltecas: todo lo que debes saber'
-date: 2022-11-04 00:00:00 Z
+date: 2022-11-04 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

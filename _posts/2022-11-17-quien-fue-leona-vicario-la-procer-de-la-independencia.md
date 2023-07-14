@@ -1,6 +1,6 @@
 ---
 title: "¿Quién fue Leona Vicario, prócer de la Independencia de México?"
-date: 2022-11-17 00:00:00 Z
+date: 2022-11-17 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

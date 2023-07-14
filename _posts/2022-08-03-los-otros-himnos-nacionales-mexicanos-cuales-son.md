@@ -1,6 +1,6 @@
 ---
 title: Los "otros" Himnos Nacionales Mexicanos, ¿cuáles son?
-date: 2022-08-03 00:00:00 Z
+date: 2022-08-03 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

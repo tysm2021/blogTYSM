@@ -1,6 +1,6 @@
 ---
 title: 'Sor Juana Inés de la Cruz: biografía y poemas selectos'
-date: 2022-06-14 00:00:00 Z
+date: 2022-06-14 00:00:00 UTC
 categories:
 - CULTURA
 tags:

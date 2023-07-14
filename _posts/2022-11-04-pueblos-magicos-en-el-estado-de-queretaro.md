@@ -1,6 +1,6 @@
 ---
 title: Da un vistazo a los seis Pueblos Mágicos del estado de Querétaro
-date: 2022-11-04 00:00:00 Z
+date: 2022-11-04 00:00:00 UTC
 categories:
 - TURISMO
 tags:

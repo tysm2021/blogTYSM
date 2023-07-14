@@ -1,6 +1,6 @@
 ---
 title: La famosa leyenda del Callejón del Beso, en Guanajuato
-date: 2022-09-22 00:00:00 Z
+date: 2022-09-22 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "¿Cuáles son los países más pequeños del mundo?"
-date: 2022-08-29 00:00:00 Z
+date: 2022-08-29 00:00:00 UTC
 categories:
 - MUNDO
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Siete escultores mexicanos cuyas obras deberías conocer
-date: 2022-11-30 00:00:00 Z
+date: 2022-11-30 00:00:00 UTC
 categories:
 - CULTURA
 tags:

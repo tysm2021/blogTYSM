@@ -1,6 +1,6 @@
 ---
 title: 'Los más grandes: actores mexicanos más longevos y sus edades'
-date: 2022-04-27 00:00:00 Z
+date: 2022-04-27 00:00:00 UTC
 categories:
 - CULTURA
 tags:

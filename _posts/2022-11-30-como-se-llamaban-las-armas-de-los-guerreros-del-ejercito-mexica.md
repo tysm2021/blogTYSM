@@ -1,6 +1,6 @@
 ---
 title: "¿Cómo se llamaban las armas de los guerreros del ejército mexica?"
-date: 2022-11-30 00:00:00 Z
+date: 2022-11-30 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

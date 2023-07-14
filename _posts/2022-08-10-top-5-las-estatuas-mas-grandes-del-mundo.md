@@ -1,6 +1,6 @@
 ---
 title: 'Top 5: las estatuas más grandes del mundo'
-date: 2022-08-10 00:00:00 Z
+date: 2022-08-10 00:00:00 UTC
 categories:
 - MUNDO
 tags:

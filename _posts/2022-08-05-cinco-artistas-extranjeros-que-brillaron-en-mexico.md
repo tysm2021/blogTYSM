@@ -1,6 +1,6 @@
 ---
 title: Cinco artistas extranjeros que brillaron en México
-date: 2022-08-05 00:00:00 Z
+date: 2022-08-05 00:00:00 UTC
 categories:
 - CULTURA
 tags:

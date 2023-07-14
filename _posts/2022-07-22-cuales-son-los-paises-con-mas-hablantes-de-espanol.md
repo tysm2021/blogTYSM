@@ -1,6 +1,6 @@
 ---
 title: "¿Cuáles son los países con más hablantes de español?"
-date: 2022-07-22 00:00:00 Z
+date: 2022-07-22 00:00:00 UTC
 categories:
 - MUNDO
 tags:

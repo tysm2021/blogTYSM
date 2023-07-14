@@ -1,6 +1,6 @@
 ---
 title: La escalofriante leyenda de la Mulata de Córdoba
-date: 2022-04-21 00:00:00 Z
+date: 2022-04-21 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

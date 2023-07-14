@@ -1,6 +1,6 @@
 ---
 title: 'El bolillo: historia del pan blanco más socorrido para hacer tortas'
-date: 2022-08-02 00:00:00 Z
+date: 2022-08-02 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

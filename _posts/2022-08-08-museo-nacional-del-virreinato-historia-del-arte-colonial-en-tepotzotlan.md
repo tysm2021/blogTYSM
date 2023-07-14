@@ -1,6 +1,6 @@
 ---
 title: 'Museo Nacional del Virreinato: historia del arte colonial en Tepotzotlán'
-date: 2022-08-08 00:00:00 Z
+date: 2022-08-08 00:00:00 UTC
 categories:
 - CULTURA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'José Guadalupe Posada: el "papá" de la Catrina'
-date: 2022-06-17 00:00:00 Z
+date: 2022-06-17 00:00:00 UTC
 categories:
 - CULTURA
 tags:

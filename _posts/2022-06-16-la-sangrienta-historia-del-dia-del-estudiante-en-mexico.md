@@ -1,6 +1,6 @@
 ---
 title: La sangrienta historia del Día del Estudiante en México
-date: 2022-06-16 00:00:00 Z
+date: 2022-06-16 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

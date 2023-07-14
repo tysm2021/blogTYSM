@@ -1,6 +1,6 @@
 ---
 title: 'Mole de olla: qué es, de dónde y cómo se prepara'
-date: 2022-11-16 00:00:00 Z
+date: 2022-11-16 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

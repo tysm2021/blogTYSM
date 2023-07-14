@@ -1,6 +1,6 @@
 ---
 title: Chicharrón seco y chicharrón prensado, ¿cuál es la diferencia?
-date: 2022-11-24 00:00:00 Z
+date: 2022-11-24 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

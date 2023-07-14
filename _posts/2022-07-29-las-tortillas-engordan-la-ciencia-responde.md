@@ -1,6 +1,6 @@
 ---
 title: "¿Las tortillas engordan? La ciencia responde…"
-date: 2022-07-29 00:00:00 Z
+date: 2022-07-29 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

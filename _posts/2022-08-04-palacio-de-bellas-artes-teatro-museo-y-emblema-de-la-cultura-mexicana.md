@@ -1,6 +1,6 @@
 ---
 title: 'Palacio de Bellas Artes: teatro, museo y emblema de la cultura mexicana'
-date: 2022-08-04 00:00:00 Z
+date: 2022-08-04 00:00:00 UTC
 categories:
 - CULTURA
 tags:

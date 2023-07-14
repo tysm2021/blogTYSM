@@ -1,6 +1,6 @@
 ---
 title: "¿Cuál es el origen de la frase popular “Ya sacó el cobre”?"
-date: 2022-04-22 00:00:00 Z
+date: 2022-04-22 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Amalia Hernández y la historia del Ballet Folklórico de México
-date: 2022-12-05 00:00:00 Z
+date: 2022-12-05 00:00:00 UTC
 categories:
 - CULTURA
 tags:

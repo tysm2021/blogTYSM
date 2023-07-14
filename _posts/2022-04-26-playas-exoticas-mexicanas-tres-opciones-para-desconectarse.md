@@ -1,6 +1,6 @@
 ---
 title: 'Playas exóticas mexicanas: tres opciones para desconectarse'
-date: 2022-04-26 00:00:00 Z
+date: 2022-04-26 00:00:00 UTC
 categories:
 - TURISMO
 tags:

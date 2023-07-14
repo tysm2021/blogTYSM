@@ -1,6 +1,6 @@
 ---
 title: La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?
-date: 2022-06-30 00:00:00 Z
+date: 2022-06-30 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

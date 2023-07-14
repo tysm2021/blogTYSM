@@ -1,6 +1,6 @@
 ---
 title: "¿Es verdad que la Muralla China es visible desde el espacio?"
-date: 2022-09-12 00:00:00 Z
+date: 2022-09-12 00:00:00 UTC
 categories:
 - MUNDO
 tags:

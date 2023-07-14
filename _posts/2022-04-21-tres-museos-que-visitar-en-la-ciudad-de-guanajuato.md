@@ -1,6 +1,6 @@
 ---
 title: Tres museos que visitar en la ciudad de Guanajuato
-date: 2022-04-21 00:00:00 Z
+date: 2022-04-21 00:00:00 UTC
 categories:
 - TURISMO
 tags:

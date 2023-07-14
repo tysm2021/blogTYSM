@@ -1,6 +1,6 @@
 ---
 title: 'Himno Nacional Mexicano: historia de su letra y música'
-date: 2022-07-26 00:00:00 Z
+date: 2022-07-26 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'El mexicanísimo guacamole: historia y recetas'
-date: 2022-10-17 00:00:00 Z
+date: 2022-10-17 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

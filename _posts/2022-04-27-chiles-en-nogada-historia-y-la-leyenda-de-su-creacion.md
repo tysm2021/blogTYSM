@@ -1,6 +1,6 @@
 ---
 title: 'Chiles en nogada: historia y la leyenda de su creación'
-date: 2022-04-27 00:00:00 Z
+date: 2022-04-27 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

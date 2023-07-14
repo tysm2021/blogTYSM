@@ -1,6 +1,6 @@
 ---
 title: Cinco poetas mexicanos románticos y sus mejores poemas
-date: 2022-04-20 00:00:00 Z
+date: 2022-04-20 00:00:00 UTC
 categories:
 - CULTURA
 tags:
@@ -23,7 +23,6 @@ show_author_profile: false
 comment: false
 summary: Si quieres dedicarle un poema a tu persona amada, aquí te recomendamos cinco
   de los mejores…
-_template: plantilla
 ---
 
 

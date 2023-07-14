@@ -1,6 +1,6 @@
 ---
 title: El sangriento origen de nuestro querido pozole
-date: 2022-09-05 00:00:00 Z
+date: 2022-09-05 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

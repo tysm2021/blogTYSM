@@ -1,6 +1,6 @@
 ---
 title: "¿Sabes quién fue Manuel M. Ponce, el gran compositor mexicano?"
-date: 2022-09-08 00:00:00 Z
+date: 2022-09-08 00:00:00 UTC
 categories:
 - CULTURA
 tags:

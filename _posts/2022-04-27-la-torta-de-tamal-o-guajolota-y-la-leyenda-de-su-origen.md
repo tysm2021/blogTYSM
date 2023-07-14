@@ -1,6 +1,6 @@
 ---
 title: 'La torta de tamal o guajolota y la leyenda de su origen '
-date: 2022-04-27 00:00:00 Z
+date: 2022-04-27 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

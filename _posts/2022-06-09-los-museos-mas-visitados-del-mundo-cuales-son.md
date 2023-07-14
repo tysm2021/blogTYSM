@@ -1,6 +1,6 @@
 ---
 title: "¿Cuáles son museos más visitados del mundo, antes y después de la pandemia?"
-date: 2022-06-09 00:00:00 Z
+date: 2022-06-09 00:00:00 UTC
 categories:
 - MUNDO
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Día del mariachi: origen e historia de la celebración'
-date: 2022-05-27 00:00:00 Z
+date: 2022-05-27 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

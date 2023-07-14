@@ -1,6 +1,6 @@
 ---
 title: Conoce las ocho pirámides más altas del mundo
-date: 2022-06-16 00:00:00 Z
+date: 2022-06-16 00:00:00 UTC
 categories:
 - MUNDO
 tags:

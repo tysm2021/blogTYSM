@@ -1,6 +1,6 @@
 ---
 title: Mercados mexicanos famosos por sus comidas
-date: 2022-10-11 00:00:00 Z
+date: 2022-10-11 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

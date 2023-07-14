@@ -1,6 +1,6 @@
 ---
 title: 'El Chupacabras: origen y versiones de la sangrienta leyenda '
-date: 2022-11-14 00:00:00 Z
+date: 2022-11-14 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

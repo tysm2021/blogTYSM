@@ -1,6 +1,6 @@
 ---
 title: 'Alebrijes: la historia de estas fantásticas criaturas'
-date: 2022-11-22 00:00:00 Z
+date: 2022-11-22 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

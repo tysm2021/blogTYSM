@@ -1,6 +1,6 @@
 ---
 title: 'Códices prehispánicos y coloniales: herencia gráfica del pasado'
-date: 2022-09-12 00:00:00 Z
+date: 2022-09-12 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'María Felix: diez datos curiosos de su biografía'
-date: 2022-04-21 00:00:00 Z
+date: 2022-04-21 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

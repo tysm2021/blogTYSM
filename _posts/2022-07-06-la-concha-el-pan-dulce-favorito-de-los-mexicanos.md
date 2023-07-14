@@ -1,6 +1,6 @@
 ---
 title: 'Concha: la historia del pan dulce favorito de los mexicanos'
-date: 2022-07-06 00:00:00 Z
+date: 2022-07-06 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

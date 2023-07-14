@@ -1,6 +1,6 @@
 ---
 title: '17 de julio de 1928: asesinato de Álvaro Obregón'
-date: 2022-11-24 00:00:00 Z
+date: 2022-11-24 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

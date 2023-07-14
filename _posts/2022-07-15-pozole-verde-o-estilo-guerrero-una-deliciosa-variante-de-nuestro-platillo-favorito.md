@@ -1,7 +1,7 @@
 ---
 title: 'Pozole verde o estilo Guerrero: una deliciosa variante de nuestro platillo
   favorito'
-date: 2022-07-15 00:00:00 Z
+date: 2022-07-15 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

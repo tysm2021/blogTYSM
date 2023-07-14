@@ -1,6 +1,6 @@
 ---
 title: 'Presidentes de México: datos curiosos sobre el titular del Poder Ejecutivo'
-date: 2022-08-10 00:00:00 Z
+date: 2022-08-10 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

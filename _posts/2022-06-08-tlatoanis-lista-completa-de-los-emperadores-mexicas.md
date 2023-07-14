@@ -1,6 +1,6 @@
 ---
 title: 'Tlatoanis: lista completa de los emperadores mexicas'
-date: 2022-06-08 00:00:00 Z
+date: 2022-06-08 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

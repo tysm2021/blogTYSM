@@ -1,7 +1,7 @@
 ---
 title: 'Estatua de la Libertad: historia del ícono de Nueva York y de los Estados
   Unidos'
-date: 2022-08-04 00:00:00 Z
+date: 2022-08-04 00:00:00 UTC
 categories:
 - MUNDO
 tags:

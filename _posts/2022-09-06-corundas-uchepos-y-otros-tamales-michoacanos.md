@@ -1,6 +1,6 @@
 ---
 title: Corundas, uchepos y otros tamales michoacanos
-date: 2022-09-06 00:00:00 Z
+date: 2022-09-06 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

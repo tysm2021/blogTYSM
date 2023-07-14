@@ -1,6 +1,6 @@
 ---
 title: El Día de Muertos, ¿realmente es prehispánico?
-date: 2022-10-11 00:00:00 Z
+date: 2022-10-11 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

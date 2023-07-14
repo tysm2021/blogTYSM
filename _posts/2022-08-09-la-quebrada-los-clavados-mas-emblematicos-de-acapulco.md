@@ -1,6 +1,6 @@
 ---
 title: 'La Quebrada: los clavados más emblemáticos de Acapulco'
-date: 2022-08-09 00:00:00 Z
+date: 2022-08-09 00:00:00 UTC
 categories:
 - TURISMO
 tags:

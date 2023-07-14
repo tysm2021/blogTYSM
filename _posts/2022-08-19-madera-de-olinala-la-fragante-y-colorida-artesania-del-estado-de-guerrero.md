@@ -1,6 +1,6 @@
 ---
 title: 'Madera de Olinalá: fragante y colorida artesanía del estado de Guerrero'
-date: 2022-08-19 00:00:00 Z
+date: 2022-08-19 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

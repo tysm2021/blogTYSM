@@ -1,6 +1,6 @@
 ---
 title: "¿Cuáles son los museos más visitados de México?"
-date: 2022-06-07 00:00:00 Z
+date: 2022-06-07 00:00:00 UTC
 categories:
 - TURISMO
 tags:

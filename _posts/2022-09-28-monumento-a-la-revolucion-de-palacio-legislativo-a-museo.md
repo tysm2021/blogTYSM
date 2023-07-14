@@ -1,6 +1,6 @@
 ---
 title: 'Monumento a la Revolución: de Palacio Legislativo a museo'
-date: 2022-09-28 00:00:00 Z
+date: 2022-09-28 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

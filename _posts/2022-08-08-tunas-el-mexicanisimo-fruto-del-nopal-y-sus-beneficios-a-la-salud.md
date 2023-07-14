@@ -1,6 +1,6 @@
 ---
 title: 'Tunas: el mexicanísimo fruto del nopal y sus beneficios a la salud'
-date: 2022-08-08 00:00:00 Z
+date: 2022-08-08 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

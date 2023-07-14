@@ -1,6 +1,6 @@
 ---
 title: Cinco cosas que debes saber acerca de Ciudad del Vaticano
-date: 2022-07-29 00:00:00 Z
+date: 2022-07-29 00:00:00 UTC
 categories:
 - MUNDO
 tags:

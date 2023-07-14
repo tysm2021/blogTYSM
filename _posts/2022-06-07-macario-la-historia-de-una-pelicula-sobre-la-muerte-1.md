@@ -1,6 +1,6 @@
 ---
 title: 'Macario: la historia de una película sobre la muerte'
-date: 2022-06-07 00:00:00 Z
+date: 2022-06-07 00:00:00 UTC
 categories:
 - CULTURA
 tags:

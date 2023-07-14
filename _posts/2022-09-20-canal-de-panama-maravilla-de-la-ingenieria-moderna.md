@@ -1,6 +1,6 @@
 ---
 title: 'Canal de Panamá: maravilla de la ingeniería moderna'
-date: 2022-09-20 00:00:00 Z
+date: 2022-09-20 00:00:00 UTC
 categories:
 - MUNDO
 tags:

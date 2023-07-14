@@ -1,6 +1,6 @@
 ---
 title: 'Benito Juárez, ¿por qué dijo: “el respeto al derecho ajeno es la paz”?'
-date: 2022-12-01 00:00:00 Z
+date: 2022-12-01 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

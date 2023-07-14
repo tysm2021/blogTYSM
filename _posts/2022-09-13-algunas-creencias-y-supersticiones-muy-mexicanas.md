@@ -1,6 +1,6 @@
 ---
 title: Algunas creencias y supersticiones muy mexicanas
-date: 2022-09-13 00:00:00 Z
+date: 2022-09-13 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

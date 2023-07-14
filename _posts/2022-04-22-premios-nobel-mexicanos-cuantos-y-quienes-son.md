@@ -1,6 +1,6 @@
 ---
 title: 'Premios Nobel mexicanos: cuántos y quiénes son '
-date: 2022-04-22 00:00:00 Z
+date: 2022-04-22 00:00:00 UTC
 categories:
 - CULTURA
 tags:

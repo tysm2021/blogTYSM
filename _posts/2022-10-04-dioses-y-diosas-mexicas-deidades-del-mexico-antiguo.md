@@ -1,6 +1,6 @@
 ---
 title: 'Dioses y diosas mexicas: deidades del México antiguo'
-date: 2022-10-04 00:00:00 Z
+date: 2022-10-04 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Ciudad de México, ¿la ciudad con más museos en el mundo?
-date: 2022-08-16 00:00:00 Z
+date: 2022-08-16 00:00:00 UTC
 categories:
 - CULTURA
 tags:

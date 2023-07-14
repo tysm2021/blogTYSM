@@ -1,6 +1,6 @@
 ---
 title: Según el INEGI, ¿cuáles son los apellidos más comunes en México?
-date: 2022-12-02 00:00:00 Z
+date: 2022-12-02 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

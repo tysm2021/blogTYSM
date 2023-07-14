@@ -1,6 +1,6 @@
 ---
 title: 'El delicioso pan de muerto: origen, historia y significado'
-date: 2022-09-26 00:00:00 Z
+date: 2022-09-26 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Frases, dichos y refranes mexicanos acerca de la comida
-date: 2022-09-07 00:00:00 Z
+date: 2022-09-07 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

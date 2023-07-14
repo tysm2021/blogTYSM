@@ -1,6 +1,6 @@
 ---
 title: 'Amaranto: el grano ancestral, recetas y propiedades'
-date: 2022-09-12 00:00:00 Z
+date: 2022-09-12 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

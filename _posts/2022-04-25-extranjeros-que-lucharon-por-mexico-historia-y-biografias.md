@@ -1,6 +1,6 @@
 ---
 title: 'Extranjeros que lucharon por México: historia y biografías'
-date: 2022-04-25 00:00:00 Z
+date: 2022-04-25 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

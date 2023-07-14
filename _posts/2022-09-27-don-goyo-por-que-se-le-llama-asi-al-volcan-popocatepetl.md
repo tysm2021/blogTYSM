@@ -1,6 +1,6 @@
 ---
 title: 'Don Goyo: ¿Por qué se le llama así al volcán Popocatépetl?'
-date: 2022-09-27 00:00:00 Z
+date: 2022-09-27 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:
