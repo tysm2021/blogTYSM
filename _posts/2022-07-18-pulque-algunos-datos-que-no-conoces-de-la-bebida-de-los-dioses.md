@@ -1,6 +1,6 @@
 ---
 title: 'Pulque: algunos datos que no conoces de la "bebida de los dioses"'
-date: 2022-07-18 00:00:00 Z
+date: 2022-07-18 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

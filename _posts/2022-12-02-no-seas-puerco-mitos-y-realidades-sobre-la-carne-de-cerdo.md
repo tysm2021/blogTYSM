@@ -1,6 +1,6 @@
 ---
 title: "“No seas puerco”: mitos y realidades sobre la carne de cerdo"
-date: 2022-12-02 00:00:00 Z
+date: 2022-12-02 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

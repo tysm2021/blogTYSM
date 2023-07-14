@@ -1,6 +1,6 @@
 ---
 title: Juan Ruiz de Alarcón, ¿quién fue este escritor de la Nueva España?
-date: 2022-10-07 00:00:00 Z
+date: 2022-10-07 00:00:00 UTC
 categories:
 - CULTURA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Cinco Cristos monumentales que puedes visitar en México
-date: 2022-09-09 00:00:00 Z
+date: 2022-09-09 00:00:00 UTC
 categories:
 - TURISMO
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Pitaya y pitahaya: semejanzas, diferencias y beneficios de esta fruta exótica'
-date: 2022-08-31 00:00:00 Z
+date: 2022-08-31 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

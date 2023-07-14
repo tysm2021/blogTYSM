@@ -1,6 +1,6 @@
 ---
 title: 'Rosca de Reyes: origen, historia y simbolismo'
-date: 2023-01-05 00:00:00 Z
+date: 2023-01-05 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

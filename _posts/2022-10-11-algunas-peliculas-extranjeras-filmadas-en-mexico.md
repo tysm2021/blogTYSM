@@ -1,6 +1,6 @@
 ---
 title: Algunas películas extranjeras filmadas en México
-date: 2022-10-11 00:00:00 Z
+date: 2022-10-11 00:00:00 UTC
 categories:
 - MUNDO
 tags:

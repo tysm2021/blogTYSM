@@ -1,6 +1,6 @@
 ---
 title: 'Verde, blanco y rojo: ¿qué significan los colores de la bandera de México?'
-date: 2022-11-24 00:00:00 Z
+date: 2022-11-24 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

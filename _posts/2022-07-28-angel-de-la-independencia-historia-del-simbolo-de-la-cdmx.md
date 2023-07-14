@@ -1,6 +1,6 @@
 ---
 title: 'Ángel de la Independencia: historia del símbolo de la CdMx'
-date: 2022-07-28 00:00:00 Z
+date: 2022-07-28 00:00:00 UTC
 categories:
 - CULTURA
 tags:

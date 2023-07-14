@@ -59,7 +59,7 @@
     }
   },
   "dependencies": {
-    "@tinacms/cli": "^1.5.9",
-    "tinacms": "^1.5.2"
+    "@tinacms/cli": "^1.5.24",
+    "tinacms": "^1.5.15"
   }
 }

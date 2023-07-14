@@ -1,6 +1,6 @@
 ---
 title: 'Tour de museos: arte, ciencia y cultura de México para visitar en enero'
-date: 2023-01-06 00:00:00 Z
+date: 2023-01-06 00:00:00 UTC
 categories:
 - CULTURA
 tags:

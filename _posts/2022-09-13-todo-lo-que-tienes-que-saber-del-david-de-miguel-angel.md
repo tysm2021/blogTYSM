@@ -1,6 +1,6 @@
 ---
 title: Todo lo que tienes que saber del David de Miguel Ángel
-date: 2022-09-13 00:00:00 Z
+date: 2022-09-13 00:00:00 UTC
 categories:
 - MUNDO
 tags:

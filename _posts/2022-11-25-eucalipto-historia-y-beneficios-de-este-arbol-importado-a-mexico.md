@@ -1,6 +1,6 @@
 ---
 title: 'Eucalipto: historia y beneficios de este árbol importado a México'
-date: 2022-11-25 00:00:00 Z
+date: 2022-11-25 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Tacos al pastor: cinco cosas que no sabías del "mejor platillo del mundo"'
-date: 2022-08-24 00:00:00 Z
+date: 2022-08-24 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

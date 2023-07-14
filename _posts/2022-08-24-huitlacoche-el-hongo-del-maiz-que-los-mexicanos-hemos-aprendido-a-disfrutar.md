@@ -1,6 +1,6 @@
 ---
 title: Huitlacoche, el hongo del maíz que los mexicanos hemos aprendido a disfrutar
-date: 2022-08-24 00:00:00 Z
+date: 2022-08-24 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

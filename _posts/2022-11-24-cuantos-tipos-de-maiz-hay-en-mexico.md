@@ -1,6 +1,6 @@
 ---
 title: "¿Cuántos tipos de maíz hay en México?"
-date: 2022-11-24 00:00:00 Z
+date: 2022-11-24 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

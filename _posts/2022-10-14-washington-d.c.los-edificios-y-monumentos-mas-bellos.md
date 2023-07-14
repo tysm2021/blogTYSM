@@ -1,6 +1,6 @@
 ---
 title: 'Washington D.C.: los edificios y monumentos más bellos'
-date: 2022-10-14 00:00:00 Z
+date: 2022-10-14 00:00:00 UTC
 categories:
 - MUNDO
 tags:

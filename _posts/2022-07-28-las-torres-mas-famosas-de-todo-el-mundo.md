@@ -1,6 +1,6 @@
 ---
 title: Las torres más famosas de todo el mundo
-date: 2022-07-28 00:00:00 Z
+date: 2022-07-28 00:00:00 UTC
 categories:
 - MUNDO
 tags:

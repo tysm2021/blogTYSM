@@ -1,6 +1,6 @@
 ---
 title: 'Los olmecas y sus cabezas colosales: historia y significado'
-date: 2022-07-20 00:00:00 Z
+date: 2022-07-20 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Máscara contra cabellera: origen e historia de la lucha libre mexicana'
-date: 2022-07-13 00:00:00 Z
+date: 2022-07-13 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Tips para viajar (seguro y barato) en autobús por México
-date: 2022-06-20 00:00:00 Z
+date: 2022-06-20 00:00:00 UTC
 categories:
 - TURISMO
 tags:

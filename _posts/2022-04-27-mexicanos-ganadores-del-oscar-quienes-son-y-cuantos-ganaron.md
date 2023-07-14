@@ -1,6 +1,6 @@
 ---
 title: 'Mexicanos ganadores del Oscar: quiénes son y cuántos ganaron'
-date: 2022-04-27 00:00:00 Z
+date: 2022-04-27 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

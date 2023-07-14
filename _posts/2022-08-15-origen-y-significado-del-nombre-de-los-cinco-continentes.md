@@ -1,6 +1,6 @@
 ---
 title: Origen y significado del nombre de los cinco continentes
-date: 2022-08-15 00:00:00 Z
+date: 2022-08-15 00:00:00 UTC
 categories:
 - MUNDO
 tags:

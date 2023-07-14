@@ -1,6 +1,6 @@
 ---
 title: 'Santa Sofía: la Catedral y mezquita de Estambul, Turquía'
-date: 2022-12-06 00:00:00 Z
+date: 2022-12-06 00:00:00 UTC
 categories:
 - MUNDO
 tags:

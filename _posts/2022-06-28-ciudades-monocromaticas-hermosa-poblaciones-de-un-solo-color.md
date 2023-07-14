@@ -1,6 +1,6 @@
 ---
 title: 'Ciudades monocromáticas: hermosas poblaciones de un solo color'
-date: 2022-06-28 00:00:00 Z
+date: 2022-06-28 00:00:00 UTC
 categories:
 - MUNDO
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Estos son los tres Pueblos Mágicos del estado de Chihuahua
-date: 2023-03-22 00:00:00 Z
+date: 2023-03-22 00:00:00 UTC
 categories:
 - TURISMO
 tags:

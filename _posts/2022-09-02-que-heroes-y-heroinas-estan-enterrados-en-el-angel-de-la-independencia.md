@@ -1,6 +1,6 @@
 ---
 title: "¿Qué héroes y heroínas están enterrados en el Ángel de la Independencia?"
-date: 2022-09-02 00:00:00 Z
+date: 2022-09-02 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

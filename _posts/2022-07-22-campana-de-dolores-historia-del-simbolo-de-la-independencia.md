@@ -1,6 +1,6 @@
 ---
 title: 'Campana de Dolores: historia del símbolo de la Independencia'
-date: 2022-07-22 00:00:00 Z
+date: 2022-07-22 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

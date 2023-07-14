@@ -1,6 +1,6 @@
 ---
 title: Frases y refranes mexicanos con números y sus significados
-date: 2022-08-09 00:00:00 Z
+date: 2022-08-09 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "¿Dónde está o quién tiene la cabeza de Pancho Villa?"
-date: 2022-07-01 00:00:00 Z
+date: 2022-07-01 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

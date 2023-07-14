@@ -1,6 +1,6 @@
 ---
 title: 'Prismas Basálticos: maravilla natural en el estado de Hidalgo'
-date: 2022-08-19 00:00:00 Z
+date: 2022-08-19 00:00:00 UTC
 categories:
 - TURISMO
 tags:

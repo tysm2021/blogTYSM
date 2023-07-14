@@ -1,6 +1,6 @@
 ---
 title: 'Cacahuates japoneses: historia de una botana adoptada por los mexicanos'
-date: 2022-08-03 00:00:00 Z
+date: 2022-08-03 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Museo del Louvre: arte de todo el mundo en París'
-date: 2022-08-26 00:00:00 Z
+date: 2022-08-26 00:00:00 UTC
 categories:
 - MUNDO
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Las cascadas más altas y hermosas de México que puedes conocer
-date: 2022-11-29 00:00:00 Z
+date: 2022-11-29 00:00:00 UTC
 categories:
 - TURISMO
 tags:

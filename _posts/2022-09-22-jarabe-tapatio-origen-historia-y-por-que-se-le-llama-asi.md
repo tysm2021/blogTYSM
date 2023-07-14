@@ -1,6 +1,6 @@
 ---
 title: 'Jarabe tapatío: origen, historia y por qué se le llama así'
-date: 2022-09-22 00:00:00 Z
+date: 2022-09-22 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Coyolxauhqui: la diosa mexica de la Luna que dio origen a un museo'
-date: 2022-08-17 00:00:00 Z
+date: 2022-08-17 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

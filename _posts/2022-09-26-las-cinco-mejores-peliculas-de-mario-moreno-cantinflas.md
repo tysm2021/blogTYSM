@@ -1,6 +1,6 @@
 ---
 title: Las cinco mejores películas de Mario Moreno 'Cantinflas'
-date: 2022-09-26 00:00:00 Z
+date: 2022-09-26 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

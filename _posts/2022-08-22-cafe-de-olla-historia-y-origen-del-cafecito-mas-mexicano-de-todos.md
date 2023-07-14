@@ -1,6 +1,6 @@
 ---
 title: 'Café de olla: historia y origen del cafecito más mexicano de todos'
-date: 2022-08-22 00:00:00 Z
+date: 2022-08-22 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

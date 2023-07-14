@@ -1,6 +1,6 @@
 ---
 title: Tips y consejos para viajar seguro y cómodo con tus mascotas
-date: 2022-09-20 00:00:00 Z
+date: 2022-09-20 00:00:00 UTC
 categories:
 - TURISMO
 tags:

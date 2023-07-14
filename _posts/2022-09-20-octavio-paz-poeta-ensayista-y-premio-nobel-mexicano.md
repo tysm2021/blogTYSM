@@ -1,6 +1,6 @@
 ---
 title: Octavio Paz, poeta, ensayista y Premio Nobel mexicano
-date: 2022-09-20 00:00:00 Z
+date: 2022-09-20 00:00:00 UTC
 categories:
 - CULTURA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Qué hacer en Cholula, la ciudad más antigua de México
-date: 2022-09-14 00:00:00 Z
+date: 2022-09-14 00:00:00 UTC
 categories:
 - TURISMO
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Taxco de Alarcón: cinco cosas que hacer en este Pueblo Mágico'
-date: 2022-04-22 00:00:00 Z
+date: 2022-04-22 00:00:00 UTC
 categories:
 - TURISMO
 tags:

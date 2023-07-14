@@ -1,6 +1,6 @@
 ---
 title: Julián Carrillo, el músico mexicano que descubrió el "sonido 13"
-date: 2022-07-18 00:00:00 Z
+date: 2022-07-18 00:00:00 UTC
 categories:
 - CULTURA
 tags:

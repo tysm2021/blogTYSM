@@ -1,6 +1,6 @@
 ---
 title: Las ferias más importantes y concurridas de México
-date: 2022-11-18 00:00:00 Z
+date: 2022-11-18 00:00:00 UTC
 categories:
 - TURISMO
 tags:

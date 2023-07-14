@@ -1,6 +1,6 @@
 ---
 title: '27 de septiembre de 1821: Consumación de la Independencia de México'
-date: 2022-08-15 00:00:00 Z
+date: 2022-08-15 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

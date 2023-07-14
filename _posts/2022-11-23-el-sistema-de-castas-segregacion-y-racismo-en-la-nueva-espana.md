@@ -1,6 +1,6 @@
 ---
 title: 'El sistema de castas: segregación y racismo en la Nueva España'
-date: 2022-11-23 00:00:00 Z
+date: 2022-11-23 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

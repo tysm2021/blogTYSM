@@ -1,6 +1,6 @@
 ---
 title: Antonio López de Santa Anna, ¿el peor presidente de la historia de México?
-date: 2022-11-11 00:00:00 Z
+date: 2022-11-11 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

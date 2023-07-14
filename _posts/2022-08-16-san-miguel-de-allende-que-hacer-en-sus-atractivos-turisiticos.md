@@ -1,6 +1,6 @@
 ---
 title: 'San Miguel de Allende: qué hacer en sus atractivos turísticos'
-date: 2022-08-16 00:00:00 Z
+date: 2022-08-16 00:00:00 UTC
 categories:
 - TURISMO
 tags:

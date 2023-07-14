@@ -1,6 +1,6 @@
 ---
 title: 'Pancita o menudo: el guiso popular al que hasta Tin-Tan le cantó'
-date: 2022-10-04 00:00:00 Z
+date: 2022-10-04 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Expropiación Petrolera de 1938: causas y consecuencias'
-date: 2022-05-24 00:00:00 Z
+date: 2022-05-24 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

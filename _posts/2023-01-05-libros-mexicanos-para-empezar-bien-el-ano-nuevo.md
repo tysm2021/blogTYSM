@@ -1,6 +1,6 @@
 ---
 title: Cinco libros mexicanos para empezar bien el Año Nuevo
-date: 2023-01-05 00:00:00 Z
+date: 2023-01-05 00:00:00 UTC
 categories:
 - CULTURA
 tags:

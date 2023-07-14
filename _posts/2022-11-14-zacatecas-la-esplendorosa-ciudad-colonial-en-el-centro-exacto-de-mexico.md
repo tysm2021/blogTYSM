@@ -1,6 +1,6 @@
 ---
 title: 'Zacatecas: esplendorosa ciudad colonial en el centro exacto de México'
-date: 2022-11-14 00:00:00 Z
+date: 2022-11-14 00:00:00 UTC
 categories:
 - TURISMO
 tags:

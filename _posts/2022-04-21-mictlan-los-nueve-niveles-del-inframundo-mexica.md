@@ -1,6 +1,6 @@
 ---
 title: 'Mictlán: los nueve niveles del inframundo mexica'
-date: 2022-04-21 00:00:00 Z
+date: 2022-04-21 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

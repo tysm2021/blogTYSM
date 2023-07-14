@@ -1,6 +1,6 @@
 ---
 title: 'Xoloescuintle: historia del "perro pelón" consentido de México'
-date: 2022-07-27 00:00:00 Z
+date: 2022-07-27 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

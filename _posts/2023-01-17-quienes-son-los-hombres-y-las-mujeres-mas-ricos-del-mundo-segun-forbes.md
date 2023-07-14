@@ -1,6 +1,6 @@
 ---
 title: "¿Quiénes son los hombres —y las mujeres— más ricos del mundo, según Forbes?"
-date: 2023-01-17 00:00:00 Z
+date: 2023-01-17 00:00:00 UTC
 categories:
 - MUNDO
 tags:

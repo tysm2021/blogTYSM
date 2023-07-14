@@ -1,6 +1,6 @@
 ---
 title: "¿Quién dijo que el Valle de México era “la región más transparente del aire”?"
-date: 2022-10-13 00:00:00 Z
+date: 2022-10-13 00:00:00 UTC
 categories:
 - CULTURA
 tags:

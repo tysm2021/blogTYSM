@@ -1,6 +1,6 @@
 ---
 title: 'Cañón del Sumidero: naturaleza y turismo de aventura en Chiapas'
-date: 2022-10-03 00:00:00 Z
+date: 2022-10-03 00:00:00 UTC
 categories:
 - TURISMO
 tags:

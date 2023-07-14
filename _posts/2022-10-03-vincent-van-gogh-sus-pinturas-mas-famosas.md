@@ -1,6 +1,6 @@
 ---
 title: 'Vincent van Gogh: sus pinturas más famosas'
-date: 2022-10-03 00:00:00 Z
+date: 2022-10-03 00:00:00 UTC
 categories:
 - MUNDO
 tags:

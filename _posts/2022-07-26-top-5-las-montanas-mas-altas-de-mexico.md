@@ -1,6 +1,6 @@
 ---
 title: 'Top 5: ¿Cuáles son las montañas más altas de México?'
-date: 2022-07-26 00:00:00 Z
+date: 2022-07-26 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

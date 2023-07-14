@@ -1,6 +1,6 @@
 ---
 title: 'José María Morelos: biografía corta del ''Siervo de la Nación'''
-date: 2022-08-11 00:00:00 Z
+date: 2022-08-11 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Cinco ciudades coloniales mexicanas y sus principales atractivos
-date: 2022-06-15 00:00:00 Z
+date: 2022-06-15 00:00:00 UTC
 categories:
 - TURISMO
 tags:

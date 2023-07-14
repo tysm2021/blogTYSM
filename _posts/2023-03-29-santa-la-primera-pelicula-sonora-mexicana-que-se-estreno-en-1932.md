@@ -1,6 +1,6 @@
 ---
 title: 'Santa: la primera película sonora mexicana, que se estrenó en 1932'
-date: 2023-03-29 00:00:00 Z
+date: 2023-03-29 00:00:00 UTC
 categories:
 - CULTURA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Oaxaca de Juárez: cinco cosas que hacer en la capital oaxaqueña'
-date: 2022-08-11 00:00:00 Z
+date: 2022-08-11 00:00:00 UTC
 categories:
 - TURISMO
 tags:

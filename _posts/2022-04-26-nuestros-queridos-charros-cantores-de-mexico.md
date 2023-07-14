@@ -1,6 +1,6 @@
 ---
 title: Nuestros queridos charros cantores de México
-date: 2022-04-26 00:00:00 Z
+date: 2022-04-26 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

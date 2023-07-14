@@ -1,6 +1,6 @@
 ---
 title: "¿Eres muy codo? Aquí el origen de la palabra"
-date: 2022-06-23 00:00:00 Z
+date: 2022-06-23 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

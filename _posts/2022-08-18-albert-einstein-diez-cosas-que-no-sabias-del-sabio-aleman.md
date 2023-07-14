@@ -1,6 +1,6 @@
 ---
 title: 'Albert Einstein: diez cosas que no sabías del sabio alemán'
-date: 2022-08-18 00:00:00 Z
+date: 2022-08-18 00:00:00 UTC
 categories:
 - MUNDO
 tags:

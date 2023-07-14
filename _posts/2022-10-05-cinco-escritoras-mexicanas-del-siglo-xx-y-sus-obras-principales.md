@@ -1,6 +1,6 @@
 ---
 title: Cinco escritoras mexicanas del siglo XX y sus obras principales
-date: 2022-10-05 00:00:00 Z
+date: 2022-10-05 00:00:00 UTC
 categories:
 - CULTURA
 tags:

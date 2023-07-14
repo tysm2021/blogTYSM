@@ -1,6 +1,6 @@
 ---
 title: Las leyendas del Monte Fuji, la montaña más alta de Japón
-date: 2022-11-15 00:00:00 Z
+date: 2022-11-15 00:00:00 UTC
 categories:
 - MUNDO
 tags:

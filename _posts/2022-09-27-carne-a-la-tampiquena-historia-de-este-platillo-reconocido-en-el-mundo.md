@@ -1,6 +1,6 @@
 ---
 title: 'Carne a la tampiqueña: historia de este platillo reconocido en el mundo'
-date: 2022-09-27 00:00:00 Z
+date: 2022-09-27 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

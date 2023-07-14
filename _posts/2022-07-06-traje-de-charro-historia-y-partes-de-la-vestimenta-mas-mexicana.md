@@ -1,6 +1,6 @@
 ---
 title: 'Traje de charro: historia y partes de la vestimenta más mexicana'
-date: 2022-07-06 00:00:00 Z
+date: 2022-07-06 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

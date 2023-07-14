@@ -1,6 +1,6 @@
 ---
 title: 'GALERÍA: Los mejores cuadros de José María Velasco'
-date: 2022-09-02 00:00:00 Z
+date: 2022-09-02 00:00:00 UTC
 categories:
 - CULTURA
 tags:

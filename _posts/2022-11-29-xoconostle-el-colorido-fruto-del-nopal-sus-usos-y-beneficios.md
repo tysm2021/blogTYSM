@@ -1,6 +1,6 @@
 ---
 title: 'Xoconostle: el colorido fruto del nopal, sus usos y beneficios'
-date: 2022-11-29 00:00:00 Z
+date: 2022-11-29 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

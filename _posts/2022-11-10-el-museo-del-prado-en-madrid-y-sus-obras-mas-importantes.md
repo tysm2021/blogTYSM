@@ -1,6 +1,6 @@
 ---
 title: El Museo del Prado, en Madrid, y sus obras más importantes
-date: 2022-11-10 00:00:00 Z
+date: 2022-11-10 00:00:00 UTC
 categories:
 - MUNDO
 tags:

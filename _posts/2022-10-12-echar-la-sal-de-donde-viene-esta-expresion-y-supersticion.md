@@ -1,6 +1,6 @@
 ---
 title: 'Echar la sal: de dónde viene esta expresión y superstición'
-date: 2022-10-12 00:00:00 Z
+date: 2022-10-12 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

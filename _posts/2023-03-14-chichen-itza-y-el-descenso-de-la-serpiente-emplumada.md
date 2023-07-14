@@ -1,6 +1,6 @@
 ---
 title: Chichén Itzá y el descenso de la serpiente emplumada
-date: 2023-03-14 00:00:00 Z
+date: 2023-03-14 00:00:00 UTC
 categories:
 - TURISMO
 tags:

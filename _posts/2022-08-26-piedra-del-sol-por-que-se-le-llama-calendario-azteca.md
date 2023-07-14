@@ -1,6 +1,6 @@
 ---
 title: 'Piedra del Sol: ¿por qué se le llama Calendario Azteca?'
-date: 2022-08-26 00:00:00 Z
+date: 2022-08-26 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

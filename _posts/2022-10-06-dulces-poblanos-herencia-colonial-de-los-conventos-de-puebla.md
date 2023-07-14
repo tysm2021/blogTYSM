@@ -1,6 +1,6 @@
 ---
 title: Dulces poblanos, herencia colonial de los conventos de Puebla
-date: 2022-10-06 00:00:00 Z
+date: 2022-10-06 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

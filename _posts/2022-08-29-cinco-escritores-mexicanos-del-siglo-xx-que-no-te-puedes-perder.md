@@ -1,6 +1,6 @@
 ---
 title: Cinco escritores mexicanos del siglo XX que no te puedes perder
-date: 2022-08-29 00:00:00 Z
+date: 2022-08-29 00:00:00 UTC
 categories:
 - CULTURA
 tags:

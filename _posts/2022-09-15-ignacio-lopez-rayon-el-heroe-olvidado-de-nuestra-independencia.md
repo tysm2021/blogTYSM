@@ -1,6 +1,6 @@
 ---
 title: Ignacio López Rayón, el héroe olvidado de nuestra Independencia
-date: 2022-09-15 00:00:00 Z
+date: 2022-09-15 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

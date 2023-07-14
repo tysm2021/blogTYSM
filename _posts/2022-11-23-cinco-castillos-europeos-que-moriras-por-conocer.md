@@ -1,6 +1,6 @@
 ---
 title: Cinco castillos europeos que morirás por conocer
-date: 2022-11-23 00:00:00 Z
+date: 2022-11-23 00:00:00 UTC
 categories:
 - MUNDO
 tags:

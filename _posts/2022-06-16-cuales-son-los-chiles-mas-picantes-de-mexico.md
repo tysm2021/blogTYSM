@@ -1,6 +1,6 @@
 ---
 title: "¿Cuáles son los chiles más picantes de México?"
-date: 2022-06-16 00:00:00 Z
+date: 2022-06-16 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

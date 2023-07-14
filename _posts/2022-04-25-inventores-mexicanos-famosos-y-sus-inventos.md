@@ -1,6 +1,6 @@
 ---
 title: Inventores mexicanos famosos y sus inventos
-date: 2022-04-25 00:00:00 Z
+date: 2022-04-25 00:00:00 UTC
 categories:
 - CULTURA
 tags:

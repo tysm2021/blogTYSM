@@ -1,6 +1,6 @@
 ---
 title: "¿Dónde está la tumba de Hernán Cortés?"
-date: 2022-06-14 00:00:00 Z
+date: 2022-06-14 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

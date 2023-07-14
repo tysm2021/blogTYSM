@@ -1,6 +1,6 @@
 ---
 title: Juventino Rosas y la historia de su vals "Sobre las olas"
-date: 2022-11-10 00:00:00 Z
+date: 2022-11-10 00:00:00 UTC
 categories:
 - CULTURA
 tags:

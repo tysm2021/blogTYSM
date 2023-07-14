@@ -1,6 +1,6 @@
 ---
 title: 'Sueño guajiro: ¿qué significa y cuál es el origen de esta expresión?'
-date: 2023-03-27 00:00:00 Z
+date: 2023-03-27 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

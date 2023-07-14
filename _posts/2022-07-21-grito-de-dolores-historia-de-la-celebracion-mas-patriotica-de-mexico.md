@@ -1,6 +1,6 @@
 ---
 title: 'Grito de Dolores: historia de la celebración más patriótica de México'
-date: 2022-07-21 00:00:00 Z
+date: 2022-07-21 00:00:00 UTC
 categories:
 - CULTURA
 tags:

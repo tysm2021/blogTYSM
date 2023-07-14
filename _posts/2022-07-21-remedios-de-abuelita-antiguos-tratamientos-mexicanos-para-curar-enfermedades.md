@@ -1,6 +1,6 @@
 ---
 title: 'Remedios de abuelita: antiguos tratamientos mexicanos para curar enfermedades'
-date: 2022-07-21 00:00:00 Z
+date: 2022-07-21 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

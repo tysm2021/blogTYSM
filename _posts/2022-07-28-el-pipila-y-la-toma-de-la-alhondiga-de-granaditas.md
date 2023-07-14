@@ -1,6 +1,6 @@
 ---
 title: El Pípila y la toma de la Alhóndiga de Granaditas
-date: 2022-07-28 00:00:00 Z
+date: 2022-07-28 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

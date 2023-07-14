@@ -1,6 +1,6 @@
 ---
 title: 'Petate: origen, historia y expresiones de la "alfombra mexicana"'
-date: 2022-06-28 00:00:00 Z
+date: 2022-06-28 00:00:00 UTC
 categories:
 - MEXICANISIMOS
 tags:

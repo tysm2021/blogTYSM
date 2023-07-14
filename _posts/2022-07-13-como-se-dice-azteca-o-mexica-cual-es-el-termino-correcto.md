@@ -1,6 +1,6 @@
 ---
 title: "¿Cómo se dice: azteca o mexica? ¿Cuál es el término correcto?"
-date: 2022-07-13 00:00:00 Z
+date: 2022-07-13 00:00:00 UTC
 categories:
 - HISTORIA
 tags:

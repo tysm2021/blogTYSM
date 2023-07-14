@@ -1,6 +1,6 @@
 ---
 title: 'Mango manila, ataulfo y petacón: ¿Cuál es la diferencia?'
-date: 2022-07-19 00:00:00 Z
+date: 2022-07-19 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

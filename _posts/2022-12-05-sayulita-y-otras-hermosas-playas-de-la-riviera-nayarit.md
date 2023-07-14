@@ -1,6 +1,6 @@
 ---
 title: Sayulita y otras hermosas playas de la Riviera Nayarit
-date: 2022-12-05 00:00:00 Z
+date: 2022-12-05 00:00:00 UTC
 categories:
 - TURISMO
 tags:

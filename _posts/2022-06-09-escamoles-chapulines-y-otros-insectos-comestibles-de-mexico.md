@@ -1,6 +1,6 @@
 ---
 title: Escamoles, chapulines y otros insectos comestibles de México
-date: 2022-06-09 00:00:00 Z
+date: 2022-06-09 00:00:00 UTC
 categories:
 - GASTRONOMIA
 tags:

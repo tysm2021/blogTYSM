@@ -1,6 +1,6 @@
 ---
 title: Cinco consejos para viajar sin gastar mucho
-date: 2022-10-12 00:00:00 Z
+date: 2022-10-12 00:00:00 UTC
 categories:
 - TURISMO
 tags:

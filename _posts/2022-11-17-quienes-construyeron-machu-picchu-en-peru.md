@@ -1,6 +1,6 @@
 ---
 title: "¿Quiénes construyeron Machu Picchu, en Perú?"
-date: 2022-11-17 00:00:00 Z
+date: 2022-11-17 00:00:00 UTC
 categories:
 - MUNDO
 tags:

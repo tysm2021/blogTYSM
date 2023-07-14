@@ -1,6 +1,6 @@
 ---
 title: Todo lo que necesitas saber para visitar Hawai
-date: 2022-11-29 00:00:00 Z
+date: 2022-11-29 00:00:00 UTC
 categories:
 - MUNDO
 tags:

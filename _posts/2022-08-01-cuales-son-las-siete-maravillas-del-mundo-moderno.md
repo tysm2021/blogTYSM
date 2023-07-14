@@ -1,6 +1,6 @@
 ---
 title: "¿Cuáles son las Siete Nuevas Maravillas del Mundo y cómo se eligieron?"
-date: 2022-08-01 00:00:00 Z
+date: 2022-08-01 00:00:00 UTC
 categories:
 - MUNDO
 tags:
