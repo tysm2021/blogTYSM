@@ -1,0 +1,5 @@
+_inputs:
+  cover:
+    type: image
+  src:
+    type: image
