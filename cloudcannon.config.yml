@@ -10,6 +10,8 @@ _inputs:
       values:
         - Redacción TYSM
         - Francisco Massé
+  mode:
+    default: dark
         
         
         
