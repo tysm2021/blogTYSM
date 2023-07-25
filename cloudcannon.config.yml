@@ -1,11 +1,11 @@
 _inputs:
-  _header:
   cover:
     type: image
   src:
     type: image
   author:
     type: select
+    hidden: true
     options:
       values:
         - Redacción TYSM
