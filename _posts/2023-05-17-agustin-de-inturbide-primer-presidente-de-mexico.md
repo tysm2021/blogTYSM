@@ -1,29 +1,29 @@
 ---
 title: Agustín de Iturbide, el primer emperador de México
-date: 2023-05-17 12:00:00 UTC
+date: 2023-05-17 12:00:00
 categories:
-- HISTORIA
+  - HISTORIA
 tags:
-- historia
-- méxico
+  - historia
+  - méxico
 layout: article
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 mode: immersive
 header:
   theme: dark
 article_header:
   type: cover
   image:
-    src: "/images/image-df23f1.png"
+    src: /images/image-df23f1.png
 sharing: 'true'
 author: Redacción TYSM
-cover: "/images/image-df23f1.png"
-summary: 'El 19 de mayo de 1822, el consumador Agustín de Iturbide fue coronado Emperador
-  de México: conoce su historia'
+cover: /images/image-df23f1.png
+summary: >-
+  El 19 de mayo de 1822, el consumador Agustín de Iturbide fue coronado
+  Emperador de México: conoce su historia
 subcategorie: ''
 ---
-
-**Agustín de Iturbide** fue un personaje de contrastes en la **historia** de **México**: nació criollo durante el **Virreinato** y, al principio de la Guerra de Independencia, era militar en el bando **realista**; sin embargo, en algún punto de la historia —y por así convenir a sus intereses— decidió cambiarse de bando y se alió a **Vicente Guerrero** en el famoso "Abrazo de Acatempan", y juntos lograron consumar la **Independencia de México**, tras lo cual se hizo coronar **Emperador de México**.
+**Agustín de Iturbide** fue un personaje de contrastes en la **historia** de **México**\: nació criollo durante el **Virreinato** y, al principio de la Guerra de Independencia, era militar en el bando **realista**; sin embargo, en algún punto de la historia —y por así convenir a sus intereses— decidió cambiarse de bando y se alió a **Vicente Guerrero** en el famoso "Abrazo de Acatempan", y juntos lograron consumar la **Independencia de México**, tras lo cual se hizo coronar **Emperador de México**.
 
 Conozcamos un poco más sobre su **biografía**, los detalles de sus aspiraciones imperiales y el destino que tuvo hacia el final de su **vida** uno de los primeros gobernantes que tuvo la naciente nación mexicana.
 
@@ -35,7 +35,7 @@ Ante el avance de los **insurgentes**, **Iturbide** dejó su natal Valladolid y 
 
 ![image-a017a8.png](/images/image-a017a8.png)
 
-Pasaron los años y, siempre del lado realista, **Iturbide** fue acumulando victorias militares contra los **insurgentes**: en 1811, sometió a las fuerzas rebeldes comandadas por Albino García; en 1813, derrotó a **Ignacio López Rayón** en el Puente de Salvatierra; en 1815, derrotó al ejército insurgente del cura **José María Morelos y Pavón**, aunque poco después López Rayón le cobró la derrota anterior humillándolo en Cóporo. En ese mismo periodo, sobrevendría otro revés en su carrera política: ante las numerosas denuncias que lo acusaban de abuso de autoridad, de monopolizar el comercio y malversar los fondos de la corona, el virrey **Félix María Callej**a lo destituyó de su cargo. Poco después fue absuelto, pero no regresó al mando de su ejército y se retiró a su hacienda, donde estuvo algún tiempo inactivo.
+Pasaron los años y, siempre del lado realista, **Iturbide** fue acumulando victorias militares contra los **insurgentes**\: en 1811, sometió a las fuerzas rebeldes comandadas por Albino García; en 1813, derrotó a **Ignacio López Rayón** en el Puente de Salvatierra; en 1815, derrotó al ejército insurgente del cura **José María Morelos y Pavón**, aunque poco después López Rayón le cobró la derrota anterior humillándolo en Cóporo. En ese mismo periodo, sobrevendría otro revés en su carrera política: ante las numerosas denuncias que lo acusaban de abuso de autoridad, de monopolizar el comercio y malversar los fondos de la corona, el virrey **Félix María Callej**a lo destituyó de su cargo. Poco después fue absuelto, pero no regresó al mando de su ejército y se retiró a su hacienda, donde estuvo algún tiempo inactivo.
 
 En 1820, ante la crisis política en España que hizo tambalear al reinado de **Fernando VII**, los miembros la Conspiración de la Profesa —que buscaba declarar la independencia del Virreinato de la Nueva España y darle el mando a un infante de la corona española— convencieron al virrey **Juan Ruiz de Apodaca** de que nombrara a **Iturbide** comandante general de sur, cargo que éste aceptó en noviembre de 1820. Con un nuevo ejército, marchó a enfrentar a **Vicente Guerrero**, supuestamente para derrotarlo; pero lo cierto es que desde su autoexilio, Iturbide estaba ideando la forma de conciliar los intereses de los criollos realistas y de los insurgentes, que buscaban ambos la independencia de la Nueva España.
 
@@ -45,7 +45,7 @@ Tras ser derrotado en dos ocasiones por los insurgentes **Guerrero** y Ascencio,
 
 Días después, el 24 de febrero, **Iturbide** proclamó el **Plan de Iguala**, donde declaraba la independencia de la Nueva España. Para hacerlo valer, se formó un ejército al que se le llamó **Trigarante** pues defendía tres garantías: religión católica, independencia y unión. Con este ejército, unidas las fuerzas de Iturbide, de Guerrero y de los demás insurgentes, fue cuestión de meses antes de que los realistas decidieran admitir su derrota y firmar los **Tratados de Córdoba**, donde el 24 de agosto de 1821 se reconoció la independencia de la colonia, que en lo sucesivo sería llamado **Imperio Mexicano**.
 
-El 27 de septiembre del mismo año —fecha del cumpleaños de Iturbide, dicho sea de paso—, el **Ejército Trigarante** entró triunfante a la Ciudad de México, y esta fecha es reconocida oficialmente como la Consumación de la Independencia de México. Se formó una Junta Provisional Gubernativa, la cual nombró a **Iturbide** _generalísimo de armas de mar y tierra_, y le dio el tratamiento de "Alteza Serenísima". Ya en 1822, el 24 de febrero se formó el primer Congreso Constituyente de la historia de México, el cual empezó a distanciarse del gobernante pues buscaba establecer la república como forma de gobierno, expresando desprecio por la figura monárquica que Iturbide deseaba asumir. Aun así, Iturbide fue nombrado emperador **Agustín I de México** el **19 de mayo de 1822**, siendo coronado el 21 de julio del mismo año.
+El 27 de septiembre del mismo año —fecha del cumpleaños de Iturbide, dicho sea de paso—, el **Ejército Trigarante** entró triunfante a la Ciudad de México, y esta fecha es reconocida oficialmente como la Consumación de la Independencia de México. Se formó una Junta Provisional Gubernativa, la cual nombró a **Iturbide** *generalísimo de armas de mar y tierra*, y le dio el tratamiento de "Alteza Serenísima". Ya en 1822, el 24 de febrero se formó el primer Congreso Constituyente de la historia de México, el cual empezó a distanciarse del gobernante pues buscaba establecer la república como forma de gobierno, expresando desprecio por la figura monárquica que Iturbide deseaba asumir. Aun así, Iturbide fue nombrado emperador **Agustín I de México** el **19 de mayo de 1822**, siendo coronado el 21 de julio del mismo año.
 
 ![image-4e9fbe.png](/images/image-4e9fbe.png)
 
