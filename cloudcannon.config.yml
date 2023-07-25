@@ -1,9 +1,10 @@
 _inputs:
+  _header:
   cover:
     type: image
   src:
     type: image
-  _author:
+  author:
     type: select
     options:
       values:
