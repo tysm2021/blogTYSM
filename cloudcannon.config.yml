@@ -11,10 +11,6 @@ _inputs:
         - Francisco Massé
         
         
-# Import the Eleventy Nunjucks Snippets:
+        
 _snippets_imports:
-  eleventy_nunjucks: true
-
-# Import the Eleventy Liquid Snippets:
-_snippets_imports:
-  eleventy_liquid: true
+  mdx: true
