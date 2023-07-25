@@ -15,7 +15,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /images/2022-04-20-manuelacuna.png
+    src: /uploads/f1s40qwwiaaifrh.jpeg
 sharing: true
 author: Francisco Massé
 cover: /uploads/f1s40qwwiaaifrh.jpeg
