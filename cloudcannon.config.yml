@@ -3,3 +3,9 @@ _inputs:
     type: image
   src:
     type: image
+  author:
+    type: select
+    options:
+      values:
+        - Redacción TYSM
+        - Francisco Massé
