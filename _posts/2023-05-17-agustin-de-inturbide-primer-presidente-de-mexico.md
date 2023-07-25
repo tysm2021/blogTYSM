@@ -17,11 +17,11 @@ article_header:
     src: /images/image-df23f1.png
 sharing: 'true'
 author: Redacción TYSM
-cover: /images/image-df23f1.png
+cover: /uploads/add-a-caption-shared-by-luvit-on-we-heart-it.jpeg
 summary: >-
   El 19 de mayo de 1822, el consumador Agustín de Iturbide fue coronado
   Emperador de México: conoce su historia
-subcategorie: ''
+subcategorie:
 ---
 **Agustín de Iturbide** fue un personaje de contrastes en la **historia** de **México**\: nació criollo durante el **Virreinato** y, al principio de la Guerra de Independencia, era militar en el bando **realista**; sin embargo, en algún punto de la historia —y por así convenir a sus intereses— decidió cambiarse de bando y se alió a **Vicente Guerrero** en el famoso "Abrazo de Acatempan", y juntos lograron consumar la **Independencia de México**, tras lo cual se hizo coronar **Emperador de México**.
 
