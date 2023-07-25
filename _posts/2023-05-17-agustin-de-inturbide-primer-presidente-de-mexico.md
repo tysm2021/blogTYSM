@@ -17,7 +17,7 @@ article_header:
     src: /images/image-df23f1.png
 sharing: 'true'
 author: Redacción TYSM
-cover: /uploads/add-a-caption-shared-by-luvit-on-we-heart-it.jpeg
+cover: /images/image-df23f1.png
 summary: >-
   El 19 de mayo de 1822, el consumador Agustín de Iturbide fue coronado
   Emperador de México: conoce su historia
