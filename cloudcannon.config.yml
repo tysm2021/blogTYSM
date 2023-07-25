@@ -5,14 +5,11 @@ _inputs:
     type: image
   author:
     type: select
-    hidden: true
     options:
       values:
         - Redacción TYSM
         - Francisco Massé
-  mode:
-    default: dark
-        
+  mode: dark
         
         
 _snippets_imports:
