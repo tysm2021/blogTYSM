@@ -46,6 +46,10 @@ fields:
     options:
     - CULTURA
     - HISTORIA
+    - TURISMO
+    - GASTRONOMIA
+    - MEXICANISIMOS
+    - MUNDO
     source:
       type: simple
       section: 
