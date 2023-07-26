@@ -12,7 +12,7 @@ _inputs:
   mode:
     text: dark
   show_author_profile:
-    hidden: truw  
+    hidden: true  
         
 _snippets_imports:
   mdx: true
