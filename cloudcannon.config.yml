@@ -11,8 +11,8 @@ _inputs:
         - Francisco Massé
   mode:
     text: dark
-  _show_author_profile:
-  
+  show_author_profile:
+    hidden: truw  
         
 _snippets_imports:
   mdx: true
