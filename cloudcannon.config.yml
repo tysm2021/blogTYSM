@@ -11,9 +11,8 @@ _inputs:
         - Francisco Massé
   mode:
     text: dark
-  show_author_profile:
-    type: checkbox
-    hodden: true
+  _show_author_profile:
+  
         
 _snippets_imports:
   mdx: true
