@@ -9,7 +9,8 @@ _inputs:
     options:
       values:
         - Redacción TYSM
-  show_author_profile: true
+  show_author_profile: 
+    is_true: true
   comment:
     hidden: true
   sharing:
