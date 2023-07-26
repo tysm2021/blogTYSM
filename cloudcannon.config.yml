@@ -10,14 +10,17 @@ _inputs:
       values:
         - Redacción TYSM
         - Francisco Massé
-  mode:
-    text: dark
   show_author_profile: true
   comment:
     hidden: true
   sharing:
     hidden: true
-        
-        
+  layout: 
+    hidden: true
+  mode:
+    hidden: true
+  excerpt_separator:
+    hidden: true
+          
 _snippets_imports:
   mdx: true
