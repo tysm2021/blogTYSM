@@ -17,7 +17,7 @@ _inputs:
   show_author_profile:
     type: switch
     hidden: false 
-  comments:
+  comment:
     hidden: true
         
         
