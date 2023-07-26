@@ -15,6 +15,7 @@ _inputs:
   mode:
     text: dark
   show_author_profile:
+    type: checkbox
     hidden: false 
         
 _snippets_imports:
