@@ -15,8 +15,11 @@ _inputs:
   mode:
     text: dark
   show_author_profile:
-    type: checkbox
+    type: switch
     hidden: false 
+  comments:
+    hidden: true
+        
         
 _snippets_imports:
   mdx: true
