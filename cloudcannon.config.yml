@@ -1,3 +1,6 @@
+show_author_profile: true
+
+
 _inputs:
   cover:
     type: image
@@ -11,7 +14,8 @@ _inputs:
         - Francisco Massé
   mode:
     text: dark
-   
+  show_author_profile:
+    hidden: false 
         
 _snippets_imports:
   mdx: true
