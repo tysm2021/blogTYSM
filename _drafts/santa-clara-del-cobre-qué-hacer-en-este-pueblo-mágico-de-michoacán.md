@@ -25,7 +25,7 @@ summary: >-
   En el estado de Michoacán se encuentra este pintoresco Pueblo Mágico, famoso
   por su producción de metalistería.
 ---
-**Santa Clara del Cobre** es un pintoresco Pueblo Mágico ubicado en el estado de Michoacán. Es mundialmente conocido por su rica tradición en la producción de **artesanías de cobre**, que es una parte esencial de su identidad cultural. Acompáñanos a conocer este rincón de nuestro país, donde las hábiles manos de los artesanos herederos de la tradición purépecha elaboran jarrones, cazos, platos, cucharas y joyería de rojizos reflejos metálicos.
+**Santa Clara del Cobre** es un pintoresco **Pueblo Mágico** ubicado en el estado de **Michoacán**. Es mundialmente conocido por su rica tradición en la producción de **artesanías de cobre**, que es una parte esencial de su identidad cultural. Acompáñanos a conocer este rincón de nuestro país, donde las hábiles manos de los artesanos herederos de la tradición purépecha elaboran jarrones, cazos, platos, cucharas y joyería de rojizos reflejos metálicos.
 
 De paso, también revisaremos su historia, su gastronomía y sus atractivos turísticos, así como maneras de llegar, qué comer y dónde hospedarse. Acompáñanos…
 
