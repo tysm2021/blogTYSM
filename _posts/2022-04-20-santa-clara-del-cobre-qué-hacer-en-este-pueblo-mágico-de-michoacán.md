@@ -1,6 +1,6 @@
 ---
 title: 'Santa Clara del Cobre: qué hacer en este Pueblo Mágico de Michoacán'
-date: 2022-04-20 00:00:00
+date: 2023-08-02 00:00:00
 categories:
   - TURISMO
 tags:
