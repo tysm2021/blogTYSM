@@ -39,7 +39,7 @@ La **metalistería** y la producción de **artesanías de cobre** son la princip
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Artesan%C3%ADas_de_cobre_1.jpg/1024px-Artesan%C3%ADas_de_cobre_1.jpg)
 
-La comunidad de Santa Clara del Cobre es famosa por su festival anual del cobre, donde los artesanos exhiben sus obras y comparten su talento con visitantes de todo el mundo. Este evento es una oportunidad para apreciar y adquirir estas increíbles piezas hechas a mano.
+La comunidad de **Santa Clara del Cobre** es famosa por su **festival anual del cobre**, donde los artesanos exhiben sus obras y comparten su talento con visitantes de todo el mundo. Este evento es una oportunidad para apreciar y adquirir estas increíbles piezas hechas a mano.
 
 Atractivos turísticos: Además de su tradición artesanal del cobre, Santa Clara del Cobre ofrece otros atractivos turísticos interesantes:
 
