@@ -20,7 +20,7 @@ article_header:
     src: /uploads/emilioindiofernandez.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /images/2022-04-20-manuelacuna.png
+cover: /uploads/emilioindiofernandez.jpeg
 show_author_profile: false
 comment: false
 summary: >-
