@@ -40,32 +40,32 @@ Desde joven, **Fernández** se involucró en el mundo del cine y trabajó como e
 
 A mediados de la década de 1940, el **'Indio' Fernández** incursionó en la **dirección** y rápidamente se convirtió en un realizador influyente en la industria cinematográfica de México. Su estilo único y su enfoque en temas mexicanos lo llevaron a crear algunas de sus mejores películas. Entre ellas se encuentran:
 
-### María Candelaria (1943)
-
-Protagonizada por **Dolores del Río** y **Pedro Armendáriz**, esta hermosa película filmada en los canales de Xochimilco (CDMX) le valió el premio de la Palma de Oro en el Festival de Cannes y le dio reconocimiento a nivel internacional. Abordó temas sociales y culturales mexicanos con una estética excepcional.
-
-
-
-### Enamorada" (1946)
-
-Otra colaboración exitosa con la actriz María Félix, esta película es una combinación de romance y drama ambientada en el contexto de la Revolución Mexicana.
-
 ### Flor Silvestre (1943)
 
-Otra película protagonizada por Pedro Infante y Dolores del Río, que destaca por su retrato de la cultura y tradiciones mexicanas.
+Esta cinta, estelarizada por **Pedro Armendáriz** y **Dolores del Río**, destaca por su retrato de la cultura y tradiciones mexicanas, y marcó el inicio de las destacadas colaboraciones de Fernández con el fotógrafo **Gabriel Figueroa** y el guionista **Mauricio Magdaleno**\: un trío que habría de producir algunas de las mejores cintas del Cine de Oro mexicano.
+
+### María Candelaria (1943)
+
+Protagonizada por **Dolores del Río** y **Pedro Armendáriz**, esta hermosa película filmada en los canales de Xochimilco (CDMX) le valió el premio de la Palma de Oro en el Festival de Cannes y le dio reconocimiento a nivel internacional. Abordó temas sociales y culturales mexicanos polémicos para ese momento histórico, con una estética excepcional.
+
+![](/uploads/dolores-macandelaria.jpeg){: width="1200" height="905"}
+
+### Enamorada (1946)
+
+Otra colaboración exitosa entre **María Félix** y **Pedro Armendáriz**, esta película es una combinación de romance y drama ambientada en el contexto de la Revolución Mexicana, donde él es una rebelde que toma la pacífica ciudad de Cholula y pone sus ojos en ella, que es la hija del hombre más acaudalado del lugar..
 
 ### La Perla (1947)
 
-Basada en la novela de John Steinbeck, "La Perla" es una película inolvidable que muestra la codicia y sus consecuencias en una comunidad pesquera.
+Basada en la novela homónima de John Steinbeck, se trata de una película inolvidable que muestra la codicia y sus consecuencias en una comunidad pesquera. Actúan **Pedro Armendáriz** y **María Elena Marqués**, y fue la primera cinta latinoamericana en ganar el **Globo de Oro**, además de que se conserva en la Biblioteca del Congreso estadounidense por ser una película "cultural, histórica o estéticamente significativa".
 
-### Pueblerina (1949)
+### La malquerida (1949)
 
-Un drama con elementos de realismo social que destaca las diferencias entre la vida rural y urbana en México.
+Basada en la obra teatral de Jacinto Benavente y con las actuaciones de **Pedro Armendáriz**, **Dolores del Río**, **Columba Domínguez** y **Roberto Cañedo**, describe un trágico triángulo amoroso entre una rica mujer viuda, la joven hija de ésta y el padrastro, a quien la viuda ama con locura.&nbsp;
 
-TE RECOMENDAMOS:&nbsp;
+**TE RECOMENDAMOS: [Quesos de México: delicias sólidas hechas con leche.](https://blog.tonoysumariachi.com/gastronomia/2022/09/09/quesos-de-mexico-delicias-solidas-hechas-con-leche.html){: target="_blank" rel="noopener"}**
 
 Sobre el rumor de que el bravío **Emilio fue el modelo** de la estatuilla del Premio de la Academia, conocida como **el Oscar**, diseñada en 1928 por Cedric Gibbons y esculpida por el escultor George Stanley, lo cierto es que no hay confirmación al respecto y se piensa que es una leyenda; de hecho, también se ha afirmado que fue el director de cine y actor mexicano Emilio Gómez Muriel quien posó para la dorada efigie.
 
-Emilio Fernández era conocido por su apariencia distintiva y su prominente nariz, que se asemeja a la forma de la estatuilla del Oscar. Además, Fernández fue una figura prominente en la época dorada del cine mexicano, y su influencia en la industria cinematográfica lo habría hecho un candidato ideal para posar como modelo para el diseño del premio.
+Emilio Fernández era conocido por su apariencia distintiva y su prominente nariz, que se asemeja a la forma de la estatuilla del Oscar. Pero, independientemente de quién haya sido el modelo,&nbsp;**Emilio "Indio" Fernández** dejó un legado imborrable en el cine mexicano, tanto como actor como director. Su trabajo cinematográfico retrató de manera auténtica y profunda la identidad y la cultura de México, convirtiéndose en un ícono y dejando una huella significativa en la historia del cine.
 
-Independientemente de quién haya sido el modelo, Emilio "Indio" Fernández dejó un legado imborrable en el cine mexicano, tanto como actor como director. Su trabajo cinematográfico retrató de manera auténtica y profunda la identidad y la cultura de México, convirtiéndose en un ícono y dejando una huella significativa en la historia del cine. Falleció el 6 de agosto de 1986 en la Ciudad de México, dejando un legado perdurable en la industria cinematográfica mexicana.Sí, Emilio "Indio" Fernández posó para la estatuilla del Oscar. La famosa estatuilla
+Emilio falleció el 6 de agosto de 1986 en la Ciudad de México, dejando un legado perdurable en la industria cinematográfica mexicana. Hasta el día de hoy, sus restos se conservan en el patio Tláloc de su Casa-Fuerte ubicada en Coyoacán, en la calle de Dulce Olivia, donde cada época de Muertos se montan ofrendas monumentales dedicadas a las estrellas del cine.&nbsp;
