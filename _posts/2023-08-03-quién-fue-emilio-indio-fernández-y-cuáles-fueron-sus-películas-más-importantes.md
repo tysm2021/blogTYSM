@@ -44,28 +44,28 @@ A mediados de la década de 1940, el **'Indio' Fernández** incursionó en la **
 
 Protagonizada por **Dolores del Río** y **Pedro Armendáriz**, esta hermosa película filmada en los canales de Xochimilco (CDMX) le valió el premio de la Palma de Oro en el Festival de Cannes y le dio reconocimiento a nivel internacional. Abordó temas sociales y culturales mexicanos con una estética excepcional.
 
-![](/uploads/mariacandelaria-unam-web.jpeg){: width="2000" height="1524"}
 
-Enamorada" (1946)
+
+### Enamorada" (1946)
 
 Otra colaboración exitosa con la actriz María Félix, esta película es una combinación de romance y drama ambientada en el contexto de la Revolución Mexicana.
 
-Flor Silvestre (1943)
+### Flor Silvestre (1943)
 
 Otra película protagonizada por Pedro Infante y Dolores del Río, que destaca por su retrato de la cultura y tradiciones mexicanas.
 
-La Perla" (1947)
+### La Perla (1947)
 
 Basada en la novela de John Steinbeck, "La Perla" es una película inolvidable que muestra la codicia y sus consecuencias en una comunidad pesquera.
 
-Pueblerina (1949)
+### Pueblerina (1949)
 
 Un drama con elementos de realismo social que destaca las diferencias entre la vida rural y urbana en México.
 
-dorada del premio de la Academia, conocida como el Oscar, fue diseñada en 1928 por el director de arte Cedric Gibbons y esculpida por el escultor George Stanley. Se dice que el modelo para la figura del Oscar fue Emilio "Indio" Fernández, aunque también se ha afirmado que fue el director de cine y actor mexicano Emilio Gómez Muriel.
+TE RECOMENDAMOS:&nbsp;
+
+Sobre el rumor de que el bravío **Emilio fue el modelo** de la estatuilla del Premio de la Academia, conocida como **el Oscar**, diseñada en 1928 por Cedric Gibbons y esculpida por el escultor George Stanley, lo cierto es que no hay confirmación al respecto y se piensa que es una leyenda; de hecho, también se ha afirmado que fue el director de cine y actor mexicano Emilio Gómez Muriel quien posó para la dorada efigie.
 
 Emilio Fernández era conocido por su apariencia distintiva y su prominente nariz, que se asemeja a la forma de la estatuilla del Oscar. Además, Fernández fue una figura prominente en la época dorada del cine mexicano, y su influencia en la industria cinematográfica lo habría hecho un candidato ideal para posar como modelo para el diseño del premio.
 
-Independientemente de quién haya sido el modelo exacto, lo cierto es que la estatuilla del Oscar se ha convertido en un símbolo icónico de excelencia en la industria del cine y ha sido entregada a los mejores artistas y profesionales del cine desde 1929.
-
-Emilio "Indio" Fernández dejó un legado imborrable en el cine mexicano, tanto como actor como director. Su trabajo cinematográfico retrató de manera auténtica y profunda la identidad y la cultura de México, convirtiéndose en un ícono y dejando una huella significativa en la historia del cine. Falleció el 6 de agosto de 1986 en la Ciudad de México, dejando un legado perdurable en la industria cinematográfica mexicana.Sí, Emilio "Indio" Fernández posó para la estatuilla del Oscar. La famosa estatuilla
+Independientemente de quién haya sido el modelo, Emilio "Indio" Fernández dejó un legado imborrable en el cine mexicano, tanto como actor como director. Su trabajo cinematográfico retrató de manera auténtica y profunda la identidad y la cultura de México, convirtiéndose en un ícono y dejando una huella significativa en la historia del cine. Falleció el 6 de agosto de 1986 en la Ciudad de México, dejando un legado perdurable en la industria cinematográfica mexicana.Sí, Emilio "Indio" Fernández posó para la estatuilla del Oscar. La famosa estatuilla
