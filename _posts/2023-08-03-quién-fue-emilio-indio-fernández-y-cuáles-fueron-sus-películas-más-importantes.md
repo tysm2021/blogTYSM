@@ -1,7 +1,7 @@
 ---
 title: >-
   ¿Quién fue Emilio 'Indio' Fernández y cuáles fueron sus películas más
-  importantes
+  importantes?
 date: 2023-08-03 00:00:00
 categories:
   - MEXICANISIMOS
