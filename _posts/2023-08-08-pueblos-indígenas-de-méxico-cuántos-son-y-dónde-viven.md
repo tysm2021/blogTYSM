@@ -31,4 +31,8 @@ A pesar de que en nuestro país tenemos 500 años de mestizaje, y que los pueblo
 
 **TE RECOMENDAMOS: [Tlatoanis: lista completa de los emperadores mexicas.](https://blog.tonoysumariachi.com/historia/2022/06/08/tlatoanis-lista-completa-de-los-emperadores-mexicas.html){: target="_blank" rel="noopener"}**
 
-HHH
+En agosto de 2022, el Instituto Nacional de Estadística y Geografía (INEGI) de **México** publicó las siguientes **estadísticas**, con motivo del **Día Internacional de los Pueblos Indígenas**\:&nbsp;
+
+* En México existen **23\.2 millones de personas** de tres años y más que se autoidentifican como indígenas, lo que equivale a 19.4 % de la población total de ese rango de edad.
+* La población total en hogares **indígenas**&nbsp;en 2020 fue de 11.8 millones de personas, lo que equivale a 9.4 % de la población total del país.
+* El Censo de Población y Vivienda 2020 identificó que en **México** había 7.36 millones de personas de tres años y más hablantes de alguna **lengua indígena**, lo que representó 6.1 % de la población total del país.
