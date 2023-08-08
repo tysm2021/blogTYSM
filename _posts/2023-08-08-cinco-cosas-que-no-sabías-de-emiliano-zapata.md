@@ -29,7 +29,7 @@ Una de las figuras más destacadas de la **Revolución Mexicana** fue **Emiliano
 
 A continuación, te presentamos **cinco datos** que quizás **no conocías** sobre **Emiliano Zapata**, cuya imagen con su mirada férrea, el tupido bigote, las cananas y su ancho sombrero se ha convertido en un símbolo de la **historia de México**, de sus luchas sociales y del sacrificio de nuestros campesinos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: [Agustín de Iturbide, el primer emperador de México.](https://blog.tonoysumariachi.com/historia/2023/05/17/agustin-de-inturbide-primer-presidente-de-mexico.html){: target="_blank" rel="noopener"}**
 
 ## Fue testigo de despojos
 
