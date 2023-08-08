@@ -4,9 +4,9 @@ date: 2023-08-08 00:00:00
 categories:
   - HISTORIA
 tags:
-  - cultura
-  - literatura
-  - poesía
+  - historia
+  - revolución
+  - personajes
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
