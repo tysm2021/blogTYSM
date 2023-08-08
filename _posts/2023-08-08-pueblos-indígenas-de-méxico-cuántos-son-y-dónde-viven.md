@@ -41,3 +41,12 @@ En agosto de 2022, el Instituto Nacional de Estadística y Geografía (INEGI) de
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Xoyep.jpg/1024px-Xoyep.jpg)
 
 Por otro lado, en la actualidad se hablan **68 lenguas indígenas** en **México**. Las más frecuentes son: náhuatl (22.4 %), maya (10.5 %), tseltal (8.0 %), tsotsil (7.5 %), mixteco (7.2 %), zapoteco (6.7 %), otomí (4.1 %), totonaco (3.5 %), ch'ol (3.5 %) y mazateco (3.2 %).
+
+Además de las 68 lenguas catalogadas por el Instituto Nacional de Lenguas Indígenas (INALI), la aportación cultural de los **pueblos indígenas** es notable en aspectos como:
+
+* **Gastronomía**\: multitud de platillos típicos de innumerables regiones y estados de México provienen de la tradición culinaria ancestral de los pueblos **indígenas**.
+* **Folclor**\: fiestas patronales, ceremonias, rituales, bailes, trajes típicos y otras manifestaciones de la cultura popular tienen raíces en los mitos y la religión prehispánicos, y en la mezcla que éstos tuvieron con la religión cristiana, las lenguas y la cultura europea y de otros países.
+* **Textiles y vestimenta**\: los **pueblos indígena**s de **México** son conocidos por su habilidad en la creación de textiles elaborados y coloridos. Cada región y grupo étnico tiene sus propios diseños y técnicas tradicionales. La ropa y los trajes típicos son una parte importante de la identidad cultural y étnica.
+* ​**Artesanía:**&nbsp;Nuestros **indígenas**&nbsp;crean una amplia variedad de artesanías, como cerámica, alfarería, cestería, tallado de madera y joyería, las cuales a menudo reflejan elementos de la naturaleza, la espiritualidad y la vida cotidiana.
+* **Música y danza**\: La música y la danza son partes integrales de la vida de los indígenas mexicanos, y cada grupo étnico tiene sus propias tradiciones musicales y dancísticas que se transmiten de generación en generación.
+* **Construcción**\: Las comunidades indígenas en México a menudo tienen estilos arquitectónicos tradicionales que reflejan sus condiciones de vida, el entorno natural y sus creencias espirituales. Ejemplos incluyen casas de adobe, palapas y construcciones en terrazas.
