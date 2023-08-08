@@ -35,4 +35,9 @@ En agosto de 2022, el Instituto Nacional de Estadística y Geografía (INEGI) de
 
 * En México existen **23\.2 millones de personas** de tres años y más que se autoidentifican como indígenas, lo que equivale a 19.4 % de la población total de ese rango de edad.
 * La población total en hogares **indígenas**&nbsp;en 2020 fue de 11.8 millones de personas, lo que equivale a 9.4 % de la población total del país.
-* El Censo de Población y Vivienda 2020 identificó que en **México** había 7.36 millones de personas de tres años y más hablantes de alguna **lengua indígena**, lo que representó 6.1 % de la población total del país.
+* El Censo de Población y Vivienda 2020 identificó que en **México** había 7.36 millones de personas de tres años y más hablantes de alguna **lengua indígena**, lo que representó 6.1 % de la población total del país; de éstas, 6.4 millones (87.2 %) de personas también hablaban español y 866 mil (11.8 %), no lo hablan.
+* Los **estados** con mayor porcentaje de **población indígena** fueron: **Oaxaca** (31.2 %), **Chiapas** (28.2 %), **Yucatán** (23.7 %) y **Guerrero** (15.5 %). Estas cuatro entidades acumularon 50.5 % del total de hablantes de lengua indígena en el país. En la imagen de abajo, vemos a una joven **tseltal** de Chiapas preparando ovillos de lana.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Xoyep.jpg/1024px-Xoyep.jpg)
+
+Por otro lado, en la actualidad se hablan **68 lenguas indígenas** en **México**. Las más frecuentes son: náhuatl (22.4 %), maya (10.5 %) y tseltal (8.0 %). De cada 100 personas de tres años y más que hablan alguna lengua indígena, 12 no hablan español.
