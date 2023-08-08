@@ -45,16 +45,17 @@ La influencia de Zapata en la lucha por la reforma agraria y los derechos de los
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/99/Emiliano_Zapata4.jpg)
 
-Tuvo cuatro campañas militares
+## Tuvo cuatro campañas militares
 
-Desde 1911 hasta su muerte en 1919, la carrera militar de Zapata partic
+Desde 1911 hasta su muerte en 1919, la carrera militar de Zapata puede dividirse en cuatro etapas principales:
 
-Una de las tácticas
+* De 1911 a 1912, tras la renuncia de Porfirio Díaz,&nbsp;**Zapata** proclama el **Plan de Ayala** en 1911, donde denuncia al presidente Madero por no cumplir con las promesas de reforma agraria. Esta campaña sentó las bases de su lucha y su famoso lema "Tierra y Libertad".
+* De 1913 a 1914, luego del golpe de Estado de&nbsp;**Huerta** contra **Madero**, Zapata se une a otros líderes revolucionarios como **Pancho Villa**, para combatir al espurio.
+* En 1914, Zapata colabora con Pancho Villa y ambos líderes lograron algunas victorias significativas &nbsp;contra las fuerzas de Huerta. Pero diferencias ideológicas en la Convención de Aguascalientes marcan una fractura en su alianza.
+* Por último, de 1915 a 1918 Zapata se centra en consolidar su control en el sur de México, especialmente en Morelos, promoviendo la reforma agraria y la justicia social.
 
-Fue asesinado a traición
+## Fue asesinado a traición
 
-La muerte de Emiliano Zapata fue trágica y ocurrió en circunstancias que muchos consideran traicioneras. El 10 de abril de 1919, Zapata fue emboscado y asesinado en la Hacienda de Chinameca, en el estado de Morelos, México.
+La muerte de Emiliano Zapata fue trágica y ocurrió en circunstancias que muchos consideran de traición:&nbsp; el 10 de abril de 1919, Zapata acuerda reunirse con un hombre llamado **Jesús Guajardo**, supuestamente para discutir la posibilidad de unirse a la causa de Carranza. Pero al llegar a la Hacienda de Chinameca, en Morelos, Zapata fue emboscado y asesinado por las fuerzas leales a Carranza, siendo abatido a tiros durante la traición. Su cadáver fue exhibido en la ciudad de Cuautla.
 
-La traición provino de las fuerzas leales al entonces presidente Venustiano Carranza. A pesar de que Carranza había sido un aliado en la lucha por la Revolución Mexicana, hubo crecientes tensiones entre él y Zapata debido a diferencias ideológicas y disputas territoriales. Carranza se había distanciado de las demandas agrarias radicales de Zapata y había optado por un enfoque más conservador para la transformación política y social.
-
-Zapata había acordado reunirse con un hombre llamado Jesús Guajardo, supuestamente para discutir la posibilidad de unirse a la causa de Carranza. Sin embargo, esta reunión era una trampa. Cuando Zapata llegó a la Hacienda de Chinameca, fue emboscado por las fuerzas leales a Carranza. Zapata fue abatido a tiros en la emboscada.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/El_cad%C3%A1ver_de_Emiliano_Zapata%2C_exhibido_en_Cuautla%2C_Morelos.jpg/745px-El_cad%C3%A1ver_de_Emiliano_Zapata%2C_exhibido_en_Cuautla%2C_Morelos.jpg)
