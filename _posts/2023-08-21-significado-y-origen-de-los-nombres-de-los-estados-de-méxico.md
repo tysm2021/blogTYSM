@@ -25,19 +25,19 @@ summary: >-
   La historia de los nombres de lo 32 estados de nuestra República guarda
   relatos, personajes y significados que vale la pena conocer…
 ---
-¡Por supuesto! Aquí tienes una lista de los 32 estados de México en orden alfabético, junto con una breve explicación del significado y, en algunos casos, el origen de sus nombres:
+El territorio de nuestro país se extiende desde la desértica frontera norte, donde colinda con estados de la Unión Americana como California, Texas, Arizona y Nuevo Mexico, hasta las selvas del sureste en la frontera con Guatemala; y de lado a lado, nos bordean el Océano Pacífico de un lado, el Golfo de **México** y el Mar Caribe del otro. Y todo ello está dividido en **32 estados** o **entidades federativas** con **nombres** que tienen un **significado**, un **origen** y una **historia**.
 
-Aguascalientes
+A veces se trata de toponimias o **nombres de lugares** anteriores a la Conquista española, en lenguas indígenas como el **náhuatl**, y en otras ocasiones se trata de héroes nacionales a los que se rinde honor y culto. Como sea, aquí tienes una **lista** de los **nombres** de los **32 estados** de **México** en orden alfabético, junto con una breve explicación del significado y, en algunos casos, el origen de sus nombres:
 
-El nombre proviene de las aguas termales (aguas calientes) que se encuentran en la región.
+### Aguascalientes
 
-Baja California
+El nombre deriva de la abundancia de **aguas termales** o calientes en la región, razón por la cual en 1575 se fundó la Villa de Nuestra Señora de la Asunción de las **Aguas Calientes**, antecedente del actual estado.
 
-La región se encuentra en la parte noroeste de la península de Baja California.
+### Baja California y Baja California Sur
 
-Baja California Sur
 
-Al igual que el estado anterior, "Sur" hace referencia a su ubicación en la parte sur de la península.
+
+Una de las teorías más populares sobre el origen del nombre California se basa en la novela *Las sergas de Esplandián*, del autor español **Garci Rodríguez de Montalvo** en 1510. La novela narra las aventuras de un caballero llamado Esplandián en una tierra llamada **California**, habitada por mujeres guerreras y gobernada por la reina Calafia. Según esta leyenda, el nombre California podría derivar de Calafia y representar una tierra mítica o exótica.
 
 Campeche
 
