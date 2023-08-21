@@ -72,7 +72,7 @@ Sobre el origen de la palabra *México*, existen varias teorías y versiones, mu
 
 ### Guanajuato
 
-Proviene del purépecha *Quanax huato*, que significa "lugar de ranas".
+Su nombre deriva de *quanaxhuato*, que en purépecha significa “Lugar montuoso de ranas” o “Lugar de muchos cerros”.
 
 ### Guerrero
 
@@ -94,7 +94,7 @@ Proviene del náhuatl "Michhuahco" que significa "lugar de pescadores".
 
 ### Morelos
 
-En honor a José María Morelos y Pavón, otro líder insurgente de la independencia de México.
+En honor a **José María Morelos y Pavón**, otro líder insurgente de la independencia de México. Al igual que sucede con Hidalgo, el nombre es honorífico pues el continuador de la lucha nació en Valladolid, hoy Morelia —capital de Michoacán— y murió fusilado en Ecatepec, Estado de México. En honor a la justicia, este estado debería llamarse Zapata, quien nació y murió en sendas poblaciones morelenses.
 
 ### Nayarit
 
@@ -102,7 +102,7 @@ Deriva del cora "Náayeri", que significa "hijo de Dios".
 
 ### Nuevo León
 
-Hace referencia a la región de León en España.
+Cuando llegaron los españoles a México y pusieron nombres, muchas veces tomaron las denominaciones de sus ciudades o reinos y simplemente le añadieron las palabras Nuevo o Nueva, como los virreinatos de la Nueva España y de la Nueva Galicia. Así, este nombre hace referencia a **la región española de León**.
 
 ### Oaxaca
 
