@@ -42,114 +42,116 @@ Una de las teorías más populares sobre el origen del nombre California se basa
 
 ### Campeche
 
-El nombre proviene de las palabras mayas *Ah Kim Pech*, que significa "lugar de serpientes y garrapatas". También hay quien menciona a un cacique llamado Pech, que gobernaba la zona a la llegada de los españoles, por lo que el nombre significaría "lugar donde gobierna el Señor Sol Garrapata".
+El nombre proviene de las palabras mayas *Ah Kim Pech*, que significa "**lugar de serpientes y garrapatas**". También hay quien menciona a un cacique llamado Pech, que gobernaba la zona a la llegada de los españoles, por lo que el nombre significaría "lugar donde gobierna el Señor Sol Garrapata".
 
 ### Chiapas
 
-Deriva de la palabra náhuatl *Chiapan*, que significa "agua debajo del cerro", o de *Tepechiapan*, "río de la chía".
+Deriva de la palabra náhuatl *Chiapan*, que significa "agua debajo del cerro", o de *Tepechiapan*, "**río de la chía**".
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Carnaval_zoque.jpg/1024px-Carnaval_zoque.jpg)
 
-Chihuahua
+### Chihuahua
 
-Se cree que el nombre proviene de la palabra rarámuri "chihuahua", que significa "lugar seco y arenoso".
+Se cree que el nombre proviene del náhuatl *xicuauhua*, que a su vez vendría de *cuauhuacqui*, 'seco' o 'cosa seca o arenosa'; así, el significado es "**lugar seco y arenoso"**.&nbsp;
 
-Coahuila
+### Coahuila
 
-Proviene de la palabra náhuatl "coahuiltecatl", que significa "lugar donde hay árboles".
+Proviene de la palabra náhuatl *coahuiltecatl*, que significa "lugar donde abundan los árboles".
 
-Colima
+### Colima
 
-Deriva del náhuatl "Coliman", que significa "lugar de dioses".
+Deriva del náhuatl *Coliman*, que significa "**lugar donde domina el Dios viejo o el Dios de fuego**" y hace referencia al volcán ubicado en los límites de Jalisco y Colima, hoy conocido como Volcán de Colima. El nombre proviene del náhuatl *colli*, 'cerro, volcán o abuelo' y *maitl*, que significa mano o dominio.
 
-Durango
+### Durango
 
-El nombre proviene de la ciudad española de Durango, que a su vez deriva del término vasco "Dorango", que significa "pueblo del agua".
+El nombre Durango fue tomada de **la ciudad homónima** que se encuentra en la provincia española de Vizcaya, lugar del que procedía Francisco de Ibarra, que a su vez deriva del término vasco *dorango*, que significa "pueblo del agua".
 
 ### Estado de México
 
 Sobre el origen de la palabra *México*, existen varias teorías y versiones, muchas de las cuales están basadas en la lengua náhuatl. La más conocida&nbsp;​​​propone que proviene de la combinación de las palabras *metztli*, 'luna', *xictli*, 'ombligo' y *co*, sufijo de lugar, dando lugar a "Metztli xictli co", que se traduce como "en el ombligo de la Luna".
 
-Guanajuato
+### Guanajuato
 
-Proviene del purépecha "Quanax huato", que significa "lugar de ranas".
+Proviene del purépecha *Quanax huato*, que significa "lugar de ranas".
 
-Guerrero
+### Guerrero
 
-En honor al líder insurgente Vicente Guerrero, uno de los héroes de la independencia de México.
+En honor al líder insurgente **Vicente Guerrero**, uno de los héroes de la independencia de México, quien nació en **Tixtla**, un poblado a 15 km de la actual capital guerrerense, Chilpancingo.
 
-Hidalgo
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vicente_Ram%C3%B3n_Guerrero_Salda%C3%B1a.jpg/560px-Vicente_Ram%C3%B3n_Guerrero_Salda%C3%B1a.jpg)
+
+### Hidalgo
 
 En honor al padre de la independencia de México, **Miguel Hidalgo y Costilla**. Curiosamente, el mencionado insurgente nació en Guanajuato y murió en Chihuahua, por lo que la nomenclatura es meramente honorífica.
 
-Jalisco
+### Jalisco
 
 Deriva del náhuatl "Xalixco", que significa "sobre la superficie de arena".
 
-Michoacán
+### Michoacán
 
 Proviene del náhuatl "Michhuahco" que significa "lugar de pescadores".
 
-Morelos
+### Morelos
 
 En honor a José María Morelos y Pavón, otro líder insurgente de la independencia de México.
 
-Nayarit
+### Nayarit
 
 Deriva del cora "Náayeri", que significa "hijo de Dios".
 
-Nuevo León
+### Nuevo León
 
 Hace referencia a la región de León en España.
 
-Oaxaca
+### Oaxaca
 
 Proviene del náhuatl "Huaxyacac", que significa "en la nariz de los huajes" (árbol típico de la región).
 
-Puebla
+### Puebla
 
 Deriva del náhuatl "Cuetlaxcoapan", que significa "lugar donde abundan las culebras".
 
-Querétaro
+### Querétaro
 
 Proviene del purépecha "K'erhiretarhu", que significa "lugar de piedras grandes".
 
-Quintana Roo
+### Quintana Roo
 
 En honor a Andrés Quintana Roo, un político y escritor mexicano del siglo XIX.
 
-San Luis Potosí
+### San Luis Potosí
 
 Hace referencia a San Luis Rey de Francia y a las minas de potosí, famosas por su riqueza.
 
-Sinaloa
+### Sinaloa
 
 Deriva del cahita "Sinao", que significa "lugar de las conchas" o "lugar de pescado".
 
-Sonora
+### Sonora
 
 Proviene de la voz yaqui "Xunuta", que significa "el lugar donde se apaga el fuego".
 
-Tabasco
+### Tabasco
 
 Deriva del maya "Taabs k'áak'", que significa "lugar de aguas calientes".
 
-Tamaulipas
+### Tamaulipas
 
 Proviene del huasteco "Tamaholipa", que significa "lugar donde se reza mucho".
 
-Tlaxcala
+### Tlaxcala
 
 Deriva del náhuatl "Tlaxcallan", que significa "lugar de pan de maíz".
 
-Veracruz
+### Veracruz
 
 Proviene del náhuatl "Cuetlaxcoapan", que significa "lugar donde abundan las culebras".
 
-Yucatán
+### Yucatán
 
-Deriva del maya "Yok'atlān", que significa "no aquí" o "no comprendo".
+Hay muchas versiones: un dice que deriva del maya *yok'atlan*, que significa "no soy de aquí" o "no comprendo". Otra versión establece que un conquistador preguntó sobre el nombre de la región y un indígena contestó: *ma´anaatik ka tánn* , que en maya quiere decir “no entiendo lo que hablas”; los españoles prestos proclamaron el nombre *Yucatán*. Una historia más afirma que el nombre de **Yucatán** proviene de lo que decían los mayas al oír hablar a los españoles: *uh yu ka t’ann*, que es como decir : “oye como hablan”.
 
-Zacatecas
+​​​​​Zacatecas
 
 Proviene del náhuatl "Zacatl", que significa "pasto" o "hierba".
