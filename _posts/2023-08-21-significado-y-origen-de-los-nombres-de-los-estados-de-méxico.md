@@ -79,42 +79,74 @@ Hidalgo
 
 En honor al padre de la independencia de México, **Miguel Hidalgo y Costilla**. Curiosamente, el mencionado insurgente nació en Guanajuato y murió en Chihuahua, por lo que la nomenclatura es meramente honorífica.
 
-14\. Jalisco: Deriva del náhuatl "Xalixco", que significa "sobre la superficie de arena".
+Jalisco
 
-15\. Michoacán: Proviene del náhuatl "Michhuahco" que significa "lugar de pescadores".
+Deriva del náhuatl "Xalixco", que significa "sobre la superficie de arena".
 
-16\. Morelos: En honor a José María Morelos y Pavón, otro líder insurgente de la independencia de México.
+Michoacán
 
-17\. Nayarit: Deriva del cora "Náayeri", que significa "hijo de Dios".
+Proviene del náhuatl "Michhuahco" que significa "lugar de pescadores".
 
-18\. Nuevo León: Hace referencia a la región de León en España.
+Morelos
 
-19\. Oaxaca: Proviene del náhuatl "Huaxyacac", que significa "en la nariz de los huajes" (árbol típico de la región).
+En honor a José María Morelos y Pavón, otro líder insurgente de la independencia de México.
 
-20\. Puebla: Deriva del náhuatl "Cuetlaxcoapan", que significa "lugar donde abundan las culebras".
+Nayarit
 
-21\. Querétaro: Proviene del purépecha "K'erhiretarhu", que significa "lugar de piedras grandes".
+Deriva del cora "Náayeri", que significa "hijo de Dios".
 
-22\. Quintana Roo: En honor a Andrés Quintana Roo, un político y escritor mexicano del siglo XIX.
+Nuevo León
 
-23\. San Luis Potosí: Hace referencia a San Luis Rey de Francia y a las minas de potosí, famosas por su riqueza.
+Hace referencia a la región de León en España.
 
-24\. Sinaloa: Deriva del cahita "Sinao", que significa "lugar de las conchas" o "lugar de pescado".
+Oaxaca
 
-25\. Sonora: Proviene de la voz yaqui "Xunuta", que significa "el lugar donde se apaga el fuego".
+Proviene del náhuatl "Huaxyacac", que significa "en la nariz de los huajes" (árbol típico de la región).
 
-26\. Tabasco: Deriva del maya "Taabs k'áak'", que significa "lugar de aguas calientes".
+Puebla
 
-27\. Tamaulipas: Proviene del huasteco "Tamaholipa", que significa "lugar donde se reza mucho".
+Deriva del náhuatl "Cuetlaxcoapan", que significa "lugar donde abundan las culebras".
 
-28\. Tlaxcala: Deriva del náhuatl "Tlaxcallan", que significa "lugar de pan de maíz".
+Querétaro
 
-29\. Veracruz: Proviene del náhuatl "Cuetlaxcoapan", que significa "lugar donde abundan las culebras".
+Proviene del purépecha "K'erhiretarhu", que significa "lugar de piedras grandes".
 
-30\. Yucatán: Deriva del maya "Yok'atlān", que significa "no aquí" o "no comprendo".
+Quintana Roo
 
-31\. Zacatecas: Proviene del náhuatl "Zacatl", que significa "pasto" o "hierba".
+En honor a Andrés Quintana Roo, un político y escritor mexicano del siglo XIX.
 
-32\. Ciudad de México: Hace referencia a la capital del país.
+San Luis Potosí
 
-Recuerda que algunos de estos nombres tienen raíces indígenas, mientras que otros hacen referencia a personajes históricos o características geográficas.
+Hace referencia a San Luis Rey de Francia y a las minas de potosí, famosas por su riqueza.
+
+Sinaloa
+
+Deriva del cahita "Sinao", que significa "lugar de las conchas" o "lugar de pescado".
+
+Sonora
+
+Proviene de la voz yaqui "Xunuta", que significa "el lugar donde se apaga el fuego".
+
+Tabasco
+
+Deriva del maya "Taabs k'áak'", que significa "lugar de aguas calientes".
+
+Tamaulipas
+
+Proviene del huasteco "Tamaholipa", que significa "lugar donde se reza mucho".
+
+Tlaxcala
+
+Deriva del náhuatl "Tlaxcallan", que significa "lugar de pan de maíz".
+
+Veracruz
+
+Proviene del náhuatl "Cuetlaxcoapan", que significa "lugar donde abundan las culebras".
+
+Yucatán
+
+Deriva del maya "Yok'atlān", que significa "no aquí" o "no comprendo".
+
+Zacatecas
+
+Proviene del náhuatl "Zacatl", que significa "pasto" o "hierba".
