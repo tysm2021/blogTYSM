@@ -84,6 +84,8 @@ En honor al líder insurgente **Vicente Guerrero**, uno de los héroes de la ind
 
 En honor al padre de la independencia de México, **Miguel Hidalgo y Costilla**. Curiosamente, el mencionado insurgente nació en Guanajuato y murió en Chihuahua, por lo que la nomenclatura es meramente honorífica.
 
+**TE RECOMENDAMOS: [Prismas basálticos: maravilla natural del estado de Hidalgo.](https://blog.tonoysumariachi.com/turismo/2022/08/19/prismas-basalticos-maravilla-natural-en-el-estado-de-hidalgo.html){: target="_blank" rel="noopener"}**
+
 ### Jalisco
 
 Deriva del náhuatl "Xalixco", que significa "sobre la superficie de arena".
@@ -115,6 +117,8 @@ Deriva del náhuatl "Cuetlaxcoapan", que significa "lugar donde abundan las cule
 ### Querétaro
 
 Proviene del purépecha "K'erhiretarhu", que significa "lugar de piedras grandes".
+
+**TE RECOMENDAMOS: [Da un vistazo a los seis Pueblos Mágicos del estado de Querétaro.](https://blog.tonoysumariachi.com/turismo/2022/11/04/pueblos-magicos-en-el-estado-de-queretaro.html){: target="_blank" rel="noopener"}**
 
 ### Quintana Roo
 
