@@ -39,13 +39,15 @@ El nombre deriva de la abundancia de **aguas termales** o calientes en la regió
 
 Una de las teorías más populares sobre el origen del nombre California se basa en la novela *Las sergas de Esplandián*, del autor español **Garci Rodríguez de Montalvo** en 1510. La novela narra las aventuras de un caballero llamado Esplandián en una tierra llamada **California**, habitada por mujeres guerreras y gobernada por la reina Calafia. Según esta leyenda, el nombre California podría derivar de Calafia y representar una tierra mítica o exótica.
 
-Campeche
+### Campeche
 
-El nombre proviene de la palabra maya "Ah Kim Pech", que significa "lugar de serpientes y garrapatas".
+El nombre proviene de las palabras mayas *Ah Kim Pech*, que significa "lugar de serpientes y garrapatas". También hay quien menciona a un cacique llamado Pech, que gobernaba la zona a la llegada de los españoles, por lo que el nombre significaría "lugar donde gobierna el Señor Sol Garrapata".
 
-Chiapas
+### Chiapas
 
-Deriva de la palabra náhuatl "Chiapan" que significa "agua debajo del cerro".
+Deriva de la palabra náhuatl *Chiapan*, que significa "agua debajo del cerro", o de *Tepechiapan*, "río de la chía".
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Carnaval_zoque.jpg/1024px-Carnaval_zoque.jpg)
 
 Chihuahua
 
