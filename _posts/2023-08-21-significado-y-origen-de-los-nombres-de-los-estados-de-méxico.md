@@ -18,7 +18,8 @@ article_header:
       /uploads/mapa-ilustrado-de-la-republica-mexicana-publicado-por-margaret-m-crane-eugenio-fischgrund.jpg
 sharing: true
 author: Redacción TYSM
-cover: /images/2022-04-20-manuelacuna.png
+cover: >-
+  /uploads/mapa-ilustrado-de-la-republica-mexicana-publicado-por-margaret-m-crane-eugenio-fischgrund.jpg
 show_author_profile: false
 comment: false
 summary: >-
