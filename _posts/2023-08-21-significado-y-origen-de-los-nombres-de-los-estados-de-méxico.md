@@ -150,13 +150,13 @@ El nombre del estado de Tamaulipas se deriva de *Tamaholipa* palabra de origen H
 
 ### Tlaxcala
 
-Deriva del náhuatl "Tlaxcallan", que significa "lugar de pan de maíz".
+La palabra Tlaxcala proviene del náhuatl *tlaxcalli* que quiere decir 'tortilla', pero que al combinar con la terminación *tlan* que denota 'lugar de', forma *tlaxcallan*, el sustantivo pasa a significar&nbsp;**lugar de tortillas.**
 
 **TE RECOMENDAMOS: [Tlaxcala: lugares que conocer de una ciudad que desde luego que existe.](https://blog.tonoysumariachi.com/turismo/2022/09/21/tlaxcala-una-ciudad-que-desde-luego-que-existe.html){: target="_blank" rel="noopener"}**
 
 ### Veracruz
 
-Proviene del náhuatl "Cuetlaxcoapan", que significa "lugar donde abundan las culebras".
+Es resultado del nombre de la primera colonia española establecida por Hernán Cortés: la **Villa Rica de la Vera Cruz** o "verdadera cruz"..
 
 ### Yucatán
 
@@ -164,4 +164,4 @@ Hay muchas versiones: un dice que deriva del maya *yok'atlan*, que significa "no
 
 ​​​​​Zacatecas
 
-Proviene del náhuatl "Zacatl", que significa "pasto" o "hierba".
+Proviene del náhuatl *zacatl*, 'zacate, junco', por lo que significa "**lugar donde abunda el zacate**".
