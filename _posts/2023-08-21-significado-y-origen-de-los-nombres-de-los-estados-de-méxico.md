@@ -118,11 +118,11 @@ Deriva del náhuatl "Cuetlaxcoapan", que significa "lugar donde abundan las cule
 
 Proviene del purépecha "K'erhiretarhu", que significa "lugar de piedras grandes".
 
-**TE RECOMENDAMOS: [Da un vistazo a los seis Pueblos Mágicos del estado de Querétaro.](https://blog.tonoysumariachi.com/turismo/2022/11/04/pueblos-magicos-en-el-estado-de-queretaro.html){: target="_blank" rel="noopener"}**
-
 ### Quintana Roo
 
-En honor a Andrés Quintana Roo, un político y escritor mexicano del siglo XIX.
+En honor a Andrés Quintana Roo, un abogado, político y escritor novohispano del siglo XIX, quien se adhirió al movimiento insurgente durante la Guerra de Independencia y fue esposo de la heroína y Madre de la Patria, Leona Vicario.
+
+**TE RECOMENDAMOS: [¿Quién fue Leona Vicario, prócer de la Independencia de México?](https://blog.tonoysumariachi.com/historia/2022/11/17/quien-fue-leona-vicario-la-procer-de-la-independencia.html){: target="_blank" rel="noopener"}**
 
 ### San Luis Potosí
 
