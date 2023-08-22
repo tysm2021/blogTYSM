@@ -110,39 +110,43 @@ Cuando llegaron los españoles a México y pusieron nombres, muchas veces tomaro
 
 En el siglo XV, los mexicas establecieron un campamento en este valle al que llamaron *Huaxyacac*, que en náhuatl significa “**En la punta o en la nariz del huaje**” o guaje, un árbol propio de la región y que es origen del vocablo Oaxaca.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Atrio_Iglesia_de_Santo_Domingo_Oaxaca_Centro.jpg/1024px-Atrio_Iglesia_de_Santo_Domingo_Oaxaca_Centro.jpg)
+
 ### Puebla
 
-Deriva del náhuatl "Cuetlaxcoapan", que significa "lugar donde abundan las culebras".
+En este caso, no hay mucho que averiguar: una *puebla* es, simplemente, un poblado o un lugar donde un grupo de personas llega a poblar. Antiguamente el área donde se asienta la ciudad se llamaba Cuetlaxcoapan o "lugar donde las serpientes cambian su piel"; fue en 1531 que la capital de este estado recibió el nombre de "Puebla de los Ángeles",&nbsp;**población, pueblo o lugar de los ángeles**.
 
 ### Querétaro
 
-Proviene del purépecha "K'erhiretarhu", que significa "lugar de piedras grandes".
+Según el INAH, Querétaro es una castellanización del vocablo *c**rettaro*&nbsp;de origen purépecha, pueblo indígena que dominaba el estado actual de Michoacán, cuya traducción es 'cañada', 'lugar de peñas' o '**juego de pelota**'.
 
 ### Quintana Roo
 
-En honor a Andrés Quintana Roo, un abogado, político y escritor novohispano del siglo XIX, quien se adhirió al movimiento insurgente durante la Guerra de Independencia y fue esposo de la heroína y Madre de la Patria, Leona Vicario.
+En honor a **Andrés Quintana Roo**, un abogado, político y escritor novohispano del siglo XIX, quien se adhirió al movimiento insurgente durante la Guerra de Independencia y fue esposo de la heroína y Madre de la Patria, Leona Vicario.
 
 **TE RECOMENDAMOS: [¿Quién fue Leona Vicario, prócer de la Independencia de México?](https://blog.tonoysumariachi.com/historia/2022/11/17/quien-fue-leona-vicario-la-procer-de-la-independencia.html){: target="_blank" rel="noopener"}**
 
 ### San Luis Potosí
 
-Hace referencia a San Luis Rey de Francia y a las minas de potosí, famosas por su riqueza.
+Hace referencia a **San Luis Rey de Francia** y a las **minas del Potosí**, una ciudad en Bolivia y a una montaña cercana que fue famosa por su riqueza en plata durante la época colonial.
 
 ### Sinaloa
 
-Deriva del cahita "Sinao", que significa "lugar de las conchas" o "lugar de pescado".
+Deriva de la lengua cahita, y se compone de las voces&nbsp;*sina*, que significa 'pitahaya', y *lobola*, que significa 'redondeado'.
 
 ### Sonora
 
-Proviene de la voz yaqui "Xunuta", que significa "el lugar donde se apaga el fuego".
+En el siglo XVI el lugar se dedicó a Nuestra Señora del Rosario, pero como los nativos no podían pronunciar la letra ñ,&nbsp;*Señora*&nbsp;derivó en *Senora* y de ahí pasó a&nbsp;*Sonora*. Una segunda teoría indica que los indígenas vivían en chozas de cañas llamadas en su lengua&nbsp;*sonot; l*os españoles cambiaron esa palabra a&nbsp;*sonora*&nbsp;y luego extendieron el nombre a toda la provincia.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Desierto_de_Sonora_-_panoramio_%281%29.jpg/1024px-Desierto_de_Sonora_-_panoramio_%281%29.jpg)
 
 ### Tabasco
 
-Deriva del maya "Taabs k'áak'", que significa "lugar de aguas calientes".
+Se dice que su nombre proviene del **cacique indígena Tabscoob**, quien gobernaba en el momento que los españoles arribaron. Otra versión dice que deriva del maya *Taabs k'áak*, que significa "lugar de aguas calientes", una más dice que es una forma modificada de los vocablos mayas *Tab-uaxac-coh,* que significan "Nuestro señor el de los ocho leones”; o bien, que deriva de *tlahuasco*, 'lugar que tiene dueño'.
 
 ### Tamaulipas
 
-Proviene del huasteco "Tamaholipa", que significa "lugar donde se reza mucho".
+El nombre del estado de Tamaulipas se deriva de *Tamaholipa* palabra de origen Huasteco, donde el prefijo *tam* significa 'lugar donde'. Aunque no existe un acuerdo del significado de *holipa*, parece ser que la interpretación más común es “rezar mucho”, lo cual significa “**lugar donde se reza mucho**”.
 
 ### Tlaxcala
 
