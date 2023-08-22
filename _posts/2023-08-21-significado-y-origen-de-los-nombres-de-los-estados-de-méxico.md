@@ -100,7 +100,7 @@ En honor a **José María Morelos y Pavón**, otro líder insurgente de la indep
 
 ### Nayarit
 
-Deriva del cora "Náayeri", que significa "hijo de Dios".
+Toma su nombre en honor al rey de la etnia cora llamado **Naye**, **Nayar** o **Nayarit**, quien fundó el reino de Huacica o Xécora y las partes altas de la Sierra Madre Occidental; este reino se resistió a la conquista de los españoles por más de 200 años. La palabra Nayarit significa “hijo de Dios que está en el cielo y en el sol”.
 
 ### Nuevo León
 
@@ -108,7 +108,7 @@ Cuando llegaron los españoles a México y pusieron nombres, muchas veces tomaro
 
 ### Oaxaca
 
-Proviene del náhuatl "Huaxyacac", que significa "en la nariz de los huajes" (árbol típico de la región).
+En el siglo XV, los mexicas establecieron un campamento en este valle al que llamaron *Huaxyacac*, que en náhuatl significa “**En la punta o en la nariz del huaje**” o guaje, un árbol propio de la región y que es origen del vocablo Oaxaca.
 
 ### Puebla
 
@@ -147,6 +147,8 @@ Proviene del huasteco "Tamaholipa", que significa "lugar donde se reza mucho".
 ### Tlaxcala
 
 Deriva del náhuatl "Tlaxcallan", que significa "lugar de pan de maíz".
+
+**TE RECOMENDAMOS: [Tlaxcala: lugares que conocer de una ciudad que desde luego que existe.](https://blog.tonoysumariachi.com/turismo/2022/09/21/tlaxcala-una-ciudad-que-desde-luego-que-existe.html){: target="_blank" rel="noopener"}**
 
 ### Veracruz
 
