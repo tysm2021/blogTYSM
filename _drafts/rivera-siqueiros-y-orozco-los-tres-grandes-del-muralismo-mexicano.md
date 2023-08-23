@@ -43,7 +43,7 @@ Su obra artística se distingue por su **estilo realista** y sus **murales** mon
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Palacio_de_Bellas_Artes_-_Mural_El_Hombre_in_cruce_de_caminos_Rivera_3.jpg/1024px-Palacio_de_Bellas_Artes_-_Mural_El_Hombre_in_cruce_de_caminos_Rivera_3.jpg)
 
-Colaboró en proyectos icónicos como los **murales** del **Palacio de Bellas Artes** y el **Palacio Nacional** de la Ciudad de México. Su vida personal estuvo marcada su atormentada relación con la pintora Frida Kahlo. Falleció el **24 de noviembre de 1957**, dejando un legado artístico perdurable y un impacto profundo en la cultura mexicana y la escena internacional.
+Colaboró en proyectos icónicos como los **murales** del **Palacio de Bellas Artes** y el **Palacio Nacional** de la Ciudad de México, y también tiene obras en el extranjero. Su vida personal estuvo marcada su atormentada relación con la pintora Frida Kahlo. Falleció el **24 de noviembre de 1957**, dejando un legado artístico perdurable y un impacto profundo en la cultura mexicana y la escena internacional.
 
 ## David Alfaro Siqueiros
 
@@ -57,4 +57,14 @@ Su carrera artística se destacó por su enfoque político y social en sus **mur
 
 Sus ansias de experimentación quedaron manifiestas en su avance innovador con la **piroxilina**, una clase de pintura utilizada en la industria automotiva, que otorga a sus obras un volumen, una fuerza y una viveza de color que los pigmentos tradicionales no pueden brindar. Además, su uso aventurado de los encuadres, los escorzos y de una perspectiva que prácticamente deforma las figuras, dan un sello distintivo a la obra mural de "**El Coronelazo**", como se le apodó a **Siqueiros**.
 
-José Clemente Orozco
+## José Clemente Orozco
+
+José Clemente Orozco nació el 23 de noviembre de 1883 en Zapotlán el Grande —hoy Ciudad Guzmán—, Jalisco. Su familia se mudó a Guadalajara y luego a la Ciudad de México, donde estudió en la Academia de San Carlos. Después de participar en la Revolución, Orozco se unió al movimiento muralista mexicano junto a Diego Rivera y David Alfaro Siqueiros.
+
+
+
+Su obra artística se caracteriza por su enfoque en la representación crítica y expresiva de la condición humana, reflejando tanto la lucha social como la introspección individual. Algunas de sus obras más destacadas incluyen los murales en el **Hospicio Cabañas** en **Guadalajara**, donde creó la famosa pintura *Hombre en llamas*, que simboliza el sufrimiento humano.&nbsp;
+
+Sus murales exploran temas como la opresión, la revolución y la alienación moderna, empleando una paleta de colores sombríos y un estilo que combina el realismo con elementos simbólicos. Fue un artista profundamente introspectivo, cuestionando la naturaleza humana y las tensiones sociales en su trabajo. Falleció el 7 de septiembre de 1949 en la Ciudad de México, dejando tras de sí un legado artístico que desafió convenciones y provocó reflexión.
+
+Los murales, pinturas y grabados de estos "tres grandes" continúan inspirando a artistas y espectadores, trascendiendo fronteras y generaciones, y su impronta como figura influyente del arte mexicano sigue resonando en la historia del arte mundial.
