@@ -36,8 +36,6 @@ El nombre deriva de la abundancia de **aguas termales** o calientes en la regió
 
 ### Baja California y Baja California Sur
 
-
-
 Una de las teorías más populares sobre el origen del nombre California se basa en la novela *Las sergas de Esplandián*, del autor español **Garci Rodríguez de Montalvo** en 1510. La novela narra las aventuras de un caballero llamado Esplandián en una tierra llamada **California**, habitada por mujeres guerreras y gobernada por la reina Calafia. Según esta leyenda, el nombre California podría derivar de Calafia y representar una tierra mítica o exótica.
 
 ### Campeche
@@ -68,7 +66,7 @@ El nombre Durango fue tomada de **la ciudad homónima** que se encuentra en la p
 
 ### Estado de México
 
-Sobre el origen de la palabra *México*, existen varias teorías y versiones, muchas de las cuales están basadas en la lengua náhuatl. La más conocida&nbsp;​​​propone que proviene de la combinación de las palabras *metztli*, 'luna', *xictli*, 'ombligo' y *co*, sufijo de lugar, dando lugar a "Metztli xictli co", que se traduce como "en el ombligo de la Luna".
+Sobre el origen de la palabra *México*, existen varias teorías y versiones, muchas de las cuales están basadas en la lengua náhuatl. La más conocida ​​​propone que proviene de la combinación de las palabras *metztli*, 'luna', *xictli*, 'ombligo' y *co*, sufijo de lugar, dando lugar a "Metztli xictli co", que se traduce como "en el ombligo de la Luna".
 
 ### Guanajuato
 
@@ -88,11 +86,11 @@ En honor al padre de la independencia de México, **Miguel Hidalgo y Costilla**.
 
 ### Jalisco
 
-Deriva del náhuatl "Xalixco", que significa "sobre la superficie de arena".
+Deriva del náhuatl *Xalixco*, que significa "sobre la superficie de arena".
 
 ### Michoacán
 
-Proviene del náhuatl "Michhuahco" que significa "lugar de pescadores".
+Se afirma que proviene del náhuatl *Michhuahco* que significa 'lugar de pescados' o 'lugar de pescadores; también se dice que la palabra es de origen tarasca, una corrupción de *Michamacuan*, que en esta lengua quiere decir 'estar junto al agua'.
 
 ### Morelos
 
@@ -114,11 +112,11 @@ En el siglo XV, los mexicas establecieron un campamento en este valle al que lla
 
 ### Puebla
 
-En este caso, no hay mucho que averiguar: una *puebla* es, simplemente, un poblado o un lugar donde un grupo de personas llega a poblar. Antiguamente el área donde se asienta la ciudad se llamaba Cuetlaxcoapan o "lugar donde las serpientes cambian su piel"; fue en 1531 que la capital de este estado recibió el nombre de "Puebla de los Ángeles",&nbsp;**población, pueblo o lugar de los ángeles**.
+En este caso, no hay mucho que averiguar: una *puebla* es, simplemente, un poblado o un lugar donde un grupo de personas llega a poblar. Antiguamente el área donde se asienta la ciudad se llamaba Cuetlaxcoapan o 'lugar donde las serpientes cambian su piel'; fue en 1531 que la capital de este estado recibió el nombre de "Puebla de los Ángeles",&nbsp;**población, pueblo o lugar de los ángeles**.
 
 ### Querétaro
 
-Según el INAH, Querétaro es una castellanización del vocablo *c**rettaro*&nbsp;de origen purépecha, pueblo indígena que dominaba el estado actual de Michoacán, cuya traducción es 'cañada', 'lugar de peñas' o '**juego de pelota**'.
+Según el INAH, Querétaro es una castellanización del vocablo *crettaro* de origen purépecha —pueblo indígena que dominaba el estado actual de Michoacán—, cuya traducción es 'cañada', 'lugar de peñas' o 'juego de pelota'.
 
 ### Quintana Roo
 
@@ -142,7 +140,7 @@ En el siglo XVI el lugar se dedicó a Nuestra Señora del Rosario, pero como los
 
 ### Tabasco
 
-Se dice que su nombre proviene del **cacique indígena Tabscoob**, quien gobernaba en el momento que los españoles arribaron. Otra versión dice que deriva del maya *Taabs k'áak*, que significa "lugar de aguas calientes", una más dice que es una forma modificada de los vocablos mayas *Tab-uaxac-coh,* que significan "Nuestro señor el de los ocho leones”; o bien, que deriva de *tlahuasco*, 'lugar que tiene dueño'.
+Se dice que su nombre proviene del **cacique indígena Tabscoob**, quien gobernaba en el momento que los españoles arribaron. Otra versión dice que deriva del maya *Taabs k'áak*, que significa 'lugar de aguas calientes', una más dice que es una forma modificada de los vocablos mayas *Tab-uaxac-coh,* que significan 'Nuestro señor el de los ocho leones'; o bien, que deriva de *tlahuasco*, 'lugar que tiene dueño'.
 
 ### Tamaulipas
 
@@ -150,7 +148,7 @@ El nombre del estado de Tamaulipas se deriva de *Tamaholipa* palabra de origen H
 
 ### Tlaxcala
 
-La palabra Tlaxcala proviene del náhuatl *tlaxcalli* que quiere decir 'tortilla', pero que al combinar con la terminación *tlan* que denota 'lugar de', forma *tlaxcallan*, el sustantivo pasa a significar&nbsp;**lugar de tortillas.**
+La palabra Tlaxcala proviene del náhuatl *tlaxcalli* que quiere decir 'tortilla', pero que al combinar con la terminación *tlan* que denota 'lugar de', forma *tlaxcallan*, el sustantivo pasa a significar '**lugar de tortillas'.**
 
 **TE RECOMENDAMOS: [Tlaxcala: lugares que conocer de una ciudad que desde luego que existe.](https://blog.tonoysumariachi.com/turismo/2022/09/21/tlaxcala-una-ciudad-que-desde-luego-que-existe.html){: target="_blank" rel="noopener"}**
 
@@ -162,6 +160,6 @@ Es resultado del nombre de la primera colonia española establecida por Hernán 
 
 Hay muchas versiones: un dice que deriva del maya *yok'atlan*, que significa "no soy de aquí" o "no comprendo". Otra versión establece que un conquistador preguntó sobre el nombre de la región y un indígena contestó: *ma´anaatik ka tánn* , que en maya quiere decir “no entiendo lo que hablas”; los españoles prestos proclamaron el nombre *Yucatán*. Una historia más afirma que el nombre de **Yucatán** proviene de lo que decían los mayas al oír hablar a los españoles: *uh yu ka t’ann*, que es como decir : “oye como hablan”.
 
-​​​​​Zacatecas
+### ​​​​​Zacatecas
 
 Proviene del náhuatl *zacatl*, 'zacate, junco', por lo que significa "**lugar donde abunda el zacate**".
