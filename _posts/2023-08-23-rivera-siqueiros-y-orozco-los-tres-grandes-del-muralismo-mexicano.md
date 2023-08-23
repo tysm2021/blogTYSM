@@ -20,7 +20,8 @@ article_header:
       /uploads/tormento-de-cuauhtemoc-de-david-alfaro-siqueiros-en-el-palacio-de-bellas-artes-03.jpeg
 sharing: true
 author: Francisco Massé
-cover: /images/2022-04-20-manuelacuna.png
+cover: >-
+  /uploads/tormento-de-cuauhtemoc-de-david-alfaro-siqueiros-en-el-palacio-de-bellas-artes-03.jpeg
 show_author_profile: false
 comment: false
 summary: >-
