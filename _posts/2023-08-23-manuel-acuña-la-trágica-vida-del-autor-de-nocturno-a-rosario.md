@@ -45,8 +45,6 @@ A los veinte años, Manuel fundó la Sociedad Literaria de Nezahualcóyotl y as�
 
 La obra de **Acuña** se caracteriza por su expresión sincera de emociones, especialmente en el ámbito del amor y el dolor. Su poema "Nocturno a Rosario" es un claro ejemplo de su estilo romántico:
 
-
-
 *Yo quiero que tu sepas<br>que ya hace muchos días<br>estoy enfermo y pálido<br>de tanto no dormir;<br>que ya se han muerto todas<br>las esperanzas mías,<br>que están mis noches negras,<br>tan negras y sombrías,<br>que ya no sé ni dónde<br>se alzaba el porvenir.*
 
 Este poema revela su profundo sentimiento amoroso y su uso de la naturaleza para expresar sus emociones. Sin embargo, su poesía también refleja un tono oscuro y melancólico, como en su famoso poema "Hojas secas":
