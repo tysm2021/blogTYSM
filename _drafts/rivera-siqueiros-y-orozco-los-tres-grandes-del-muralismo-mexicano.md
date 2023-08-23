@@ -33,8 +33,20 @@ Estudiemos brevemente la **obra mural** de estos **tres artistas**, para así ap
 
 TE RECOMENDAMOS:
 
-Diego Rivera
+## Diego Rivera
 
-David Alfaro Siqueiros
+Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez, o simplemente **Diego Rivera**, nació el 8 de diciembre de 1886 en la ciudad de Guanajuato. Estudió en la Academia de San Carlos en Ciudad de México, donde desarrolló su habilidad artística y se sumergió en las corrientes vanguardistas europeas. Fue becado por el gobierno mexicano para estudiar en Madrid y en París, donde entró en contacto con vanguardias europeas como el cubismo.
+
+
+
+Su obra artística se distingue por su **estilo realista** y sus **murales** monumentales y accesible a todo el público, los cuales retratan la historia y la cultura mexicana fusionando influencias prehispánicas con elementos modernos. Su compromiso político y social se reflejó en su arte al abordar temas de desigualdad y lucha de clases. Además, en lo formal es un maestro de la composición, con un uso audaz del color, y también tiene importantes obras de caballete.
+
+Colaboró en proyectos icónicos como los **murales** del **Palacio de Bellas Artes** y el **Palacio Nacional** de la Ciudad de México. Su vida personal estuvo marcada su atormentada relación con la pintora Frida Kahlo. Falleció el **24 de noviembre de 1957**, dejando un legado artístico perdurable y un impacto profundo en la cultura mexicana y la escena internacional.
+
+## David Alfaro Siqueiros
+
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tormento_de_Cuauht%C3%A9moc_de_David_Alfaro_Siqueiros_en_el_Palacio_de_Bellas_Artes_03.jpg/1024px-Tormento_de_Cuauht%C3%A9moc_de_David_Alfaro_Siqueiros_en_el_Palacio_de_Bellas_Artes_03.jpg)
 
 José Clemente Orozco
