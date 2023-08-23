@@ -59,12 +59,14 @@ Sus ansias de experimentación quedaron manifiestas en su avance innovador con l
 
 ## José Clemente Orozco
 
-José Clemente Orozco nació el 23 de noviembre de 1883 en Zapotlán el Grande —hoy Ciudad Guzmán—, Jalisco. Su familia se mudó a Guadalajara y luego a la Ciudad de México, donde estudió en la Academia de San Carlos. Después de participar en la Revolución, Orozco se unió al movimiento muralista mexicano junto a Diego Rivera y David Alfaro Siqueiros.
+J**osé Clemente Orozco** nació el 23 de noviembre de 1883 en Zapotlán el Grande —hoy Ciudad Guzmán—, Jalisco. Su familia se mudó a Guadalajara y luego a la Ciudad de México, donde estudió en la Academia de San Carlos. Después de participar en la Revolución, **Orozco** se unió al movimiento muralista mexicano junto a **Diego Rivera** y **David Alfaro Siqueiros**.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jose_Clemente_Orozco_mural_at_San_Ildefonso.jpg/1024px-Jose_Clemente_Orozco_mural_at_San_Ildefonso.jpg)
 
+Su obra artística se caracteriza por su enfoque en la representación crítica y expresiva de la condición humana, reflejando tanto la lucha social como la introspección individual. Algunas de sus obras más destacadas incluyen los murales en el **Hospicio Cabañas** en **Guadalajara**, donde creó la famosa pintura *Hombre en llamas*, que simboliza el sufrimiento humano. También destacan sus murales en el **Palacio de Bellas Artes**, en el **Colegio de San Ildefonso** y el **Castillo de Chapultepec**.
 
-Su obra artística se caracteriza por su enfoque en la representación crítica y expresiva de la condición humana, reflejando tanto la lucha social como la introspección individual. Algunas de sus obras más destacadas incluyen los murales en el **Hospicio Cabañas** en **Guadalajara**, donde creó la famosa pintura *Hombre en llamas*, que simboliza el sufrimiento humano.&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hombre_en_llamas_por_Clemente_Orozco_-_panoramio.jpg/1024px-Hombre_en_llamas_por_Clemente_Orozco_-_panoramio.jpg)
 
-Sus murales exploran temas como la opresión, la revolución y la alienación moderna, empleando una paleta de colores sombríos y un estilo que combina el realismo con elementos simbólicos. Fue un artista profundamente introspectivo, cuestionando la naturaleza humana y las tensiones sociales en su trabajo. Falleció el 7 de septiembre de 1949 en la Ciudad de México, dejando tras de sí un legado artístico que desafió convenciones y provocó reflexión.
+Sus **murales** exploran temas como la opresión, la revolución y la alienación moderna, empleando una paleta de colores sombríos y un estilo que combina el realismo con elementos simbólicos. Fue un artista profundamente introspectivo, cuestionando la naturaleza humana y las tensiones sociales en su trabajo.&nbsp;**Orozco** falleció el 7 de septiembre de 1949 en la Ciudad de México, dejando tras de sí un legado artístico que desafió convenciones y provocó reflexión.
 
 Los murales, pinturas y grabados de estos "tres grandes" continúan inspirando a artistas y espectadores, trascendiendo fronteras y generaciones, y su impronta como figura influyente del arte mexicano sigue resonando en la historia del arte mundial.
