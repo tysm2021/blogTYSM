@@ -49,12 +49,12 @@ Colaboró en proyectos icónicos como los **murales** del **Palacio de Bellas Ar
 
 **David Alfaro Siqueiros** nació el 29 de diciembre de 1896 en Santa Rosalía de Camargo, Chihuahua. Quedó huérfano de madre y fue criado por sus abuelos. Llegó a la Ciudad de México a principios del siglo XX y en 1911 empezó a estudiar en la Academia de San Carlos. A los 18 años, se enroló en el Ejército Constitucionalista. Más tarde, en 1919, viajó a París a estudiar las vanguardias artísticas y ahí conoció a Diego Rivera.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Palacio_de_Bellas_Artes_-_Mural_La_Nueva_Democracia_Siqueiros_2.jpg/1024px-Palacio_de_Bellas_Artes_-_Mural_La_Nueva_Democracia_Siqueiros_2.jpg)
+
 Su carrera artística se destacó por su enfoque político y social en sus **murales**. Fue uno de los fundadores del movimiento **muralista mexicano** y participó en la creación de **murales** icónicos, como los del **Palacio de Bellas Artes** y del **Polyforum Cultural Siqueiros** en Ciudad de México. También se involucró en actividades políticas y militantes, lo que le llevó a enfrentar conflictos y exilios. Su vida personal estuvo marcada por pasiones intensas y relaciones tumultuosas. Falleció el 6 de enero de 1974, dejando un legado de arte revolucionario y un impacto duradero en la cultura y el arte mexicanos.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tormento_de_Cuauht%C3%A9moc_de_David_Alfaro_Siqueiros_en_el_Palacio_de_Bellas_Artes_03.jpg/1024px-Tormento_de_Cuauht%C3%A9moc_de_David_Alfaro_Siqueiros_en_el_Palacio_de_Bellas_Artes_03.jpg)
 
-Sus ansias de experimentación quedaron manifiestas en su avance innovador con la piroxilina, una clase de pintura utilizada en la industria automotiva, que otorga a sus obras un volumen, una fuerza y una viveza de color que los pigmentos tradicionales no pueden brindar. Además, su uso aventurado de los encuadres, los escorzos y de una perspectiva que prácticamente deforma las figuras, dan un sello distintivo a la obra mural de "El Coronelazo", como se le apodó a Siqueiros.
-
-
+Sus ansias de experimentación quedaron manifiestas en su avance innovador con la **piroxilina**, una clase de pintura utilizada en la industria automotiva, que otorga a sus obras un volumen, una fuerza y una viveza de color que los pigmentos tradicionales no pueden brindar. Además, su uso aventurado de los encuadres, los escorzos y de una perspectiva que prácticamente deforma las figuras, dan un sello distintivo a la obra mural de "**El Coronelazo**", como se le apodó a **Siqueiros**.
 
 José Clemente Orozco
