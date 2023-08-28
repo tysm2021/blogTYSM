@@ -61,12 +61,24 @@ Un ejemplo es la **Iglesia de Jesús Nazareno**, ubicada en el Centro Histórico
 
 De nuevo, recurrimos al diccionario y éste nos dice que es un "templo que tiene una particular importancia religiosa, por la gran cantidad de fieles que acuden a él, por estar **dedicado a la veneración de la imagen o a las reliquias de un santo o de una divinidad** de especial devoción entre los fieles".
 
-### Parroquia
+En el vasto panorama de los templos católicos, el **santuario** emerge como un enclave de profundo significado espiritual. Es el corazón del templo, un espacio sagrado donde se resguarda a menudo una **imagen venerada** de un santo, de Jesús crucificado o de una virgen. Este recinto es el epicentro de la devoción, donde los fieles se reúnen para orar, encender velas y expresar sus deseos y gratitudes. Un ejemplo en México es el **Santuario del Señor de Chalma**, en el Estado de México, donde miles de devotos acuden en busca de consuelo y protección, o a "pagar su manda".
 
-Ahora, piensa en una parroquia como un grupo de amigos cercanos dentro de la gran familia de la iglesia. Es un grupo de personas que asisten a una iglesia específica y comparten la misma comunidad religiosa. En México, las parroquias a menudo están vinculadas a áreas geográficas, como colonias o pueblos. Cada parroquia puede tener su propio sentido de identidad y comunidad, incluso si comparten el mismo edificio con otras parroquias.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Retablo_principal_del_Santuario_del_Se%C3%B1or_de_Chalma_-_4.jpg/768px-Retablo_principal_del_Santuario_del_Se%C3%B1or_de_Chalma_-_4.jpg)&nbsp;
+
+## Parroquia
+
+El DEM, editado por el prestigioso Colegio de México, acota que una *parroquia* es una "Iglesia o templo en el que se **proporcionan servicios religiosos a los habitantes del territorio** que queda bajo su jurisdicción y que se encuentra a cargo de un sacerdote", así como el "territorio o distrito que está bajo la jurisdicción de una **iglesia** y conjunto de fieles que habitan en él". O sea que hablamos tanto de una iglesia como del territorio geográfico cuyos habitantes quedan a cargo espiritual de ésta.
+
+Piensa en una parroquia como un grupo de amigos cercanos dentro de la gran familia de la iglesia: un grupo de personas que asisten a una iglesia específica y comparten la misma comunidad religiosa. En México, las parroquias a menudo están vinculadas a áreas geográficas, como colonias o pueblos. Una muy famosa es la **Parroquia de Nuestra Señora de los Dolores**, en Dolores Hidalgo, Guanajuato, desde donde el padre Hidalgo azuzó al pueblo para iniciar la lucha por su libertad, una mañana de septiembre.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores_en_Dolores_Hidalgo%2C_Guanajuato%2C_M%C3%A9xico.jpg/960px-Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores_en_Dolores_Hidalgo%2C_Guanajuato%2C_M%C3%A9xico.jpg)
 
 ## Capilla
 
-Si las iglesias fueran casas de Dios, entonces las capillas serían los rincones íntimos y acogedores para la oración. Son pequeñas, pero no menos significativas. Las capillas pueden estar dentro de edificios más grandes, como hospitales o escuelas, o incluso en medio de un jardín sereno. Son espacios diseñados para momentos de paz y reflexión, y a menudo están decoradas con cuidado para crear un ambiente propicio para la espiritualidad.
+Por último, consultemos al *Diccionario del Español de México* con respecto a la **definición** de la palabra *capilla*\: "**Iglesia pequeña anexa a otra mayor**, o parte integrante de ésta, con altar y advocación particular; a veces se utiliza para guardar el Santísimo Sacramento o para guardar una tumba o reliquias". Así, si las iglesias fueran casas de Dios, entonces las capillas serían los rincones íntimos y acogedores para la oración.
+
+Eso sí: las capillas son pequeñas, pero no menos significativas y algunas justo por su tamaño son como hermosos relicarios; también pueden estar dentro de edificios más grandes, como hospitales o escuelas, o incluso en medio de un jardín sereno. Además de la Capilla del Pocito, adjunta a la Basílica de Guadalupe; de la Capilla de Aranzazú, en un segundo piso adjunto al Templo y ex Convento de San Francisco, en San Luis Potosí; destaca la **Capilla del Rosario**, que depende del Templo de Santo Domingo en Puebla, y es uno de los edificios más bellos de México… y del mundo.
+
+
 
 En resumen, cada término en el vocabulario arquitectónico religioso tiene su propio papel en la rica tapestry espiritual de México. Desde las altivas catedrales hasta las humildes capillas, cada uno contribuye a la diversidad y profundidad de la experiencia religiosa en el país.
