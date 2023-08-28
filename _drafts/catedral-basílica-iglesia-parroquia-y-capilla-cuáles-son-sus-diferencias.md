@@ -51,6 +51,12 @@ Con respecto a *basílica*, el mismo DEM nos dice: "Iglesia católica que **por 
 
 Por ser una palabra de carácter general, la definición que ofrece la fuente ya citada es breve y clara: "**Edificio destinado al culto de una religión, especialmente de la católica**". Imagina una iglesia como un refugio espiritual donde la comunidad se reúne para celebrar la fe. Desde una pequeña capilla de pueblo hasta la más grande catedral del país, estos edificios son **lugares sagrados donde las personas se unen en oración y adoración**. Las iglesias pueden variar en tamaño y estilo arquitectónico, pero comparten la función de ser un lugar donde las personas se conectan con lo divino. Algunas tienen campanarios altos que resuenan por la ciudad, mientras que otras pueden tener vitrales coloridos que llenan el interior de luz y color.
 
+Un ejemplo es la **Iglesia de Jesús Nazareno**, ubicada en el Centro Histórico de la Ciudad de México, la cual resguarda los restos del conquistador español Hernán Cortés.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Templo_del_hospitald_de_jesus.jpg/1024px-Templo_del_hospitald_de_jesus.jpg)
+
+**TE RECOMENDAMOS: [¿Dónde está la tumba de Hernán Cortés?](https://blog.tonoysumariachi.com/historia/2022/06/14/donde-esta-la-tumba-de-hernan-cortes.html){: target="_blank" rel="noopener"}**
+
 ## Santuario
 
 De nuevo, recurrimos al diccionario y éste nos dice que es un "templo que tiene una particular importancia religiosa, por la gran cantidad de fieles que acuden a él, por estar **dedicado a la veneración de la imagen o a las reliquias de un santo o de una divinidad** de especial devoción entre los fieles".
