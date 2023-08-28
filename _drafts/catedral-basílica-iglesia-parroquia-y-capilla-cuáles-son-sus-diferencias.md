@@ -33,15 +33,19 @@ A continuación, una breve explicación con ejemplos prácticos.
 
 ## Catedral
 
-La **definición** que ofrece el *Diccionario del Español de México* es muy amplia y precisa: "**Iglesia principal de los católicos, de una diócesis en la que el obispo o el arzobispo tiene su trono episcopal** permanente o *cátedra*; generalmente se encuentra en la población de la que la diócesis recibe su nombre y en la que reside el obispo \[…\]. Suele ser apreciada por la antigüedad de su fundación, por tesoros artísticos históricos que conserva y por su valor arquitectónico; la fecha de su consagración y la fiesta de su titular se celebran litúrgicamente en toda la diócesis".
+La **definición** que ofrece el *Diccionario del Español de México*&nbsp;(DEM) es muy amplia y precisa: "**Iglesia principal de los católicos, de una diócesis en la que el obispo o el arzobispo tiene su trono episcopal** permanente o *cátedra*; generalmente se encuentra en la población de la que la diócesis recibe su nombre y en la que reside el obispo \[…\]. Suele ser apreciada por la antigüedad de su fundación, por tesoros artísticos históricos que conserva y por su valor arquitectónico; la fecha de su consagración y la fiesta de su titular se celebran litúrgicamente en toda la diócesis".
 
 Si imagináramos la arquitectura como un baile, la **catedral** sería la figura central y majestuosa en el escenario. Es el edificio religioso más importante de una diócesis, donde el obispo establece su sede y lidera las ceremonias eclesiásticas. Desde el punto de vista arquitectónico, la catedral destaca por su grandeza y su diseño exquisito. Las catedrales son a menudo altas y elegantes, con intrincados detalles en cada rincón. En México, la **Catedral Metropolitana** en la Ciudad de México es un perfecto ejemplo: con sus torres icónicas y su estilo barroco, esta **catedral** impresiona tanto por fuera como por dentro, donde se encuentran valiosas obras de arte y tesoros espirituales.
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mexico_City_Metropolitan_Cathedral1.jpg/1024px-Mexico_City_Metropolitan_Cathedral1.jpg)
 
 ## Basílica
 
-¿Recuerdas cómo en una familia hay primos especiales? Bueno, las basílicas son como las primas especiales de las iglesias. Son iglesias que han sido otorgadas con un título especial por el Papa debido a su relevancia religiosa. Aunque una basílica no siempre es gigantesca, como la Basílica de San Pedro en Roma, por ejemplo, es una pieza clave en la arquitectura religiosa. Su diseño a menudo refleja un estilo particular y se presta atención a los detalles para darle un toque especial.
+Con respecto a *basílica*, el mismo DEM nos dice: "Iglesia católica que **por su antigüedad, importancia, historia o alguna otra razón, goza de ciertos privilegios** de carácter jurisdiccional o ceremonial otorgados por el Papa, como el de tener precedente sobre las demás de la diócesis, excepto la catedral". También hace una aclaración: que hay cuatro *basílicas mayores* —San Pedro, San Pablo Extramuros, San Juan de Letrán y Santa María la Mayor—, que son cuatro iglesias en Roma consideradas como las más importantes del catolicismo&nbsp;
+
+¿Recuerdas cómo en una familia hay primos especiales? Bueno, **las basílicas son como las primas especiales de las catedrales**\: se trata de iglesias que han sido otorgadas con un título especial por el Papa debido a su relevancia religiosa. Aunque una basílica no siempre es gigantesca —como la **Basílica de San Pedro** en Roma, por ejemplo—, casi siempre son piezas destacadas en la arquitectura religiosa, cuyo diseño a menudo refleja un estilo particular y se presta atención a los detalles para darle toques especiales. El ejemplo más claro en México es la **Basílica de Guadalupe**, que es el uno de los templos religiosos más visitados del mundo.
+
+
 
 ### Iglesia
 
