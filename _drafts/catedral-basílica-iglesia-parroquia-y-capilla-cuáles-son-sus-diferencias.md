@@ -45,7 +45,7 @@ Con respecto a *basílica*, el mismo DEM nos dice: "Iglesia católica que **por 
 
 ¿Recuerdas cómo en una familia hay primos especiales? Bueno, **las basílicas son como las primas especiales de las catedrales**\: se trata de iglesias que han sido otorgadas con un título especial por el Papa debido a su relevancia religiosa. Aunque una basílica no siempre es gigantesca —como la **Basílica de San Pedro** en Roma, por ejemplo—, casi siempre son piezas destacadas en la arquitectura religiosa, cuyo diseño a menudo refleja un estilo particular y se presta atención a los detalles para darle toques especiales. El ejemplo más claro en México es la **Basílica de Guadalupe**, que es el uno de los templos religiosos más visitados del mundo.
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Basilica_of_Our_Lady_of_Guadalupe%2C_ArmAg.JPG/1024px-Basilica_of_Our_Lady_of_Guadalupe%2C_ArmAg.JPG)
 
 ### Iglesia
 
