@@ -79,6 +79,6 @@ Por último, consultemos al *Diccionario del Español de México* con respecto a
 
 Eso sí: las capillas son pequeñas, pero no menos significativas y algunas justo por su tamaño son como hermosos relicarios; también pueden estar dentro de edificios más grandes, como hospitales o escuelas, o incluso en medio de un jardín sereno. Además de la Capilla del Pocito, adjunta a la Basílica de Guadalupe; de la Capilla de Aranzazú, en un segundo piso adjunto al Templo y ex Convento de San Francisco, en San Luis Potosí; destaca la **Capilla del Rosario**, que depende del Templo de Santo Domingo en Puebla, y es uno de los edificios más bellos de México… y del mundo.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vista_de_la_Capilla_del_Rosario%2C_Puebla.jpg/1024px-Vista_de_la_Capilla_del_Rosario%2C_Puebla.jpg)
 
-
-En resumen, cada término en el vocabulario arquitectónico religioso tiene su propio papel en la rica tapestry espiritual de México. Desde las altivas catedrales hasta las humildes capillas, cada uno contribuye a la diversidad y profundidad de la experiencia religiosa en el país.
+En resumen, cada término en el **vocabulario** arquitectónico religioso tiene su propio papel en el rico entramado espiritual de México. Desde las altivas **catedrales** hasta las humildes **capillas**, cada uno contribuye a la diversidad y profundidad de la experiencia religiosa, histórica y cultural en nuestro país.
