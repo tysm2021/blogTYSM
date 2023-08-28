@@ -35,7 +35,7 @@ A continuación, una breve explicación con ejemplos prácticos.
 
 La **definición** que ofrece el *Diccionario del Español de México*&nbsp;(DEM) es muy amplia y precisa: "**Iglesia principal de los católicos, de una diócesis en la que el obispo o el arzobispo tiene su trono episcopal** permanente o *cátedra*; generalmente se encuentra en la población de la que la diócesis recibe su nombre y en la que reside el obispo \[…\]. Suele ser apreciada por la antigüedad de su fundación, por tesoros artísticos históricos que conserva y por su valor arquitectónico; la fecha de su consagración y la fiesta de su titular se celebran litúrgicamente en toda la diócesis".
 
-Si imagináramos la arquitectura como un baile, la **catedral** sería la figura central y majestuosa en el escenario. Es el edificio religioso más importante de una diócesis, donde el obispo establece su sede y lidera las ceremonias eclesiásticas. Desde el punto de vista arquitectónico, la catedral destaca por su grandeza y su diseño exquisito. Las catedrales son a menudo altas y elegantes, con intrincados detalles en cada rincón. En México, la **Catedral Metropolitana** en la Ciudad de México es un perfecto ejemplo: con sus torres icónicas y su estilo barroco, esta **catedral** impresiona tanto por fuera como por dentro, donde se encuentran valiosas obras de arte y tesoros espirituales.
+Si pensáramos en la arquitectura como un baile, la **catedral** sería la figura central y majestuosa en el escenario. Es el edificio religioso más importante de una diócesis, donde el obispo establece su sede y lidera las ceremonias eclesiásticas. Desde el punto de vista arquitectónico, la catedral destaca por su grandeza y su diseño exquisito. Las catedrales son a menudo altas y elegantes, con intrincados detalles en cada rincón. En México, la **Catedral Metropolitana** en la Ciudad de México es un perfecto ejemplo: con sus torres icónicas y su estilo barroco, esta **catedral** impresiona tanto por fuera como por dentro, donde se encuentran valiosas obras de arte y tesoros espirituales.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mexico_City_Metropolitan_Cathedral1.jpg/1024px-Mexico_City_Metropolitan_Cathedral1.jpg)
 
@@ -49,7 +49,11 @@ Con respecto a *basílica*, el mismo DEM nos dice: "Iglesia católica que **por 
 
 ### Iglesia
 
-Imagina una iglesia como un refugio espiritual donde la comunidad se reúne para celebrar la fe. Desde una pequeña capilla de pueblo hasta una iglesia más grande en la ciudad, estos edificios son lugares sagrados donde las personas se unen en oración y adoración. Las iglesias pueden variar en tamaño y estilo arquitectónico, pero comparten la función de ser un lugar donde las personas se conectan con lo divino. Algunas tienen campanarios altos que resuenan por la ciudad, mientras que otras pueden tener vitrales coloridos que llenan el interior de luz y color.
+Por ser una palabra de carácter general, la definición que ofrece la fuente ya citada es breve y clara: "**Edificio destinado al culto de una religión, especialmente de la católica**". Imagina una iglesia como un refugio espiritual donde la comunidad se reúne para celebrar la fe. Desde una pequeña capilla de pueblo hasta la más grande catedral del país, estos edificios son **lugares sagrados donde las personas se unen en oración y adoración**. Las iglesias pueden variar en tamaño y estilo arquitectónico, pero comparten la función de ser un lugar donde las personas se conectan con lo divino. Algunas tienen campanarios altos que resuenan por la ciudad, mientras que otras pueden tener vitrales coloridos que llenan el interior de luz y color.
+
+## Santuario
+
+De nuevo, recurrimos al diccionario y éste nos dice que es un "templo que tiene una particular importancia religiosa, por la gran cantidad de fieles que acuden a él, por estar **dedicado a la veneración de la imagen o a las reliquias de un santo o de una divinidad** de especial devoción entre los fieles".
 
 ### Parroquia
 
