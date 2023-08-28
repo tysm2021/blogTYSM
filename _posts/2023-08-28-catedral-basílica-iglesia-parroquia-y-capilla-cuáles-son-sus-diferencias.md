@@ -18,7 +18,7 @@ article_header:
     src: /uploads/capilla-del-rosario.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /images/2022-04-20-manuelacuna.png
+cover: /uploads/capilla-del-rosario.jpeg
 show_author_profile: false
 comment: false
 summary: >-
