@@ -57,7 +57,9 @@ Día Nacional del Cacao y el Chocolate.
 
 ### 8 de septiembre
 
-1768: Natalicio de **Josefa Ortiz de Domínguez** en Valladolid, hoy Morelia.
+**1768:** Natalicio de **Josefa Ortiz de Domínguez** en Valladolid, hoy Morelia.
+
+**1862\.&nbsp;**Muere, en Puebla y víctima del tifo, **Ignacio Zaragoza**, comandante en jefe del Ejército de Oriente que había triunfado contra los franceses en la batalla del 5 de mayo
 
 ### 7 de septiembre
 
