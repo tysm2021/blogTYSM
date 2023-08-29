@@ -129,7 +129,7 @@ Día Internacional de la Paz.
 
 ### 22 de septiembre
 
-equinoccio de Otoño.&nbsp;
+1910\. Se inaugura la Universidad Nacional de México, hoy UNAM.
 
 ### 24 de septiembre
 
@@ -141,9 +141,11 @@ Día Marítimo Mundial.
 
 ### 27 de septiembre
 
-1821\. Consumación de la Independencia de México, con la entrada triunfal del Ejército Trigarante a la Ciudad de México.
+**1821\. Consumación de la Independencia** de México, con la entrada triunfal del Ejército Trigarante a la Ciudad de México.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c7/Solemne_y_pac%C3%ADfica_entrada_del_Ej%C3%A9rcito_de_las_Tres_Garant%C3%ADas_a_la_Ciudad_de_M%C3%A9xico.jpg)
+
+**1960\.** Nacionalización de la **Industria Eléctrica** de México.
 
 ### 29 de septiembre
 
@@ -153,6 +155,6 @@ Día Nacional del Maíz.
 
 ### 30 de septiembre
 
-Natalicio de **José María Morelos y Pavón** en Valladolid, hoy Morelia.
+Natalicio de **José María Morelos y Pavón** en Valladolid, hoy Morelia; fue un gran general insurgente que mantuvo encendida la llama independentista tras la muerte de Hidalgo.
 
 &nbsp;
