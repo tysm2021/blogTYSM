@@ -33,41 +33,41 @@ Según el Diccionario de la Lengua Española, una *efeméride* es un "acontecimi
 
 Día del Informe Presidencial.
 
-1925\. El presidente Plutarco Elías Calles inaugura el Banco de México.
+**1925\.** El presidente Plutarco Elías Calles inaugura el **Banco de México**.
 
-1939: Estalla la Segunda Guerra Mundial con la invasión de Alemania a Polonia.
+**1939:** Estalla la **Segunda Guerra Mundial** con la invasión de Alemania a Polonia.
 
 ### 2 de septiembre
 
 Día Nacional del Cacao y el Chocolate.
 
-1991\. Muere en la Ciudad de México el diplomático Alfonso García Robles, impulsor del Tratado de Tlatelolco para la no proliferación nuclear, por el que ganó el Premio Nobel de la Paz 1982.
+1991\. Muere en la Ciudad de México el diplomático **Alfonso García Robles**, impulsor del Tratado de Tlatelolco para la no proliferación nuclear, por el que ganó el Premio Nobel de la Paz 1982.
 
 ### 3 de septiembre
 
-1934\. Daniel Cosío Villegas funda el Fondo de Cultura Económica, una de las editoriales más importantes del país.
+**1934**. Daniel Cosío Villegas funda el **Fondo de Cultura Económica**, una de las editoriales más importantes del país.
 
 ### 4 de septiembre
 
-1939: El presidente Lázaro Cárdenas anuncia la neutralidad de México en la Segunda Guerra Mundial.&nbsp;
+**1939**\: El presidente **Lázaro Cárdenas** anuncia la neutralidad de México en la Segunda Guerra Mundial.&nbsp;
 
-1969: se inaugura la Línea 1 del Metro en el Distrito Federal.
+**1969**\: se inaugura la **Línea 1 del Metro** en el Distrito Federal, hoy Ciudad de México.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/010410_R458_012_FUNCIONANDO_EL_STC_METRO_SEPTIEMBRE_05_1969_%2831678407041%29.jpg/1024px-010410_R458_012_FUNCIONANDO_EL_STC_METRO_SEPTIEMBRE_05_1969_%2831678407041%29.jpg)
 
 ### 6 de septiembre
 
-1860: Benito Juárez instaura las leyes de Reforma en Guanajuato.
+**1860**\: Benito Juárez instaura las **Leyes de Reforma** en Guanajuato.
 
 ### 8 de septiembre
 
-1768: Natalicio de **Josefa Ortiz de Domínguez** en Valladolid, hoy Morelia.
+**1768:** Natalicio de **Josefa Ortiz de Domínguez** en Valladolid, hoy Morelia.
 
-1862\. Muere, en Puebla y víctima del tifo, **Ignacio Zaragoza**, comandante en jefe del Ejército de Oriente que había triunfado contra los franceses en la batalla del 5 de mayo
+**1862**. Muere, en Puebla y víctima del tifo, **Ignacio Zaragoza**, comandante en jefe del Ejército de Oriente que había triunfado contra los franceses en la batalla del 5 de mayo
 
 ### 7 de septiembre
 
-Muere en la Ciudad de México **José Clemente Orozco**, pintor y muralista; su obra se aprecia en el Palacio de Bellas Artes, en San Ildefonso y en el Hospicio Cabañas.
+**1949\.** Muere en la Ciudad de México **José Clemente Orozco**, pintor y muralista; su obra se aprecia en el Palacio de Bellas Artes, en San Ildefonso y en el Hospicio Cabañas.
 
 ### 10 de septiembre
 
@@ -81,7 +81,7 @@ Conmemoración de la Gesta Heroica del **Batallón de San Patricio**, en 1847.
 
 ### 13 de septiembre
 
-Día de la Gesta Heroica de los **Niños Héroes de Chapultepec** (Fernando Montes de Oca, Agustín Melgar, Vicente Suárez, Juan Escutia, Francisco Márquez y Juan de la Barrera).
+**1847**. Día de la Gesta Heroica de los **Niños Héroes de Chapultepec** (Fernando Montes de Oca, Agustín Melgar, Vicente Suárez, Juan Escutia, Francisco Márquez y Juan de la Barrera).
 
 **TE RECOMENDAMOS: [La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?](https://blog.tonoysumariachi.com/historia/2022/06/30/la-historia-de-los-ninos-heroes-de-chapultepec-es-verdad-o-mito.html){: target="_blank" rel="noopener"}**
 
@@ -103,7 +103,7 @@ Aniversario del inicio de la **Guerra de Independencia**, con la celebración de
 
 ### 17 de septiembre
 
-1964\. El presidente **Adolfo López Mateos** inaugura el Museo Nacional de Antropología.
+**1964**. El presidente **Adolfo López Mateos** inaugura el Museo Nacional de Antropología.
 
 ### 19 de septiembre
 
@@ -155,6 +155,4 @@ Día Nacional del Maíz.
 
 ### 30 de septiembre
 
-Natalicio de **José María Morelos y Pavón** en Valladolid, hoy Morelia; fue un gran general insurgente que mantuvo encendida la llama independentista tras la muerte de Hidalgo.
-
-&nbsp;
+**1765**. Natalicio de **José María Morelos y Pavón** en Valladolid, hoy Morelia; fue un gran general insurgente que mantuvo encendida la llama independentista tras la muerte de Hidalgo.
