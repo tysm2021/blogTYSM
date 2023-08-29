@@ -63,11 +63,17 @@ Día de la Gesta Heroica de los **Niños Héroes de Chapultepec**.
 
 **TE RECOMENDAMOS: [La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?](https://blog.tonoysumariachi.com/historia/2022/06/30/la-historia-de-los-ninos-heroes-de-chapultepec-es-verdad-o-mito.html){: target="_blank" rel="noopener"}**
 
+### 15 de septiembre
+
+**1830\.** Natalicio de Porfirio Díaz Mori, presidente de México.
+
+Aniversario del inicio de la Guerra de Independencia, con la celebración de "El Grito"
+
 ### 16 de septiembre
 
-de 1810: aniversario del inicio de la Independencia de México, con la celebración de "El Grito".
+**1810\.** El cura Miguel Hidalgo da inicio a la Guerra de Independencia de México, en Dolores, Guanajuato.
 
-natalicio de Ricardo Flores Magón.
+**1873\.** Natalicio del activista y luchador social **Ricardo Flores Magón**.
 
 ### 17 de septiembre
 
