@@ -31,29 +31,37 @@ Según el Diccionario de la Lengua Española, una *efeméride* es un "acontecimi
 
 ### 1 de septiembre
 
-1925\.&nbsp;
+Día del Informe Presidencial.
 
-1939: estalla la Segunda Guerra Mundial con la invasión de Alemania a Polonia.
+**1925\.** El presidente Plutarco Elías Calles inaugura el **Banco de México**.
+
+**1939:** Estalla la **Segunda Guerra Mundial** con la invasión de Alemania a Polonia.
 
 ### 2 de septiembre
 
 Día Nacional del Cacao y el Chocolate.
 
+**1991\.**&nbsp;Muere en la Ciudad de México el diplomático **Alfonso García Robles**, impulsor del Tratado de Tlatelolco para la no proliferación nuclear, por el que ganó el Premio Nobel de la Paz 1982.
+
 ### 4 de septiembre
 
-de 1939: el presidente Lázaro Cárdenas anuncia la neutralidad de México en la Segunda Guerra Mundial. 1969: se inaugura la Línea 1 del Metro en el Distrito Federal. Instauración de la Sociedad Botánica de México.
+**1939:** El presidente Lázaro Cárdenas anuncia la neutralidad de México en la Segunda Guerra Mundial.&nbsp;
+
+**1969:&nbsp;**se inaugura la Línea 1 del Metro en el Distrito Federal.
 
 ### 6 de septiembre
 
-1860: Benito Juárez instaura las leyes de Reforma en Guanajuato.
+**1860:**&nbsp;Benito Juárez instaura las leyes de Reforma en Guanajuato.
 
 ### 8 de septiembre
 
-de 1768: natalicio de Josefa Ortiz de Domínguez. nació en Valladolid, hoy Morelia, el 8 de septiembre de 1768
+1768: Natalicio de **Josefa Ortiz de Domínguez** en Valladolid, hoy Morelia.
 
 ### 13 de septiembre
 
-Día de la Gesta Heroica de los Niños Héroes de Chapultepec.
+Día de la Gesta Heroica de los **Niños Héroes de Chapultepec**.
+
+**TE RECOMENDAMOS: [La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?](https://blog.tonoysumariachi.com/historia/2022/06/30/la-historia-de-los-ninos-heroes-de-chapultepec-es-verdad-o-mito.html){: target="_blank" rel="noopener"}**
 
 ### 16 de septiembre
 
