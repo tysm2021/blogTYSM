@@ -49,6 +49,8 @@ Día Nacional del Cacao y el Chocolate.
 
 **1969:&nbsp;**se inaugura la Línea 1 del Metro en el Distrito Federal.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/010410_R458_012_FUNCIONANDO_EL_STC_METRO_SEPTIEMBRE_05_1969_%2831678407041%29.jpg/1024px-010410_R458_012_FUNCIONANDO_EL_STC_METRO_SEPTIEMBRE_05_1969_%2831678407041%29.jpg)
+
 ### 6 de septiembre
 
 **1860:**&nbsp;Benito Juárez instaura las leyes de Reforma en Guanajuato.
@@ -56,6 +58,10 @@ Día Nacional del Cacao y el Chocolate.
 ### 8 de septiembre
 
 1768: Natalicio de **Josefa Ortiz de Domínguez** en Valladolid, hoy Morelia.
+
+### 7 de septiembre
+
+Muere en la Ciudad de México **José Clemente Orozc**o, pintor y muralista; su obra se aprecia en el Palacio de Bellas Artes, en San Ildefonso y en el Hospicio Cabañas
 
 ### 13 de septiembre
 
@@ -109,6 +115,6 @@ Día Nacional del Maíz.
 
 ### 30 de septiembre
 
-natalicio de José María Morelos y Pavón.
+Natalicio de José María Morelos y Pavón.
 
 &nbsp;
