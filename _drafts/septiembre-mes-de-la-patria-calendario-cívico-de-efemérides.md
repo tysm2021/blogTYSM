@@ -125,6 +125,8 @@ Día Nacional de la Protección Civil.
 
 Día Internacional de la Paz.
 
+**1918\.** Nace en Zapotlán el Grande, hoy Ciudad Guzmán, el escritor **Juan José Arreola**, una de las plumas más destacadas de la literatura mexicana del siglo XX.
+
 ### 22 de septiembre
 
 equinoccio de Otoño.&nbsp;
