@@ -81,41 +81,45 @@ Conmemoración de la Gesta Heroica del **Batallón de San Patricio**, en 1847.
 
 ### 13 de septiembre
 
-Día de la Gesta Heroica de los **Niños Héroes de Chapultepec**.
+Día de la Gesta Heroica de los **Niños Héroes de Chapultepec** (Fernando Montes de Oca, Agustín Melgar, Vicente Suárez, Juan Escutia, Francisco Márquez y Juan de la Barrera).
 
 **TE RECOMENDAMOS: [La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?](https://blog.tonoysumariachi.com/historia/2022/06/30/la-historia-de-los-ninos-heroes-de-chapultepec-es-verdad-o-mito.html){: target="_blank" rel="noopener"}**
 
 ### 15 de septiembre
 
-1830\. Natalicio de Porfirio Díaz Mori, presidente de México.
+**1830\.** Natalicio de **Porfirio Díaz Mori**, presidente de México.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/38/General_Porfirio_D%C3%ADaz.JPG)
 
-1854\. Se interpreta por primera vez el Himno Nacional Mexicano.
+**1854\.** Se interpreta por primera vez el **Himno Nacional Mexicano**.
 
-Aniversario del inicio de la Guerra de Independencia, con la celebración de "El Grito"
+Aniversario del inicio de la **Guerra de Independencia**, con la celebración de "El Grito" y de la Noche Mexicana en los hogares del país.
 
 ### 16 de septiembre
 
-1810\. El cura Miguel Hidalgo da inicio a la Guerra de Independencia de México, en Dolores, Guanajuato.
+**1810\.** El cura **Miguel Hidalgo** da inicio a la Guerra de Independencia de México, en Dolores, Guanajuato.
 
-1873\. Natalicio del activista y luchador social Ricardo Flores Magón.
+**1873\.** Natalicio del activista y luchador social **Ricardo Flores Magón**.
 
 ### 17 de septiembre
 
-1964\. El presidente Adolfo López Mateos inaugura el Museo Nacional de Antropología.
+1964\. El presidente **Adolfo López Mateos** inaugura el Museo Nacional de Antropología.
 
 ### 19 de septiembre
 
 Día Nacional de la Protección Civil.
 
-1985\. En la Ciudad de México se registra un terremoto de 8.1 grados en escala Richter con epicentro en las costas de Michoacán, que provoca una de las peores catástrofes del país.
+**1985\.** En la Ciudad de México se registra un **terremoto de 8.1 grados** en escala Richter con epicentro en las costas de Michoacán, que provoca una de las peores catástrofes del país.
 
-2017\. Treinta y dos años después, un sismo de magnitud 7.1 con epicentro sacudió la Ciudad de México, Puebla y Morelos, causando daños y numerosas pérdidas humanas.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sismo_1985_Ciudad_de_M%C3%A9xico_76.jpg/1024px-Sismo_1985_Ciudad_de_M%C3%A9xico_76.jpg)
+
+**2017\.** Treinta y dos años después, un **sismo de magnitud 7.1**&nbsp;sacudió la Ciudad de México, Puebla y Morelos, causando daños y numerosas pérdidas humanas.
 
 ### 20 septiembre
 
-1596\. Se funda la villa de Monterrey, hoy ciudad capital del estado de Nuevo León.
+**1596\.** Se funda la villa de **Monterrey**, hoy ciudad capital del estado de Nuevo León.
+
+**1964\.** Se inaugura el **Museo de Arte Moderno**, en el Bosque de Chapultepec (CDMX).
 
 ### 21 de septiembre
 
