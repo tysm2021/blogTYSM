@@ -43,6 +43,10 @@ Día Nacional del Cacao y el Chocolate.
 
 1991\. Muere en la Ciudad de México el diplomático Alfonso García Robles, impulsor del Tratado de Tlatelolco para la no proliferación nuclear, por el que ganó el Premio Nobel de la Paz 1982.
 
+### 3 de septiembre
+
+1934\. Daniel Cosío Villegas funda el Fondo de Cultura Económica, una de las editoriales más importantes del país.
+
 ### 4 de septiembre
 
 1939: El presidente Lázaro Cárdenas anuncia la neutralidad de México en la Segunda Guerra Mundial.&nbsp;
@@ -57,23 +61,29 @@ Día Nacional del Cacao y el Chocolate.
 
 ### 8 de septiembre
 
-1768: Natalicio de Josefa Ortiz de Domínguez en Valladolid, hoy Morelia.
+1768: Natalicio de **Josefa Ortiz de Domínguez** en Valladolid, hoy Morelia.
 
-1862\. Muere, en Puebla y víctima del tifo, Ignacio Zaragoza, comandante en jefe del Ejército de Oriente que había triunfado contra los franceses en la batalla del 5 de mayo
+1862\. Muere, en Puebla y víctima del tifo, **Ignacio Zaragoza**, comandante en jefe del Ejército de Oriente que había triunfado contra los franceses en la batalla del 5 de mayo
 
 ### 7 de septiembre
 
-Muere en la Ciudad de México José Clemente Orozco, pintor y muralista; su obra se aprecia en el Palacio de Bellas Artes, en San Ildefonso y en el Hospicio Cabañas.
+Muere en la Ciudad de México **José Clemente Orozco**, pintor y muralista; su obra se aprecia en el Palacio de Bellas Artes, en San Ildefonso y en el Hospicio Cabañas.
+
+### 10 de septiembre
+
+**1786\.** Natalicio de **Nicolás Bravo**, insurgente que estuvo bajo el mando de Morelos, conocido como el "Héroe del Perdón".
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nicol%C3%A1s_Bravo_%28Joaqu%C3%ADn_Ram%C3%ADrez%29.jpg/866px-Nicol%C3%A1s_Bravo_%28Joaqu%C3%ADn_Ram%C3%ADrez%29.jpg)
 
 ### 12 de septiembre
 
-Conmemoración de la Gesta Heroica del Batallón de San Patricio, en 1847.
+Conmemoración de la Gesta Heroica del **Batallón de San Patricio**, en 1847.
 
 ### 13 de septiembre
 
-Día de la Gesta Heroica de los Niños Héroes de Chapultepec.
+Día de la Gesta Heroica de los **Niños Héroes de Chapultepec**.
 
-TE RECOMENDAMOS: [La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?](https://blog.tonoysumariachi.com/historia/2022/06/30/la-historia-de-los-ninos-heroes-de-chapultepec-es-verdad-o-mito.html){: target="_blank" rel="noopener"}
+**TE RECOMENDAMOS: [La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?](https://blog.tonoysumariachi.com/historia/2022/06/30/la-historia-de-los-ninos-heroes-de-chapultepec-es-verdad-o-mito.html){: target="_blank" rel="noopener"}**
 
 ### 15 de septiembre
 
