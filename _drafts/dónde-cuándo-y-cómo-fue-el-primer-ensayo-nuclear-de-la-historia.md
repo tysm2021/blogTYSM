@@ -25,9 +25,11 @@ summary: >-
   El 16 de julio de 1945, en el desierto de Nuevo México, tuvo lugar la primera
   prueba nuclear de la historia. Te contamos cómo fue…
 ---
-\*\*Título: La Primera Prueba Nuclear: El Alba de la Era Atómica en 1945\*\*
-
 La primera prueba nuclear, un hito en la historia científica, tuvo lugar el 16 de julio de 1945 en el desierto de Nuevo México, Estados Unidos. Esta prueba formó parte del Proyecto Manhattan y tuvo como objetivo detonar una bomba atómica para comprender su potencial destructivo y su funcionamiento. El líder del proyecto, J. Robert Oppenheimer, dirigió el equipo de científicos y expertos involucrados en esta histórica hazaña.
+
+Revisemos los acontecimientos y personajes principales de esta página de la historia que representó el inicio de la era nuclear y de una carrera armamentista que durante décadas ha tenido a la humanidad al borde de su extinción.
+
+TE RECOMENDAMOS:&nbsp;&nbsp;
 
 \*\*Paso 1: Preparación y Construcción de la Bomba\*\*<br>El corazón de esta prueba fue el diseño y construcción de la bomba atómica. Se construyó un dispositivo explosivo llamado "Gadget" utilizando plutonio-239, un isótopo radiactivo. Se creó un complejo sistema de detonadores y mecanismos de implosión que permitirían lograr una reacción nuclear en cadena.
 
