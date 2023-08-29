@@ -63,7 +63,11 @@ Día Nacional del Cacao y el Chocolate.
 
 ### 7 de septiembre
 
-Muere en la Ciudad de México **José Clemente Orozc**o, pintor y muralista; su obra se aprecia en el Palacio de Bellas Artes, en San Ildefonso y en el Hospicio Cabañas
+Muere en la Ciudad de México **José Clemente Orozc**o, pintor y muralista; su obra se aprecia en el Palacio de Bellas Artes, en San Ildefonso y en el Hospicio Cabañas.
+
+### 12 de septiembre
+
+Conmemoración de la Gesta Heroica del **Batallón de San Patricio**, en 1847.
 
 ### 13 de septiembre
 
@@ -75,11 +79,15 @@ Día de la Gesta Heroica de los **Niños Héroes de Chapultepec**.
 
 **1830\.** Natalicio de Porfirio Díaz Mori, presidente de México.
 
+![](https://upload.wikimedia.org/wikipedia/commons/3/38/General_Porfirio_D%C3%ADaz.JPG)
+
+**1854\.** Se interpreta por primera vez el Himno Nacional Mexicano.
+
 Aniversario del inicio de la Guerra de Independencia, con la celebración de "El Grito"
 
 ### 16 de septiembre
 
-**1810\.** El cura Miguel Hidalgo da inicio a la Guerra de Independencia de México, en Dolores, Guanajuato.
+**1810\.** El cura **Miguel Hidalgo** da inicio a la Guerra de Independencia de México, en Dolores, Guanajuato.
 
 **1873\.** Natalicio del activista y luchador social **Ricardo Flores Magón**.
 
