@@ -18,7 +18,7 @@ article_header:
     src: /uploads/alexander-schimmeck-3acbgazani-unsplash.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /images/2022-04-20-manuelacuna.png
+cover: /uploads/alexander-schimmeck-3acbgazani-unsplash.jpeg
 show_author_profile: false
 comment: false
 summary: >-
