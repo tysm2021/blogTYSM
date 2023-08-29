@@ -1,6 +1,6 @@
 ---
 title: ¿Dónde, cuándo y cómo fue el primer ensayo nuclear de la historia?
-date: 2023-08-29 18:00:00
+date: 2023-08-29 10:00:00
 categories:
   - MUNDO
 tags:
