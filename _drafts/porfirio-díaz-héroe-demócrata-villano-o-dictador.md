@@ -48,12 +48,16 @@ La victoria mexicana en la **Batalla de Puebla** fue un acontecimiento heroico q
 
 El **Plan de Tuxtepec** fue una pieza clave en la historia de México: fue declarado por **Porfirio Díaz**&nbsp;el **10 de enero de 1876**&nbsp;—y elaborado en el municipio de Villa de Ojitlán, **Tuxtepec**, Oaxaca— como una respuesta a la reelección del presidente **Sebastián Lerdo de Tejada**. Este plan buscaba cambiar la situación política del país, ya que **Díaz** consideraba que el gobierno estaba alejándose de los principios democráticos y favoreciendo a un pequeño grupo de poderosos.
 
-En el **Plan de Tuxtepec**, Díaz proponía la no reelección y el sufragio efectivo; es decir, que las elecciones fueran justas y que el pueblo tuviera voz en la elección de sus gobernantes. Esto resonó con muchas personas que buscaban un cambio en la forma en que se gobernaba México. Después de enfrentamientos y luchas, **Díaz** logró derrocar a Lerdo de Tejada y asumió la presidencia en 1877.
-
-### Villano
-
-Aunque el **Plan de Tuxtepec** prometía democracia y cambio, todos sabemos que una vez que llegó al poder **Díaz** se aferró a la silla y su presidencia se convirtió en un periodo prolongado de autoritarismo. Durante su presidencia, don **Porfirio** realizó una serie de mejoras al país, pero a costos sociales muy altos. Éstas son algunas de las acciones que dejaron un impacto positivo en México:
+En el **Plan de Tuxtepec**, Díaz proponía la no reelección y el sufragio efectivo; es decir, que las elecciones fueran justas y que el pueblo tuviera voz en la elección de sus gobernantes. Esto resonó con muchas personas que buscaban un cambio en la forma en que se gobernaba México. Después de enfrentamientos y luchas, **Díaz** logró derrocar a Lerdo de Tejada y asumió la presidencia en 1877. Durante su administración,&nbsp;**Porfirio Díaz**&nbsp;realizó una serie de acciones que dejaron un impacto positivo en México; las más importantes son:
 
 1. **Modernización de la infraestructura:** **Díaz** promovió la modernización de la infraestructura del país, impulsando la construcción de ferrocarriles, carreteras y telegrafía. Estas mejoras ayudaron a conectar regiones remotas y estimularon el comercio y el crecimiento económico.
 2. **Estabilidad económica:** Durante el **Porfiriato**, se logró una relativa estabilidad económica que atrajo inversiones extranjeras. Esto permitió el crecimiento de la industria y la agricultura, generando empleo y mejorando la economía del país.
 3. **Educación y cultura: Díaz** promovió la educación y la cultura, estableciendo escuelas y universidades, así como bibliotecas y museos. Fomentó el acceso a la educación y apoyó el desarrollo de la cultura mexicana, lo que contribuyó al enriquecimiento de la sociedad.
+
+### Villano
+
+Pero, aunque el **Plan de Tuxtepec** prometía democracia y cambio, todos sabemos que una vez que llegó al poder **Porfirio**&nbsp;**Díaz** se aferró a la silla y su presidencia se convirtió en un periodo prolongado de autoritarismo. A pesar de sus logros en lo económico y tecnológico, su presidencia también estuvo marcada por aspectos negativos en lo político y social:
+
+1. **Concentración de poder:** Díaz gobernó por un largo periodo, lo que resultó en una concentración excesiva de poder en sus manos. Esto limitó la participación democrática y la alternancia en el gobierno, llevando a un sistema político autoritario.
+2. **Desigualdad social:** Aunque se promovió el desarrollo económico, hubo una marcada desigualdad en la distribución de la riqueza. Grandes terratenientes y empresas extranjeras se beneficiaron, mientras que las condiciones de trabajo para los campesinos y obreros eran a menudo precarias.
+3. **Represión y autoritarismo:** Durante su mandato, se registraron violaciones a los derechos humanos, como la represión de movimientos sociales y la limitación de la libertad de prensa. Estos actos autoritarios generaron tensiones y descontento en la sociedad, contribuyendo a la Revolución Mexicana en 1910.
