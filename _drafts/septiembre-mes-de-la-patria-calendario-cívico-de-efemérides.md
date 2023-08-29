@@ -93,9 +93,11 @@ Aniversario del inicio de la Guerra de Independencia, con la celebración de "El
 
 ### 17 de septiembre
 
-Día Mundial de las Playas.
+**1964\.** El presidente Adolfo López Mateos inaugura el Museo Nacional de Antropología.
 
 ### 19 de septiembre
+
+Día Nacional de la Protección Civil.
 
 **1985\.** En la Ciudad de México se registra un terremoto de 8.1 grados en escala Richter con epicentro en las costas de Michoacán, que provoca una de las peores catástrofes del país.
 
