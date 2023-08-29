@@ -81,7 +81,9 @@ Día Mundial de las Playas.
 
 ### 19 de septiembre
 
-1985: en la Ciudad de México se registra un terremoto de 8.1 grados en escala Richter, provocando una de las peores catástrofes del país.
+**1985\.** En la Ciudad de México se registra un terremoto de 8.1 grados en escala Richter con epicentro en las costas de Michoacán, que provoca una de las peores catástrofes del país.
+
+**2017\.** Treinta y dos años después, un sismo de magnitud 7.1 con epicentro sacudió la Ciudad de México, Puebla y Morelos, causando daños y numerosas pérdidas humanas.
 
 ### 21 de septiembre
 
@@ -97,7 +99,9 @@ Día Marítimo Mundial.
 
 ### 27 de septiembre
 
-se cumplen 200 años de la Consumación de la Independencia de México.
+1821\. Consumación de la Independencia de México, con la entrada triunfal del Ejército Trigarante a la Ciudad de México.
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/c7/Solemne_y_pac%C3%ADfica_entrada_del_Ej%C3%A9rcito_de_las_Tres_Garant%C3%ADas_a_la_Ciudad_de_M%C3%A9xico.jpg)
 
 ### 29 de septiembre
 
