@@ -61,3 +61,13 @@ Pero, aunque el **Plan de Tuxtepec** prometía democracia y cambio, todos sabemo
 1. **Concentración de poder:** Díaz gobernó por un largo periodo, lo que resultó en una concentración excesiva de poder en sus manos. Esto limitó la participación democrática y la alternancia en el gobierno, llevando a un sistema político autoritario.
 2. **Desigualdad social:** Aunque se promovió el desarrollo económico, hubo una marcada desigualdad en la distribución de la riqueza. Grandes terratenientes y empresas extranjeras se beneficiaron, mientras que las condiciones de trabajo para los campesinos y obreros eran a menudo precarias.
 3. **Represión y autoritarismo:** Durante su mandato, se registraron violaciones a los derechos humanos, como la represión de movimientos sociales y la limitación de la libertad de prensa. Estos actos autoritarios generaron tensiones y descontento en la sociedad, contribuyendo a la Revolución Mexicana en 1910.
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Porfirio_Diaz_in_uniform.jpg)
+
+### Dictador
+
+**Porfirio Díaz** gobernó México durante un largo periodo conocido como el **Porfiriato**, que abarcó desde 1876 hasta 1911. Durante este tiempo, ocupó la presidencia en diferentes etapas, sumando siete mandatos en total. Aunque inicialmente promovió principios como "no reelección" y "sufragio efectivo", con el tiempo se consolidó en el poder a través de elecciones controvertidas y manipulaciones políticas.
+
+Su gobierno ha sido objeto de diversos juicios por parte de la historia. Por un lado, **Díaz** es reconocido por impulsar modernización en áreas como infraestructura, comunicaciones y economía; atrajo inversiones extranjeras y buscó estabilizar el país. Sin embargo, su prolongado mandato llevó a la concentración excesiva de poder, limitando la democracia y la participación ciudadana. Las desigualdades económicas y sociales también aumentaron, afectando a los campesinos y obreros.
+
+La Revolución Mexicana de 1910, que buscaba cambiar estas condiciones, se originó en parte debido al descontento con el régimen de **Díaz**. Su legado es ambivalente: es admirado por sus logros en modernización, pero también cuestionado por su autoritarismo y las consecuencias negativas de su gobierno.
