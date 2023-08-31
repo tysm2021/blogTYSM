@@ -25,7 +25,7 @@ summary: >-
   Cada año, el 1 de septiembre el Presidente de México rinde un informe de
   actividades ante el Congreso de la Unión: te contamos el origen de esto…
 ---
-El **Informe Presidencial** en **México** constituye un ejercicio análogo a una "rendición de cuentas" donde el Jefe del Ejecutivo presenta al país, por medio de un discurso o un documento, un análisis pormenorizado de los logros, desafíos y planes gubernamentales, proporcionando una instantánea de la situación del país y sirviendo como una herramienta de transparencia y control democrático. Pero, ¿**desde cuándo** se estila que el **Presidente** mexicano dé su **informe**, cuál es su **origen** y su **historia**, cuándo fue día de **descanso obligatorio** y cuándo **dejó de serlo**?
+El **Informe Presidencial** en **México** constituye un ejercicio análogo a una "rendición de cuentas" donde el Jefe del Ejecutivo presenta al Congreso, por medio de un discurso o un documento, un análisis pormenorizado de los logros, desafíos y planes gubernamentales, proporcionando una instantánea de la situación del país y sirviendo como una herramienta de transparencia y control democrático. Pero, ¿**desde cuándo** se estila que el **Presidente** mexicano dé su **informe**, cuál es su **origen** y su **historia**, cuándo fue día de **descanso obligatorio** y cuándo **dejó de serlo**?
 
 Acá te platicamos algunos detalles de "el **informe**", como se le llama coloquialmente, además de rememorar algunos **1 de septiembre** que pasaron a la historia, ya sea por la relevancia de lo informado —como la Nacionalización de la Banca— como por los sucesos que, a la larga, llevaron a la desaparición de la ceremonia.
 
