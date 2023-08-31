@@ -18,7 +18,7 @@ article_header:
     src: /uploads/mexico-chamber-of-deputies-backdrop.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /images/2022-04-20-manuelacuna.png
+cover: /uploads/mexico-chamber-of-deputies-backdrop.jpeg
 show_author_profile: false
 comment: false
 summary: >-
@@ -31,8 +31,12 @@ Acá te platicamos algunos detalles de "el **informe**", como se le llama coloqu
 
 **TE RECOMENDAMOS: [Presidentes de México: datos curiosos sobre el titular del Poder Ejecutivo.](https://blog.tonoysumariachi.com/historia/2022/08/10/presidentes-de-mexico-datos-curiosos-sobre-el-titular-del-poder-ejecutivo.html){: target="_blank" rel="noopener"}**
 
-Este evento se remonta a los primeros años de la República, concretamente en 1829, cuando el presidente Guadalupe Victoria presentó ante el Congreso el "Informe sobre el estado que guarda la administración pública". No obstante, no sería sino hasta 1836 cuando se estableció la práctica anual de presentar el informe. A través de los años, esta tradición ha persistido y ha sido una plataforma mediante la cual los mandatarios han comunicado sus acciones y proyectos al legislativo y, en última instancia, al conjunto de la sociedad.
+Los primeros **informes** no tuvieron reglamentación definida. Iturbide presentó dos informes: en noviembre de 1822 y en marzo de 1823. Después, como así lo estipulaba la Constitución de 1824, el 1 de enero de 1825 el **presidente** **Guadalupe Victoria** presentó el **primer Informe Presidencial** de la **historia** de **México** en la apertura de sesiones ordinarias del Congreso General.
 
-\*\*Tercer párrafo:\*\* La solemnidad que solía revestir al Informe Presidencial, al grado de requerir un descanso oficial en todo el país, se modificó en 1934, cuando el entonces presidente Lázaro Cárdenas decidió abolir este requisito. A partir de este punto, el informe dejó de ser un evento que detenía las actividades cotidianas del país y se convirtió en un discurso de relevancia protocolaria que persiste hasta la actualidad.
+![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Guadalupe_Victoria_-_02.jpg)
 
-\*\*Cuarto párrafo:\*\* Dentro de los anales de los informes presidenciales, destacan algunos que han dejado una huella imborrable en la memoria colectiva. Uno de estos momentos icónicos tuvo lugar en 1982, cuando el presidente José López Portillo anunció la nacionalización de la banca mexicana, marcando un punto de quiebre en la política económica y financiera del país. Como tal, el Informe Presidencial subsiste como un espacio de análisis histórico y reflexión sobre la trayectoria del país y su devenir político y social.
+Muchos años después, Porfirio Díaz estableció la costumbre de rendir dos informes anuales, presentados durante las aperturas de las sesiones ordinarias del Congreso. Ya en el siglo XX, la **Constitución de 1917** promulgada por **Venustiano Carranza** dispuso que el Congreso se reuniera el día **1 de septiembre** de cada año para celebrar sesiones ordinarias, y que a la apertura de sesiones del Congreso debería asistir el **presidente** de la República y presentar un **informe** por escrito.
+
+
+
+Dentro de los anales de los informes presidenciales, destacan algunos que han dejado una huella imborrable en la memoria colectiva. Uno de estos momentos icónicos tuvo lugar en 1982, cuando el presidente José López Portillo anunció la Nacionalización de la Banca Mexicana, marcando un punto de quiebre en la política económica y financiera del país.
