@@ -37,6 +37,6 @@ Los primeros **informes** no tuvieron reglamentación definida. Iturbide present
 
 Muchos años después, Porfirio Díaz estableció la costumbre de rendir dos informes anuales, presentados durante las aperturas de las sesiones ordinarias del Congreso. Ya en el siglo XX, la **Constitución de 1917** promulgada por **Venustiano Carranza** dispuso que el Congreso se reuniera el día **1 de septiembre** de cada año para celebrar sesiones ordinarias, y que a la apertura de sesiones del Congreso debería asistir el **presidente** de la República y presentar un **informe** por escrito.
 
-
+Con el correr de los años, fue el presidente **Lázaro Cárdenas** en 1936 quien por primera vez **leyó en la radio un informe presidencial**; catorce años después, 1 de septiembre de 1950, el presidente **Miguel Alemán** hizo de su Cuarto Informe el no sólo la **primera ceremonia televisada** de este tipo, sino la primera transmisión oficial de la historia de la televisión mexicana.
 
 Dentro de los anales de los informes presidenciales, destacan algunos que han dejado una huella imborrable en la memoria colectiva. Uno de estos momentos icónicos tuvo lugar en 1982, cuando el presidente José López Portillo anunció la Nacionalización de la Banca Mexicana, marcando un punto de quiebre en la política económica y financiera del país.
