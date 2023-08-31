@@ -39,4 +39,6 @@ Muchos años después, Porfirio Díaz estableció la costumbre de rendir dos inf
 
 Con el correr de los años, fue el presidente **Lázaro Cárdenas** en 1936 quien por primera vez **leyó en la radio un informe presidencial**; catorce años después, 1 de septiembre de 1950, el presidente **Miguel Alemán** hizo de su Cuarto Informe el no sólo la **primera ceremonia televisada** de este tipo, sino la primera transmisión oficial de la historia de la televisión mexicana.
 
+![](https://upload.wikimedia.org/wikipedia/commons/d/d7/Miguel_Aleman_Congreso.gif)
+
 Dentro de los anales de los informes presidenciales, destacan algunos que han dejado una huella imborrable en la memoria colectiva. Uno de estos momentos icónicos tuvo lugar en 1982, cuando el presidente José López Portillo anunció la Nacionalización de la Banca Mexicana, marcando un punto de quiebre en la política económica y financiera del país.
