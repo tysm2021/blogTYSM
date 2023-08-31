@@ -41,4 +41,8 @@ Con el correr de los años, fue el presidente **Lázaro Cárdenas** en 1936 quie
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d7/Miguel_Aleman_Congreso.gif)
 
-Dentro de los anales de los informes presidenciales, destacan algunos que han dejado una huella imborrable en la memoria colectiva. Uno de estos momentos icónicos tuvo lugar en 1982, cuando el presidente José López Portillo anunció la Nacionalización de la Banca Mexicana, marcando un punto de quiebre en la política económica y financiera del país.
+Los informes presidenciales evolucionaron y se convirtieron en un espacio para mostrar la fortaleza del sistema político en torno al **Presidente de la República**.&nbsp; Con el tiempo se sumaron rituales complementarios que enriquecieron la ceremonia, transformando gradualmente el día del informe en una celebración emblemática del presidencialismo mexicano —además de un día de **descanso obligatorio**—, que conservó su popularidad y alcance social hasta finales del siglo XX. Así, durante años, un evento característico fue el recorrido del Presidente por las calles de la ciudad en un auto descapotable, donde saludaba a la gente mientras confeti llenaba el ambiente.&nbsp;
+
+Dentro de los anales de los informes presidenciales, destacan algunos que han dejado una huella imborrable en la memoria colectiva. Uno de estos momentos icónicos tuvo lugar en 1982, cuando el presidente **José López Portillo** anunció la Nacionalización de la Banca Mexicana, marcando un punto de quiebre en la política económica y financiera del país.
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/ed/Presidente_Jose_Lopez_Portillo.jpg)
