@@ -29,9 +29,9 @@ El **Informe Presidencial** en **México** constituye un ejercicio análogo a un
 
 Acá te platicamos algunos detalles de "el **informe**", como se le llama coloquialmente, además de rememorar algunos **1 de septiembre** que pasaron a la historia, ya sea por la relevancia de lo informado —como la Nacionalización de la Banca— como por los sucesos que, a la larga, llevaron a la desaparición de la ceremonia.
 
-TE RECOMENDAMOS:&nbsp;
+**TE RECOMENDAMOS: [Presidentes de México: datos curiosos sobre el titular del Poder Ejecutivo.](https://blog.tonoysumariachi.com/historia/2022/08/10/presidentes-de-mexico-datos-curiosos-sobre-el-titular-del-poder-ejecutivo.html){: target="_blank" rel="noopener"}**
 
-\*\*Segundo párrafo:\*\* Este evento se remonta a los primeros años de la República, concretamente en 1829, cuando el presidente Guadalupe Victoria presentó ante el Congreso el "Informe sobre el estado que guarda la administración pública". No obstante, no sería sino hasta 1836 cuando se estableció la práctica anual de presentar el informe. A través de los años, esta tradición ha persistido y ha sido una plataforma mediante la cual los mandatarios han comunicado sus acciones y proyectos al legislativo y, en última instancia, al conjunto de la sociedad.
+Este evento se remonta a los primeros años de la República, concretamente en 1829, cuando el presidente Guadalupe Victoria presentó ante el Congreso el "Informe sobre el estado que guarda la administración pública". No obstante, no sería sino hasta 1836 cuando se estableció la práctica anual de presentar el informe. A través de los años, esta tradición ha persistido y ha sido una plataforma mediante la cual los mandatarios han comunicado sus acciones y proyectos al legislativo y, en última instancia, al conjunto de la sociedad.
 
 \*\*Tercer párrafo:\*\* La solemnidad que solía revestir al Informe Presidencial, al grado de requerir un descanso oficial en todo el país, se modificó en 1934, cuando el entonces presidente Lázaro Cárdenas decidió abolir este requisito. A partir de este punto, el informe dejó de ser un evento que detenía las actividades cotidianas del país y se convirtió en un discurso de relevancia protocolaria que persiste hasta la actualidad.
 
