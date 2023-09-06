@@ -1,6 +1,6 @@
 ---
 title: 'Josefa Ortiz de Domínguez: breve biografía de la Benemérita de la Patria'
-date: 2023-09-06 08:00:00
+date: 2023-09-06 06:00:00
 categories:
   - HISTORIA
 tags:
