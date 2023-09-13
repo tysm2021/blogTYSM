@@ -46,11 +46,11 @@ TE RECOMENDAMOS:
 
 \*\*Enchiladas:\*\* Las enchiladas son como regalos envueltos en sabrosa salsa. Imagina tortillas rellenas de carne, queso o frijoles, bañadas en una salsa de chile rojo o verde que despierta tus sentidos. Luego, se decoran con crema, queso y cebolla picada, como si fueran pequeñas obras de arte culinario. Cada mordisco es un viaje a la tierra de los sabores auténticos de México. Las enchiladas son el plato que te hace sentir que estás en una fiesta eterna, donde cada bocado es una celebración de la vida y la comida deliciosa.
 
-\*\*Chiles Rellenos:\*\* Los chiles rellenos son como un abrazo cálido y picante en cada bocado. Pimientos poblanos asados y pelados se rellenan con una mezcla de carne molida o queso, luego se cubren con una salsa de jitomate y se hornean hasta que estén dorados y burbujeantes. La combinación de sabores es mágica: el picante del chile se equilibra con la suavidad del relleno y la salsa de tomate agrega ese toque de frescura y acidez. Cada bocado es como una explosión de emociones, y los chiles rellenos son un clásico de la cocina mexicana que nunca pasa de moda.
-
 \*\*Mole:\*\* El mole es como un misterio culinario que te atrapa desde el primer bocado. Esta rica y compleja salsa es el resultado de una mezcla de ingredientes que incluyen chiles, chocolate, almendras, cacahuates y más. Se sirve tradicionalmente sobre pollo o pavo, creando una sinfonía de sabores que te hace saborear cada capa de ingredientes. El mole es como una obra maestra de la cocina mexicana, una mezcla de lo dulce y lo picante que te hace apreciar la riqueza de la gastronomía mexicana. Cada cucharada es un viaje de sabor que te lleva a través de siglos de tradición culinaria.
 
-TE RECOMENDAMOS:
+\*\*Chiles Rellenos:\*\* Los chiles rellenos son como un abrazo cálido y picante en cada bocado. Pimientos poblanos asados y pelados se rellenan con una mezcla de carne molida o queso, luego se cubren con una salsa de jitomate y se hornean hasta que estén dorados y burbujeantes. La combinación de sabores es mágica: el picante del chile se equilibra con la suavidad del relleno y la salsa de tomate agrega ese toque de frescura y acidez. Cada bocado es como una explosión de emociones, y los chiles rellenos son un clásico de la cocina mexicana que nunca pasa de moda.
+
+**TE RECOMENDAMOS: [Chiles en nogada: historia y la leyenda de su creación.](https://blog.tonoysumariachi.com/gastronomia/2022/04/27/chiles-en-nogada-historia-y-la-leyenda-de-su-creacion.html){: target="_blank" rel="noopener"}**
 
 \*\*Chalupas:\*\* Las chalupas son como pequeñas delicias que te hacen sonreír. Son pequeñas tortillas de maíz, dobladas en los bordes para crear un pequeño borde, y luego se llenan con una variedad de ingredientes deliciosos. Pueden incluir frijoles refritos, carne desmenuzada, lechuga, crema, queso y salsa, creando un estallido de sabores en cada bocado. Las chalupas son como el aperitivo perfecto para cualquier ocasión, y su nombre proviene de las pequeñas canoas (chalupas) utilizadas para transportar alimentos en el pasado. Son como un recordatorio de la rica historia culinaria de México.
 
@@ -60,7 +60,7 @@ TE RECOMENDAMOS:
 
 \*\*Molletes:\*\* Los molletes son como una caricia reconfortante para tu paladar. Consisten en mitades de bollos de pan horneado, generalmente bollos franceses o similares, que se cubren generosamente con frijoles refritos y queso derretido. Luego, se pueden coronar con salsa, pico de gallo o aguacate, añadiendo un toque de frescura a esta delicia reconfortante. Los molletes son ideales para un desayuno sustancioso o como un bocado sabroso durante cualquier hora del día. Son simples pero llenos de sabor, y te hacen sentir como en casa con cada bocado.
 
-TE RECOMENDAMOS:&nbsp;
+**TE RECOMENDAMOS: [Las tortas más famosas y sabrosas de todo México.](https://blog.tonoysumariachi.com/gastronomia/2022/06/28/las-tortas-mas-famosas-y-sabrosas-de-todo-mexico.html){: target="_blank" rel="noopener"}**
 
 \*\*Tostadas:\*\* Las tostadas son como pequeños tesoros crujientes. Son tortillas de maíz que se fríen hasta que se vuelven crujientes y doradas, luego se cubren con una variedad de ingredientes deliciosos. Pueden llevar frijoles refritos, carne deshebrada, lechuga, crema, queso rallado y salsa. Cada bocado es una explosión de sabores y texturas, con lo crujiente de la tostada contrastando con la suavidad de los ingredientes. Las tostadas son un aperitivo popular durante la Noche Mexicana, perfectas para picar mientras se celebra y comparte con amigos y familiares.
 
