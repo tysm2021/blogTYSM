@@ -52,7 +52,11 @@ Una auténtica obra de arte gastronómica, un homenaje a México en forma de com
 
 **TE RECOMENDAMOS: [Chiles en nogada: historia y la leyenda de su creación.](https://blog.tonoysumariachi.com/gastronomia/2022/04/27/chiles-en-nogada-historia-y-la-leyenda-de-su-creacion.html){: target="_blank" rel="noopener"}**
 
-\*\*Enchiladas:\*\* Las enchiladas son como regalos envueltos en sabrosa salsa. Imagina tortillas rellenas de carne, queso o frijoles, bañadas en una salsa de chile rojo o verde que despierta tus sentidos. Luego, se decoran con crema, queso y cebolla picada, como si fueran pequeñas obras de arte culinario. Cada mordisco es un viaje a la tierra de los sabores auténticos de México. Las enchiladas son el plato que te hace sentir que estás en una fiesta eterna, donde cada bocado es una celebración de la vida y la comida deliciosa.
+### Enchiladas
+
+Son como regalos envueltos en sabrosa salsa. Estas tortillas rellenas de pollo desmenuzado, queso o frijoles, se bañan en una salsa de chile rojo o verde que despierta tus papilas y, luego, se decoran con crema, queso y cebolla en rodajas, como si fueran pequeñas obras de arte. Las enchiladas son el plato que te hace sentir que estás en una fiesta eterna, donde cada bocado es una celebración de la vida y la comida deliciosa, aunque —junto con los chilaquiles— muchos las prefieren para la mañana siguiente, cuando parecen tener poderes curativos contra la indeseable resaca o "cruda".
+
+
 
 \*\*Mole:\*\* El mole es como un misterio culinario que te atrapa desde el primer bocado. Esta rica y compleja salsa es el resultado de una mezcla de ingredientes que incluyen chiles, chocolate, almendras, cacahuates y más. Se sirve tradicionalmente sobre pollo o pavo, creando una sinfonía de sabores que te hace saborear cada capa de ingredientes. El mole es como una obra maestra de la cocina mexicana, una mezcla de lo dulce y lo picante que te hace apreciar la riqueza de la gastronomía mexicana. Cada cucharada es un viaje de sabor que te lleva a través de siglos de tradición culinaria.
 
