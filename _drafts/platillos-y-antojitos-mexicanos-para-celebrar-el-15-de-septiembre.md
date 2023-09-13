@@ -56,13 +56,21 @@ Una auténtica obra de arte gastronómica, un homenaje a México en forma de com
 
 Son como regalos envueltos en sabrosa salsa. Estas tortillas rellenas de pollo desmenuzado, queso o frijoles, se bañan en una salsa de chile rojo o verde que despierta tus papilas y, luego, se decoran con crema, queso y cebolla en rodajas, como si fueran pequeñas obras de arte. Las enchiladas son el plato que te hace sentir que estás en una fiesta eterna, donde cada bocado es una celebración de la vida y la comida deliciosa, aunque —junto con los chilaquiles— muchos las prefieren para la mañana siguiente, cuando parecen tener poderes curativos contra la indeseable resaca o "cruda".
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Enchiladas_de_guerrero.jpg/767px-Enchiladas_de_guerrero.jpg)
+
+### Mole
+
+Del náhuatl *mulli* o 'salsa', el **mole** es un enigma culinario que te atrapa desde el primer bocado. Esta rica y compleja salsa es el resultado de una mezcla de ingredientes que incluyen varias especies de chiles seco, chocolate, almendras, cacahuates y demás condimentos. Se sirve tradicionalmente con pollo o guajolote, creando toda una elegía de sabores que te hace saborear cada capa de ingredientes. Es la auténtica obra maestra de la cocina mexicana, una mezcla de lo dulce y lo picante que te hace apreciar la riqueza de nuestra gastronomía.
+
+### Elotes y esquites
+
+Los elotes y esquites son las estrellas de la calle en la Noche Mexicana. Los elotes son mazorcas de maíz hervidas o cocidas a la parrilla, untadas con mayonesa, queso rallado, chile en polvo y jugo de limón. Por su parte, los esquites son granos de maíz cocidos en una sopa de caldo de pollo con los mismos deliciosos condimentos. Ambos son irresistibles y se disfrutan mejor mientras paseas y disfrutas de la celebración. Son sabores auténticos de México que te hacen sentir parte de la festividad y te dejan con una sonrisa en el rostro.
+
+### ​​​​Guacamole
+
+Esta salsa de chile verde fresco —serrano, jalapeño o de árbol— es como un fiel amigo que siempre está listo para la diversión: aguacates cremosos mezclados con tomate, cebolla, cilantro, chiles y limón, todo unido en una fiesta de sabores frescos y picantes que son una verdadera explosión de alegría en cada cucharada. Además, es un dip perfecto que hace que los totopos sean irresistibles. Es el alma de cualquier reunión y la excusa perfecta para compartir risas y conversaciones en buena compañía.
 
 
-\*\*Mole:\*\* El mole es como un misterio culinario que te atrapa desde el primer bocado. Esta rica y compleja salsa es el resultado de una mezcla de ingredientes que incluyen chiles, chocolate, almendras, cacahuates y más. Se sirve tradicionalmente sobre pollo o pavo, creando una sinfonía de sabores que te hace saborear cada capa de ingredientes. El mole es como una obra maestra de la cocina mexicana, una mezcla de lo dulce y lo picante que te hace apreciar la riqueza de la gastronomía mexicana. Cada cucharada es un viaje de sabor que te lleva a través de siglos de tradición culinaria.
-
-\*\*Chiles Rellenos:\*\* Los chiles rellenos son como un abrazo cálido y picante en cada bocado. Pimientos poblanos asados y pelados se rellenan con una mezcla de carne molida o queso, luego se cubren con una salsa de jitomate y se hornean hasta que estén dorados y burbujeantes. La combinación de sabores es mágica: el picante del chile se equilibra con la suavidad del relleno y la salsa de tomate agrega ese toque de frescura y acidez. Cada bocado es como una explosión de emociones, y los chiles rellenos son un clásico de la cocina mexicana que nunca pasa de moda.
-
-​​​​\*\*Guacamole:\*\* El guacamole es como un fiel amigo que siempre está listo para la diversión. Imagina aguacates cremosos mezclados con tomate, cebolla, cilantro, chiles y limón, todo unido en una fiesta de sabores frescos y picantes. Es como una explosión de alegría en cada cucharada. El guacamole es ese dip perfecto que hace que las tortilla chips sean irresistibles. Es el alma de cualquier reunión y la excusa perfecta para compartir risas y conversaciones en buena compañía.
 
 **TE RECOMENDAMOS: [El mexicanísimo guacamole: historia y recetas.](https://blog.tonoysumariachi.com/gastronomia/2022/10/17/el-mexicanisimo-guacamole-historia-y-recetas.html){: target="_blank" rel="noopener"}**
 
@@ -78,4 +86,4 @@ Son como regalos envueltos en sabrosa salsa. Estas tortillas rellenas de pollo d
 
 \*\*Tostadas:\*\* Las tostadas son como pequeños tesoros crujientes. Son tortillas de maíz que se fríen hasta que se vuelven crujientes y doradas, luego se cubren con una variedad de ingredientes deliciosos. Pueden llevar frijoles refritos, carne deshebrada, lechuga, crema, queso rallado y salsa. Cada bocado es una explosión de sabores y texturas, con lo crujiente de la tostada contrastando con la suavidad de los ingredientes. Las tostadas son un aperitivo popular durante la Noche Mexicana, perfectas para picar mientras se celebra y comparte con amigos y familiares.
 
-\*\*Elotes y Esquites:\*\* Los elotes y esquites son como las estrellas de la calle en la Noche Mexicana. Los elotes son mazorcas de maíz cocidas a la parrilla, untadas con mayonesa, queso rallado, chile en polvo y jugo de limón. Los esquites son granos de maíz desgranados y cocidos en una sopa de caldo de pollo con los mismos deliciosos condimentos. Ambos son irresistibles y se disfrutan mejor en la calle, mientras paseas y disfrutas de la celebración. Son sabores auténticos de México que te hacen sentir parte de la festividad y te dejan con una sonrisa en el rostro.
+###
