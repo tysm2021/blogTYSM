@@ -39,3 +39,13 @@ Raphael
 Camilo Sesto
 
 Miguel Bosé
+
+Julio Iglesias
+
+Mocedades
+
+Parchís
+
+Mecano
+
+Alejandro Sanz
