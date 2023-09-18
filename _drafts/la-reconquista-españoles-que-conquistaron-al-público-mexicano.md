@@ -19,7 +19,7 @@ article_header:
     src: /uploads/1024px-camilosesto.png
 sharing: true
 author: Redacción TYSM
-cover: /images/2022-04-20-manuelacuna.png
+cover: /uploads/1024px-camilosesto.png
 show_author_profile: false
 comment: false
 summary: >-
