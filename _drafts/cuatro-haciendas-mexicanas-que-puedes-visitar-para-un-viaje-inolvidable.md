@@ -37,8 +37,6 @@ Morelos, el estado de la eterna primavera, es un lugar lleno de encanto, histori
 
 &nbsp;El edificio principal de la hacienda es una obra maestra arquitectónica con patios adoquinados, arcos elegantes y detalles ornamentados. Adéntrate en sus espacios bien conservados y descubre la elegancia de la época colonial, o recorre los extensos jardines que rodean la hacienda son un verdadero oasis de belleza natural. Pasea entre árboles centenarios, fuentes y áreas verdes mientras te sumerges en la tranquilidad del entorno.
 
-
-
 La Hacienda de San Gabriel de las Palmas es escenario de eventos culturales y festivales a lo largo del año, donde podrás disfrutar de música en vivo, danzas tradicionales y exposiciones artísticas. También es común que sus espacios se renten para bodas y otros eventos sociales. Y la experiencia en la Hacienda de San Gabriel de las Palmas también incluye la oportunidad de degustar la deliciosa gastronomía morelense.&nbsp;
 
 \*\*2. Hacienda San José del Puente, Morelos\*\*<br>La Hacienda San José del Puente, en Jiutepec, Morelos, es un refugio de tranquilidad y belleza. Fundada en el siglo XVII, esta hacienda ha sido meticulosamente restaurada y conserva su esplendor colonial. Sus jardines tropicales, fuentes y piscinas crean un ambiente de ensueño. La Hacienda San José del Puente es un lugar perfecto para relajarse y conectarse con la historia.
