@@ -30,25 +30,7 @@ Todos los mexicanos sabemos que, a pesar de que nuestros países pasaron por una
 
 A continuación, una breve lista con los **artistas hispanos más reconocidos en la cultura popular mexicana**, desde la década de 1960 hasta recién entrado el siglo XXI. ¿A quién más añadirías?&nbsp;
 
-**TE RECOMENDAMOS: [Rivera, Siqueiros y Orozco: los tres grandes del muralismo mexicano.](https://blog.tonoysumariachi.com/cultura/2023/08/23/rivera-siqueiros-y-orozco-los-tres-grandes-del-muralismo-mexicano.html){: target="_blank" rel="noopener"}**
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
-
-**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
-
-
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
-
-**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
-
-
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
-
-**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
-
-
+**TE RECOMENDAMOS: [Rivera, Siqueiros y Orozco: los tres grandes del muralismo mexicano.](https://blog.tonoysumariachi.com/cultura/2023/08/23/rivera-siqueiros-y-orozco-los-tres-grandes-del-muralismo-mexicano.html)**​​
 
 ## Rocío Dúrcal
 
@@ -56,7 +38,7 @@ A continuación, una breve lista con los **artistas hispanos más reconocidos en
 
 Su presencia cálida y su estilo sencillo y entrañable la convirtieron en un ícono amado y respetado, tanto en México como en el mundo hispanohablante. A lo largo de su carrera, **Rocío Dúrcal** se presentó numerosas veces en México —en especial, en el programa *Siempre en domingo*—, y cosechó numerosos premios y reconocimientos, incluyendo el Grammy Latino y el Premio Lo Nuestro. A pesar de su partida el 25 de marzo de 2006, su legado perdura en las melodías que continúan tocando los corazones de los mexicanos, recordándonos a todos que **Rocío Dúrcal** fue y seguirá siendo una inolvidable voz en la historia y la cultura popular del siglo XX en México.
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yGBqxtO4CJk?si=RHksPLyF13ZWGnXS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+
 
 ## Raphael
 
@@ -70,27 +52,7 @@ Sus primeros éxitos en México fueron **"Yo soy aquel"**, **"Digan lo que digan
 
 Camilo Sesto no solo destacó por su voz poderosa, sino también por su carisma y estilo inconfundibles. A lo largo de su carrera, Camilo Sesto cosechó numerosos premios y reconocimientos, tuvo largas y exitosas temporadas en centros nocturnos, vendió millones de discos durante las décadas de 1970 y 1980, y abrió el camino para que coterráneos suyos como Miguel Bosé llegaran a México a probar fortuna. Su amor por México fue tal que su único hijo lo tuvo con una mexicana, cuando ella era presidenta de su club de fans. Camilo **murió el 8 de septiembre de 2019 en Madrid**.
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yGBqxtO4CJk?si=RHksPLyF13ZWGnXS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&nbsp;
-
-**TE RECOMENDAMOS: [Nuestros queridos charros cantores de México.](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/26/nuestros-queridos-charros-cantores-de-mexico.html){: target="_blank" rel="noopener"}**
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
-
-**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
-
-
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
-
-**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
-
-
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
-
-**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
-
-
+**TE RECOMENDAMOS: [Nuestros queridos charros cantores de México.](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/26/nuestros-queridos-charros-cantores-de-mexico.html)**
 
 ## Miguel Bosé
 
@@ -104,17 +66,7 @@ Mocedades, el ensamble musical español, fue fundado en 1969 en Bilbao, España.
 
 La participación de Mocedades en el Festival de la Canción de Eurovisión en 1973, donde interpretaron **"Eres tú"**, marcó un punto y aparte en su carrera y les abrió las puertas del éxito internacional. Durante su tiempo activo, el grupo realizó numerosas giras por México y otros países de habla hispana, consolidando su popularidad y ganándose un lugar especial en el corazón de los mexicanos. A pesar de los cambios en su alineación a lo largo de los años, Mocedades continuó su legado musical y siguió siendo una referencia en la música romántica en español. Su música perdura como un símbolo nostálgico y entrañable de una época dorada en la cultura popular mexicana del siglo XX.
 
-**TE RECOMENDAMOS: [Cinco artistas extranjeros que brillaron en México.](https://blog.tonoysumariachi.com/cultura/2022/08/05/cinco-artistas-extranjeros-que-brillaron-en-mexico.html)**
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
-
-**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**​​​​​​
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
-
-**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
-
-
+**TE RECOMENDAMOS: [Cinco artistas extranjeros que brillaron en México](https://blog.tonoysumariachi.com/cultura/2022/08/05/cinco-artistas-extranjeros-que-brillaron-en-mexico.html)**
 
 ## Parchís
 
