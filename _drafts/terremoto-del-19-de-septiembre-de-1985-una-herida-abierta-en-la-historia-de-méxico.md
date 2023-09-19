@@ -20,13 +20,13 @@ article_header:
   image:
     src: /uploads/sismo-1985-ciudad-de-mexico-27.jpeg
 sharing: true
-author: Francisco Massé
-cover: /images/2022-04-20-manuelacuna.png
+author: Redacción TYSM
+cover: /uploads/sismo-1985-ciudad-de-mexico-27.jpeg
 show_author_profile: false
 comment: false
 summary: >-
-  Si quieres dedicarle un poema a tu persona amada, aquí te recomendamos cinco
-  de los mejores…
+  Hace casi cuarenta años tuvo lugar una de las peores tragedias de la Ciudad de
+  México y otras ciudades, cuando un sismo de 8.1 grados sacudió la Tierra…
 ---
 Era un amanecer como cualquier otro en la Ciudad de México, el **19 de septiembre de 1985**. La gente se apresuraba a sus trabajos y las escuelas se llenaban de risas y sueños de niños. Pero, a las 7:19 de la mañana, la tierra tembló con una furia inimaginable, el suelo se sacudió como un gigante enfurecido. Edificios, calles y sueños se tambalearon en un caos repentino.
 
