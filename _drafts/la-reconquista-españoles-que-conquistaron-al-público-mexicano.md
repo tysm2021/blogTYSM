@@ -1,5 +1,5 @@
 ---
-title: 'La reconquista: españoles que conquistaron al público mexicano'
+title: 'La reconquista: cantantes españoles que conquistaron al público mexicano'
 date: 2022-04-20 00:00:00
 categories:
   - MEXICANISIMOS
@@ -26,9 +26,9 @@ summary: >-
   Desde mediados del siglo XX, una serie de artistas y cantantes españoles
   emprendieron la "reconquista" del público mexicano
 ---
-Bla
+Todos los mexicanos sabemos que, a pesar de que nuestros países pasaron por una guerra entre 1810 y 1821, la cual culminó con el fin del virreinato y la Independencia de nuestro país, **México** y **España** siempre han mantenido fuertes lazos culturales,&nbsp; históricos, políticos y artísticos. Numerosos han sido los actores, músicos y escritores nacidos en **España** que brillaron en tierras **mexicanas**, y no fueron pocos los y las **cantantes** que cosecharon en México sus mejores **éxitos** y conocieron la gloria.
 
-bla
+A continuación, una breve lista con los **artistas hispanos más reconocidos en la cultura popular mexicana**, desde la década de 1960 hasta recién entrado el siglo XXI. ¿A quién más añadirías?&nbsp;
 
 **TE RECOMENDAMOS: [Rivera, Siqueiros y Orozco: los tres grandes del muralismo mexicano.](https://blog.tonoysumariachi.com/cultura/2023/08/23/rivera-siqueiros-y-orozco-los-tres-grandes-del-muralismo-mexicano.html){: target="_blank" rel="noopener"}**
 
