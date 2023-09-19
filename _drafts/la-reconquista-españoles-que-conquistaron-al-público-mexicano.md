@@ -1,5 +1,5 @@
 ---
-title: 'La reconquista: cantantes españoles que conquistaron al público mexicano'
+title: Cantantes españoles que conquistaron al público mexicano
 date: 2022-04-20 00:00:00
 categories:
   - MEXICANISIMOS
@@ -32,13 +32,13 @@ A continuación, una breve lista con los **artistas hispanos más reconocidos en
 
 **TE RECOMENDAMOS: [Rivera, Siqueiros y Orozco: los tres grandes del muralismo mexicano.](https://blog.tonoysumariachi.com/cultura/2023/08/23/rivera-siqueiros-y-orozco-los-tres-grandes-del-muralismo-mexicano.html){: target="_blank" rel="noopener"}**
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
 
 **![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
 
 
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
 
 **![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
 
@@ -68,13 +68,13 @@ Camilo Sesto no solo destacó por su voz poderosa, sino también por su carisma 
 
 **TE RECOMENDAMOS: [Nuestros queridos charros cantores de México.](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/26/nuestros-queridos-charros-cantores-de-mexico.html){: target="_blank" rel="noopener"}**
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
 
 **![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
 
 
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
 
 **![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
 
@@ -94,13 +94,13 @@ La participación de Mocedades en el Festival de la Canción de Eurovisión en 1
 
 **TE RECOMENDAMOS: [Cinco artistas extranjeros que brillaron en México.](https://blog.tonoysumariachi.com/cultura/2022/08/05/cinco-artistas-extranjeros-que-brillaron-en-mexico.html){: target="_blank" rel="noopener"}**
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
 
 **![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
 
 
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
 
 **![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
 
