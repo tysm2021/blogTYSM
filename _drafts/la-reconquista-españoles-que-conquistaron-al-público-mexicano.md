@@ -30,7 +30,7 @@ Bla
 
 bla
 
-TE RECOMENDAMOS
+**TE RECOMENDAMOS: [Rivera, Siqueiros y Orozco: los tres grandes del muralismo mexicano.](https://blog.tonoysumariachi.com/cultura/2023/08/23/rivera-siqueiros-y-orozco-los-tres-grandes-del-muralismo-mexicano.html){: target="_blank" rel="noopener"}**
 
 ## Rocío Dúrcal
 
