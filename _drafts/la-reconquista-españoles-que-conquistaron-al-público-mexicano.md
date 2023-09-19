@@ -88,11 +88,9 @@ A mediados de los ochenta, con un notable cambio de imagen que implantó moda, l
 
 ## Mocedades
 
-Mocedades, el grupo musical español, dejó una huella imborrable en la música mexicana durante los años 70 y 80 del siglo XX. Fundado en 1969 en Bilbao, España, este conjunto de voces armoniosas conquistó los corazones de los mexicanos con su estilo único y canciones emotivas. Entre sus éxitos más recordados en México se encuentran "Eres tú" y "Tómame o déjame", himnos que aún resuenan en la memoria colectiva.
+Mocedades, el ensamble musical español, fue fundado en 1969 en Bilbao, España. Sste conjunto de voces armoniosas con letras "de protesta" —como decían los abuelos— conquistó los corazones de los mexicanos con su estilo único de interpretar y sus canciones, entre reflexivas y emotivas. Entre sus éxitos más recordados en México se encuentran **"Secretaria"** y **"Tómame o déjame"**, sentidas baladas que aún resuenan en la memoria colectiva.
 
-La participación de Mocedades en el Festival de la Canción de Eurovisión en 1973, donde interpretaron "Eres tú", marcó un hito en su carrera y les abrió las puertas del éxito internacional. Durante su tiempo activo, el grupo realizó numerosas giras por México y otros países de habla hispana, consolidando su popularidad y ganándose un lugar especial en el corazón de los mexicanos.
-
-A pesar de los cambios en su alineación a lo largo de los años, Mocedades continuó su legado musical y siguió siendo una referencia en la música romántica en español. Su música perdura como un símbolo nostálgico y entrañable de una época dorada en la cultura popular mexicana del siglo XX.
+La participación de Mocedades en el Festival de la Canción de Eurovisión en 1973, donde interpretaron **"Eres tú"**, marcó un punto y aparte en su carrera y les abrió las puertas del éxito internacional. Durante su tiempo activo, el grupo realizó numerosas giras por México y otros países de habla hispana, consolidando su popularidad y ganándose un lugar especial en el corazón de los mexicanos. A pesar de los cambios en su alineación a lo largo de los años, Mocedades continuó su legado musical y siguió siendo una referencia en la música romántica en español. Su música perdura como un símbolo nostálgico y entrañable de una época dorada en la cultura popular mexicana del siglo XX.
 
 **TE RECOMENDAMOS: [Cinco artistas extranjeros que brillaron en México.](https://blog.tonoysumariachi.com/cultura/2022/08/05/cinco-artistas-extranjeros-que-brillaron-en-mexico.html){: target="_blank" rel="noopener"}**
 
@@ -110,11 +108,9 @@ A pesar de los cambios en su alineación a lo largo de los años, Mocedades cont
 
 ## Parchís
 
-Parchís, el icónico grupo musical español formado en los años 70, se convirtió en un fenómeno entrañable en la cultura popular mexicana del siglo XX. Este grupo, integrado por Tino, Yolanda, David, Gemma y Frank, llegó a México con su estilo juvenil y canciones pegajosas que encantaron a niños y jóvenes por igual. Sus principales éxitos, como "La canción de los números" y "Cumpleaños feliz", se convirtieron en himnos de toda una generación.
+**Parchís**, el emblemático grupo musical español formado en la década de 1970, se convirtió en un fenómeno entrañable en la cultura popular mexicana del siglo XX. Estaba integrado por **Tino, Yolanda, David, Gemma y Frank**, y su llegada a **México** con su estilo juvenil y canciones pegajosas encantó a niños y jóvenes por igual, rompiendo récords de ventas de discos y boletos de sus presentaciones. De hecho, ellos fueron la inspiración para que en México se crearan grupos infantiles como Timbiriche.
 
-A lo largo de su trayectoria, Parchís se ganó el cariño del público mexicano no solo por su música, sino también por su participación en películas y programas de televisión que consolidaron su fama. Su estilo colorido y alegre, acompañado de juegos de mesa y disfraces, marcó una época de diversión y nostalgia en la vida de muchos mexicanos.
-
-Aunque Parchís se separó en 1985, su legado perdura como un recordatorio nostálgico de una era dorada en la cultura infantil mexicana. Las canciones y el espíritu alegre de Parchís siguen siendo un tesoro querido y atesorado en el corazón de aquellos que crecieron con sus canciones y su encanto único.
+Sus principales éxitos, como **"Parchís"**, **"Cumpleaños feliz"** y **"Ganador"** se escuchaban en todas las fiestas infantiles. A lo largo de su trayectoria, Parchís se ganó el cariño del público mexicano no solo por su música, sino también por su participación en **películas** y **programas de televisión** que consolidaron su fama. Su estilo colorido y alegre, acompañado de juegos de mesa y disfraces, marcó una época de diversión y nostalgia en la vida de muchos mexicanos. Aunque se separó en 1985 —y el destino de sus integrantes no fue del todo halagador—, el legado de&nbsp;**Parchís** perdura como un recordatorio nostálgico de una era dorada en la cultura infantil mexicana.
 
 ## Mecano
 
