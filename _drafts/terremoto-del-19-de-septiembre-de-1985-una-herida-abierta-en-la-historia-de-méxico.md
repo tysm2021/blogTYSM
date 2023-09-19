@@ -42,4 +42,10 @@ La tragedia unió al país en un abrazo de esperanza y reconstrucción. Uno de l
 
 Pero la tragedia no había terminado. Un día después, el **20 de septiembre, una réplica** de 7.5 en la escala Richter —con el mismo epicentro, frente a las costas de Michoacán— sacudió nuevamente la ciudad, sumiendo a todos en el miedo y la incertidumbre. Esta réplica fue como un golpe adicional a una herida aún abierta. Edificios que habían resistido el primer sismo ahora cedieron ante la fuerza de la réplica. La cifra de muertos, ya elevada tras el primer terremoto, aumentó significativamente.
 
+El agua potable escaseaba, por lo que el **gobierno del entonces Distrito Federal** hizo que pipas con agua repartieran gratuitamente el líquido vital en las colonias populares. Los primeros días, tampoco había energía eléctrica o iba y venía. Las líneas telefónicas tardaron días en restablecer la comunicación. Ante la caída de las señales de televisión —y en tiempos previos a internet—, la única forma en que la población se mantenía informada era sintonizando la radio: todas las estaciones comunicaban los pormenores de la emergencia y daban avisos de gente desaparecida o de gente que quería hacer saber a sus familiares que estaban bien.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/1985_Mexico_Earthquake_-_Pina_Suarez_Apartment_Complex_%283%29.jpg/1024px-1985_Mexico_Earthquake_-_Pina_Suarez_Apartment_Complex_%283%29.jpg)
+
+Las **clases se suspendieron durante casi un mes**, en todos los niveles. Muchas de las escuelas habían sufrido daños estructurales o no habían sido sometidas a un peritaje, de modo que por unos meses las clases se dieron en aulas improvisadas hechas con lámina. Poco a poco, la vida fue retomando su curso…
+
 Se estima que **alrededor de 10,000 personas perdieron la vida** en total debido a ambos sismos; decenas de miles resultaron heridas y otras tantas quedaron sin hogar —se les llamó "damnificados"— y debieron ser reubicados. A pesar de la devastación, surgió una profunda unión y resiliencia en el pueblo mexicano, que hoy perdura como un testimonio de la fortaleza ante la adversidad.
