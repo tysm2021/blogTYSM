@@ -30,7 +30,9 @@ Todos los mexicanos sabemos que, a pesar de que nuestros países pasaron por una
 
 A continuación, una breve lista con los **artistas hispanos más reconocidos en la cultura popular mexicana**, desde la década de 1960 hasta recién entrado el siglo XXI. ¿A quién más añadirías?&nbsp;
 
-**TE RECOMENDAMOS: [Rivera, Siqueiros y Orozco: los tres grandes del muralismo mexicano.](https://blog.tonoysumariachi.com/cultura/2023/08/23/rivera-siqueiros-y-orozco-los-tres-grandes-del-muralismo-mexicano.html)**​​
+**TE RECOMENDAMOS: [Rivera, Siqueiros y Orozco: los tres grandes del muralismo mexicano.](https://blog.tonoysumariachi.com/cultura/2023/08/23/rivera-siqueiros-y-orozco-los-tres-grandes-del-muralismo-mexicano.html)**
+
+​​
 
 ## Rocío Dúrcal
 

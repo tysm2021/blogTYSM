@@ -24,4 +24,8 @@ _inputs:
     hidden: true
           
 _snippets_imports:
-  mdx: true
+  eleventy_nunjucks: true
+
+# Import the Eleventy Liquid Snippets:
+_snippets_imports:
+  eleventy_liquid: true
