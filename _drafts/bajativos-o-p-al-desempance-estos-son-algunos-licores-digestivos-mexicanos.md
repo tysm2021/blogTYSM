@@ -49,10 +49,16 @@ Original de **Calvillo**, **Aguascalientes**. Podría decirse que éste es un cl
 
 ### Verde de Xico, Veracruz
 
-Como su nombre lo indica esta bebida espirituosa es de color verde y su manufactura es artesanal. Su distribución no es muy amplia por la misma razón pero quien visita Xico y lo prueba termina llevándose botellas. Este es un licor complejo de hierbas, su receta exacta es un secreto que ha pasado de generación en generación, pero se puede detectar toronjil, anís, hierbabuena, hierba de burro, zacate de limón y manzanilla. Sus usos son medicinales pues se puede tomar para bajar indigestiones y es expectorante, pero tiene muy buen sabor y su grado alcohólico es de 36°.&nbsp;
+Como su nombre lo indica esta bebida espirituosa es de color verde y su producción tradicionalmente es artesanal. Su distribución no es muy amplia; por esa misma razón, pero quien visita Xico y lo prueba termina llevándose botellas. Este es un licor de hierbas con sabor complejo, su receta exacta es un secreto que ha pasado de generación en generación, pero se puede detectar toronjil, anís, hierbabuena, hierba de burro, zacate de limón y manzanilla. Sus usos son medicinales, pues se puede tomar para bajar indigestiones y es expectorante; fuera de eso, tiene un sabor muy agradable y su grado alcohólico es de 36°.&nbsp;
 
 ### Colonche
 
-de Aguascalientes, Zacatecas y San Luis Potosí Es un licor de tuna cardona o pitahayas fermentadas al sol en una olla de barro. En su preparación, las tunas se cuecen en agua y se exprimen para obtener el jugo que se mezcla con alcohol y canela y se dejan macerar; algunas personas incorporan, en ocasiones, hojas de higo a la mezcla. Su color es rosa y su textura un tanto viscosa, sin embargo, es muy fresco y delicioso.
+Este es nativo de Aguascalientes, Zacatecas y San Luis Potosí. Es un licor de **tuna cardona** o **pitahayas** fermentadas al sol en una olla de barro, hasta que sus azúcares se transforman en alcohol. En su preparación, las tunas se cuecen en agua y se exprimen para obtener el jugo que se mezcla con alcohol y canela y se dejan macerar; algunas personas incorporan, en ocasiones, hojas de higo a la mezcla. Su color es rosa y su textura un tanto viscosa, sin embargo, es muy fresco y delicioso.
 
-Xtabentún
+![](/uploads/colonche.jpeg){: width="512" height="640"}
+
+### Xtabentún
+
+Se trata de un licor de anís elaborado en la región de **Yucatán**, a partir de **semillas de anís** y miel fermentada producida por las abejas a partir del néctar de las flores de xtabentún. Luego se agrega ron a la mezcla de anís y miel. Suele servirse solo, frío o con hielo y miel. También se puede servir con café, como si fuera un carajillo, o con un trago de tequila y una parte igual de Xtabentún, creando una bebida llamada "café maya".
+
+![](/uploads/1024-xtab.png){: width="1024" height="750"}
