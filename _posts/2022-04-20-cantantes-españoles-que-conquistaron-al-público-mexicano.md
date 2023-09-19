@@ -44,6 +44,12 @@ A continuación, una breve lista con los **artistas hispanos más reconocidos en
 
 
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+
+**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
+
+
+
 ## Rocío Dúrcal
 
 **Rocío Dúrcal**, cuyo nombre real era María de los Ángeles de las Heras Ortiz, fue una figura icónica en la música mexicana del siglo XX. Nació el 4 de octubre de 1944 en Madrid, España; desde muy joven, su voz suave y melodiosa la catapultó a la fama internacional. En la década de 1970, **Rocío Dúrcal** emigró a México y comenzó su carrera en el cine y la música, conquistando los corazones de los mexicanos con canciones llenas de pasión y nostalgia. La época de oro viene gracias a la colaboración entre Rocío con el legendario compositor **Juan Gabriel**: juntos crearon éxitos musicalizados con mariachi como **"Fue un placer conocerte"**, **"Amor eterno"**, **"Costumbres"** y **"Déjame vivir"**, que se convirtieron en himnos para toda una generación.
@@ -80,6 +86,12 @@ Camilo Sesto no solo destacó por su voz poderosa, sino también por su carisma 
 
 
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+
+**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
+
+
+
 ## Miguel Bosé
 
 Miguel Bosé, el icónico cantante español, dejó una marca imborrable en la música y el corazón de México a lo largo del siglo XX. Nació el 3 de abril de 1956 en Panamá, hijo del torero español Luis Miguel Dominguín y de la actriz italiana Lucía Bosé—; este talentoso artista cautivó al público mexicano con su estilo único y su voz inconfundible desde principios de la década de 1980, cuando Bosé se convirtió en una figura destacada en la escena musical mexicana con éxitos radiofónicos como **"Linda"** y **"Te amaré"**.
@@ -92,13 +104,11 @@ Mocedades, el ensamble musical español, fue fundado en 1969 en Bilbao, España.
 
 La participación de Mocedades en el Festival de la Canción de Eurovisión en 1973, donde interpretaron **"Eres tú"**, marcó un punto y aparte en su carrera y les abrió las puertas del éxito internacional. Durante su tiempo activo, el grupo realizó numerosas giras por México y otros países de habla hispana, consolidando su popularidad y ganándose un lugar especial en el corazón de los mexicanos. A pesar de los cambios en su alineación a lo largo de los años, Mocedades continuó su legado musical y siguió siendo una referencia en la música romántica en español. Su música perdura como un símbolo nostálgico y entrañable de una época dorada en la cultura popular mexicana del siglo XX.
 
-**TE RECOMENDAMOS: [Cinco artistas extranjeros que brillaron en México.](https://blog.tonoysumariachi.com/cultura/2022/08/05/cinco-artistas-extranjeros-que-brillaron-en-mexico.html){: target="_blank" rel="noopener"}**
+**TE RECOMENDAMOS: [Cinco artistas extranjeros que brillaron en México.](https://blog.tonoysumariachi.com/cultura/2022/08/05/cinco-artistas-extranjeros-que-brillaron-en-mexico.html)**
 
 <div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
 
-**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
-
-
+**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**​​​​​​
 
 <div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
 
