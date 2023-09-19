@@ -38,6 +38,12 @@ A continuación, una breve lista con los **artistas hispanos más reconocidos en
 
 
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+
+**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
+
+
+
 ## Rocío Dúrcal
 
 **Rocío Dúrcal**, cuyo nombre real era María de los Ángeles de las Heras Ortiz, fue una figura icónica en la música mexicana del siglo XX. Nació el 4 de octubre de 1944 en Madrid, España; desde muy joven, su voz suave y melodiosa la catapultó a la fama internacional. En la década de 1970, **Rocío Dúrcal** emigró a México y comenzó su carrera en el cine y la música, conquistando los corazones de los mexicanos con canciones llenas de pasión y nostalgia. La época de oro viene gracias a la colaboración entre Rocío con el legendario compositor **Juan Gabriel**: juntos crearon éxitos musicalizados con mariachi como **"Fue un placer conocerte"**, **"Amor eterno"**, **"Costumbres"** y **"Déjame vivir"**, que se convirtieron en himnos para toda una generación.
@@ -68,6 +74,12 @@ Camilo Sesto no solo destacó por su voz poderosa, sino también por su carisma 
 
 
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+
+**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
+
+
+
 ## Miguel Bosé
 
 Miguel Bosé, el icónico cantante español, dejó una marca imborrable en la música y el corazón de México a lo largo del siglo XX. Nació el 3 de abril de 1956 en Panamá, hijo del torero español Luis Miguel Dominguín y de la actriz italiana Lucía Bosé—; este talentoso artista cautivó al público mexicano con su estilo único y su voz inconfundible desde principios de la década de 1980, cuando Bosé se convirtió en una figura destacada en la escena musical mexicana con éxitos radiofónicos como **"Linda"** y **"Te amaré"**.
@@ -90,6 +102,12 @@ A pesar de los cambios en su alineación a lo largo de los años, Mocedades cont
 
 
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+
+**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
+
+
+
 ## Parchís
 
 Parchís, el icónico grupo musical español formado en los años 70, se convirtió en un fenómeno entrañable en la cultura popular mexicana del siglo XX. Este grupo, integrado por Tino, Yolanda, David, Gemma y Frank, llegó a México con su estilo juvenil y canciones pegajosas que encantaron a niños y jóvenes por igual. Sus principales éxitos, como "La canción de los números" y "Cumpleaños feliz", se convirtieron en himnos de toda una generación.
@@ -100,8 +118,8 @@ Aunque Parchís se separó en 1985, su legado perdura como un recordatorio nost�
 
 ## Mecano
 
-Mecano, el emblemático grupo español de los años 80 y 90, dejó una huella imborrable en la cultura popular mexicana del siglo XX. Formado por Ana Torroja y los hermanos Nacho y José María Cano, Mecano conquistó a México con su mezcla única de pop y letras poéticas. Durante su tiempo activo, que abarcó desde finales de los años 70 hasta su disolución en 1992, el grupo logró un éxito sin precedentes en el país.
+El emblemático grupo español de los años 80 dejó una huella profunda en la cultura popular mexicana del siglo XX. Formado por **Ana Torroja** y los hermanos **Nacho** y **José María Cano**, **Mecano** conquistó a México con su mezcla única de *pop*, música electrónica tipo *new wave* y letras poéticas en idioma español. Durante su tiempo activo, que abarcó desde finales de los años 70 hasta su disolución en 1992, el grupo logró un éxito sin precedentes en el país. Sus primeros álbumes fueron relativamente poco conocidos entre el gran público, aunque a muchos les llamó la atención el video de "Maquillaje", un tanto extraño para los estándares de la época.
 
-Canciones como "Hijo de la luna", "Mujer contra mujer" y "Me cuesta tanto olvidarte" se convirtieron en himnos de toda una generación mexicana. La voz distintiva de Ana Torroja y las letras profundas de las canciones tocaban los corazones de los fans mexicanos, quienes encontraban en las letras de Mecano una conexión emotiva única.
+Su éxito coincidió con el surgimiento del movimiento musical llamado Rock en tu idioma, encabezado por grupos y artistas españoles y argentinos que, sobra decirlo, cantaban y tocaban rock en español. Por aquellos entonces, **Mecano** formaba parte del movimiento cultural llamado "La movida madrileña" y con su álbum *Entre el cielo y el suelo* se convirtieron en unos auténticos ídolos, con éxitos como **"Cruz de navajas"**, **"Ay qué pesado"** y **"Me cuesta tanto olvidarte"**.
 
-El impacto de Mecano en México fue tan profundo que incluso después de su separación, sus canciones siguen siendo escuchadas y queridas. El grupo marcó una época dorada en la música pop en español y su legado perdura como un recordatorio nostálgico y entrañable de una era en la que la música de Mecano era la banda sonora de la vida de muchos mexicanos.
+Le siguieron éxitos como **"Mujer contra mujer"**, **"Hijo de la luna"** y **"La fuerza del destino"** y **"El 7 de septiembre"**, en los que la voz distintiva de Ana y las letras profundas de los Cano tocaban los corazones de los fans mexicanos, quienes encontraban&nbsp; una conexión emotiva única. El impacto de **Mecano** en **México** fue tan profundo que incluso después de su separación, sus canciones siguen siendo escuchadas y queridas.&nbsp;
