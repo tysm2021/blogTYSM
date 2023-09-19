@@ -70,11 +70,9 @@ Camilo Sesto no solo destacó por su voz poderosa, sino también por su carisma 
 
 ## Miguel Bosé
 
-Miguel Bosé, el icónico cantante español, dejó una marca indeleble en la música y el corazón de México a lo largo del siglo XX. Nacido el 3 de abril de 1956 en Panamá y criado en España, este talentoso artista cautivó al público mexicano con su estilo único y su voz inconfundible. Durante los años 80 y 90, Bosé se convirtió en una figura destacada en la escena musical mexicana.
+Miguel Bosé, el icónico cantante español, dejó una marca imborrable en la música y el corazón de México a lo largo del siglo XX. Nació el 3 de abril de 1956 en Panamá, hijo del torero español Luis Miguel Dominguín y de la actriz italiana Lucía Bosé—; este talentoso artista cautivó al público mexicano con su estilo único y su voz inconfundible desde principios de la década de 1980, cuando Bosé se convirtió en una figura destacada en la escena musical mexicana con éxitos radiofónicos como **"Linda"** y **"Te amaré"**.
 
-Uno de sus mayores éxitos en México fue la canción "Amante bandido", que se convirtió en un himno para toda una generación. Temas como "Morena mía" y "Nada particular" también dejaron una huella imborrable en la memoria musical del país. La combinación de su carisma, su estilo vanguardista y su profunda conexión con el público mexicano lo convirtieron en un ícono querido y admirado.
-
-A lo largo de su carrera, Miguel Bosé ha cosechado numerosos premios y reconocimientos, y su legado perdura en la cultura popular de México. Su música sigue siendo una fuente de nostalgia y alegría para quienes crecieron con sus canciones, recordándonos siempre la magia y la pasión que aportó al escenario musical mexicano del siglo XX.
+A mediados de los ochenta, con un notable cambio de imagen que implantó moda, llegaron sus mayores éxitos en México: **"Amante bandido"**, **"Horizonte de las estrellas"**, **"Nena"**, **"Aire soy"**, **"Como un lobo"** son canciones clásicas que hasta la fecha son recordadas por el público. La combinación de su carisma, su estilo vanguardista y su profunda conexión con el público mexicano a lo largo de cuatro décadas lo han convertido en uno de los cantantes extranjeros más queridos y admirados por los mexicanos.
 
 ## Mocedades
 
