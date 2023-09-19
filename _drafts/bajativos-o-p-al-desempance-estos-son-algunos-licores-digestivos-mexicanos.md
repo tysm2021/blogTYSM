@@ -43,8 +43,16 @@ Es ideal para cocinar con carnes blancas, camarones, carne de cerdo, en salsas a
 
 ### Licor de guayaba
 
-de Calvillo, Aguascalientes Podría decirse que éste es un clásico hidrocálido ya que Calvillo es el segundo productor de guayaba a nivel nacional (90 mil toneladas anuales). El licor de guayaba es dulce y ácido al mismo tiempo, tiene un color amarillo pardo y el volumen alcohólico puede llegar a los 36°. Este licor va muy bien en cocteles clásicos como la Margarita o el Cosmopolitan.&nbsp;
+Original de **Calvillo**, **Aguascalientes**. Podría decirse que éste es un clásico hidrocálido ya que Aguascalientes es el segundo productor de guayaba a nivel nacional. Este licor es dulce y ácido al mismo tiempo, con un color amarillo pardo y un volumen alcohólico que puede llegar a los 36°. Este licor va muy bien en cocteles clásicos como la Margarita o el Cosmopolitan.&nbsp;
 
-Verde de Xico, Veracruz Como su nombre lo indica esta bebida espirituosa es de color verde y su manufactura es artesanal. Su distribución no es muy amplia por la misma razón pero quien visita Xico y lo prueba termina llevándose botellas. Este es un licor complejo de hierbas, su receta exacta es un secreto que ha pasado de generación en generación, pero se puede detectar toronjil, anís, hierbabuena, hierba de burro, zacate de limón y manzanilla. Sus usos son medicinales pues se puede tomar para bajar indigestiones y es expectorante, pero tiene muy buen sabor y su grado alcohólico es de 36°.&nbsp;
+![](/uploads/guayeco.png){: width="891" height="839"}
 
-Colonche de Aguascalientes, Zacatecas y San Luis Potosí Es un licor de tuna cardona o pitahayas fermentadas al sol en una olla de barro. En su preparación, las tunas se cuecen en agua y se exprimen para obtener el jugo que se mezcla con alcohol y canela y se dejan macerar; algunas personas incorporan, en ocasiones, hojas de higo a la mezcla. Su color es rosa y su textura un tanto viscosa, sin embargo, es muy fresco y delicioso.
+### Verde de Xico, Veracruz
+
+Como su nombre lo indica esta bebida espirituosa es de color verde y su manufactura es artesanal. Su distribución no es muy amplia por la misma razón pero quien visita Xico y lo prueba termina llevándose botellas. Este es un licor complejo de hierbas, su receta exacta es un secreto que ha pasado de generación en generación, pero se puede detectar toronjil, anís, hierbabuena, hierba de burro, zacate de limón y manzanilla. Sus usos son medicinales pues se puede tomar para bajar indigestiones y es expectorante, pero tiene muy buen sabor y su grado alcohólico es de 36°.&nbsp;
+
+### Colonche
+
+de Aguascalientes, Zacatecas y San Luis Potosí Es un licor de tuna cardona o pitahayas fermentadas al sol en una olla de barro. En su preparación, las tunas se cuecen en agua y se exprimen para obtener el jugo que se mezcla con alcohol y canela y se dejan macerar; algunas personas incorporan, en ocasiones, hojas de higo a la mezcla. Su color es rosa y su textura un tanto viscosa, sin embargo, es muy fresco y delicioso.
+
+Xtabentún
