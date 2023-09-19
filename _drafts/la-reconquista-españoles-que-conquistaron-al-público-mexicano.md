@@ -32,11 +32,19 @@ A continuación, una breve lista con los **artistas hispanos más reconocidos en
 
 **TE RECOMENDAMOS: [Rivera, Siqueiros y Orozco: los tres grandes del muralismo mexicano.](https://blog.tonoysumariachi.com/cultura/2023/08/23/rivera-siqueiros-y-orozco-los-tres-grandes-del-muralismo-mexicano.html){: target="_blank" rel="noopener"}**
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+
+**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
+
+
+
 ## Rocío Dúrcal
 
 **Rocío Dúrcal**, cuyo nombre real era María de los Ángeles de las Heras Ortiz, fue una figura icónica en la música mexicana del siglo XX. Nació el 4 de octubre de 1944 en Madrid, España; desde muy joven, su voz suave y melodiosa la catapultó a la fama internacional. En la década de 1970, **Rocío Dúrcal** emigró a México y comenzó su carrera en el cine y la música, conquistando los corazones de los mexicanos con canciones llenas de pasión y nostalgia. La época de oro viene gracias a la colaboración entre Rocío con el legendario compositor **Juan Gabriel**: juntos crearon éxitos musicalizados con mariachi como **"Fue un placer conocerte"**, **"Amor eterno"**, **"Costumbres"** y **"Déjame vivir"**, que se convirtieron en himnos para toda una generación.
 
 Su presencia cálida y su estilo sencillo y entrañable la convirtieron en un ícono amado y respetado, tanto en México como en el mundo hispanohablante. A lo largo de su carrera, **Rocío Dúrcal** se presentó numerosas veces en México —en especial, en el programa *Siempre en domingo*—, y cosechó numerosos premios y reconocimientos, incluyendo el Grammy Latino y el Premio Lo Nuestro. A pesar de su partida el 25 de marzo de 2006, su legado perdura en las melodías que continúan tocando los corazones de los mexicanos, recordándonos a todos que **Rocío Dúrcal** fue y seguirá siendo una inolvidable voz en la historia y la cultura popular del siglo XX en México.
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yGBqxtO4CJk?si=RHksPLyF13ZWGnXS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
 
 ## Raphael
 
@@ -48,13 +56,19 @@ A lo largo de su carrera, Raphael ha cosechado numerosos premios y reconocimient
 
 ## Camilo Sesto
 
-Camilo Sesto, el querido cantante español, dejó una huella imborrable en el corazón de México en el siglo XX. Nació el 16 de septiembre de 1946 en Alcoy, España, y desde muy joven demostró su innato talento musical. Con su voz única y emotiva, conquistó a millones de mexicanos, convirtiéndose en uno de los íconos más queridos de la música romántica.
+**Camilo Sesto**, el querido cantante español, dejó una huella imborrable en el corazón de México a partir de la década de 1970 del siglo XX. Nacido el 16 de septiembre de 1946 en Alcoy, España, con el nombre de **Camilo Blanes Cortés**, desde muy joven demostró su innato talento musical. Con su voz única y emotiva, conquistó a millones de mexicanos, convirtiéndose en uno de los íconos más queridos de la música romántica. Uno de sus primeros éxitos en México fue **"Melina"**, una canción que resonó profundamente en el público mexicano; después, temas como **"Jamás"**, **"Algo de mí"**, **"Vivir así es morir de amor**" y **"Perdóname"** se convirtieron casi en himnos que perduran en la memoria de millones de fanáticas.
 
-Uno de sus mayores éxitos en México fue "Melina", una canción que resonó profundamente en el público mexicano. Además, temas como "Algo de Mí" y "Perdóname" se convirtieron en himnos que perduran en la memoria colectiva. Camilo Sesto no solo destacó por su voz poderosa, sino también por su carisma y estilo inconfundibles.
+Camilo Sesto no solo destacó por su voz poderosa, sino también por su carisma y estilo inconfundibles. A lo largo de su carrera, Camilo Sesto cosechó numerosos premios y reconocimientos, tuvo largas y exitosas temporadas en centros nocturnos, vendió millones de discos durante las décadas de 1970 y 1980, y abrió el camino para que coterráneos suyos como Miguel Bosé llegaran a México a probar fortuna. Su amor por México fue tal que su único hijo lo tuvo con una mexicana, cuando ella era presidenta de su club de fans. Camilo murió el 8 de septiembre de 2019 en Madrid.
 
-A lo largo de su carrera, Camilo Sesto cosechó numerosos premios y reconocimientos, y su música sigue tocando los corazones de generaciones posteriores en México. Su legado es una parte entrañable de la historia y la cultura popular del siglo XX en este país, recordándonos siempre la pasión y el romanticismo que transmitía a través de sus canciones.
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yGBqxtO4CJk?si=RHksPLyF13ZWGnXS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&nbsp;
 
 **TE RECOMENDAMOS: [Nuestros queridos charros cantores de México.](https://blog.tonoysumariachi.com/mexicanisimos/2022/04/26/nuestros-queridos-charros-cantores-de-mexico.html){: target="_blank" rel="noopener"}**
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+
+**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
+
+
 
 ## Miguel Bosé
 
@@ -73,6 +87,12 @@ La participación de Mocedades en el Festival de la Canción de Eurovisión en 1
 A pesar de los cambios en su alineación a lo largo de los años, Mocedades continuó su legado musical y siguió siendo una referencia en la música romántica en español. Su música perdura como un símbolo nostálgico y entrañable de una época dorada en la cultura popular mexicana del siglo XX.
 
 **TE RECOMENDAMOS: [Cinco artistas extranjeros que brillaron en México.](https://blog.tonoysumariachi.com/cultura/2022/08/05/cinco-artistas-extranjeros-que-brillaron-en-mexico.html){: target="_blank" rel="noopener"}**
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:code" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Template</strong></p><p class="c-card__subtext"><strong>: target="_blank" rel="noopener" </strong></p></div></div></div></div>
+
+**![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "Dar clic y arrastrar para mover"){: width="15" height="15"}**
+
+
 
 ## Parchís
 
