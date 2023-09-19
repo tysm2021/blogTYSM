@@ -2,7 +2,7 @@
 title: >-
   Terremoto del 19 de septiembre de 1985: una herida abierta en la historia de
   México
-date: 2022-04-20 00:00:00
+date: 2023-09-19 09:00:00
 categories:
   - HISTORIA
 tags:
