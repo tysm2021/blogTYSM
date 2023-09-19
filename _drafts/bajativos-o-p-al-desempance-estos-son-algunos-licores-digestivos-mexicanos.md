@@ -27,3 +27,8 @@ summary: >-
   Se usan para favorecer la digestión después de una comida abundante, y por su
   sabor resultan simplemente exquisitos…
 ---
+La **comida mexicana** es vasta, deliciosa, diversa y abundante… y, hemos de reconocerlo, también muy pesada y difícil de digerir. Por eso, a cada tanto se agradece la presencia de un **licor digestivo** o "**bajativo**", como se le dice coloquialmente, que no es sino una **bebida** producida con **alcohol** —casi siempre aguardiente de caña o de agave—, en donde se maceran frutas, cortezas, cáscaras, flores, semillas, especias o raíces.&nbsp; Muchas de las recetas de estas preparaciones se han mantenido en las familias que los elaboran y se han consumido localmente desde hace mucho tiempo.
+
+A continuación, te dejamos cinco **licores digestivos mexicanos** que serán perfectos para tomarse solos como **aperitivo**, antes de la comida y para abrir el apetito, o "p'al **desempance**", ayudando con los azúcares del alcohol a los procesos químicos de la digestión.
+
+TE RECOMENDAMOS:
