@@ -31,7 +31,7 @@ La **comida mexicana** es vasta, deliciosa, diversa y abundante… y, hemos de r
 
 A continuación, te dejamos cinco **licores digestivos mexicanos** que serán perfectos para tomarse solos como **aperitivo**, antes de la comida y para abrir el apetito, o "p'al **desempance**", ayudando con los azúcares del alcohol a los procesos químicos de la digestión.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: [Pulque: algunos datos que no conoces de la "bebida de los dioses".](https://blog.tonoysumariachi.com/gastronomia/2022/07/18/pulque-algunos-datos-que-no-conoces-de-la-bebida-de-los-dioses.html){: target="_blank" rel="noopener"}**
 
 ### Moscos
 
