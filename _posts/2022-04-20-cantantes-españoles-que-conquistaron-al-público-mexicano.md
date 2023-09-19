@@ -40,9 +40,7 @@ A continuación, una breve lista con los **artistas hispanos más reconocidos en
 
 Su presencia cálida y su estilo sencillo y entrañable la convirtieron en un ícono amado y respetado, tanto en México como en el mundo hispanohablante. A lo largo de su carrera, **Rocío Dúrcal** se presentó numerosas veces en México —en especial, en el programa *Siempre en domingo*—, y cosechó numerosos premios y reconocimientos, incluyendo el Grammy Latino y el Premio Lo Nuestro. A pesar de su partida el 25 de marzo de 2006, su legado perdura en las melodías que continúan tocando los corazones de los mexicanos, recordándonos a todos que **Rocío Dúrcal** fue y seguirá siendo una inolvidable voz en la historia y la cultura popular del siglo XX en México.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8DE4H7bd0vs?si=s0i29Q9j8iZL7WaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8DE4H7bd0vs?si=s0i29Q9j8iZL7WaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ## Raphael
 
