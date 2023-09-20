@@ -70,6 +70,8 @@ Mocedades, el ensamble musical español, fue fundado en 1969 en Bilbao, España.
 
 La participación de Mocedades en el Festival de la Canción de Eurovisión en 1973, donde interpretaron **"Eres tú"**, marcó un punto y aparte en su carrera y les abrió las puertas del éxito internacional. Durante su tiempo activo, el grupo realizó numerosas giras por México y otros países de habla hispana, consolidando su popularidad y ganándose un lugar especial en el corazón de los mexicanos. A pesar de los cambios en su alineación a lo largo de los años, Mocedades continuó su legado musical y siguió siendo una referencia en la música romántica en español. Su música perdura como un símbolo nostálgico y entrañable de una época dorada en la cultura popular mexicana del siglo XX.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H1TcKxfoYpo?si=IOdZl12ZbGuszTDt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **TE RECOMENDAMOS: [Cinco artistas extranjeros que brillaron en México](https://blog.tonoysumariachi.com/cultura/2022/08/05/cinco-artistas-extranjeros-que-brillaron-en-mexico.html)**
 
 ## Parchís
