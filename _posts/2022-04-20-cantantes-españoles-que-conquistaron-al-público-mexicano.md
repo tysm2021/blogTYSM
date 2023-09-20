@@ -32,8 +32,6 @@ A continuación, una breve lista con los **artistas hispanos más reconocidos en
 
 **TE RECOMENDAMOS: [Rivera, Siqueiros y Orozco: los tres grandes del muralismo mexicano.](https://blog.tonoysumariachi.com/cultura/2023/08/23/rivera-siqueiros-y-orozco-los-tres-grandes-del-muralismo-mexicano.html)**
 
-​​
-
 ## Rocío Dúrcal
 
 **Rocío Dúrcal**, cuyo nombre real era María de los Ángeles de las Heras Ortiz, fue una figura icónica en la música mexicana del siglo XX. Nació el 4 de octubre de 1944 en Madrid, España; desde muy joven, su voz suave y melodiosa la catapultó a la fama internacional. En la década de 1970, **Rocío Dúrcal** emigró a México y comenzó su carrera en el cine y la música, conquistando los corazones de los mexicanos con canciones llenas de pasión y nostalgia. La época de oro viene gracias a la colaboración entre Rocío con el legendario compositor **Juan Gabriel**: juntos crearon éxitos musicalizados con mariachi como **"Fue un placer conocerte"**, **"Amor eterno"**, **"Costumbres"** y **"Déjame vivir"**, que se convirtieron en himnos para toda una generación.
@@ -64,8 +62,6 @@ Miguel Bosé, el icónico cantante español, dejó una marca imborrable en la m�
 
 A mediados de los ochenta, con un notable cambio de imagen que implantó moda, llegaron sus mayores éxitos en México: **"Amante bandido"**, **"Horizonte de las estrellas"**, **"Nena"**, **"Aire soy"**, **"Como un lobo"** son canciones clásicas que hasta la fecha son recordadas por el público. La combinación de su carisma, su estilo vanguardista y su profunda conexión con el público mexicano a lo largo de cuatro décadas lo han convertido en uno de los cantantes extranjeros más queridos y admirados por los mexicanos.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FECK82FNccU?si=Gs8aChkLhygyJDuK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Mocedades
 
 Mocedades, el ensamble musical español, fue fundado en 1969 en Bilbao, España. Sste conjunto de voces armoniosas con letras "de protesta" —como decían los abuelos— conquistó los corazones de los mexicanos con su estilo único de interpretar y sus canciones, entre reflexivas y emotivas. Entre sus éxitos más recordados en México se encuentran **"Secretaria"** y **"Tómame o déjame"**, sentidas baladas que aún resuenan en la memoria colectiva.
@@ -87,3 +83,5 @@ El emblemático grupo español de los años 80 dejó una huella profunda en la c
 Su éxito coincidió con el surgimiento del movimiento musical llamado Rock en tu idioma, encabezado por grupos y artistas españoles y argentinos que, sobra decirlo, cantaban y tocaban rock en español. Por aquellos entonces, **Mecano** formaba parte del movimiento cultural llamado "La movida madrileña" y con su álbum *Entre el cielo y el suelo* se convirtieron en unos auténticos ídolos, con éxitos como **"Cruz de navajas"**, **"Ay qué pesado"** y **"Me cuesta tanto olvidarte"**.
 
 Le siguieron éxitos como **"Mujer contra mujer"**, **"Hijo de la luna"** y **"La fuerza del destino"** y **"El 7 de septiembre"**, en los que la voz distintiva de Ana y las letras profundas de los Cano tocaban los corazones de los fans mexicanos, quienes encontraban una conexión emotiva única. El impacto de **Mecano** en **México** fue tan profundo que incluso después de su separación, sus canciones siguen siendo escuchadas y queridas.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ESeABt4rJ5o?si=5HU9YoMwdHiTE68O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
