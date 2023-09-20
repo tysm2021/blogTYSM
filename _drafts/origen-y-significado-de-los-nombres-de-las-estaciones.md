@@ -63,4 +63,6 @@ Finalmente, el invierno, con sus temperaturas más frías y días más cortos, d
 
 Es un tiempo de reflexión y contemplación, cuando el ritmo de la vida disminuye y las noches se alargan. El invierno nos invita a quedarnos cerca del calor del hogar, a compartir historias junto a la chimenea y a apreciar la belleza tranquila de la estación. Es una temporada para recargar nuestras energías, prepararnos para el nuevo año y valorar la importancia del descanso y la introspección.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Snowy_landscape_at_Lake_Arareco_in_the_Tarahumara_Mountains_%28Chihuahua%2C_Mexico%29.jpg/1024px-Snowy_landscape_at_Lake_Arareco_in_the_Tarahumara_Mountains_%28Chihuahua%2C_Mexico%29.jpg)
+
 En resumen, las estaciones del año llevan nombres que reflejan sus características más distintivas y su influencia en la naturaleza y en nuestras vidas. La primavera nos habla del renacimiento, el verano nos trae el calor del sol, el otoño nos muestra la belleza en la transición, y el invierno nos invita a la reflexión y la hibernación. La próxima vez que disfrutes de una de estas estaciones, recuerda el significado etimológico de su nombre y la riqueza que aportan a nuestra experiencia anual. ¡Disfruta de cada una de ellas al máximo!
