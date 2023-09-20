@@ -46,6 +46,8 @@ Raphael, el inolvidable cantante español, se convirtió en una leyenda de la m�
 
 Sus primeros éxitos en México fueron **"Yo soy aquel"**, **"Digan lo que digan"** y **"Mi gran noche"**, que incluso décadas después se convirtió en un himno generacional. Raphael no solo conquistó con su música, sino también con su estilo único de interpretar las canciones: vestido impecablemente de negro, con mucha teatralidad y un lenguaje corporal expresivo. Después, vinieron éxitos como "¿Qué tal te va sin mí", "Como yo te amo" y "Qué sabe nadie", por los que Raphael cosechó numerosos premios y reconocimientos, como el Disco de Uranio que le otorgó su disquera por haber vendido más de 50 millones de discos, ¿qué tal?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H1TcKxfoYpo?si=IOdZl12ZbGuszTDt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Camilo Sesto
 
 **Camilo Sesto**, el querido cantante español, dejó una huella imborrable en el corazón de México a partir de la década de 1970 del siglo XX. Nacido el 16 de septiembre de 1946 en Alcoy, España, con el nombre de **Camilo Blanes Cortés**, desde muy joven demostró su innato talento musical. Con su voz única y emotiva, conquistó a millones de mexicanos, convirtiéndose en uno de los íconos más queridos de la música romántica. Uno de sus primeros éxitos en México fue **"Melina"**, una canción que resonó profundamente en el público mexicano; después, temas como **"Jamás"**, **"Algo de mí"**, **"Vivir así es morir de amor**" y **"Perdóname"** se convirtieron casi en himnos que perduran en la memoria de millones de fanáticas.
@@ -79,6 +81,8 @@ La participación de Mocedades en el Festival de la Canción de Eurovisión en 1
 **Parchís**, el emblemático grupo musical español formado en la década de 1970, se convirtió en un fenómeno entrañable en la cultura popular mexicana del siglo XX. Estaba integrado por **Tino, Yolanda, David, Gemma y Frank**, y su llegada a **México** con su estilo juvenil y canciones pegajosas encantó a niños y jóvenes por igual, rompiendo récords de ventas de discos y boletos de sus presentaciones. De hecho, ellos fueron la inspiración para que en México se crearan grupos infantiles como Timbiriche.
 
 Sus principales éxitos, como **"Parchís"**, **"Cumpleaños feliz"** y **"Ganador"** se escuchaban en todas las fiestas infantiles. A lo largo de su trayectoria, Parchís se ganó el cariño del público mexicano no solo por su música, sino también por su participación en **películas** y **programas de televisión** que consolidaron su fama. Su estilo colorido y alegre, acompañado de juegos de mesa y disfraces, marcó una época de diversión y nostalgia en la vida de muchos mexicanos. Aunque se separó en 1985 —y el destino de sus integrantes no fue del todo halagador—, el legado de **Parchís** perdura como un recordatorio nostálgico de una era dorada en la cultura infantil mexicana.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/54m1HUE5RO0?si=lKk7F26g72XOC1HR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mecano
 
