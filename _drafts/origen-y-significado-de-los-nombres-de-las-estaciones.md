@@ -29,6 +29,8 @@ Para los habitantes de México y de muchas partes del mundo, el ciclo anual de l
 
 En este artículo, vamos a explorar el **origen** **etimológico** —es decir, la historia de cómo un vocablo en lenguas antiguas como el griego o el latín, derivó y se convirtió en una palabra del castellano o español— de las cuatro estaciones: **primavera**, **verano**, **otoño** e **invierno**, de manera sencilla y amigable.
 
+**TE RECOMENDAMOS:&nbsp;[Catedral, basílica, iglesia, parroquia y capilla, ¿cuáles son sus diferencias?](https://blog.tonoysumariachi.com/mexicanisimos/2023/08/28/catedral-bas%C3%ADlica-iglesia-parroquia-y-capilla-cu%C3%A1les-son-sus-diferencias.html){: target="_blank" rel="noopener"}**
+
 ### Primavera: el renacer de la naturaleza
 
 Comencemos por la primavera, esa estación que nos regala el renacimiento de la naturaleza. El nombre "primavera" proviene del latín "prima" (primera) y "vera" (verdadera). La primavera es, en esencia, el primer verdadero despertar de la naturaleza después del letargo invernal. Tras meses de frío y oscuridad, las plantas brotan, los árboles se llenan de hojas verdes y flores de colores estallan en un festín visual.
