@@ -35,19 +35,19 @@ En este artículo, vamos a explorar el **origen** **etimológico** —es decir, 
 
 Comencemos por la **primavera**, esa estación que nos regala el renacimiento de la naturaleza. La palabra *primavera* proviene del latín *prima*, 'primera' y *vere*, 'verde, verdor', de ahí que podría **significar** "**primer verdor**" o, incluso, "**primer verano**". Esto haría referencia a la entrada del verano o la estación previa al verano: la **primavera** es, en el hemisferio norte donde se halla México, el primer verdadero despertar de la naturaleza después del letargo invernal.
 
-Tras meses de frío y oscuridad, las plantas brotan, los árboles se llenan de hojas verdes y flores de colores estallan en un festín visual. Este término refleja la idea de que la **primavera** es la "primera" temporada verdadera del año, cuando la vida vuelve a su plenitud. Es un momento en el que la tierra parece cobrar vida nuevamente y la naturaleza nos recuerda su asombrosa capacidad para renovarse. La **primavera** es un regalo para nuestros sentidos, un recordatorio de la belleza efímera que nos rodea y la resiliencia de la vida.
+Tras meses de frío y oscuridad, las plantas brotan, los árboles se llenan de hojas verdes y flores de colores estallan en un festín visual. Este término refleja la idea de que la **primavera** es la "primera" temporada verdadera del año, cuando la vida vuelve a su plenitud. Es un momento en el que la tierra parece cobrar vida nuevamente y la naturaleza nos recuerda su asombrosa capacidad para renovarse. La **primavera** es un regalo para nuestros sentidos, un recordatorio de la belleza efímera que nos rodea y la resiliencia de la vida: un ejemplo de ello son las hermosas mariposas Monarca, que vuelan desde Canadá para llegar a nuestro país.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Monarch_Butterfly_landing_on_a_Flower.jpg/1024px-Monarch_Butterfly_landing_on_a_Flower.jpg)
 
 ### Verano: el sol, la lluvia y el calor
 
-El verano, con su cálido abrazo y días soleados, toma su nombre del latín "veranum tempus," que significa "tiempo cálido." El significado es claro: es la estación en la que el sol brilla con más intensidad, y las temperaturas alcanzan su punto máximo. Durante el verano, los días son más largos, lo que nos brinda más tiempo para disfrutar de la luz del sol y participar en actividades al aire libre. Viene del latín 'veranum tempus', que quiere decir "tiempo de primavera". También se dice que significa 'tiempos de verdor'. Esto sería la sucesión al 'primer verdor' que trajo la primavera.
+El **verano**, con su cálido abrazo y días soleados, toma su nombre del latín *veranum tempus*, que significa "tiempo cálido" o "tiempo de verdor", siendo la sucesión del primer verdor que trajo la **primavera**. El significado es claro: es la estación en la que el sol brilla con más intensidad y las temperaturas alcanzan su punto máximo. Durante el **verano**, los días son más largos, lo que nos brinda más tiempo para disfrutar de la luz del sol y participar en actividades al aire libre.
 
-Esta estación es un momento perfecto para relajarnos, recargar nuestras energías y conectar con la naturaleza. Las playas se llenan de bañistas, los parques se convierten en lugares de encuentro, y la vida se desarrolla al aire libre. El verano nos invita a disfrutar del calor del sol, a relajarnos y a aprovechar al máximo la vida al aire libre.
+El **verano** es un momento perfecto para relajarnos, recargar nuestras energías y conectar con la naturaleza. Además, como coincide con las vacaciones escolares, las playas se llenan de bañistas, los parques se convierten en lugares de encuentro y la vida se desarrolla al aire libre… siempre que las lluvias de la época lo permitan. El **verano** nos invita a disfrutar del calor del sol, del mar y de las playas, como la emblemática Playa Caleta, en el inigualable Acapulco.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Acapulco_beach_-_panoramio_%281%29.jpg/1024px-Acapulco_beach_-_panoramio_%281%29.jpg)
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: [Chichén Itzá y el descenso de la serpiente emplumada.](https://blog.tonoysumariachi.com/turismo/2023/03/14/chichen-itza-y-el-descenso-de-la-serpiente-emplumada.html)**
 
 ### Otoño: la caída de las hojas
 
