@@ -1,6 +1,6 @@
 ---
 title: 'El Rey Pakal: ¿un astronauta en Palenque?'
-date: 2023-09-19 16:00:00
+date: 2023-09-21 11:00:00
 categories:
   - HISTORIA
 tags:
