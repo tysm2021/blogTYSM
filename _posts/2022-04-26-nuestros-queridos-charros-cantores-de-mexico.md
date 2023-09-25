@@ -95,3 +95,5 @@ Sin duda, uno de los más grandes cantautores del género ranchero. Se especula 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/27/Fernandez-3-24-13_03.JPG)
 
 Considerado del último de los charros cantores de México. Originario de Huentitán, Jalisco, tuvo una importante carrera discográfica con éxitos como "La ley del monte", "De qué manera te olvido" y "Por tu maldito amor".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gfm2zSgQ8cQ?si=JK3o3bK_lqQK6aTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
