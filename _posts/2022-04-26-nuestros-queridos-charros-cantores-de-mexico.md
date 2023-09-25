@@ -68,7 +68,9 @@ Apodado "El Gallo Giro" por la cinta del mismo nombre, fue otro de los grandes a
 
 ### ![](https://upload.wikimedia.org/wikipedia/commons/1/17/Antonio_Aguilar_in_The_Undefeated.jpg)
 
-"El charro de México", además de impulsar la charrería como deporte nacional, tuvo una gran carrera en el cine e interpretando canciones como "Un puño de tierra", "Qué falta me hace mi padre" y "Triste recuerdo".
+"El charro de México", además de impulsar la charrería como deporte nacional, tuvo una gran carrera en el cine e interpretando canciones como "Un puño de tierra", "Qué falta me hace mi padre" y "Tristes recuerdos".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ZC0F__a9I8?si=Dox0X1ETnLI-58eG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Javier Solís (1931-1966)
 
