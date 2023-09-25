@@ -1,12 +1,12 @@
 ---
 title: Nuestros queridos charros cantores de México
-date: 2022-04-26 00:00:00 UTC
+date: 2022-04-26 00:00:00
 categories:
-- MEXICANISIMOS
+  - MEXICANISIMOS
 tags:
-- musica
-- cantantes
-- folclor
+  - musica
+  - cantantes
+  - folclor
 subcategorie: NUESTROCINE
 layout: article
 excerpt_separator: <!--more-->
@@ -19,18 +19,13 @@ article_header:
     src: /images/2022-04-26-charros1.jpg
 sharing: true
 author: Francisco Massé
-cover: "/images/2022-04-26-charros1.jpg"
+cover: /images/2022-04-26-charros1.jpg
 show_author_profile: false
 comment: false
-summary: 'Nada más mexicano que la figura del charro que canta: conoce aquí a los
-  más grandes.'
+summary: >-
+  Nada más mexicano que la figura del charro que canta: conoce aquí a los más
+  grandes.
 ---
-
-
-
-
-
-
 Músicos y cantantes van y vienen. Pero cuando se habla de música netamente mexicana, a casi todos nos vienen a la mente las canciones rancheras y, ¡cómo no!, los charros cantores de México, desde el pionero Tito Guízar hasta el recientemente fallecido Vicente Fernández.
 
 En este breve recuento, recordamos a las mejores voces que han incursionado en la **música vernácul**a de **México** y que, ya sea en discos o en películas, han puesto muy en alto el nombre de nuestro país y son infaltables en un 15 de septiembre y, también, cuando uno trae unos tequilitas entre pecho y espalda…
@@ -42,6 +37,8 @@ En este breve recuento, recordamos a las mejores voces que han incursionado en l
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5e/Tito_Guizar_1935.JPG)
 
 El pionero. Fue uno de los primeros en ponerse el traje de charro y entonar canciones en la pantalla grande, en la legendaria cinta _Allá en el rancho grande_ (1936), de Fernando de Fuentes, al lado de Esther Fernández.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pNxqOxgIAoE?si=2TSB9t3YyfdK8ert" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Jorge Negrete (1911-1953)
 
