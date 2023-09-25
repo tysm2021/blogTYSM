@@ -46,6 +46,8 @@ El pionero. Fue uno de los primeros en ponerse el traje de charro y entonar canc
 
 La mejor voz y el "Charro Cantor" por excelencia, siendo una de las figuras central de la Época de Oro del Cine Mexicano. Destacó en el cine con su voz y su presencia, haciendo famosas composiciones como "Ay Jalisco, no te rajes", "Cocula" y "México lindo y querido".
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gq8WILYkhAY?si=lJtB8ogThD_rBUKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Pedro Infante (1917-1957)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/64/Pedro_Infante_in_Habana%2C_Cuba%2C_c.1950s.jpg)
