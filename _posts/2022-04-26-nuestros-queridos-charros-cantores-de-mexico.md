@@ -62,6 +62,8 @@ Sin duda, el ídolo de México. Gracias a su carisma, a su galanura y a su templ
 
 Apodado "El Gallo Giro" por la cinta del mismo nombre, fue otro de los grandes actores e intérpretes del llamado Cine de Oro. Entre sus éxitos se cuentan "Ni contigo ni sin ti", "Morenita mía" y "La cárcel de Cananea".
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tUQW1crNjsA?si=WYyVm_czdOul6mI2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Antonio Aguilar (1919-2007)
 
 ### ![](https://upload.wikimedia.org/wikipedia/commons/1/17/Antonio_Aguilar_in_The_Undefeated.jpg)
