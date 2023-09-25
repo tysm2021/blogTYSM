@@ -78,6 +78,8 @@ Apodado "El Gallo Giro" por la cinta del mismo nombre, fue otro de los grandes a
 
 Originario del barrio capitalino de Tacubaya, "El rey del bolero ranchero" destacó por su suave timbre de voz y por canciones más melodiosas, tales como "Payaso", "Esclavo y amo" y su más grande éxito, "Sombras".
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/My8E73XY7QI?si=RuDOZV6G6nvXTtVn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **TE RECOMENDAMOS:** [**Día del mariachi: origen e historia de la celebración**](https://blog.tonoysumariachi.com/mexicanisimos/2022/05/27/dia-del-mariachi-origen-e-historia-de-la-celebracion.html)**.**
 
 ### José Alfredo Jiménez (1926-1973)
@@ -85,6 +87,8 @@ Originario del barrio capitalino de Tacubaya, "El rey del bolero ranchero" desta
 ![](/images/2022-12-23-josealfredo.jpeg)
 
 Sin duda, uno de los más grandes cantautores del género ranchero. Se especula que compuso cerca de mil canciones, entre las que destacan "El rey", "Camino de Guanajuato", "Te solté la rienda" y "Si nos dejan".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZtbAam5aMY?si=DzVWMFgy7RVSZulL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Vicente Fernández (1940-2021)
 
