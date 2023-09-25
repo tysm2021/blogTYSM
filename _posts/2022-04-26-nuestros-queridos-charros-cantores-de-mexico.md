@@ -54,6 +54,8 @@ La mejor voz y el "Charro Cantor" por excelencia, siendo una de las figuras cent
 
 Sin duda, el ídolo de México. Gracias a su carisma, a su galanura y a su templada voz, a la fecha sigue recordándose por sus películas y por éxitos como "Me cansé de rogarle", "Cien años" y "Amorcito corazón".
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TcIvUtHt-ns?si=KtAsNmE_n188q1JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Luis Aguilar (1918-1997)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e6/Luis_Aguilar_publicity_postcard_photo_from_the_caribean%2C_1954_%28cropped%29.jpg)
