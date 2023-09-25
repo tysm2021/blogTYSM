@@ -28,7 +28,7 @@ summary: >-
 ---
 Músicos y cantantes van y vienen. Pero cuando se habla de música netamente mexicana, a casi todos nos vienen a la mente las canciones rancheras y, ¡cómo no!, los charros cantores de México, desde el pionero Tito Guízar hasta el recientemente fallecido Vicente Fernández.
 
-En este breve recuento, recordamos a las mejores voces que han incursionado en la **música vernácul**a de **México** y que, ya sea en discos o en películas, han puesto muy en alto el nombre de nuestro país y son infaltables en un 15 de septiembre y, también, cuando uno trae unos tequilitas entre pecho y espalda…
+En este breve recuento, recordamos a las mejores voces que han incursionado en la **música vernácula** de **México** y que, ya sea en discos o en películas, han puesto muy en alto el nombre de nuestro país y son infaltables en un 15 de septiembre y, también, cuando uno trae unos tequilitas entre pecho y espalda…
 
 **TE RECOMENDAMOS:** [**Traje de charro: historia y partes de la vestimenta más mexicana.**](https://blog.tonoysumariachi.com/mexicanisimos/2022/07/06/traje-de-charro-historia-y-partes-de-la-vestimenta-mas-mexicana.html)
 
@@ -36,9 +36,9 @@ En este breve recuento, recordamos a las mejores voces que han incursionado en l
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5e/Tito_Guizar_1935.JPG)
 
-El pionero. Fue uno de los primeros en ponerse el traje de charro y entonar canciones en la pantalla grande, en la legendaria cinta _Allá en el rancho grande_ (1936), de Fernando de Fuentes, al lado de Esther Fernández.
+El pionero. Fue uno de los primeros en ponerse el traje de charro y entonar canciones en la pantalla grande, en la legendaria cinta *Allá en el rancho grande* (1936), de Fernando de Fuentes, al lado de Esther Fernández.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pNxqOxgIAoE?si=2TSB9t3YyfdK8ert" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pNxqOxgIAoE?si=2TSB9t3YyfdK8ert" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ### Jorge Negrete (1911-1953)
 
@@ -46,15 +46,13 @@ El pionero. Fue uno de los primeros en ponerse el traje de charro y entonar canc
 
 La mejor voz y el "Charro Cantor" por excelencia, siendo una de las figuras central de la Época de Oro del Cine Mexicano. Destacó en el cine con su voz y su presencia, haciendo famosas composiciones como "Ay Jalisco, no te rajes", "Cocula" y "México lindo y querido".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gq8WILYkhAY?si=lJtB8ogThD_rBUKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gq8WILYkhAY?si=lJtB8ogThD_rBUKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ### Pedro Infante (1917-1957)
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/64/Pedro_Infante_in_Habana%2C_Cuba%2C_c.1950s.jpg)
-
 Sin duda, el ídolo de México. Gracias a su carisma, a su galanura y a su templada voz, a la fecha sigue recordándose por sus películas y por éxitos como "Me cansé de rogarle", "Cien años" y "Amorcito corazón".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TcIvUtHt-ns?si=KtAsNmE_n188q1JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TcIvUtHt-ns?si=KtAsNmE_n188q1JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ### Luis Aguilar (1918-1997)
 
@@ -62,7 +60,7 @@ Sin duda, el ídolo de México. Gracias a su carisma, a su galanura y a su templ
 
 Apodado "El Gallo Giro" por la cinta del mismo nombre, fue otro de los grandes actores e intérpretes del llamado Cine de Oro. Entre sus éxitos se cuentan "Ni contigo ni sin ti", "Morenita mía" y "La cárcel de Cananea".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tUQW1crNjsA?si=WYyVm_czdOul6mI2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tUQW1crNjsA?si=WYyVm_czdOul6mI2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ### Antonio Aguilar (1919-2007)
 
@@ -70,7 +68,7 @@ Apodado "El Gallo Giro" por la cinta del mismo nombre, fue otro de los grandes a
 
 "El charro de México", además de impulsar la charrería como deporte nacional, tuvo una gran carrera en el cine e interpretando canciones como "Un puño de tierra", "Qué falta me hace mi padre" y "Tristes recuerdos".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8ZC0F__a9I8?si=Dox0X1ETnLI-58eG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ZC0F__a9I8?si=Dox0X1ETnLI-58eG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ### Javier Solís (1931-1966)
 
@@ -78,7 +76,7 @@ Apodado "El Gallo Giro" por la cinta del mismo nombre, fue otro de los grandes a
 
 Originario del barrio capitalino de Tacubaya, "El rey del bolero ranchero" destacó por su suave timbre de voz y por canciones más melodiosas, tales como "Payaso", "Esclavo y amo" y su más grande éxito, "Sombras".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/My8E73XY7QI?si=RuDOZV6G6nvXTtVn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/My8E73XY7QI?si=RuDOZV6G6nvXTtVn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 **TE RECOMENDAMOS:** [**Día del mariachi: origen e historia de la celebración**](https://blog.tonoysumariachi.com/mexicanisimos/2022/05/27/dia-del-mariachi-origen-e-historia-de-la-celebracion.html)**.**
 
@@ -88,7 +86,7 @@ Originario del barrio capitalino de Tacubaya, "El rey del bolero ranchero" desta
 
 Sin duda, uno de los más grandes cantautores del género ranchero. Se especula que compuso cerca de mil canciones, entre las que destacan "El rey", "Camino de Guanajuato", "Te solté la rienda" y "Si nos dejan".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VZtbAam5aMY?si=DzVWMFgy7RVSZulL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZtbAam5aMY?si=DzVWMFgy7RVSZulL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ### Vicente Fernández (1940-2021)
 
@@ -96,4 +94,4 @@ Sin duda, uno de los más grandes cantautores del género ranchero. Se especula 
 
 Considerado del último de los charros cantores de México. Originario de Huentitán, Jalisco, tuvo una importante carrera discográfica con éxitos como "La ley del monte", "De qué manera te olvido" y "Por tu maldito amor".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gfm2zSgQ8cQ?si=JK3o3bK_lqQK6aTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gfm2zSgQ8cQ?si=JK3o3bK_lqQK6aTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
