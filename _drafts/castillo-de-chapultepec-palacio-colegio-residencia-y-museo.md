@@ -32,15 +32,19 @@ Dicha construcción preside el bosque de Chapultepec, uno de los pulmones natura
 
 TE RECOMENDAMOS:
 
-El **Castillo de Chapultepec** es una espléndida construcción de finales del siglo XVIII, diseñada como casa de descanso por órdenes del virrey de la Nueva España. A lo largo del tiempo, sin embargo, el edificio se ha modificado varias veces en función de sus distintos usos: fue sede del **Colegio Militar**, escenario de batallas durante la **Intervención Estadounidense** —entre ellas, la Gesta Heróica de los **Niños Héroes**—, residencia imperial de **Maximiliano** y **Carlota,**&nbsp;residencia de algunos presidentes de México, como Porfirio Díaz.
-
-La historia del Castillo de Chapultepec puede dividirse en cinco etapas:
+El **Castillo de Chapultepec** es una espléndida construcción de finales del siglo XVIII, diseñada como casa de descanso por órdenes del virrey de la Nueva España. A lo largo del tiempo, sin embargo, el edificio se ha modificado varias veces en función de sus distintos usos: fue sede del **Colegio Militar**, escenario de batallas durante la **Intervención Estadounidense** —entre ellas, la Gesta Heróica de los **Niños Héroes**—, residencia imperial de **Maximiliano** y **Carlota,**&nbsp;residencia de algunos presidentes de México, como Porfirio Díaz, y finalmente se declaró museo. Así, a **historia** del **Castillo de Chapultepec** puede dividirse en cinco etapas:
 
 ### Virreinato
 
-En la época del segundo virrey de la Nueva España, Don Luis de Velasco, entre 1550 y 1564, se construyó una casa de descanso en el cerro de Chapultepec, donde los virreyes que llegaban desde España se quedaban un tiempo antes de entrar triunfalmente a la Ciudad de México. Pero, con el paso de los años, este lugar quedó abandonado y sufrió daños por una explosión cercana.
+En la época del segundo virrey de la Nueva España, Don Luis de Velasco, entre 1550 y 1564, se construyó una casa de descanso en el cerro de **Chapultepec**, donde los virreyes que llegaban desde España se quedaban un tiempo antes de entrar triunfalmente a la Ciudad de México. Pero, con el paso de los años, este lugar quedó abandonado y sufrió daños por una explosión cercana.
 
-En 1785, por órdenes del virrey Bernardo de Gálvez (1746-1786), se comenzó a construir un nuevo palacio en la misma cima; la obra comenzó, pero se detuvo debido a problemas financieros y a la muerte del virrey, así que la Corona española decidió subastar el edificio. El Ayuntamiento de la Ciudad de México lo adquirió en 1806 y, debido a la Guerra de Independencia (1810-1821) el edificio quedó en parcial abandono.
+En 1785, por órdenes del virrey **Bernardo de Gálvez** (1746-1786), se comenzó a construir un nuevo palacio en la misma cima; la obra comenzó, pero se detuvo debido a problemas financieros y a la muerte del virrey, así que la Corona española decidió subastar el edificio. El Ayuntamiento de la Ciudad de México lo adquirió en 1806 y, debido a la Guerra de Independencia (1810-1821) el edificio quedó en parcial abandono.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ch%C3%A2teau_de_Chapultepec_de_Mexico_%28Castillo_de_Chapultepec_de_M%C3%A9xico%29.jpg/1024px-Ch%C3%A2teau_de_Chapultepec_de_Mexico_%28Castillo_de_Chapultepec_de_M%C3%A9xico%29.jpg)
+
+### Colegio militar
+
+
 
 ### Museo
 
