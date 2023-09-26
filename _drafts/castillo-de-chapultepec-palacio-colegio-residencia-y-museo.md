@@ -64,8 +64,8 @@ De 1878 a 1883, en el Castillo se alojó el **Observatorio Astronómico, Meteoro
 
 Fue el presidente Díaz quien decidió convertir al **bosque** que rodeaba al **Castillo** en un parque para la ciudadanía: por ellos e trazaron calzadas y riachuelos, se instalaron esculturas y fuentes, un jardín botánico y kioscos, y se creó el lago artificial donde hasta hoy se divierten las familias mexicanas. También se instaló en el Castillo el gran vitral en la terraza oriente de la planta alta del Alcázar, el cual se conserva hasta la fecha.
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vitral_del_Castillo_de_Chapultepec_0.jpg/768px-Vitral_del_Castillo_de_Chapultepec_0.jpg)
 
 ### Museo
 
-Finalmente, mediante decreto presidencial, el general Lázaro Cárdenas dispuso en 1939 que el Castillo, ubicado en la parte más alta del Bosque de Chapultepec, funcionara como museo dedicado a resguardar colecciones y objetos de personajes de la historia de México. El inmueble abrió sus puertas con tal propósito el 27 de septiembre de 1944, y a la fecha es uno de los museos más visitados del país.
+Finalmente, mediante decreto presidencial, el general Lázaro Cárdenas dispuso en 1939 que el **Castillo**, ubicado en la parte más alta del Bosque de Chapultepec, funcionara como **Museo Nacional de Historia**, dedicado a resguardar colecciones y objetos de personajes de la historia de México. El inmueble abrió sus puertas con tal propósito el 27 de septiembre de 1944, y a la fecha es uno de los museos más visitados del país.
