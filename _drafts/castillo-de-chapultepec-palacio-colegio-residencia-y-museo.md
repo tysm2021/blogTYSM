@@ -44,7 +44,11 @@ En 1785, por órdenes del virrey **Bernardo de Gálvez** (1746-1786), se comenz�
 
 ### Colegio militar
 
+Fue en 1833 cuando se tomó la decisión de convertir el entonces abandonado **palacio de Chapultepec** en la sede del **Colegio Militar**. En 1841 se iniciaron las obras de reconstrucción del edificio y se hicieron adaptaciones incluyendo un torreón o “Caballero Alto” en la parte más alta del cerro , lo que le dio el aspecto de fortaleza militar. Fue entonces cuando se le comenzó a llamar **Castillo**. Los días 12 y 13 de septiembre de 1847, el Colegio resistió el bombardeo del ejército estadounidense que le causó graves daños, y fue escenario de la Gesta Heroica de los Niños Héroes.
 
+Años después, el **Castillo** fue reconstruido y ocupada por primera vez como residencia del Poder Ejecutivo mexicano: **Miguel Miramón**, un ex alumno del Colegio Militar y mandatario interino del bando conservador, eligió al Castillo como residencia presidencial durante su periodo.
+
+Residencia imperial
 
 ### Museo
 
