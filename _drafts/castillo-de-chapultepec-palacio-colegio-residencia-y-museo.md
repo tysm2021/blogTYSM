@@ -26,11 +26,11 @@ summary: >-
   En la cima del cerro del chapulín, este palacio ha sido escenario de
   importantes páginas de nuestra historia…
 ---
-Se encuentra en la cima del Chapultepec, es decir del "cerro del chapulín" en lengua náhuatl, el primer sitio donde se estableció el pueblo mexica a su llegada al Valle de México y desde donde, ya establecido el Imperio, acarreaban el agua potable hacia Tenochtitlan. Después, durante la Colonia, un virrey mandó construirlo y, aunque nunca lo ocupó, quedó listo para convertirse en colegio militar, palacio imperial, residencia presidencial y museo nacional. Conozcamos la historia del Castillo de Chapultepec.
+Se encuentra en la cima del **Chapultepec**, es decir del "cerro del chapulín" en lengua náhuatl, el primer sitio donde se estableció el pueblo mexica a su llegada al Valle de México y desde donde, ya establecido el Imperio, acarreaban el agua potable hacia Tenochtitlan. Después, durante la Colonia, un virrey mandó construirlo y, aunque nunca lo ocupó, quedó listo para convertirse en colegio militar, palacio imperial, residencia presidencial y museo nacional. Conozcamos la **historia** del **Castillo de Chapultepec**.
 
-Dicha construcción preside el bosque de Chapultepec, uno de los pulmones naturales de la Ciudad de México ubicado en el norponiente, donde existen otros importantes museos como el Museo Nacional de Antropología, el de Arte Moderno y el Rufino Tamayo.
+Dicha construcción preside el bosque de **Chapultepec**, uno de los pulmones naturales de la Ciudad de México ubicado en el norponiente, donde existen otros importantes museos como el Museo Nacional de Antropología, el de Arte Moderno y el Rufino Tamayo.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: [Cinco castillos europeos que morirás por conocer.](https://blog.tonoysumariachi.com/mundo/2022/11/23/cinco-castillos-europeos-que-moriras-por-conocer.html){: target="_blank" rel="noopener"}**
 
 El **Castillo de Chapultepec** es una espléndida construcción de finales del siglo XVIII, diseñada como casa de descanso por órdenes del virrey de la Nueva España. A lo largo del tiempo, sin embargo, el edificio se ha modificado varias veces en función de sus distintos usos: fue sede del **Colegio Militar**, escenario de batallas durante la **Intervención Estadounidense** —entre ellas, la Gesta Heróica de los **Niños Héroes**—, residencia imperial de **Maximiliano** y **Carlota,**&nbsp;residencia de algunos presidentes de México, como Porfirio Díaz, y finalmente se declaró museo. Así, a **historia** del **Castillo de Chapultepec** puede dividirse en cinco etapas:
 
@@ -48,7 +48,13 @@ Fue en 1833 cuando se tomó la decisión de convertir el entonces abandonado **p
 
 Años después, el **Castillo** fue reconstruido y ocupada por primera vez como residencia del Poder Ejecutivo mexicano: **Miguel Miramón**, un ex alumno del Colegio Militar y mandatario interino del bando conservador, eligió al Castillo como residencia presidencial durante su periodo.
 
-Residencia imperial
+### Residencia imperial
+
+El Alcázar adquirió su aspecto actual cuando el archiduque austriaco **Maximiliano de Habsburgo** y su esposa, la princesa belga **Carlota**, residieron en el **Castillo** entre 1864 y 1867, durante el&nbsp;**Segunda Imperio Mexicano**. El inmueble fue acondicionado como palacio por el arquitecto mexicano Ramón Rodríguez Arangoity y los jardines fueron rediseñados por el botánico austriaco Wilhelm Knechtel. El castillo se ajuareó con cristalería, vajillas y mobiliario finísimo traído de Europa.
+
+Los emperadores **Maximiliano** y **Carlota** eligieron como aposentos las habitaciones de la planta baja que miraban hacia el Oriente: hacia la Ciudad de México —recordemos que en aquel entonces Chapultepec estaba a las afueras—, el lago de Texcoco y los volcanes Iztaccíhuatl y Popocatépetl; razón por la cual mandaron construir una terraza panorámica frente a sus habitaciones.
+
+
 
 ### Museo
 
