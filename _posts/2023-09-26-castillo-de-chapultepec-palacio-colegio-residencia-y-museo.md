@@ -50,6 +50,8 @@ Años después, el **Castillo** fue reconstruido y ocupada por primera vez como 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Castillo_de_Chapultepec_06.JPG/682px-Castillo_de_Chapultepec_06.JPG)
 
+**TE RECOMENDAMOS:&nbsp;[La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?](https://blog.tonoysumariachi.com/historia/2022/06/30/la-historia-de-los-ninos-heroes-de-chapultepec-es-verdad-o-mito.html){: target="_blank" rel="noopener"}**
+
 ### Palacio imperial
 
 El Alcázar adquirió su aspecto actual cuando el archiduque austriaco **Maximiliano de Habsburgo** y su esposa, la princesa belga **Carlota**, residieron en el **Castillo** entre 1864 y 1867, durante el&nbsp;**Segunda Imperio Mexicano**. El inmueble fue acondicionado como palacio por el arquitecto mexicano Ramón Rodríguez Arangoity y los jardines fueron rediseñados por el botánico austriaco Wilhelm Knechtel. El castillo se ajuareó con cristalería, vajillas y mobiliario finísimo traído de Europa.
