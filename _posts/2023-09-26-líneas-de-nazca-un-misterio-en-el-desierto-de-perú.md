@@ -41,6 +41,8 @@ Las **Líneas de Nazca** fueron descubiertas en la década de 1920 por el piloto
 
 Estas **líneas**, que incluyen figuras de animales, diseños geométricos y formas abstractas, son realmente gigantescas: algunas alcanzan hasta 270 metros de longitud. Pero lo más intrigante es que **sólo pueden ser completamente apreciadas desde el aire**. Los antiguos habitantes de **Nazca** las crearon utilizando la técnica del **geoglifo**, eliminando las piedras rojizas del desierto para revelar la capa más clara de arena y así formar los diseños.
 
+**TE RECOMENDAMOS: [¿Quiénes construyeron Machu Picchú, en Perú?](https://blog.tonoysumariachi.com/mundo/2022/11/17/quienes-construyeron-machu-picchu-en-peru.html){: target="_blank" rel="noopener"}**
+
 Ahora, desde un punto de vista escéptico, las **teorías** sobre quiénes crearon estas líneas y por qué varían considerablemente. Algunos sugieren que fueron construidas por la **cultura nazca**, una civilización preincaica —es decir, anterior a los incas que construyeron Machu Picchú— que habitó la región entre los años 200 a.C. y 600 d.C. Se cree que estas **líneas** podrían haber tenido un propósito religioso o astronómico, aunque aún no se ha llegado a un consenso definitivo.
 
 ![](/uploads/lineas-de-nazca-nazca-peru-2015-07-29-dd-54.jpeg){: width="1024" height="838"}
@@ -49,4 +51,4 @@ Otras teorías, un poco más extravagantes, sugieren que las **Líneas de Nazca*
 
 Las **Líneas de Nazca** son un misterio que sigue intrigando a expertos y viajeros por igual. Independientemente de quién las creó y por qué, estas enigmáticas figuras continúan maravillando a aquellos que tienen la oportunidad de sobrevolar el **desierto de Nazca** y contemplar desde las alturas el enigma que ha perdurado a través de los siglos. El misterio persiste y el encanto sigue intacto en el corazón del desierto peruano.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4iy3xPnSPVA?si=IcNku6VvkXaXEV5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4iy3xPnSPVA?si=IcNku6VvkXaXEV5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
