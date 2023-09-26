@@ -48,11 +48,21 @@ Fue en 1833 cuando se tomó la decisión de convertir el entonces abandonado **p
 
 Años después, el **Castillo** fue reconstruido y ocupada por primera vez como residencia del Poder Ejecutivo mexicano: **Miguel Miramón**, un ex alumno del Colegio Militar y mandatario interino del bando conservador, eligió al Castillo como residencia presidencial durante su periodo.
 
-### Residencia imperial
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Castillo_de_Chapultepec_06.JPG/682px-Castillo_de_Chapultepec_06.JPG)
+
+### Palacio imperial
 
 El Alcázar adquirió su aspecto actual cuando el archiduque austriaco **Maximiliano de Habsburgo** y su esposa, la princesa belga **Carlota**, residieron en el **Castillo** entre 1864 y 1867, durante el&nbsp;**Segunda Imperio Mexicano**. El inmueble fue acondicionado como palacio por el arquitecto mexicano Ramón Rodríguez Arangoity y los jardines fueron rediseñados por el botánico austriaco Wilhelm Knechtel. El castillo se ajuareó con cristalería, vajillas y mobiliario finísimo traído de Europa.
 
 Los emperadores **Maximiliano** y **Carlota** eligieron como aposentos las habitaciones de la planta baja que miraban hacia el Oriente: hacia la Ciudad de México —recordemos que en aquel entonces Chapultepec estaba a las afueras—, el lago de Texcoco y los volcanes Iztaccíhuatl y Popocatépetl; razón por la cual mandaron construir una terraza panorámica frente a sus habitaciones.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Castillo_de_Chapultepec%2C_Main_balcony.jpg/1024px-Castillo_de_Chapultepec%2C_Main_balcony.jpg)
+
+### Residencia presidencial
+
+De 1878 a 1883, en el Castillo se alojó el **Observatorio Astronómico, Meteorológico y Magnético**, pero pronto cambió de sede porque regresó el Colegio Militar y el Castillo se adaptó como residencia presidencial: sus lujosas habitaciones fueron ocupadas por Porfirio Díaz, Francisco I. Madero, Venustiano Carranza, Álvaro Obregón, Plutarco Elías Calles, Emilio Portes Gil, Pascual Ortiz Rubio y Abelardo Rodríguez.
+
+Fue el presidente Díaz quien decidió convertir al **bosque** que rodeaba al **Castillo** en un parque para la ciudadanía: por ellos e trazaron calzadas y riachuelos, se instalaron esculturas y fuentes, un jardín botánico y kioscos, y se creó el lago artificial donde hasta hoy se divierten las familias mexicanas. También se instaló en el Castillo el gran vitral en la terraza oriente de la planta alta del Alcázar, el cual se conserva hasta la fecha.
 
 
 
