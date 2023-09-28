@@ -1,12 +1,12 @@
 ---
 title: El Pípila y la toma de la Alhóndiga de Granaditas
-date: 2022-07-28 00:00:00 UTC
+date: 2022-07-28 00:00:00
 categories:
-- HISTORIA
+  - HISTORIA
 tags:
-- historia
-- independencia
-- biografias
+  - historia
+  - independencia
+  - biografias
 author: Redacción TYSM
 layout: article
 excerpt_separator: <!--more-->
@@ -18,26 +18,21 @@ article_header:
   image:
     src: /images/2022-07-28-1280px-el_pipila.jpeg
 sharing: true
-summary: Uno de los héroes de la guerra de Independencia fue 'el Pípila'; ¿quién fue
-  en realidad este personaje y por qué se hizo famoso?
-cover: "/images/2022-07-28-1280px-el_pipila.jpeg"
+summary: >-
+  Uno de los héroes de la guerra de Independencia fue 'el Pípila'; ¿quién fue en
+  realidad este personaje y por qué se hizo famoso?
+cover: /images/2022-07-28-1280px-el_pipila.jpeg
 show_author_profile: false
 comment: false
 _template: plantilla
 ---
-
-
-
-
-
-
 Durante la primera etapa de la Guerra por la **Independencia** de México, uno de los episodios que mejor ejemplifican el fervor del movimiento insurgente es la toma de la **Alhóndiga** de **Granaditas**, una fortaleza en la ciudad de **Guanajuato** donde se había refugiado la población española y que, gracias a la intervención de un héroe conocido como 'el **Pípila**', cayó en manos del ejército dirigido por Miguel Hidalgo. Pero, ¿**quién fue** este personaje y cómo se ganó el histórico **apodo**?
 
 Acompáñanos a dar una vuelta por la historia y lleguemos hasta principios del siglo XIX, cuando el movimiento insurgente que buscaba la **independencia** de la Nueva España se encontraba a las afueras de la ciudad de **Guanajuato**…
 
 **TE RECOMENDAMOS:** [**La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?**](https://blog.tonoysumariachi.com/historia/2022/06/30/la-historia-de-los-ninos-heroes-de-chapultepec-es-verdad-o-mito.html)
 
-Unos días después de iniciado el movimiento de **Independencia**, el 18 de septiembre de 1810, los insurgentes se encontraban a las afueras de la ciudad de **Guanajuato**. Aterrado por la noticia del avance de las tropas rebeldes, el intendente de la ciudad **Juan Antonio Riaño** pidió a la población española y criolla que se resguardara y acuartelera en la **Alhóndiga de Granaditas**, un edificio fortificado que había servido como almacén para granos y otros alimentos en época de escasez.
+Unos días después de iniciado el movimiento de **Independencia**, el 28 de septiembre de 1810, los insurgentes se encontraban a las afueras de la ciudad de **Guanajuato**. Aterrado por la noticia del avance de las tropas rebeldes, el intendente de la ciudad **Juan Antonio Riaño** pidió a la población española y criolla que se resguardara y acuartelera en la **Alhóndiga de Granaditas**, un edificio fortificado que había servido como almacén para granos y otros alimentos en época de escasez.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Batalla_de_la_Alh%C3%B3ndiga_de_Granaditas.jpg)
 
