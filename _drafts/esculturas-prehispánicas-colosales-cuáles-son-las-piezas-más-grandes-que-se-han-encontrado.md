@@ -52,6 +52,8 @@ Piedra del Sol ("Calendario Azteca")
 
 (Cultura mexica)Peso: 24 toneladasDimensiones: 3.58 (diámetro) x 0.98 mOrigen: Plaza Mayor, CDMX.Se exhibe en: Museo Nacional de Antropología
 
+**TE RECOMENDAMOS: [Coyolxauhqui: la diosa mexica de la Luna que dio origen a un museo.](https://blog.tonoysumariachi.com/historia/2022/08/17/coyolxauhqui-la-diosa-mexica-de-la-luna-que-dio-origen-a-un-museo.html){: target="_blank" rel="noopener"}**
+
 Cabeza colosal \#1 "El Rey"(Cultura olmeca)
 
 Peso: 24 tons.Dimensiones: 2.85 x 2.11 x 0.87 mOrigen: San Lorenzo Tenochtitlán, Ver.Se exhibe en: Museo de Antropología de Xalapa.
