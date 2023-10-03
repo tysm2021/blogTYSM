@@ -36,11 +36,13 @@ A continuación, un breve recuento de algunas de las **esculturas prehispánicas
 
 **TE RECOMENDAMOS: [Piedra del Sol, ¿por qué se le llama Calendario Azteca?](https://blog.tonoysumariachi.com/historia/2022/08/26/piedra-del-sol-por-que-se-le-llama-calendario-azteca.html){: target="_blank" rel="noopener"}**
 
-##
+## Monolito de Chalchiuhtlicue
 
-Monolito de Chalchiuhtlicue
+Cultura teotihuacana<br>Peso: **16\.3 toneladas**<br>Dimensiones: **3\.16 x 1.65 x 1.65 m**<br>Origen: Teotihuacan, Estado de México.
 
-(Cultura teotihuacana)Peso: 16.3 toneladasDimensiones: 3.16 x 1.65 x 1.65 mOrigen: Teotihuacan, EdoMex.Se exhibe en: Museo Nacional de Antropología
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Teotihuac%C3%A1n_-_Chalchiuhtlicue.jpg/768px-Teotihuac%C3%A1n_-_Chalchiuhtlicue.jpg)
+
+Se trata de la representación de la **diosa de los ríos, lagos, lagunas y mares**, y también **esposa de Tláloc**. Es una escultura labrada en roca andesita que fue hallada en torno a la Plaza de la **Pirámide de la Luna**, en la zona arqueológica de **Teotihuacan**, muy cerca del Palacio de Quetzalpapálotl. Se creía que era una mesa de sacrificios, pues como estaba enterrada sólo podía verse su parte superior, y se la conocía como la "Piedra del desmayo”, pues existía la creencia popular de que la gente caía desmayada al tocar la escultura. Se exhibe en la **Sala Teotihuacán** del **Museo Nacional de Antropología**.
 
 Tlaltecuhtli
 
@@ -66,12 +68,10 @@ Coyolxauhqui
 
 ## Monolito de Tláloc
 
-*(Cultura mexica)*
-
-Peso: **168 toneladas**<br>Altura: **7\.0 x 4.41 x 3.92 m**<br>Origen: San Miguel Coatlinchán, EdoMex.
+Cultura mexica<br>Peso: **168 toneladas**<br>Altura: **7\.0 x 4.41 x 3.92 m**<br>Origen: San Miguel Coatlinchán, Estado de México.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tlaloc_1.jpg/1024px-Tlaloc_1.jpg)
 
 Este es, sin dudas, el **monolito** **escultórico** más **voluminoso** y **pesado** que se ha encontrado hasta hoy. Se exhibe en la esquina de Paseo de la Reforma y Gandhi, justo a las afueras del **Museo Nacional de Antropología**. El día que fue traído de su lugar de origen —donde el Ejército tuvo que intervenir, porque los del pueblo salieron con machetes a defender lo suyo—, un terrible aguacero azotó la Ciudad de México: al parecer, Tláloc hacía sentir su furia.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/55Kj0V1p-Bs?si=5z3K3xgyZEMPFlL3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/55Kj0V1p-Bs?si=5z3K3xgyZEMPFlL3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
