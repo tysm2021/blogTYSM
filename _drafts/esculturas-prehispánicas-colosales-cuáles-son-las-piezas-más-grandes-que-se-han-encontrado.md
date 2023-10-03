@@ -40,9 +40,16 @@ A continuación, un breve recuento de algunas de las **esculturas prehispánicas
 
 Cultura mexica<br>Peso: **12 toneladas**<br>Dimensiones: **4\.17 x 3.62 x 0.38 m**<br>Origen: Casa de las Ajaracas, Centro, CDMX.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tlaltecuhtli1.jpg/941px-Tlaltecuhtli1.jpg)
+
 Es el **monumento escultórico mexica más grande** que se conozca hasta la fecha y se descubrió de manera fortuita en 2006 por el arqueólogo Leonardo López Luján, en la Casa de las Ajaracas del Centro Histórico de la CDMX, a unas cuadras de la Plaza de la Constitución y de lo que era el **Templo Mayor** de México-Tenochtitlan.
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">El 2 de octubre de 2006 fue hallado el monolito de Tlaltecuhtli “señora de la tierra”, situado frente a la fachada del Templo Mayor de Tenochtitlan, en lo que fuera la Casa de las Ajaracas.<br>En palabras de Eduardo Matos, independientemente de la manera de morir, ...(hilo) <a href="https://t.co/pohvi9X7Fj">pic.twitter.com/pohvi9X7Fj</a></p>&mdash; MuseodelTemploMayor (@MusTemploMayor) <a href="https://twitter.com/MusTemploMayor/status/1708870827150606594?ref_src=twsrc%5Etfw">October 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+> El 2 de octubre de 2006 fue hallado el monolito de Tlaltecuhtli “señora de la tierra”, situado frente a la fachada del Templo Mayor de Tenochtitlan, en lo que fuera la Casa de las Ajaracas.<br>En palabras de Eduardo Matos, independientemente de la manera de morir, ...(hilo) [pic.twitter.com/pohvi9X7Fj](https://t.co/pohvi9X7Fj)
+>
+> — MuseodelTemploMayor (@MusTemploMayor) [October 2, 2023](https://twitter.com/MusTemploMayor/status/1708870827150606594?ref_src=twsrc%5Etfw)
+{: .twitter-tweet}
+
+
 
 Según la mitología,&nbsp;**Tlaltecuhtli**&nbsp;vivía en los océanos, tenía forma de monstruo y poseía innumerables bocas, era mitad humana y mitad animal. Se exhibe en el vestíbulo del **Museo del Templo Mayor**.
 
@@ -54,7 +61,7 @@ Cultura teotihuacana<br>Peso: **16\.3 toneladas**<br>Dimensiones: **3\.16 x 1.65
 
 Se trata de la representación de la **diosa de los ríos, lagos, lagunas y mares**, y también **esposa de Tláloc**. Es una escultura labrada en roca andesita que fue hallada en torno a la Plaza de la **Pirámide de la Luna**, en la zona arqueológica de **Teotihuacan**, muy cerca del Palacio de Quetzalpapálotl. Se creía que era una mesa de sacrificios, pues como estaba enterrada sólo podía verse su parte superior, y se la conocía como la "Piedra del desmayo”, pues existía la creencia popular de que la gente caía desmayada al tocar la escultura. Se exhibe en la **Sala Teotihuacán** del **Museo Nacional de Antropología**.
 
-Piedra del Sol ("Calendario Azteca")
+### Piedra del Sol ("Calendario Azteca")
 
 (Cultura mexica)Peso: 24 toneladasDimensiones: 3.58 (diámetro) x 0.98 mOrigen: Plaza Mayor, CDMX.Se exhibe en: Museo Nacional de Antropología
 
@@ -78,6 +85,6 @@ Cultura mexica<br>Peso: **168 toneladas**<br>Altura: **7\.0 x 4.41 x 3.92 m**<br
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tlaloc_1.jpg/1024px-Tlaloc_1.jpg)
 
-Este es, sin dudas, el **monolito** **escultórico** más **voluminoso** y **pesado** que se ha encontrado hasta hoy. Se exhibe en la esquina de Paseo de la Reforma y Gandhi, justo a las afueras del **Museo Nacional de Antropología**. El día que fue traído de su lugar de origen —donde el Ejército tuvo que intervenir, porque los del pueblo salieron con machetes a defender lo suyo—, un terrible aguacero azotó la Ciudad de México: al parecer, Tláloc hacía sentir su furia.
+Este es, sin dudas, el **monolito** **escultórico** más **voluminoso** y **pesado** que se ha encontrado hasta hoy. Se exhibe en la esquina de Paseo de la Reforma y Gandhi, justo a las afueras del **Museo Nacional de Antropología**. El día que fue traído de su lugar de origen —donde el Ejército tuvo que intervenir, porque los del pueblo salieron con machetes a defender lo suyo—, un terrible aguacero azotó la Ciudad de México: la gente creyó que Tláloc hacía sentir su furia, aunque algunos expertos aseguran que en realidad se trata de su esposa, Chalchiuhtlicue.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/55Kj0V1p-Bs?si=5z3K3xgyZEMPFlL3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
