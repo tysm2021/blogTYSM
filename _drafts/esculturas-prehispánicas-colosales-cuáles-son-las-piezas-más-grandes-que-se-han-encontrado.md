@@ -36,6 +36,16 @@ A continuación, un breve recuento de algunas de las **esculturas prehispánicas
 
 **TE RECOMENDAMOS: [Piedra del Sol, ¿por qué se le llama Calendario Azteca?](https://blog.tonoysumariachi.com/historia/2022/08/26/piedra-del-sol-por-que-se-le-llama-calendario-azteca.html){: target="_blank" rel="noopener"}**
 
+## Tlaltecuhtli
+
+Cultura mexica<br>Peso: **12 toneladas**<br>Dimensiones: **4\.17 x 3.62 x 0.38 m**<br>Origen: Casa de las Ajaracas, Centro, CDMX.
+
+Es el **monumento escultórico mexica más grande** que se conozca hasta la fecha y se descubrió de manera fortuita en 2006 por el arqueólogo Leonardo López Luján, en la Casa de las Ajaracas del Centro Histórico de la CDMX, a unas cuadras de la Plaza de la Constitución y de lo que era el **Templo Mayor** de México-Tenochtitlan.
+
+
+
+Según la mitología,&nbsp;**Tlaltecuhtli**&nbsp;vivía en los océanos, tenía forma de monstruo y poseía innumerables bocas, era mitad humana y mitad animal. Se exhibe en el vestíbulo del **Museo del Templo Mayor**.
+
 ## Monolito de Chalchiuhtlicue
 
 Cultura teotihuacana<br>Peso: **16\.3 toneladas**<br>Dimensiones: **3\.16 x 1.65 x 1.65 m**<br>Origen: Teotihuacan, Estado de México.
@@ -43,10 +53,6 @@ Cultura teotihuacana<br>Peso: **16\.3 toneladas**<br>Dimensiones: **3\.16 x 1.65
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Teotihuac%C3%A1n_-_Chalchiuhtlicue.jpg/768px-Teotihuac%C3%A1n_-_Chalchiuhtlicue.jpg)
 
 Se trata de la representación de la **diosa de los ríos, lagos, lagunas y mares**, y también **esposa de Tláloc**. Es una escultura labrada en roca andesita que fue hallada en torno a la Plaza de la **Pirámide de la Luna**, en la zona arqueológica de **Teotihuacan**, muy cerca del Palacio de Quetzalpapálotl. Se creía que era una mesa de sacrificios, pues como estaba enterrada sólo podía verse su parte superior, y se la conocía como la "Piedra del desmayo”, pues existía la creencia popular de que la gente caía desmayada al tocar la escultura. Se exhibe en la **Sala Teotihuacán** del **Museo Nacional de Antropología**.
-
-Tlaltecuhtli
-
-Cultura mexica)Peso: 12 tons.Dimensiones: 4.17 x 3.62 x 0.38 mOrigen: Casa de las Ajaracas, Centro, CDMX.Se exhibe en: Museo del Templo Mayor.
 
 Piedra del Sol ("Calendario Azteca")
 
