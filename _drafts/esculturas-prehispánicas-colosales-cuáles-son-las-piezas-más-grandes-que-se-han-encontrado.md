@@ -30,7 +30,11 @@ summary: >-
   De todas las espectaculares piezas mexicas, mayas, toltecas, teotihuacanas y
   toltecas, ¿cuáles son las más grandes?
 ---
-Antes de la llegada de los españoles, el territorio que hoy conocemos como México estuvo habitado por numerosos pueblos —llamados prehispánicos—, los cuales tenían religiones diversas y adoraban a un sinfín de dioses, diosas, deidades y criaturas fantásticas. En sus antiguas ciudades, que hoy conforman la red de zonas arqueológicas vigiladas por el el INAH,&nbsp;
+Antes de la llegada de los españoles, el territorio que hoy conocemos como México estuvo habitado por numerosos pueblos —llamados prehispánicos—, los cuales tenían religiones diversas y adoraban a un sinfín de dioses, diosas, deidades y criaturas fantásticas, y tenían varios modos de gobierno. En sus antiguas ciudades, que hoy conforman la red de zonas arqueológicas vigiladas por el el INAH, se encontraron diversas manifestaciones del culto a sus dioses y gobernantes en forma de esculturas colosales o monumentales, las cuales hablan de su habilidad como escultores y artesanos. Pero, de todas las que se han encontrado hasta hoy, ¿cuáles son las más grandes, las más altas, las más pesadas y las más voluminosas?
+
+A continuación, un breve recuento de algunas de las esculturas prehispánicas gigantescas que nos asombran por sus dimensiones, su altura, su masa y, desde luego, por su gran e imponente belleza.
+
+**TE RECOMENDAMOS: [Piedra del Sol, ¿por qué se le llama Calendario Azteca?](https://blog.tonoysumariachi.com/historia/2022/08/26/piedra-del-sol-por-que-se-le-llama-calendario-azteca.html){: target="_blank" rel="noopener"}**
 
 Monolito de Tláloc
 
