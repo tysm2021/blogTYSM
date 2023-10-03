@@ -36,9 +36,7 @@ A continuación, un breve recuento de algunas de las **esculturas prehispánicas
 
 **TE RECOMENDAMOS: [Piedra del Sol, ¿por qué se le llama Calendario Azteca?](https://blog.tonoysumariachi.com/historia/2022/08/26/piedra-del-sol-por-que-se-le-llama-calendario-azteca.html){: target="_blank" rel="noopener"}**
 
-Monolito de Tláloc
-
-(Cultura mexica)Peso: 168 toneladasAltura: 7 x 4.41 x 3.92 mOrigen: San Miguel Coatlinchán, EdoMex.Se exhibe en: Museo Nacional de Antropología
+##
 
 Monolito de Chalchiuhtlicue
 
@@ -65,3 +63,13 @@ Atlante
 Estela E
 
 Coyolxauhqui
+
+## Monolito de Tláloc
+
+*(Cultura mexica)*
+
+Peso: **168 toneladas**<br>Altura: **7\.0 x 4.41 x 3.92 m**<br>Origen: San Miguel Coatlinchán, EdoMex.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tlaloc_1.jpg/1024px-Tlaloc_1.jpg)
+
+Este es, sin dudas, el **monolito** **escultórico** más **voluminoso** y **pesado** que se ha encontrado hasta hoy. Se exhibe en la esquina de Paseo de la Reforma y Gandhi, justo a las afueras del **Museo Nacional de Antropología**. El día que fue traído de su lugar de origen —donde el Ejército tuvo que intervenir, porque los del pueblo salieron con machetes a defender lo suyo—, un terrible aguacero azotó la Ciudad de México: al parecer, Tláloc hacía sentir su furia.
