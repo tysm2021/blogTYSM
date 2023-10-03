@@ -42,7 +42,7 @@ Cultura mexica<br>Peso: **12 toneladas**<br>Dimensiones: **4\.17 x 3.62 x 0.38 m
 
 Es el **monumento escultórico mexica más grande** que se conozca hasta la fecha y se descubrió de manera fortuita en 2006 por el arqueólogo Leonardo López Luján, en la Casa de las Ajaracas del Centro Histórico de la CDMX, a unas cuadras de la Plaza de la Constitución y de lo que era el **Templo Mayor** de México-Tenochtitlan.
 
-
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">El 2 de octubre de 2006 fue hallado el monolito de Tlaltecuhtli “señora de la tierra”, situado frente a la fachada del Templo Mayor de Tenochtitlan, en lo que fuera la Casa de las Ajaracas.<br>En palabras de Eduardo Matos, independientemente de la manera de morir, ...(hilo) <a href="https://t.co/pohvi9X7Fj">pic.twitter.com/pohvi9X7Fj</a></p>&mdash; MuseodelTemploMayor (@MusTemploMayor) <a href="https://twitter.com/MusTemploMayor/status/1708870827150606594?ref_src=twsrc%5Etfw">October 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Según la mitología,&nbsp;**Tlaltecuhtli**&nbsp;vivía en los océanos, tenía forma de monstruo y poseía innumerables bocas, era mitad humana y mitad animal. Se exhibe en el vestíbulo del **Museo del Templo Mayor**.
 
