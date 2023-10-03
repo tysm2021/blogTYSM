@@ -73,3 +73,5 @@ Peso: **168 toneladas**<br>Altura: **7\.0 x 4.41 x 3.92 m**<br>Origen: San Migue
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tlaloc_1.jpg/1024px-Tlaloc_1.jpg)
 
 Este es, sin dudas, el **monolito** **escultórico** más **voluminoso** y **pesado** que se ha encontrado hasta hoy. Se exhibe en la esquina de Paseo de la Reforma y Gandhi, justo a las afueras del **Museo Nacional de Antropología**. El día que fue traído de su lugar de origen —donde el Ejército tuvo que intervenir, porque los del pueblo salieron con machetes a defender lo suyo—, un terrible aguacero azotó la Ciudad de México: al parecer, Tláloc hacía sentir su furia.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/55Kj0V1p-Bs?si=5z3K3xgyZEMPFlL3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
