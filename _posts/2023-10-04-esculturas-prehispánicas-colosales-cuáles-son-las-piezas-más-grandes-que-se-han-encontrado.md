@@ -23,7 +23,8 @@ article_header:
       /uploads/1024px-019174-043-piedra-encontrada-en-la-calle-de-guatemala-casi-esquina-con-argentina-febrero-28-1978-32635290705.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: >-
+  /uploads/1024px-019174-043-piedra-encontrada-en-la-calle-de-guatemala-casi-esquina-con-argentina-febrero-28-1978-32635290705.jpeg
 show_author_profile: false
 comment: false
 summary: >-
