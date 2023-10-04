@@ -73,21 +73,25 @@ Se descubrió en 1790 en el lado sur de la Plaza Mayor de la Ciudad de México, 
 
 Cultura olmeca<br>Peso: **18-20 toneladas**<br>Dimensiones: **2\.85 x 2.11 x 0.87 m**<br>Origen: San Lorenzo Tenochtitlán, Ver.
 
+![](https://upload.wikimedia.org/wikipedia/commons/0/00/Cabeza_Colosal_n%C2%BA1_del_Museo_Xalapa.jpg)
+
 La más imponente de estas enormes y famosas cabezotas **olmecas** no podría quedarse fuera de este conteo. En realidad no hay mucha información de la c**ultura olmeca**, pues vivió muchos siglos antes de nuestra era, casi sin dejar registros escritos, pero sabemos que son esculturas de antiguos gobernante. Esta pieza fue descubierta por Matthew Stirling en 1946 y ha sido llamado “El Rey” en virtud de su aspecto majestuoso y por ser la cabeza más alta de San Lorenzo. En ella se observan rasgos étnicos mesoamericanos —nariz ancha, labios gruesos y ojos rasgado— y rasgos estéticos de acuerdo con los cánones de esa época: ojos bizcos, cráneo deformado y orejeras. Se exhibe en el **Museo de Antropología de Xalapa**.
 
-Atlante
+## Atlantes
 
-(cultura tolteca)
+Cultura tolteca<br>Peso: **8 tonelada**s cada uno.<br>Dimensiones: Aproximadamente **4\.5 metros de altur**a y 1 metro por lado.<br>Origen: Tula, Hidalgo.
 
-Estela E
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Atlantes_de_Tula_Hidalgo.jpg/1024px-Atlantes_de_Tula_Hidalgo.jpg)
+
+Estas alargadas **esculturas** que constan de cuatro partes ensambladass, eran las columnas originales de la Pirámide B o **Templo de Tlahuizcalpantecuhtli** —que era una de las encarnaciones del dios Quetzalcoátl para los antiguos **toltecas**— en la antigua ciudad de **Tollán** o **Tula**.&nbsp; Se trata de las **esculturas prehispánicas más altas que siguen en pie** y aunque muchos han querido ver en ellos a extraterrestres o viajeros espaciales, en realidad portan las armas y los atavíos de los guerreros toltecas: tocado cilíndrico, pectoral en forma de mariposa, el&nbsp;*tezcacuitlapilli*&nbsp;o disco dorsal decorado con serpientes de fuego y armas como el lanzadardos, un arma curva de madera, dardos y un cuchillo; además, el **atlante** porta un&nbsp;*maxtlatl*&nbsp;o taparrabos, sandalias decoradas con serpientes y orejeras rectangulares.
 
 ## Coyolxauhqui
 
 Cultura mexica<br>Peso: **8 toneladas**<br>Dimensiones: **2\.98-3.26** (​​​​​**​**​diámetro)<br>Origen: Templo Mayor, Ciudad de México.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coyolxauhqui_4095977415_b89d64f008.jpg/768px-Coyolxauhqui_4095977415_b89d64f008.jpg)
 
-
-Fue tallada por los mexicas hacia el año 1469 y representa a la **diosa de la Luna** tras haber sido despeñada y desmembrada por su hermano, el dios de la guerra **Huitzilopochtli**. Fue hallada de forma accidental por personal de la extinta Compañía de Luz y Fuerza del Centro, mientras se encontraban haciendo excavaciones en la zona, y fue el arqueólogo Felipe Solís quien la identificó como Coyolxauhqui. Su hallazgo derivó en la creación del Proyecto y el Museo del Templo Mayor, donde se exhibe como una de las piezas principales.
+Fue tallada por los mexicas hacia el año 1469 y representa a la **diosa de la Luna** tras haber sido despeñada y desmembrada por su hermano, el dios de la guerra **Huitzilopochtli**. Fue hallada de forma accidental por personal de la extinta Compañía de Luz y Fuerza del Centro, mientras se encontraban haciendo excavaciones en la zona, y fue el arqueólogo Felipe Solís quien la identificó como Coyolxauhqui. Su hallazgo derivó en la creación del Proyecto y el **Museo del Templo Mayor**, donde se exhibe como una de las piezas principales.
 
 ## Monolito de Tláloc
 
