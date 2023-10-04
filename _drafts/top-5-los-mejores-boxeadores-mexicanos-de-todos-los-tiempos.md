@@ -45,7 +45,7 @@ La historia del nativo del pueblo mexiquense de **Santiago Tianguistenco** es gl
 
 ## Ricardo "Finito" López
 
-
+![](/uploads/boxfinito-won.jpeg){: width="720" height="1023"}
 
 Quizá no te suene el nombre de este peleador, pero su récord es impresionante, casi perfecto, pues después de 16 años terminó **invicto**:&nbsp; **51 victorias, cero derrotas**, un solo empate y 38 *knock-out*s. Peleaba en la división de los minimoscas —de ahí, su apodo, pues pesaba menos de 50 kilos— y defendió su corona mundial en 22 ocasiones.
 
