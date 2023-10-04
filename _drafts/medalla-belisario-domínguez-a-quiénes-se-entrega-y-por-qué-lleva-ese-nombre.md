@@ -1,6 +1,6 @@
 ---
 title: 'Medalla Belisario Domínguez: ¿a quiénes se entrega y por qué lleva ese nombre?'
-date: 2023-09-19 16:00:00
+date: 2023-10-04 11:00:00
 categories:
   - HISTORIA
 tags:
