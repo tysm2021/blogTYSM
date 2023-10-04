@@ -2,7 +2,7 @@
 title: >-
   Esculturas prehispánicas colosales: ¿cuáles son las piezas más grandes que se
   han encontrado?
-date: 2023-10-03 16:00:00
+date: 2023-10-04 10:00:00
 categories:
   - HISTORIA
 tags:
