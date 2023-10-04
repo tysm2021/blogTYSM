@@ -26,8 +26,16 @@ summary: >-
   El 7 de octubre de cada año el Senado entrega la Medalla Belisario Domínguez a
   hombres y mujeres mexicanos destacados: te contamos la historia.
 ---
-Desde 1954, el **Senado de la República** Mexicana entrega la **Medalla Belisario Domínguez** "para premiar a los **hombres y mujeres mexicanos** que se hayan distinguido por su ciencia o su virtud en grado eminente, como servidores de nuestra Patria o de la Humanidad". La fecha de entrega es el 7 de octubre de cada año, día en que se conmemora el martirio y asesinato del diputado chiapaneco **Belisario Domínguez**, quien se opuso al régimen espurio de **Victoriano Huerta** y por esa causa fue mandado matar por el golpista.
+Desde 1954, el **Senado de la República** Mexicana entrega la **Medalla Belisario Domínguez** "para premiar a los **hombres y mujeres mexicanos** que se hayan distinguido por su ciencia o su virtud en grado eminente, como servidores de nuestra Patria o de la Humanidad". La fecha de entrega es el 7 de octubre de cada año, día en que se conmemora el martirio y asesinato del senador chiapaneco **Belisario Domínguez**, quien se opuso al régimen espurio de **Victoriano Huerta** y por esa causa fue mandado matar por el golpista.
 
-A continuación, te contamos brevemente la vida de don Belisario, así como el decreto que dio origen a la medalla y te contaremos quiénes han sido algunos de los galardonados y las premiadas.
+A continuación, te contamos brevemente la **biografía** de don **Belisario**, así como el decreto que dio origen a la **medalla** y te contaremos quiénes han sido algunos de los **galardonados** y las **premiadas**.
 
-TE RECOMENDAMOS:&nbsp;
+**TE RECOMENDAMOS: [17 de julio de 1928: Asesinato de Álvaro Obregón.](https://blog.tonoysumariachi.com/historia/2022/11/24/17-de-julio-de-1928-asesinato-de-alvaro-obregon.html){: target="_blank" rel="noopener"}**
+
+En la página del Senado de la República dedicada al prócer, se lee que **Belisario Domínguez**&nbsp;nació en Comitán, **Chiapas**, el 25 de abril de 1863. Sus padres, Cleofás &nbsp;Domínguez y María del Pilar Palencia, pertenecían a la clase acomodada, y gozaban de buena reputación como gentes buenas, laboriosas y honradas. En 1879 marchó a París para cursar sus estudios profesionales, el 17 de julio de 1889 recibió su título de Médico Cirujano y Partero, y regresó a su patria enseguida.&nbsp;
+
+En 1890 llegó a Veracruz y a principios de abril ya estaba en Comitán, donde instaló su consultorio. Venía saturado de ideas filantrópicas y quiso servir a las gentes más &nbsp;humildes. El 2 de noviembre de 1890, el joven médico se casó con su **Delina Zebadúa Palencia**, con quien tuvo cuatro hijos. Al principiar el año de 1902, Delina se sintió tan enferma el doctor **Domínguez** consideró necesario trasladarla a la capital del país para su atención médica. Tras un viaje de emergencia para atender la muerte de su padre, regresó a la Ciudad de México en 1903, en plena efervescencia política prerrevolucionaria.
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/e0/Belisario_Dom%C3%ADnguez.jpg)
+
+En 1905 regresó a Comitán y, cuatro años más tarde, fue electo **Presidente Municipal** de la localidad; su fama trascendió a todo el Estado y pronto fue uno de los más distinguidos políticos. En las elecciones de **Senadores** en 1912, los chiapanecos pensaron en él, pero su modestia lo hizo declinar y aceptar tan sólo ser **suplente** en la planilla que encabezó Leopoldo Gout, que triunfó arrolladoramente. Se trasladó a la Ciudad de México en 1913, donde fue testigo de los acontecimientos de la **Decena Trágica**, cuando el presidente **Francisco I. Madero** fue derrocado y asesinado tras el golpe de estado militar orquestado por el traidor **Victoriano Huerta**, de quien se convirtió en acérrimo enemigo.
