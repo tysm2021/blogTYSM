@@ -1,6 +1,6 @@
 ---
 title: 'Top 5: los mejores boxeadores mexicanos de todos los tiempos'
-date: 2023-09-19 16:00:00
+date: 2023-10-06 12:00:00
 categories:
   - MEXICANISIMOS
 tags:
