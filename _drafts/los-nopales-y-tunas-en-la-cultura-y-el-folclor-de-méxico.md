@@ -56,6 +56,8 @@ Seamos sinceros: aunque en décadas recientes este fenómeno se ha revertido en 
 
 …¡aunque me espine la mano! Así cantaba el enorme **Jorge Negrete** en la cinta del mismo nombre, la cual fue dirigida en 1943 por el inolvidable Miguel Zacarías. Dicha canción ranchera fue compuesta por **Manuel Esperón** y, en pocas palabras, habla de un hombre encandilado al punto del encaprichamiento con una mujer , a la cual comprara con el espinoso fruto del **nopal**: difícil de atrapar, lleno de espinas que hieren y lastiman, pero al final delicioso en el interior. De ahí la frase, que en resumen significa "No me importa que me lastime, al final esa mujer será mía".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g0UKZuA2CDM?si=6UtLlKsRbZW2zWD1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g0UKZuA2CDM?si=6UtLlKsRbZW2zWD1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Nopalitos y xoconostles
+### Nopalitos
+
+Si bien dijimos líneas arriba que los **nopales** no se comen crudos, sin duda existen distintas maneras en que pueden cocinarse hasta el punto de librarlos de su consistencia babosa. Como se cortan en julianas, reciben el nombre de **nopalitos** y se comen como guarnición de una carne asada, en el relleno de un mixiote, acompañando a un guiso en salsa roja o verde, o con huevos revueltos; ahora que si están crudo, lo mejor es pasarlos por una parrilla. ¡Un clásico de la cocina! Y ya ni mencionar los mil usos que le han dado estudiantes del IPN y de otras instituciones educativas, al crear no sólo alimentos sino materiales, fibras, telas, recubrimientos, tintes, jabones y suplementos alimenticios que aprovechan sus diversas propiedades nutricionales y curativas.
