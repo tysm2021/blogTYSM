@@ -60,4 +60,8 @@ Seamos sinceros: aunque en décadas recientes este fenómeno se ha revertido en 
 
 ### Nopalitos
 
-Si bien dijimos líneas arriba que los **nopales** no se comen crudos, sin duda existen distintas maneras en que pueden cocinarse hasta el punto de librarlos de su consistencia babosa. Como se cortan en julianas, reciben el nombre de **nopalitos** y se comen como guarnición de una carne asada, en el relleno de un mixiote, acompañando a un guiso en salsa roja o verde, o con huevos revueltos; ahora que si están crudo, lo mejor es pasarlos por una parrilla. ¡Un clásico de la cocina! Y ya ni mencionar los mil usos que le han dado estudiantes del IPN y de otras instituciones educativas, al crear no sólo alimentos sino materiales, fibras, telas, recubrimientos, tintes, jabones y suplementos alimenticios que aprovechan sus diversas propiedades nutricionales y curativas.
+Si bien dijimos líneas arriba que los **nopales** no se comen crudos, sin duda existen distintas maneras en que pueden cocinarse hasta el punto de librarlos de su consistencia babosa. Como se cortan en julianas, reciben el nombre de **nopalitos** y se comen como guarnición de una carne asada, en el relleno de un mixiote, encurtidos con zanahoria, cebolla y chile, acompañando a un guiso en salsa roja o verde, o con huevos revueltos; ahora que si están crudo, lo mejor es pasarlos por una parrilla. ¡Un clásico de la cocina!
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/27/Nopal11.jpg)
+
+Y ya ni mencionar los mil usos que le han dado al **nopal** estudiantes del IPN y de otras instituciones educativas, al crear no sólo alimentos sino materiales, fibras, telas, recubrimientos, tintes, jabones y suplementos alimenticios que aprovechan sus diversas propiedades nutricionales y curativas.
