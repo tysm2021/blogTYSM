@@ -40,9 +40,17 @@ Desde muy pequeños, aprendimos que según el **mito** **fundacional** de la ant
 
 Si uno se adentra más en la mitología mexica, nos enteramos de que dicho **nopal** no era cualquier planta: por el contrario, había nacido del **corazón** sacrificado de **Cópil**, un sobrino de&nbsp;**Huitzilopochtil** que, animado por su madre —la diosa Mallinalxóchitl, que era bruja— había intentado traicionar a su tío y fue muerto por esta causa. El belicoso dios ordenó que el corazón del traidor fuera arrojado al lago de Texcoco y la creencia es que, justamente, ese fue el tunal donde "se paró el águila" que dio origen al escudo que luce nuestra Enseña Patria.
 
-Al nopal sólo lo van a ver…
+### Al nopal sólo lo van a ver…
 
-¿Me quieres ver la cara de nopal?
+…**cuando tiene tunas**, dice el **refrán**. ¿A qué se refiere esta drástica sentencia de la **sabiduría** **popular**? Bueno, hay que explicar primero que el **nopal**, por su consistencia dura y babosa, difícilmente puede comerse crudo; en cambio, la **tuna**, cuando está madura, es un fruto dulce y delicioso que puede arrancarse más o menos fácilmente. El simbolismo, entonces, alude a la gente ventajosa y convenenciera que sólo acude a visitar a una persona —sea amistas o familiar— si, y sólo si, puede sacar un provecho o beneficio de ello: una comida, un regalo, una ventajosa herencia, un préstamo o lo que sea. Así, todos alguna vez en la vida hemos sido "**nopales**" y hemos dado nuestras **tunas** a gente que en realidad no se las merecía, ¿a poco no?…
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Higos_chumbos._Chumbera._Nopal.jpg/1024px-Higos_chumbos._Chumbera._Nopal.jpg)
+
+### ¿Me quieres ver la cara de nopal?
+
+Seamos sinceros: aunque en décadas recientes este fenómeno se ha revertido en parte y poco a poco, es un hecho histórico que por décadas el mexicano ha tenido un juicio bastante pobre de sí mismo, poniendo en pedestales a los blancos europeos —a los cuales considera bellos, altos, distinguidos— y menospreciando a quienes tienen una clara ascendencia indígena. Una de las expresiones que manifiesta este pequeño acto de racismo es la de "**cara de nopal**", que se refiere ni más ni menos a los rasgos de alguno de los pueblos originarios y equiparándolos con uno de los frutos más típicos y ásperos de nuestra tierra: el **nopal**.
+
+**TE RECOMENDAMOS: [Tunas, el mexicanísimo fruto del nopal y sus beneficios a la salud.](https://blog.tonoysumariachi.com/gastronomia/2022/08/08/tunas-el-mexicanisimo-fruto-del-nopal-y-sus-beneficios-a-la-salud.html){: target="_blank" rel="noopener"}**
 
 Me he de comer esa tuna…
 
