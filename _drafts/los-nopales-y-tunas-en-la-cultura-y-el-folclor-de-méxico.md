@@ -26,3 +26,8 @@ summary: >-
   Su verde y espinosa figura abunda en el paisaje campirano del centro y norte
   de México, y forman parte central de nuestra cultura e historia.
 ---
+Los nopales y otras cactáceas forman parte de la flora típica del centro y del norte de México
+
+Al nopal sólo lo van a ver…
+
+¿Me quieres ver la cara de nopal?
