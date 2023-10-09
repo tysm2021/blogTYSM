@@ -36,6 +36,8 @@ En el Dí Nacional de las Cactáceas, revisemos cinco ejemplos que dejan claro q
 
 Desde muy pequeños, aprendimos que según el **mito** **fundacional** de la antigua ciudad de **México-Tenochtitlan**, los mexicas —entonces aztecas, pues venían peregrinando desde la legendaria Aztlán— se establecieron donde hallaron la señal profetizada por su dios Huitzilopochtil: un tunal o un **nopal**, con un **águila** parada sobre él, atrapando y devorando a una **serpiente**.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SculptureEagleNopalZocalo02.JPG/1024px-SculptureEagleNopalZocalo02.JPG)
+
 Si uno se adentra más en la mitología mexica, nos enteramos de que dicho **nopal** no era cualquier planta: por el contrario, había nacido del **corazón** sacrificado de **Cópil**, un sobrino de&nbsp;**Huitzilopochtil** que, animado por su madre —la diosa Mallinalxóchitl, que era bruja— había intentado traicionar a su tío y fue muerto por esta causa. El belicoso dios ordenó que el corazón del traidor fuera arrojado al lago de Texcoco y la creencia es que, justamente, ese fue el tunal donde "se paró el águila" que dio origen al escudo que luce nuestra Enseña Patria.
 
 Al nopal sólo lo van a ver…
