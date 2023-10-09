@@ -52,6 +52,10 @@ Seamos sinceros: aunque en décadas recientes este fenómeno se ha revertido en 
 
 **TE RECOMENDAMOS: [Tunas, el mexicanísimo fruto del nopal y sus beneficios a la salud.](https://blog.tonoysumariachi.com/gastronomia/2022/08/08/tunas-el-mexicanisimo-fruto-del-nopal-y-sus-beneficios-a-la-salud.html){: target="_blank" rel="noopener"}**
 
-Me he de comer esa tuna…
+### Me he de comer esa tuna…
+
+…¡aunque me espine la mano! Así cantaba el enorme **Jorge Negrete** en la cinta del mismo nombre, la cual fue dirigida en 1943 por el inolvidable Miguel Zacarías. Dicha canción ranchera fue compuesta por **Manuel Esperón** y, en pocas palabras, habla de un hombre encandilado al punto del encaprichamiento con una mujer , a la cual comprara con el espinoso fruto del **nopal**: difícil de atrapar, lleno de espinas que hieren y lastiman, pero al final delicioso en el interior. De ahí la frase, que en resumen significa "No me importa que me lastime, al final esa mujer será mía".
+
+
 
 Nopalitos y xoconostles
