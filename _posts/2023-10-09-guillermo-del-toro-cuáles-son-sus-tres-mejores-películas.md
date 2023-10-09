@@ -26,7 +26,7 @@ summary: >-
   Por su sencillez y humanidad, se ha convertido en uno de los cineastas más
   queridos. Pero, ¿cuáles han sido sus cintas más premiadas?
 ---
-**![](/uploads/pinocho1366-2000.jpeg){: width="1366" height="768"}Guillermo del Toro** es, sin lugar a dudas, el **cineasta mexicano** actual más querido por el público: además de ser un talentoso realizador de **películas** **premiadas** como *La forma del agua* y *Pinocho*, es un ser humano excepcional que no duda ni un momento para beneficiar a alguien que lo necesite, apoyar una causa social o impulsar a otros mexicanos y mexicanas con talento. Pero, además de todo esto, ¿**cuáles son sus mejores películas** según la crítica y qué **premios** se ha llevado?
+**![](blob:https://app.cloudcannon.com/d02c5d24-fde6-4ebb-9063-2ecf41479c26){: width="1366" height="768"}Guillermo del Toro** es, sin lugar a dudas, el **cineasta mexicano** actual más querido por el público: además de ser un talentoso realizador de **películas** **premiadas** como *La forma del agua* y *Pinocho*, es un ser humano excepcional que no duda ni un momento para beneficiar a alguien que lo necesite, apoyar una causa social o impulsar a otros mexicanos y mexicanas con talento. Pero, además de todo esto, ¿**cuáles son sus mejores películas** según la crítica y qué **premios** se ha llevado?
 
 Nos enfocaremos en las tres **cintas** que han sido **nominadas** o recibieron premios tales como los **Oscar** o los **Globos de Oro**, que son reconocimientos mundialmente prestigiados dentro de la industria **cinematográfica**. Porque si se trata de premiar sus obras filantrópicas y de caridad, ¡no alcanzarían los trofeos para premiar su corazón de oro!
 
@@ -34,7 +34,7 @@ Nos enfocaremos en las tres **cintas** que han sido **nominadas** o recibieron p
 
 ## El laberinto del fauno
 
-![](/uploads/el-laberinto-del-fauno-2006-dir-guillermo-del-toro.jpg){: width="752" height="432"}
+![](blob:https://app.cloudcannon.com/b13d8069-7aa8-4e7d-ac77-4ba0fb5cab11){: width="752" height="432"}
 
 Esta película combina el mundo real de la **posguerra española** con un fascinante cuento de hadas. La historia sigue a **Ofelia**, una niña que se encuentra en un siniestro laberinto y descubre un reino mágico habitado por criaturas asombrosas, entre ellas un fabuloso **Fauno**. Mientras lidia con su vida en un mundo lleno de crueldad y violencia, Ofelia debe enfrentar desafíos sobrenaturales para demostrar su valentía y descubrir su verdadero destino.
 
@@ -42,7 +42,7 @@ Esta película combina el mundo real de la **posguerra española** con un fascin
 
 ## La forma del agua
 
-![](/uploads/forma-agua-pelicula-r0e1smdvddcbgcp18naqdeo-1248x770-las-provincias.png){: width="1248" height="770"}
+![](blob:https://app.cloudcannon.com/746131a9-c796-45c8-9ad9-cd90845f9f3d){: width="1248" height="770"}
 
 Esta es una **película** que, literalmente, "te sumerge" en un mundo de fantasía y romance. Ambientada en la década de 1960 en plena Guerra Fría, la historia sigue a **Elisa**, una mujer muda que trabaja en un laboratorio de alta seguridad y que forma un vínculo especial con una **criatura marina** capturada. Su relación, que trasciende las palabras y se convierte en una **historia de amor**, es una aventura mágica que desafía las barreras y prejuicios de la sociedad.
 
@@ -50,7 +50,7 @@ Esta es una **película** que, literalmente, "te sumerge" en un mundo de fantas�
 
 ## Pinocho
 
-![](/uploads/pinocho1366-2000.jpeg){: width="1366" height="768"}
+![](blob:https://app.cloudcannon.com/3b910f43-0817-474e-91c1-cf157c4e9d60){: width="1366" height="768"}
 
 A diferencia de la versión de Disney, esta versión mágica y diferente del clásico cuento de Carlo Collodi presenta un enfoque más oscuro y enigmático, llevando a los espectadores a un mundo lleno de criaturas fantásticas y misterio. La historia sigue a **Geppetto**, un anciano titiritero que acaba de perder a su hijo por culpa del fascismo en Italia, y a **Pinocho**, un muñeco de madera que cobra vida y enfrenta desafíos en su búsqueda por convertirse en un niño de verdad.
 
