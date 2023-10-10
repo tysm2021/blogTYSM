@@ -28,7 +28,7 @@ summary: >-
 ---
 Los **nopales** y otras **cactáceas** forman parte de la flora típica del centro y del norte de **México**. Su importancia dentro del cultivo y la alimentación de millones de mexicanos se ve reflejada en las múltiples menciones y representaciones que del nopal, las tunas y hasta sus espinas se hacen dentro del arte, los símbolos nacionales, los refranes y las expresiones populares de nuestro querido país.
 
-En el Dí Nacional de las Cactáceas, revisemos cinco ejemplos que dejan claro que el folclor mexicano está salpicado de ideas y expresiones "espinosas" en las que los nopales y sus frutos llevan el papel protagónico.
+En el **Día Nacional de las Cactáceas**, revisemos cinco ejemplos que dejan claro que el folclor mexicano está salpicado de ideas y expresiones "espinosas" en las que los nopales y sus frutos llevan el papel protagónico.
 
 **TE RECOMENDAMOS:&nbsp;[Xoconostle: el colorido fruto del nopal, sus usos y beneficios](https://blog.tonoysumariachi.com/gastronomia/2022/11/29/xoconostle-el-colorido-fruto-del-nopal-sus-usos-y-beneficios.html){: target="_blank" rel="noopener"}.**
 
