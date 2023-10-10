@@ -16,7 +16,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-camilosesto.png
+    src: /uploads/nopal-con-tunas-en-teotihuacan.jpeg
 sharing: true
 author: Redacción TYSM
 cover: /uploads/nopal-con-tunas-en-teotihuacan.jpeg
