@@ -34,7 +34,9 @@ A continuación, te contamos cinco datos sorprendentes sobre Cristóbal Colón, 
 
 ## 1\. No se llamaba Cristóbal Colón
 
-Aunque Colón sigue siendo una figura histórica prominente en todo el mundo y se ha investigado y escrito sobre él durante siglos, hay muchos detalles de su vida que aún son un misterio. Muchos estudiosos coinciden en que nació en Génova, que ahora forma parte de Italia, aunque hay teorías de que pudo haberse originado en España o incluso en Polonia o Grecia. En italiano se le conoce como Cristoforo Colombo, que durante mucho tiempo se pensó que era su nombre de nacimiento, y en español como Cristóbal Colón. Pero él y otros también se han referido a él como Christoual, Christovam, Christofferus de Colombo e incluso Xpoual de Colón. Incluso existe la teoría de que adoptó el nombre de un pirata llamado Colombo.
+Aunque **Colón** sigue siendo una figura histórica prominente en todo el mundo y se ha investigado y escrito sobre él durante siglos, hay muchos detalles de su vida que aún son un misterio. Muchos estudiosos coinciden en que nació en Génova —ahora parte de Italia—, aunque hay teorías de que pudo provenir de España o incluso de Polonia o Grecia. En italiano se le conoce como *Cristoforo Colombo*, que durante mucho tiempo se pensó que era su nombre de nacimiento y se tradujo al español como **Cristóbal Colón**. Pero él mismo y otros también se referieron a él como *Christoual*, *Christovam*, *Christofferus de Colombo*&nbsp;o hasta&nbsp;*Xpoual* de Colón. Incluso existe la teoría de que fue huérfano y adoptó el nombre de un pirata llamado **Colombo**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/846px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg)
 
 ## 2\. Sus carabelas tenían otros nombres
 
