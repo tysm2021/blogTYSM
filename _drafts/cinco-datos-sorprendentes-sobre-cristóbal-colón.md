@@ -19,7 +19,7 @@ article_header:
     src: /uploads/1024-colon1.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/1024-colon1.jpg
 show_author_profile: false
 comment: false
 summary: >-
@@ -30,4 +30,4 @@ Desde muy niños aprendimos que, la mañana del **12 de octubre de 1492**, un na
 
 A continuación, te contamos cinco datos sorprendentes sobre Cristóbal Colón, sus viajes, sus barcos, sus hijos y algunos otros aspectos de su vida. Embarquémonos en esta travesía en el tiempo y viajemos cinco siglos al pasado…
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: [¿Dónde está la tumba de Hernán Cortés?](https://blog.tonoysumariachi.com/historia/2022/06/14/donde-esta-la-tumba-de-hernan-cortes.html){: target="_blank" rel="noopener"}**
