@@ -17,7 +17,7 @@ article_header:
     src: /uploads/1012px-cempasuchil-mexicano.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/1012px-cempasuchil-mexicano.jpeg
 show_author_profile: false
 comment: false
 summary: >-
