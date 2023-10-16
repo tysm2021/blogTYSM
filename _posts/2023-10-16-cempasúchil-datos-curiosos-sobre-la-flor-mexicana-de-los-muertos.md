@@ -52,10 +52,7 @@ Después de la temporada de lluvias, desde finales de septiembre la **flor** de 
 
 En cuanto al **cultivo** y la **producción** de la **flor** de **cempasúchil**, el estado de **Puebla** ocupa el primer lugar: tan sólo en 2019 la producción en ese estado superó las 14 mil 900 toneladas, y sus campos se convierten en un atractivo turístico en ciudades como **Cholula** o **Atlixco**. En el mundo, se cultiva en diversos lugares como África o los Estados Unidos.
 
-> 😍 Los campos de [\#Cholula](https://twitter.com/hashtag/Cholula?src=hash&amp;ref_src=twsrc%5Etfw) ya están coloridos con la hermosa flor de Cempasúchil 😍<br><br>Vía [@PueblaEsChula](https://twitter.com/PueblaEsChula?ref_src=twsrc%5Etfw):[pic.twitter.com/1pKUJuB8o3](https://t.co/1pKUJuB8o3)
->
-> — Webcams de México (@webcamsdemexico) [October 7, 2018](https://twitter.com/webcamsdemexico/status/1048759822743560192?ref_src=twsrc%5Etfw)
-{: .twitter-tweet}
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">😍 Los campos de <a href="https://twitter.com/hashtag/Cholula?src=hash&amp;ref_src=twsrc%5Etfw">#Cholula</a> ya están coloridos con la hermosa flor de Cempasúchil 😍 <br><br>Vía <a href="https://twitter.com/PueblaEsChula?ref_src=twsrc%5Etfw">@PueblaEsChula</a>:<a href="https://t.co/1pKUJuB8o3">pic.twitter.com/1pKUJuB8o3</a></p>&mdash; Webcams de México (@webcamsdemexico) <a href="https://twitter.com/webcamsdemexico/status/1048759822743560192?ref_src=twsrc%5Etfw">October 7, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Tiene usos medicinales
 
