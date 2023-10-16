@@ -32,7 +32,7 @@ A continuación, te presentamos algunos **datos curiosos** sobre esta flor típi
 
 ### Su nombre significa "flor de veinte pétalos".
 
-La **flor** de **cempasúchil** es originaria de México y su nombre proviene de la palabra náhuatl *cempohualxóchitl* que significa: **"flor de 20 pétalos"**. En la época prehispánica, los mexicas asociaban el color **amarillo** de esta **flor** con el Sol, que era una de sus deidades principales; por ello, la utilizaban en los altares, ofrendas y entierros dedicados a sus muertos.
+La **flor** de **cempasúchil** es originaria de México y su nombre proviene de la palabra náhuatl *cempohualxóchitl* que significa: **"flor de 20 pétalos"**. En la época&nbsp; prehispánica, los mexicas asociaban el color **amarillo** de esta **flor** con el Sol, que era una de sus deidades principales; por ello, la utilizaban en los altares, ofrendas y entierros dedicados a sus muertos.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Aztec_Marigold_Tagetes_erecta.jpg/813px-Aztec_Marigold_Tagetes_erecta.jpg)
 
@@ -42,4 +42,27 @@ Además de las distintas formas de escribir su nombre en **náhuatl**, desde el 
 
 ### Florece en otoño
 
-Después de la temporada de lluvias, desde finales de septiembre la flor de cempasúchil llega a tiempo para decorar con sus vivos tonos amarillos y anaranjados una de las tradiciones más representativas de México: el Día de Muertos. Su presencia anuncia la baja en temperaturas, así como días más cortos y oscuros, una temporada que se asocia con la melancolía que trae el recuerdo de quienes ya no están, pero que por un día o dos —según la tradición— regresan para estar con los vivos.
+Después de la temporada de lluvias, desde finales de septiembre la **flor** de **cempasúchil** llega a tiempo para decorar con sus vivos tonos amarillos y anaranjados una de las tradiciones más representativas de **México**: el **Día de Muertos**. Su presencia anuncia la baja en temperaturas, así como días más cortos y oscuros, una temporada que se asocia con la melancolía que trae el recuerdo de quienes ya no están, pero que por un día o dos —según la tradición— regresan para estar con los vivos.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Campos_de_Cempas%C3%BAchil.jpg/1024px-Campos_de_Cempas%C3%BAchil.jpg)
+
+**TE RECOMENDAMOS: [El delicioso pan de muerto: origen, historia y significado.](https://blog.tonoysumariachi.com/gastronomia/2022/09/26/el-delicioso-pan-de-muerto-origen-historia-y-significado.html)**
+
+### Se produce principalmente en Puebla
+
+En cuanto al **cultivo** y la **producción** de la **flor** de **cempasúchil**, el estado de **Puebla** ocupa el primer lugar: tan sólo en 2019 la producción en ese estado superó las 14 mil 900 toneladas, y sus campos se convierten en un atractivo turístico en ciudades como **Cholula** o **Atlixco**. En el mundo, se cultiva en diversos lugares como África o los Estados Unidos.
+
+> 😍 Los campos de [\#Cholula](https://twitter.com/hashtag/Cholula?src=hash&amp;ref_src=twsrc%5Etfw) ya están coloridos con la hermosa flor de Cempasúchil 😍<br><br>Vía [@PueblaEsChula](https://twitter.com/PueblaEsChula?ref_src=twsrc%5Etfw):[pic.twitter.com/1pKUJuB8o3](https://t.co/1pKUJuB8o3)
+>
+> — Webcams de México (@webcamsdemexico) [October 7, 2018](https://twitter.com/webcamsdemexico/status/1048759822743560192?ref_src=twsrc%5Etfw)
+{: .twitter-tweet}
+
+### Tiene usos medicinales
+
+Además de usarla para embellecer los altares de **Muertos**, nuestros antepasados por siglos la han usado para aminorar los malestares del **vómito**, la **indigestión** y **diarrea**, mediante infusiones o pócimas que se elaboran con sus pétalos; también se usa para combatir la **fiebre** y tratar enfermedades respiratorias como la **tos**. En algunos estados, en cambio, se emplea en preparaciones para sanar **problemas de la piel** como verrugas, salpullido y llagas, entre otros.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tagetes_Erecta_en_el_Centro_de_Jalpan_De_Serra.jpg/768px-Tagetes_Erecta_en_el_Centro_de_Jalpan_De_Serra.jpg)
+
+### Se usa como colorante
+
+Del color amarillo vivo con tintes anaranjados de sus pétalos se obtienen **colorantes naturales** para teñir objetos, prendas o alimentos; en la avicultura, se usa para alimentar a las aves, con el fin de resaltar la coloración amarilla en la yema de los huevos, y también es la materia prima para elaborar algunas cervezas artesanales, nieves o aderezar un buen pulque.
