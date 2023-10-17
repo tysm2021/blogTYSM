@@ -19,7 +19,7 @@ article_header:
     src: /uploads/1024px-tlahuepulchis.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/1024px-tlahuepulchis.jpg
 show_author_profile: false
 comment: false
 summary: >-
@@ -30,4 +30,4 @@ Algunos piensan que las leyendas de **vampiros** **chupasangre** llegaron a nues
 
 Recuerda que muchas leyendas y otros aspectos del folclor de nuestro país, aunque carecen de bases científicas o históricas, a lo largo de los siglos conforman narraciones culturales heredadas de generación en generación que sirven para intentar explicar fenómenos inexplicables para mucha gente, tales como la muerte súbita o muerte de cuna en los bebés.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: [El Chupacabras: origen y versiones de la sangrienta leyenda.](https://blog.tonoysumariachi.com/mexicanisimos/2022/11/14/el-chupacabras-origen-y-versiones-de-la-sangrienta-leyenda.html){: target="_blank" rel="noopener"}**
