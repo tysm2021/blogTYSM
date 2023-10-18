@@ -26,7 +26,7 @@ summary: >-
   En el folclor y las leyendas del estado de Tlaxcala, estas son mujeres que han
   sufrido una maldición y tienen poderes sobrenaturales…
 ---
-Algunos piensan que las leyendas de **vampiros** **chupasangre** llegaron a nuestras tierras en siglos recientes e importadas desde Europa, donde en sitios tétricos como Transilvania, en Rumania, que según la leyenda es el hogar del Conde Drácula, prototipo del **vampiro** popularizado en las películas de terror. Pero dentro del **folclor** de México, particularmente en el estado de **Tlaxcala**, también existen **leyendas** sobre una clase de **mujeres** que tienen el don del **nahualismo** —es decir, de convertirse en algunos animales a voluntad— y, ayudadas por sus **poderes sobrenaturales**, por las noches salen a robar niños y cometer otras tropelías. Se les llama Tlahuepulchis o **Tlahuilpuchis**, y esta es su historia.
+Algunos piensan que las leyendas de **vampiros** **chupasangre** llegaron a nuestras tierras en siglos recientes e importadas desde Europa, donde en sitios tétricos como Transilvania, en Rumania, que según la leyenda es el hogar del Conde Drácula, prototipo del **vampiro** popularizado en las películas de terror. Pero dentro del **folclor** de México, particularmente en el estado de **Tlaxcala**, también existen **leyendas** sobre una clase de **mujeres** que tienen el don del **nahualismo** —es decir, de convertirse en algunos animales a voluntad— y, ayudadas por sus **poderes sobrenaturales**, por las noches salen a robar niños y cometer otras tropelías. Se les llama **Tlahuepulchis** o **Tlahuilpuchis**, y esta es su historia.
 
 Recuerda que muchas leyendas y otros aspectos del **folclor** de nuestro país, aunque carecen de bases científicas o históricas, a lo largo de los siglos conforman narraciones culturales heredadas de generación en generación que sirven para intentar explicar fenómenos inexplicables para mucha gente, tales como la muerte súbita o muerte de cuna en los bebés.
 
@@ -42,7 +42,7 @@ La leyenda de las **Tlahuepulchis** tiene profundas raíces en la historia de Tl
 
 Otro de sus poderes sobrenaturales consiste en la capacidad de llevar a sus víctimas a la **locura** o hasta el **suicidio** a través del **control mental**: las narraciones señalan que la persona comienza a sentir mucho cansancio y pesadez, es consciente de estar despierto pero no tiene control de sus movimientos, de modo que poco a poco se conduce ella misma hacia su muerte.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q7-nRR01VpU?si=YchUWOqqUDy5LkeZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q7-nRR01VpU?si=YchUWOqqUDy5LkeZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Según la tradición popular, se dice que para protegerse de las **Tlahuepulchis** se deben cruzar ciertos objetos como obstáculos: espinas de sábila, maíz o ajos, así como tijeras o agujas puestas en formas de cruz, pues al parecer estas criaturas temen al metal. Los amuletos y objetos sagrados también se utilizan como defensa contra estas criaturas. Los pobladores de Tlaxcala creían que con estas protecciones podían mantener a raya a las vampiras.
 
