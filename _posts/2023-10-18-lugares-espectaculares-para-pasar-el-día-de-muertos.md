@@ -74,6 +74,4 @@ En la región del Mayab, el **Día de Muertos** se conoce como **Hanal Pixán**,
 > — LCC: GABRIEL MAGAÑA (@GabrielMagana87) [October 11, 2023](https://twitter.com/GabrielMagana87/status/1711973999347995024?ref_src=twsrc%5Etfw)
 {: .twitter-tweet}
 
-
-
 Cada región de México tiene su propia forma de celebrar el Día de Muertos, lo que hace que esta festividad sea diversa y enriquecedora. Sea cual sea tu elección, ten por seguro que experimentarás la riqueza de la cultura mexicana en todo su esplendor.&nbsp;
