@@ -19,10 +19,11 @@ article_header:
     src: /uploads/calaveras-de-azucar-xii.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/calaveras-de-azucar-xii.jpeg
 show_author_profile: false
 comment: false
 summary: >-
   Durante el mes de octubre es posible conseguir estos dulces tradicionales que
   forman parte de las ofrendas y altares de Muertos: conoce su historia.
 ---
+Un elemento infaltable en los Altares y Ofrendas de Muertos son las dulces calaveritas de azúcar, que son postres he
