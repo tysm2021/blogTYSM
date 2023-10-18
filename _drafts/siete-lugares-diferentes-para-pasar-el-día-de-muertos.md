@@ -1,5 +1,5 @@
 ---
-title: Siete lugares espectaculares para pasar el Día de Muertos
+title: Lugares espectaculares para pasar el Día de Muertos
 date: 2023-10-18 18:00:00
 categories:
   - TURISMO
@@ -61,16 +61,16 @@ En la hermosa región de la **Huasteca Potosina**, el **Día de Muertos** se cel
 
 **TE RECOMENDAMOS: [Santuarios religiosos para visitar en México.](https://blog.tonoysumariachi.com/turismo/2022/07/15/santuarios-religiosos-para-visitar-en-mexico.html){: target="_blank" rel="noopener"}**
 
-## El Altar de Muertos Gigante
+## Aguascalientes, Ags.
 
-Aguascalientes se luce con un altar de muertos gigante ubicado en el centro histórico de la ciudad. Este espectacular montaje se compone de más de 120 ofrendas que representan la esencia de las festividades en todo el país. Es una oportunidad única para conocer las diferentes tradiciones de México en un solo lugar. Las calles de Aguascalientes se llenan de música, danza y alegría durante esta época.
+En estas fechas mortuorias, la ciudad de **Aguascalientes** se luce con una gran cantidad de&nbsp;**Altares de Muertos**&nbsp;que se instalan en diversos edificios y establecimientos del Centro Histórico de la ciudad. Los más comunes son los **altares de siete niveles**, que simbolizan los pasos necesarios para llegar al Cielo y así poder alcanzar la paz eterna: también existen de dos niveles, que representan el Cielo y la Tierra, y el de tres que añade el concepto del Purgatorio. Este espectacular montaje se compone de decenas de ofrendas que representan la esencia de las festividades en todo el país, y es una oportunidad única para conocer diversas tradiciones de México en un solo lugar.
 
-## La Ofrenda Monumental
+![](/uploads/agsaltar-ofrenda-diademuertos.jpeg){: width="768" height="479"}
 
-En el norte de México, Ciudad Juárez se distingue por su monumental ofrenda de Día de Muertos, que se coloca en el Museo de la Revolución en la Frontera (MUREF). La ofrenda cuenta con elementos regionales, como la música norteña y el folclore de la Revolución Mexicana, que se combinan con las tradiciones de Día de Muertos. La fusión de culturas y tradiciones enriquece esta celebración.
+## Mérida, Yuc.
 
-## El Hanal Pixán en Mérida
+En la región del Mayab, el **Día de Muertos** se conoce como **Hanal Pixán**, que en maya significa "comida de las ánimas". Y en **Mérida**, la "ciudad blanca" y capital del estado, podrás experimentar esta festividad en su máxima expresión. La tradición incluye varios ritos, pero el principal consiste en poner un altar alumbrado con velas de cera cerca de las sepulturas de los familiares, donde se coloca comida típica de la temporada: atole nuevo, pibes o *mucbipollos*, jícamas, mandarinas, naranjas, *xec* —una mezcla hecha con naranja, mandarina, jícama y otras frutas, así como chile molido—, tamales de x’pelón, vaporcitos y balché, una bebida embriagante, así como pan dulce y jícaras del sabroso *tan-chucuá*: un atole que se fabrica con masa de maíz, cacao, pimienta y anís). Todo eso adornado con veladoras, flores, ramas de ruda y las fotografías de las personas fallecidas.
 
-En la región de Yucatán, el Día de Muertos se conoce como Hanal Pixán, que significa "comida de las ánimas". En Mérida, la capital del estado, podrás experimentar esta festividad en su máxima expresión. Los cementerios se iluminan con velas, y las familias se reúnen alrededor de las tumbas para disfrutar de deliciosos platillos tradicionales. La mezcla de elementos mayas y españoles da lugar a una celebración única en el país.
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Así es como se debería de decorarse un altar de Hanal Pixán. 🍁🍂💀💀🏵 <a href="https://t.co/5EYVwH85lw">pic.twitter.com/5EYVwH85lw</a></p>&mdash; LCC: GABRIEL MAGAÑA (@GabrielMagana87) <a href="https://twitter.com/GabrielMagana87/status/1711973999347995024?ref_src=twsrc%5Etfw">October 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Cada región de México tiene su propia forma de celebrar el Día de Muertos, lo que hace que esta festividad sea diversa y enriquecedora. Sea cual sea tu elección, ten por seguro que experimentarás la riqueza de la cultura mexicana en todo su esplendor. ¡Feliz Día de Muertos!
