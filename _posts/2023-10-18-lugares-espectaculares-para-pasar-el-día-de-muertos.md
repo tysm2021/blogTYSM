@@ -1,6 +1,6 @@
 ---
 title: Lugares espectaculares para pasar el Día de Muertos
-date: 2023-10-18 18:00:00
+date: 2023-10-18 07:05:00
 categories:
   - TURISMO
 tags:
