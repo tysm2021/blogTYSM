@@ -1,13 +1,13 @@
 ---
 title: 'Macario: la historia de una película sobre la muerte'
-date: 2022-06-07 00:00:00 UTC
+date: 2022-06-07 00:00:00
 categories:
-- CULTURA
+  - CULTURA
 tags:
-- cine
-- películas
-- artes
-- muertos
+  - cine
+  - películas
+  - artes
+  - muertos
 author: Redacción TYSM
 layout: article
 excerpt_separator: <!--more-->
@@ -19,20 +19,15 @@ article_header:
   image:
     src: /images/2022-06-07-macario1.jpg
 sharing: true
-summary: Un campesino hambriento conoce a Dios, al Diablo y a la muerte en esta película,
-  calificada como una de las mejores del cine mexicano.
-cover: "/images/2022-06-07-macario1.jpg"
+summary: >-
+  Un campesino hambriento conoce a Dios, al Diablo y a la muerte en esta
+  película, calificada como una de las mejores del cine mexicano.
+cover: /images/2022-06-07-macario1.jpg
 show_author_profile: false
 comment: false
 _template: plantilla
 ---
-
-
-
-
-
-
-Los críticos coinciden que **_Macario_** es una de las mejores **películas** de todos los tiempos del **cine mexicano**, tanto por la gran actuación de **Ignacio López Tarso**, como por su argumento y por su espléndida fotografía. Además, por su temática es un clásico para ver en fechas cercanas al **Día de Muertos**.
+Los críticos coinciden que ***Macario*** es una de las mejores **películas** de todos los tiempos del **cine mexicano**, tanto por la gran actuación de **Ignacio López Tarso**, como por su argumento y por su espléndida fotografía. Además, por su temática es un clásico para ver en fechas cercanas al **Día de Muertos**.
 
 Hoy te platicamos de este clásico de nuestro **cine** que, además de todo, fue la primera película mexicana en ser nominada al **Oscar** en la categoría de **Mejor Película**.
 
@@ -52,4 +47,6 @@ La película fue estrenada en 1960. La dirección estuvo a cargo de **Roberto Ga
 
 En los papeles principales estuvieron **Ignacio López Tarso** (Macario), Pina Pellicer (la esposa), Enrique Lucero (la **Muerte**), Mario Alberto Rodríguez (don Ramiro), José Gálvez (el Diablo), José Luis Jiménez (Dios) y Eduardo Fajardo (el Virrey).
 
-La cinta está considerada entre las 100 mejores películas del cine mexicano, e incluso fue la primera producción mexicana en ser nominada al Premio de la Academia como **Mejor Película** Extranjera. Por su fuera poco, también estuvo nominada a la Palma de Oro en el prestigiado **Festival de Cannes**. Y tú, ¿qué dices? ¿Ya la viste o te dieron ganas de verla?…
+La cinta está considerada entre las 100 mejores películas del cine mexicano, e incluso fue la primera producción mexicana en ser nominada al Premio de la Academia como **Mejor Película** Extranjera. Por su fuera poco, también estuvo nominada a la Palma de Oro en el prestigiado **Festival de Cannes**. Y tú, ¿qué dices? ¿Ya la viste o te dieron ganas de verla? P'os 'ora es cuando:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-0QWddgPMc?si=WSHGB7Eoe1wjBPOv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
