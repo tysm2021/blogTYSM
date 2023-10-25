@@ -19,7 +19,7 @@ article_header:
     src: /uploads/dia-de-muertos-altar.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/dia-de-muertos-altar.jpeg
 show_author_profile: false
 comment: false
 summary: >-
