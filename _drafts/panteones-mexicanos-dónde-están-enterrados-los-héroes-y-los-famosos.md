@@ -20,10 +20,10 @@ article_header:
       /uploads/guadalajara-mexico-rotonda-hombres-jalicienses-ilustres-noche.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/guadalajara-mexico-rotonda-hombres-jalicienses-ilustres-noche.jpeg
 show_author_profile: false
 comment: false
 summary: >-
-  Desde mediados del siglo XX, una serie de artistas y cantantes españoles
-  emprendieron la "reconquista" del público mexicano
+  Una tradición de Día de Muertos consiste en visitar a los seres queridos que
+  ya no están en panteones y cementerios. Aquí algunos de ellos.
 ---
