@@ -53,4 +53,26 @@ Destaca la historia del payaso inglés **Richard Bell**, que fue muy exitoso a p
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pante%C3%B3n_Ingl%C3%A9s%2C_Real_del_Monte%2C_Hidalgo%2C_M%C3%A9xico%2C_2013-10-10%2C_DD_05.JPG/1024px-Pante%C3%B3n_Ingl%C3%A9s%2C_Real_del_Monte%2C_Hidalgo%2C_M%C3%A9xico%2C_2013-10-10%2C_DD_05.JPG)
 
-Panteón de Dolores
+## Rotonda de los Jaliscienses Ilustres
+
+**Guadalajara, Jal.**
+
+No es exactamente un **panteón** o un **cementerio**, pero podemos tomarla como tal: se trata de un momento público ubicado en una céntrica glorieta de la Perla Tapatía, en pleno Centro Histórico y rodeada por el Palacio Municipal, el Museo Regional y la Catedral. Fue construida en 1952 y ahí descansan los restos de mujeres y hombres nacidos en el estado de Jalisco.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rotonda_de_los_Jaliscienses_Ilustres.jpg/1024px-Rotonda_de_los_Jaliscienses_Ilustres.jpg)
+
+## Panteón de San Fernando
+
+**CDMX**
+
+Ubicado en el Centro Histórico de la capital, junto a la **Iglesia de San Fernando**, es uno de los cementerios más antiguos del país, ya que su historia se remonta a 1832, cuando inició su construcción ante la saturación de tumbas en las iglesias cercanas. Fue el más popular del siglo XIX y algún tiempo funcionó como **Panteón de Hombres Ilustres**: durante ese periodo, aquí fueron enterrados Ignacio Zaragoza, Miguel Lerdo de Tejada, Ignacio Comonfort y el presidente **Benito Juárez**, aunque después muchos de ellos fueron trasladados a la Rotonda de las Personas Ilustres o a otros monumentos públicos. Actualmente, el **Panteón de San Fernando** es famoso porque, los fines de semana, en sus afueras se instala un nutrido tianguis de venta e intercambio de libros viejos, raros y de medio uso.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sn_Fernando_y_Juarez.JPG/1024px-Sn_Fernando_y_Juarez.JPG)
+
+## Panteón de los Queretanos Ilustres
+
+**Querétaro, Qro.**
+
+Por último, está este **cementerio** que tiene un gran valor histórico, pues la ciudad de Querétaro ha sido escenario de episodios decisivos de la historia de México: la conspiración que dio origen a la Independencia, el juicio y el fusilamento del emperador Maximiliano, junto con Miramón y Mejía, y la promulgación de la Constitución que nos rige. No es de extrañar, entonces, que en este **Panteón** estén enterrados personajes de la talla de "La Corregidora", doña Josefa Ortiz de Domínguez, y su esposo, don Miguel Domínguez.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pante%C3%B3n_de_los_Queretanos_Ilustres_-_Santiago_de_Quer%C3%A9taro%2C_M%C3%A9xico.jpg/1024px-Pante%C3%B3n_de_los_Queretanos_Ilustres_-_Santiago_de_Quer%C3%A9taro%2C_M%C3%A9xico.jpg)
