@@ -15,7 +15,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-camilosesto.png
+    src: /uploads/engin-akyurt-sxybsbi7qbk-unsplash.jpeg
 sharing: true
 author: Redacción TYSM
 cover: /uploads/engin-akyurt-sxybsbi7qbk-unsplash.jpeg
@@ -35,32 +35,36 @@ El **Día de los Muertos**, esa hermosa y conmovedora festividad mexicana que ho
 
 ### Toma en cuenta la fecha
 
-De acuerdo con tradiciones mexicanas recientes, las almas de las **mascotas muertas** son las primeras en llegar al plano de los vivos, lo cual tiene lugar el 27 de octubre, cuando —se dice — las mascotas "cruzan el arcoíris"; por eso, en esta fecha tu altar ya deberá de estar listo para recibir a tu *firulais* o tu *michi* que se adelantó en el camino.
+De acuerdo con tradiciones mexicanas recientes, las almas de las **mascotas muertas** son las primeras en llegar al plano de los vivos, lo cual tiene lugar el&nbsp;**27 de octubre**, cuando —se dice — las mascotas "cruzan el Puente del Arco Iris; por eso, en esta fecha tu altar ya deberá de estar listo para recibir a tu *firulais* o tu *michi* que se adelantó en el camino.
 
 ### Crea tu altar especial
 
-Al igual que para nuestros familiares, puedes montar un pequeño altar para tus mascotas. Coloca una foto de ellos, velas, flores y algún objeto que les perteneciera. Enciende una vela en su memoria y cuéntales lo mucho que los extrañas.
+Al igual que para nuestros familiares, puedes montar un pequeño **altar** para tus **mascotas**. Coloca una foto de ellos, velas, flores y algún objeto que les perteneciera. Enciende una vela en su memoria y cuéntales lo mucho que los extrañas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Calavera_de_un_perro.jpg/1024px-Calavera_de_un_perro.jpg)
 
 ### Prepara sus platillos favoritos
 
-Recordar a tus mascotas a través de la comida es una forma hermosa de honrarlas. Prepara sus platillos favoritos y colócalos en el altar. Es una manera de compartir nuevamente momentos especiales.
+Recordar a tus **mascotas** a través de la **comida** es una forma hermosa de honrarlas. Prepara o compra sus platillos favoritos y colócalos en el altar. Es una manera de compartir nuevamente momentos especiales y de recordar los hermosos momentos que vivieron juntos.
 
 ### Coloca sus juguetes o accesorios
 
-Si tenían juguetes, correas, o camitas, colócalos en el altar. Además, donar estos objetos a refugios de animales puede ser una forma conmovedora de compartir el amor de tu mascota con otros animalitos necesitados.
+Si conservas sus **juguetes**, **collares** o camitas, colócalos en el altar. Esos objetos, si lo piensas, estuvieron mucho tiempo en contacto con tu **mascota** y hasta cierto punto guardan parte de su esencia; por eso, colocarlos en tu ofrenda será una forma de convocar al alma de tu peludo para que pasen un tiempo juntos.
 
 **TE RECOMENDAMOS: [El Día de Muertos, ¿realmente es prehispánico?](https://blog.tonoysumariachi.com/mexicanisimos/2022/10/11/el-dia-de-muertos-realmente-es-prehispanico.html){: target="_blank" rel="noopener"}**
 
 ### Visita su lugar de descanso
 
-Si tus mascotas están enterradas en tu hogar, realiza una visita especial el Día de los Muertos. Lleva flores, platillos o simplemente siéntate en silencio a su lado para recordarlos. Plantar un árbol o flores en su honor puede ser una manera hermosa de ver crecer y florecer la vida en su memoria. Cada vez que mires el árbol o las flores, pensarás en ellos.
+Si tu **mascota** está enterrada en tu hogar, realiza una visita especial el **Día de los Muertos**. Llévale flores, velas, un platillo o, simplemente, siéntate en silencio a su lado para recordarlos. También puedes plantar un árbol o flores en ese sitio, es un modo hermoso de hacer florecer la vida en su memoria. Cada vez que mires el árbol o las flores, pensarás en ellos.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tierfriedhof_M%C3%BCnchen_Obermenzing_03.jpg/1024px-Tierfriedhof_M%C3%BCnchen_Obermenzing_03.jpg)
 
 ### Comparte sus historias
 
-Reúnete con amigos o familiares y comparte historias graciosas y conmovedoras sobre tus mascotas. Recordar juntos los momentos felices puede ser reconfortante.
+Reúnete con amigos o familiares y comparte historias graciosas y conmovedoras sobre tus **mascotas**. Recordar juntos los momentos felices puede ser reconfortante.
 
 ### Dona en su nombre
 
-Realizar donaciones a refugios de animales o a organizaciones benéficas en nombre de tu mascota es una forma de extender su legado y ayudar a otros animales en su honor.
+Toda vez que estés listo o lista para separarte de ellos, regala sus objetos de uso —collares, ropa, croquetas, etc.— a refugios de animales necesitados. Estas donaciones benéficas en nombre de tu **mascota** es una forma de extender su legado y ayudar a otros animales en su honor.
 
 El **Día de los Muertos** es una celebración que nos permite sanar y mantener vivos los recuerdos de aquellos que amamos. Nuestras **mascotas** son parte esencial de nuestras vidas y honrarlas en esta festividad es una forma hermosa de mantener su memoria viva. Aunque ya no estén físicamente con nosotros, su amor y alegría siempre seguirá iluminando nuestras vidas.
