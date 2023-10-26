@@ -46,10 +46,8 @@ Actualmente, el Museo de las Momias de Guanajuato cuenta con 111 cuerpos de muje
 
 El **Museo de las Momias** se localiza en la explanada del **Panteón de Santa Paula**. Antes de su existencia,&nbsp; las momias descubiertas se iban almacenando en las catacumbas, las cuales podían ser visitadas acompañados por el sepulturero y descendiendo por una escalera de caracol. Los cuerpos momificados se encontraban de pie, recargados en los muros de las catacumbas, de modo que los visitantes pasaban por el centro e incluso podían tocarlos. Tras el estreno de la famosa película de El Santo, la cantidad de visitantes aumentó drásticamente y fue necesaria la construcción de un museo para albergar y preservar adecuadamente a las **momias**.
 
-El **horario** del **Museo** es: de lunes a jueves de 9:00 a&nbsp;18:00 hrs.; viernes a domingo de 9:00 a&nbsp;18:30 hrs. La **entrada** general tiene un costo de $ 97.00 pesos para adultos, $ 56.00 pesos para estudiantes, maestros y menores de 12 años, y de $ 28.00 para adultos mayores de 60 años. Los residentes de la ciudad de Guanajuato, previa acreditación, entran gratis; y el uso de cámara fotográfica o de video es de $34.00
+El **horario** del **Museo** es: de lunes a jueves de 9:00 a 18:00 hrs.; viernes a domingo de 9:00 a 18:30 hrs. La **entrada** general tiene un costo de $ 97.00 pesos para adultos, $ 56.00 pesos para estudiantes, maestros y menores de 12 años, y de $ 28.00 para adultos mayores de 60 años. Los residentes de la ciudad de Guanajuato, previa acreditación, entran gratis; y el uso de cámara fotográfica o de video es de $34.00
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TicketsMomiasGTO.JPG/1024px-TicketsMomiasGTO.JPG)
-
-
 
 &nbsp;&nbsp;
