@@ -43,7 +43,11 @@ En el México de ayer, las familias más tradicionales tenían por costumbre bau
 
 Casi todo el mundo —¡y hasta la inteligencia artificial!— afirma sin dudarlo que el gran Agustín Lara nació el **30 de octubre de 1897** en **Tlacotalpan**, **Veracruz**, un hermoso y pintoresco pueblo a la orilla del río Papaloapan. Pero el periodista especializado en música **Jaime Almeida**, luego de una investigación que él mismo realizó, afirma haber visto una fe bautismal del compositor en la que se afirma que el "**Flaco de Oro**" **nació en la Ciudad de México**, en una vecindad del Centro Histórico. Según esto, Lara habría nacido en un lugar llamado el Callejón Puente del Cuervo número 16, que ahora corresponde a la calle de República de Colombia, a unas calles del mercado Abelardo Rodríguez." Lo cierto es que se crió y pasó toda su infancia en **Tlacotalpan**.
 
-El origen de su cicatriz
+## El origen de su cicatriz
+
+María Félix, una actriz admirada por su belleza, cuando estuvo casada con Agustín Lara —que, sin ofender, era flaco y muy feo— afirmaba que le gustaba su cicatriz en la mejilla porque "le daba un aire canalla". Sobre su origen, hay dos versiones: una, que en 1927 Agustín ya estaba trabajando en cabarets y, por razones que no están muy claras, una corista llamada Estrella lo atacó con una botella rota; la otra versión señala como culpable a una mujer de la vida galante y una más señala a un "padrote", pero en los tres casos el móvil habrían sido los celos y el despecho.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wXmKxyfnvvU?si=oTlwmqChrsSNxBki&amp;start=55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Se casó con una de sus hijas
 
