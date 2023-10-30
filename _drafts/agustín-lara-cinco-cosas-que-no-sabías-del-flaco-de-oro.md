@@ -47,8 +47,10 @@ Casi todo el mundo —¡y hasta la inteligencia artificial!— afirma sin dudarl
 
 María Félix, una actriz admirada por su belleza, cuando estuvo casada con Agustín Lara —que, sin ofender, era flaco y muy feo— afirmaba que le gustaba su cicatriz en la mejilla porque "le daba un aire canalla". Sobre su origen, hay dos versiones: una, que en 1927 Agustín ya estaba trabajando en cabarets y, por razones que no están muy claras, una corista llamada Estrella lo atacó con una botella rota; la otra versión señala como culpable a una mujer de la vida galante y una más señala a un "padrote", pero en los tres casos el móvil habrían sido los celos y el despecho.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wXmKxyfnvvU?si=oTlwmqChrsSNxBki&amp;start=55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wXmKxyfnvvU?si=oTlwmqChrsSNxBki&amp;start=55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Se casó con una de sus hijas
+## Se casó con una de sus hijas
+
+¿¿Pero cómo?? Antes de que te dé un soponcio, aclaramos: era un hija adoptiva… pero hija, al fin.
 
 ¿De qué murió?
