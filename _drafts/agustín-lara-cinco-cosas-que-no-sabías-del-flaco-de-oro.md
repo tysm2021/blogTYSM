@@ -51,6 +51,6 @@ María Félix, una actriz admirada por su belleza, cuando estuvo casada con Agus
 
 ## Se casó con una de sus hijas
 
-¿¿Pero cómo?? Antes de que te dé un soponcio, aclaramos: era un hija adoptiva… pero hija, al fin.
+¿¿Pero cómo?? Antes de que te dé un soponcio, aclaramos: era un hija adoptiva… pero hija, al fin. La historia es como sigue: la actriz Chabela Durán decidió dar en adopción a su hija Rocío&nbsp; por falta de recursos económicos y recurrió a su viejo amigo Agustín Lara para que él fuera quien cuidara de la pequeña de 5 años; cuando estuvieron casados, el compositor y María Félix criaron a Rocío Duran sin formalizar la adopción y sin imaginar que, doce años después, que la pequeña Rocío se casaría con su padre adoptivo. Wl polémico matrimonio fue el 28 de junio de 1964 en la Basílica de Guadalupe en Madrid; Rocío de tan sólo 17 años y Agustín, de sesenta.
 
 ¿De qué murió?
