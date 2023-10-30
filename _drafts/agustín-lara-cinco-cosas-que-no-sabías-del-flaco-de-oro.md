@@ -53,4 +53,8 @@ María Félix, una actriz admirada por su belleza, cuando estuvo casada con Agus
 
 ¿¿Pero cómo?? Antes de que te dé un soponcio, aclaramos: era un hija adoptiva… pero hija, al fin. La historia es como sigue: la actriz Chabela Durán decidió dar en adopción a su hija Rocío&nbsp; por falta de recursos económicos y recurrió a su viejo amigo Agustín Lara para que él fuera quien cuidara de la pequeña de 5 años; cuando estuvieron casados, el compositor y María Félix criaron a Rocío Duran sin formalizar la adopción y sin imaginar que, doce años después, que la pequeña Rocío se casaría con su padre adoptivo. Wl polémico matrimonio fue el 28 de junio de 1964 en la Basílica de Guadalupe en Madrid; Rocío de tan sólo 17 años y Agustín, de sesenta.
 
-¿De qué murió?
+## ¿De qué murió?
+
+Nuevamente existen distintas versiones. Por un lado, se afirma que días después de estar en coma —unos dicen que tres, otras hasta 23—, el viernes 6 de noviembre de 1970 murió a causa de insuficiencia cardíaca causada por enfisema pulmonar crónico, lo cual no suena descabellado por los hábitos de tabaquismo del compositor. Sin embargo, otras fuentes citan un derrame cerebral como causa del coma y de la posterior muerte del Flaco de Oro. Como haya sido, el gran músico trascendió solo al otro mundo, pues solamente estaba el médico de guardia del Hospital Inglés; nos queda como herencia su gran legado musical.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XWOhWvltPSA?si=mZ3zlx5Ki6Uyn8KV&amp;start=55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
