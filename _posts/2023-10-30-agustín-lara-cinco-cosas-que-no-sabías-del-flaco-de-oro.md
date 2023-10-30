@@ -1,6 +1,6 @@
 ---
 title: 'Agustín Lara: cinco cosas que no sabías del "Flaco de Oro"'
-date: 2023-10-30 10:00:00
+date: 2023-10-30 08:00:00
 categories:
   - CULTURA
 tags:
