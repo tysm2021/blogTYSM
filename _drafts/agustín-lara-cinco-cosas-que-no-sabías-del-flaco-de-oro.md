@@ -41,7 +41,7 @@ En el México de ayer, las familias más tradicionales tenían por costumbre bau
 
 ## ¿Veracruzano o chilango?
 
-Casi todo el mundo —¡y hasta la inteligencia artificial!— afirma sin dudarlo que el gran Agustín Lara nació el 30 de octubre de 1897 en Tlacotalpan, Veracruz, un hermoso y pintoresco pueblo a la orilla del río Papaloapan. Pero el periodista especializado en música Jaime Almeida, luego de una investigación que él mismo realizó, afirma haber visto una fe bautismal del compositor en la que se afirma que el "Flaco de Oro" nació en la Ciudad de México, en una vecindad del Centro Histórico,
+Casi todo el mundo —¡y hasta la inteligencia artificial!— afirma sin dudarlo que el gran Agustín Lara nació el **30 de octubre de 1897** en **Tlacotalpan**, **Veracruz**, un hermoso y pintoresco pueblo a la orilla del río Papaloapan. Pero el periodista especializado en música **Jaime Almeida**, luego de una investigación que él mismo realizó, afirma haber visto una fe bautismal del compositor en la que se afirma que el "**Flaco de Oro**" **nació en la Ciudad de México**, en una vecindad del Centro Histórico. Según esto, Lara habría nacido en un lugar llamado el Callejón Puente del Cuervo número 16, que ahora corresponde a la calle de República de Colombia, a unas calles del mercado Abelardo Rodríguez." Lo cierto es que se crió y pasó toda su infancia en **Tlacotalpan**.
 
 El origen de su cicatriz
 
