@@ -44,10 +44,24 @@ Las primeras **calaveritas literarias** como las conocemos fueron publicadas en 
 
 La tradición de hacer **calaveritas**&nbsp;inspiradas en las rimas del siglo XIX pasó de generación en generación. Después, en tiempos de la Revolución y junto con las&nbsp;*&nbsp;*&nbsp;**catrinas**, esta forma **literaria** se consagró como un rasgo cultural siempre presente en las festividades del **Día de Muertos**. Aquí te presentamos algunos ejemplos de calaveras famosas:
 
-Calaveras del montón
+### Calaveras del montón
 
 Pasé por la primavera<br>Y me llamó la atención<br>El ver una calavera<br>Que trajeron del panteón.<br>Daba pena y tentación<br>Mirar que pelaba el diente,&nbsp;<br>Era el dueño o el patrón,<br>o sin duda el dependiente \[…\]
 
 Adelante el carnicero<br>En la mano su morcón,<br>Más allá el tocinero,<br>con su hediondo chicharrón.<br>Estos pronto se murieron<br>y se fueron al panteón,<br>calaveras se volvieron,<br>calaveras del montón.
+
+![](https://rafflesc.files.wordpress.com/2013/11/posada4.jpg)
+
+A Emiliano Zapata
+
+Eran los tiempos aquellos<br>los días de la Revolución<br>cuando la muerte se apareció;<br>indecisa estaba pues no sabía<br>si llevarse a uno de la bola<br>o ya de perdisun pelón.
+
+La calaca sentada se reía<br>porque de uno y otro bando<br>a cada minuto<br>alguien caía.
+
+La muerte alzó la vista<br>porque por el camino<br>alguien venía:<br>era mi general Zapata.<br>¡Hey, guapo!, le dijo, ¡acá está tu Adelita!<br>Y mi genera, al verla,<br>se dio cuenta que era la huesuda.
+
+Ya murió Zapata,<br>ya lo llevan a enterrar<br>no lo mató una bala, no lo mató un cañón<br>fue la calavera esa<br>que le gustó ese bigotón.
+
+
 
 <br>​​​
