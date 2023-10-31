@@ -35,7 +35,7 @@ Conozcamos el verdadero origen de la Catrina, algo bueno que conocer en estos d�
 
 El **origen** de **La Catrina** se encuentra justamente en una de estas obras, que terminó siendo la más emblemática de Posada, titulada "**La Calavera Garbancera**". Esta ilustración presentaba a una dama esquelética elegantemente vestida con un sombrero de plumas. En esta figura se burlaba de la clase alta mexicana que, a pesar de su herencia indígena, anhelaba adoptar costumbres europeas y negaba sus raíces culturales. La palabra *garbancera* se utilizaba para referirse despectivamente a los mexicanos que, imitando a los españoles, despreciaban los frijoles por considerarlos "comida del pueblo" y consumían garbanzos.
 
-![](/uploads/calavera-garbancera-periodico.png){: width="793" height="563"}
+![](blob:https://app.cloudcannon.com/0fcbb7c0-f2df-4814-a4cf-293e5c55e362){: width="793" height="563"}
 
 **TE RECOMENDAMOS: [José Guadalupe Posada, el "papá" de la Catrina.](https://blog.tonoysumariachi.com/cultura/2022/06/17/jose-guadalupe-posada-el-papa-de-la-catrina.html){: target="_blank" rel="noopener"}**
 
