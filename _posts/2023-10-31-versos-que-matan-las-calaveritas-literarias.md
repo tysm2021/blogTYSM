@@ -52,7 +52,7 @@ Adelante el carnicero<br>En la mano su morcón,<br>Más allá el tocinero,<br>co
 
 ![](https://rafflesc.files.wordpress.com/2013/11/posada4.jpg)
 
-A Emiliano Zapata
+### A Emiliano Zapata
 
 Eran los tiempos aquellos<br>los días de la Revolución<br>cuando la muerte se apareció;<br>indecisa estaba pues no sabía<br>si llevarse a uno de la bola<br>o ya de perdisun pelón.
 
@@ -62,6 +62,14 @@ La muerte alzó la vista<br>porque por el camino<br>alguien venía:<br>era mi ge
 
 Ya murió Zapata,<br>ya lo llevan a enterrar<br>no lo mató una bala, no lo mató un cañón<br>fue la calavera esa<br>que le gustó ese bigotón.
 
+**A Don Quijote**
 
+Esta es de Don Quijote ​la primera<br>la sin par la gigante calavera,<br>a confesarse al punto el que no quiera<br>en pecado volverse calavera.<br>Sin miedo y sin respeto ni a los reyes<br>este esqueleto cumplirá sus leyes.
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/8c/Don_quijote.jpg)
+
+Aquí está de Don Quijote<br>la calavera valiente,<br>dispuesta a armar un mitote<br>al que se le ponga enfrente.
+
+Ni curas ni literatos,<br>ni letrados ni doctores,<br>escaparán los señores<br>de que les dé malos tratos.
 
 <br>​​​
