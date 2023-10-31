@@ -43,3 +43,11 @@ Las primeras **calaveritas literarias** como las conocemos fueron publicadas en 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_grand_skeleton_mole%2C_skeletons_eating_mole_and_drinking_in_a_cemetery_%28Posada%29%3B_flanked_by_skeletons_holding_scythes_%28Manilla%29_MET_DP864823.jpg/769px-The_grand_skeleton_mole%2C_skeletons_eating_mole_and_drinking_in_a_cemetery_%28Posada%29%3B_flanked_by_skeletons_holding_scythes_%28Manilla%29_MET_DP864823.jpg)
 
 La tradición de hacer **calaveritas**&nbsp;inspiradas en las rimas del siglo XIX pasó de generación en generación. Después, en tiempos de la Revolución y junto con las&nbsp;*&nbsp;*&nbsp;**catrinas**, esta forma **literaria** se consagró como un rasgo cultural siempre presente en las festividades del **Día de Muertos**. Aquí te presentamos algunos ejemplos de calaveras famosas:
+
+Calaveras del montón
+
+Pasé por la primavera<br>Y me llamó la atención<br>El ver una calavera<br>Que trajeron del panteón.<br>Daba pena y tentación<br>Mirar que pelaba el diente,&nbsp;<br>Era el dueño o el patrón,<br>o sin duda el dependiente \[…\]
+
+Adelante el carnicero<br>En la mano su morcón,<br>Más allá el tocinero,<br>con su hediondo chicharrón.<br>Estos pronto se murieron<br>y se fueron al panteón,<br>calaveras se volvieron,<br>calaveras del montón.
+
+<br>​​​
