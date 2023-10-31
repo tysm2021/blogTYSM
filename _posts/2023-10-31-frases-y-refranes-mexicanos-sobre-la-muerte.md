@@ -51,8 +51,6 @@ Esto viene de una canción tropical de mediados del siglo pasado. Se refiere a e
 
 ### "De limpios y tragones, están llenos los panteones"
 
-
-
 Antiguamente se creía que bañarse era arriesgado porque podías morir de una pulmonía —a lo mejor no había agua caliente, quién sabe—, y era bien sabido que una salmonelosis podía mandarte al otro mundo, así que esta frase es una sabia advertencia.
 
 ### "Cargar al muertito"
@@ -71,7 +69,7 @@ Arrimado se le llama a alguien que cae, invitado o refugiado, a casa de alguien 
 
 Tiene dos sentidos: uno, equivalente a "¡Sobres!" —o sea: ¡adelante!, ¡vamos! o ¡ahora es cuando!—; y otro, como metáfora de la muerte metafórica de alguien —como alguien queda fuera de una candidatura importante y está "muerto" políticamente.
 
-"Sobre mi cadáver..."
+"Sobre mi cadáver…"
 
 Primero muero antes que permitir que tal cosa suceda.
 
