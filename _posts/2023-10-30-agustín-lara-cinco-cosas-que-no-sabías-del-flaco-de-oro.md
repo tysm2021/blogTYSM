@@ -29,7 +29,7 @@ summary: >-
 ---
 Los conocedores y el público en general coinciden en que uno de los más grandes **compositores** **mexicanos** de canciones románticas fue **Agustín Lara**, "el **Flaco de Oro**"". Con **canciones** como "Farolito", "María", "Amor de mis amores" y su más grande éxito, "Solamente una vez", escribió su nombre con letras de oro en la **cultura** y la **música** popular del siglo XX. Por eso, aquí te contaremos cinco **datos** **curiosos**&nbsp;tomados de la **vida** del afamado compositor veracruzano.
 
-Entre otras cosas, **Agustín Lara** hizo duetos con Pedro Vargas y estuvo casado con la actriz Pedro Vargas, pero muchos de los hechos de su **biografía** están cubiertos por el misterio o, de plano, han sido hechos a un lado para no empañar su memoria.
+Entre otras cosas, **Agustín Lara** hizo duetos con Pedro Vargas y estuvo casado con la hermosa actriz María Félix, pero muchos de los hechos de su **biografía** están cubiertos por el misterio o, de plano, han sido hechos a un lado para no empañar su memoria.
 
 **TE RECOMENDAMOS: [Inventores mexicanos famosos y sus inventos.](https://blog.tonoysumariachi.com/cultura/2022/04/25/inventores-mexicanos-famosos-y-sus-inventos.html){: target="_blank" rel="noopener"}**
 
