@@ -30,4 +30,4 @@ Cuando abusamos del alcohol por las noches y, a la mañana siguiente, sentimos l
 
 Como no a todo el mundo le gusta la carne de chivo, en décadas recientes se ha popularizado una versión con carne de res. Cada quien, pero aquí hablaremos de la receta tradicional.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: [Platillos que debes comer en Monterrey, Nuevo Léon.](https://blog.tonoysumariachi.com/gastronomia/2023/01/24/platillos-tipicos-que-debes-comer-en-monterrey-nuevo-leon.html){: target="_blank" rel="noopener"}**
