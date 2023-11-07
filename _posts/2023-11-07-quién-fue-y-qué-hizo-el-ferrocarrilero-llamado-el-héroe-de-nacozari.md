@@ -27,7 +27,7 @@ summary: >-
 ---
 En el año de 1944, el entonces presidente Manuel Ávila Camacho declaró que el 7 de noviembre se celebre en **México** el **Día del Ferrocarrilero**, para honrar la muerte de un humilde maquinista llamado&nbsp;**Jesús García Coron**a, quien se sacrificó para salvar a una población de una enorme tragedia. Por esa razón, se le llamó "el **Héroe de Nacozari**", y aquí te contamos un poco de su **biografía** y del hecho **heroico** con que pasó a la **historia**.
 
-**Jesús García Corona** nació en Hermosillo, Sonora, El 13 de noviembre de 1881. A la edad de 17 años, solicitó empleo en la oficina del **ferrocarril** de la Compañía Minera. Debido a su corta edad, empezó trabajando como aguador y rápidamente fue ascendiendo hasta llegar al sector de mantenimiento de vías, donde rabajó como controlador de frenos y, después, como bombero. Tenía 20 años cuando se convirtió en ingeniero de máquinas.
+**Jesús García Corona** nació en Hermosillo, Sonora, el 13 de noviembre de 1881. A la edad de 17 años, solicitó empleo en la oficina del **ferrocarril** de la Compañía Minera. Debido a su corta edad, empezó trabajando como aguador y rápidamente fue ascendiendo hasta llegar al sector de mantenimiento de vías, donde rabajó como controlador de frenos y, después, como bombero. Tenía 20 años cuando se convirtió en ingeniero de máquinas.
 
 **TE RECOMENDAMOS:&nbsp;[Guerra de los Pasteles: resumen e historia de la Primera Intervención Francesa.](https://blog.tonoysumariachi.com/historia/2022/04/20/guerra-de-los-pasteles-resumen-e-historia.html){: target="_blank" rel="noopener"}**
 
