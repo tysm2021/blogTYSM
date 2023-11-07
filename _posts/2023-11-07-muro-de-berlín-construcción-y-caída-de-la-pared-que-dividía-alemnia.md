@@ -1,5 +1,5 @@
 ---
-title: 'Muro de Berlín: construcción y caída de la pared que dividía Alemnia'
+title: 'Muro de Berlín: construcción y caída de la pared que dividía Alemania'
 date: 2023-11-07 13:00:00
 categories:
   - MUNDO
