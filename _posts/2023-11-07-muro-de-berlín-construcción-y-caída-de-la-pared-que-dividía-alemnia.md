@@ -18,7 +18,7 @@ article_header:
     src: /uploads/1024px-berlinwall.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/1024px-berlinwall.jpg
 show_author_profile: false
 comment: false
 summary: >-
