@@ -18,7 +18,7 @@ article_header:
     src: /uploads/corrido.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/corrido.jpg
 show_author_profile: false
 comment: false
 summary: >-
@@ -26,3 +26,8 @@ summary: >-
   México, y en sus letras se habla de héroes revolucionarios… o de capos del
   narco.
 ---
+"Este es el corrido del caballo blanco…", dice el inicio de una famosa canción, de esas que cuentan historias de valentía y sacrificio de los caudillos y los héroes de la Revolución. Y es que esta forma de expresión desde finales del siglo XIX ha sido una forma vernácula —e independiente al partido o a la persona en el poder— de transmitir noticias y compartir hechos, incluso al margen de las versiones oficiales. Por eso, y sobre todo en el norte de México, el corrido es la conjunción de música, narrativa, arte e historia.
+
+Acá te contamos a grandes rasgos la historia del corrido, desde que México apenas nacía a la Independencia hasta que el género sufrió una transformación y se convirtió en un medio para enaltecer a los capos del narcotráfico.
+
+TE RECOMENDAMOS:
