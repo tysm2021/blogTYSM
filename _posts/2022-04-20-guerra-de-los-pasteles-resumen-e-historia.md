@@ -1,13 +1,13 @@
 ---
 title: 'Guerra de los Pasteles: resumen e historia de la Primera Intervención Francesa'
-date: 2022-04-20 00:00:00 UTC
+date: 2022-04-20 00:00:00
 categories:
-- HISTORIA
+  - HISTORIA
 tags:
-- historia
-- méxico
-- guerra
-- francia
+  - historia
+  - méxico
+  - guerra
+  - francia
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -19,19 +19,14 @@ article_header:
     src: /images/2022-04-20-episode_de_l-expedition_du_mexique_en_1838.jpeg
 sharing: true
 author: Francisco Massé
-cover: "/images/2022-04-20-episode_de_l-expedition_du_mexique_en_1838.jpeg"
+cover: /images/2022-04-20-episode_de_l-expedition_du_mexique_en_1838.jpeg
 subcategorie: SIGLOXIX
 show_author_profile: false
 comment: false
-summary: 'No, no se agarraron a pastelazos: fue un episodio bélico entre Francia y
-  México, por una deuda con un pastelero…'
+summary: >-
+  No, no se agarraron a pastelazos: fue un episodio bélico entre Francia y
+  México, por una deuda con un pastelero…
 ---
-
-
-
-
-
-
 Cuando uno escucha eso de la **Guerra de los Pasteles**, podría imaginarse a dos ejércitos armados con tartas llenas de merengue, arrojándoselas a ver quién es el que gana. Pero no: en **resumen**, se trató de un episodio de la **historia de México** —también llamado **Primera Intervención Francesa**— que tuvo lugar entre los años de 1838 y 1839, contra invasores **franceses**.
 
 Todo empezó con la reclamación de **un pastelero enojado**, y el asunto llegó tan lejos que **México** acabó pagando una enorme cantidad de dinero. En seguida, te contamos todos los detalles.
@@ -48,6 +43,6 @@ La **Guerra de los Pasteles empezó el 16 de abril de 1838**, cuando una escuadr
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/%C3%89pisode_de_l%27exp%C3%A9dition_du_Mexique_en_1838.jpg/1024px-%C3%89pisode_de_l%27exp%C3%A9dition_du_Mexique_en_1838.jpg)
 
-Luego de varias negociaciones fallidas, el 17 de noviembre del mismo año los **franceses** abrieron fuego contra el Fuerte de San Juan de Ulúa, en Veracruz. Meses después, en marzo de 1839, se firmó el tratado de paz, en el que **México** se comprometía a pagar 600 mil pesos como indemnización para **el pastelero** y para los demás ciudadanos franceses que habían interpuesto la queja.
+Luego de varias negociaciones fallidas, el 27 de noviembre del mismo año los **franceses** abrieron fuego contra el Fuerte de San Juan de Ulúa, en Veracruz. Meses después, en marzo de 1839, se firmó el tratado de paz, en el que **México** se comprometía a pagar 600 mil pesos como indemnización para **el pastelero** y para los demás ciudadanos franceses que habían interpuesto la queja.
 
 Algunos historiadores dicen que eso de los **pasteles** fue sólo un pretexto de parte del gobierno francés para justificar su **primera intervención** armada en México, pues años después regresarían a nuestro país para toparse con el general Ignacio Zaragoza. Pero como dicen por ahí: eso… ya es otra historia.
