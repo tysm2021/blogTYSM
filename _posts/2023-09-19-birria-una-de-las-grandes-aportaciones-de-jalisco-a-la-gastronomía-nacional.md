@@ -16,15 +16,15 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/playa-en-mazatlan-08.jpeg
+    src: /uploads/Birria_de_Mexico.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/playa-en-mazatlan-08.jpeg
+cover: /uploads/Birria_de_Mexico.jpeg
 show_author_profile: false
 comment: false
 summary: >-
-  Desde mediados del siglo XX, una serie de artistas y cantantes españoles
-  emprendieron la "reconquista" del público mexicano
+  Este caldo picosito —y salvavidas, cuando uno anda "crudito"— es una de las
+  grandes aportaciones gastronómicas del estado de Jalisco.
 ---
 Cuando abusamos del alcohol por las noches y, a la mañana siguiente, sentimos los efectos de la **resaca** o "**cruda**", los mexicanos tenemos diversos remedios: desde una pancita bien picosa, pasando por unos chilaquiles hasta llegar a la **birria** de **chivo**, orgullo de estado de **Jalisco**. ¿Y cómo es que se **inventó** esta caliente delicia? Aquí te contamos la curiosa **historia** de su **origen** y algunos **datos** curiosos.
 
