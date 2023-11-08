@@ -16,10 +16,10 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-camilosesto.png
+    src: /uploads/playa-en-mazatlan-08.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/playa-en-mazatlan-08.jpeg
 show_author_profile: false
 comment: false
 summary: >-
