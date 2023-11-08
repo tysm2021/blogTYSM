@@ -2,12 +2,11 @@
 title: 'Birria: una de las grandes aportaciones de Jalisco a la gastronomía nacional'
 date: 2023-11-07 14:00:00
 categories:
-  - MEXICANISIMOS
+  - GASTRONOMIA
 tags:
-  - personajes
-  - cantantes
-  - folclor
-  - sigloXX
+  - gastronomia
+  - platillos
+  - jalisco
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
