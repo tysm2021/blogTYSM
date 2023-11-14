@@ -29,7 +29,7 @@ La **Revolución Mexicana** fue un capítulo crucial en la historia del país, e
 
 En este artículo, exploraremos **cinco**&nbsp;**razones** fundamentales por las cuales **Zapata** se erige como una figura vital en la **Revolución Mexicana**.
 
-TE RECOMENDAMOS:&nbsp;
+**TE RECOMENDAMOS:&nbsp; [Cinco cosas que no sabías de Emiliano Zapata.](https://blog.tonoysumariachi.com/historia/2023/08/08/cinco-cosas-que-no-sab%C3%ADas-de-emiliano-zapata.html)**
 
 ### 1\. Fue la voz de los campesinos
 
