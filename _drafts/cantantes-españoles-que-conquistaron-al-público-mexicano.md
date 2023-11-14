@@ -15,7 +15,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-zapata.jpg
+    src: /uploads/1024px-zapata-1.jpg
 sharing: true
 author: Redacción TYSM
 cover: /uploads/1024px-zapata-1.jpg
