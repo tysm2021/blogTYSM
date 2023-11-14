@@ -18,7 +18,7 @@ article_header:
     src: /uploads/1024px-zapata.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-zapata.jpg
+cover: /uploads/1024px-zapata-1.jpg
 show_author_profile: false
 comment: false
 summary: >-
