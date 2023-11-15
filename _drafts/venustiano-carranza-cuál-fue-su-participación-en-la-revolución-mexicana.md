@@ -43,7 +43,11 @@ Durante la Decena Trágica, **Carranza** ofreció apoyo a Madero y le sugirió t
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/92/Venustiano_Carranza_en_La_Ca%C3%B1ada%2C_Queretaro.JPG)
 
-El 26 de febrero de 1913, Carranza salió de Saltillo levantado en armas contra el gobierno de Huerta. Un mes después, en la Hacienda de Guadalupe, en Ramos Arizpe, Carranza y sus partidarios firmaron un plan que lo proclamó como Primer Jefe del Ejército Constitucionalista, cuya misión fue derrocar al gobierno ilegitimo. Luego de que el Ejército Constitucionalista derrotara al Ejército federal, el 13 de agosto de 1914 se firmaron los Acuerdos de Teoloyucan que dieron fin al gobierno de Victoriano Huerta. El 20 de agosto de 1914, Venustiano Carranza entró triunfante a la Ciudad de México rechazando el título de presidente interino, pero conservando aún el del Primer Jefe encargado del poder ejecutivo.
+En 1913, **Carranza** salió de Saltillo levantado en armas contra **Huerta**. Un mes después, fue proclamado Primer Jefe del Ejército Constitucionalista, cuya misión fue derrocar al gobierno ilegitimo. Luego de que derrotara al ejército federal, el 13 de agosto de 1914 firmó los **Acuerdos de Teoloyucan** que dieron fin al gobierno de Victoriano Huerta.
+
+
+
+El 20 de agosto de 1914, Venustiano Carranza entró triunfante a la Ciudad de México rechazando el título de presidente interino, pero conservando aún el del Primer Jefe encargado del poder ejecutivo.
 
 Las desavenencias entre los caudillos revolucionarios y Carranza los llevaron a pedir la destitución del Primer Jefe para evitar una guerra civil, petición que fue rechazada. Carranza convocó a una Convención Revolucionaria para definir el rumbo del país el 1 de octubre de 1914 en la capital de la República. El 31 de octubre, la Convención acordó destituir a Carranza y a Francisco Villa como Primer Jefe del Ejército Constitucionalista y encargado del Poder Ejecutivo y jefe de la División del Norte, respectivamente, por convenir así a la unidad revolucionaria. El 5 de noviembre la Convención Revolucionaria envió un ultimátum a Carranza para que éste abandonara los cargos que le confirió el Plan de Guadalupe y que le habían sido ratificados por la Convención en la Ciudad de México. Carranza desconoció a la Convención y al siguiente día se dirigió a Veracruz, donde estableció su gobierno, declarando al puerto capital provisional del país.
 
