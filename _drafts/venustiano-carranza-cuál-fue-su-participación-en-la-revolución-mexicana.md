@@ -30,3 +30,7 @@ Si bien en sus inicios la **Revolución Mexicana** nació como un movimiento pol
 A continuación, veremos cuál fue la **importancia** de **Venustiano Carranza** en la **Revolución Mexicana**, de su paso por la presidencia —cuando promulgó la Constitución política que aún nos rige— y de su asesinato.
 
 **TE RECOMENDAMOS:&nbsp;[De héroes y de narcos: el corrido a lo largo de la historia de México.](https://blog.tonoysumariachi.com/mexicanisimos/2023/11/07/de-h%C3%A9roes-y-de-narcos-el-corrido-a-lo-largo-de-la-historia-de-m%C3%A9xico.html){: target="_blank" rel="noopener"}**
+
+### Entrada a la Revolución
+
+Venustiano Carranza nació el 29 de diciembre de 1859 en el pequeño poblado de Cuatro Ciénegas, hoy Coahuila. Su carrera política empezó como presidente municipal de Cuatro Ciénegas, después fue Senador en el Congreso de la Unión representando a Coahuila y, en 1908, llegó a ser gobernador interino de su estado.&nbsp;
