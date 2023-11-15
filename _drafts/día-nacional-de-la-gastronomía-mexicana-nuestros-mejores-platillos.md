@@ -47,7 +47,7 @@ El **mole de olla** —ese chilango del sur de la Ciudad de México— llega com
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mole_de_olla.jpg/1024px-Mole_de_olla.jpg)
 
-TE RECOMENDAMOS:&nbsp;
+**TE RECOMENDAMOS:&nbsp;[Mole poblano: origen, leyenda y receta de esta maravilla culinaria.](https://blog.tonoysumariachi.com/gastronomia/2022/06/29/mole-poblano-origen-leyenda-y-receta-de-esta-maravilla-culinaria.html){: target="_blank" rel="noopener"}**
 
 Desde las tierras del norte, llega el cabrito, el invitado consentido que trae consigo el sabor de los vastos horizontes y el espíritu indomable. Con su carne tierna y su sazón audaz, el cabrito nos invita a un viaje gastronómico por los vastos paisajes del norte de México.
 
