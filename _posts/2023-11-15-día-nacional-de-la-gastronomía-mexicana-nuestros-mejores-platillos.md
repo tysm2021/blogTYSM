@@ -20,7 +20,7 @@ article_header:
     src: /uploads/1024px-anonymous-puebla-kitchen-google-art-project.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/1024px-anonymous-puebla-kitchen-google-art-project.jpeg
 show_author_profile: false
 comment: false
 summary: >-
