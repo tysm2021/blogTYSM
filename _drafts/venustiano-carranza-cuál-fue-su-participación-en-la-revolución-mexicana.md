@@ -25,8 +25,8 @@ summary: >-
   Tras el golpe de estado de Huerta y la muerte de Madero, el "Barón de Cuatro
   Cienegas" entró al conflicto revolucionario.
 ---
-Si bien en sus inicios la Revolución Mexicana nació como un movimiento político y social que tuvo la intención de terminar con la dictadura de Porfirio Díaz, no terminó cuando éste renunció a la presidencia y se exilió en Francia. Por el contrario, ahí empezó otra serie de procesos históricos como la presidencia de Francisco I. Madero, la Décena Trágica, el golpe de estado de Victoriano Huerta y los movimientos dirigidos por caudillos que desconocieron al traidor y buscaron restaurar el orden político y las elecciones democráticas. De entre todas, se destaca la participación del "Barón de Cuatro Ciénegas", Venustiano Carranza.
+Si bien en sus inicios la **Revolución Mexicana** nació como un movimiento político y social que tuvo la intención de terminar con la dictadura de **Porfirio Díaz**, no terminó cuando éste renunció a la presidencia y se exilió en Francia. Por el contrario, ahí empezó otra serie de procesos históricos como la presidencia de **Francisco I. Madero**, la Décena Trágica, el golpe de estado de **Victoriano Huerta** y los movimientos dirigidos por **caudillos** que desconocieron al traidor y buscaron restaurar el orden político y las elecciones democráticas. De entre todas, se destaca la participación del "**Barón de Cuatro Ciénegas**", **Venustiano Carranza**.
 
-A continuación, veremos cuál fue la importancia de Venustiano Carranza en la Revolución Mexicana, de su paso por la presidencia —cuando promulgó la Constitución política que aún nos rige— y de su asesinato.
+A continuación, veremos cuál fue la **importancia** de **Venustiano Carranza** en la **Revolución Mexicana**, de su paso por la presidencia —cuando promulgó la Constitución política que aún nos rige— y de su asesinato.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:&nbsp;[De héroes y de narcos: el corrido a lo largo de la historia de México.](https://blog.tonoysumariachi.com/mexicanisimos/2023/11/07/de-h%C3%A9roes-y-de-narcos-el-corrido-a-lo-largo-de-la-historia-de-m%C3%A9xico.html){: target="_blank" rel="noopener"}**
