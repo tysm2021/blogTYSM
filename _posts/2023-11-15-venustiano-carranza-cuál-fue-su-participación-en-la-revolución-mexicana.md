@@ -57,12 +57,18 @@ Carranza quiso convocar a un Congreso Constituyente para reformar la Constituci�
 
 **TE RECOMENDAMOS:&nbsp;[Francisco I. Madero, iniciador de la Revolución Mexicana y apóstol de la democracia.](https://blog.tonoysumariachi.com/historia/2023/11/14/francisco-i-madero-iniciador-de-la-revoluci%C3%B3n-mexicana-y-ap%C3%B3stol-de-la-democracia.html){: target="_blank" rel="noopener"}**
 
-Presidente de la República
+### Presidencia y muerte
 
-Al siguiente día Carranza promulgó en Querétaro la convocatoria para las elecciones de diputados y senadores de la XXVII Legislatura y para elegir al presidente constitucional de la República, mismas que se verificaron al siguiente mes, en las cuales triunfó el Primer Jefe.
+Al siguiente día, **Carranza** promulgó la convocatoria para las elecciones de diputados, senadores y **presidente** constitucional de la República, mismas que se verificaron al siguiente mes, en las cuales triunfó el propio **Venustiano Carranza**, quien rindió protesta como **Presidente** **Constitucional** de los Estados Unidos Mexicanos el 1 de mayo de 1917.
 
-El 1 de mayo de 1917, Venustiano Carranza rindió protesta como Presidente Constitucional de los Estados Unidos Mexicanos. Su gobierno se enfocó en pacificar el país, reorganizar la administración pública y hacer valer la Constitución de 1917.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Portrait_of_Venustiano_Carranza_%28cropped%29.jpg/679px-Portrait_of_Venustiano_Carranza_%28cropped%29.jpg)
 
-En 1920, Carranza buscó imponer como sucesor presidencial a Ignacio Bonillas, lo cual causó que diversos sectores del ejército y la sociedad se rebelaran contra su gobierno mediante el Plan de Agua Prieta. El levantamiento obligó al presidente a abandonar la Ciudad de México el 7 de mayo, para intentar instalar su gobierno en Veracruz.
+Sin embargo, en 1920&nbsp;**Carranza** quiso imponer como su sucesor presidencial a Ignacio Bonillas, lo que rebeliones contra su gobierno que se resumieron en el Plan de Agua Prieta. El levantamiento obligó al presidente a abandonar la Ciudad de México el 7 de mayo, para intentar instalar su gobierno en Veracruz.&nbsp;
+
+El 9 de mayo, las fuerzas **carrancistas** fueron atacadas en Apizaco, Tlaxcala, donde la caballería del Colegio Militar logró rechazar al enemigo. Más adelante, los carrancistas decidieron abandonar los trenes, pero durante la huída fueron nuevamente atacados y derrotados. **Carranza** escapó con un pequeño grupo de militares y continúo hasta Coamachalco y cruzó el río Necaxa.
+
+**Venustiano Carranza** llegó con su pequeño grupo de leales a **Tlaxcalantongo**, entre las tres y cuatro de la tarde del 20 de mayo, pero a eso de las cuatro y media de la mañana del 21 de mayo de 1920, un grupo de hombres— encabezado por el traidor Rodolfo Herrero— dispararon sobre la choza donde descansaba Don **Venustiano Carranza**, dándole muerte.
+
+Con el asesinato de Venustiano Carranza se declaró el triunfo de la Rebelión de Agua Prieta, en consecuencia, el poder Ejecutivo fue tomado de manera interino por Adolfo de la Huerta, el 1/o. de junio de 1920, producto del movimiento que derrocó a don Venustiano Carranza. Finalmente el 1/o. de diciembre de 1920, el Gral. Álvaro Obregón asumió el cargo de Presidente de la República.
 
 El 21 de mayo de 1920 Venustiano Carranza fue asesinado en Tlaxcalantongo, Puebla
