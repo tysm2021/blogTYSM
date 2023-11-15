@@ -1,5 +1,5 @@
 ---
-title: ¿Cuál fue la importancia de Emiliano Zapata en la Revolución Mexicana
+title: ¿Cuál fue la importancia de Emiliano Zapata en la Revolución Mexicana?
 date: 2023-11-14 12:00:00
 categories:
   - HISTORIA
@@ -35,7 +35,7 @@ En este artículo, exploraremos **cinco**&nbsp;**razones** fundamentales por las
 
 **Emiliano Zapata** se convirtió en la encarnación de las aspiraciones y demandas de los campesinos mexicanos. Su lema "**Tierra y Libertad**" resumía la lucha por la restitución de tierras arrebatadas a comunidades indígenas y **campesinas**. A través del **Plan de Ayala** en 1911, **Zapata** plasmó su visión de una reforma agraria que buscaba devolver la tierra a quienes la trabajaban, transformándose en un líder icónico de la causa agraria, resumida en la máxima "**La tierra es de quien la trabaja"**.
 
-## 2\. Luchó por la justicia social
+### 2\. Luchó por la justicia social
 
 **Emiliano Zapata**, líder emblemático de la **Revolución Mexicana**, no solo fue un militar destacado, sino también un ferviente defensor de los **derechos** campesinos. Aunque su lucha se centró en la obtención de justicia y la redistribución equitativa de la tierra, tenía un proyecto más amplio de justicia social. Su visión abarcaba la creación de un sistema que respetara los derechos y la dignidad de los campesinos, garantizando condiciones de vida más equitativas. A través de sus acciones y su liderazgo, buscaba construir un México donde la libertad y la justicia fueran accesibles para todos.
 
