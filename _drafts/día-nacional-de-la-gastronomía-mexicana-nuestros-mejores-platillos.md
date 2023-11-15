@@ -49,10 +49,16 @@ El **mole de olla** —ese chilango del sur de la Ciudad de México— llega com
 
 **TE RECOMENDAMOS:&nbsp;[Mole poblano: origen, leyenda y receta de esta maravilla culinaria.](https://blog.tonoysumariachi.com/gastronomia/2022/06/29/mole-poblano-origen-leyenda-y-receta-de-esta-maravilla-culinaria.html){: target="_blank" rel="noopener"}**
 
-Desde las tierras del norte, llega el cabrito, el invitado consentido que trae consigo el sabor de los vastos horizontes y el espíritu indomable. Con su carne tierna y su sazón audaz, el cabrito nos invita a un viaje gastronómico por los vastos paisajes del norte de México.
+Desde las tierras del norte, llega el **cabrito**, el invitado consentido que trae consigo el sabor de los vastos horizontes y el espíritu indomable. Con su carne tierna y su sazón audaz, el cabrito horneado a las brasas —y acompañado por su infaltable guacamole y sus tortillas de harina de trigo— nos invita a un viaje gastronómico por los vastos paisajes del norte de México.
 
-El pescado a la veracruzana llega con el aire fresco del puerto. Con su salsa llena de tomates, aceitunas y alcaparras, nos transporta a las costas, recordándonos que la gastronomía es también un viaje sensorial. ¿Quién puede resistirse a esta delicia que nos trae el mar a la mesa?
 
-La cochinita pibil llega desde las tierras del sureste —propiamente, del estado de Yucatán—, con el fuego de la tradición maya ardiendo en cada bocado. Con su cerdo marinado en achiote y cocido a fuego lento bajo tierra, nos invita a celebrar la fusión de sabores que solo el México más profundo puede ofrecer.
+
+El **pescado a la veracruzana** llega con el aire fresco del puerto. Con su salsa llena de jitomates, aceitunas y alcaparras, nos transporta a las costas, recordándonos que la gastronomía es también un viaje sensorial. ¿Quién puede resistirse a esta delicia que nos trae el mar a la mesa?
+
+
+
+La **cochinita pibil** llega desde las tierras del sureste —propiamente, del estado de Yucatán—, con el fuego de la tradición maya ardiendo en cada bocado. Con su cerdo marinado en achiote y cocido a fuego lento bajo tierra, nos invita a celebrar la fusión de sabores que solo el México más profundo puede ofrecer.
+
+
 
 Así, con esta fiesta de sabores, celebramos el **Día Nacional de la Gastronomía Mexicana**. Cada platillo, un poema culinario que cuenta la historia de un país lleno de pasión, sabor y tradición. ¡Que la fiesta continúe y que los platillos sigan siendo los protagonistas en el festín de la cocina mexicana! ¡Salud y buen provecho!
