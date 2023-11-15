@@ -62,4 +62,6 @@ El **pescado a la veracruzana** llega con el aire fresco del puerto. Con su sals
 
 La **cochinita pibil** llega desde las tierras del sureste —propiamente, del estado de Yucatán—, con el fuego de la tradición maya ardiendo en cada bocado. Con su cerdo marinado en achiote y cocido a fuego lento bajo tierra, nos invita a celebrar la fusión de sabores que solo el México más profundo puede ofrecer.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tacos_de_Cochinita_pibil_y_queso_fundido_con_cochinita_pibil.jpg/1024px-Tacos_de_Cochinita_pibil_y_queso_fundido_con_cochinita_pibil.jpg)
+
 Así, con esta fiesta de sabores, celebramos el **Día Nacional de la Gastronomía Mexicana**. Cada platillo, un poema culinario que cuenta la historia de un país lleno de pasión, sabor y tradición. ¡Que la fiesta continúe y que los platillos sigan siendo los protagonistas en el festín de la cocina mexicana! ¡Salud y buen provecho!
