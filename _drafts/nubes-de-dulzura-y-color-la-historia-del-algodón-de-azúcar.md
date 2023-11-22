@@ -31,4 +31,10 @@ Aquí te contamos brevemente la **historia** del dulce **algodón de azúcar** �
 
 **TE RECOMENDAMOS: [Dulces poblanos, herencia colonial de los conventos de Puebla.](https://blog.tonoysumariachi.com/gastronomia/2022/10/06/dulces-poblanos-herencia-colonial-de-los-conventos-de-puebla.html){: target="_blank" rel="noopener"}**
 
-S
+Según el Gobierno de México, se cree que los primeros intentos para crear el **algodón de azúcar** tuvieron lugar en Italia durante el siglo XV, cuando los reposteros calentaban azúcar hasta hacerla líquida para finos hilos de caramelo sólido con el que decoraban los postres. Esta técnica de hilos de azúcar se popularizo en el siglo XVIII entre los cocineros de Europa y América.
+
+La producción industrial del **algodón de azúcar,** como lo conocemos hoy, comenzó en 1897 con **William Morrison** y **John C. Wharton**, quienes inventaron la primera máquina para su elaboración, la cual se presentó en la Exposición Universal de Paris de 1900. Otros atribuyen la invención al vendedor **Thomas Patton**, quien hervía el azúcar hasta lograr un estado caramelizado, para luego formar largos hilos.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cotton_candy_%CE%9C%CE%B1%CE%BB%CE%BB%CE%AF_%CF%84%CE%B7%CF%82_%CE%B3%CF%81%CE%B9%CE%AC%CF%82.JPG/1024px-Cotton_candy_%CE%9C%CE%B1%CE%BB%CE%BB%CE%AF_%CF%84%CE%B7%CF%82_%CE%B3%CF%81%CE%B9%CE%AC%CF%82.JPG)
+
+En 1905, otro inventor llamado Albert D. Robinson, presentó otra patente para una máquina eléctrica giratoria que mantenía el calor de manera más eficiente. Tiempo después -en 1921- Joseph Lascaux registró la licencia de una nueva máquina de su invención, en la que nombraba a la golosina como “algodón de azúcar”, superando así el de “seda de hadas”, como hasta ese momento se le denominaba.&nbsp;
