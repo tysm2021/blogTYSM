@@ -25,7 +25,7 @@ summary: >-
   Se pueden conseguir en parques de diversiones, plazas públicas y otros sitios
   donde son la delicia de los niños; pero, ¿de dónde vienen?
 ---
-Desde hace varias décadas, los fabricantes de **algodón de azúcar** alegran los domingos y días de fiesta en los **parques** y las **plazas** de **México** con sus coloridas nubes dulces de color rosa, azul o morado que pacientemente van armando en palitos de madera y que después son consumidos por niños y niñas golosos —y, también, por adultos antojadizos— que terminan con color en las comisuras de los labios. Todos los conocemos, pero, ¿**de dónde vienen**, **quién** los **inventó** y **cuándo llegaron a México**?
+Desde hace varias décadas, los fabricantes de **algodón de azúcar** alegran los domingos y días de fiesta en los **parques** y las **plazas** de **México** con sus coloridas nubes dulces de color rosa, azul o morado que pacientemente van armando en palitos de madera y que después son consumidos por niños y niñas golosos —y, también, por adultos antojadizos— que terminan con color en las comisuras de los labios. Todos los conocemos, pero, ¿**de dónde vienen**, **quién** los **inventó** y **cuánd llegaron a México**?
 
 Aquí te contamos brevemente la **historia** del dulce **algodón de azúcar** —que en inglés se llama *cotton candy —,*&nbsp;una de esas golosinas que son un clásico y siguen preparándose igual sin importar el paso de los años y los avances de la tecnología.
 
@@ -35,6 +35,6 @@ Según el Gobierno de México, se cree que los primeros intentos para crear el *
 
 La producción industrial del **algodón de azúcar,** como lo conocemos hoy, comenzó en 1897 con **William Morrison** y **John C. Wharton**, quienes inventaron la primera máquina para su elaboración, la cual se presentó en la Exposición Universal de Paris de 1900. Otros atribuyen la invención al vendedor **Thomas Patton**, quien hervía el azúcar hasta lograr un estado caramelizado, para luego formar largos hilos.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cotton_candy_%CE%9C%CE%B1%CE%BB%CE%BB%CE%AF_%CF%84%CE%B7%CF%82_%CE%B3%CF%81%CE%B9%CE%AC%CF%82.JPG/1024px-Cotton_candy_%CE%9C%CE%B1%CE%BB%CE%BB%CE%AF_%CF%84%CE%B7%CF%82_%CE%B3%CF%81%CE%B9%CE%AC%CF%82.JPG)
+![](https://etzq49yfnmd.exactdn.com/wp-content/uploads/2022/03/originalpatent.png?strip=all&amp;lossy=1&amp;w=640&amp;ssl=1)
 
-En 1905, otro inventor llamado Albert D. Robinson, presentó otra patente para una máquina eléctrica giratoria que mantenía el calor de manera más eficiente. Tiempo después -en 1921- Joseph Lascaux registró la licencia de una nueva máquina de su invención, en la que nombraba a la golosina como “algodón de azúcar”, superando así el de “seda de hadas”, como hasta ese momento se le denominaba.&nbsp;
+En 1905, otro inventor de nombre **Albert D. Robinson** solicitó una patente para una máquina eléctrica giratoria que mantenía el calor de forma eficiente. Después, en 1921, **Joseph Lascaux** registró una nueva máquina de su invención, en la que nombraba a la golosina como “algodón de azúcar”, superando así el de “seda de hadas”, como hasta ese momento se le denominaba.&nbsp;
