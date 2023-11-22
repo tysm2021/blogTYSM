@@ -63,8 +63,32 @@ El suicidio de **Antonieta** fue como de película: exiliada en París, ingresó
 
 **TE RECOMENDAMOS: [Algunas creencias y supersticiones muy mexicanas.](https://blog.tonoysumariachi.com/mexicanisimos/2022/09/13/algunas-creencias-y-supersticiones-muy-mexicanas.html){: target="_blank" rel="noopener"}**
 
-Lucha Reyes
+## Lucha Reyes
 
-David Silveti
+**(1906-1944)**
 
-Rita Macedo
+![](/uploads/luchareyes.jpg){: width="578" height="796"}
+
+Antes de **Lucha** Villa, **Lucha Reyes** fue una de las cantantes pioneras en la música ranchera. Su vida estuvo marcada por la tragedia y su adicción al alcohol, el cual daba a su voz un timbre rasposo que se convirtió en su marca característica.&nbsp;
+
+En mayo de 1944, cuando su carrera estaba en pleno ascenso —e incluso con una hija de once años a su cargo—, **Lucha** empezó a beber de forma desenfrenada para soportar el dolor por la muerte de su marido y de su suegra. Luego de diez días encerrada, sin más compañía que unas botellas de tequila, la mañana de 24 de junio salió y le pidió a su hija que le saliera a comprarle unas medicinas. Lo que la pequeña no sospechó es que se trataba de barbitúricos que la cancionera tomó en grandes cantidades y que, haciendo reacción con el alcohol que había bebido, la llevaron a **Lucha Reyes** a la muerte el 25 de junio de 1944.
+
+## David Silveti
+
+**(1955-2003)**
+
+![](/uploads/davidsilveti.jpeg){: width="1440" height="1440"}
+
+Este torero mexicano fue una de las grandes luminarias de la fiesta brava durante las décadas de 1980 y 1990. En 2002, sin embargo, sufrió un golpe en la cabeza que agravó una condición neurológica que lo obligó a dejar los ruedos en 2003. Sumado a esto, "**El rey David**" padecía un trastorno bipolar, por lo que el retiro obligado lo llevó a una terrible depresión. De pilón, una lesión en la columna vertebral amenazaba con dejarlo postrado por el resto de su vida.
+
+Así, el 12 de noviembre de 2003, en la finca de su padre —el también torero Juan SIlveti—, **David Silveti se suicidó** de un balazo en la sien. Le sobrevive su hijo Diego, quien mantiene la tradición familiar torera ya en su cuarta generación.
+
+## Rita Macedo
+
+**(1925-1993)**
+
+![](/uploads/ritamacedo.jpeg){: width="953" height="1200"}
+
+Esta actriz del cine mexicano destacó durante las décadas de 1950 y 1960 en cintas como *La maldición de la Llorona* y *El ángel exterminador*. En su vida personal, **Rita Macedo** estuvo casada con el productor Luis de Llano Palmer, con quien procreó al también productor Luis de Llano Macedo y a la actriz Julissa; después se casó con el aristócrata Julio Palomino, de quien se divorció al poco tiempo; por último, se casó con el escritor mexicano Carlos Fuentes, con quien tuvo una hija y a quien dejó por sus continuas infidelidades.
+
+El 5 de diciembre de 1993, sumida en la depresión y tras despedirse de sus hijos, **Rita Macedo** se subió a su coche y se dio un balazo en la boca, a bordo de su automóvil que estaba estacionado en su casa, en el elegante barrio de San Ángel. Al principio se intentó ocultar la verdad sobre su muerte, pero el suicidio trascendió a los medios al poco tiempo. Sus cenizas se esparcieron en algunas de sus ciudades favoritas.
