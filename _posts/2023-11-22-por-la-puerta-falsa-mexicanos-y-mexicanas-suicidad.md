@@ -1,5 +1,5 @@
 ---
-title: 'Por la puerta falsa: mexicanos y mexicanas suicidad'
+title: 'Por la puerta falsa: mexicanos y mexicanas suicidas'
 date: 2023-11-22 08:00:00
 categories:
   - MEXICANISIMOS
