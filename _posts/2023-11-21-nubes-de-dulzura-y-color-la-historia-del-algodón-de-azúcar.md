@@ -37,4 +37,10 @@ La producción industrial del **algodón de azúcar,** como lo conocemos hoy, co
 
 ![](https://etzq49yfnmd.exactdn.com/wp-content/uploads/2022/03/originalpatent.png?strip=all&amp;lossy=1&amp;w=640&amp;ssl=1)
 
-En 1905, otro inventor de nombre **Albert D. Robinson** solicitó una patente para una máquina eléctrica giratoria que mantenía el calor de forma eficiente. Después, en 1921 —cuando la patente de Morrison y Wharton expiró— el dentista&nbsp;**Joseph Lascaux** registró una nueva máquina de su invención, la cual no fue muy exitosa pero en la que nombró a la golosina “**algodón de azúcar**” —*cotton candy*, en inglés— reemplazando el de “seda de hadas”, que hasta ese momento se usaba.&nbsp;
+En 1905, otro inventor de nombre **Albert D. Robinson** solicitó una patente para una máquina eléctrica giratoria que mantenía el calor de forma eficiente. Después, en 1921 —cuando la patente de Morrison y Wharton expiró— el dentista&nbsp;**Joseph Lascaux** registró una nueva máquina de su invención, la cual no fue muy exitosa pero en la que nombró a la golosina “**algodón de azúcar**” —*cotton candy*, en inglés— reemplazando el de “seda de hadas” o "cabello de ángel", que hasta ese momento se usaba.&nbsp;
+
+Hubo que unos pocos años para que, en 1930 el circo Atayde trajera a México dos máquinas ** ** de **algodón de azúcar**, que en aquel entonces se llamaba "Ilusión de París”. Esas máquinas primero se alimentaban con petróleo, el cual causaba un humo muy molesto; después fueron de gas y se les implementaron motores para hacer girar las aspas. Una familia de algodoneros del centro de Coyoacán se adjudica la idea de haberle puesto ruedas a estas máquinas para andar vendiendo de plaza en plaza.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cotton_candy_seller.jpg/637px-Cotton_candy_seller.jpg)
+
+Ya desde la década de 1960, los "algodoneros" —como se les conoce a los fabricantes y vendedores de **algodón de azúcar**— son una figura siempre presente en plazas públicas, parques, centros comerciales y otros puntos de reunión y esparcimiento. A veces combinan la venta de estas golosinas con la de globos y "pelotas", de esas que se unen a tu dedo con un resorte, y otras están elaborando las enormes nubes de dulzura frente a tus ojos, para mayor deleite y antojo. Y a ti, ¿no se te antojó uno?
