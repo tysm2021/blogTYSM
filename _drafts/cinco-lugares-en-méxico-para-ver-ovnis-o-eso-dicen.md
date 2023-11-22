@@ -46,7 +46,7 @@ Atlixco, Pue.
 
 Con su atmósfera espiritual y su historia rica en mitos y leyendas, Tepoztlán en el estado de Morelos es un lugar donde la realidad y la fantasía se entrelazan. La energía mística que envuelve esta región ha llevado a informes de avistamientos de OVNIs. Los cielos despejados sobre las antiguas pirámides y la belleza natural que rodea este pueblo mágico atraen a aquellos que buscan experiencias únicas y misteriosas.
 
-
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">🛸 OVNI en Tepoztlan- Morelos / México 🇲🇽<br><br>Impresionantes imagenes en HD de un objeto volador desconocido, Tepoztlán es un lugar mágico con una pirámide en lo alto de un acantilado con vistas al pueblo. Tiene una larga historia de avistamientos de OVNI. <a href="https://t.co/GrAtdPmp51">pic.twitter.com/GrAtdPmp51</a></p>&mdash; Conspiraciones (@ConspiracionESP) <a href="https://twitter.com/ConspiracionESP/status/1518220781523660800?ref_src=twsrc%5Etfw">April 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Punto Marconi, Pue.
 
