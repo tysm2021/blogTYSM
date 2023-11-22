@@ -37,4 +37,4 @@ La producción industrial del **algodón de azúcar,** como lo conocemos hoy, co
 
 ![](https://etzq49yfnmd.exactdn.com/wp-content/uploads/2022/03/originalpatent.png?strip=all&amp;lossy=1&amp;w=640&amp;ssl=1)
 
-En 1905, otro inventor de nombre **Albert D. Robinson** solicitó una patente para una máquina eléctrica giratoria que mantenía el calor de forma eficiente. Después, en 1921, **Joseph Lascaux** registró una nueva máquina de su invención, en la que nombraba a la golosina como “algodón de azúcar”, superando así el de “seda de hadas”, como hasta ese momento se le denominaba.&nbsp;
+En 1905, otro inventor de nombre **Albert D. Robinson** solicitó una patente para una máquina eléctrica giratoria que mantenía el calor de forma eficiente. Después, en 1921 —cuando la patente de Morrison y Wharton expiró— el dentista&nbsp;**Joseph Lascaux** registró una nueva máquina de su invención, la cual no fue muy exitosa pero en la que nombró a la golosina “**algodón de azúcar**” —*cotton candy*, en inglés— reemplazando el de “seda de hadas”, que hasta ese momento se usaba.&nbsp;
