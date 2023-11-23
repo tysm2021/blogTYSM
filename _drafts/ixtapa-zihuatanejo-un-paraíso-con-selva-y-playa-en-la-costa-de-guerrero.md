@@ -1,5 +1,5 @@
 ---
-title: Tres playas en Guerrero
+title: 'Guerrero no es sólo Acapulco: estas son algunas de sus "otras playas"'
 date: 2023-09-19 16:00:00
 categories:
   - TURISMO
