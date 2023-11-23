@@ -64,3 +64,11 @@ Este mural es una dura crítica contra la guerra, la industrialización y las po
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Prometheus_%281930%29_de_Jos%C3%A9_Clemente_Orozco_en_Pomona_College.jpg/1024px-Prometheus_%281930%29_de_Jos%C3%A9_Clemente_Orozco_en_Pomona_College.jpg)
 
 Este **mural**, que representa al titán de la mitología griega robando el fuego para entregárselo a los hombres, fue comisionado a **Orozco** por este colegio de artes liberales en Estados Unidos. El jalisciense se trasladó a California y vivió en el colegio durante los dos meses que duró la obra. Hasta hoy, el mural preside el refectorio —algo así como la cafetería— de la institución, cuyo edificio fue diseñado por el arquitecto Sumner Spaulding, mismo que comisionó la obra.
+
+## Omniciencia
+
+Casa de los Azulejos; CDMX
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">José Clemente Orozco y su omniciencia. <a href="https://t.co/DDJtD6jQn5">pic.twitter.com/DDJtD6jQn5</a></p>&mdash; Lalo (@Lalo_in) <a href="https://twitter.com/Lalo_in/status/833463676602556416?ref_src=twsrc%5Etfw">February 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Este mural lo conocen todos quienes hayan visitado el afamado restaurante de la tienda de los búhos que se ubica en esta casa histórica, pues es una vista obligada cuando uno se dirige a los sanitarios del establecimiento.&nbsp;
