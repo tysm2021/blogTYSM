@@ -55,4 +55,4 @@ José Clemente Orozco realizó una serie de **murales** en la capilla mayor del 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Palacio_de_Bellas_Artes_-_Mural_Katharsis_Orozco_2.jpg/1024px-Palacio_de_Bellas_Artes_-_Mural_Katharsis_Orozco_2.jpg)
 
-b
+Este mural es una dura crítica contra la guerra, la industrialización y las políticas de masas de la era moderna. La escena central muestra una pelea entre dos hombres, aludiendo a la lucha de clases entre la burguesía y el proletariado, que se funde con armas de alto calibre, máquinas, cuerpos acribillados y una multitud que protesta. La decadencia y la hipocresía moral se simbolizan a través del cuerpo de las prostitutas, y las llamas en la parte superior simbolizan el fuego purificador que dará origen a una nueva sociedad.
