@@ -30,7 +30,7 @@ Todos los mexicanos lamentamos lo sucedido en el puerto de **Acapulco** con el p
 
 Revisemos tres **destinos con playa** ubicados en el **estado** de **Guerrero**. que van de los lujoso a lo más sencillo, y de hoteles de cinco estrellas a humildes enramadas. En todos ellos, sin embargo, podrás disfrutar del sol, la brisa, el mar, la gastronomía y los atardeceres del Pacífico mexicano.
 
-TE RECOMENDAMOS:&nbsp;
+**TE RECOMENDAMOS: [¿Qué significan las estrellas de los hoteles en México?](https://blog.tonoysumariachi.com/turismo/2022/07/27/que-significan-las-estrellas-de-los-hoteles-en-mexico.html)**
 
 ## Ixtapa-Zihuatanejo
 
