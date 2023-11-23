@@ -1,6 +1,6 @@
 ---
 title: 'No sólo está Acapulco: tres playas de Guerrero que debes conocer'
-date: 2023-09-19 16:00:00
+date: 2023-11-23 17:00:00
 categories:
   - TURISMO
 tags:
