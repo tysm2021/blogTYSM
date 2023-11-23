@@ -40,3 +40,19 @@ Conozcamos algunas de las **mejores obras** y de los **murales** más **famosos*
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jose_Clemente_Orozco_mural_at_San_Ildefonso.jpg/1024px-Jose_Clemente_Orozco_mural_at_San_Ildefonso.jpg)
 
 Este **mural** es uno de las más representativos de **José Clemente Orozco**. Se observan tres hombres en diagonal que caen apoyados en sus cuerpos contra el bloque de piedra que les sirve de parapeto. La composición expresa la tensión, la fuerza y el dolor de la batalla revolucionaria. El manejo de las luces y las sombras, y de los tonos rojos sugiere al espectador el fuego y la sangre de la contienda.
+
+## Hombre en llamas (1935-1939)
+
+**Hospicio Cabañas, Guadalajara, Jal.**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hombre_en_llamas_por_Clemente_Orozco_-_panoramio.jpg/1024px-Hombre_en_llamas_por_Clemente_Orozco_-_panoramio.jpg)
+
+José Clemente Orozco realizó una serie de **murales** en la capilla mayor del **Hospicio Cabañas**, en la ciudad de Guadalajara, capital de su estado natal. En ellos, combinó su arte plástico con la crítica social a través de la representación de la historia de México desde los tiempos prehispánicos hasta lo que en aquel entonces era el presente: las primeras décadas del siglo XX. El más conocido de ellos es&nbsp;*El hombre en llamas*, pintado en la **cúpula** de la **capilla.**&nbsp;Por su importancia artística, histórica y arquitectónica, el Hospicio Cabañas fue&nbsp; declarado Patrimonio de la Humanidad por la UNESCO.
+
+## Khatarsis (1934)
+
+**Museo del Palacio de Bellas Artes, CDMX**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Palacio_de_Bellas_Artes_-_Mural_Katharsis_Orozco_2.jpg/1024px-Palacio_de_Bellas_Artes_-_Mural_Katharsis_Orozco_2.jpg)
+
+b
