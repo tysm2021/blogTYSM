@@ -1,5 +1,5 @@
 ---
-title: 'Guerrero no es sólo Acapulco: estas son algunas de sus "otras playas"'
+title: 'No sólo está Acapulco: tres playas de Guerrero que debes conocer'
 date: 2023-09-19 16:00:00
 categories:
   - TURISMO
@@ -55,5 +55,3 @@ Eso sí, toma en cuenta que **está a mar abierto** y su oleaje va de moderado a
 Si te gustan las **playas** sencillas, la comida preparada por pescadores y quedarte en el "Hotel Camarena" o el "Mil Estrellas"—es decir, acampar en la playa, sin más techo que el cielo estrellado—, este lugar es ideal para ti. Se encuentra a 10 minutos del pueblo de Copala y en él sólo encontrarás hotelitos rústicos y enramadas para montar una casa de campaña y dormir arrullado por el sonido del mar. Además de disfrutar de la naturaleza, podrás practicar algunos deportes acuáticos t contemplar la puesta del sol. es todo un espectáculo porque no sólo el astro rey se convierte en una gigante pelota naranja, sino es cuando que las rayas voladoras salen del mar .
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ventura_Beach_in_Guerrero%2C_Mexico.jpg/1024px-Ventura_Beach_in_Guerrero%2C_Mexico.jpg)
-
-Marquelia
