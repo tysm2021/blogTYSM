@@ -1,6 +1,6 @@
 ---
 title: 'José Clemente Orozco: ¿cuáles son los mejores murales?'
-date: 2023-09-19 16:00:00
+date: 2023-11-23 11:00:00
 categories:
   - CULTURA
 tags:
