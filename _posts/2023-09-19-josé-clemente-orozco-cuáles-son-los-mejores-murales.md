@@ -69,11 +69,6 @@ Este **mural**, que representa al titán de la mitología griega robando el fueg
 
 **Casa de los Azulejos; CDMX**
 
-> José Clemente Orozco y su omniciencia. [pic.twitter.com/DDJtD6jQn5](https://t.co/DDJtD6jQn5)
->
-> — Lalo (@Lalo\_in) [February 19, 2017](https://twitter.com/Lalo_in/status/833463676602556416?ref_src=twsrc%5Etfw)
-{: .twitter-tweet}
-
-
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">OMNICIENCIA<br>Mural ubicado en el cubo de la escalera, pintado por José Clemente Orozco en 1925. <a href="http://t.co/H3AAoga3Zy">pic.twitter.com/H3AAoga3Zy</a></p>&mdash; FMX Festival del Centro Histórico (@FestivalMexico) <a href="https://twitter.com/FestivalMexico/status/582235980729438209?ref_src=twsrc%5Etfw">March 29, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Este **mural** lo conocen todos quienes hayan visitado el afamado restaurante de la tienda de los búhos que se ubica en esta casa histórica, pues es una vista obligada cuando uno se dirige a los sanitarios del establecimiento. Fue una de las primeras obras murales de Orozco y presenta dos figuras femeninas y una masculina, que simboliza a una de las Tres Gracias de la antigüedad, que son custodiados por dos gigantes.
