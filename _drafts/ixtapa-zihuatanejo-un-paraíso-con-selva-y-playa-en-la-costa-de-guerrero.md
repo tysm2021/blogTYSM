@@ -42,8 +42,16 @@ En la hermosa **Bahía de Zihuatanejo** destacan: la **Playa La Ropa**, la **Pla
 
 **Ixtapa**, por su parte, es un complejo turístico de construcción más reciente y aledaño a **Zihuatanejo**, con *resorts* de clase mundial y playas privadas. Destaca la Playa El Palmar, la más larga de Ixtapa y en cuya orilla encontrarás una gran oferta hotelera y de restaurantes.
 
-Playa Troncones
+## Playa Troncones
+
+Esta playa se encuentra al norte de la costa **guerrerense**, entre **Ixtapa-Zihuatanejo** y la frontera con el estado de Michoacán, cerca del puerto de Lázaro Cárdenas; es uno de los destinos favoritos para lunamieleros y parejas en plan romántico, pues su playa es poco poblada y larga, con atardecer espectaculares que invitar a tomar caminatas, elegantes alojamientos y una propuesta interesante propuesta gastronómica.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Playa_Troncones%2C_Costa_Grande%2C_Guerrero%2C_Troncones_Beach%2C_Costa_Grande%2C_Guerrero_%2824980714395%29.jpg/1024px-Playa_Troncones%2C_Costa_Grande%2C_Guerrero%2C_Troncones_Beach%2C_Costa_Grande%2C_Guerrero_%2824980714395%29.jpg)
+
+Eso sí, toma en cuenta que **está a mar abierto** y su oleaje va de moderado a intenso, por lo que lo mejor es usar las piscinas naturales de los hoteles frente al mar, aunque para los surfistas sus olas resultan ideales por su tamaño.
 
 Playa Ventura
+
+
 
 Marquelia
