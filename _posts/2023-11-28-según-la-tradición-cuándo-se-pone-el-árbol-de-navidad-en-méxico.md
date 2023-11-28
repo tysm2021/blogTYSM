@@ -15,7 +15,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-camilosesto.png
+    src: /uploads/1024px-arbolnavidad.jpg
 sharing: true
 author: Redacción TYSM
 cover: /uploads/1024px-arbolnavidad.jpg
