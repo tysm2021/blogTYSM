@@ -18,10 +18,10 @@ article_header:
     src: /uploads/1024px-camilosesto.png
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/1024px-arbolnavidad.jpg
 show_author_profile: false
 comment: false
 summary: >-
-  Desde mediados del siglo XX, una serie de artistas y cantantes españoles
-  emprendieron la "reconquista" del público mexicano
+  A pesar de que en tiendas, supermercados y centros comerciales la Navidad
+  empieza desde septiembre, ¿cuándo es la fecha tradicional para poner el árbol?
 ---
