@@ -45,12 +45,16 @@ Esta opción es meramente práctica. Pensemos: si uno cobra el día 30 de noviem
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Decorating_the_tree.jpg/921px-Decorating_the_tree.jpg)
 
-8 de diciembre
+**TE RECOMENDAMOS: [Rosca de Reyes: origen, historia y simbolismo.](https://blog.tonoysumariachi.com/gastronomia/2023/01/05/rosca-de-reyes-origen-historia-y-simbolismo.html){: target="_blank" rel="noopener"}**
 
+### 8 de diciembre
 
+Ese día es la fiesta religiosa de la **Inmaculada Concepción** de María —no nos checan las cuentas, pero ni quién se fije— y, según un edicto del papa Pío IX, emitido en el año 1854, es la fecha correcta para montar el **árbol de Navidad** y el **nacimiento**.&nbsp;
 
-12 de diciembre
+### 12 de diciembre
 
-En muchos hogares mexicanos, el Día de la Virgen de Guadalupe marca el inicio de las festividades navideñas. Algunas familias optan por montar su árbol en esta fecha como un gesto de devoción y para extender la alegría navideña durante todo el mes. Este día se vincula con las raíces católicas del país y establece el tono festivo para las semanas venideras.
+Por último, en muchos hogares mexicanos el **Día de la Virgen de Guadalupe** marca el inicio de las festividades navideñas, de modo que algunas familias optan por montar su árbol en esta fecha como un gesto de devoción y para extender la alegría navideña durante todo el mes. Este día se vincula con las raíces católicas del país y establece el tono festivo para las semanas venideras.
 
-A lo largo de los últimos 50 años, la tradición de montar el árbol de Navidad en México ha experimentado cambios significativos. Antes, la decoración solía ser más sencilla, con elementos tradicionales como luces, esferas y figuras de papel. Sin embargo, con el tiempo, la influencia de las tendencias globales ha llevado a una mayor diversidad de adornos, desde los clásicos hasta los más modernos y personalizados.
+A lo largo de los años, la tradición de montar el árbol de Navidad en México ha experimentado cambios significativos. Antes, la decoración solía ser más sencilla, con elementos tradicionales como luces, esferas y figuras de papel; sin embargo, con el tiempo, la influencia de las tendencias globales ha llevado a una mayor diversidad de adornos, desde los clásicos hasta los más modernos y personalizados, pasando por luces colores y esferas fantásticas e irrompibles. Pero, al final, la tradición es la misma.
+
+Y tú, ¿cuándo pones el árbol de Navidad?
