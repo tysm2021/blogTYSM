@@ -55,6 +55,6 @@ Ese día es la fiesta religiosa de la **Inmaculada Concepción** de María —no
 
 Por último, en muchos hogares mexicanos el **Día de la Virgen de Guadalupe** marca el inicio de las festividades navideñas, de modo que algunas familias optan por montar su árbol en esta fecha como un gesto de devoción y para extender la alegría navideña durante todo el mes. Este día se vincula con las raíces católicas del país y establece el tono festivo para las semanas venideras.
 
-A lo largo de los años, la tradición de montar el árbol de Navidad en México ha experimentado cambios significativos. Antes, la decoración solía ser más sencilla, con elementos tradicionales como luces, esferas y figuras de papel; sin embargo, con el tiempo, la influencia de las tendencias globales ha llevado a una mayor diversidad de adornos, desde los clásicos hasta los más modernos y personalizados, pasando por luces colores y esferas fantásticas e irrompibles. Pero, al final, la tradición es la misma.
+A lo largo de los años, la tradición de **montar** el **árbol de Navidad** en **México** ha experimentado cambios significativos. Antes, la decoración solía ser más sencilla, con elementos tradicionales como luces, esferas y figuras de papel; sin embargo, con el tiempo, la influencia de las tendencias globales ha llevado a una mayor diversidad de adornos, desde los clásicos hasta los más modernos y personalizados, pasando por luces colores y esferas fantásticas e irrompibles. Pero, al final, la tradición es la misma.
 
-Y tú, ¿cuándo pones el árbol de Navidad?
+Y tú, ¿**cuándo** pones el **árbol de Navidad**?
