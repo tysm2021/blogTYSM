@@ -1,5 +1,5 @@
 ---
-title: Esferas de Navidad
+title: La leyenda, el origen y el significado de las esferas de Navidad
 date: 2023-11-29 17:00:00
 categories:
   - MUNDO
@@ -18,7 +18,7 @@ article_header:
     src: /uploads/salah-ait-mokhtar-4rah9d3qqre-unsplash.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/salah-ait-mokhtar-4rah9d3qqre-unsplash.jpeg
 show_author_profile: false
 comment: false
 summary: >-
