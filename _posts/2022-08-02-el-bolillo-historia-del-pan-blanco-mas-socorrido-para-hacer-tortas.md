@@ -1,12 +1,12 @@
 ---
-title: 'El bolillo: historia del pan blanco más socorrido para hacer tortas'
-date: 2022-08-02 00:00:00 UTC
+title: 'El bolillo: historia del "pan nuestro de todos los días" de los mexicanos'
+date: 2022-08-02 00:00:00
 categories:
-- GASTRONOMIA
+  - GASTRONOMIA
 tags:
-- comida
-- cocina
-- pan
+  - comida
+  - cocina
+  - pan
 author: Redacción TYSM
 layout: article
 excerpt_separator: <!--more-->
@@ -19,19 +19,15 @@ article_header:
     src: >-
       /images/2022-08-02-agregados_a_la_gastronomia_mexicana-_sincretismo_02-_bolillos.jpeg
 sharing: true
-summary: 'Nuestra panadería y repostería tienen clara influencia europea: prueba de
-  ellos son los famosos bolillos, ¿conoces su historia?'
-cover: "/images/2022-08-02-agregados_a_la_gastronomia_mexicana-_sincretismo_02-_bolillos.jpeg"
+summary: >-
+  Nuestra panadería y repostería tienen clara influencia europea: prueba de
+  ellos son los famosos bolillos, ¿conoces su historia?
+cover: >-
+  /images/2022-08-02-agregados_a_la_gastronomia_mexicana-_sincretismo_02-_bolillos.jpeg
 show_author_profile: false
 comment: false
 _template: plantilla
 ---
-
-
-
-
-
-
 Una de las piezas de **pan** blanco más vendidas en todo **México** es, sin duda, el **bolillo**. Ya sea para acompañar unos huevitos, un guisado o en **tortas**, a los mexicanos nos gustan tanto los bolillos que hasta le otorgamos propiedades medicinales, diciendo que son "buenos pa'l susto". ¿Conoces la **historia** que dio **origen** a su llegada a **México**?
 
 A continuación te platicamos brevemente el recorrido que hizo el **bolillo** en nuestras tierras, desde un humilde grano de trigo, hasta convertirse en una de las bases de la alimentación de la gran familia mexicana. Acompáñanos…
