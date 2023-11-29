@@ -39,4 +39,8 @@ Por esa razón, el kilo de **tortillas azules** puede ser 50 por ciento que el d
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Quesadilla_Verde_con_salsa_Verde_en_plato_Verde_%2811226830656%29.jpg/1024px-Quesadilla_Verde_con_salsa_Verde_en_plato_Verde_%2811226830656%29.jpg)
 
-La prueba es muy sencilla
+La prueba es muy sencilla: un reporte científico explica que visualmente, el color de las **falsas tortillas azules** es más intenso y uniforme —es decir, se ven exageradamente azulosas— , mientras que las **tortillas de maíz azul** genuino se ven más bien entre verdes, grisáceas y azulosas.
+
+Pero si hay dudas el limón será el mejor juez que: al entrar en contacto con el limón, ambas tortillas empezarán a decolorarse, pero las falsas se decolorarán muy poco y casi de inmediato —aproximadamente un minuto después de colocar el limón—, mientras las **tortillas de maíz azul** auténticas tardarán hasta 30 minutos en decolorarse y pasará primero del azul al morado, y después al rosa.
+
+Si te venden tortillas falsas, ¡denuncia! La Procuraduría Federal del Consumidor está para escuchar tus quejas. Y tú, ¿qué tipo de tortillas prefieres o con qué te comes tus **tortillas azules**?&nbsp;
