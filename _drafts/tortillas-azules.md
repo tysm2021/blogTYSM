@@ -30,3 +30,9 @@ Seguramente las has visto: son **tortillas**&nbsp;de aspecto normal pero elabora
 A continuación te contamos de dónde salen las **tortillas azules** y la masa azul, por qué tiene esa coloración y ese sabor, y sobre cómo puedes saber si son **auténticas** o si sólo las colorearon para vendértelas más caras.
 
 **TE RECOMENDAMOS: [¿Las tortillas engordan? La ciencia responde.](https://blog.tonoysumariachi.com/gastronomia/2022/07/29/las-tortillas-engordan-la-ciencia-responde.html){: target="_blank" rel="noopener"}**
+
+Hablemos un poco sobre el **maíz azu**l. Según el Gobierno de México, la coloración azulada de esta familia del maíz se da gracias a las **antocianinas,**&nbsp;que son pigmentos que se hallan en las diferentes capas del grano y le dan su color característico —son las mismas que se encuentran en las cerezas, los arándanos y las ciruelas—. Esta especie de maíz se cultiva en Campeche, Jalisco, Guerrero, Puebla y Michoacán, principalmente, pero su mayor productor es el Estado de México, con 200 mil toneladas anuales.
+
+Además de hacer **tortillas**, este **maíz azul** se emplea para producir pinole, atoles, colorantes y cervezas artesanales —porque, sí, además de trigo y cebada también pueden hacerse con **maíz**— ¿Y por qué es tan caro? Según cifras gubernamentales, el **maíz azul** se comercializa a un precio 70 por ciento más elevado que el maíz blanco, pues su producción representa menos del cinco por ciento del volumen nacional.
+
+Por esa razón, el kilo de **tortillas azules** puede ser 50 por ciento que el de tortillas blancas. Y por eso, también, es que algunas productores engañan a los consumidores "azuleando" la masa con anilinas o colorantes para venderla más cara. ¿Cómo saber, entonces, si estás comprando **tortillas azules** auténticas?
