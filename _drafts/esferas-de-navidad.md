@@ -51,3 +51,11 @@ Por otra parte, además de simbolizar el pecado original cometido por Adán y Ev
 La tradición del árbol de Navidad llegó a México con el emperador Maximiliano de Habsburgo, en el siglo XIX. Aunque al principio sólo la adoptaron los migrantes, extranjeros y las familias ricas, poco a poco se fue posicionando y en el siglo XX, con la aparición del cine y la exposición a las películas navideñas de Estados Unidos, finalmente se integró a las tradiciones mexicanas. Pero si hablamos de esferas mexicanas, hay que hablar de dos pueblos: Chignahuapan y Tlalpujahua.
 
 **Chignahuapan** se encuentra en el norte del estado de Puebla y, además de ser el lugar que vio nacer a Gaspar Henaine "Capulina", es una de las dos capitales **mexicanas** de la **esfera navideña**. Se cuenta que, en la década de 1950, el primer esferero fue **Rafael Méndez Núñe**z, quien instaló el primer taller en el pueblo. Actualmente hay más de 200 talleres y se estima que su producción anual rebasa los 50 millones de esferas. ¿Qué tal?
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Venta_de_esferas_navide%C3%B1as_en_Chignahuapan%2C_Puebla_03.jpg/1024px-Venta_de_esferas_navide%C3%B1as_en_Chignahuapan%2C_Puebla_03.jpg)
+
+Por otro lado, el pueblo de **Tlalpujahua** —enclavado en el estado de **Michoacán**— es la otra Meca mexicana de la esfera. Según cuentan sus pobladores, todo comenzó gracias al señor Joaquín Muñoz Orta, quien migró a los Estados Unidos a mitad del siglo XX y ahí aprendió la fabricación de adornos navideños; regresó a México en 1965 y, justo a su esposa, montó su primer taller, llamado Adornos navideños.
+
+Se estima que la producción en **Tlalpujahua** es de unos 40 millones de esferas, de las cuales 30 millones terminan fuera de México, pues se exportan a distintos países del mundo como Estados Unidos, Canadá, Holanda, Inglaterra y hasta Singapur.
+
+Y tú, ¿pones esferas en tu Árbol de Navidad? ¿Cuáles son tus favoritas?
