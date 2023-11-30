@@ -18,7 +18,7 @@ article_header:
     src: /uploads/mariposa-monarca-danaus-plexippus-5185520652.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/mariposa-monarca-danaus-plexippus-5185520652.jpeg
 show_author_profile: false
 comment: false
 summary: >-
