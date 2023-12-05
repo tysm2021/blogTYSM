@@ -18,10 +18,17 @@ article_header:
     src: /uploads/santa-claus-for-christmas.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/santa-claus-for-christmas.jpeg
 show_author_profile: false
 comment: false
 summary: >-
   En el mes de diciembre es un personaje que encuentras por todos lados, y
   aunque muchos creen que son los colores de un refresco, la verdad es otra…
 ---
+Llegó diciembre, las posadas, las compras navideñas, las cenas de fin de año en el trabajo, la cena de Nochebuena y, ¡claro, la Navidad. Y uno de los personajes infaltables en esta época de frío, regalos y amor fraterno es Santa Claus: un anciano bonachón de largas barbas blancas que trae regalos y juguetes a los niños del mundo, y siempre viste de rojo y blanco. Pero, ¿por qué siempre se viste con esos colores? ¿Es verdad que es por un famoso refresco de cola?
+
+En este artículo revisaremos, a grandes rasgos, la historia de Santa Claus y de su antecedente, San Nicolás, y el origen de esos colores que se han convertido en símbolos de la Navidad.
+
+TE RECOMENDAMOS: ¿Cuándo se debe poner el Árbol de Navidad en México?
+
+Santa Claus —también llamado Papá Noel en otros países— se basa en la figura histórica de San Nicolás de Bari, un obispo griego que vivió en el siglo IV de nuestra era. En vida, Nicolás fue un hombre a quien sus padres le habían dejado una gran cantidad de dinero cuando fallecieron y él, en lugar de utilizar todo el dinero para su propio placer y disfrute, utilizó gran parte para ayudar a los pobres, quienes recibían regalos secretos de él. Finalmente, gracias a su generosidad, Nicolás fue nombrado santo.
