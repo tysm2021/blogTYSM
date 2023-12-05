@@ -47,7 +47,11 @@ No es de extrañar que, siendo el **Citlaltépetl** la montaña más alta de **M
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/34/Pico_de_Orizaba_desde_Hidalgo%2C_Puebla.jpg)
 
-Arteaga, Coahuila
+## Arteaga, Coahuila
+
+En este pblado
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Los_Oyameles%2C_Arteaga%2C_Coahuila_-_panoramio_%2818%29.jpg/1024px-Los_Oyameles%2C_Arteaga%2C_Coahuila_-_panoramio_%2818%29.jpg)
 
 Parque Nacional Iztaccíhuatl-Popocatépetl
 
