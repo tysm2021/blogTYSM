@@ -32,7 +32,9 @@ A continuación te presentamos los cinco lugares más fríos de México, donde e
 
 **TE RECOMENDAMOS:&nbsp;[El Chepe: costos, ruta e historia de este tren turístico.](https://blog.tonoysumariachi.com/turismo/2022/07/05/el-chepe-costos-ruta-e-historia-de-este-tren-turistico.html){: target="_blank" rel="noopener"}**
 
-Ciudad Madera, Chihuahua
+## Madera, Chihuahua
+
+Esta población —también conocida como Ciudad Madera— se encuentra a una altura de 2,112 metros sobre el nivel del mar, enmedio de una región boscosa que se dedica a la explotación forestal y al comercio de la madera: de ahí proviene su nombre. Según la Comisión Nacional de Agua (CONAGUA), es el punto donde se presentó **la temperatura más baja registrada en todo el país**: en 1997, el termómetro marcó -27 °C y, en el 2006, llegó a -21°C. Es común que en la zona se presenten fuertes nevadas, por lo que es un sitio favorito para quienes disfrutan de estos blancos paisajes.
 
 
 
