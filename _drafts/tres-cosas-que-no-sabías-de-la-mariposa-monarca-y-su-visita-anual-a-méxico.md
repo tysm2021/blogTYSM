@@ -43,4 +43,6 @@ Las **mariposas Monarca** que llegan a **México** vienen de Canadá, específic
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/39/Monarch_butterfly_rush_2.jpg)
 
-\#3&nbsp;
+## \#3 Tienen un santuario en México
+
+La Reserva de la Biosfera **Mariposa Monarca** —comúnmente conocida como Santuario de la **Mariposa Monarca**— se localiza al oriente del estado de Michoacán en los límites con el poniente del Estado de México
