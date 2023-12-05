@@ -43,6 +43,10 @@ Las **mariposas Monarca** que llegan a **México** vienen de Canadá, específic
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/39/Monarch_butterfly_rush_2.jpg)
 
-## \#3 Tienen un santuario en México
+## \#3 Tienen santuarios en México
 
-La Reserva de la Biosfera **Mariposa Monarca** —comúnmente conocida como Santuario de la **Mariposa Monarca**— se localiza al oriente del estado de Michoacán en los límites con el poniente del Estado de México
+La Reserva de la Biosfera **Mariposa Monarca** se localiza al oriente del estado de Michoacán en los límites con el poniente del Estado de México. Por otro lado, están los llamados **Santuarios** de la **Monarca** —que están considerados entre las bellezas naturales mexicanas reconocidas por la UNESCO como Patrimonio de la Humanidad—, los cuales reciben los nombres de Parador Turístico **El Rosario**, Centro de Cultura para la Conservación Sierra **Chincua** y Parador Turístico **Senguio**, en Michoacán; y en el Estado de México se pueden visitar el Parador Turístico El **Capulín** y **Macheros** y el Parador Turístico **La Mesa**. Estos permanecen abiertos al público desde noviembre hasta marzo del siguiente año.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ocampo_06.jpg/1024px-Ocampo_06.jpg)
+
+El acceso a estos sitios debe ser con guía y siguiendo medidas de seguridad y preservación como: no llevar aparatos de sonido (grabadora, radio, etc.); no dejar basura ni hacer ruido y no llevarse&nbsp;mariposas, vivas o muertas, pues ¡está estrictamente prohibido!
