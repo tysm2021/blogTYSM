@@ -31,3 +31,21 @@ En México, durante los meses de diciembre y enero se dejan sentir las heladas, 
 A continuación te presentamos los cinco lugares más fríos de México, donde el termómetro en el invierno marca temperaturas bajo cero y donde, en algunas ocasiones, es posible presenciar la caída de la nieve en este país tropical. Acompáñanos.
 
 **TE RECOMENDAMOS:&nbsp;[El Chepe: costos, ruta e historia de este tren turístico.](https://blog.tonoysumariachi.com/turismo/2022/07/05/el-chepe-costos-ruta-e-historia-de-este-tren-turistico.html){: target="_blank" rel="noopener"}**
+
+Ciudad Madera, Chihuahua
+
+
+
+Pico de Orizaba, Veracruz
+
+
+
+Arteaga, Coahuila
+
+
+
+Parque Nacional Iztaccíhuatl-Popocatépetl
+
+
+
+Cofre de Perote, Veracruz
