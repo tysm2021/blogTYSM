@@ -35,4 +35,4 @@ En este artículo revisaremos, a grandes rasgos, la historia de **Santa Claus** 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d9/Jaroslav_%C4%8Cerm%C3%A1k_%281831_-_1878%29_-_Sv._Mikul%C3%A1%C5%A1.jpg)
 
-Entonces
+Ahora, para responder la pregunta de **por qué Santa Claus siempre viste de rojo** y **blanco**, los historiadores han analizado la vestimenta de los santos durante los primeros siglos de nuestra era. **San Nicolás** vivió durante el siglo IV, una época en la que las túnicas de los **obispos** eran de esos colores, como podemos ver en el cuadro. Así, se cree que los colores de la ropa de San Nicolás podrían ser una de las razones por las que nuestro **Santa Claus** o Papá Noel modernizado usa esos colores.
