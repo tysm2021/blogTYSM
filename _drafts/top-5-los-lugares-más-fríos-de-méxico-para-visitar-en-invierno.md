@@ -43,13 +43,13 @@ Esta población —también conocida como Ciudad Madera— se encuentra a una al
 
 ## Pico de Orizaba, Veracruz
 
-No es de extrañar que, siendo el **Citlaltépetl** la montaña más alta de **México** —aunque en realidad es un volcán, el segundo más alto del mundo—, debido a su altitud (5,363 metros sobre el nivel del mar) en la cima se alcancen **temperaturas** francamente gélidas. La temperatura mínima promedio anual es de **\-12 °C**, mientras que la media anual es de -2 °C. Además, aquí podemos encontrar el glaciar más grande de México, llamado "Gran Glaciar Norte" que mide 9 kilómetros cuadrados.
+No es de extrañar que, siendo el **Citlaltépetl** la montaña más alta de **México** —aunque en realidad es un volcán, el segundo más alto del mundo—, debido a su altitud (5,363 metros sobre el nivel del mar) en la cima se alcancen **temperaturas** francamente gélidas. La **temperatura mínima promedio** es de **\-12 °C**, mientras que la media anual es de -2 °C. Además, aquí podemos encontrar el glaciar más grande de México, llamado "Gran Glaciar Norte" que mide 9 kilómetros cuadrados.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/34/Pico_de_Orizaba_desde_Hidalgo%2C_Puebla.jpg)
 
 ## Arteaga, Coahuila
 
-En este pblado
+Este poblado lleva el nombre del general José María Arteaga, un destacado militar durante la intervención estadounidse
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Los_Oyameles%2C_Arteaga%2C_Coahuila_-_panoramio_%2818%29.jpg/1024px-Los_Oyameles%2C_Arteaga%2C_Coahuila_-_panoramio_%2818%29.jpg)
 
