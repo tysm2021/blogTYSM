@@ -25,7 +25,7 @@ summary: >-
   Desde mediados del siglo XX, una serie de artistas y cantantes españoles
   emprendieron la "reconquista" del público mexicano
 ---
-Seguramente las has visto aleteando por ahí: son unas hermosas **mariposas** cuyas alas combinan gamas de negros y naranjas encendidos como el fuego. Se trata de la&nbsp;**Mariposa Monarca**, una especie que al final de todos los años realiza una larga **migración** desde **Canadá** hasta su **santuario** **mexicano** en el estado de **Michoacán**.&nbsp;
+Seguramente las has visto aleteando por ahí: son unas hermosas **mariposas** cuyas alas combinan gamas de negros y naranjas encendidos como el fuego. Se trata de la&nbsp;**Mariposa Monarca**, una especie que al final de todos los años realiza una larga **migración** desde **Canadá** hasta su **santuario** **mexicano** en los estados de **México** y&nbsp;**Michoacán**.&nbsp;
 
 Aquí te daremos tres datos sorprendentes sobre esta bella **mariposa** que desde el mes de noviembre y hasta los primeros días de enero cruza la República Mexicana en busca de tierras tibias donde anidar y reproducirse.
 
