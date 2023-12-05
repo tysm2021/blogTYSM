@@ -49,7 +49,7 @@ No es de extrañar que, siendo el **Citlaltépetl** la montaña más alta de **M
 
 ## Arteaga, Coahuila
 
-Este poblado lleva el nombre del general José María Arteaga, un destacado militar durante la intervención estadounidse
+Este poblado lleva el nombre del general José María Arteaga, un destacado militar durante la intervención estadounidense, aunque algunos amantes de los deportes de invierno lo conocen como "la Suiza mexicana".&nbsp;
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Los_Oyameles%2C_Arteaga%2C_Coahuila_-_panoramio_%2818%29.jpg/1024px-Los_Oyameles%2C_Arteaga%2C_Coahuila_-_panoramio_%2818%29.jpg)
 
