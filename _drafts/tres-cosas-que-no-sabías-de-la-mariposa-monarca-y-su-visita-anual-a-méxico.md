@@ -33,4 +33,6 @@ Aquí te daremos tres datos sorprendentes sobre esta bella mariposa que desde el
 
 ## \#1. Existen dos tipos de Monarcas
 
-Lo primero que hay que saber es que existen dos familias de Mariposa Monarca: las del norte, que son las que conocemos, y las del sur. Las primeras tienen el nombre científico de&nbsp;*Danaus plexippus* y vive en los bosques de Canadá, Estados Unidos y México. La otra especie se llama &nbsp;*Danaus eippus* y vive en América del Sur, desde el sur de Perú hasta Chile y Argentina, pasando por Brasil, Bolivia, Paraguay y Uruguay.&nbsp;
+Lo primero que hay que saber es que existen dos familias de Mariposa Monarca: las del norte, que son las que conocemos, y las del sur. Las primeras tienen el nombre científico de&nbsp;*Danaus plexippus* y vive en los bosques de Canadá, Estados Unidos y México. La otra especie se llama &nbsp;*Danaus eippus* y vive en América del Sur, desde el sur de Perú hasta Chile y Argentina, pasando por Brasil, Bolivia, Paraguay y Uruguay. Si bien son muy similares, la Monarca del sur por lo general tiene un borde naranja detrás de las alas anteriores, mientras que en&nbsp;*D. plexippus*&nbsp;es negro. En la foto vemos una hembra de la variedad del sur.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Danaus_erippus%2C_female.jpg/1024px-Danaus_erippus%2C_female.jpg)
