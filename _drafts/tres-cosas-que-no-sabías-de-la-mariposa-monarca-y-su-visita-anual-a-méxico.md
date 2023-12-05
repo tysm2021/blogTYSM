@@ -29,8 +29,8 @@ Seguramente las has visto aleteando por ahí: son unas hermosas mariposas cuyas 
 
 Aquí te daremos tres datos sorprendentes sobre esta bella mariposa que desde el mes de noviembre y hasta los primeros días de enero cruza la República Mexicana en busca de tierras tibias donde anidar y reproducirse.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: Frida Kahlo, ¿cuáles son sus pinturas más caras?**
 
-Existen dos tipos de Monarcas
+## \#1. Existen dos tipos de Monarcas
 
-Lo primero que hay que saber es que existen dos familias de Mariposa Monarca: las del norte, que son las que conocemos, y las del sur.&nbsp;
+Lo primero que hay que saber es que existen dos familias de Mariposa Monarca: las del norte, que son las que conocemos, y las del sur. Las primeras tienen el nombre científico de&nbsp;*Danaus plexippus* y vive en los bosques de Canadá, Estados Unidos y México. La otra especie se llama &nbsp;*Danaus eippus* y vive en América del Sur, desde el sur de Perú hasta Chile y Argentina, pasando por Brasil, Bolivia, Paraguay y Uruguay.&nbsp;
