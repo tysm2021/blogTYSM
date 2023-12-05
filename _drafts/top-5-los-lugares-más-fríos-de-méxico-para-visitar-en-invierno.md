@@ -41,6 +41,8 @@ Esta población —también conocida como Ciudad Madera— se encuentra a una al
 
 ## La Rosilla, Durango
 
+Esta población de apenas 300 habitantes quedó en segundo lugar por un escaso margen, pues durante décadas ha sido llamado "el congelador de México" y considerado el **punto más frío** del país. Enclavado en lo alto de la Sierra Madre Occidental, en el municipio de Guanasevi, a una altura de 2728 metros sobre el nivel del mar, registra una **temperatura mínima promedio** de **\-7 ºC**, pero en enero el termómetro ha llegado a bajar hasta los -25 ºC.&nbsp;
+
 
 
 ## Pico de Orizaba, Veracruz
