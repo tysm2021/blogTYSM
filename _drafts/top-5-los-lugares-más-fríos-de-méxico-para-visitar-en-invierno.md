@@ -49,7 +49,7 @@ No es de extrañar que, siendo el **Citlaltépetl** la montaña más alta de **M
 
 ## Arteaga, Coahuila
 
-Este poblado lleva el nombre del general José María Arteaga, un destacado militar durante la intervención estadounidense, aunque algunos amantes de los deportes de invierno lo conocen como "la Suiza mexicana".&nbsp;
+Este poblado lleva el nombre del general José María Arteaga, un destacado militar del siglo XIX que defendió a México durante las intervenciones estadounidenses y francesa, aunque algunos amantes de los deportes de invierno lo conocen como "la Suiza mexicana"… aunque dudamos que el clima por allá sea tan extremoso: en invierno, la **temperatura mínima promedio** es de **\-10 °C** en invierno y en 2017 llegó a **\-18 ºC**; mientras que en verano rebasa los 30 °C. Cuando llega el invierno, las nevadas cubren de blanco las montañas y los bosques de oyameles, razón por la que se practica el esquí y las impresionantes vistas panorámicas atraen a muchos turistas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Los_Oyameles%2C_Arteaga%2C_Coahuila_-_panoramio_%2818%29.jpg/1024px-Los_Oyameles%2C_Arteaga%2C_Coahuila_-_panoramio_%2818%29.jpg)
 
