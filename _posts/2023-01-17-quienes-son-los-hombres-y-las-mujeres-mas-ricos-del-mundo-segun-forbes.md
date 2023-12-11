@@ -36,17 +36,17 @@ En **octavo lugar** está un paisano nuestro: el ingeniero **Carlos Slim Helú**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Carlos_Slim_%2845680472234%29_%28cropped%29.jpg/731px-Carlos_Slim_%2845680472234%29_%28cropped%29.jpg)
 
-Las posiciones \#6 y \#7 las ocupan los fundadores del gigante tecnológico Google —actualmente convertido en un corporativo llamado Alphabet— y quienes fueran sus presidentes hasta diciembre de 2019, cuando renunciaron a esa posición y quedaron sólo como accionistas; nos referimos a **Sergey Brin** y **Larry Page**, quienes amasaron sendas fortunas de 107 y 111 miles de millones de dólares, respectivamente. Aquí ambos, retratados en un evento del año 2008.
+En el escalon \#7 tenemos al estadounidense **Michael Bloomberg**, fundador de la empresa financiera, de análisis de datos y de medios de comunicación Bloomberg LP, y que además varias veces ha sido alcalde de la ciudad de Nueva York y asesor en asuntos de defensa militar y tecnología del gobierno de Estados Unidos. Su enorme fortuna es de 94.5 mil millones de dólares.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schmidt-Brin-Page-20080520_%28cropped%29.jpg/941px-Schmidt-Brin-Page-20080520_%28cropped%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Michael_Bloomberg_by_Gage_Skidmore.jpg/771px-Michael_Bloomberg_by_Gage_Skidmore.jpg)
 
-Ahora sí, vamos con los pesos pesados. La **posición \#5** lo ocupa uno de los inversionistas más exitosos de todos los tiempos: el señor **Warren Buffett**, quien por la precisión de sus predicciones financieras y relativas a la economía mundial era conocido como "el oráculo de Obama", refiriéndose al ex presidente de los Estados Unidos. Su empresa, Berkshire Hathaway, controla o posee numerosas propiedades y empresas internacionales, y su fortuna se estima en **118 miles de millones de dólares**.
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg/903px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg)
-
-En la **cuarta posición** se encuentra un hombre de sobra conocido en los medios, en especial en el ámbito tecnológico. Ahora es un conocido filántropo, junto con su ex esposa Melinda, pero en sus tiempos de gloria era el fundador y presidente ejecutivo de **Microsoft**. Nos referimos, desde luego, al estadounidense **Bill Gates**, quien luego de su renuncia como CEO de dicho emporio, de su divorcio —con la respectiva "tajada" que legalmente le dio a su ex cónyuge— y de sus numerosas donaciones filantrópicas, quien durante años fue el hombre más rico del mundo actualmente tiene una nada despreciable fortuna de **129 miles de millones de dólares**.
+En la **sexta posición** se encuentra un hombre de sobra conocido en los medios y en el ámbito tecnológico. Ahora es un conocido filántropo,&nbsp; pero en sus tiempos de gloria era el fundador y presidente ejecutivo de **Microsoft**. Nos referimos, desde luego, al estadounidense **Bill Gates**, quien durante años fue el hombre más rico del mundo, pero actualmente tiene una nada despreciable fortuna de **104 mil millones de dólares**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bill_Gates%2C_WEF_2009_Davos.jpg/1024px-Bill_Gates%2C_WEF_2009_Davos.jpg)
+
+Ahora sí, vamos con los pesos pesados. La **posición \#5** lo ocupa uno de los inversionistas más exitosos de todos los tiempos: el señor **Warren Buffett**, quien por la precisión de sus predicciones financieras y relativas a la economía mundial era conocido como "el oráculo de Obama", refiriéndose al ex presidente de los Estados Unidos. Su empresa, Berkshire Hathaway, controla o posee numerosas propiedades y empresas internacionales, y su fortuna se estima en **106 mil millones de dólares**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg/903px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg)
 
 La cuarta posición la tiene&nbsp;**Larry Ellison**, que el año pasado estaba en octavo lugar. Es el fundador y presidente del gigante tecnológico **Oracle**, el cual posee en un 35%. Su fortuna total, que ascendió enormemente en los últimos doce meses, alcanzó los 107 mil millones de dólares.
 
