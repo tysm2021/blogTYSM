@@ -30,9 +30,11 @@ Llama la atención que entre los **trece hombres más ricos** sólo hay un mexic
 
 **TE RECOMENDAMOS:** [**¿Cuáles son los países más pequeños del mundo?**](https://blog.tonoysumariachi.com/mundo/2022/08/29/cuales-son-los-paises-mas-pequenos-del-mundo.html)
 
-La posición \#10 la ocupa el magnate indio **Mukesk Ambani**, quien dirige una empresa petroquímica y de telecomunicaciones llamada Reliance Industries, y cuya fortuna personal se calcula en los **90\.7** miles de millones de dólares. Le siguen dos estadounidenses vinculados al sector tecnológico: **Steve Ballmer,** ex CEO de Microsoft, y **Larry Ellison**, fundador y presidente de Oracle —en la imagen siguiente—; cada uno tienen 91.4 y 106 miles de millones de dólares, respectivamente.
+La posición \#10 la ocupa **Steve Ballmer,** quien fuera CEO de Microsoft, con poco más de 80 mil millones de dólares. Le sigue, en novena posición, el magnate indio **Mukesk Ambani**, quien dirige una empresa petroquímica y de telecomunicaciones llamada Reliance Industries, y cuya fortuna personal se calcula en los 83.4 mil millones de dólares.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Larry_Ellison_2013_%289887589546%29.jpg/1024px-Larry_Ellison_2013_%289887589546%29.jpg)
+En **octavo lugar** está un paisano nuestro: el ingeniero **Carlos Slim Helú**, quien desde luego es el hombre más rico de México. Entre otras empresas es dueño de Telmex y de América Móvil, la empresa de telefonía celular más grande de América. Con su familia ha logrado amasar una fortuna de 93 mil millones de dólares.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Carlos_Slim_%2845680472234%29_%28cropped%29.jpg/731px-Carlos_Slim_%2845680472234%29_%28cropped%29.jpg)
 
 Las posiciones \#6 y \#7 las ocupan los fundadores del gigante tecnológico Google —actualmente convertido en un corporativo llamado Alphabet— y quienes fueran sus presidentes hasta diciembre de 2019, cuando renunciaron a esa posición y quedaron sólo como accionistas; nos referimos a **Sergey Brin** y **Larry Page**, quienes amasaron sendas fortunas de 107 y 111 miles de millones de dólares, respectivamente. Aquí ambos, retratados en un evento del año 2008.
 
@@ -42,9 +44,15 @@ Ahora sí, vamos con los pesos pesados. La **posición \#5** lo ocupa uno de los
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg/903px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg)
 
-En la **cuarta posición** se encuentra un hombre de sobra conocido en los medios, en especial en el ámbito tecnológico. Ahora es un conocido filántropo, junto con su ex esposa Melinda, pero en sus tiempos de gloria era el fundador y presidente ejecutivo de **Microsoft**. Nos referimos, desde luego, al estadounidense **Bill Gates**, quien luego de su renuncia como CEO de dicho emporio, de su divorcio —con la respectiva "tajada" que legalmente le dio a su ex cónyuge— y de sus numerosas donaciones filantrópicas, quien durante años fue el hombre más rico del mundo actualmente tiene una nada despreciable fortuna de **129 miles de millones de dólares**.![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bill_Gates%2C_WEF_2009_Davos.jpg/1024px-Bill_Gates%2C_WEF_2009_Davos.jpg)
+En la **cuarta posición** se encuentra un hombre de sobra conocido en los medios, en especial en el ámbito tecnológico. Ahora es un conocido filántropo, junto con su ex esposa Melinda, pero en sus tiempos de gloria era el fundador y presidente ejecutivo de **Microsoft**. Nos referimos, desde luego, al estadounidense **Bill Gates**, quien luego de su renuncia como CEO de dicho emporio, de su divorcio —con la respectiva "tajada" que legalmente le dio a su ex cónyuge— y de sus numerosas donaciones filantrópicas, quien durante años fue el hombre más rico del mundo actualmente tiene una nada despreciable fortuna de **129 miles de millones de dólares**.
 
-El segundo hombre más rico del mundo es nada menos que **Jeff Bezos**, el fundador y dueño de la empresa de comercio electrónico **Amazon** —la cual empezó siendo una tienda de libros en línea y ahora es un consorcio que incluso produce series y películas, y su propio servicio de *streaming*— amén de otras más pequeñas como Blue Origin, ocupa el sitio \#2 de esta lista que durante muchos años encabezó; luego de su renuncia a la posición de Presidente o CEO, y de su sonado divorcio, se quedó con unos "humildes" **171 miles de millones de dólares**.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bill_Gates%2C_WEF_2009_Davos.jpg/1024px-Bill_Gates%2C_WEF_2009_Davos.jpg)
+
+La cuarta posición la tiene&nbsp;**Larry Ellison**, que el año pasado estaba en octavo lugar. Es el fundador y presidente del gigante tecnológico **Oracle**, el cual posee en un 35%. Su fortuna total, que ascendió enormemente en los últimos doce meses, alcanzó los 107 mil millones de dólares.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Larry_Ellison_2013_%289887589546%29.jpg/1024px-Larry_Ellison_2013_%289887589546%29.jpg)
+
+El tercer hombre más rico del mundo es que **Jeff Bezos**, el fundador y dueño de la empresa de comercio electrónico **Amazon** —la cual empezó siendo una tienda de libros en línea y ahora es un consorcio que incluso produce series y películas, y su propio servicio de *streaming*— amén de otras más pequeñas como Blue Origin, ocupa el sitio \#3 de esta lista que durante muchos años encabezó; luego de su renuncia a la posición de Presidente o CEO, y de su sonado divorcio, se quedó con unos&nbsp;**114 miles de millones de dólares**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jeff_Bezos_Unveils_Blue_Origin_Lunar_Lander.jpg/1024px-Jeff_Bezos_Unveils_Blue_Origin_Lunar_Lander.jpg)
 
