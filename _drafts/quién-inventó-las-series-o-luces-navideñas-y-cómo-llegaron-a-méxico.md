@@ -44,3 +44,13 @@ En 1877, cuando Edison inventó el fonógrafo, Johnson llevó la máquina de gir
 Así, Thomas Alva Edison fue quien creó la primera tira de luces eléctricas, consistente en una serie de bombillas conectadas eléctricamente en serio. Durante la temporada navideña de 1880, estos hilos fueron colgados alrededor del exterior de su laboratorio de Menlo Park, y los pasajeros del ferrocarril que pasaban por el laboratorio pudieron ver por primera vez una pantalla de luz eléctrica.
 
 Johnson, que tenía un ojo excelente para los negocios, vio en esto una oportunidad. Sabiendo del riesgo que implicaban las velas encendidas en los árboles de Navidad, instaló uno junto a una ventana daba a la calle, Johnson conectó a mano 80 luces pintadas de color rojo, blanco y azul —es decir, los colores de la bandera estadounidense—, envolvió el árbol con ellas&nbsp; y los puso sobre un pedestal giratorio, alimentando las luces con un generador. Luego llamó a un periodista. La primera serie de luces navideñas había nacido.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Municipal_Christmas_Tree%2C_circa_1915_-_Moscow%2C_Idaho_%2833343469503%29.jpg/640px-Municipal_Christmas_Tree%2C_circa_1915_-_Moscow%2C_Idaho_%2833343469503%29.jpg)
+
+Esas **primeras luces navideñas** atrajeron a una multitud. mientras los transeúntes se detenían para contemplar la maravilla resplandeciente. Johnson convirtió el encendido de las **luces** en una tradición anual y también fue pionero en la práctica de instalar más focos cada año: un artículo del *New York Times* fechado en 1884 contaba 120 focos en su deslumbrante **árbol**.
+
+Desde luego, detrás de todo estaba el negocio. De hecho, las **luces** de **Johnson** estaban adelantadas a su tiempo, pues no había electricidad disponible en muchos lados y, además, no eran baratas: Yna serie con dieciséis focos se vendía en 12 dólares —unos 350 dólares o 7 mil pesos actuales— en 1900. Pero en 1895 el presidente estadounidense Grover Cleveland puso por primera vez luces eléctricas en el árbol de Navidad de la Casa Blanca, lo que popularizó enormemente las luces navideñas. Para la década de 1930, las coloridas luces y **series navideñas** estaban por todas partes.
+
+## ¿Y en México?
+
+Desde luego, no pasó mucho tiempo antes de que la invención llegara a las calles mexicanas,&nbsp;
