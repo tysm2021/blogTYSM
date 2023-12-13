@@ -37,8 +37,10 @@ Se dice que los primeros árboles de Navidad se decoraban con manzanas y esa es 
 
 En el país vecino sucedió que, en 1871, un empresario e inventor llamado **Edward Hibbert Johnson** contrató a un joven inventor de 24 años como su asistentes en la Automatic Telegraph Company. El joven se llamaba **Thomas Alva Edison**, quien poco después dejaría la empresa de telégrafos para probar suerte como inventor. Johnson estaba tan impresionado con él que también renunció a su empleo y se convirtió en su socio.
 
-En 1877, cuando Edison inventó el fonógrafo, Johnson llevó la máquina de gira, cargando a las multitudes para generar entusiasmo. Y cuando el "genio de Menlo Parl" patentó la primera bombilla eléctrica en 1880, era difícil pronosticar la importancia que tendría la invención, pues la electrificación aún estaba a décadas de generalizarse en el mundo occidental.
+En 1877, cuando Edison inventó el fonógrafo, Johnson llevó la máquina de gira, cargando a las multitudes para generar entusiasmo. Y cuando el "genio de Menlo Park" patentó la primera **bombilla eléctrica** en 1880, era difícil pronosticar la importancia que tendría la invención, pues la electrificación aún estaba a décadas de generalizarse en el mundo occidental.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Thomas_Edison_in_lab_with_%22Edison_Effect%22_bulbs._%287954cae0a1d04e8591c83a12e04b5d42%29.jpg/831px-Thomas_Edison_in_lab_with_%22Edison_Effect%22_bulbs._%287954cae0a1d04e8591c83a12e04b5d42%29.jpg)
 
-creó la primera tira de luces eléctricas. Durante la temporada navideña de 1880, estos hilos fueron colgados alrededor del exterior de su laboratorio de Menlo Park. Los pasajeros del ferrocarril que pasaban por el laboratorio pudieron ver por primera vez una pantalla de luz eléctrica. Pero se necesitarían casi cuarenta años para que las luces navideñas eléctricas se convirtieran en la tradición que todos conocemos y amamos.
+Así, Thomas Alva Edison fue quien creó la primera tira de luces eléctricas, consistente en una serie de bombillas conectadas eléctricamente en serio. Durante la temporada navideña de 1880, estos hilos fueron colgados alrededor del exterior de su laboratorio de Menlo Park, y los pasajeros del ferrocarril que pasaban por el laboratorio pudieron ver por primera vez una pantalla de luz eléctrica.
+
+Pero se necesitarían casi cuarenta años para que las luces navideñas eléctricas se convirtieran en la tradición que todos conocemos y amamos.
