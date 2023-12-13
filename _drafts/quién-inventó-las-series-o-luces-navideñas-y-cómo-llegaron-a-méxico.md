@@ -55,6 +55,6 @@ Desde luego, detrás de todo estaba el negocio. De hecho, las **luces** de **Joh
 
 A pesar de lo que uno podría pensar, nuestro país —y en particular la capital— fue uno de los primeros en experimentar con luces eléctricas como alumbrado público. De hecho, fue el **16 de septiembre de 1881** cuando doce columnas de madera envueltas con focos eléctricos iluminaron lo que hoy sería Avenida Juárez. Durante los últimos veinte años del siglo XIX se hicieron enormes avances en la electrificación e iluminación de calles y edificios, y ya para 1910 el centenario de la Independencia se celebró con iluminación callejera en las calles de la Ciudad de México.
 
-![](/uploads/mx14167706907610.jpeg){: width="600" height="800"}
+![](/uploads/mx14167706907610-1.jpeg){: width="600" height="753"}
 
 Por eso, no pasó mucho tiempo antes de que la invención **navideña** de Johnson llegara a las calles mexicanas, que empezaron a iluminarse con foquitos navideños desde la década de 1930, y hoy son todo un emblema de la época. Desde luego, hoy podemos conseguir **series** de 15 metros de largo con más de 300 focos LED, que consumen poca energía e iluminan mucho, así como de muchos colores y hasta con música incluida.&nbsp;
