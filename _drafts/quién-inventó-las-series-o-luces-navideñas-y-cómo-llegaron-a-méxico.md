@@ -43,4 +43,4 @@ En 1877, cuando Edison inventó el fonógrafo, Johnson llevó la máquina de gir
 
 Así, Thomas Alva Edison fue quien creó la primera tira de luces eléctricas, consistente en una serie de bombillas conectadas eléctricamente en serio. Durante la temporada navideña de 1880, estos hilos fueron colgados alrededor del exterior de su laboratorio de Menlo Park, y los pasajeros del ferrocarril que pasaban por el laboratorio pudieron ver por primera vez una pantalla de luz eléctrica.
 
-Pero se necesitarían casi cuarenta años para que las luces navideñas eléctricas se convirtieran en la tradición que todos conocemos y amamos.
+Johnson, que tenía un ojo excelente para los negocios, vio en esto una oportunidad. Sabiendo del riesgo que implicaban las velas encendidas en los árboles de Navidad, instaló uno junto a una ventana daba a la calle, Johnson conectó a mano 80 luces pintadas de color rojo, blanco y azul —es decir, los colores de la bandera estadounidense—, envolvió el árbol con ellas&nbsp; y los puso sobre un pedestal giratorio, alimentando las luces con un generador. Luego llamó a un periodista. La primera serie de luces navideñas había nacido.
