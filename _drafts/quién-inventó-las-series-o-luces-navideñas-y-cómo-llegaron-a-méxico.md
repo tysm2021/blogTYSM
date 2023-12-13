@@ -19,7 +19,7 @@ article_header:
     src: /uploads/thalia-ruiz-lhu6sf2uar0-unsplash.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/thalia-ruiz-lhu6sf2uar0-unsplash.jpeg
 show_author_profile: false
 comment: false
 summary: >-
