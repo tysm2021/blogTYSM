@@ -15,7 +15,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-camilosesto.png
+    src: /uploads/jonathan-chng-lsz30vvjzee-unsplash.jpeg
 sharing: true
 author: Redacción TYSM
 cover: /uploads/jonathan-chng-lsz30vvjzee-unsplash.jpeg
@@ -35,4 +35,4 @@ Muchos cristianos creen que la **Estrella de Belén** fue una señal milagrosa. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f9/Giotto_-_Scrovegni_-_-18-_-_Adoration_of_the_Magi.jpg)
 
-Des
+Esta pintura, que retrata la adoración de los Tres Reyes Magos, proviene del siglo XIV y fue pintada por el artista Giotto, quien presenció el paso del **cometa** Halley en 1301. En ella, la **Estrella de Belén** está representada como una bola de fuego incandescente. Según la narración bíblica, dicha estrella o luz en el firmamento sirvió como guía para que esos hombres santos —que no eran reyes ni magos, sino más bien sabios y astrónomos— dieran con el sitio donde había nacido el Redentor, a quien le ofrecieron regalos.
