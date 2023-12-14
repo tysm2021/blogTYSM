@@ -36,3 +36,7 @@ Muchos cristianos creen que la **Estrella de Belén** fue una señal milagrosa. 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f9/Giotto_-_Scrovegni_-_-18-_-_Adoration_of_the_Magi.jpg)
 
 Esta pintura, que retrata la adoración de los Tres Reyes Magos, proviene del siglo XIV y fue pintada por el artista Giotto, quien presenció el paso del **cometa** Halley en 1301. En ella, la **Estrella de Belén** está representada como una bola de fuego incandescente. Según la narración bíblica, dicha estrella o luz en el firmamento sirvió como guía para que esos hombres santos —que no eran reyes ni magos, sino más bien sabios y astrónomos— dieran con el sitio donde había nacido el Redentor, a quien le ofrecieron regalos.
+
+Entonces, está la explicación astrológica de una estrella que anuncia el cumplimiento de una profecía. Pero existe otra explicación, más astronómica, y es que en efecto había un objeto brillante en el cielo: **una conjunción de planetas y estrellas**, la cual cuando dos o más cuerpos celestes parecen encontrarse en el cielo nocturno desde nuestra ubicación en la Tierra.
+
+Sobre la posibilidad de que se tratara de un **cometa**, sabemos que el Halley fue visible en el cielo en el año 11 a.C.; sin embargo, mientras los Magos viajaban hacia Jerusalén y luego a Belén, parece poco probable que siguieran un cometa porque su posición habría cambiado a medida que la Tierra giraba, por lo que el cometa no los habría guiado en una sola dirección —y, de hecho, en el mundo antiguo los cometas eran considerados malos augurios.
