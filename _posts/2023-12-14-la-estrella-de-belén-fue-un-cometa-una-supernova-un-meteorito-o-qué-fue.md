@@ -39,4 +39,16 @@ Esta pintura, que retrata la adoración de los Tres Reyes Magos, proviene del si
 
 Entonces, está la explicación astrológica de una estrella que anuncia el cumplimiento de una profecía. Pero existe otra explicación, más astronómica, y es que en efecto había un objeto brillante en el cielo: **una conjunción de planetas y estrellas**, la cual cuando dos o más cuerpos celestes parecen encontrarse en el cielo nocturno desde nuestra ubicación en la Tierra.
 
-Sobre la posibilidad de que se tratara de un **cometa**, sabemos que el Halley fue visible en el cielo en el año 11 a.C.; sin embargo, mientras los Magos viajaban hacia Jerusalén y luego a Belén, parece poco probable que siguieran un cometa porque su posición habría cambiado a medida que la Tierra giraba, por lo que el cometa no los habría guiado en una sola dirección —y, de hecho, en el mundo antiguo los cometas eran considerados malos augurios.
+Sobre la posibilidad de que se tratara de un **cometa**, sabemos que el Halley fue visible en el cielo en el año 11 a.C.; sin embargo, mientras los Magos viajaban hacia Jerusalén y luego a Belén, parece poco probable que siguieran un **cometa** porque su posición habría cambiado a medida que la Tierra giraba, por lo que el cometa no los habría guiado en una sola dirección —y, de hecho, en el mundo antiguo los cometas eran considerados malos augurios.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Elihu_Vedder_-_Star_of_Bethlehem_-_1879-80.jpg/954px-Elihu_Vedder_-_Star_of_Bethlehem_-_1879-80.jpg)
+
+En lo que se refiere a la teoría de que se trató de una nova o una **supernova** —que es tiene lugar cuando una estrella llega al final de su vida y explota en una brillante explosión de luz— cualquiera de los dos eventos habría dado lugar a un remanente detectable, pero los astrónomos no han encontrado nada que pueda remontarse a esa época.
+
+Entonces, quizás la hipótesis más prometedora sea la de **una alineación planetaria** de Júpiter, Saturno, la Luna y el Sol ,en la constelación de Aries el 17 de abril del año 6 a.C. Recordemos que la fecha del 24 de diciembre del año 0 fue elegida por su valor simbólico y para sustituir a las festividades paganas del solsticio de invierno, y que ignoramos qué día preciso en la historia fue el nacimiento de Cristo.
+
+Esta conjunción encaja con la **historia** por varias razones: ocurrió en las primeras horas de la mañana, lo que coincide con la descripción del Evangelio de la **Estrella de Belén** como una estrella ascendente de la mañana; además, los Reyes Magos también perdieron de vista la estrella, antes de verla detenerse en el lugar donde yacía el niño Jesús en el establo. Esto podría haber sido el resultado del movimiento retrógrado de Júpiter, lo que significa que parece cambiar de dirección en el cielo nocturno a medida que la órbita de la Tierra lo alcanza.
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/59/La_Epifan%C3%ADa.jpg)
+
+Al parecer, será muy difícil saber con precisión qué fue el fenómeno astronómico observado por los Magos de Oriente, que sin duda debió de ser tan extraordinario como para hacerlos peregrinar por el desierto para hallar al Salvador. Como sea, hoy puedes comprar tu propia **Estrella de Belén** y colocarla en tu árbol o nacimiento, como un brillante y luminoso recordatorio de que, en ciertas ocasiones especiales, lo divino y lo celestial pueden manifestarse aquí en la Tierra.
