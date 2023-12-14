@@ -30,3 +30,5 @@ Con sus cinco picos, su brillo refulgente y su larga cauda que nos recuerda a la
 Así pues, aquí te presentamos la **historia** de la **Estrella de Belén**, su **simbolismo**, sus distintas representaciones y las distintas **explicaciones** que de ella han dado **historiadores**, **astrónomos** y otros científicos.
 
 **TE RECOMENDAMOS: ¿Quién inventó las series o luces navideñas, y cómo llegaron a México?**
+
+Muchos cristianos creen que la **Estrella de Belén** fue una señal milagrosa. Algunos teólogos afirmaron que cumplió una profecía, conocida como la Profecía Estelar,&nbsp; que se refiere a un versículo en particular del libro bíblico de los Números, donde habla de la "estrella de Jacob". Los astrónomos han hecho varios intentos de vincular la estrella con eventos celestes inusuales, como una conjunción de planetas —Júpiter y Saturno o Júpiter y Venus—, el paso de un cometa o la explosión de una supernova.
