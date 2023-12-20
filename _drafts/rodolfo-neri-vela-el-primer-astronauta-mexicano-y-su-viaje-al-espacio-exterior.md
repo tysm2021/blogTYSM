@@ -31,6 +31,6 @@ Uno de los más grandes sueños que puede tener un nino o una niña, es el de co
 
 Conozcamos un poco de su vida, sus estudios, cómo llegó al programa espacial de la NASA, en qué consistió su misión y a qué se dedica actualmente. Prometemos que será algo "de otro mundo".
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: [Premios Nobel mexicanos: cuántos y quiénes son.](https://blog.tonoysumariachi.com/cultura/2022/04/22/premios-nobel-mexicanos-cuantos-y-quienes-son.html){: target="_blank" rel="noopener"}**
 
 H
