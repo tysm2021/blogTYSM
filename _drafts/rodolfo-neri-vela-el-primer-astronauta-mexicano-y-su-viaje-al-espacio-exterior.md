@@ -33,6 +33,6 @@ Conozcamos un poco de su vida, sus estudios, cómo llegó al programa espacial d
 
 **TE RECOMENDAMOS: [Premios Nobel mexicanos: cuántos y quiénes son.](https://blog.tonoysumariachi.com/cultura/2022/04/22/premios-nobel-mexicanos-cuantos-y-quienes-son.html){: target="_blank" rel="noopener"}**
 
-Según se lee en su website oficial, **Rodolfo Neri Vela** nació en Chilpancingo de los Bravo, Guerrero, México, el 19 de febrero de 1952. Se graduó como Ingeniero Mecánica-Eléctrica con especialidad en Comunicaciones en 1975 de la Universidad Nacional Autónoma de México (UNAM), estudió una maestría en la Universidad de Essex, en el Reino Unido, y es doctor en ingeniería de telecomunicaciones por parte de la Universidad de Birmingham.
+Según se lee en su website oficial, **Rodolfo Neri Vela** nació en Chilpancingo de los Bravo, Guerrero, México, el 19 de febrero de 1952. Se graduó como Ingeniero en Comunicaciones y Electrónica en la Facultad de Ingeniería de la UNAM en 1975, estudió una **maestría** en la Universidad de Essex, Inglaterra, y es **doctor en ingeniería** por parte de la Universidad de Birmingham, también en Inglaterra, en el área de Electromagnetismo Aplicado. Todos estos estudios los realizó becado por el Consejo Británico y el CONACyT.
 
 Además, Rodolfo es el **primer astronauta mexicano**. Asimismo, fue el primer representante de un país latinoamericano que participó en una misión tripulada de la NASA, en 1985.
