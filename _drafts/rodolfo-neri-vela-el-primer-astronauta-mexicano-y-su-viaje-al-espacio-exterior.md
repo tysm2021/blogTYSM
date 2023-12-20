@@ -27,7 +27,7 @@ summary: >-
   En noviembre de 1985, este ingeniero guerrerense cumplió el sueño de todos los
   niños mexicanos: viajar al espacio exterior…
 ---
-Uno de los más grandes sueños que puede tener un nino o una niña, es el de convertirse en **astronauta** y viajar en una nave espacial. Y el ilustre paisano de quien hablamos en esta ocasión, el ingeniero **Rodolfo Neri Vela**, tiene el honor de haber sido el **primer astronauta mexicano**&nbsp;en haber viajado al **espacio exterior**, a bordo del transbordador espacial *Columbia*, propiedad de la **NASA**.
+Uno de los más grandes sueños que puede tener un nino o una niña, es el de convertirse en **astronauta** y viajar en una nave espacial. Y el ilustre paisano de quien hablamos en esta ocasión, el doctor&nbsp;**Rodolfo Neri Vela**, tiene el honor de haber sido el **primer astronauta mexicano**&nbsp;en haber viajado al **espacio exterior**, a bordo del transbordador espacial *Columbia*, propiedad de la **NASA**.
 
 Conozcamos un poco de su vida, sus estudios, cómo llegó al programa espacial de la NASA, en qué consistió su misión y a qué se dedica actualmente. Prometemos que será algo "de otro mundo".
 
@@ -40,3 +40,9 @@ En 1985, **Rodolfo Neri** fue seleccionado para convertirse en el **primer astro
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/STS-61-B_crew.jpg/972px-STS-61-B_crew.jpg)
 
 Todos los experimentos de esta misión se llevaron a cabo con éxito y todo el equipo funcionó dentro de los parámetros establecidos —aunque después el comandante Brewster Shaw confesó haber puesto un candado en las compuertas por desconfianza a que el **mexicano** "se pusiera loco" en el espacio. Con todo, el transbordador *Atlantis* aterrizó sano y salvo en la Base de la Fuerza Aérea Edwards el 3 de diciembre de 1985.
+
+Además de su experiencia como astronauta de la **NASA**, el doctor **Neri Vela** colaboró posteriormente, en 1989 y 1990, con la Agencia Espacial Europea (ESA) en Holanda, en el proyecto de la Estación Espacial Internacional, misma que actualmente ya está&nbsp; en órbita alrededor de la Tierra.
+
+![](/uploads/nerivela.jpeg){: width="720" height="960"}
+
+Rodolfo ha ejercido su profesión de ingeniero y la enseñanza universitaria en varias instituciones: la Secretaría de Comunicaciones y Transportes (SCT), la Secretaría de la Defensa Nacional (Sedena), el Instituto de Investigaciones Eléctricas y la UNAM, donde por más de tres décadas ha sido académico de licenciatura y posgrado e investigador en Matemáticas, Circuitos Eléctricos, Antenas, Teoría Electromagnética, Comunicaciones por Satélite, Transmisión por guías de microondas y fibras ópticas.
