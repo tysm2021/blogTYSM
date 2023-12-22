@@ -38,4 +38,12 @@ Los investigadores especulan que la Iglesia Católica Romana eligió esa fecha p
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Saturnalia_by_Antoine_Callet.jpg/766px-Saturnalia_by_Antoine_Callet.jpg)
 
+La Biblia no da ninguna fecha o un día específicos del **nacimiento** de **Jesús**. Sin embargo, la fecha se puede estimar basándose en cuándo históricamente los pastores hebreos cuidaban sus rebaños en campos abiertos, pues según el relato bíblico, *"Había pastores en la misma región, que velaban y guardaban las vigilias de la noche sobre su rebaño"*. Era tradicional que los judíos enviaran sus ovejas a pastar desde la primavera hasta principios de octubre, y cuando comenzaban los fríos meses de invierno, los rebaños regresaban de los campos en busca de protección y calor. Dado que los pastores todavía cuidaban sus rebaños en los campos alrededor de Belén, se puede deducir que el nacimiento de Jesús sucedió a más tardar en octubre.
+
 En cuanto al **año**, algunos estudiosos creen que **Jesús nació entre el 6 a.C. y 4 a.C.**, basado en parte en la historia bíblica del rey Herodes el Grande, quien en un intento de matar a Jesús supuestamente ordenó la muerte de todos los niños varones menores de 2 años que vivierann en las cercanías de Belén, un evento conocido como la Masacre o la Matanza de los Inocentes y que ocurrió poco antes de la muerte del propio Herodes; aunque no hay un consenso, muchos coindicen con la fecha utilizada por los historiadores romanos, quienes creían que Herodes había muerto en el año 4 a.C.
+
+Otros eruditos han intentado relacionar la **Estrella de Belén**, que supuestamente anunció el nacimiento de Jesús, con acontecimientos astronómicos reales para determinar el año en que éste tuvo lugar. Una teoría sugiere que la **Estrella de Belén** pudo haber sido Venus y Júpiter en una conjunción que formó una luz brillante en el cielo, un evento astronómico que ocurrió en **junio del 2 a.C**. Otra posibilidad es una conjunción similar entre Saturno y Júpiter en **octubre del año 7 a.C.**
+
+**![](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bethlehem_Star_05.JPG)**
+
+También se ha especulado que **Jesús** era un bebé de primavera. Historiadores sugieren que, dadas las prácticas en tiempos de Jesús, éste podría haber nacido a finales de la primavera porque los embarazos comenzaban en el otoño, después de que terminaban las cosechas y había alimento o suficiente dinero para un banquete de bodas.
