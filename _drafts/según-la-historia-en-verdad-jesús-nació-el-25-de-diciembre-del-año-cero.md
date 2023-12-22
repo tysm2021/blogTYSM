@@ -38,4 +38,4 @@ Los investigadores especulan que la Iglesia Católica Romana eligió esa fecha p
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Saturnalia_by_Antoine_Callet.jpg/766px-Saturnalia_by_Antoine_Callet.jpg)
 
-mm
+En cuanto al **año**, algunos estudiosos creen que **Jesús nació entre el 6 a.C. y 4 a.C.**, basado en parte en la historia bíblica del rey Herodes el Grande, quien en un intento de matar a Jesús supuestamente ordenó la muerte de todos los niños varones menores de 2 años que vivierann en las cercanías de Belén, un evento conocido como la Masacre o la Matanza de los Inocentes y que ocurrió poco antes de la muerte del propio Herodes; aunque no hay un consenso, muchos coindicen con la fecha utilizada por los historiadores romanos, quienes creían que Herodes había muerto en el año 4 a.C.
