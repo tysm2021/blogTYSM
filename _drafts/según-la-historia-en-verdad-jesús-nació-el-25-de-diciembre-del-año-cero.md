@@ -31,3 +31,11 @@ Según la **tradición** occidental **cristiana**, el **nacimiento** de **Jesús
 En este artículo, sin el afán de ofender las creencias religiosas de nadie o atentar contra tradiciones sagradas para muchos, veremos **por qué** celebramos la **Navidad** el **25 de diciembre** y qué tienen que decir los expertos, a partir de hechos históricos y documentos, sobre los&nbsp;**verdaderos día** y **año** de nacimiento de **Jesús**.
 
 **TE RECOMENDAMOS: [¿Por qué Santa Claus siempre viste de rojo?](https://blog.tonoysumariachi.com/mundo/2023/12/05/por-qu%C3%A9-santa-claus-siempre-viste-de-rojo.html){: target="_blank" rel="noopener"}**
+
+Millones de personas en todo el mundo conmemoran el **nacimiento** de **Jesucristo** con celebraciones navideñas el **25 de diciembre**. Sin embargo, la mayoría de los estudiosos coinciden en que no nació ese día, ni siquiera en el año cero o el 1 d.C. Entonces, ¿por qué celebramos la **Navidad** el **25 de diciembre**?
+
+Los investigadores especulan que la Iglesia Católica Romana eligió esa fecha porque se relaciona con el **solsticio de invierno** y las fiestas **Saturnales**, un festival dedicado a la deidad romana Saturno. Además, entre los romanos existía el culto al Sol Invictus, una deidad solar a la que festejaban el Día del Nacimiento del Sol Inconquistado —*Dies Natalis Solis Invicti*—, una fecha que simbolizaba el nacimiento de un nuevo sol que había vencido a la oscuridad en el solsticio de invierno. La iglesia pudo haberse apropiado de esta popular fiesta pagana para celebrar el cumpleaños de Jesús.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Saturnalia_by_Antoine_Callet.jpg/766px-Saturnalia_by_Antoine_Callet.jpg)
+
+mm
