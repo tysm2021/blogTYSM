@@ -47,3 +47,7 @@ Otros eruditos han intentado relacionar la **Estrella de Belén**, que supuestam
 **![](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bethlehem_Star_05.JPG)**
 
 También se ha especulado que **Jesús** era un bebé de primavera. Historiadores sugieren que, dadas las prácticas en tiempos de Jesús, éste podría haber nacido a finales de la primavera porque los embarazos comenzaban en el otoño, después de que terminaban las cosechas y había alimento o suficiente dinero para un banquete de bodas.
+
+Varios factores intervinieron en el establecimiento del **año** del **nacimiento** de **Cristo**. Había dos sistemas de datación en la época de Julio César, en el 44 a.C.. uno era su nuevo calendario, el juliano, y el otro calendario comenzaba con el año de la fundación de Roma, 753 a.C. Pero unos 500 años después, un monje con mentalidad matemática apodado **Dionisio "el Exiguo"** inventó el concepto de a.C. y d.C. —AD, Anno Domini o "Año del Señor" en latín y en inglés.
+
+Con el propósito era establecer cuándo debía celebrarse la Pascua, Dionisio hizo muchísimos cálculos hacia atrás en el tiempo utilizando un complicado sistema propio, y así decidió que Cristo había nacido en el año 1 d. C. y su sistema, aprobado por las autoridades eclesiásticas, fue adoptado en Europa unos 200 años después. Total que nadie sabe cuándo ni en qué año nació Jesús, pero eso no obsta para celebrar la Navidad y su mensaje de paz, amor y fraternidad entre todos.
