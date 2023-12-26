@@ -38,6 +38,8 @@ Entérate de cinco cosas sorprendente de esta ciudad que, durante su apogeo en l
 
 En lengua náhuatl,&nbsp;**Teotihuacan** significa el "Lugar donde los hombres se hacen dioses" o el "lugar donde fueron creados los dioses". La ciudad debe su nombre a los mexicas, que la llamaron así cuando la encontraron en el siglo XIII, seis siglos después de su abandono. Fue tal su impacto, que en su mitología es la ciudad sagrada donde ocurrió el nacimiento del Quinto Sol, que nos alumbra actualmente.
 
+![](https://upload.wikimedia.org/wikipedia/commons/1/18/Teotihuacan_opacic.jpg)
 
+## La tercera pirámide más alta
 
-La tercera pirámide más alta
+La estructura más importante es la llamada **Pirámide del Sol**, que tiene 65.5 metros de altura, lo que la convierte en la **tercera más alta de México**, sólo detrás de la de Toniná, en Chiapas, y de la Gran Pirámide de Cholula, en Puebla. Su vecina, la Pirámide de la Luna, tiene una altura de 43 metros aproximadamente.
