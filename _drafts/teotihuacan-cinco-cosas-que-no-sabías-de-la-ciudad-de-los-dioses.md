@@ -43,3 +43,9 @@ En lengua náhuatl,&nbsp;**Teotihuacan** significa el "Lugar donde los hombres s
 ## La tercera pirámide más alta
 
 La estructura más importante es la llamada **Pirámide del Sol**, que tiene 65.5 metros de altura, lo que la convierte en la **tercera más alta de México**, sólo detrás de la de Toniná, en Chiapas, y de la Gran Pirámide de Cholula, en Puebla. Su vecina, la Pirámide de la Luna, tiene una altura de 43 metros aproximadamente.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pyramid_of_the_Sun_-_Teotihuacan_-_panoramio.jpg/1024px-Pyramid_of_the_Sun_-_Teotihuacan_-_panoramio.jpg)
+
+Alrededor de la urbe principal, en conjuntos habitacionales como Atetelco, Tetitla y Tepantitla, se encontraron numerosas pinturas murales elaboradas por los artistas teotihuacanos. Algunas de ellas, o sus vestigios, se exhiben en el el **Museo de Murales Teotihuacanos**&nbsp;"Beatriz de la Fuente", al poniente de la Pirámide de la Luna, y algunas reproducciones y fragmentos originales pueden verse en la Sala de Teotihuacan del Museo Nacional de Antropología.
+
+​​​​
