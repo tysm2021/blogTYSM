@@ -56,10 +56,8 @@ Alrededor de la urbe principal, en conjuntos habitacionales como Atetelco, Tetit
 
 Hubo dos lugares esenciales para la observación astronómica en el sitio: la Pirámide del Sol y la Cueva astronómica, ubicada cerca de dicha estructura. En la pirámide, el Sol se oculta exactamente frente a ella el 13 de agosto y surge por su parte posterior el 19 de febrero, y en cuanto a la cueva, se dice que los teotihuacanos registraban en ella el paso cenital del Sol dos veces por año, de una manera exacta.
 
-
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡Mira el <a href="https://twitter.com/hashtag/Equinoccio?src=hash&amp;ref_src=twsrc%5Etfw">#Equinoccio</a> desde la majestuosa ciudad de los dioses, Teotihuacan, Estado de México!<br>Rogelio Rivero Chong, director de esta zona arqueológica, habla sobre evidencia arqueoastronómica en Teotihuacan. ➡ <a href="https://t.co/nem83WMx53">https://t.co/nem83WMx53</a><a href="https://twitter.com/hashtag/INAHvirtual?src=hash&amp;ref_src=twsrc%5Etfw">#INAHvirtual</a> <a href="https://t.co/R7lvozdA6k">pic.twitter.com/R7lvozdA6k</a></p>&mdash; INAH (@INAHmx) <a href="https://twitter.com/INAHmx/status/1373696747889950720?ref_src=twsrc%5Etfw">March 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Adoraban a Quetzalcóatl
-
-
 
 ​​​​
