@@ -20,7 +20,8 @@ article_header:
       /uploads/2020-02-11-teotihuacan-la-avenida-de-los-muertos-y-la-piramide-del-sol.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: >-
+  /uploads/2020-02-11-teotihuacan-la-avenida-de-los-muertos-y-la-piramide-del-sol.jpeg
 show_author_profile: false
 comment: false
 summary: >-
@@ -33,4 +34,10 @@ Entérate de cinco cosas sorprendente de esta ciudad que, durante su apogeo en l
 
 **TE RECOMENDAMOS: [Piedra del Sol, ¿por qué se le llama Calendario Azteca?](https://blog.tonoysumariachi.com/historia/2022/08/26/piedra-del-sol-por-que-se-le-llama-calendario-azteca.html){: target="_blank" rel="noopener"}**
 
-cc
+## No sabemos cómo se llamaba
+
+En lengua náhuatl,&nbsp;**Teotihuacan** significa el "Lugar donde los hombres se hacen dioses" o el "lugar donde fueron creados los dioses". La ciudad debe su nombre a los mexicas, que la llamaron así cuando la encontraron en el siglo XIII, seis siglos después de su abandono. Fue tal su impacto, que en su mitología es la ciudad sagrada donde ocurrió el nacimiento del Quinto Sol, que nos alumbra actualmente.
+
+
+
+La tercera pirámide más alta
