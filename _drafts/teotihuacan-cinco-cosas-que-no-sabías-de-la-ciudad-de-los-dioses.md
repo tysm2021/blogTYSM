@@ -28,7 +28,7 @@ summary: >-
   Es una de las zonas arqueológicas más importantes y antiguas del Valle de
   México…
 ---
-Enclavada en el Estado de México, a tan sólo 50 kilómetros de la Ciudad de México, se encuentra la zona arqueológica de **Teotihuacan**, una palabra náhuatl que se ha traducido decir "**Ciudad de los Dioses**". Además de la **Pirámide del Sol**, de la **Pirámide de la Luna**, ¿qué otros puntos puedes **visitar** en esta imponente urbe prehispánica?
+Enclavada en el Estado de México, a tan sólo 50 kilómetros de la Ciudad de México, se encuentra la zona arqueológica de **Teotihuacan**, una palabra náhuatl que se h traducido decir "**Ciudad de los Dioses**". Además de la **Pirámide del Sol**, de la **Pirámide de la Luna**, ¿qué otros puntos puedes **visitar** en esta imponente urbe prehispánica?
 
 Entérate de cinco cosas sorprendente de esta ciudad que, durante su apogeo en los siglos IV y V d.C., llegó a tener hasta 100 mil habitantes.
 
@@ -48,8 +48,12 @@ La estructura más importante es la llamada **Pirámide del Sol**, que tiene 65.
 
 Alrededor de la urbe principal, en conjuntos habitacionales como Atetelco, Tetitla y Tepantitla, se encontraron numerosas pinturas murales elaboradas por los artistas teotihuacanos. Algunas de ellas, o sus vestigios, se exhiben en el el **Museo de Murales Teotihuacanos**&nbsp;"Beatriz de la Fuente", al poniente de la Pirámide de la Luna, y algunas reproducciones y fragmentos originales pueden verse en la Sala de **Teotihuacan** del Museo Nacional de Antropología.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Wall_painting_in_Teotihuacan.jpg/901px-Wall_painting_in_Teotihuacan.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Pintura_mural_teotihuacana_05.jpg/1024px-Pintura_mural_teotihuacana_05.jpg)
 
-nn
+**TE RECOMENDAMOS: [¿Cuáles eran los principales dioses mayas?](https://blog.tonoysumariachi.com/historia/2022/09/21/cuales-eran-los-principales-dioses-mayas.html)**
+
+## Relevancia astronómica
+
+Hubo dos lugares esenciales para la observación astronómica en el sitio: la Pirámide del Sol y la Cueva astronómica, ubicada cerca de dicha estructura. En la pirámide, el Sol se oculta exactamente frente a ella el 13 de agosto y surge por su parte posterior el 19 de febrero, y en cuanto a la cueva, se dice que los teotihuacanos registraban en ella el paso cenital del Sol dos veces por año, de una manera exacta.
 
 ​​​​
