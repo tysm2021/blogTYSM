@@ -56,4 +56,10 @@ Alrededor de la urbe principal, en conjuntos habitacionales como Atetelco, Tetit
 
 Hubo dos lugares esenciales para la observación astronómica en el sitio: la Pirámide del Sol y la Cueva astronómica, ubicada cerca de dicha estructura. En la pirámide, el Sol se oculta exactamente frente a ella el 13 de agosto y surge por su parte posterior el 19 de febrero, y en cuanto a la cueva, se dice que los teotihuacanos registraban en ella el paso cenital del Sol dos veces por año, de una manera exacta.
 
+
+
+Adoraban a Quetzalcóatl
+
+
+
 ​​​​
