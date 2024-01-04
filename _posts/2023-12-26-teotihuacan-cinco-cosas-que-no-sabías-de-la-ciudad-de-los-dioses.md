@@ -65,6 +65,8 @@ Hubo dos lugares esenciales para la observación astronómica en el sitio: la Pi
 
 ### Adoraban a Quetzalcóatl
 
-Además de la Pirámide del Sol, la de la Luna y la Calzada de los Muertos, una de las construcciones más importantes y hermosas de **Teotihuacan** es el **Templo de Quetzalcóatl**, también conocido como Pirámide de la Serpiente Emplumada
+Además de la Pirámide del Sol, la de la Luna y la Calzada de los Muertos, una de las construcciones más importantes y hermosas de **Teotihuacan** es el **Templo de Quetzalcóatl**, también conocido como Pirámide de la Serpiente Emplumada. En sus cuatro lados, este templo tiene una profusa decoración formada por representaciones de serpientes emplumadas, que parecen estar en un medio acuático por las conchas y caracoles que se observan entre sus ondulantes cuerpos.&nbsp; Los arqueólogos sugieren que el edificio estaba relacionado con el tiempo y el calendario, y tenía a la serpiente emplumada como patrona de los gobernantes.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Temple_of_the_feathered_serpent_detail.jpg/1024px-Temple_of_the_feathered_serpent_detail.jpg)
 
 ​​​​
