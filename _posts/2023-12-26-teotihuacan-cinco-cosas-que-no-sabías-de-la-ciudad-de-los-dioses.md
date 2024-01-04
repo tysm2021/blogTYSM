@@ -36,7 +36,7 @@ Entérate de cinco cosas sorprendente de esta ciudad que, durante su apogeo en l
 
 ### No sabemos cómo se llamaba
 
-En lengua náhuatl,&nbsp;**Teotihuacan** significa el "Lugar donde los hombres se hacen dioses" o el "lugar donde fueron creados los dioses". La ciudad debe su nombre a los mexicas, que la llamaron así cuando la encontraron en el siglo XIII, seis siglos después de su abandono. Fue tal su impacto, que en su mitología es la ciudad sagrada donde ocurrió el nacimiento del Quinto Sol, que nos alumbra actualmente.
+En lengua náhuatl, **Teotihuacan** significa el "Lugar donde los hombres se hacen dioses" o el "lugar donde fueron creados los dioses". La ciudad debe su nombre a los mexicas, que la llamaron así cuando la encontraron en el siglo XIII, seis siglos después de su abandono. Fue tal su impacto, que en su mitología es la ciudad sagrada donde ocurrió el nacimiento del Quinto Sol, que nos alumbra actualmente.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/18/Teotihuacan_opacic.jpg)
 
@@ -48,7 +48,7 @@ La estructura más importante es la llamada **Pirámide del Sol**, que tiene 65.
 
 ### Abundan las pinturas murales
 
-Alrededor de la urbe principal, en conjuntos habitacionales como Atetelco, Tetitla y Tepantitla, se encontraron numerosas pinturas murales elaboradas por los artistas **teotihuacanos**. Algunas de ellas, o sus vestigios, se exhiben en el el **Museo de Murales Teotihuacanos**&nbsp;"Beatriz de la Fuente", al poniente de la Pirámide de la Luna, y algunas reproducciones y fragmentos originales pueden verse en la Sala de **Teotihuacan** del Museo Nacional de Antropología.
+Alrededor de la urbe principal, en conjuntos habitacionales como Atetelco, Tetitla y Tepantitla, se encontraron numerosas pinturas murales elaboradas por los artistas **teotihuacanos**. Algunas de ellas, o sus vestigios, se exhiben en el el **Museo de Murales Teotihuacanos** "Beatriz de la Fuente", al poniente de la Pirámide de la Luna, y algunas reproducciones y fragmentos originales pueden verse en la Sala de **Teotihuacan** del Museo Nacional de Antropología.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Pintura_mural_teotihuacana_05.jpg/1024px-Pintura_mural_teotihuacana_05.jpg)
 
@@ -58,11 +58,14 @@ Alrededor de la urbe principal, en conjuntos habitacionales como Atetelco, Tetit
 
 Hubo dos lugares esenciales para la observación astronómica en el sitio: la Pirámide del Sol y la Cueva astronómica, ubicada cerca de dicha estructura. En la pirámide, el Sol se oculta exactamente frente a ella el 13 de agosto y surge por su parte posterior el 19 de febrero, y en cuanto a la cueva, se dice que los teotihuacanos registraban en ella el paso cenital del Sol dos veces por año, de una manera exacta.
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡Mira el <a href="https://twitter.com/hashtag/Equinoccio?src=hash&amp;ref_src=twsrc%5Etfw">#Equinoccio</a> desde la majestuosa ciudad de los dioses, Teotihuacan, Estado de México!<br>Rogelio Rivero Chong, director de esta zona arqueológica, habla sobre evidencia arqueoastronómica en Teotihuacan. ➡ <a href="https://t.co/nem83WMx53">https://t.co/nem83WMx53</a><a href="https://twitter.com/hashtag/INAHvirtual?src=hash&amp;ref_src=twsrc%5Etfw">#INAHvirtual</a> <a href="https://t.co/R7lvozdA6k">pic.twitter.com/R7lvozdA6k</a></p>&mdash; INAH (@INAHmx) <a href="https://twitter.com/INAHmx/status/1373696747889950720?ref_src=twsrc%5Etfw">March 21, 2021</a></blockquote>
+> ¡Mira el [\#Equinoccio](https://twitter.com/hashtag/Equinoccio?src=hash&amp;ref_src=twsrc%5Etfw) desde la majestuosa ciudad de los dioses, Teotihuacan, Estado de México!<br>Rogelio Rivero Chong, director de esta zona arqueológica, habla sobre evidencia arqueoastronómica en Teotihuacan. ➡ [https://t.co/nem83WMx53](https://t.co/nem83WMx53)[\#INAHvirtual](https://twitter.com/hashtag/INAHvirtual?src=hash&amp;ref_src=twsrc%5Etfw) [pic.twitter.com/R7lvozdA6k](https://t.co/R7lvozdA6k)
+>
+> — INAH (@INAHmx) [March 21, 2021](https://twitter.com/INAHmx/status/1373696747889950720?ref_src=twsrc%5Etfw)
+{: .twitter-tweet}
 
 ### Adoraban a Quetzalcóatl
 
-Además de la Pirámide del Sol, la de la Luna y la Calzada de los Muertos, una de las construcciones más importantes y hermosas de **Teotihuacan** es el **Templo de Quetzalcóatl**, también conocido como Pirámide de la Serpiente Emplumada. En sus cuatro lados, este templo tiene una profusa decoración formada por representaciones de serpientes emplumadas, que parecen estar en un medio acuático por las conchas y caracoles que se observan entre sus ondulantes cuerpos.&nbsp; Los arqueólogos sugieren que el edificio estaba relacionado con el tiempo y el calendario, y tenía a la serpiente emplumada como patrona de los gobernantes.
+Además de la Pirámide del Sol, la de la Luna y la Calzada de los Muertos, una de las construcciones más importantes y hermosas de **Teotihuacan** es el **Templo de Quetzalcóatl**, también conocido como Pirámide de la Serpiente Emplumada. En sus cuatro lados, este templo tiene una profusa decoración formada por representaciones de serpientes emplumadas, que parecen estar en un medio acuático por las conchas y caracoles que se observan entre sus ondulantes cuerpos. Los arqueólogos sugieren que el edificio estaba relacionado con el tiempo y el calendario, y tenía a la serpiente emplumada como patrona de los gobernantes.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Temple_of_the_feathered_serpent_detail.jpg/1024px-Temple_of_the_feathered_serpent_detail.jpg)
 
