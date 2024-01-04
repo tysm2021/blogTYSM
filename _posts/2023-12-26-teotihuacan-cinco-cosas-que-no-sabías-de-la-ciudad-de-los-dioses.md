@@ -58,13 +58,6 @@ Alrededor de la urbe principal, en conjuntos habitacionales como Atetelco, Tetit
 
 Hubo dos lugares esenciales para la observación astronómica en el sitio: la Pirámide del Sol y la Cueva astronómica, ubicada cerca de dicha estructura. En la pirámide, el Sol se oculta exactamente frente a ella el 13 de agosto y surge por su parte posterior el 19 de febrero, y en cuanto a la cueva, se dice que los teotihuacanos registraban en ella el paso cenital del Sol dos veces por año, de una manera exacta.
 
-> ¡Mira el [\#Equinoccio](https://twitter.com/hashtag/Equinoccio?src=hash&amp;ref_src=twsrc%5Etfw) desde la majestuosa ciudad de los dioses, Teotihuacan, Estado de México!<br>Rogelio Rivero Chong, director de esta zona arqueológica, habla sobre evidencia arqueoastronómica en Teotihuacan. ➡ [https://t.co/nem83WMx53](https://t.co/nem83WMx53)[\#INAHvirtual](https://twitter.com/hashtag/INAHvirtual?src=hash&amp;ref_src=twsrc%5Etfw) [pic.twitter.com/R7lvozdA6k](https://t.co/R7lvozdA6k)
->
-> — INAH (@INAHmx) [March 21, 2021](https://twitter.com/INAHmx/status/1373696747889950720?ref_src=twsrc%5Etfw)
-{: .twitter-tweet}
-
-
-
 ### Adoraban a Quetzalcóatl
 
 Además de la Pirámide del Sol, la de la Luna y la Calzada de los Muertos, una de las construcciones más importantes y hermosas de **Teotihuacan** es el **Templo de Quetzalcóatl**, también conocido como Pirámide de la Serpiente Emplumada. En sus cuatro lados, este templo tiene una profusa decoración formada por representaciones de serpientes emplumadas, que parecen estar en un medio acuático por las conchas y caracoles que se observan entre sus ondulantes cuerpos. Los arqueólogos sugieren que el edificio estaba relacionado con el tiempo y el calendario, y tenía a la serpiente emplumada como patrona de los gobernantes.
