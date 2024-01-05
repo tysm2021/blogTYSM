@@ -48,8 +48,24 @@ Animado por la idea de pedir posada, se acercó a la casa en cuestión pero se d
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Francisco_de_Goya_y_Lucientes_-_Witches_Sabbath_-_Google_Art_Project.jpg/538px-Francisco_de_Goya_y_Lucientes_-_Witches_Sabbath_-_Google_Art_Project.jpg)
 
-Desde luego, el compadre se enteró de la noticia y, ni tardo ni perezoso, acudió a preguntarle cómo le había hecho para librarse de la joroba y enriquecerse de un día para otro. El antiguo leñador le contó de la casa de las brujas y de cómo lo habían premiado por completar la canción. Al escuchar la historia, el ambicioso jorobado rico pensó que si él hacía lo mismo también recibiría monedas de oro. Así, acudió la noche siguiente al lugar que el compadre le había indicado y, cuando las brujas cantaban:
+Desde luego, el compadre se enteró de la noticia y, ni tardo ni perezoso, acudió a preguntarle cómo le había hecho para librarse de la joroba y enriquecerse de un día para otro. El antiguo leñador le contó de la casa de las brujas y de cómo lo habían premiado por completar la canción. Al escuchar la historia, el ambicioso jorobado rico pensó que si él hacía lo mismo también recibiría monedas de oro. Así, acudió la noche siguiente al lugar que el compadre le había indicado y, oyó a las brujas cantando:
 
-Lunes y martes,<br>y miércoles tres,<br>jueves y viernes,<br>y sábado siete…
+> Lunes y martes,<br>y miércoles tres,<br>jueves y viernes,<br>y sábado seis…
 
-<br>​​​​​
+Y entonces, el rico jorobado gritó:
+
+> ¡…y domingo siete!
+
+Las brujas montaron en cólera, se jalaron las mechas y furiosas empezaron a gritar:&nbsp;
+
+—¿Quién es el atrevido que echó a perder nuestra canción? ¿Quién **salió con ese domingo siete**?&nbsp;
+
+**TE RECOMENDAMOS: [¿Eres muy codo? Aquí el origen de la palabra.](https://blog.tonoysumariachi.com/mexicanisimos/2022/06/23/eres-muy-codo-aqui-el-origen-de-la-palabra.html){: target="_blank" rel="noopener"}**
+
+​​​​​Y es que la palabra **domingo** significa "el día del Señor", de modo que decir ese día es una manera de mencionar el hombre de Dios, lo cual encolerizó a las **brujas**, que adoraban a Satanás. Como castigo, golpearon al hombre y le pusieron la joroba que le habían quitado a su compadre. La moraleja es que quien actúa de buena fea recibe un premio y quien lo hace por ambición termina, tarde o temprano, recibiendo su merecido.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Print%2C_satirical_print_%28BM_1874%2C0808.2304%29.jpg/573px-Print%2C_satirical_print_%28BM_1874%2C0808.2304%29.jpg)
+
+¿Y lo del **embarazo**? Eso deriva de la segunda versión, donde los dos compadres jorobados son sustituidos por una joven inocente pero imprudente, que cuando "**sale con su domingo siete**" hace enfurecer a los duendes —que según creencias son criaturas paganas, contrarias a Dios—, quienes la castigan maldiciéndola y con un **embarazo** no deseado.
+
+¿Qué te pareció la **historia**? ¿Conoces algún otro **origen** de esta **expresión**?…
