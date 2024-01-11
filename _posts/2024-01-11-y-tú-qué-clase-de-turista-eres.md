@@ -56,22 +56,42 @@ A ti lo que te gusta son los museos, las galerías, la arquitectura civil y reli
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Interior_of_Capilla_del_Rosario_-_Centro_Historico_-_Puebla_-_Mexico_-_01_%2814917641573%29.jpg/1024px-Interior_of_Capilla_del_Rosario_-_Centro_Historico_-_Puebla_-_Mexico_-_01_%2814917641573%29.jpg)
 
-Gastronómico
+## Gastronómico
 
+Dicen los que saben que la comida mexicana hay que comerla en su lugar de origen, pues la tierra, los condimentos, la sazón de los cocineros y hasta el aire del lugar juegan un papel importante en el sabor que nos deleita cuando damos el primer bocado de ese platillo, ese mole o ese dulce que nos hace viajar kilómetros con tal de volver a probar.
 
+**Estados recomendados:** Michoacán (carnitas de cerdo, corundas, uchepos); Puebla (mole poblano, chiles en nogada, dulces típicos); Jalisco (tortas ahogadas, tequila); Oaxaca, Oax. (moles negro, rojo y amarillo; mezcal, tlayudas); Hidalgo (**barbacoa de borrego**, pastes, escamoles); Veracruz (picadas, pescado a la veracruzana, chilpachole).
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Barbacoa_%28en_Hidalgo%29.JPG/1024px-Barbacoa_%28en_Hidalgo%29.JPG)
 
 **TE RECOMENDAMOS: [Cinco consejos para viajar sin gastar mucho.](https://blog.tonoysumariachi.com/turismo/2022/10/12/cinco-consejos-para-viajar-sin-gastar-mucho.html){: target="_blank" rel="noopener"}**
 
-Ecológico
+## Ecológico
 
+Ya sea que te guste la aventura —andar en kayak, rapelear o volar en ala delta— o simplemente te encante estar en la naturaleza, el **ecoturista** busca lugares apartados y enmedio de bosques, selvas o desiertos para hallar la calma. A menudo son muy buenos fotógrafos, practican el senderismo, nadan en ríos y lagunas, y son capaces de levantarse muy temprano y subir altas montañas con tan de contemplar un hermoso amanecer.
 
+**Destinos recomendados:** Cañón del Sumidero, Chis.; Santuario de las Luciérnagas, Tlax.; Santuario de la Mariposa Monarca, Mich.; **Parque Nacional del Chico**, Hgo.; Río Filobobos, Ver.; Cabo San Lucas, BCS.
 
-Arqueológico
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vista_de_la_Presa_%22El_Cedral%22_en_Mineral_del_Chico%2C_Hidalgo.jpg/768px-Vista_de_la_Presa_%22El_Cedral%22_en_Mineral_del_Chico%2C_Hidalgo.jpg)
 
+## Arqueológico
 
+Lo tuyo son las **pirámides**, sin duda alguna. Pero también sabes mucho de las culturas maya, mexica, tolteca, teotihuacana, zapoteca y olmeca, y conoces de primera mano muchos de los vestigios que estas civilizaciones legaron al pueblo mexicano. Quizá sientas una particular fascinación por nuestro pasado prehispánico o, bien, algún ancestro tuyo vivió en esos sitios y estás reencontrándote con tus orígenes.
 
-Playero
+**Destinos recomendados:** Teotihuacan, Edo. de Méx.; Monte Albán, Oax.; Chichén Itzá, Yuc.; **El Tajín**, Ver.; Cholula, Pue.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ruins_of_El_Taj%C3%ADn_24.jpg/1024px-Ruins_of_El_Taj%C3%ADn_24.jpg)
 
+## Playero
 
-Local
+Este es uno de los tipos de **turista** más típicos y reconocibles. Lo que disfruta es zambullirse en el mar, poner sus pies en la arena y asolearse hasta quedar negro como carbón —o rojo como camarón—, mientras disfrutas de bebidas y de comidas —casi siempre, pescados y mariscos— en la **playa** de su preferencia. El destino emblemático es **Acapulco**, pero como está en reconstrucción tras el paso del huracán Otis, hay que buscarle por otros lados, tanto en el Pacífico como en el Golfo y hasta en el Caribe.
+
+**Destinos recomendados:** Cancún, Q. Roo; Huatulco, Oax.; Veracruz, Ver.; **Puerto Vallarta**, Jal. y Sayulita, Nay.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Puerto_Vallarta_Centro_and_Zona_Romantica.jpg/1024px-Puerto_Vallarta_Centro_and_Zona_Romantica.jpg)
+
+## Local
+
+Tú no te complicas la vida y aprovechas lo que la vida pone a tu alcance, pues en lugar de gastar, cansarte y estresarte con maletas, boletos y todo lo que implica un viaje, a ti te basta con un par de tenis o zapatos cómodos, una gorra, lentes oscuros y una mochila pequeña para disfrutar de tu propia **ciudad** o población, la cual conoces "como la palma de tu mano" pero aún así no dejas de disfrutarla, de maravillarte con ella y de descubrirle rincones nuevos.
+
+Y tú, ¿qué tipo de turista eres?
