@@ -52,9 +52,9 @@ Se le llama **ciudad colonial** a las grandes poblaciones fundadas o reedificada
 
 A ti lo que te gusta son los museos, las galerías, la arquitectura civil y religiosa, los monumentos y sitios históricos, así como las diversas **manifestaciones culturales** de nuestro país: danza, lectura, teatro, pintura, artesanías y escultura, por mencionar algunas. Si visitas un lugar, lo primero que haces es obtener un folleto para saber los principales sitios a visitar y sus historias, y te encanta aprender cosas nuevas en tus viajes.
 
-**Destinos recomendados:** La Ciudad de México, por todos sus museos y monumentos; Puebla-Cholula, con su enorme oferta cultural (iglesias, museos, calles y hasta pirámides); Guadalajara, Jal., sobre todo en tiempos de la Feria Internacional del Libro; Oaxaca, Oax., si lo que quieres es disfrutar de la Guelaguetza, de los museos… y de la comida —pero eso es otra clase de turismo.
+**Destinos recomendados:** La Ciudad de México, por todos sus museos y monumentos; **Puebla**\-Cholula, con su enorme oferta cultural (iglesias, museos, calles y hasta pirámides); Guadalajara, Jal., sobre todo en tiempos de la Feria Internacional del Libro; Oaxaca, Oax., si lo que quieres es disfrutar de la Guelaguetza, de los museos… y de la comida —pero eso es otra clase de turismo.
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Interior_of_Capilla_del_Rosario_-_Centro_Historico_-_Puebla_-_Mexico_-_01_%2814917641573%29.jpg/1024px-Interior_of_Capilla_del_Rosario_-_Centro_Historico_-_Puebla_-_Mexico_-_01_%2814917641573%29.jpg)
 
 Gastronómico
 
