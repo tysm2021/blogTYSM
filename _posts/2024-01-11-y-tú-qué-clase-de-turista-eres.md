@@ -1,5 +1,5 @@
 ---
-title: Y tú, ¿qué clase de turista eres?…
+title: ¿Qué clase de turista eres y cuáles son los mejores destinos para ti?
 date: 2024-01-11 16:00:00
 categories:
   - TURISMO
