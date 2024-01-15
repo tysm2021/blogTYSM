@@ -39,10 +39,16 @@ En la última categoría, probablemente **extinta** en medio silvestre, se encue
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Canis_lupus_baileyi_running.jpg/1024px-Canis_lupus_baileyi_running.jpg)
 
-La segunda categoría de riesgo corresponde a las **especies en peligro de extinción**. Esto se declara cuando quedan muy pocos ejemplares del animal en el medio silvestre y existe un gran riesgo de que la especie pueda seguir reproduciéndose y, por lo tanto, desaparezca. Las **especies mexicanas** en esta categoría son, a saber: Loro cabeza amarilla, Totoaba, Mono saraguato, Guacamaya verde, **Guacamaya roja**, Jaguar u ocelote, y el Mono araña.
+La segunda categoría de riesgo corresponde a las **especies en peligro de extinción**. Esto se declara cuando quedan muy pocos ejemplares del animal en el medio silvestre y existe un gran riesgo de que la especie pueda seguir reproduciéndose y, por lo tanto, desaparezca. Las **especies mexicanas** en esta categoría son, a saber: Loro cabeza amarilla, Totoaba, Mono saraguato, Guacamaya verde, **Guacamaya roja**, Jaguar u ocelote, el Murciélago Cara de Perro de Greenhall, la Tortuga marina, la Vaquita marina y el Mono araña.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Guacamaya_roja_en_la_Selva_Lacandona.jpg/678px-Guacamaya_roja_en_la_Selva_Lacandona.jpg)
 
-La tercera categoría la integran las especies amenazadas, las cuales no están en un riesgo inminente e inmediato como las anteriores, pero sí son susceptibles de extinguirse en un futuro próximo. En México, las especies amenazadas son: el Águila real, el Loro yucateco y el **Flamenco americano**.
+La tercera categoría la integran las especies amenazadas, las cuales no están en un riesgo inminente e inmediato como las anteriores, pero sí son susceptibles de extinguirse en un futuro próximo. En México, las especies amenazadas son: el Águila real, la Mariposa Monarca, el Loro yucateco y el **Flamenco americano**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg/1024px-Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg)
+
+Por último, están las especies protegidas o sujetas a protección especial. Según la Conabio, estas especies podrían llegar a encontrarse amenazadas por factores que inciden negativamente en su viabilidad, por lo que se determina la necesidad de propiciar su recuperación y conservación o la recuperación y conservación de poblaciones de especies asociadas. En este rubro se encuentran: la Iguana verde, la Ballena azul y la Ballena jorobada.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Humpback_whale_-_Ballena_jorobada_%28Megaptera_novaeangliae%29.jpg/1024px-Humpback_whale_-_Ballena_jorobada_%28Megaptera_novaeangliae%29.jpg)
+
+Para **evitar la pérdida** irreparable de estas **especies**, se deben llevar a cabo cinco **acciones principales**: prohibir terminantemente la caza, evitar la deforestación o destrucción de los diferentes ecosistemas donde éstas habitan, delimitar y proteger las áreas protegidas y reservas naturales, poner en práctica acciones de consumo responsable y oromover planes para la reproducción de las especies en cautiverio.
