@@ -36,7 +36,7 @@ TE RECOMENDAMOS:
 
 Roberto Sánchez Ocampo, conocido en el medio artístico como **Sandro** o "**Sandro de América**" fue uno de los primeros **cantantes argentinos** que causó furor en **México**. Con su peculiar modo de bailar, su camisa desabotonada y su actitud sexy, levantó ámpula entre el público femenino mexicano, que perdía la compostura en sus presentaciones. Entre sus muchos éxitos están: "Penas", "Mi amigo el Puma" y "Rosa Rosa". Murió en enero de 2010, a los 64 años, debido a complicaciones derivadas de un doble trasplante de pulmón.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cmMmAyP8N4c?si=ssPwNZFrwn2h4-U2&amp;start=42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Leo Dan
 
