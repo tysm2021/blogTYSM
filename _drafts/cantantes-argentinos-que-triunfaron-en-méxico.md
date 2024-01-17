@@ -46,13 +46,15 @@ Roberto Sánchez Ocampo, conocido en el medio artístico como **Sandro** o "**Sa
 
 ## Amanda Miguel
 
-Esta cantante de alborotada y rizada melena negra, voz desgarradora y enorme presencia escénica, llegó a México en 1981 con dos éxitos radiofónicos bajo el brazo: "Así no te amará jamás" y su gran hit "Él me mintió". Casada con el también argentino Diego Verdaguer, pronto se mudó a México e incluso obtuvo la nacionalidad mexicana. Su última producción discográfica salió al mercado en 2015.
+Esta cantante de alborotada y rizada melena negra, voz desgarradora y enorme presencia escénica, llegó a México en 1981 con dos éxitos radiofónicos bajo el brazo: "Así no te amará jamás" y su gran hit "Él me mintió". Casada con el también **argentino** **Diego Verdaguer**, pronto se mudó a México e incluso obtuvo la nacionalidad mexicana. Su última producción discográfica salió al mercado en 2015.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JP1JGX-AFts?si=D1S2QbfFASltZu9b&amp;start=42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JP1JGX-AFts?si=D1S2QbfFASltZu9b&amp;start=42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Diego Verdaguer
+## Laureano Brizuela
 
-Laureano Brizuela
+Apodado **"El ángel del rock"**, este sudamericano de ojos profundos y abundante cabello rizado llegó a **México** en 1985 y pasó de cantar baladas románticas a vestirse de cuero negro y tomar como estandarte el rocK & roll. Su segundo álbum le dio la fama, al colocarse como éxitos radiofónicos "**Sueños compartidos**" y "Quiero escaparme de ti". Su carrera tuvo un giro inesperado en 1989 cuando, regresando de una gira en Miami, fue aprehendido en el aeropuerto de la Ciudad de México y encarcelado por evasión fiscal. Pasó tiempo en la cárcel y aunque años más tarde fue hallado inocente, nunca pudo tener el mismo éxito en su carrera.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KVpMK2SfejA?si=bB0FpjjjDcfenUsX&amp;start=42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Ednita Nazario
 
