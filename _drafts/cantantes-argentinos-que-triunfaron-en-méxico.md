@@ -54,10 +54,10 @@ Esta cantante de alborotada y rizada melena negra, voz desgarradora y enorme pre
 
 Apodado **"El ángel del rock"**, este sudamericano de ojos profundos y abundante cabello rizado llegó a **México** en 1985 y pasó de cantar baladas románticas a vestirse de cuero negro y tomar como estandarte el rocK & roll. Su segundo álbum le dio la fama, al colocarse como éxitos radiofónicos "**Sueños compartidos**" y "Quiero escaparme de ti". Su carrera tuvo un giro inesperado en 1989 cuando, regresando de una gira en Miami, fue aprehendido en el aeropuerto de la Ciudad de México y encarcelado por evasión fiscal. Pasó tiempo en la cárcel y aunque años más tarde fue hallado inocente, nunca pudo tener el mismo éxito en su carrera.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KVpMK2SfejA?si=bB0FpjjjDcfenUsX&amp;start=42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KVpMK2SfejA?si=bB0FpjjjDcfenUsX&amp;start=42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Ednita Nazario
+## Soda Stereo
 
-Soda Stereo
+A mediados de la década de 1980, algunas estaciones de radio empezaron a programar a cantantes y bandas de rock en español, principalmente de España y de Argentina, dentro de un exitoso movimiento que se llamó "Rock en tu idioma". Y, sin duda, una de las **bandas argentinas** más exitosas de aquellos días fue el trío conformado por el malogrado **Gustavo Cerati**, **Zeta Bosio** y **Charly Albert**i, llamado Soda Stereo, banda que es considerada ampliamente por la crítica especializada como la más importante, popular e influyente del rock latinoamericano. Entre sus muchos éxitos se encuentran "Persiana americana", "Nada personal" y "La ciudad de la furia".
 
-Los Fabulosos Cadillacs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mvWJpC-nyM4?si=zpumpLu0ASLpLWEv&amp;start=42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
