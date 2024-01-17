@@ -36,7 +36,7 @@ A continuación, una breve lista de **artistas argentinos que triunfaron en Méx
 
 Su nombre real era Leopoldo Dante Tévez y desde mediados de la década de 1960 se hizo muy popular en la radio mexicana con temas como "**Qué tiene la niña**", "Cómo te extraño mi amor", "Por un caminito" y "Esa pared". Ha grabado más de 70 álbumes y hoy, a los 81 años de edad, sigue vivito y coleando.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IQPhLCkUugw?si=1KJd5IVdPEqTqyJA&amp;start=42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IQPhLCkUugw?si=1KJd5IVdPEqTqyJA&amp;start=42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ## Sandro
 
@@ -44,9 +44,11 @@ Roberto Sánchez Ocampo, conocido en el medio artístico como **Sandro** o "**Sa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmMmAyP8N4c?si=ssPwNZFrwn2h4-U2&amp;start=42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-##
+## Amanda Miguel
 
-Amanda Miguel
+Esta cantante de alborotada y rizada melena negra, voz desgarradora y enorme presencia escénica, llegó a México en 1981 con dos éxitos radiofónicos bajo el brazo: "Así no te amará jamás" y su gran hit "Él me mintió". Casada con el también argentino Diego Verdaguer, pronto se mudó a México e incluso obtuvo la nacionalidad mexicana. Su última producción discográfica salió al mercado en 2015.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JP1JGX-AFts?si=D1S2QbfFASltZu9b&amp;start=42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Diego Verdaguer
 
