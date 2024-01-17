@@ -19,10 +19,10 @@ article_header:
     src: /uploads/1024px-camilosesto.png
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/1280-verdaguer.jpg
 show_author_profile: false
 comment: false
 summary: >-
-  Desde mediados del siglo XX, una serie de artistas y cantantes españoles
-  emprendieron la "reconquista" del público mexicano
+  La migración de argentinos a México no es cosa nueva: desde la década de 1970,
+  diversos artistas sudamericanos cosecharon éxitos en nuestro país…
 ---
