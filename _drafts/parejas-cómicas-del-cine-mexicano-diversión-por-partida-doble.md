@@ -61,3 +61,5 @@ Este dúo estuvo integrado por **Manuel Palacios** '**Manolín**' y el migrante 
 ## Tin Tan y Marcelo
 
 ¡Dejamos a los mejores para el final! La **pareja cómica** por excelencia del **cine** **mexicano** fueron este par de inolvidables actores: **German Valdés 'Tin Tán'** y su **carnal Marcelo** Chávez, los cuales aparecieron prácticamente en toda la filmografía del pachuco de oro y construyeron una hermosa amistad que sólo se vio truncada con la muerte de Chávez en 1970, lo que fue un duro golpe para Tin Tán. A ellos dos podemos disfrutarlos en películas como *El rey del barrio*, *El revoltoso*, *Simbad el mareado* y El ceniciento, además de que Marcelo acompañaba a Tin Tán en la guitarra y juntos grabaron numerosas canciones y enormes éxitos discográficos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4hZXF9EpQcw?si=twosqbPV1K2AttPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
