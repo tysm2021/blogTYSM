@@ -48,7 +48,7 @@ Sin duda, una de las **parejas cómicas** más **famosas** del **cine mexicano**
 
 Esta pareja se unió por sus habilidades en el baile y permanecieron juntos durante toda la década de 1950, pero luego decidieron tomar caminos separados: **Sergio Corona** se convirtió en un **actor** cómico que años más tarde saltaría a la fama con el programa de TV, *Hogar, dulce hogar*, y **Alfonso Arau**&nbsp;hizo carrera como **director** de cine, destacando como realizador de *Como agua para chocolate* y *Un paseo por las nubes*, digiriendo a Keanu Reeves. Aquí los vemos, en una de las entregas de la trilogía Chistelandia, al lado de Chabelo y Gamboa.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g1Zw11zsw2Q?si=0Vu3gtKALo_jToZ9&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g1Zw11zsw2Q?si=0Vu3gtKALo_jToZ9&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Tin Tán y Marcelo
 
