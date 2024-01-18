@@ -30,11 +30,11 @@ En la amplia constelación de estrellas que surgieron en el **Cine de Oro mexica
 
 Aquí te presentamos algunas de las **mejores parejas de cómicos del cine mexicano**. Seguro que te sorprenderás con el origen de algunos de ellos.
 
-**TE RECOMENDAMOS: ["México lindo y querido": historia de la canción inmortalizada por Jorge Negrete](__notset__).**
+**TE RECOMENDAMOS:&nbsp;["México lindo y querido": historia de la canción inmortalizada por Jorge Negrete](__notset__).**
 
 ## Chabelo y Gamboa
 
-¡A que ésta no te la sabías! Así es: años antes de que uno se convirtiera en "el amigo de todos los niños" y condujera el programa televisivo *En familia* durante casi cincuenta años, y el otro adoptara el nombre del **Tío Gamboín**, conduciendo la barra de caricaturas del canal 5 de Televisa en los años setentas y ochentas del siglo pasado, en la década de 1950 **Chabelo y Gamboa** eran una pareja cómica que lo mismo actuaba en comerciales y programas de TV que en películas, donde Xavier López interpretaba el papel del hijo de Ramiro Gamboa, con *sketches* que eran del agrado del público.
+¡A que ésta no te la sabías! Así es: años antes de que uno se convirtiera en "el amigo de todos los niños" y condujera el programa televisivo *En familia* durante casi cincuenta años, y el otro adoptara el nombre del **Tío Gamboín**, conduciendo la barra de caricaturas del canal 5 de Televisa en los años setentas y ochentas del siglo pasado, en la década de 1950&nbsp;**Chabelo y Gamboa** eran una pareja cómica que lo mismo actuaba en comerciales y programas de TV que en películas, donde Xavier López interpretaba el papel del hijo de Ramiro Gamboa, con *sketches* que eran del agrado del público.&nbsp;
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jbMeppsg_QA?si=OzvZSib3eC_3Ab2P&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
@@ -46,7 +46,7 @@ Sin duda, una de las **parejas cómicas** más **famosas** del **cine mexicano**
 
 ## Corona y Arau
 
-Esta pareja se unió por sus habilidades en el baile y permanecieron juntos durante toda la década de 1950, pero luego decidieron tomar caminos separados: **Sergio Corona** se convirtió en un **actor** cómico que años más tarde saltaría a la fama con el programa de TV, *Hogar, dulce hogar*, y **Alfonso Arau** hizo carrera como **director** de cine, destacando como realizador de *Como agua para chocolate* y *Un paseo por las nubes*, digiriendo a Keanu Reeves. Aquí los vemos, en una de las entregas de la trilogía Chistelandia, al lado de Chabelo y Gamboa.
+Esta pareja se unió por sus habilidades en el baile y permanecieron juntos durante toda la década de 1950, pero luego decidieron tomar caminos separados: **Sergio Corona** se convirtió en un **actor** cómico que años más tarde saltaría a la fama con el programa de TV, *Hogar, dulce hogar*, y **Alfonso Arau**&nbsp;hizo carrera como **director** de cine, destacando como realizador de *Como agua para chocolate* y *Un paseo por las nubes*, digiriendo a Keanu Reeves. Aquí los vemos, en una de las entregas de la trilogía Chistelandia, al lado de Chabelo y Gamboa.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g1Zw11zsw2Q?si=0Vu3gtKALo_jToZ9&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
@@ -58,6 +58,6 @@ Este dúo estuvo integrado por **Manuel Palacios** '**Manolín**' y el migrante 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CSnMfU5nkno?si=pfME9JnRsBRKmP7t&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Tin Tan y Marcelo
+## Tin Tan y Marcelo
 
-¡Dejamos a los mejores para el final!
+¡Dejamos a los mejores para el final! La **pareja cómica** por excelencia del **cine** **mexicano** fueron este par de inolvidables actores: **German Valdés 'Tin Tán'** y su **carnal Marcelo** Chávez, los cuales aparecieron prácticamente en toda la filmografía del pachuco de oro y construyeron una hermosa amistad que sólo se vio truncada con la muerte de Chávez en 1970, lo que fue un duro golpe para Tin Tán. A ellos dos podemos disfrutarlos en películas como *El rey del barrio*, *El revoltoso*, *Simbad el mareado* y El ceniciento, además de que Marcelo acompañaba a Tin Tán en la guitarra y juntos grabaron numerosas canciones y enormes éxitos discográficos.
