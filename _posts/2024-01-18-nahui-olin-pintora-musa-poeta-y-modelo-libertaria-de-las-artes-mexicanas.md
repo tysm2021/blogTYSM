@@ -18,7 +18,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-camilosesto.png
+    src: /uploads/1280px-nahuiolin.jpg
 sharing: true
 author: Redacción TYSM
 cover: /uploads/1280px-nahuiolin.jpg
@@ -44,4 +44,18 @@ En 1913, el general **Mondragón** se exilió con su familia y casó a la menor 
 
 ![](/uploads/nahui.jpeg){: width="602" height="848"}
 
-n
+**TE RECOMENDAMOS: [Rivera, Siqueiros y Orozco: los tres grandes del muralismo mexicano.](https://blog.tonoysumariachi.com/cultura/2023/08/23/rivera-siqueiros-y-orozco-los-tres-grandes-del-muralismo-mexicano.html){: target="_blank" rel="noopener"}**
+
+De 1914 a 1921 vivió en Europa con su esposo y le pasó por episodios trágicos como la Primera Guerra Mundial, la huida a España y la muerte de su único hijo por asfixia a los pocos meses de nacido. En esos momentos, encontró en la pintura su mejor forma de expresión. Volvió a México en 1921 y entabló contacto con artistas como el pintor **Diego Rivera**, quien la inmortalizó en el mural&nbsp;*La creación*, donde aparece como Erato, la musa de la poesía erótica. También posó para Jean Charlot y realizó **desnudos** para los fotógrafos **Edward Weston** y **Antonio Garduño**, quienes no sólo capturaron la sensualidad de su figura y sus enigmáticos ojos verde
+
+![](/uploads/nahui-olin.jpeg){: width="1673" height="1599"}
+
+Ingresó al medio artístico y cultural mexicano al tomar clases en la antigua Academia de San Carlos, donde conoció a **Gerardo Murillo** 'Dr. Atl' y decidió abandonar a Rodríguez Lozano. El 'Dr. Atl'&nbsp;*fue*&nbsp;quien le dio el nombre de Nahui Olin, palabras en náhuatl que significan "cuatro movimiento" y que se refieren al Quinto Sol de la religión mexica, que es el que ilumina nuestros días. Esta época fue una de las más fructíferas en su carrera.
+
+Durante más de 50 años, **Carmen Mondragón** creó una amplia colección de pinturas que exploraban la sensualidad femenina y el erotismo, así un amplia literaria en la que predomina el apunte autobiográfico, la poesía lírica y la indagación filosófica.&nbsp;
+
+![](/uploads/nahui113.jpeg){: width="1106" height="1500"}
+
+Tras separarse de **Atl**, **Carmen Mondragón** viajó a Hollywood con la intención de convertirse en actriz, pero la ver el sometimiento con que eran tratadas las mujeres en la industria —y al darse cuenta de que lo que buscaban los productores era explotar su belleza física—, decidió rechazar el papel. Más tarde inició una relación con el capitán Eugenio Agacino, con quien realizó varios viajes; al morir éste, Mondragón se retiró de la vida pública y se enfocó en la escritura.
+
+Expuso su obra por última vez en 1945 y después se sostuvo dando clases de pintura y recibiendo una beca del gobierno. Murió en su casa de la infancia, en Tacubaya, rodeada de gatos a los que rescataba de las calles, el **23 de enero de 197**8\. Su obra apenas está siendo revalorada por la crítica y el público mexicano.
