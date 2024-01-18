@@ -56,11 +56,7 @@ Esta pareja se unió por sus habilidades en el baile y permanecieron juntos dura
 
 Este dúo estuvo integrado por **Manuel Palacios** '**Manolín**' y el migrante lituano **Estanislao Schillinsky**, mejor conocido como '**Shilinsky**', y tuvo un gran éxito en cine y Tv durante casi tres décadas, en parte debido al papel de "menso" que hacía el primero, con su ropa ridícula, su voz aguda y su comportamiento infantil, que constrastaba con la inteligencia del primero, quien como dato curioso fue concuño de **Mario Moreno 'Cantinflas'**, pues ambos estaban casados con las hermanas Ivanova. La pareja llegó a su fin en 1977 con la muerte de **Manolín**, debida al cáncer de garganta.
 
-
-
-Régulo y Madaleno
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CSnMfU5nkno?si=pfME9JnRsBRKmP7t&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Tin Tan y Marcelo
 
