@@ -42,11 +42,13 @@ Aquí te presentamos algunas de las **mejores parejas de cómicos del cine mexic
 
 Sin duda, una de las **parejas cómicas** más **famosas** del **cine mexicano**, la cual tuvo un final poco menos que feliz. Gaspar Henaine '**Capulina**' y Marco Antonio Campos 'Viruta' trabajaron juntos de 1957 a 1967 en más de treinta películas, entre las que destacan *Se los chupó la bruja*, *Limosneros con garrote*, *Los astronautas* y *Dos meseros majaderos*. El dúo se separó a finales de la década de 1960; sobre su ruptura se especuló que se debió a malos manejos de dinero e incluso a líos de faldas, pero al parecer todo se debió a que '**Capu**' tuvo éxito en su carrera solista y a **Viruta** no le fue tan bien. Tal fue el resentimiento de Campos que, se dice, al morir le encargó a su viuda que al funeral no dejara entrar al cómico originario de Chignahuapan.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ovp0ZhWdLZA?si=B8aJ9KDNcPXzcZeO&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ovp0ZhWdLZA?si=B8aJ9KDNcPXzcZeO&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Corona y Arau
+## Corona y Arau
 
-xx
+Esta pareja se unió por sus habilidades en el baile y permanecieron juntos durante toda la década de 1950, pero luego decidieron tomar caminos separados: **Sergio Corona** se convirtió en un **actor** cómico que años más tarde saltaría a la fama con el programa de TV, *Hogar, dulce hogar*, y **Alfonso Arau**&nbsp;hizo carrera como **director** de cine, destacando como realizador de *Como agua para chocolate* y *Un paseo por las nubes*, digiriendo a Keanu Reeves. Aquí los vemos, en una de las entregas de la trilogía Chistelandia, al lado de Chabelo y Gamboa.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g1Zw11zsw2Q?si=0Vu3gtKALo_jToZ9&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Tin Tán y Marcelo
 
