@@ -30,13 +30,21 @@ Muchas de las ciudades mexicanas tienen un pasado prehispánico que se remonta a
 
 A continuación, te platicamos algunos de los apodos y sobrenombres de algunas ciudades del norte, centro y sur de México. Y si nos falta mencionar la tuya, déjanos tu participación en los comentarios de nuestras redes sociales. ¡Comenzamos!
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:&nbsp;[Según el INEGI, ¿cuáles son los apellidos más comunes en México?](https://blog.tonoysumariachi.com/mexicanisimos/2022/12/02/segun-el-inegi-cuales-son-los-apellidos-mas-comunes-en-mexico.html){: target="_blank" rel="noopener"}**
 
-La Ciudad de los Palacios
+### La Ciudad de los Palacios
 
-La Perla Tapatía
+Esta es muy fácil, pues es la capital mexicana y la urbe más poblada de México: desde luego, la **Ciudad de México**. Aunque cabe mencionar que no fue el explorador y sabio alemán **Alexander von Humboldt** quien le puso este halagador apodo, sino un viajero inglés llamado&nbsp;**Charles Joseph Latrobe**, quien en 1836 se refirió así a la antigua México-Tenochtitlan.
 
-La Perla de Occidente
+### La Perla Tapatía
+
+También se le llama **La Perla de Occidente** o la **Ciudad de las Rosas**, y claro que nos referimos a **Guadalajara**, la capital del estado de Jalisco y que, según la canción, es la novia del estado.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Guadalajara%C2%B4s_Cathedral%2C_Jalisco%2C_Mexico.jpg/576px-Guadalajara%C2%B4s_Cathedral%2C_Jalisco%2C_Mexico.jpg)
+
+### La Perla del Pacífico
+
+¡Aquí sí va a haber pleito! Este sobrenombre se aplica lo mismo a **Ensenada**, B.C.; a **Mazatlán**, Sin., y hasta al puerto de **Acapulco**, Gro. Y por si fuera poco, el mismo apodo lo reciben ciudades en Costa Rica, Ecuador, Colombia y Perú, ¿qué tal?
 
 La Sultana del Norte
 
@@ -48,7 +56,13 @@ La Ciudad de la Eterna Primavera
 
 Angelópolis
 
-TE RECOMENDAMOS:
+La Ciudad Rosa
+
+Cuna de la Nación
+
+La ciudad que perfuma al mundo
+
+**TE RECOMENDAMOS:&nbsp;[Frases y refranes mexicanos con números y sus significados.](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/09/frases-y-refranes-mexicanos-con-numeros-y-sus-significados.html){: target="_blank" rel="noopener"}**
 
 La Ciudad de las Gardenias
 
@@ -71,9 +85,3 @@ Pluviosilla
 La Atenas del Bajío
 
 La Ciudad del Sol
-
-La Ciudad Rosa
-
-Cuna de la Nación
-
-La ciudad que perfuma al mundo
