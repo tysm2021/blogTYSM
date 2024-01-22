@@ -46,7 +46,9 @@ También se le llama **La Perla de Occidente** o la **Ciudad de las Rosas**, y c
 
 ¡Aquí sí va a haber pleito! Este sobrenombre se aplica lo mismo a **Ensenada**, B.C.; a **Mazatlán**, Sin., y hasta al puerto de **Acapulco**, Gro. Y por si fuera poco, el mismo apodo lo reciben ciudades en Costa Rica, Ecuador, Colombia y Perú, ¿qué tal?
 
-La Sultana del Norte
+### La Sultana del Norte
+
+La palabra *sultán* designa a un príncipe o a un gobernador musulmán, los cuales siempre poseían grandes riquezas y lucían deslumbrantes joyas, y la palabra *sultana* evoca la belleza de la mujer de un sultán. Así, tenemos la famosa **Sultana del Norte**, **Monterrey**, la industriosa capital del estado de Nuevo León. Como dato adicional, otras "sultanas" mexicanas son: la Sultana del Duero o **Zamora**, Mich.; la Sultana Huasteca o **Poza Rica**; la Sultana del Valle, **Tulancingo**, Hgo.; y las dos Sultanas de la Sierra, la yucateca **Tecax** y la tabasqueña **Teapa**.
 
 La Tres Veces Heroica
 
