@@ -23,7 +23,7 @@ article_header:
     src: /uploads/1280-juarez.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/1280-guerrero.jpg
 show_author_profile: false
 comment: false
 summary: >-
