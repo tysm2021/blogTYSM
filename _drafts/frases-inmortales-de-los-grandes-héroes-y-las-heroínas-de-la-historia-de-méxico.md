@@ -42,7 +42,7 @@ Ojalá que muchos de los gobernantes de este siglo entendieran esta máxima. Per
 
 > Señores, este es mi padre, ha venido a ofrecerme el perdón de los españoles y un trabajo como general español. Yo siempre lo he respetado, pero la Patria es primero.
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/5/5d/Vicente_Ram%C3%B3n_Guerrero_Salda%C3%B1a.png)
 
 "Los valientes no asesinan"
 
