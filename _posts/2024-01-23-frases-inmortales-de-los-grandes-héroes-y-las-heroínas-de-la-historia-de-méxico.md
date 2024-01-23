@@ -32,7 +32,7 @@ summary: >-
 ---
 Todos los mexicanos y las mexicanas, durante nuestra educación básica, aprendemos la **historia** de **México** desde los días del pasado prehispánico hasta el actual siglo XXI, pasando por la **Conquista**, la **Colonia** o Virreinato, la **Independencia**, el México independiente, la **Reforma**, el **Porfiriato**, la **Revolución** y el siglo XX. Y en las vidas de muchos de los **héroes** y las **heroínas** de nuestro país se cuentan anécdotas de valor, sacrificio y amor patriótico que a menudo se resumen en una **máxima** o **frase celebre**.
 
-Recordemos algunas de las **frases históricas** de **héroes** y **heroínas** mexicanos, explicando su **significado** y explicando el contexto en que fueron pronunciadas. Empezamos…
+Recordemos algunas de las **frases históricas** de **héroes** y **heroínas** mexicanos, explicando su **significado** y explicando el contexto en que fueron pronunciadas. Empecemos…
 
 **TE RECOMENDAMOS: ¿Qué héroes y heroínas están enterrados en el Ángel de la Independencia?**
 
