@@ -84,19 +84,29 @@ Debido a que durante la Conquista el pueblo **tlaxcalteca** se alió a los espa�
 
 **TE RECOMENDAMOS:&nbsp;[Frases y refranes mexicanos con números y sus significados.](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/09/frases-y-refranes-mexicanos-con-numeros-y-sus-significados.html){: target="_blank" rel="noopener"}**
 
-La Ciudad de las Gardenias
+### La Isla de las Golondrinas
 
-La Isla de las Golondrinas
+La tercera isla más grande de México pertenece al estado de Quintana Roo, en el sureste mexicano, y es un sitio de gran interés turístico. Claro: nos referimos a **Cozumel**, que por su privilegiada ubicación en el Mar Caribe y frente a las costas de la Riviera Maya, es un lugar lleno de encanto.
 
-Relicario Virreinal
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Beautiful_Cozumel_reef_%2821381884252%29.jpg/576px-Beautiful_Cozumel_reef_%2821381884252%29.jpg)
 
-La Ciudad de las Cajetas
+### Relicario Virreinal
 
-La Capital del Sarape
+Un relicario es una caja o un recipiente en el que, como su nombre lo indica, solían guardarse reliquias; es decir, huesos, ropas o pertenencias de algún santo católico. Por lo regular, los relicarios eran objetos artísticos preciosos de espectacular y delicada belleza. Así de hermoso lució, a ojos de quien puso el apodo, la ciudad de **San Luis Potosí**, capital del estado del mismo nombre.
 
-Venecia de los Aztecas
+### La Ciudad de las Cajetas
 
-La Ciudad Blanca
+Si nos lees en América del Sur, no pienses mal: en México hablamos de un dulce de leche quemada —leche de cabra, para más señas— que es la especialidad de la ciudad michoacana de Celaya, donde también se elaboran dulces con este delicioso y espeso postre.
+
+### La Capital del Sarape
+
+Sarapes hay muchos. Pero sin dudar los más famosos son los sarapes de Saltillo, la capital de Coahuila, desde donde estos textiles se exportan a todo el país e incluso a otros países, haciendo las delicias de los extranjeros.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Museo_del_sarape_2.jpg/640px-Museo_del_sarape_2.jpg)
+
+### La Ciudad Blanca
+
+Y llegando al sureste, al estado de Yucatán, nos encontramos con una gran cantidad de casas, edificios y monumentos que están predominantemente pintados de blanco y que han dado este albeo apodo a la ciudad de **Mérida**… ¡bomba!
 
 ### La Bella Airosa
 
@@ -104,6 +114,8 @@ Desde luego, nos referimos a **Pachuca**, la capital del estado de **Hidalgo**, 
 
 ### La Ciudad del Sol
 
-¿Has estado alguna vez en **Hermosillo**? Si la respuesta es sí, entenderás que este era el único apodo posible en la capital de **Sonora**, ubicada en pleno desierto y que muchas veces alcanza temperaturas superiores a los 40 grados centígrados.
+Por último, ¿has estado alguna vez en **Hermosillo**? Si la respuesta es sí, entenderás que este era el único apodo posible en la capital de **Sonora**, ubicada en pleno desierto y que muchas veces alcanza temperaturas superiores a los 40 grados centígrados.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Skyline_Hermosillo.jpg/1024px-Skyline_Hermosillo.jpg)
+
+Y tu ciudad o población, ¿tiene algún apodo? Comenta en nuestras redes sociales…
