@@ -80,7 +80,7 @@ Debido a que durante la Conquista el pueblo **tlaxcalteca** se alió a los espa�
 
 ### La ciudad que perfuma al mundo
 
-¡Que apodo más lindo para Papantla, Veracruz! Y esto se debe a la gran producción de vainilla, una vaina de olor delicioso que, como dice el sobrenombre, perfuma y deleita a millones de personas en todo el planeta.
+¡Que apodo más lindo para **Papantla**, Veracruz! Y esto se debe a la gran producción de vainilla, una vaina de olor delicioso que, como dice el sobrenombre, perfuma y deleita a millones de personas en todo el planeta.
 
 **TE RECOMENDAMOS:&nbsp;[Frases y refranes mexicanos con números y sus significados.](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/09/frases-y-refranes-mexicanos-con-numeros-y-sus-significados.html){: target="_blank" rel="noopener"}**
 
@@ -98,10 +98,12 @@ Venecia de los Aztecas
 
 La Ciudad Blanca
 
-La Bella Airosa
+### La Bella Airosa
 
-Pluviosilla
+Desde luego, nos referimos a **Pachuca**, la capital del estado de **Hidalgo**, una ciudad en la que sin importar la estación del año hace aire, muchísimo aire que baja desde las montañas y levanta tolvaneras. Pero bueno: nada que no podamos remediar con un delicioso paste…
 
-La Atenas del Bajío
+### La Ciudad del Sol
 
-La Ciudad del Sol
+¿Has estado alguna vez en **Hermosillo**? Si la respuesta es sí, entenderás que este era el único apodo posible en la capital de **Sonora**, ubicada en pleno desierto y que muchas veces alcanza temperaturas superiores a los 40 grados centígrados.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Skyline_Hermosillo.jpg/1024px-Skyline_Hermosillo.jpg)
