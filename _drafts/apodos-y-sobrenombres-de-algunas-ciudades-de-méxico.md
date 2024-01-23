@@ -50,19 +50,37 @@ También se le llama **La Perla de Occidente** o la **Ciudad de las Rosas**, y c
 
 La palabra *sultán* designa a un príncipe o a un gobernador musulmán, los cuales siempre poseían grandes riquezas y lucían deslumbrantes joyas, y la palabra *sultana* evoca la belleza de la mujer de un sultán. Así, tenemos la famosa **Sultana del Norte**, **Monterrey**, la industriosa capital del estado de Nuevo León. Como dato adicional, otras "sultanas" mexicanas son: la Sultana del Duero o **Zamora**, Mich.; la Sultana Huasteca o **Poza Rica**; la Sultana del Valle, **Tulancingo**, Hgo.; y las dos Sultanas de la Sierra, la yucateca **Tecax** y la tabasqueña **Teapa**.
 
-La Tres Veces Heroica
+### La cuatro veces heroica
 
-La Verde Antequera&nbsp;
+El honor de ser una ciudad "heroica" uno de los más grandes que se puede conferir a una población mexicana. Y el **Puerto de Veracruz** lo ha sido no una ni dos, ni tres, sino cuatro veces: una durante la guerra de Independencia, dos veces contra intervenciones estadounidenses y una vez contra los invasores franceses.
 
-La Ciudad de la Eterna Primavera
+![](https://upload.wikimedia.org/wikipedia/commons/e/e1/El_puerto_de_Veracruz_en_la_primera_mitad_del_siglo_XIX.png)
 
-Angelópolis
+### La Verde Antequera&nbsp;
 
-La Ciudad Rosa
+¿Ah, verdad? ¿Te sabías esta? Pues resulta que la ciudad de **Oaxaca** es la que recibe este apodo en honor a su pasado, pues originalmente se le llamó Villa y más tarde Ciudad de Antequera, dentro del enorme Marquesado del Valle de Oaxaca.
 
-Cuna de la Nación
+### La Ciudad de la Eterna Primavera
 
-La ciudad que perfuma al mundo
+Quien haya visitado **Cuernavaca** en diciembre o enero podrá confirmar que, sin importar los nubarrones y los fríos que puedan estar arreciando en la vecina Ciudad de México, en la capital morelense casi siempre habrá un clima templado o tibio, y las más de las veces un sol brillante. Como en primavera…
+
+### Angelópolis
+
+Actualmente, el nombre completo de la ciudad es **Heroica Puebla de Zaragoza**, en honor al general que venció al ejército francés en las inmediaciones de la ciudad el 5 de mayo de 1862. Sin embargo, durante el Virreinato, **Puebla** recibió el trato de **Ciudad de Ángele**s y por ello fue que a finales del siglo XX empezó a circular este apodo.
+
+### La Ciudad Rosa
+
+Nos referimos a una ciudad que antes de la Independencia se llamaba **Valladolid** y que, en honor al héroe insurgente José María Morelos, que nació ahí, actualmente se le llama **Morelia** y es la capital de **Michoacán**. El apodo obedece al color de la cantera rosa, una piedra usada en fachadas y portadas de numerosos edificios coloniales; por esa razón se le conocía también como la Ciudad de la Cantera Rosa o, antiguamente, como el Jardín de Nueva España.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Catedral_Metropolitana_de_Morelia%2C_Michoac%C3%A1n.jpg/1024px-Catedral_Metropolitana_de_Morelia%2C_Michoac%C3%A1n.jpg)
+
+### Cuna de la Nación
+
+Debido a que durante la Conquista el pueblo **tlaxcalteca** se alió a los españoles y les ayudaron a conquistar a los mexicas y, después, a someter al resto de los pueblos del actual territorio mexicano, es que la ciudad de **Tlaxcala** recibe este apodo, pues desde su territorio comenzaron la conquista militar y espiritual de México.
+
+### La ciudad que perfuma al mundo
+
+¡Que apodo más lindo para Papantla, Veracruz! Y esto se debe a la gran producción de vainilla, una vaina de olor delicioso que, como dice el sobrenombre, perfuma y deleita a millones de personas en todo el planeta.
 
 **TE RECOMENDAMOS:&nbsp;[Frases y refranes mexicanos con números y sus significados.](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/09/frases-y-refranes-mexicanos-con-numeros-y-sus-significados.html){: target="_blank" rel="noopener"}**
 
