@@ -44,11 +44,25 @@ Ojalá que muchos de los gobernantes de este siglo entendieran esta máxima. Per
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5d/Vicente_Ram%C3%B3n_Guerrero_Salda%C3%B1a.png)
 
-"Los valientes no asesinan"
+## "Los valientes no asesinan"
 
-"Morir es nada cuando por la Patria se muere"
+Con esta frase, el periodista, escritor y político **Guillermo Prieto** aparentemente le salvó la vida a **Benito Juárez** cuando ambos estaban frente a un pelotón de fusilamiento. Según un recuento, cuando los militares estaban apuntando sus armas, Prieto levantó los brazos y gritó: "¡Levanten esas armas, **los valientes no asesinan**!" y habló con tal convencimiento que los soldados acabaron llorando y jurando que no acabarían con la vida del mandatario.
 
-"Tantos soldados para custodiar una pobre mujer, pero yo con mi sangre les formaré un patrimonio a mis hijos"
+![](https://upload.wikimedia.org/wikipedia/commons/7/7d/Guillermo_Prieto_Pradillo.jpg)
+
+## "Morir es nada cuando por la Patria se muere"
+
+Cuando se había resignado a su inminente fusilamiento en Ecatepec, Estado de México, el insurgente **José María Morelos** expresó sus sentimientos en una carta a su hijo Juan Nepomuceno Almonte, en la que le dijo:
+
+> *Morir es nada cuando por la patria se muere, y yo he cumplido, como debo con mi conciencia y como americano. Dios salve a la Patria, cuya esperanza va conmigo a la tumba.*
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Fusilamiento_Morelos.jpg/1024px-Fusilamiento_Morelos.jpg)
+
+## "Tantos soldados para custodiar una pobre mujer, pero yo con mi sangre les formaré un patrimonio a mis hijos"
+
+**Doña Josefa Ortiz de Domínguez**, apodada "**La Corregidora**", fue una de las mujeres más activas y beligerantes durante el inicio de la Guerra de Independencia. Descubierta la conspiración, y cuando un pelotón de soldados acudió a su domicilio para aprehenderla y encarcelarla, la heroína queretana pronunció la frase con la que se le recuerda hasta hoy.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/La_Ilustre_Corregidora_Mar%C3%ADa_Josefa_Ortiz_de_Dom%C3%ADnguez.jpg/613px-La_Ilustre_Corregidora_Mar%C3%ADa_Josefa_Ortiz_de_Dom%C3%ADnguez.jpg)
 
 ## "Mátenlos en caliente"
 
