@@ -69,3 +69,9 @@ Cuando se había resignado a su inminente fusilamiento en Ecatepec, Estado de M�
 El autor de esta frase brutal fue nadie menos que el presidente **Porfirio Díaz**, quien en 1879, durante su primer periodo de gobierno, tuvo que hacer frente a una rebelión armada en Veracruz que buscaba devolver la presidencia a Sebastián Lerdo de Tejada. El gobernador veracruzano de aquel momento, Luis Mier y Terán, avisó de lo sucedido a Díaz, quien en un mensaje cifrado contestó con esa frase tajante: "Mátenlos en caliente". Y así sucedió. Esa sería la primera acción de represión de parte del dictador.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Porfirio_Diaz_condecoraciones.tif/lossy-page1-571px-Porfirio_Diaz_condecoraciones.tif.jpg)
+
+## "Si hubiera parque, usted no estaría aquí"
+
+Durante la intervención estadounidense, en el ex convento de Churubusco —actualmente en la alcaldía Coyoacán de la CDMX— se parapetó con sus tropas el general Pedro María Anaya para repeler a los invasores de Estados Unidos. Apoyado por los desertores del Batallón de San Patricio, Anaya combatió hasta que se le agotaron las balas —se dice que pidió reabastecimiento, pero las balas que llegaron no correspondían con los fusiles que tenían— y siguió la defensa con los puños y las bayonetas. Cuando el general Twiggs, al mando de los "gringos", le exigió entregar las armas, pertrechos y municiones, el general le contestó con las palabras que quedaron inmortalizadas en la historia.
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/4c/Anaya.jpg)
