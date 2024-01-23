@@ -1,6 +1,6 @@
 ---
 title: Tutankamón o la maldición de la momia egipcia
-date: 2023-09-19 16:00:00
+date: 2024-01-23 14:00:00
 categories:
   - MUNDO
 tags:
