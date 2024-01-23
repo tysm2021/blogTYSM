@@ -36,7 +36,13 @@ Recordemos algunas de las **frases históricas** de **héroes** y **heroínas** 
 
 **TE RECOMENDAMOS: ¿Qué héroes y heroínas están enterrados en el Ángel de la Independencia?**
 
-"La Patria es primero"
+## "La Patria es primero"
+
+Ojalá que muchos de los gobernantes de este siglo entendieran esta máxima. Pero quien la pronunció vivió y murió hace dos siglos: nos referimos al militar insurgente, consumador de la Independencia y uno de los primeros presidentes de México, el general Vicente Guerrero. Cuando aún se peleaba por nuestra libertad, el virrey de Apodaca contactó don Juan Pedro Guerrero, padre del insurgente, para ofrecerle el perdón por sus actos rebeldes, tentándolo incluso con riquezas y un cargo político, a lo que el héroe contesto:
+
+> Señores, este es mi padre, ha venido a ofrecerme el perdón de los españoles y un trabajo como general español. Yo siempre lo he respetado, pero la Patria es primero.
+
+
 
 "Los valientes no asesinan"
 
