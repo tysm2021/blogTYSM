@@ -42,4 +42,8 @@ Ante la determinación del joven, Guerra lo contrató y lo llevó con él. Poco 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1c/President_Manuel_Gonzalez.jpg)
 
-m
+En 1890, Huerta fue ascendido a Coronel y era uno de los hombres cercanos al presidente. No obstante, debido a su alcoholismo, su personalidad se hizo severa en exceso, agresiva, voluble y explosiva. Gente cercana a Porfirio Díaz —como su sobrino, el general Félix Díaz— le sugerían que se deshiciera del “borrachín” de Huerta y de su nefasta personalidad. Pero, por alguna razón, Díaz lo mantuvo en el puesto.
+
+## El Chacal
+
+En el año de 1895, Victoriano Huerta terminó por mostrarse tal y como era. el General Canuto Neri se levanta en armas lidereando a un grupo de indígenas en el Estado de Guerrero, exigiendo a Porfirio Díaz la destitución del gobernador de ese Estado; Díaz envía a Huerta al mando de un batallón para disolver la protesta; Díaz negocia con Neri y llegan a un acuerdo, pero Huerta desconociendo el acuerdo arrasa con los indígenas, ganándose el apodo entre sus tropas de&nbsp;***“El Chacal”***, debido a que no tomaba prisioneros de guerra, él los eliminaba a todos. Porfirio Díaz lo llama a cuentas por lo sucedido, y Huerta le cuenta la historia de que el General Canuto Neri apareció muerto y él no supo nada sobre ningún acuerdo y por eso procedió militarmente; pero el General Félix Díaz traía la versión real de lo sucedido, contada por oficiales que estuvieron en esa acción de guerra.
