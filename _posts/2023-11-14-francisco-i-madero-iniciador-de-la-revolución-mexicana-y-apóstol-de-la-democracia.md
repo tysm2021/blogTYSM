@@ -45,10 +45,6 @@ Orillado por la presión, Díaz renunció a la presidencia y huyó al exilio. En
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/fb/Francisco_I._Madero%2C_Retrato_%28Palacio_Nacional%29.png)
 
-Pero la victoria de **Madero** fue efímera. La traición de Victoriano Huerta, quien originalmente había jurado lealtad al presidente, culminó en el asesinato de **Madero** y del vicepresidentePino Suárez, en febrero de 1913, durante un periodo de convulsión y violencia conocido como la Décena Trágica.
+Pero la victoria de **Madero** fue efímera. La traición de Victoriano Huerta, quien originalmente había jurado lealtad al presidente, culminó en el asesinato de **Francisco I. Madero** y del vicepresidente José María Pino Suárez, el 22 de febrero de 1913, durante un periodo de convulsión y violencia conocido como la **Decena Trágica**.
 
 El sacrificio de **Francisco I. Madero** trascendió su tiempo, convirtiéndolo en un mártir de la causa democrática. Aunque su presidencia fue breve, su legado perdura como un recordatorio de la fragilidad de las instituciones democráticas y la necesidad constante de defender la justicia. Su asesinato marcó un sombrío episodio en la **Revolución Mexicana**, alimentando la llama de la resistencia contra la opresión y la tiranía.
-
-\*\*Conclusión:\*\*<br>Francisco I. Madero, Apóstol de la Democracia y Mártir de la Traición, dejó una huella indeleble en la historia de México. Su lucha por la libertad y su visión democrática inspiraron a generaciones, incluso después de su trágica muerte. El sacrificio de Madero, víctima de la traición de Huerta, destaca la fragilidad de las instituciones democráticas en momentos de agitación política. Su legado persiste como un recordatorio de la importancia de la lucha constante por la justicia y la libertad en la construcción de una nación fuerte y democrática.
-
-\*\*Conclusión:\*\*<br>El Plan de San Luis fue más que un simple manifiesto; fue el grito de libertad que marcó el inicio de la Revolución Mexicana. Francisco I. Madero, con su valentía y visión democrática, movilizó a un país hacia la lucha por la justicia y la libertad. Aunque su presidencia fue efímera y su destino trágico, el Plan de San Luis perdura como un testimonio de la voluntad del pueblo mexicano de no aceptar la opresión y de buscar un futuro mejor.
