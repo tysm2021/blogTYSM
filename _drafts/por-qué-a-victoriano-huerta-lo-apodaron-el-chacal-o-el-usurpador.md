@@ -51,3 +51,9 @@ En el año de 1895, **Victoriano Huerta** terminó por mostrarse tal y como era:
 ![](https://upload.wikimedia.org/wikipedia/commons/9/95/Victoriano_Huerta.%28cropped%29.jpg)
 
 Porfirio Díaz siguió usando a **Huerta** para sofocar rebeliones y aplastar levantamientos. En 1900, Victoriano fue enviado a reprimir a los yaquis en Sonora de forma tan violenta que casi extermina a la etnia —aunque aprovechó su estancia en Sonora para cartografiar el territorio—; en septiembre de 1901 sofocó de manera brutal 79 rebeliones indígenas en Guerrero, donde no dejó sobrevivientes; y a finales de ese año se hizo cargo de la rebelión de los mayas en Yucatán y Quintana Roo, donde los indígenas optaron por abandonar la península e internarse en Belice y Guatemala.
+
+De 1902 en adelante, el alcoholismo de **Huerta** era evidente en su salud y su personalidad, granjeándose enemigos incluso en las propias filas del Ejército. En 1907, el nuevo Secretario de Guerra y Marina, el general Manuel González de Cossío, ante el desprecio general y la mala reputación de Huertas por sus actos criminales contra su propia sangre —él era de origen indígena—, su crueldad excesiva y su proclividad a la traición, lo obliga a retirarse por motivos de salud.
+
+## El Usurpador
+
+Tras el inicio de la Revolución iniciada por Madero.&nbsp;
