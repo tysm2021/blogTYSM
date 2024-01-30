@@ -30,12 +30,16 @@ Sin duda, uno de los **personajes** más reprobables y odiados del periodo hist�
 
 Aunque no existe una sola respuesta, distintos historiadores han dado fe de episodios de la vida militar y política de **Huerta**, en los que dio muestras de su **crueldad**, su falta de escrúpulos y su habilidad para la **traición**… aunque el tiempo acabó poniéndolo en su sitio.&nbsp;
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:&nbsp;[Porfirio Díaz: ¿héroe, demócrata, villano o dictador?](https://blog.tonoysumariachi.com/historia/2023/08/29/porfirio-d%C3%ADaz-h%C3%A9roe-dem%C3%B3crata-villano-o-dictador.html){: target="_blank" rel="noopener"}**
 
 **José Victoriano Huerta Márquez** nació en Colotlán, Jalisco, el 23 de marzo de 1845 en el seno de una familia muy humilde de raíces netamente indígenas, en particular del pueblo huichol. Su madre logró inscribirlo en el pequeño grupo de niños a los que el párroco del lugar enseñaba a leer y escribir, e instruía en los primeros conocimientos. La oportunidad de salir de la pobreza enrolándose en el Ejército vino en 1869, cuando tras librar una batalla llegó a Colotlán el general **Donato Guerra**, quien acababa de perder a su secretario particular. Victoriano, con quince años de edad, se presentó ante el general para ofrecerse como voluntario para el puesto.
 
-Ante la determinación del joven, Guerra lo contrató y lo llevó con él. Poco después, en retribución a sus servicios, le consiguió una beca y recomendación para estudiar en el Colegio Militar. Ahí, **Huerta** destacó como cadete y sobresalió en las matemáticas, por lo que se especializó en artillería y topografía. Ccomo era el mejor cadete, fue elegido para recibir al presidente Benito Juárez en una visita al Colegio Militar; en esa ocasión, se dice que Juárez le dijo:&nbsp;
+Ante la determinación del joven, Guerra lo contrató y lo llevó con él. Poco después, en retribución a sus servicios, le consiguió una beca y recomendación para estudiar en el Colegio Militar. Ahí, **Huerta** destacó como cadete y sobresalió en las matemáticas, por lo que se especializó en artillería y topografía. Como era el mejor cadete, fue elegido para recibir al presidente Benito Juárez en una visita al Colegio Militar; en esa ocasión, se dice que Juárez le dijo:&nbsp;
 
-De indio a indio le digo que, de los indios que se educan así como usted lo hace, la Patria espera mucho…
+> De indio a indio le digo que, de los indios que se educan así como usted lo hace, la Patria espera mucho…
 
-h
+**Huerta** se graduó del Colegio Militar en 1876, con el grado de Teniente. Tres años más tarde es nombrado Capitán y puesto a las órdenes del del general **Manuel González Flores**, compadre cercano del presidente Porfirio Díaz y con quien estableció una buena relación. Poco después, González Flores —en la imagen de abajo— sería elegido presidente y éste lo nombró jefe de la Sección de Topografía y Cartografía Militar del Ejército. Siendo cercano al presidente, la carrera de Victoriano progresó y empezó a rodearse de lujos; fue entonces cuando se aficionó a las bebidas alcohólicas, en especial al coñac francés, lo cual a la postre se convertiría en alcoholismo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1c/President_Manuel_Gonzalez.jpg)
+
+m
