@@ -19,7 +19,7 @@ article_header:
     src: /uploads/daniel-lloyd-blunk-fernandez-io2k1js72we-unsplash.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/daniel-lloyd-blunk-fernandez-io2k1js72we-unsplash.jpeg
 show_author_profile: false
 comment: false
 summary: >-
