@@ -40,7 +40,7 @@ Otra teoría, muy socorrida y relacionada con la anterior, proviene del juego de
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Marble_collector_-_Flickr_-_smkybear.jpg/640px-Marble_collector_-_Flickr_-_smkybear.jpg)
 
-Una más
+Una más sostiene que su origen debe localizar en el norte de México, en la forma de la palabra *chilo*, usada para referirse a una persona "que habla al chile", es decir, con franqueza, con la verdad y de forma sincera; esta palabra después se adoptaría en el centro y sur del país como *chido*.
 
 
 
