@@ -33,4 +33,4 @@ Hagamos un recorrido por la **historia** de esta célebre y bella artesanía que
 
 **TE RECOMENDAMOS:&nbsp;[Madera de Olinalá: fragante y colorida artesanía del estado de Guerrero.](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/19/madera-de-olinala-la-fragante-y-colorida-artesania-del-estado-de-guerrero.html){: target="_blank" rel="noopener"}**
 
-m
+Según una publicación digital del Gobierno de México, la **Talavera**&nbsp;es un tipo de mayólica —es decir, loza común que se cobre con un esmalte brillante metálico— que es originario de los estados de **Puebla** y Tlaxcala, cuyos orígenes se remontan al siglo XVI. Tradicionalmente, los colores empleados en su decoración son el azul, amarillo, negro, verde, naranja y malva. Cada pieza es hecha a mano y en la técnica del vidriado se usan metales como estaño y plomo, siguiendo el mismo proceso de manufactura desde la época virreinal.
