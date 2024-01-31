@@ -40,3 +40,11 @@ Según una publicación digital del Gobierno de México, la **Talavera**&nbsp;es
 También, una cantidad importante se ha destinado a la decoración de edificios: en la Ciudad de México, por ejemplo, la Casa de los Azulejos está cubierta con mosaicos de **Talavera**, y en la ciudad de **Puebla** abundan los ejemplos de arquitectura civil y religiosa que la emplean como acabado en paredes y cúpulas: baste señalar la Casa del Alfeñique y el Santuario de Guadalupe, en el Centro Histórico de **Puebla**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Fachada_del_Santuario_de_Guadalupe_de_Puebla_08.jpg/1024px-Fachada_del_Santuario_de_Guadalupe_de_Puebla_08.jpg)
+
+Según algunos historiadores, la creación de la Talavera mexicana dio inicio con la llegada de alfareros españoles a la Nueva España. De hecho, el término **talavera** surgió para indicar la similitud de las piezas de **loza vidriada** elaborada en México con las que se realizaban en&nbsp;**Talavera** de la Reina, cerca de Toledo, en España.&nbsp;
+
+
+
+Por último, hay que mencionar que el 17 de marzo de 1995 en el Diario Oficial de la Federación se publicó una resolución que otorgó protección a la Denominación de Origen “**Talavera de Puebla**”, la cual se modificó dos años después para quedar simplemente como “Talavera”, en virtud de que también se elabora en otros estados como Tlaxcala y Guanajuato. Esto se debe a que desde hace siglos se sigue el mismo proceso artesanal, con arcillas y métodos tradicionales de esos lugares, los cuales no pueden ser imitados en ninguna otra parte del mundo y tienen como resultado piezas inconfundibles.
+
+Y a ti, ¿te gusta la **Talavera**, aunque no sea exactamente de Puebla?
