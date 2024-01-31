@@ -32,4 +32,10 @@ Casi nunca es posible determinar un **origen** único, pero nos dimos a la tarea
 
 **TE RECOMENDAMOS: [Por la puerta falsa: mexicanos y mexicanas suicidas.](https://blog.tonoysumariachi.com/mexicanisimos/2023/11/22/por-la-puerta-falsa-mexicanos-y-mexicanas-suicidad.html){: target="_blank" rel="noopener"}**
 
-Veamos.&nbsp;
+Empecemos. Según una publicación del Museo Universitario del Chopo de la UNAM. chido tiene su origen en una lengua que se habla en España: el asturiano, Asturias o *bable*; así, en el lenguaje asturiano se ocupa la palabra&nbsp;***xidu***&nbsp;para referirse a alguna persona "guapa, arreglada, hermosa, bella, agradable, querida o buena" y de esa voz derivaría la palabra&nbsp;**chido**, que habría empezado a usarse en la década de 1930 del año pasado.
+
+Otro posible origen es la palabra&nbsp;**chirote**, una expresión del habla costarricense que denota a alguien "inquieto, aunque también maravilloso".&nbsp;
+
+
+
+&nbsp;
