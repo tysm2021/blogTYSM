@@ -60,3 +60,11 @@ Esta terminología no debe confundirse con el nombre de **Nueva Delhi**, la capi
 ## \#4 Cantón
 
 Su nombre oficial es&nbsp;**Guangzhou**, pero desde hace muchas décadas en español conocemos como **Cantón** a la capital de la provincia de **Guangdong**. Esta urbe con **18\.6 millones** de habitantes tiene una historia de más de dos milenios y fue un importante puerto de comercio entre Asia y Europa en los tiempos de la Ruta de la Seda. Actualmente su mancha urbana se ha unido con la ciudad de **Foshan** y otras urbes contiguas para formar un área metropolitana con una población de 27.1 millones de personas. Ahora que si se suma su conglomerado urbano que comprende incluso parte del país de Macao, la población urbana total supera los 65.5 millones de habitantes, la más grande del planeta.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Canton_Tower_20220626_%28cropped%29.jpg/1024px-Canton_Tower_20220626_%28cropped%29.jpg)
+
+## \#5 Bombay
+
+Aunque ahora se le conoce más por su escritura en inglés **Mumbai**, esta **ciudad** es la capital del distrito de Maharashtra, en **La India**, y el puerto más importante del país, por donde pasa 40% de las mercancías que entran y salen del mismo. La población de la ciudad en sí asciende a los **12\.5 millones** de personas, y ya añadiendo el área metropolitana, hablamos del doble: casi **25\.2 millones** de habitantes. Más que Nueva Delhi, Bombay es el corazón comercial, financiero y de entretenimiento del país y prácticamente de su región económica.&nbsp;
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mumbai%2C_India%2C_Chhatrapati_Shivaji_Maharaj_Terminus_%28Victoria_Terminus%29%2C_Railway_station.jpg/1024px-Mumbai%2C_India%2C_Chhatrapati_Shivaji_Maharaj_Terminus_%28Victoria_Terminus%29%2C_Railway_station.jpg)
