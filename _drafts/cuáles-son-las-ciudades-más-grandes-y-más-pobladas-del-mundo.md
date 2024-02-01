@@ -51,6 +51,8 @@ La **ciudad** capital de **Indonesia** es un caso particular, pues dependiendo d
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1024px-Jakarta_Skyline_Part_2.jpg)
 
-\#3 Shanghai
+## \#3 Delhi
+
+Esta terminología no debe confundirse con el nombre de Nueva Delhi, la capital de La India, pues Delhi designa al complejo urbano que designa a dicha ciudad&nbsp;
 
 \#4 Sao Paulo
