@@ -53,6 +53,6 @@ La **ciudad** capital de **Indonesia** es un caso particular, pues dependiendo d
 
 ## \#3 Delhi
 
-Esta terminología no debe confundirse con el nombre de Nueva Delhi, la capital de La India, pues Delhi designa al complejo urbano que designa a dicha ciudad&nbsp;
+Esta terminología no debe confundirse con el nombre de **Nueva Delhi**, la capital de La India, pues&nbsp;**Delhi** designa al complejo urbano que incluye a dicha ciudad y a su área conurbada. Si bien la capital cuenta con sólo 16.7 millones de habitantes —cifra que la coloca detrás de Bombay, por ejemplo—, la población total del Territorio de la Capital Nacional, que es el nombre oficial, es de 32.2 millones de almas.&nbsp;
 
 \#4 Sao Paulo
