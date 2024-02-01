@@ -49,7 +49,7 @@ Como información adicional, el **área metropolitana** de **Tokio** se consider
 
 La **ciudad** capital de **Indonesia** es un caso particular, pues dependiendo del enfoque del listado puede ocupar el segundo sitio entre las más pobladas o irse hasta la posición \#30, debido a que dentro del límite territorial de la ciudad la población asciende a **10.5 millones** de habitantes, pero si tomamos en cuenta su área metropolitana —que se conoce como **Jabodetabek**, acrónimo para Jakarta, Bogor, Depok, Tangerang y Bekasila, los principales núcleos urbanos que la integran— la cifra asciende hasta los **35\.3 millones** de personas.
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1024px-Jakarta_Skyline_Part_2.jpg)
 
 \#3 Shanghai
 
