@@ -57,4 +57,6 @@ Esta terminología no debe confundirse con el nombre de **Nueva Delhi**, la capi
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Main_Bazaar%2C_Paharganj%2C_Delhi%2C_India.jpg/1024px-Main_Bazaar%2C_Paharganj%2C_Delhi%2C_India.jpg)
 
-\#4 Sao Paulo
+## \#4 Cantón
+
+Su nombre oficial es&nbsp;**Guangzhou**, pero desde hace muchas décadas en español conocemos como **Cantón** a la capital de la provincia de **Guangdong**. Esta urbe con **18\.6 millones** de habitantes tiene una historia de más de dos milenios y fue un importante puerto de comercio entre Asia y Europa en los tiempos de la Ruta de la Seda. Actualmente su mancha urbana se ha unido con la ciudad de **Foshan** y otras urbes contiguas para formar un área metropolitana con una población de 27.1 millones de personas. Ahora que si se suma su conglomerado urbano que comprende incluso parte del país de Macao, la población urbana total supera los 65.5 millones de habitantes, la más grande del planeta.
