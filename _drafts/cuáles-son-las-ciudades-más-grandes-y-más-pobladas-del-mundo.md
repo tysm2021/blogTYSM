@@ -29,4 +29,6 @@ Luego de años de explosión demográficas, después de una pandemia mundial que
 
 Revisemos lo que dicen las fuentes más confiables que están a la mano, pero antes conozcamos los criterios en que se basan las cifras que ofrecen.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:&nbsp;[¿Cuáles son museos más visitados del mundo, antes y después de la pandemia?](https://blog.tonoysumariachi.com/mundo/2022/06/09/los-museos-mas-visitados-del-mundo-cuales-son.html){: target="_blank" rel="noopener"}**
+
+V
