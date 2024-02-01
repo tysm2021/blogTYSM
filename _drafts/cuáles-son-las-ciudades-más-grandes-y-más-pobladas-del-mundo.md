@@ -18,10 +18,15 @@ article_header:
     src: /uploads/andre-benz-mn9fa-wqh-m-unsplash.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/andre-benz-mn9fa-wqh-m-unsplash.jpeg
 show_author_profile: false
 comment: false
 summary: >-
   Con información actualizada a diciembre de 2023, ¿cuáles son las urbes y zonas
   metropolitanas con mayor número de habitantes?
 ---
+Luego de años de explosión demográficas, después de una pandemia mundial que causó millones de muertes y enmedio de guerras, conflictos y cambios climáticos, según las **estadísticas** más recientes, ¿cuáles son las **ciudades** o las **áreas metropolitanas** **más grandes** y **más pobladas** del **mundo**? ¿Cuál es la diferencia entre estos dos conceptos? Y, ¿existe alguna ciudad mexicana entre las más que tienen mayor número de habitantes?
+
+Revisemos lo que dicen las fuentes más confiables que están a la mano, pero antes conozcamos los criterios en que se basan las cifras que ofrecen.
+
+TE RECOMENDAMOS:
