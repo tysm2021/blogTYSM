@@ -39,10 +39,10 @@ Las colonias urbanas de Naucalpan, Tlalnepantla, Ecatepec y Nezahualcóyotl, en 
 
 ## \#1. Tokio
 
-La populosa capital de **Japón** continúa a la cabeza como **la ciudad más grande** y la **más poblada** del **mundo**. La población dentro de la capital o ciudad en sí, es de poco más de 13.5 millones de personas; pero si hablamos del área metropolitana de Tokio, que incluye la Metrópolis de Tokio y ciudades circunvecinas como Yokohama, Kawasaki y Chiba, la población total de esta megalópolis es del orden de los 37.7 millones de personas, distribuidas en una superficie total de casi 13 mil 500 kilómetros cuadrados.&nbsp;
+La populosa capital de **Japón** continúa a la cabeza como **la ciudad más grande** y la **más poblada** del **mundo**. La población dentro de la capital o **ciudad en sí**, es de poco más de **13\.5 millones de personas;** pero si hablamos del **área metropolitana** de **Tokio**, que incluye la Metrópolis de Tokio y ciudades circunvecinas como Yokohama, Kawasaki y Chiba, la **población total** de esta megalópolis es del orden de los **37\.7 millones de personas**, distribuidas en una superficie total de casi 13 mil 500 kilómetros cuadrados.&nbsp;
 
-Como información adicional, el área metropolitana de Tokio se considera la segunda urbe con el mayor producto interno bruto en el mundo, sólo detrás de Nueva York, y en ella se concentran 29 de las 500 empresas más grandes del planeta según Forbes.
+Como información adicional, el **área metropolitana** de **Tokio** se considera la segunda urbe con el mayor producto interno bruto en el mundo, sólo detrás de Nueva York, y en ella se concentran 29 de las 500 empresas más grandes del planeta según *Forbes*.
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Skyscrapers_of_Shinjuku_2009_January_%28revised%29.jpg/1024px-Skyscrapers_of_Shinjuku_2009_January_%28revised%29.jpg)
 
 \#2&nbsp;
