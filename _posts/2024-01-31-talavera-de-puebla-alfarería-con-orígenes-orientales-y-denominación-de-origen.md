@@ -1,5 +1,5 @@
 ---
-title: 'Talavera de Puebla: alfarería con orígenes orientales y denominación de origen'
+title: 'Talavera de Puebla: alfarería con sabor oriental y denominación de origen'
 date: 2024-01-31 13:00:00
 categories:
   - CULTURA
