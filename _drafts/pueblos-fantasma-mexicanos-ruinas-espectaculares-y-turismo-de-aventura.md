@@ -47,12 +47,20 @@ gg
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hacienda_en_Mineral_de_Pozos%2C_Guanajuato_1.jpg/1024px-Hacienda_en_Mineral_de_Pozos%2C_Guanajuato_1.jpg)
 
-San Juan Parangaricutiro
+## San Juan Parangaricutiro
 
+gg
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/San_Juan_Parangaricutiro%2C_iglesia_07.jpg/1024px-San_Juan_Parangaricutiro%2C_iglesia_07.jpg)
 
-Misnébalam
+## Misnébalam
 
+gg
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Misnebalam%2C_Yucat%C3%A1n_%2818%29.jpg/1024px-Misnebalam%2C_Yucat%C3%A1n_%2818%29.jpg)
 
-Guerrero Viejo
+## Guerrero Viejo
+
+gg
+
+![](/uploads/1024px-guerreroviejo.jpg){: width="1024" height="665"}
