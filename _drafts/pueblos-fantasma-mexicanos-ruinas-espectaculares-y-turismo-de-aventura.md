@@ -43,13 +43,13 @@ Al norte del estado de **San Luis Potosí** se encuentra esta población, que ac
 
 ## Mineral de Pozos
 
-gg
+Este importante pueblo minero se encuentra en el estado de **Guanajuato** y actualmente pertenece al municipio de San Luis de la Paz. Durante siglos fue un importante pueblo minero con hasta 50 000 trabajadores activos en su época de auge; pero, al igual que pasó en **Real de Catorce**, en 1938, un río subterráneo inundó las galerías y los túneles de las minas, quedando abandonados todos los trabajos de minería y así fue que, poco a poco, el **pueblo** quedó vacío. Hoy, **Mineral de Pozos** es un **Pueblo Mágico** que recibe la visita de turistas y viajeros que usan sus calles desoladas como motivo para melancólicas fotografías.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hacienda_en_Mineral_de_Pozos%2C_Guanajuato_1.jpg/1024px-Hacienda_en_Mineral_de_Pozos%2C_Guanajuato_1.jpg)
 
 ## San Juan Parangaricutiro
 
-gg
+Aquí no fue un río, sino un volcán, el que convirtió a esta localidad de **Michoacán** en un **pueblo fantasma**. Fue el 20 de febrero de 1943 cuando el **Paricutín** empezó a hacer erupción y sus ríos de lava cubrieron las calles y las casas del pueblo, que quedó desértico y enterrado parcialmente entre las rocas que se formaron al secarse la lava. Los habitantes que sobrevivieron al desastre natural tuvieron que migrar hacia otro sitio y, al tiempo, fundaron el pueblo de **Nuevo San Juan Parangaricutiro**, que al renacer fue llamado "el pueblo que se negó a morir".
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/San_Juan_Parangaricutiro%2C_iglesia_07.jpg/1024px-San_Juan_Parangaricutiro%2C_iglesia_07.jpg)
 
