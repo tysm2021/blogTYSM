@@ -28,3 +28,12 @@ summary: >-
   Estas poblaciones tuvieron su época de esplendor pero, por una causa u otra,
   quedaron abandonados y hoy puedes visitarlos…
 ---
+Real de Catorce
+
+Mineral de Pozos
+
+San Juan Parangaricutiro
+
+Misnébalam
+
+Guerrero Viejo
