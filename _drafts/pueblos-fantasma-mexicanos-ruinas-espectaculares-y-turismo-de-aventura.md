@@ -37,7 +37,7 @@ Recorramos algunos de estos pueblos que en el pasado fueron localidades llenas d
 
 ## Real de Catorce
 
-gg
+Al norte del estado de **San Luis Potosí** se encuentra esta población, que actualmente ostenta el nombramiento de **Pueblo Mágico**. Se dice que el nombre de **Real de Catorce** deriva de una banda de catorce ladrones que se escondieron en el lugar. Fue fundado a finales del siglo XVIII y durante dos siglos fue una rica y próspera población minera que se dedicaba a la extracción de la plata, hasta que dieron con un manto acuífero que inundó y dejó inutilizables las minas, por lo que la gente empezó a emigrar hasta que el pueblo quedó semi abandonado. Para entrar a **Real de Catorce** debes cruzar el Túnel Ogarrio, construido en el siglo XVII, y al ingresar al pueblo es como si viajaras en el tiempo. No olvides llevar tu cámara fotográfica.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vista_de_Real_de_Catorce.jpg/1024px-Vista_de_Real_de_Catorce.jpg)
 
