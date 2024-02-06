@@ -29,28 +29,30 @@ summary: >-
   Estas poblaciones tuvieron su época de esplendor pero, por una causa u otra,
   quedaron abandonados y hoy puedes visitarlos…
 ---
-Muchas de los **pueblos** de **México** empezaron su historia de forma modesta y poco a poco fueron llenándose de personas y creciendo hasta alcanzar el tamaño y la categoría de ciudad. Impulsados por actividades lucrativas como la minería o el transporte ferroviario, alcanzaron un punto de esplendor pero, por razones distintas —el agotamiento de sus minas, un desastre natural o la migración masiva—, algunos de ellos fueron quedándose sin gente, sus construcciones empezaron a quedar en el abandono y, al final, quedaron reducidos a pueblos fantasma.
+Muchas de los **pueblos** de **México** empezaron su historia de forma modesta y poco a poco fueron llenándose de personas y creciendo hasta alcanzar el tamaño y la categoría de ciudad. Impulsados por actividades lucrativas como la minería o el transporte ferroviario, alcanzaron un punto de esplendor pero, por razones distintas —el agotamiento de sus minas, un desastre natural o la migración masiva—, algunos de ellos fueron quedándose sin gente, sus construcciones empezaron a quedar en el **abandono** y, al final, quedaron reducidos a **pueblos fantasma**.
 
-Recorramos algunos de estos pueblos que en el pasado fueron localidades llenas de vida, pero que hoy lucen como parajes desiertos, mudos testigos de la gloria del pasado y destino de los aficionados a la fotografía y de los turistas que aman la aventura.
+Recorramos algunos de estos pueblos que en el pasado fueron localidades llenas de vida, pero que hoy lucen como parajes **desiertos**, mudos testigos de la gloria del pasado y destino de los aficionados a la **fotografía** y de los **turistas** que aman la **aventura**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: [Da un vistazo a los Pueblos Mágicos de Querétaro.](https://blog.tonoysumariachi.com/turismo/2022/11/04/pueblos-magicos-en-el-estado-de-queretaro.html){: target="_blank" rel="noopener"}**
 
-Real de Catorce
+## Real de Catorce
 
-Mineral de Pozos
+gg
 
-San Juan Parangaricutiro
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vista_de_Real_de_Catorce.jpg/1024px-Vista_de_Real_de_Catorce.jpg)
 
-Misnébalam
+## Mineral de Pozos
 
-Guerrero Viejo
+gg
 
-Real de Catorce
-
-Mineral de Pozos
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hacienda_en_Mineral_de_Pozos%2C_Guanajuato_1.jpg/1024px-Hacienda_en_Mineral_de_Pozos%2C_Guanajuato_1.jpg)
 
 San Juan Parangaricutiro
 
+
+
 Misnébalam
+
+
 
 Guerrero Viejo
