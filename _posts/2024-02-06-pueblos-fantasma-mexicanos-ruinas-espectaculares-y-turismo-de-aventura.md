@@ -61,6 +61,6 @@ Ahora vámonos al sureste mexicano, en específico al estado de **Yucatán**. Aq
 
 ## Guerrero Viejo
 
-gg
+Por último, nos referiremos a este pueblo fronterizo que se encuentra en los límites del estado de **Tamaulipas** con Texas, en los Estados Unidos. Durante el Virreinato recibía el nombre de Revilla, y tras la Independencia recibió el nombre del insurgente Vicente Guerrero. En este caso, fue la construcción de una **presa** aledaña —la Presa Falcón— lo que provocó la **inundación** programada del pueblo, cuyos pobladores fueron reubicados en un nuevo paraje, llamado Nueva Ciudad Guerrero. Hoy en día, la iglesia de Nuestra Señora del Refugio es la estructura que más sobresale y la mejor conservada de este pueblo fantasma, al que puedes visitar… sólo cuando baja el nivel del agua.
 
 ![](/uploads/1024px-guerreroviejo.jpg){: width="1024" height="665"}
