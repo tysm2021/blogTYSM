@@ -43,7 +43,7 @@ Al norte del estado de **San Luis Potosí** se encuentra esta población, que ac
 
 ## Mineral de Pozos
 
-Este importante pueblo minero se encuentra en el estado de **Guanajuato** y actualmente pertenece al municipio de San Luis de la Paz. Durante siglos fue un importante pueblo minero con hasta 50 000 trabajadores activos en su época de auge; pero, al igual que pasó en **Real de Catorce**, en 1938, un río subterráneo inundó las galerías y los túneles de las minas, quedando abandonados todos los trabajos de minería y así fue que, poco a poco, el **pueblo** quedó vacío. Hoy, **Mineral de Pozos** es un **Pueblo Mágico** que recibe la visita de turistas y viajeros que usan sus calles desoladas como motivo para melancólicas fotografías.
+Este importante pueblo minero se encuentra en el estado de **Guanajuato** y actualmente pertenece al municipio de San Luis de la Paz. Durante siglos fue un importante pueblo minero en el siglo XVIII, del que se extraían cobre, plata, oro y bronce, con hasta 50 000 trabajadores activos en su época de auge; pero, al igual que pasó en **Real de Catorce**, en 1938, un río subterráneo inundó las galerías y los túneles de las minas, quedando abandonados todos los trabajos de minería y así fue que, poco a poco, el **pueblo** quedó vacío. Hoy, **Mineral de Pozos** es un **Pueblo Mágico** que recibe la visita de turistas y viajeros que usan sus calles desoladas como motivo para melancólicas fotografías.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hacienda_en_Mineral_de_Pozos%2C_Guanajuato_1.jpg/1024px-Hacienda_en_Mineral_de_Pozos%2C_Guanajuato_1.jpg)
 
@@ -53,9 +53,9 @@ Aquí no fue un río, sino un volcán, el que convirtió a esta localidad de **M
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/San_Juan_Parangaricutiro%2C_iglesia_07.jpg/1024px-San_Juan_Parangaricutiro%2C_iglesia_07.jpg)
 
-## Misnébalam
+## Misnebalam
 
-gg
+Ahora vámonos al sureste mexicano, en específico al estado de **Yucatán**. Aquí encontramos lo que fuera el casco de la **Hacienda de Misnebalam**, que era uno de los centros económicos de la industria del **henequén** en el estado desde finales del siglo XIX y hasta la década de 1930. La historia de su despoblamiento tiene tintes de leyenda: por un lado, se dice que la escasez de agua fue la causante de la migración masiva de los habitantes, pero otros hablan de fenómenos paranormales que aterrorizaron a la población: algunos dicen que el fantasma de Juliancito, un niño de 9 años que se colgó de un árbol, sigue deambulando por el pueblo y otros cuentan que un monje con túnica negra aparece por las noches en la iglesia. Hoy su población es de cero habitantes; aun así, ¿te animarías a ir?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Misnebalam%2C_Yucat%C3%A1n_%2818%29.jpg/1024px-Misnebalam%2C_Yucat%C3%A1n_%2818%29.jpg)
 
