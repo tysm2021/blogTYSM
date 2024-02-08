@@ -29,7 +29,7 @@ summary: >-
 ---
 Hace poco se cumplieron 500 años de la caída de la llegada de los españoles a costas mexicanas y, después de la caída de México-Tenochtitlan y del Imperio Mexica. Desde el primer momento en estas tierras, algo que hicieron los conquistadores fue edificar **iglesias**, **ermitas** y **capillas** **católicas** para dar inicio a la evangelización de la Nueva España. Hablamos, entonces, de templos religiosos que tienen casi medio milenio de existencia y que, milagrosamente, aún siguen en pie. ¿Cuáles son éstas, las **iglesias más antiguas de México**?
 
-Hagamos un breve recuento de los templos cristianos que aún existen y que se consideran los primeros y más antiguos, cuya belleza arquitectónica e importancia histórica vale la pena revisar.
+Hagamos un breve recuento de los **templos** cristianos que aún existen y que se consideran los primeros y más antiguos, cuya belleza arquitectónica e importancia histórica vale la pena revisar.
 
 **TE RECOMENDAMOS: [Algunos teatros famosos de México.](https://blog.tonoysumariachi.com/cultura/2022/09/06/algunos-teatros-famosos-de-mexico.html){: target="_blank" rel="noopener"}**
 
