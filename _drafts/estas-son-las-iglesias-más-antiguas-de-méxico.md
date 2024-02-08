@@ -41,6 +41,8 @@ Esta imponente catedral, que se distingue en el paisaje de la calurosa capital y
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/San_Ildefonso_Cathedral_-_MDA_YUC_MEX_2020.jpg/724px-San_Ildefonso_Cathedral_-_MDA_YUC_MEX_2020.jpg)
 
-## Capilla de la Conchita
+## Iglesia de la Inmaculada Concepción
 
 (Coyoacán, CDMX)
+
+Esta iglesia, mejor conocida como la Capilla de la Concepción o "La Conchita", es sin duda la más antigua de la Ciudad de México. La historia dice que, tras asentarse en Coyoacán tras la conquista de México-Tenochtitlan, Hernán Cortés mandó construir barrios iglesias que sirvieron como cabecera de los nuevos barrios: la Iglesia de San Juan Bautista, la de Santa Catarina y ésta, dedicada a la Inmaculada Concepción. Este hermosa capilla fue dedicada en 1525 y hace poco pasó por un proceso de restauración para recuperar su antigua gloria.
