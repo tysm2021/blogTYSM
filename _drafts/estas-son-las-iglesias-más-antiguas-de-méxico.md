@@ -48,3 +48,13 @@ Esta imponente catedral, que se distingue en el paisaje de la calurosa capital y
 Esta iglesia, mejor conocida como la **Capilla de la Concepción** o "**La Conchita**", es sin duda la **más antigua** de la Ciudad de México. La historia dice que, tras asentarse en **Coyoacán** tras la conquista de México-Tenochtitlan, Hernán Cortés mandó construir barrios **iglesias** que sirvieron como cabecera de los nuevos barrios: la Iglesia de San Juan Bautista, la de Santa Catarina y ésta, dedicada a la **Inmaculada Concepción**. Este hermosa **capilla** **fue dedicada en 1525** y hace poco pasó por un proceso de restauración para recuperar su antigua gloria.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5b/La_Conchita_en_Coyoac%C3%A1n.jpg)
+
+## Capilla de San José
+
+**Cuernavaca, Morelos**
+
+Esta antiquísima capilla, que también recibe el nombre de **Iglesia de San José Tlaltenango** por el barrio en que se ubica, forma parte del conjunto religioso de la Iglesia de Nuestra Señora de los Remedios, dedicado a la Virgen María. En el caso específico de este **templo**, fue construida por los franciscanos en 1523, toda vez que Hernán Cortés se estableció en la Ciudad de la Eterna Primavera. Una placa conmemorativa afirma que es la "**Primera Capilla de América** Continental".
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Capilla_de_San_Jos%C3%A9_Tlaltenango.jpg/768px-Capilla_de_San_Jos%C3%A9_Tlaltenango.jpg)
+
+bb
