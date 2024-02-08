@@ -43,6 +43,8 @@ Esta imponente catedral, que se distingue en el paisaje de la calurosa capital y
 
 ## Iglesia de la Inmaculada Concepción
 
-(Coyoacán, CDMX)
+**(Coyoacán, CDMX)**
 
-Esta iglesia, mejor conocida como la Capilla de la Concepción o "La Conchita", es sin duda la más antigua de la Ciudad de México. La historia dice que, tras asentarse en Coyoacán tras la conquista de México-Tenochtitlan, Hernán Cortés mandó construir barrios iglesias que sirvieron como cabecera de los nuevos barrios: la Iglesia de San Juan Bautista, la de Santa Catarina y ésta, dedicada a la Inmaculada Concepción. Este hermosa capilla fue dedicada en 1525 y hace poco pasó por un proceso de restauración para recuperar su antigua gloria.
+Esta iglesia, mejor conocida como la **Capilla de la Concepción** o "**La Conchita**", es sin duda la **más antigua** de la Ciudad de México. La historia dice que, tras asentarse en **Coyoacán** tras la conquista de México-Tenochtitlan, Hernán Cortés mandó construir barrios **iglesias** que sirvieron como cabecera de los nuevos barrios: la Iglesia de San Juan Bautista, la de Santa Catarina y ésta, dedicada a la **Inmaculada Concepción**. Este hermosa **capilla** **fue dedicada en 1525** y hace poco pasó por un proceso de restauración para recuperar su antigua gloria.
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/5b/La_Conchita_en_Coyoac%C3%A1n.jpg)
