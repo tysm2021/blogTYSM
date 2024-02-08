@@ -57,4 +57,10 @@ Esta antiquísima capilla, que también recibe el nombre de **Iglesia de San Jos
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Capilla_de_San_Jos%C3%A9_Tlaltenango.jpg/768px-Capilla_de_San_Jos%C3%A9_Tlaltenango.jpg)
 
-bb
+## Ermita del Rosario
+
+**La Antigua, Veracruz**
+
+Considerando que Hernán Cortés y los españoles ingresaron a nuestro país por Veracruz, es lógico pensar que la **primera iglesia de México** se encuentre en este bello estado. Esta pequeña y hermosa iglesia se encuentra a 40 minutos al norte del puerto jarocho, en la población conocida como La Antigua, primer asentamiento español donde originalmente se fundó la Villa Rica de la Vera Cruz, que después se trasladaría a su ubicación actual. Esta iglesia, a la que se le llama "la primera de México" fue erigida por órdenes de Cortés **entre los años 1519 y 1523**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/05614_Ermita_del_Rosario.JPG/640px-05614_Ermita_del_Rosario.JPG)
