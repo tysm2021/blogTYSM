@@ -31,13 +31,13 @@ Hace poco se cumplieron 500 años de la caída de la llegada de los españoles a
 
 Hagamos un breve recuento de los templos cristianos que aún existen y que se consideran los primeros y más antiguos, cuya belleza arquitectónica e importancia histórica vale la pena revisar.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: [Algunos teatros famosos de México.](https://blog.tonoysumariachi.com/cultura/2022/09/06/algunos-teatros-famosos-de-mexico.html){: target="_blank" rel="noopener"}**
 
 ## Catedral San Ildefonso
 
-(Mérida, Yucatán)
+**(Mérida, Yucatán)**
 
-jjj
+Esta imponente catedral, que se distingue en el paisaje de la calurosa capital yucateca, empezó a construirse en **el año 1562**&nbsp;sobre una rudimentaria capilla que estaba dedicada a San José, y fue terminada hasta **1598**. Actualmente es la sede de la arquidiócesis de Yucatán y se reconoce como la **primera catedral católica de América Latina** en tierra firme, pues sólo es superada en antigüedad por la de Santo Domingo, en la isla de la República Dominicana.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/San_Ildefonso_Cathedral_-_MDA_YUC_MEX_2020.jpg/724px-San_Ildefonso_Cathedral_-_MDA_YUC_MEX_2020.jpg)
 
