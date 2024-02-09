@@ -29,4 +29,4 @@ Se le llama **Revolución Mexicana** al periodo histórico que inició con el le
 
 Hagamos un breve **resumen** de lo acontecido en esos diez días, desde la sublevación militar hasta el magnicidio de **Madero** y del vicepresidente **Pino Suárez** por órdenes de **Victoriano Huerta**, quien de esa forma se convirtió en un presidente espurio que reprimió a sus adversarios y anuló las libertades sociales que se habían ganado en la primera fase de la Revolución.
 
-TE RECOMENDAMOS: ¿Por qué a Victoriano Huerta le llamaban "EL Chacal"?
+**TE RECOMENDAMOS: [¿Por qué a Victoriano Huerta lo apodaron "El Chacal" o "El usurpador"?](https://blog.tonoysumariachi.com/historia/2024/01/30/por-qu%C3%A9-a-victoriano-huerta-lo-apodaron-el-chacal-o-el-usurpador.html){: target="_blank" rel="noopener"}**
