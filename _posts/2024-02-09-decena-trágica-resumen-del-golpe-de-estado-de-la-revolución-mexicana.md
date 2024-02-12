@@ -48,7 +48,7 @@ De los países árabes damos un salto hasta la región de Asia conocida como Pac
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shanghai_-_Shanghai_Tower_-_0002.jpg/1024px-Shanghai_-_Shanghai_Tower_-_0002.jpg)
 
-nn
+Un rascacielos esbelto, brillante y ligeramente torcido, como si fuera un tornillo, es este edificio que se encuentra en la localidad de **Lujiazui**, en **Shanghai**, **China**. Además de ser la **torre más alta** de aquel país asiático, con sus **632 metros** de altura, la **Shanghai Tower** tiene en su interior un sistema de elevadores que es de los más rápidos del planeta: una vez en su interior, se desplaza a una velocidad de 76 km/h. Seguramente se sienten mariposas en el estómago mientras subes a su torre de observación…&nbsp;
 
 ## Clock Towers
 
