@@ -26,7 +26,11 @@ summary: >-
   Este Top 5, con edificios cuya altura supera el medio kilómetro, no es apto
   para gente con miedo a las alturas…
 ---
-TE RECOMENDAMOS:
+Hasta el momento, la **torre más alta** en México aún está en construcción, se encuentra en Monterrey y medirá 475 metros cuando esté terminada. Así las cosas, ¿te imaginas estar en la cumbre de una **torre** cuya **altura** supere los 600 o hasta los 800 metros? Para que no te quedes con la duda y sepas cuáles son los&nbsp;**edificios más altos del mundo**, aquí te presentamos una lista con el **Top 5** de **rascacielos** en los que, literalmente, se puede vivir entre nubes.
+
+Llama mucho la atención que dentro de los diez **edificios** con mayor **altura** sólo hay uno en América —específicamente, en Nueva York—, la mitad están en alguna parte de China y los otros cuatro se encuentran en un país asiático. Vamos a la lista.
+
+**TE RECOMENDAMOS: [Las torres más famosas de todo el mundo.](https://blog.tonoysumariachi.com/mundo/2022/07/28/las-torres-mas-famosas-de-todo-el-mundo.html){: target="_blank" rel="noopener"}**
 
 Burj Khalifa
 
