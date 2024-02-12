@@ -36,7 +36,7 @@ Llama mucho la atención que dentro de los diez **edificios** con mayor **altura
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burj_Khalifa.jpg/585px-Burj_Khalifa.jpg)
 
-nnn
+Este **rascacielos** puntiagudo y de aspecto metálico es el indiscutible campeón de este Top 10 y, por mucho, el **edificio más alto** del **mundo**. Se encuentra en la fastuosa ciudad de Dubai, la capital de los Emiratos Árabes Unidos, y tiene una **altura total de 829.8 metros**; o sea, casi un kilómetro de altura. Está construido a partir de una estructura de acero y lleva el nombre del sheik&nbsp;**Khalifa bin Zayed Al Nahyan**, quien fuera presidente de los Emiratos y puso de su abultado bolsillo para completar la construcción de la gigantesca torre.
 
 ## Merdeka 118
 
@@ -50,6 +50,14 @@ mm
 
 nn
 
-Clock Towers
+## Clock Towers
 
-Ping An Finance Center
+![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Abraj-al-Bait-Towers.JPG/768px-Abraj-al-Bait-Towers.JPG)
+
+mm
+
+## Ping An Finance Center
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Commercial_area_of_futian_to_east2020_%284to3%29.jpg/767px-Commercial_area_of_futian_to_east2020_%284to3%29.jpg)
+
+mm
