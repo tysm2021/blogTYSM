@@ -60,4 +60,4 @@ Este complejo de siete edificios —destinados a ser hoteles— localizado en **
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Commercial_area_of_futian_to_east2020_%284to3%29.jpg/767px-Commercial_area_of_futian_to_east2020_%284to3%29.jpg)
 
-mm
+Por último, en la quinta posición está nuevamente una construcción **china**, que en esta ocasión se levanta sobre el horizonte del centro financiero de **Shanzen** y es propiedad de una compañía de seguros. La altura de esta estilizada torre es de 599.1 metros y tiene un total de 155 pisos, mayormente usados como oficinas corporativas. Vale la pena señalar que, a pesar de su impactante altura —o quizás, por esa misma razón— este centro financiero ha sido escenario de varios intentos de escalada a manos libres. Eso sí el valentía y no pedazos…&nbsp;
