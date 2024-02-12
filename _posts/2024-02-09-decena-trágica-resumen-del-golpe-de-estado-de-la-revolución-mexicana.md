@@ -19,10 +19,21 @@ article_header:
     src: /uploads/taipei-skyline-2022-06-29.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/maderoarrivesdecenatragica.jpeg
+cover: /uploads/taipei-skyline-2022-06-29.jpg
 show_author_profile: false
 comment: false
 summary: >-
-  Este Top 5 con edificios cuya altura supera el medio kilómetro, no es apto
+  Este Top 5, con edificios cuya altura supera el medio kilómetro, no es apto
   para gente con miedo a las alturas…
 ---
+TE RECOMENDAMOS:
+
+Burj Khalifa
+
+Merdeka 118
+
+Shanghai Tower
+
+Clock Towers
+
+Ping An Finance Center
