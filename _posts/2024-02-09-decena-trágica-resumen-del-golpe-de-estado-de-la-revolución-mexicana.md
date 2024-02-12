@@ -36,13 +36,13 @@ Llama mucho la atención que dentro de los diez **edificios** con mayor **altura
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burj_Khalifa.jpg/585px-Burj_Khalifa.jpg)
 
-Este **rascacielos** puntiagudo y de aspecto metálico es el indiscutible campeón de este Top 10 y, por mucho, el **edificio más alto** del **mundo**. Se encuentra en la fastuosa ciudad de Dubai, la capital de los Emiratos Árabes Unidos, y tiene una **altura total de 829.8 metros**; o sea, casi un kilómetro de altura. Está construido a partir de una estructura de acero y lleva el nombre del sheik&nbsp;**Khalifa bin Zayed Al Nahyan**, quien fuera presidente de los Emiratos y puso de su abultado bolsillo para completar la construcción de la gigantesca torre.
+Este **rascacielos** puntiagudo y de aspecto metálico es el indiscutible campeón de este Top 10 y, por mucho, el **edificio más alto** del **mundo**. Se encuentra en la fastuosa ciudad de **Dubai**, la capital de los **Emiratos Árabes Unidos**, y tiene una **altura total de 829.8 metros**; o sea, casi un kilómetro de altura. Está construido a partir de una estructura de acero y lleva el nombre del sheik&nbsp;**Khalifa bin Zayed Al Nahyan**, quien fuera presidente de los Emiratos y puso de su abultado bolsillo para completar la construcción de la gigantesca torre.
 
 ## Merdeka 118
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Views_of_the_Merdeka_118_from_Kuala_Lumpur_Tower.jpg/576px-Views_of_the_Merdeka_118_from_Kuala_Lumpur_Tower.jpg)
 
-mm
+De los países árabes damos un salto hasta la región de Asia conocida como Pacífico Sur, a la ciudad de **Kuala Lumpur**, capital del estado de **Malasia**. Este edificio robusto de corte geométrico ostenta una altura de **678\.9 metros**; nada despreciable, pero aún a 150 metros por debajo del rascacielos de Dubai. Su nombre significa "Independencia" en la lengua local y&nbsp; además de ser el segundo edificio más alto del planeta es 100% autosustentable. Todo un logro de la arquitectura, la ingeniería y la tecnología en edificios inteligentes.
 
 ## Shanghai Tower
 
