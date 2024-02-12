@@ -54,7 +54,7 @@ Un rascacielos esbelto, brillante y ligeramente torcido, como si fuera un tornil
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Abraj-al-Bait-Towers.JPG/768px-Abraj-al-Bait-Towers.JPG)
 
-mm
+Este complejo de siete edificios —destinados a ser hoteles— localizado en **La Meca**, la histórica ciudad capital de **Arabia Saudita**, antiguamente recibía el nombre de **Abraj Al Bair** y hoy en día es conocido como "Las torres del Reloj". El edificio que nos ocupa en esta ocasión es, justamente, el que cuenta con un reloj cerca de la cúspide y tiene el nombre de&nbsp;**Makkah Clock Royal Tower**. Su altura es de **601 metros** y, para que nos demos una idea de sus dimensiones, la carátula del reloj tiene 43 metros de diámetro y la manecilla del minutero —la más grande del mundo— tiene una asombrosa longitud de poco más de veinte metros.
 
 ## Ping An Finance Center
 
