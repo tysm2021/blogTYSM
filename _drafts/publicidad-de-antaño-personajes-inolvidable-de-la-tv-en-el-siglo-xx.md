@@ -47,8 +47,12 @@ Este peludo, rayado y atlético felino surgió como **Tony the Tiger** en Estado
 
 Era una **niña** pelirroja, usaba un vestidito verde, portaba trenzas y andaba siempre con un globo. Pero, a pesar de su aspecto inofensivo, cuando le ofrecías "una probadita" de algo de comer —preparado con **Margarina Primavera**, eso sí— abría tremenda boca como de tiburón y, de un solo golpe, se zampaba toda tu comida. Hasta la fecha, cuando conocemos a alguien mustio y de apariencia tranquila, pero que de repente muestra otra cara —¡o come como pelón de hospicio!—, decimos que "es como la **Niña de la Margarina**".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nhvwRCEfXE4?si=eXplhJPQIAq9dUxe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nhvwRCEfXE4?si=eXplhJPQIAq9dUxe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-El Villano Reventón
+### El Villano Reventón
+
+Este no era un dibujo, sino una persona real disfrazada de un siniestro villano como de película. Su maldad consistía en hacer reventar las "bombas" que hacíamos inflando los chicles Futy-Gom, que ya no existen, los cuales fueron los primeros en estar hechos con una fórmula que impedía que se pegaran a la cara, el pelo o la ropa. Por eso, se decía que tales gomas de mascar eran "el fin del Villano Reventón", el cual siempre prometía regresar diciendo: "¿El fin? Ya veremos…"
+
+
 
 Pancho Pantera
