@@ -25,11 +25,11 @@ summary: >-
   Durante las últimas décadas del siglo pasado, numerosos personajes nos
   invitaban a consumir ciertos productos: aquí los más relevantes
 ---
-Debemos admitirlo: los anuncios comerciales, las frases recurrentes y los eslogans de muchas marcas y productos han marcado de forma importante las hablas, los modismos y las expresiones del pueblo mexicano a lo largo de varias décadas. Y su hablamos de la publicidad de antaño, algunos recordaremos personajes asociados a una marca o a un producto que hasta la fecha permanece en nuestras pláticas, los recuerdos y eso que los estudiosos llaman el "inconsciente colectivo".
+Debemos admitirlo: los **anuncios** **comerciales**, las **frases** recurrentes y los **eslogans** de muchas **marcas** y **productos** han marcado de forma importante las hablas, los modismos y las expresiones del pueblo **mexicano** a lo largo de varias décadas. Y su hablamos de la **publicidad de antaño**, algunos recordaremos **personajes** asociados a una **marca** o a un **producto** que hasta la fecha permanece en nuestras pláticas, los recuerdos y eso que los estudiosos llaman el "inconsciente colectivo".
 
-Hagamos un recuerdo de los personajes de caricatura, animados o con actores reales que resultaron inolvidables y cuyas acciones, frases y actitudes seguimos rememorando hasta la fecha.
+Hagamos un recuerdo de los **personajes** de caricatura, animados o con actores reales que resultaron inolvidables y cuyas acciones, frases y actitudes seguimos rememorando hasta la fecha.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: [¿Cuál es el verdadero origen de la palabra 'chido'?](https://blog.tonoysumariachi.com/mexicanisimos/2024/01/31/cu%C3%A1l-es-el-verdadero-origen-de-la-palabra-chido.html){: target="_blank" rel="noopener"}**
 
 ### El Águila Serfín
 
@@ -41,11 +41,11 @@ Esta amable y corpulenta **águila** de color café fue durante muchos el emblem
 
 Este peludo, rayado y atlético felino surgió como **Tony the Tiger** en Estados Unidos, durante la década de 1950. Ya después, en México se adaptó como Toño —un nombre netamente mexicano— y representaba a las **Zucaritas**, unas famosas hojuelas de maíz azucaradas de la marca **Kellog's**. Siempre dinámico y lleno de energía, antes de desaparecer por una ley que prohíbe anunciar alimentos azucarados con personajes de caricatura, su eslogan era como el rugido o el ronroneo de un tigre: "¡Rrrrriquísimas!"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8mFU_2OKCwM?si=_MmUFuTQN2ixBuvm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8mFU_2OKCwM?si=_MmUFuTQN2ixBuvm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ### Niña de la margarina
 
-Era pelirroja, usaba un vestidito, portaba trenzas y andaba siempre con un globo. Pero, a pesar de su aspecto inofensivo, cuando le ofrecías "una probadita" de algo de comer —preparado con Margarina Primavera, eso sí— abría tremenda boca como de tiburón y, de un solo golpe, se zampaba toda tu comida. Hasta la fecha, cuando conocemos a alguien mustio y de apariencia tranquila, pero que de repente muestra otra cara —¡o come como pelón de hospicio!—, decimos que "es como la Niña de la Margarina".
+Era una **niña** pelirroja, usaba un vestidito verde, portaba trenzas y andaba siempre con un globo. Pero, a pesar de su aspecto inofensivo, cuando le ofrecías "una probadita" de algo de comer —preparado con **Margarina Primavera**, eso sí— abría tremenda boca como de tiburón y, de un solo golpe, se zampaba toda tu comida. Hasta la fecha, cuando conocemos a alguien mustio y de apariencia tranquila, pero que de repente muestra otra cara —¡o come como pelón de hospicio!—, decimos que "es como la **Niña de la Margarina**".
 
 
 
