@@ -37,11 +37,17 @@ Esta amable y corpulenta **águila** de color café fue durante muchos el emblem
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6H9_ek-Cmkw?si=pn3mu6AadNUd9QMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Tigre Toño
+### Tigre Toño
 
-Este peludo, rayado y atlético felino surgió como Tony the Tiger en Estados Unidos, durante la década de 1950. Ya después, en México se adaptó como Toño —un nombre netamente mexicano— y representaba a unas famosas hojuelas de maíz azucaradas de la marca Kellog's. Siempre dinámico y lleno de energía, antes de desaparecer por una ley que prohíbe anunciar alimentos azucarados con personajes de caricatura, su eslogan era como el rugido o el ronroneo de un tigre: "¡Rrrrriquísimas!"
+Este peludo, rayado y atlético felino surgió como **Tony the Tiger** en Estados Unidos, durante la década de 1950. Ya después, en México se adaptó como Toño —un nombre netamente mexicano— y representaba a las **Zucaritas**, unas famosas hojuelas de maíz azucaradas de la marca **Kellog's**. Siempre dinámico y lleno de energía, antes de desaparecer por una ley que prohíbe anunciar alimentos azucarados con personajes de caricatura, su eslogan era como el rugido o el ronroneo de un tigre: "¡Rrrrriquísimas!"
 
-Niña de la margarina
+
+
+### Niña de la margarina
+
+Era pelirroja, usaba un vestidito, portaba trenzas y andaba siempre con un globo. Pero, a pesar de su aspecto inofensivo, cuando le ofrecías "una probadita" de algo de comer —preparado con Margarina Primavera, eso sí— abría tremenda boca como de tiburón y, de un solo golpe, se zampaba toda tu comida. Hasta la fecha, cuando conocemos a alguien mustio y de apariencia tranquila, pero que de repente muestra otra cara —¡o come como pelón de hospicio!—, decimos que "es como la Niña de la Margarina".
+
+
 
 El Villano Reventón
 
