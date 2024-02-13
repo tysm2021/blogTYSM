@@ -18,7 +18,7 @@ article_header:
     src: /uploads/1280px-personajes.png
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/1280px-personajes.png
 show_author_profile: false
 comment: false
 summary: >-
@@ -58,3 +58,5 @@ Este no era un dibujo, sino una persona real disfrazada de un siniestro **villan
 ### Pancho Pantera
 
 A mediados del siglo pasado, surgió la marca de chocolate en polvo **Choco-Milk**, la cual supuestamente estaba "adicionado con vitaminas y minerales", de modo que además de sabroso era muy nutritivo. Para representarlo, se creó al personaje de **Pancho Pantera**, que, además de promocionar el producto, promovía la actividad deportiva, la buena nutrición y una vida sana. Al principio era como un muchacho de campo, pero poco a poco se fue estilizando hasta convertirse en un jovencito "cool" de entorno urbano. Actualmente, por ley ya no aparece en el producto, pero puedes ver su historia y evolución haciendo clic [**aquí**](https://www.chocomilk.com.mx/conoce-a-pancho-pantera/){: target="_blank" rel="noopener"}.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yLruZ2I_bLY?si=1R4B6gtGhJS7JSvs&amp;start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
