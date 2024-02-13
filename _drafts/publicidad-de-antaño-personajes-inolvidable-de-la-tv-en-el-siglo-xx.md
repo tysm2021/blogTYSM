@@ -35,9 +35,11 @@ TE RECOMENDAMOS:
 
 Esta amable y corpulenta **águila** de color café fue durante muchos el emblema de **Banca Serfín**, un banco mexicano surgido en 1977 y que fue comprado por Santander al final del siglo pasado. Su logotipo presentaba a un **águila** estilizada, que fue la inspiración para este personaje que, con voz grave y apacible, daba consejos para administrar y hacer rendir el dinero. Todo un ícono de la animación publicitaria en el Mexico del siglo XX.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6H9_ek-Cmkw?si=pn3mu6AadNUd9QMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6H9_ek-Cmkw?si=pn3mu6AadNUd9QMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Tigre Toño
+
+Este peludo, rayado y atlético felino surgió como Tony the Tiger en Estados Unidos, durante la década de 1950. Ya después, en México se adaptó como Toño —un nombre netamente mexicano— y representaba a unas famosas hojuelas de maíz azucaradas de la marca Kellog's. Siempre dinámico y lleno de energía, antes de desaparecer por una ley que prohíbe anunciar alimentos azucarados con personajes de caricatura, su eslogan era como el rugido o el ronroneo de un tigre: "¡Rrrrriquísimas!"
 
 Niña de la margarina
 
