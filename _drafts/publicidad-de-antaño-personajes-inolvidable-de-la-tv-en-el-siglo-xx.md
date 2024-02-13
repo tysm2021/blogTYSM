@@ -53,6 +53,8 @@ Era una **niña** pelirroja, usaba un vestidito verde, portaba trenzas y andaba 
 
 Este no era un dibujo, sino una persona real disfrazada de un siniestro **villano** como de película. Su maldad consistía en hacer reventar las "bombas" que hacíamos inflando los **chicles Futy-Gom**, que ya no existen, los cuales fueron los primeros en estar hechos con una fórmula que impedía que se pegaran a la cara, el pelo o la ropa. Por eso, se decía que tales **gomas de mascar** eran "el fin del **Villano Reventón**", el cual siempre prometía regresar diciendo: "¿El fin? Ya veremos…"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T401ksyxG_4?si=BcCw5RZMOd9q6lqd&amp;start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T401ksyxG_4?si=BcCw5RZMOd9q6lqd&amp;start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Pancho Pantera
+### Pancho Pantera
+
+A mediados del siglo pasado, surgió la marca de chocolate en polvo **Choco-Milk**, la cual supuestamente estaba "adicionado con vitaminas y minerales", de modo que además de sabroso era muy nutritivo. Para representarlo, se creó al personaje de **Pancho Pantera**, que, además de promocionar el producto, promovía la actividad deportiva, la buena nutrición y una vida sana. Al principio era como un muchacho de campo, pero poco a poco se fue estilizando hasta convertirse en un jovencito "cool" de entorno urbano. Actualmente, por ley ya no aparece en el producto, pero puedes ver su historia y evolución haciendo clic [**aquí**](https://www.chocomilk.com.mx/conoce-a-pancho-pantera/){: target="_blank" rel="noopener"}.
