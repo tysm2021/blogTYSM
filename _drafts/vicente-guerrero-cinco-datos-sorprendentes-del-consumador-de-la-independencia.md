@@ -19,10 +19,23 @@ article_header:
     src: /uploads/1280px-guerrero.png
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1280px-personajes.png
+cover: /uploads/1280px-guerrero.png
 show_author_profile: false
 comment: false
 summary: >-
-  Durante las últimas décadas del siglo pasado, numerosos personajes nos
-  invitaban a consumir ciertos productos: aquí los más relevantes
+  El 14 de febrero de 1831 fue fusilado en Oaxaca el insurgente y entonces
+  presidente de México, Vicente Guerrero
 ---
+Entre los años 1810 y 1821 se libró la Guerra de Independencia de México, que buscaba liberar al entonces llamado Virreinato de la Nueva España del dominio que ejercía la corona desde la Península. Tras la muerte, primero de Hidalgo y después de Morelos, uno de los insurgentes que continuó la lucha fue Vicente Guerrero, quien después terminaría aliándose con Agustín de Iturbide para lograr la libertad de nuestro país; poco después sería presidente pero, debido a una traición, fue aprehendido por sus rivales y fusilado.
+
+Conozcamos algunos datos asombrosos del general Vicente Guerrero, a quien muchos recuerdan por su frase celebre, "La Patria es primero", que está escrita con letras de oro en el Palacio Legislativo de San Lázaro.
+
+TE RECOMENDAMOS:
+
+Era afrodescendiente
+
+Rechazó el perdón español
+
+Abolió la esclavitud
+
+Fue traicionado y fusilado
