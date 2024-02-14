@@ -38,7 +38,7 @@ Conozcamos algunos **datos** **asombrosos** del general **Vicente Guerrero**, a 
 
 Este origen hizo que, a pesar de su inteligencia y alta moral, **Guerrero** fuera despreciado y ofendido debido a los prejuicios raciales que existían en su tiempo. De hecho, se presume que en sus retratos más famosos los artistas lo "blanquearon" —es decir, hicieron que sus rasgos **africanos** fueran menos evidentes— para hacerlo más semejante a los ideales raciales de la clases política y militar dominante del momento.
 
-
+![](/uploads/guerrero1.png){: width="768" height="910"}
 
 Rechazó el perdón español
 
