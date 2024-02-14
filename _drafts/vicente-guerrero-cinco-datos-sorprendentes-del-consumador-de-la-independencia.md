@@ -56,8 +56,10 @@ En la última etapa de la lucha insurgente, **Guerrero** parecía invencible, po
 
 ## Abolió la esclavitud
 
-mm
+Durante su breve periodo presidencial, el **15 de septiembre de 182**9 don Vicente Guerrero emitió un decreto donde **abolió la esclavitud**, declarando:
+
+> Queda abolida la esclavitud en la República. Son, por consiguiente, libres los que hasta hoy se hubieren considerado como esclavos, y cuando las circunstancias del erario lo permitan, se indemnizará a los propietarios de esclavos en los términos que dispusieran las leyes.
 
 ## Fue traicionado y fusilado
 
-mm
+En los primeros años de independencia, las distintas facciones quehabían&nbsp;
