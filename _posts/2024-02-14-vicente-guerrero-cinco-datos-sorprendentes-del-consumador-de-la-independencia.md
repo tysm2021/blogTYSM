@@ -56,10 +56,12 @@ En la última etapa de la lucha insurgente, **Guerrero** parecía invencible, po
 
 ## Abolió la esclavitud
 
-Durante su breve periodo presidencial, el **15 de septiembre de 182**9 don Vicente Guerrero emitió un decreto donde **abolió la esclavitud**, declarando:
+Durante su breve periodo presidencial, el **15 de septiembre de 1829** don Vicente Guerrero emitió un decreto donde **abolió la esclavitud**, declarando:
 
 > Queda abolida la esclavitud en la República. Son, por consiguiente, libres los que hasta hoy se hubieren considerado como esclavos, y cuando las circunstancias del erario lo permitan, se indemnizará a los propietarios de esclavos en los términos que dispusieran las leyes.
 
 ## Fue traicionado y fusilado
 
-En los primeros años de independencia, las distintas facciones quehabían&nbsp;
+En los primeros años de independencia, las distintas facciones políticas seguían intentando arrebatarse el poder y no faltaban los criollos que seguían siendo leales a la Corona española o buscaban restablecer la autoridad virreinal. En las elecciones de 1828, **Guerrero** había sido derrotado pero su rival político se negaba a terminar relaciones con España, de suerte que el Congreso las declaró nulas y el 12 de enero de 1829 otorgó el cargo presidencial a Guerrero, con Anastasio Bustamante como vicepresidente.
+
+Lo que el guerrerense no sabía es que Bustamante conspiraba en su contra y, valiéndose de un mercenario italiano de apellido Picaluga —quien fingió querer unirse a la causa para hacerlo subir a su bote—, lo aprehendió, lo juzgó ilegalmente y lo hizo fusilar el **14 de febrero de 1831**, en Culiápam, Oaxaca.
