@@ -32,7 +32,13 @@ Conozcamos algunos **datos** **asombrosos** del general **Vicente Guerrero**, a 
 
 **TE RECOMENDAMOS: [Agustín de Iturbide, primer emperador de México.](https://blog.tonoysumariachi.com/historia/2023/05/17/agustin-de-inturbide-primer-presidente-de-mexico.html){: target="_blank" rel="noopener"}**
 
-Era afrodescendiente
+## Era afrodescendiente
+
+**Vicente Ramón Guerrero Saldaña** nació el 9 de agosto de 1782 en Tixtla, actualmente en el estado de **Guerrero**. Su padre fue Pedro Guerrero, un **afromexicano** —es decir, un descendiente de los africanos que fueron traídos a la Nueva España para servir como esclavos y que eran llamados mulatos, chinos o cambujos, dependiendo del origen de sus dos padres— y su madre, Guadalupe Saldaña, era una indígena mexicana.
+
+Este origen hizo que, a pesar de su inteligencia y alta moral, **Guerrero** fuera despreciado y ofendido debido a los prejuicios raciales que existían en su tiempo. De hecho, se presume que en sus retratos más famosos los artistas lo "blanquearon" —es decir, hicieron que sus rasgos **africanos** fueran menos evidentes— para hacerlo más semejante a los ideales raciales de la clases política y militar dominante del momento.
+
+
 
 Rechazó el perdón español
 
