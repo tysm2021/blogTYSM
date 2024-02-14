@@ -42,6 +42,8 @@ Este origen hizo que, a pesar de su inteligencia y alta moral, **Guerrero** fuer
 
 Rechazó el perdón español
 
+Fue el segundo presidente mexicano
+
 Abolió la esclavitud
 
 Fue traicionado y fusilado
