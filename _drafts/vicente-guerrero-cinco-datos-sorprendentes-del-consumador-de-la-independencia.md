@@ -40,10 +40,24 @@ Este origen hizo que, a pesar de su inteligencia y alta moral, **Guerrero** fuer
 
 ![](/uploads/guerrero1.png){: width="768" height="910"}
 
-Rechazó el perdón español
+## Rechazó el perdón español
 
-Fue el segundo presidente mexicano
+Corriendo el año 1820 y viendo casi vencido al movimiento insurgente independentista, el entonces **virrey Juan Ruiz de Apodaca** empezó a promover **indultos** entre los últimos generales rebeldes, prometiéndoles puestos políticos y riquezas a cambio de que depusieran las armas. Así, el enviado para hacer llegar la oferta a **Vicente Guerrero** no fue otro que su propio **padre**, al que —se dice— respetuosamente le contestó:
 
-Abolió la esclavitud
+> Señores, este es mi padre, ha venido a ofrecerme el perdón de los españoles y un trabajo como general español. Yo siempre lo he respetado, pero **la Patria es primero**.
 
-Fue traicionado y fusilado
+Este heroico acto de valentía y patriotismo quedó plasmado en las páginas de la historia, así como en las paredes del Palacio Legislativo de San Lázaro, donde está escrito con letras de oro como un recordatorio para los diputados que ahí sesionan.
+
+## Fue el segundo presidente mexicano
+
+En la última etapa de la lucha insurgente, **Guerrero** parecía invencible, por lo que el militar realista **Agustín de Iturbide** decidió pactar la paz con él y juntos consumar la **independencia** de España, que se firmó en septiembre de 1821. Tras un periodo en el que Iturbide se hizo nombrar emperador y poco después fue obligado a renunciar, y después de que el general Guadalupe Victoria fuera el primer mandatario de la naciente nación, **Guerrero** fue declarado ganador de las elecciones y **segundo presidente** de **México** del 1 de abril al 17 de diciembre de 1829.
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/5d/Vicente_Ram%C3%B3n_Guerrero_Salda%C3%B1a.png)
+
+## Abolió la esclavitud
+
+mm
+
+## Fue traicionado y fusilado
+
+mm
