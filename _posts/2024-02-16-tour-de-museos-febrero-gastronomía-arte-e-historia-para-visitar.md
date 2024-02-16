@@ -1,5 +1,5 @@
 ---
-title: 'Tour de museos febrero: gastronomía, arte e historia para visitar '
+title: 'Tour de museos febrero: gastronomía, arte e historia colonial para visitar '
 date: 2024-02-16 10:00:00
 categories:
   - CULTURA
