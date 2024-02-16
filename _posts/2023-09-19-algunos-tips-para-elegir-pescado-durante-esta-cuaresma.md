@@ -44,7 +44,7 @@ Los ojos del pescado deben estar brillantes, no opacos ni vidriosos, y deben ten
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pescados_Mercado_Central.JPG/1024px-Pescados_Mercado_Central.JPG)
 
-## Revisa la piel y las branquias
+### Revisa la piel y las branquias
 
 La piel del pescado debe lucir brillante y las escamas deben estar bien firmes. Evita los que tengan la piel pegajosa y si las escamas se desprenden con facilidad. Además, si compras el pescado entero debes revisar que las branquias o agallas tengan un aspecto rojizo y brillante, pues éstas son órganos con sangre que les permiten a los peces obtener el oxígeno del agua, así que al estar frescas deben tener un color sangre, entre rojo y rosa intenso, no morado, ni gris, ni negro.
 
