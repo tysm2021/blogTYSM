@@ -1,5 +1,5 @@
 ---
-title: 'Tour de museos febrero: gastronomía, arte y cultura para visitar '
+title: 'Tour de museos febrero: gastronomía, arte e historia para visitar '
 date: 2024-02-16 10:00:00
 categories:
   - CULTURA
@@ -16,7 +16,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-camilosesto.png
+    src: /uploads/1280px-acolman.jpg
 sharing: true
 author: Redacción TYSM
 cover: /uploads/1024px-camilosesto.png
@@ -26,7 +26,13 @@ summary: >-
   Desde mediados del siglo XX, una serie de artistas y cantantes españoles
   emprendieron la "reconquista" del público mexicano
 ---
-Museo del Dulce
+Según el Sistema de Información Cultural de México, existen en el país más de 1600 **museos** de todos tipos: nacionales, estatales, regionales y de sitio, así como **históricos**, de **arte**, **arqueológicos** o de algún interés en particular. De entre esa inmensa oferta **cultural** y **turística**, para este tour hemos elegido tres lugares donde podrás disfrutar de exquisitos dulces, conocer la historia de una de las primeras edificaciones religiosas del país y adentrarte en el arte del estado que se ubica en el centro exacto del país.
+
+Empecemos, pues, este **tour de museos** del mes de **febrero**, recorriendo **estados** y **ciudades** de la **República Mexicana**, siempre con la voluntad de encontrar y exhibir todo lo bueno que tiene el país.
+
+**TE RECOMENDAMOS: [¿Cuáles son los museos más visitados de México?](https://blog.tonoysumariachi.com/turismo/2022/06/07/cuales-son-los-museos-mas-visitados-de-mexico.html){: target="_blank" rel="noopener"}**
+
+## Museo del Dulce
 
 Dulces Morelianos Calle Real
 
