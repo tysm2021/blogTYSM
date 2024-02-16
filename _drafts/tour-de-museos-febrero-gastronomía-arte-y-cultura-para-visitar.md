@@ -34,13 +34,11 @@ Empecemos, pues, este **tour de museos** del mes de **febrero**, recorriendo **e
 
 ## Museo del Dulce
 
-Dulces Morelianos Calle Real
+Este museo se ubica en la ciudad de **Morelia**, **Michoacán** y fue fundado por la empresa Dulces Morelianos Calle Real para conservar la **historia** y tradiciones de la elaboración de los **dulces** **michoacanos**. En las salas de este recinto se recrea la vida de Morelia desde sus inicios coloniales hasta nuestros días, enfocándose en las grandes contribuciones al quehacer dulcero que fueron enriqueciendo la gran cantidad de dulces y postres que hoy son deleite de quienes viven o visitan esta hermosa y colonial ciudad.
 
-Av. Madero Ote. 440CentroCP 58000Morelia, Morelia, Michoacán
+El **Museo del Dulce** exhibe una cocina colonial donde se ve la elaboración artesanal del ate moreliano, además de una sala de maquetas. Por último, el visitante presenciará el inicio de la elaboración del dulce en los conventos y monasterios de la colonia. Se encuentra en: Av. Madero Ote. 440, col. Centro, en Morelia, Michoacán.
 
-La empresa Dulces Morelianos Calle Real fundó este museo para conservar la historia y tradiciones de la elaboración de los dulces michoacanos. Da a conocer cuáles eran las costumbres de los habitantes del México prehispánico, su variada y rica gastronomía, las especies vegetales nativas de nuestro continente y las que fueron traídas por los conquistadores, frailes, religiosas y demás expedicionarios del viejo mundo, y presenciará el inicio de la elaboración del dulce en los conventos y monasterios de la colonia. En las salas de este espacio cultural se recrea la vida de Morelia desde sus inicios hasta nuestros días, llenos de complejas costumbres sociales y exquisita arquitectura, así como su contexto en las épocas de independencia, reforma y revolución. Presenciará cómo, en casonas de canteras rosas, las familias morelianas dieron forma a esta tradición dulcera y la transformaron en una nueva actividad económica, dando inicio a su comercialización en los primeros establecimientos de la ciudad.Muestra las principales contribuciones al quehacer dulcero que fueron enriqueciendo la gran cantidad de dulces y postres que hoy en día son deleite de todos los que viven o visitan esta hermosa y colonial ciudad. La extensa variedad de dulces tradicionales dentro de una atmósfera moreliana que transporta a las épocas colonial y porfiriana, donde los espacios, los colores y los sabores se funden con las leyendas, la historia y la tradición. Exhibe una cocina colonial donde se ve la elaboración artesanal del ate moreliano, además de una sala de maquetas miniatura de las tres grandes etapas de la Dulcería moreliana, los conventos, las casonas y las primeras fábricas con maquinaria de vapor con la que se elaboraban los ates en los años 40’s. La galería de fotos antiguas de la ciudad de Morelia, el patio de carruajes del Siglo XIX, y la proyección de una película sobre la historia y tradiciones de antaño.
-
-
+![](/uploads/museoreal.jpeg){: width="680" height="510"}
 
 **Museo Virreinal de Acolman**
 
