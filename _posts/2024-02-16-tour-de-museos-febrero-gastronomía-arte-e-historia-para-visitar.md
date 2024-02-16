@@ -28,7 +28,7 @@ summary: >-
 ---
 Según el Sistema de Información Cultural de México, existen en el país más de 1600 **museos** de todos tipos: nacionales, estatales, regionales y de sitio, así como **históricos**, de **arte**, **arqueológicos** o de algún interés en particular. De entre esa inmensa oferta **cultural** y **turística**, para este tour hemos elegido tres lugares donde podrás disfrutar de exquisitos dulces coloniales, conocer la historia de una de las primeras edificaciones religiosas del país y adentrarte en el arte virreinal del estado que se ubica en el centro exacto del país.
 
-Empecemos, pues, este **tour de museos** del mes de **febrero**, recorriendo **estados** y **ciudades** de la **República Mexicana**, siempre con la voluntad de encontrar y exhibir todo lo bueno que tiene el país.
+Empecemos, pues, este **tour de museos** del mes de **febrero**, recorriendo **estados** y **ciudades** de la **República Mexicana**, siempre con la voluntad de encontrar y exhibir todo lo bueno que tenemos el país.
 
 **TE RECOMENDAMOS: [¿Cuáles son los museos más visitados de México?](https://blog.tonoysumariachi.com/turismo/2022/06/07/cuales-son-los-museos-mas-visitados-de-mexico.html){: target="_blank" rel="noopener"}**
 
