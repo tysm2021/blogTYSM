@@ -19,7 +19,7 @@ article_header:
     src: /uploads/1280px-acolman.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/1280px-acolman.jpg
 show_author_profile: false
 comment: false
 summary: >-
@@ -42,13 +42,11 @@ El **Museo del Dulce** exhibe una cocina colonial donde se ve la elaboración ar
 
 **Museo Virreinal de Acolman**
 
-**Ex Convento de San Agustín**
+Este importante reciento del **Estado de México** se halla en lo que fue el **Ex Convento de San Agustín**, construido por la Orden Agustina a partir de 1539, uno de los conventos más antiguos de América Latina que los especialistas en historia del arte califican como una joya del plateresco. Destacan sus pinturas murales, quizá más tempranas en ejecutarse en América Latina. Su acervo está compuesto de **pinturas** y **objetos religiosos** de la **época virreinal,**&nbsp;y además ofrece una reseña histórica del ex convento, su construcción, el uso de sus espacios y las múltiples inundaciones que sufrió por una mala planeación constructiva. No te pierdas su colección de vírgenes y, en época de posadas, de las pastorelas que año tras año ahí se representan.
 
-Calz. de los Agustinos s/nCol. San Agustín Acolman de NezahualcóyotlCP 55870Acolman de Nezahualcóyotl, Acolman, Estado de México
+Para llegar a **Acolman**, desde la CDMX hay que tomar la salida de Insurgentes Norte hacia Pachuca, tomar la desviación hacia las Pirámides y a unos diez minutos de la caseta uno se encuentra con el imponente ex convento, cuya dirección es: Calz. de los Agustinos s/n, col. San Agustín, en **Acolman** de Nezahualcóyotl, Estado de México.
 
-Construido por la Orden de San Agustín a partir de 1539, el complejo arquitectónico luce por su fachada, considerada por los especialistas en historia del arte como la joya del plateresco en América. También se caracteriza por su pintura mural, que es de las más tempranas en ejecutarse en América Latina.En 1960 se hicieron trabajos de restauración de las pinturas murales de la capilla abierta, del claustro chico y del claustro grande. Entre 1992 y 1993 se remodeló el refectorio y en 1995 se intervino el inmueble. Una nueva etapa de mantenimiento y adecuación de los espacios dio inicio a partir de abril de 2012. Hoy día, el museo se encuentra abierto al público.
-
-El acervo está compuesto de pinturas y objetos religiosos de la época virreinal. Se ofrece una reseña histórica del ex convento, su construcción, la distribución y uso de los espacios y las múltiples inundaciones que sufrió por un error en la planeación constructiva, así como del proceso de restauración. El tema religioso está expresado en una colección de vírgenes.
+![](/uploads/acolman2.jpg){: width="1023" height="682"}
 
 Museo de Guadalupe
 
