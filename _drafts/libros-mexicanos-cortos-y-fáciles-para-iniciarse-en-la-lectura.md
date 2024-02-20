@@ -36,9 +36,17 @@ Imagínate que eres un joven historiador en busca de empleo y que, de repente, v
 
 Esta novela corta fue escrita por **Carlos Fuentes** en **1962** y, junto con su otra novela, La muerte de Artemio Cruz, están consideradas dentro de un movimiento literario llamado El *boom* latinoamericano. Es un libro corto, de pocas páginas y que, por el misterio que envuelve y lo bien llevado de la trama, podrás leer casi de una sentada.
 
+![](/uploads/aura30333632643.jpeg){: width="1000" height="871"}
 
+## El llano en llamas
 
-El llano en llamas
+Un niño campesino se lamenta de la pobreza en la que vive su familia, a la que además le suceden una serie de desgracias, como la pérdida de la vaca de la hermana menor. Otro niño, huérfano, pobre y con retraso mental, se sienta frente a una alcantarilla para que salgan las ranas. En Luvina, un lugar donde nunca llueve, presenciamos un diálogo en una pulquería. Dos hombres cuentan la historia de cómo ocurrió un derrumbe en el pueblo y, en otro cuento, leemos la narración de las últimas horas de la vida de un hombre al que van a fusilar.
+
+Esta colección de cuentos del autor jalisciense **Juan Rulfo**&nbsp;se publicó en **1953** y, hasta cierto punto, es como una anticipación de su novela *Pedro Páramo*, publicada dos años después y considerada una de las mejores de la literatura mexicana.
+
+![](/uploads/el-llano-en-llamas.jpeg){: width="1000" height="1637"}
+
+**TE RECOMENDAMOS: [Juan Rulfo, biografía corta del autor de 'Pedro Páramo'.](https://blog.tonoysumariachi.com/cultura/2022/07/27/juan-rulfo-biografia-corta-del-autor-de-pedro-paramo.html){: target="_blank" rel="noopener"}**
 
 El diosero
 
