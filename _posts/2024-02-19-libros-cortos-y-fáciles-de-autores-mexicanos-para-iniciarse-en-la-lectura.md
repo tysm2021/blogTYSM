@@ -1,6 +1,6 @@
 ---
 title: Libros cortos y fáciles de autores mexicanos, para iniciarse en la lectura
-date: 2024-02-19 11:00:00
+date: 2024-02-19 16:00:00
 categories:
   - CULTURA
 tags:
