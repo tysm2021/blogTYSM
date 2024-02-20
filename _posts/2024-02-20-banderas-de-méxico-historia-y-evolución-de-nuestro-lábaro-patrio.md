@@ -26,7 +26,7 @@ summary: >-
   El 24 de febrero celebramos en México el Día de la Bandera, y estas son todas
   las que ha tenido el país a lo largo de su historia…
 ---
-[...](__notset__)Cualquier mexicano sabe que la **bandera de México** consta de tres franjas de colores verde, blanco y rojo, con el escudo nacional —un águila posada en un nopal y devorando una serpiente— en el centro. Pero, ¿sabes desde cuándo se adoptó el lábaro patrio que actualmente conocemos, **cuántas banderas** ha tenido **México** ** ** en su **historia** y por qué celebramos el **Día de la Bandera** el **24 de febrero**?
+Cualquier mexicano sabe que la **bandera de México** consta de tres franjas de colores verde, blanco y rojo, con el escudo nacional —un águila posada en un nopal y devorando una serpiente— en el centro. Pero, ¿sabes desde cuándo se adoptó el lábaro patrio que actualmente conocemos, **cuántas banderas** ha tenido **México** \*\* \*\* en su **historia** y por qué celebramos el **Día de la Bandera** el **24 de febrero**?
 
 A continuación te ofrecemos la **lista completa** de las **banderas de México,** incluyendo antecedentes que corresponden a la época de la Guerra de Independencia, para que conozcas la historia y la evolución del lábaro patrio.
 
@@ -128,6 +128,6 @@ Octava **bandera nacional**. Durante el régimen del presidente Lázaro Cárdena
 
 ### Bandera actual (1968 hasta hoy)
 
-Séptima **bandera naciona**l. Fue adoptada el 16 de septiembre de 1968, durante el mandato del presidente Gustavo Díaz Ordaz, y fue diseñada por Pedro Moctezuma Díaz y Francisco Eppens Helguera. Es la **bandera** que vemos todos los días en las astas de escuelas, edificios e instituciones mexicanos.
+Séptima **bandera naciona**l. Fue adoptada el 16 de septiembre de 1968, durante el mandato del presidente Gustavo Díaz Ordaz, y fue diseñada por Pedro Moctezuma Díaz y Francisco Eppens Helguera. Es la **bandera** que vemos todos los días en las astas de escuelas, edificios e instituciones mexicanos, y a la que rendimos honores todos los lunes en las escuelas y el **24 de febrero**, por el **Día de la Bandera**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1024px-Flag_of_Mexico.svg.png)
