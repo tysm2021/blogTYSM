@@ -88,31 +88,43 @@ Cuarta bandera **nacional**. El antecedente más claro de la Carta Magna que nos
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Segunda_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg/1024px-Bandera_de_la_Segunda_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg.png)
 
-Segundo Imperio Mexicano (1864-1867)
+### Segundo Imperio Mexicano (1864-1867)
 
+En 1864, el sector conservador trajo al emperador Maximiliano de Habsburgo y a su esposa, la emperatriz Carlota, para gobernar a México. Tres años después se impondrían los liberales, pero durante el breve periodo del Segundo Imperio se usó nuevamente un águila nacional coronada y se incluyó el escudo de armas de la casa imperial.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_the_Second_Mexican_Empire_%281865-1867%29.svg/1024px-Flag_of_the_Second_Mexican_Empire_%281865-1867%29.svg.png)
 
-República restaurada (1867-1880)
+### República restaurada (1867-1880)
 
+Una vez derrocado el Segundo Imperio, el presidente Benito Juárez reinstauró la cuarta bandera nacional.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Segunda_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg/1024px-Bandera_de_la_Segunda_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg.png)
 
-Bandera del Porfiriato (1880-1909)
+### Bandera del Porfiriato (1880-1909)
 
+Quinta **bandera nacional**. Una vez instalado en el poder y para distanciarse del gobierno de Juárez, el presidente Porfirio Díaz hizo cambios importantes en el escudo nacional, con un águila más robusta cuyas alas están en posición de descanso.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bandera_de_M%C3%A9xico_%281880-1893%29.png/1024px-Bandera_de_M%C3%A9xico_%281880-1893%29.png)
 
 **TE RECOMENDAMOS: [Porfirio Díaz: ¿héroe, villano, demócrata o dictador?](https://blog.tonoysumariachi.com/historia/2023/08/29/porfirio-d%C3%ADaz-h%C3%A9roe-dem%C3%B3crata-villano-o-dictador.html){: target="_blank" rel="noopener"}**
 
-Bandera del Centenario (1909-1916)
+### Bandera del Centenario (1909-1916)
 
+Sexta **bandera nacional**. Con motivo de la celebración de los cien años de la Independencia, el mandatario Díaz nuevamente modificó el escudo de armas, nuevamente poniendo al águila con las alas extendidas, como si estuviera a punto de levantar el vuelo; a ese símbolo se le conoce como "El Águila del Centenario".
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandera_de_M%C3%A9xico_%281893-1916%29.png/1024px-Bandera_de_M%C3%A9xico_%281893-1916%29.png)
 
-Bandera Constitucionalista (1916-1934)
+### Bandera Constitucionalista (1916-1934)
 
+Séptima **bandera nacional**. Seis años después del estallido de la Revolución, tras la muerte de Madero, del golpe de estado de Huerta y del restablecimiento del orden constitucional, el presidente Venustiano Carranza realizó cambios en el Escudo Nacional, con el fin de romper de una buena con el último rescoldo del régimen de Díaz. En esta **bandera** el águila luce de perfil, con la intención de homogeneizar su uso en toda la República.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bandera_de_la_Tercera_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg/1024px-Bandera_de_la_Tercera_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg.png)
 
-Bandera moderna (1934-1968)
+### Bandera moderna (1934-1968)
 
+Octava **bandera nacional**. Durante el régimen del presidente Lázaro Cárdenas se modificó nuevamente el escudo nacional y se estableció la primera legislación para los **Símbolos Patrios**. La renovación del escudo nacional se realizó a partir de un diseño de Jorge Enciso.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bandera_de_M%C3%A9xico_%281934-1968%29.png/1024px-Bandera_de_M%C3%A9xico_%281934-1968%29.png)
 
 ### Bandera actual (1968 hasta hoy)
 
