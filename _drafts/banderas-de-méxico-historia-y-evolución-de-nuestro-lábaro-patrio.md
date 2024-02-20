@@ -26,7 +26,7 @@ summary: >-
   El 24 de febrero celebramos en México el Día de la Bandera, y estas son todas
   las que ha tenido el país a lo largo de su historia…
 ---
-Cualquier mexicano sabe que la **bandera de México** consta de tres franjas de colores verde, blanco y rojo, con el escudo nacional —un águila posada en un nopal y devorando una serpiente— en el centro. Pero, ¿sabes desde cuándo se adoptó el lábaro patrio que actualmente conocemos, **cuántas banderas** ha tenido **México** ** ** en su **historia** y por qué celebramos el **Día de la Bandera** el **24 de febrero**?
+[...](__notset__)Cualquier mexicano sabe que la **bandera de México** consta de tres franjas de colores verde, blanco y rojo, con el escudo nacional —un águila posada en un nopal y devorando una serpiente— en el centro. Pero, ¿sabes desde cuándo se adoptó el lábaro patrio que actualmente conocemos, **cuántas banderas** ha tenido **México** ** ** en su **historia** y por qué celebramos el **Día de la Bandera** el **24 de febrero**?
 
 A continuación te ofrecemos la **lista completa** de las **banderas de México,** incluyendo antecedentes que corresponden a la época de la Guerra de Independencia, para que conozcas la historia y la evolución del lábaro patrio.
 
@@ -61,6 +61,8 @@ En la última etapa de nuestra Guerra de Independencia, el militar realista **Ag
 Al declarar su independencia, México nació como el **Primer Imperio Mexicano**, con **Agustín de Iturbide** como primer mandatario de la Nación. Para reflejar esta condición de realeza, se le colocó una corona imperial al Águila Nacional que desde entonces figura en el centro de nuestra **bandera**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Mexico_%281821_-_1823%29.png/1024px-Flag_of_Mexico_%281821_-_1823%29.png)
+
+**TE RECOMENDAMOS: [Agustín de Iturbide, el primer emperador de México.](https://blog.tonoysumariachi.com/historia/2023/05/17/agustin-de-inturbide-primer-presidente-de-mexico.html){: target="_blank" rel="noopener"}**
 
 Primera República Federal (1823-1835)
 
