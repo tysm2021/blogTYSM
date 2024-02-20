@@ -54,7 +54,11 @@ Esta colección de narraciones del etnólogo **Francisco Rojas González** es an
 
 ![](/uploads/el-diosero-imagen.jpeg){: width="1020" height="1320"}
 
-Confabulario
+## Confabulario
+
+Expertos lectores, estudiosos de la literatura y el público en general coinciden en que **Juan José Arreola** ha sido una de las plumas más brillantes, certeras e ingeniosas de la literatura mexicana del siglo XX. En esta colección de cuentos —que incluye obras maestras como "En verdad os digo", "El guardagujas", "Pueblerina", "El prodigioso miligramo" y "Apuntes de un rencoroso"—, el brillante editor y escritor jalisciense hace gala de su capacidad de síntesis ofreciendo narraciones mínimas que él mismo fue puliendo y reduciendo sin cesar hasta alcanzar su mínima expresión. Junto con Bestiario, del mismo Arreola, constituyen una excelente puerta de entrada a la narrativa mexicana contemporánea.
+
+![](/uploads/confabulario.png){: width="1024" height="1024"}
 
 La tumba
 
