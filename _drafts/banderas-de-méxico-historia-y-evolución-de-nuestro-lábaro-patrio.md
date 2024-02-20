@@ -58,15 +58,17 @@ En la última etapa de nuestra Guerra de Independencia, el militar realista **Ag
 
 ### Bandera del Primer Imperio (1821-1823)
 
-Al declarar su independencia, México nació como el **Primer Imperio Mexicano**, con **Agustín de Iturbide** como primer mandatario de la Nación. Para reflejar esta condición de realeza, se le colocó una corona imperial al Águila Nacional que desde entonces figura en el centro de nuestra **bandera**.
+Primera **bandera nacional**. Al declarar su independencia, México nació como el **Primer Imperio Mexicano**, con **Agustín de Iturbide** como primer mandatario de la Nación. Para reflejar esta condición de realeza, se le colocó una corona imperial al Águila Nacional que desde entonces figura en el centro de nuestra **bandera**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Mexico_%281821_-_1823%29.png/1024px-Flag_of_Mexico_%281821_-_1823%29.png)
 
 **TE RECOMENDAMOS: [Agustín de Iturbide, el primer emperador de México.](https://blog.tonoysumariachi.com/historia/2023/05/17/agustin-de-inturbide-primer-presidente-de-mexico.html){: target="_blank" rel="noopener"}**
 
-Primera República Federal (1823-1835)
+### Primera República Federal (1823-1835)
 
+Segunda **bandera nacional**. Tras la caída del Imperio y el establecimiento del modo de gobierno a través de una República federal, la **bandera** no se modificó pero sí el escudo de armas, quitándole la corona al águila y colocándole laureles y olivos para representar la República.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bandera_de_la_Primera_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg/1024px-Bandera_de_la_Primera_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg.png)
 
 República Centralista (1835-1846)
 
