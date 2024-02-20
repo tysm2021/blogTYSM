@@ -30,7 +30,13 @@ Hay quienes aman la lectura y son capaces de pasar horas y horas leyendo **libro
 
 **TE RECOMENDAMOS: [Cinco escritoras mexicanas del siglo XX y sus obras principales.](https://blog.tonoysumariachi.com/cultura/2022/10/05/cinco-escritoras-mexicanas-del-siglo-xx-y-sus-obras-principales.html){: target="_blank" rel="noopener"}**
 
-Aura
+## Aura
+
+Imagínate que eres un joven historiador en busca de empleo y que, de repente, ves en el periódico un anuncio que parece estar dirigido precisamente a ti. Acudes al lugar —una tétrica casona ubicada en Donceles 815, en el centro de la Ciudad de México— y todo te resulta un tanto misterioso hasta que conoces a la sobrina de tu empleadora, de cuyos hermosos ojos verdes quedas prendado. El asunto es que poco a poco irán pasando cosas que pondrán en duda todo lo que crees acerca de ellas, de lo que puede ser posible y de los límites de este mundo.
+
+Esta novela corta fue escrita por **Carlos Fuentes** en **1962** y, junto con su otra novela, La muerte de Artemio Cruz, están consideradas dentro de un movimiento literario llamado El *boom* latinoamericano. Es un libro corto, de pocas páginas y que, por el misterio que envuelve y lo bien llevado de la trama, podrás leer casi de una sentada.
+
+
 
 El llano en llamas
 
@@ -39,3 +45,5 @@ El diosero
 Confabulario
 
 La tumba
+
+Esta trepidante novela fue publicada por su autor, el recientemente fallecido José Agustín, en el a¡ño
