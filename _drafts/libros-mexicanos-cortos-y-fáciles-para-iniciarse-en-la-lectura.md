@@ -48,7 +48,11 @@ Esta colección de cuentos del autor jalisciense **Juan Rulfo**&nbsp;se publicó
 
 **TE RECOMENDAMOS: [Juan Rulfo, biografía corta del autor de 'Pedro Páramo'.](https://blog.tonoysumariachi.com/cultura/2022/07/27/juan-rulfo-biografia-corta-del-autor-de-pedro-paramo.html){: target="_blank" rel="noopener"}**
 
-El diosero
+## El diosero
+
+Esta colección de narraciones del etnólogo **Francisco Rojas González** es anterior a *El llano en llamas*, pero es similar en cuanto a los temas y el manejo del lenguaje. A lo largo de cuentos cortos como "La parábola del joven tuerto" —sobre un joven que va a San Juan de los Lagos a pedirle un milagro a la Virgen—, "Hículi hualula" —una manera de referirse al peyote o "el tío", porque es hermano de Tata Dios, entre los huicholes—, "Nuestra señora de Nequetejé" —sobre una persona bautizada como Damián Bicicleta—, "El diosero" —que da nombre al libro— y "La triste historia de 'Pascola' Cenobio" —sobre un danzante de la tribu yaqui—, Rojas González explora las costumbres, creencias, supersticiones y dinámicas de los pueblos indígenas del México de mediados del siglo XX.
+
+![](/uploads/el-diosero-imagen.jpeg){: width="1020" height="1320"}
 
 Confabulario
 
