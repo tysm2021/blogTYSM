@@ -41,3 +41,11 @@ El **Día de la Bandera** mexicana fue establecido el **24 de febrero** de 1934 
 No hay que confundirlo con el **Estandarte de Hidalgo**, que fue la imagen de la Virgen de Guadalupe que el líder tomó en el Santuario de Atotonilco y que sirvió inicialmente como **bandera** para las fuerzas armadas insurgentes. Este blasón es un estandarte de 84 cm de ancho por 138 cm de largo, compuesto por cuatro piezas de tela de algodón, muestra una imagen de la Virgen de Guadalupe, dos monogramas y una inscripción que dice: "Viva María Santísima de Guadalupe".
 
 ​​​​![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Estandarte_1_de_Miguel_Hidalgo_MNH.jpg/598px-Estandarte_1_de_Miguel_Hidalgo_MNH.jpg)
+
+### Bandera del Supremo Gobierno Mexicano
+
+El el 13 de septiembre de 1813, el general insurgente **José María Morelos y Pavón** convocó al Congreso de Anáhuac —también llamado Congreso de Chilpancingo—, donde declaró la independencia de la América Septentrional, dio lectura al documento *Sentimientos de la Nación* y abolió la esclavitud. Más tarde, en un decreto fechado el 14 de julio de 1815, se presentó esta como la **bandera** del Supremo Gobierno Mexicano.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bandera_del_Supremo_Gobierno_Mexicano.svg/1024px-Bandera_del_Supremo_Gobierno_Mexicano.svg.png)
+
+bla
