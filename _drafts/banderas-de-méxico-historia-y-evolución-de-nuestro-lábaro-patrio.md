@@ -48,4 +48,38 @@ El el 13 de septiembre de 1813, el general insurgente **José María Morelos y P
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bandera_del_Supremo_Gobierno_Mexicano.svg/1024px-Bandera_del_Supremo_Gobierno_Mexicano.svg.png)
 
-bla
+## México Independiente
+
+### Bandera del Primer Imperio (1821-1823)
+
+
+
+Primera República Federal (1823-1835)
+
+
+
+República Centralista (1835-1846)
+
+
+
+Segunda República Federal (1846-1857)
+
+
+
+Constitución de 1857 (1857-1864)
+
+
+
+Segundo Imperio Mexicano (1864-1867)
+
+
+
+República restaurada (1867-1880)
+
+
+
+Bandera del Porfiriato (1880-1909)
+
+
+
+Bandera del Centenario (1909-1916)
