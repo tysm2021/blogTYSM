@@ -70,17 +70,23 @@ Segunda **bandera nacional**. Tras la caída del Imperio y el establecimiento de
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bandera_de_la_Primera_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg/1024px-Bandera_de_la_Primera_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg.png)
 
-República Centralista (1835-1846)
+### República Centralista (1835-1846)
 
+Tercera **bandera nacional**. Fue establecida por el bando conservador cuando se instauró la forma de gobierno de República Centralista; el cambio más notorio es que el águila del escudo nacional mira hacia el otro lado.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bandera_de_la_Rep%C3%BAblica_Central_Mexicana.svg/1024px-Bandera_de_la_Rep%C3%BAblica_Central_Mexicana.svg.png)
 
-Segunda República Federal (1846-1857)
+### Segunda República Federal (1846-1857)
 
+Después de la derrota conservadora y del regreso del partido liberal al poder, la segunda bandera Nacional fue reinstaurada.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bandera_de_la_Primera_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg/1024px-Bandera_de_la_Primera_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg.png)
 
-Constitución de 1857 (1857-1864)
+### Constitución de 1857 (1857-1864)
 
+Cuarta bandera **nacional**. El antecedente más claro de la Carta Magna que nos rige hasta hoy fue la Constitución del 5 de febrero de 1857. En ese año, el águila del escudo nacional sufre un cambio, extendiendo las alas hacia arriba formando una línea recta. Este lábaro patrio se usó por el Gobierno Federal y el Partido Republicano durante la Guerra de Reforma y el Segundo Imperio.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Segunda_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg/1024px-Bandera_de_la_Segunda_Rep%C3%BAblica_Federal_de_los_Estados_Unidos_Mexicanos.svg.png)
 
 Segundo Imperio Mexicano (1864-1867)
 
@@ -94,6 +100,8 @@ Bandera del Porfiriato (1880-1909)
 
 
 
+**TE RECOMENDAMOS: [Porfirio Díaz: ¿héroe, villano, demócrata o dictador?](https://blog.tonoysumariachi.com/historia/2023/08/29/porfirio-d%C3%ADaz-h%C3%A9roe-dem%C3%B3crata-villano-o-dictador.html){: target="_blank" rel="noopener"}**
+
 Bandera del Centenario (1909-1916)
 
 
@@ -106,4 +114,8 @@ Bandera moderna (1934-1968)
 
 
 
-Bandera actual (1968 hasta hoy)
+### Bandera actual (1968 hasta hoy)
+
+Séptima **bandera naciona**l. Fue adoptada el 16 de septiembre de 1968, durante el mandato del presidente Gustavo Díaz Ordaz, y fue diseñada por Pedro Moctezuma Díaz y Francisco Eppens Helguera. Es la **bandera** que vemos todos los días en las astas de escuelas, edificios e instituciones mexicanos.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1024px-Flag_of_Mexico.svg.png)
