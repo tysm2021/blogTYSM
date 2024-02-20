@@ -48,11 +48,19 @@ El el 13 de septiembre de 1813, el general insurgente **José María Morelos y P
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bandera_del_Supremo_Gobierno_Mexicano.svg/1024px-Bandera_del_Supremo_Gobierno_Mexicano.svg.png)
 
+### Bandera Trigarante
+
+En la última etapa de nuestra Guerra de Independencia, el militar realista **Agustín de Iturbide** y el general insurgente **Vicente Guerrero** decidieron aliarse para consumar la libertad de México. Así, se formó el **Ejército Trigarante**, nombre que obedecía a las tres garantías que ofrecía el movimiento: Unión, Religión e Independencia. Es el primer **lábaro patrio** en presentar los tres colores actuales —verde, blanco y rojo— en tres franjas de igual grosor que la cruzan diagonalmente.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_the_Three_Guarantees.svg/1024px-Flag_of_the_Three_Guarantees.svg.png)
+
 ## México Independiente
 
 ### Bandera del Primer Imperio (1821-1823)
 
+Al declarar su independencia, México nació como el **Primer Imperio Mexicano**, con **Agustín de Iturbide** como primer mandatario de la Nación. Para reflejar esta condición de realeza, se le colocó una corona imperial al Águila Nacional que desde entonces figura en el centro de nuestra **bandera**.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Mexico_%281821_-_1823%29.png/1024px-Flag_of_Mexico_%281821_-_1823%29.png)
 
 Primera República Federal (1823-1835)
 
@@ -83,3 +91,15 @@ Bandera del Porfiriato (1880-1909)
 
 
 Bandera del Centenario (1909-1916)
+
+
+
+Bandera Constitucionalista (1916-1934)
+
+
+
+Bandera moderna (1934-1968)
+
+
+
+Bandera actual (1968 hasta hoy)
