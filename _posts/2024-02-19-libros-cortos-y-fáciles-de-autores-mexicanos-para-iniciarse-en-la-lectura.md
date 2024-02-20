@@ -60,6 +60,10 @@ Expertos lectores, estudiosos de la literatura y el público en general coincide
 
 ![](/uploads/confabulario.png){: width="1024" height="1024"}
 
-La tumba
+## La tumba
 
-Esta trepidante novela fue publicada por su autor, el recientemente fallecido José Agustín, en el a¡ño
+Esta trepidante novela fue publicada en el año 1964 y fue la primera de su autor, el recientemente fallecido **José Agustín**, quien con ella inauguró un movimiento literario que, de forma despectiva al principio, fue llamado "**Literatura de la onda**", a la que pertenecieron otros autores como Parménides García Saldaña. En ella, José Agustín cuenta la historia de Gabriel Guía, un adolescente capitalino de 17 años de clase media alta, el cual cursa la preparatoria pero de forma paralela se interna en un círculo literario con el que tendrá experiencias que cambiarán su perspectiva de vida. Lo interesante de este libro es que está escrito en lenguaje coloquial, con diálogos informales, muchas palabras en inglés y francés, y abundantes referencias a la música clásica, al jazz y al rock & roll de la época.
+
+![](/uploads/tumba.jpg){: width="1000" height="1544"}
+
+¿Qué dices, te animas por uno de ellos?
