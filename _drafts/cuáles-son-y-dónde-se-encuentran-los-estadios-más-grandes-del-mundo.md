@@ -44,4 +44,6 @@ Después de estos dos gigantes, vienen siete **estadios** de **futbol americano*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MichStadium_Renovation1.jpg/1024px-MichStadium_Renovation1.jpg)
 
-Otros estadios de futbol americano con gran capacidad&nbsp;
+Otros estadios de futbol americano con gran capacidad son el **Beaver Stadium**, en el State College de Pensilvania, que tiene una capacidad de **106,572 espectadores**; el **Ohio Stadium**, construido en Columbus, Ohio, que puede dar cabida a **102,870 aficionados**; y el **Kyle Field** —en la imagen de abajo—&nbsp;**&nbsp;**&nbsp;en la College Station Texas, con capacidad de **102, 733 espectadores**. Todos ellos corresponden a equipos de futbol americano universitario o colegial.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kyle_Field_Panorama.jpg/1024px-Kyle_Field_Panorama.jpg)
