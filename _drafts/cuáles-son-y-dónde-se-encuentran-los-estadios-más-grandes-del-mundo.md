@@ -47,3 +47,5 @@ Después de estos dos gigantes, vienen siete **estadios** de **futbol americano*
 Otros estadios de futbol americano con gran capacidad son el **Beaver Stadium**, en el State College de Pensilvania, que tiene una capacidad de **106,572 espectadores**; el **Ohio Stadium**, construido en Columbus, Ohio, que puede dar cabida a **102,870 aficionados**; y el **Kyle Field** —en la imagen de abajo—&nbsp;**&nbsp;**&nbsp;en la College Station Texas, con capacidad de **102, 733 espectadores**. Todos ellos corresponden a equipos de futbol americano universitario o colegial.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kyle_Field_Panorama.jpg/1024px-Kyle_Field_Panorama.jpg)
+
+Fuera de los Estados Unidos, el lugar \#11 lo ocupa un estadio australiano: el **Melbourne Cricket Ground**, ubicado en la ciudad de Melbourne y enfocado en dicho deporte. Su capacidad es de **100 mil espectadores**. Dicho escenario es el estadio oficial de la Selección Nacional Australiana de Cricket y varios equipos locales de cricket. Vale la pena señalar que es un estadio muy antiguo, pues su construcción inició en 1853 y ha sufrido varias adecuaciones a lo largo del tiempo.
