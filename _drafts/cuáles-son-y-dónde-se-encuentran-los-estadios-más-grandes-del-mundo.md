@@ -32,10 +32,16 @@ Hagamos un recorrido por estas auténticas catedrales del deporte, donde cada fi
 
 **TE RECOMENDAMOS: [¿Cuáles son los países más pequeños del mundo?](https://blog.tonoysumariachi.com/mundo/2022/08/29/cuales-son-los-paises-mas-pequenos-del-mundo.html){: target="_blank" rel="noopener"}**
 
-Empecemos por el campeón indiscutible: el **Estadio Narendra Mod**i, también conocido como **Motera Stadium**, el cual se encuentra en la ciudad de Ahmedabad, en la India. Llama la atención que el escenario deportivo más grande del mundo no es un estadio de futbol soccer o americano, sino de cricket, un deporte de origen británico que es muy popular en la India. La capacidad de este coloso es de 132,000 espectadores cómodamente sentados. Impactante, ¿no?
+Empecemos por el campeón indiscutible: el **Estadio Narendra Mod**i, también conocido como **Motera Stadium**, el cual se encuentra en la ciudad de Ahmedabad, en la India. Llama la atención que el escenario deportivo más grande del mundo no es un estadio de futbol soccer o americano, sino de cricket, un deporte de origen británico que es muy popular en la India. La capacidad de este coloso es de **132,000 espectadores** cómodamente sentados. Impactante, ¿no?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Narendra_modi_stadium_2023_Final_between_India_and_Australia.jpg/1023px-Narendra_modi_stadium_2023_Final_between_India_and_Australia.jpg)
 
-A continuación está un **estadio** ubicado en la isla Rungra, en Pyongyang, la capitalde Corea del Norte: el&nbsp;**Rungrado 1st of May**. Su capacidad es de 114,000 personas y se construyó entre 1986 y 1989. Aunque sí se ha empleado para dar cabida a eventos deportivos, su uso principal es para eventos oficiales masivos del gobierno norcoreano.
+A continuación está un **estadio** ubicado en la isla Rungra, en Pyongyang, la capitalde Corea del Norte: el&nbsp;**Rungrado 1st of May**. Su capacidad es de **114,000 personas** y se construyó entre 1986 y 1989. Aunque sí se ha empleado para dar cabida a eventos deportivos, su uso principal es para eventos oficiales masivos del gobierno norcoreano.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Interior_of_the_Rungrado_1st_of_May_Stadium_1.jpg/1024px-Interior_of_the_Rungrado_1st_of_May_Stadium_1.jpg)
+
+Después de estos dos gigantes, vienen siete **estadios** de **futbol americano** en los Estados Unidos, los cuales tienen una capacidad mayor a los **cien mil espectadores**. El más grande de ellos es el **Michigan Stadium**, en la ciudad de Ann Arbor; este escenario deportivo tiene una capacidad para **107,600 aficionados** y es la casa —o "Big House", como se le conoce al edificio— de los Wolverines de la Universidad de Michigan.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MichStadium_Renovation1.jpg/1024px-MichStadium_Renovation1.jpg)
+
+Otros estadios de futbol americano con gran capacidad&nbsp;
