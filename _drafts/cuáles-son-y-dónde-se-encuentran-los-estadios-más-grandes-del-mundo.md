@@ -32,4 +32,8 @@ Hagamos un recorrido por estas auténticas catedrales del deporte, donde cada fi
 
 **TE RECOMENDAMOS: [¿Cuáles son los países más pequeños del mundo?](https://blog.tonoysumariachi.com/mundo/2022/08/29/cuales-son-los-paises-mas-pequenos-del-mundo.html){: target="_blank" rel="noopener"}**
 
-Empecemos por el campeón indiscutible:&nbsp;
+Empecemos por el campeón indiscutible: el **Estadio Narendra Mod**i, también conocido como **Motera Stadium**, el cual se encuentra en la ciudad de Ahmedabad, en la India. Llama la atención que el escenario deportivo más grande del mundo no es un estadio de futbol soccer o americano, sino de cricket, un deporte de origen británico que es muy popular en la India. La capacidad de este coloso es de 132,000 espectadores cómodamente sentados. Impactante, ¿no?
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Narendra_modi_stadium_2023_Final_between_India_and_Australia.jpg/1023px-Narendra_modi_stadium_2023_Final_between_India_and_Australia.jpg)
+
+A continuación
