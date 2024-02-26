@@ -36,4 +36,6 @@ Empecemos por el campeón indiscutible: el **Estadio Narendra Mod**i, también c
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Narendra_modi_stadium_2023_Final_between_India_and_Australia.jpg/1023px-Narendra_modi_stadium_2023_Final_between_India_and_Australia.jpg)
 
-A continuación
+A continuación está un **estadio** ubicado en la isla Rungra, en Pyongyang, la capitalde Corea del Norte: el&nbsp;**Rungrado 1st of May**. Su capacidad es de 114,000 personas y se construyó entre 1986 y 1989. Aunque sí se ha empleado para dar cabida a eventos deportivos, su uso principal es para eventos oficiales masivos del gobierno norcoreano.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Interior_of_the_Rungrado_1st_of_May_Stadium_1.jpg/1024px-Interior_of_the_Rungrado_1st_of_May_Stadium_1.jpg)
