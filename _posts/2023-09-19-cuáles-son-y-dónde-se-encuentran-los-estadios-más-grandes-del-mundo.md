@@ -56,4 +56,6 @@ Ligeramente debajo de estos se encuentra el **Camp Nou**, el famoso estadio de f
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Camp_Nou%2C_FCB_%28Ank_Kumar%2C_Infosys%29_06.jpg/1024px-Camp_Nou%2C_FCB_%28Ank_Kumar%2C_Infosys%29_06.jpg)
 
-¿Y en México?
+¿Y en **México**? Sin lugar a dudas, el **estadio más grande** y de mayor capacidad en nuestro país es el "Coloso de Santa Úrsula", el **Estadio Azteca**. Oficialmente da cabida a **83,264 espectadores**, aunque los mexicanos sabemos de sobra que en ciertos partidos ha albergado a casi 100 mil. Además de haber sido sede de la inauguración y la final tanto de los mundiales de México '70 como de México '86, es la casa de la Selección Mexicana y de varios equipos capitalinos de futbol. Por si fuera poco, también ha sido adaptado para **conciertos masivos** como los del Grupo Menudo, de Michael Jackson, U2 o Vicente Fernández.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Estadio_Azteca_1.JPG/1024px-Estadio_Azteca_1.JPG)
