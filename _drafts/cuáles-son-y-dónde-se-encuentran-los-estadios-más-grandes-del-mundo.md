@@ -51,3 +51,9 @@ Otros estadios de futbol americano con gran capacidad son el **Beaver Stadium**,
 Fuera de los Estados Unidos, el lugar \#11 lo ocupa un estadio australiano: el **Melbourne Cricket Ground**, ubicado en la ciudad de Melbourne y enfocado en dicho deporte. Su capacidad es de **100 mil espectadores**. Dicho escenario es el estadio oficial de la Selección Nacional Australiana de Cricket y varios equipos locales de cricket. Vale la pena señalar que es un estadio muy antiguo, pues su construcción inició en 1853 y ha sufrido varias adecuaciones a lo largo del tiempo.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2017_AFL_Grand_Final_panorama_during_national_anthem.jpg/1024px-2017_AFL_Grand_Final_panorama_during_national_anthem.jpg)
+
+Ligeramente debajo de estos se encuentra el **Camp Nou**, el famoso estadio de futbol que es la casa del popular FC Barcelona. Ubicado en dicha ciudad española, tiene una capacidad de 99,354 aficionados. En esta cancha se jugó la final del torneo de futbol de los Juegos Olímpicos de Barcelona '92 y varias finales de la UEFA Champions, entre otros partidos importantes.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Camp_Nou%2C_FCB_%28Ank_Kumar%2C_Infosys%29_06.jpg/1024px-Camp_Nou%2C_FCB_%28Ank_Kumar%2C_Infosys%29_06.jpg)
+
+¿Y en México?
