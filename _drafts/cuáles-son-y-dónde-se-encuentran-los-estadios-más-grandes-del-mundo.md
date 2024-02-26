@@ -49,3 +49,5 @@ Otros estadios de futbol americano con gran capacidad son el **Beaver Stadium**,
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kyle_Field_Panorama.jpg/1024px-Kyle_Field_Panorama.jpg)
 
 Fuera de los Estados Unidos, el lugar \#11 lo ocupa un estadio australiano: el **Melbourne Cricket Ground**, ubicado en la ciudad de Melbourne y enfocado en dicho deporte. Su capacidad es de **100 mil espectadores**. Dicho escenario es el estadio oficial de la Selección Nacional Australiana de Cricket y varios equipos locales de cricket. Vale la pena señalar que es un estadio muy antiguo, pues su construcción inició en 1853 y ha sufrido varias adecuaciones a lo largo del tiempo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2017_AFL_Grand_Final_panorama_during_national_anthem.jpg/1024px-2017_AFL_Grand_Final_panorama_during_national_anthem.jpg)
