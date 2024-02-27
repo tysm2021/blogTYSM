@@ -44,6 +44,6 @@ La piedra con la que están elaborados los molcajetes tiene un origen volcánico
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2a/Molcajete_ohs02.jpg)
 
-El molcajete está tan arraigado en la cocina y la cultura popular mexicana que hay una variedad de frases coloquiales que la incluyen. Por ejemplo, "colgarse hasta el molcajate", que es una forma exagerada de señalar el arreglo y los adornos excesivos de una persona, sobre todo una mujer; o "como tejolote en molcajete", que se refiere a las personas inquietas que no dejan de moverse, que dan vueltas en la cama o el asiento, o bien, a aquellas que "nomás están moliendo".
+El **molcajete** está tan arraigado en la **cocina** y la cultura popular mexicana que hay una variedad de frases coloquiales que la incluyen. Por ejemplo, "colgarse hasta el **molcajete**", que es una forma exagerada de señalar el arreglo y los adornos excesivos de una persona, sobre todo una mujer; o "como **tejolote** en **molcajete**", que se refiere a las personas inquietas que no dejan de moverse, que dan vueltas en la cama o el asiento, o bien, a aquellas que "nomás están moliendo".
 
-​​​
+​​​Y ahora, para que no te quedes con las ganas de saber cómo se usa, aquí te dejamos una receta para preparar una riquísima **salsa martajada** de **molcajete**. ¡Buen provecho!
