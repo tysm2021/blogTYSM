@@ -26,3 +26,8 @@ summary: >-
   que nada se compara con una salsita de molcajete. Conoce este instrumento de
   cocina.
 ---
+En pleno siglo XXI y con electrodomésticos tan sofisticados que casi hacen el trabajo completo, uno de los instrumentos de cocina que los mexicanos nos negamos a jubilar es el infaltable molcajete. Este mortero hecho de piedra volcánica se usa en nuestro país desde tiempos prehispánicos y en él se pueden preparar salsas, sobre todo, y otras preparaciones que por efecto de los minerales de la piedra adquieren un sabor exquisito.
+
+Revisemos aquí cuál es el origen y la historia del molcajete, así como la importancia que tiene dentro de la cocina tradicional mexicana, la cual sigue valiéndose de cucharas y molinos de madera, metates, molcajetes y tejolotes para adquirir su sello característico.
+
+TE RECOMENDAMOS:
