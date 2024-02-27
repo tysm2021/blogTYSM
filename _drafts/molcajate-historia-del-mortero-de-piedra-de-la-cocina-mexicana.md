@@ -18,10 +18,11 @@ article_header:
     src: /uploads/molcajete-con-salsa-roja-mexicana-1.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/molcajete-con-salsa-roja-mexicana-1.jpeg
 show_author_profile: false
 comment: false
 summary: >-
-  Desde mediados del siglo XX, una serie de artistas y cantantes españoles
-  emprendieron la "reconquista" del público mexicano
+  Sí, las salsas de licuadora son buenas y sabrosas; pero los mexicanos sabemos
+  que nada se compara con una salsita de molcajete. Conoce este instrumento de
+  cocina.
 ---
