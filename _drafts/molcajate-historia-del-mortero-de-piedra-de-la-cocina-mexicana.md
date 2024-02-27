@@ -35,3 +35,15 @@ Revisemos aquí cuál es el **origen** y la **historia** del **molcajete**, así
 En una publicación del Gobierno de México se dice que los instrumentos de molienda como el **molcajete** y el metate aparecieron entre los años 7000 y 5000 a.C. en la región que hoy conocemos como Mesoamérica, que va desde el Bajío hasta el sureste mexicano. Sobre el origen de la palabra, existen varias versiones: investigadores del INAH afirman que molcajete procede de las voces del náhuatl *mollicaxtli* y *temolcaxitl* que significan "cajete para la salsa" o "cajete de piedra para el mole", refiriéndose a una cazuela sin orejas o a un mortero.
 
 Por otro lado, el *Diccionario de le Lengua Española* de la RAE afirma que la voz deriva de *molcázitl*, que se traduciría como escudilla o plato hondo, y el&nbsp;*Diccionario del náhuatl en el español de México*&nbsp;dice que la palabra **molcajete** proviene de&nbsp;*molcáxitl*, de&nbsp;*molli*, 'guisado o salsa', y&nbsp;*cáxitl*, que derivaría en 'cajete, escudilla'.
+
+![](/uploads/molcajete-con-salsa-roja-mexicana-3.jpeg){: width="1024" height="660"}
+
+Entrando en materia, el **molcajete** es un mortero de piedra con tres patas cortas, en cuyo cuenco se muelen chiles, tomates, ajos, cebollas, hierbas y especias para obtener salsas. Un muñón de piedra, conocido también como *texolotl*, **tejolote**, “mano” o “pilón” sirve para machacar los ingredientes. Como ya dijimos, la **piedra** porosa o volcánica con que está hecho otorga cierto sabor mineral a las salsas; razón por la que es de los utensilios más socorridos de toda la **gastronomía** mexicana.
+
+La piedra con la que están elaborados los molcajetes tiene un origen volcánico y proviene de un sitio único: en su mayoría, las piedras para elaborar esta artesanía provienen de las minas localizadas en San Lucas Evangelista, municipio de **Tlajomulco** de Zúñiga, en **Jalisco**. Y vale la pena resaltar que su diseño, técnica de elaboración y uso prácticamente no han variado en más de tres mil años.
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/2a/Molcajete_ohs02.jpg)
+
+El molcajete está tan arraigado en la cocina y la cultura popular mexicana que hay una variedad de frases coloquiales que la incluyen. Por ejemplo, "colgarse hasta el molcajate", que es una forma exagerada de señalar el arreglo y los adornos excesivos de una persona, sobre todo una mujer; o "como tejolote en molcajete", que se refiere a las personas inquietas que no dejan de moverse, que dan vueltas en la cama o el asiento, o bien, a aquellas que "nomás están moliendo".
+
+​​​
