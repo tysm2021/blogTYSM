@@ -26,3 +26,4 @@ summary: >-
   En 1949, el famoso pintor realizó un retrato de "La Doña" que, como no le
   gustó, terminó siendo vendido… y hoy está desaparecido.
 ---
+A mediados del siglo pasado, el famoso muralista Diego Rivera realizó un retrato de la actriz María Félix, el cual no fue muy del agrado de la diva del cine mexicano. Con el tiempo, "La Doña" vendió el retrato y éste pasó de mano en mano hasta, al parecer, acabar en la colección particular del cantante Juan Gabriel.&nbsp;
