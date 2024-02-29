@@ -42,6 +42,8 @@ Todo empezó en el año de 1949, cuando a insistencia del pintor **Diego Rivera*
 
 "Muestra demasiada piel", se quejaba la sonorense. Años después, **María Félix** reconoció en una entrevista con Jacobo Zabludowsky que le pidió a un albañil que cubriera parte de su desnudez con una ligera capa de **pintura** blanca. "Así quedó mejor", declaró posteriormente. El autor nunca supo de este cambio.
 
+![](/uploads/felix-1.jpg){: width="768" height="1024"}
 
+Pasaron los años y **María** se casó con el banquero Alex Berger, que también aborreció el retrato. Por esa razón, le vendió el cuadro al connotado coleccionista y médico **José Álvarez Amézquita**, quien poseyó el lienzo durante muchos años hasta que el cantante **Juan Gabriel** —un devoto admirador de "**La Doña**", a quien comparaba con la Virgen de Guadalupe— le ofreció comprárselo por la exorbitante cantidad de 15 millones de pesos.
 
-Pasaron los años y María se casó con el banquero Alex Berger, que también aborreció el retrato. Por esa razón, le vendió el cuadro al connotado coleccionista y médico José Álvarez Amézquita, quien poseyó el lienzo durante muchos años hasta que el cantante Juan Gabriel —
+Según la hija de la cantante Lucha Villa, Rossy Miller, la **pintura** estaba en la casa que Juan Gabriel tenía en Las Vegas y ahí fue dónde ella vio el famoso **retrato** de **María Félix** una vez que visitó al "Divo de Juárez". Pero con la muerte de **Juan Gabriel** se perdió por completo la pista del **lienzo**. Algunos piensan que el cantante lo regaló, que fue sustraído entre otras pertenencias, que está "embodegado" o que está a la venta en el mercado negro. ¿Tú qué crees?…
