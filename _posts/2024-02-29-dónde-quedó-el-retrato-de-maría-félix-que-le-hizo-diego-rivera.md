@@ -19,7 +19,7 @@ article_header:
     src: /uploads/mariafelixreivera.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/mariafelixreivera.jpg
 show_author_profile: false
 comment: false
 summary: >-
