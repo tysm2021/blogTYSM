@@ -36,10 +36,12 @@ Todo empezó en el año de 1949, cuando a insistencia del pintor **Diego Rivera*
 
 **María** quería ser retratada vistiendo un traje de tehuana, pero **Diego** rechazó la idea ya que le pareció vulgar. "Entonces, él mi pintó como él quiso", declaró después la **Félix**, quien cuando recibió el famoso **retrato** vio con enojo e incomodidad ** ** que Rivera la había inmortalizado **semidesnuda**, mostrando los pechos y con una bata muy ligera que dejaba muy poco a la imaginación.
 
-![](/uploads/felix.jpg){: width="768" height="1024"}
+![](/uploads/felix2.jpg){: width="717" height="633"}
 
-Aunque había sido un regalo del pintor, la actriz se mostró muy decepcionada por el resultado y odió la pintura desde el primer momento. A **Diego**, en cambio, le había encantado e incluso se la pidió prestada para exhibirla en una colectiva en el Palacio de Bellas Artes, a lo que la diva se negó y por esa razón —se dice— ambos artistas temperamentales dejaron de hablarse un año.
+​​​​​Aunque había sido un regalo del pintor, la actriz se mostró muy decepcionada por el resultado y odió la pintura desde el primer momento. A **Diego**, en cambio, le había encantado e incluso se la pidió prestada para exhibirla en una colectiva en el Palacio de Bellas Artes, a lo que la diva se negó y por esa razón —se dice— ambos artistas temperamentales dejaron de hablarse un año.
 
 "Muestra demasiada piel", se quejaba la sonorense. Años después, **María Félix** reconoció en una entrevista con Jacobo Zabludowsky que le pidió a un albañil que cubriera parte de su desnudez con una ligera capa de **pintura** blanca. "Así quedó mejor", declaró posteriormente. El autor nunca supo de este cambio.
+
+
 
 Pasaron los años y María se casó con el banquero Alex Berger, que también aborreció el retrato. Por esa razón, le vendió el cuadro al connotado coleccionista y médico José Álvarez Amézquita, quien poseyó el lienzo durante muchos años hasta que el cantante Juan Gabriel —
