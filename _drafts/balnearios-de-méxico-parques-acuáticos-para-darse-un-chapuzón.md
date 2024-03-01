@@ -25,7 +25,7 @@ summary: >-
   Desde mediados del siglo XX, una serie de artistas y cantantes españoles
   emprendieron la "reconquista" del público mexicano
 ---
-Ahora que entramos a la época de **calor** en todo el país, a muchos se nos antoja darnos un chapuzón en una **alberca** o tirarnos por el **tobogán** de un **balneario** o **parque acuático** de los muchos que hay en **México**. Algunos se distinguen por la cantidad de **piscinas**, otros por sus **aguas termales** o curativas, y otros más porque ofrecen **alojamiento** para los turistas. ¿Se te antoja?
+Ahora que entramos a la época de **calor** en todo el país, a muchos se nos antoja darnos un chapuzón en una **alberca** o tirarnos por el **tobogán** de un **balneario** o **parque acuático** de los muchos que hay en **México**. Algunos se distinguen por la cantidad de **piscinas**, otros por sus **aguas termales** o curativas, y otros más porque ofrecen **alojamiento** para los turistas. ¿Se te antoja
 
 A continuación te platicamos sobre **cinco balnearios** que se encuentran en el centro de **México**, para que planees un fin de semana de diversión, risas y zambullidas enmedio de la naturaleza de los bosques y las montañas mexicanas.
 
@@ -63,4 +63,4 @@ Ubicado en el estado de **Morelos**, México, **El Rollo** es un popular balnear
 
 El **balneario** también cuenta con un río con olas, fosa de clavados, 20 albercas, 2 emocionantes albercas con olas, la isla infantil para los más pequeños, un río lento, el aquatubo y muchas más atracciones; además, el **balneario** tiene restaurantes, bar, mini súper y diversas modalidades de hospedaje. Está abierto de martes a domingo, de 10:00 am a 6:00 pm, ofreciendo horarios flexibles para que los turistas puedan planificar su visita con comodidad.&nbsp;
 
-![](/uploads/rollo-06750-1-1024x813.jpeg){: width="1024" height="813"}
+![](/uploads/rollo-06750-1-1024x813-1.jpeg){: width="1024" height="813"}
