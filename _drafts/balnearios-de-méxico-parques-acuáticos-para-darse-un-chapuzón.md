@@ -38,3 +38,9 @@ Situado en el estado de **Morelos**, el **Centro Vacacional Oaxtepec** del IMSS 
 El Centro Vacacional Oaxtepec abre sus puertas de lunes a domingo, de 8:00 am a 6:00 pm, ofreciendo la oportunidad perfecta para disfrutar de un día completo de diversión bajo el sol. Se recomienda llegar temprano para evitar multitudes, llevar traje de baño, protector solar y comida para picnic, así como explorar las opciones de hospedaje para una experiencia más completa y relajante.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6a/IMSS_Oaxtepec03.jpg)
+
+### Parque Acuático Ixtapan de la Sal
+
+Ubicado en el **Estado de México**, el **balneario** **Parque Acuático Ixtapan de la Sal** es un destino de ensueño para quienes buscan escapar del bullicio urbano y sumergirse en un oasis de tranquilidad y diversión. Sus **aguas sulfurosas**, conocidas por sus propiedades terapéuticas, son el principal atractivo de este lugar, ofreciendo a los visitantes la oportunidad de disfrutar de baños relajantes y revitalizantes. Además de sus piscinas termales, el parque cuenta con emocionantes toboganes de agua, áreas de juegos acuáticos para niños y una amplia gama de servicios de spa para aquellos que deseen un día de indulgencia y bienestar.
+
+El **Parque Acuático de Ixtapan de la Sal** abre sus puertas de martes a domingo, de 9:00 am a 8:00 pm, ofreciendo una amplia ventana de tiempo para disfrutar de sus instalaciones. Además de las atracciones acuáticas, el parque también cuenta con áreas verdes para el descanso y el picnic, así como opciones de alojamiento en hoteles y cabañas. Se recomienda llevar traje de baño, toalla, protector solar y agua potable, y reservar los servicios de spa con anticipación para asegurar disponibilidad. Con una combinación perfecta de relajación y diversión, Ixtapan de la Sal promete una experiencia inolvidable para toda la familia.
