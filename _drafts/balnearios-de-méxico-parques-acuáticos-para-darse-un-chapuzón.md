@@ -54,3 +54,13 @@ El **Parque Acuático Las Estacas** se encuentra ubicado en el municipio de Tlal
 El parque y balneario **Las Estacas** pertenece a la reserva ecológica estatal y se encuentra rodeado de exuberante vegetación, hermosas áreas verdes y cuenta con múltiples atractivos. A las orillas del río encontrarás asadores y mesas sin costo adicional; también, el balneario cuenta con restaurantes con comida nacional e internacional, antojitos mexicanos, un bar, mini súper, zona para camping, salón de eventos y hoteles para hospedarte. Además, cuenta con todos los servicios necesarios para pasar una experiencia de vida inolvidable.
 
 ![](/uploads/desestresate.jpeg){: width="1024" height="550"}
+
+**TE RECOMENDAMOS: [Las cinco mejores zonas arqueológicas mayas.](https://blog.tonoysumariachi.com/turismo/2022/06/27/las-cinco-mejores-zonas-arqueologicas-mayas.html){: target="_blank" rel="noopener"}**
+
+## El Rollo
+
+Ubicado en el estado de **Morelos**, México, **El Rollo** es un popular balneario con más de 50 años de tradición y que ofrece una combinación única de emocionantes atracciones acuáticas y entretenimiento para toda la familia. Sus aguas refrescantes y limpias invitan a los visitantes a sumergirse en sus piscinas y toboganes, mientras que sus áreas verdes brindan espacios ideales para relajarse y disfrutar de un día al aire libre. Entre las atracciones destacadas se encuentran el **Kamikaze**, un espectacular tobogán de 23 metros de altura, y el **Racer** que tiene seis carriles de arranque y se desciende a gran velocidad, ideal para hacer competencias con los amigos.
+
+El **balneario** también cuenta con un río con olas, fosa de clavados, 20 albercas, 2 emocionantes albercas con olas, la isla infantil para los más pequeños, un río lento, el aquatubo y muchas más atracciones; además, el **balneario** tiene restaurantes, bar, mini súper y diversas modalidades de hospedaje. Está abierto de martes a domingo, de 10:00 am a 6:00 pm, ofreciendo horarios flexibles para que los turistas puedan planificar su visita con comodidad.&nbsp;
+
+![](/uploads/rollo-06750-1-1024x813.jpeg){: width="1024" height="813"}
