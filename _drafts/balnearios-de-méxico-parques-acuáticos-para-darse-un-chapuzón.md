@@ -46,3 +46,11 @@ Ubicado en el **Estado de México**, el **balneario** **Parque Acuático Ixtapan
 El **Parque Acuático de Ixtapan de la Sal** abre sus puertas de martes a domingo, de 9:00 am a 8:00 pm, ofreciendo una amplia ventana de tiempo para disfrutar de sus instalaciones. Además de las atracciones acuáticas, el parque también cuenta con áreas verdes para el descanso y el picnic, así como opciones de alojamiento en hoteles y cabañas. Se recomienda llevar traje de baño, toalla, protector solar y agua potable, y reservar los servicios de spa con anticipación para asegurar disponibilidad. Con una combinación perfecta de relajación y diversión, Ixtapan de la Sal promete una experiencia inolvidable para toda la familia.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DragonIxtapan.JPG/1024px-DragonIxtapan.JPG)
+
+## Las Estacas
+
+El **Parque Acuático Las Estacas** se encuentra ubicado en el municipio de Tlaltizapán, **Morelos**. Se trata de un paraíso natural de gran belleza, con instalaciones cuidadas y limpias en torno un **río** de un kilómetro de longitud que se alimenta del borbollón de un manantial del que nacen más de siete mil litros de agua por segundo. En este hermoso río de aguas cristalinas podrás bucear, snorkelear y otras actividades; en las diversas pozas te puedes tirar clavados, lo que lo convierte en un sitio ideal para disfrutar en familia o con amigos.
+
+El parque y balneario **Las Estacas** pertenece a la reserva ecológica estatal y se encuentra rodeado de exuberante vegetación, hermosas áreas verdes y cuenta con múltiples atractivos. A las orillas del río encontrarás asadores y mesas sin costo adicional; también, el balneario cuenta con restaurantes con comida nacional e internacional, antojitos mexicanos, un bar, mini súper, zona para camping, salón de eventos y hoteles para hospedarte. Además, cuenta con todos los servicios necesarios para pasar una experiencia de vida inolvidable.
+
+![](/uploads/desestresate.jpeg){: width="1024" height="550"}
