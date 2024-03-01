@@ -31,4 +31,10 @@ A continuación te platicamos sobre **cinco balnearios** que se encuentran en el
 
 **TE RECOMENDAMOS: [¿Cuáles son las playas más visitadas de México?](https://blog.tonoysumariachi.com/turismo/2022/07/29/cuales-son-las-playas-mas-visitadas-de-mexico.html){: target="_blank" rel="noopener"}**
 
-GG
+## Centro Vacacional Oaxtepec
+
+Situado en el estado de **Morelos**, el **Centro Vacacional Oaxtepec** del IMSS es un destino popular para escapadas familiares. Sus **aguas termales**, provenientes de manantiales naturales, son su principal atractivo, brindando un ambiente relajante y rejuvenecedor para los visitantes. Además de sus piscinas, el parque cuenta con emocionantes toboganes de agua, áreas de juegos infantiles y extensas zonas verdes para el esparcimiento. Las atracciones del parque incluyen una variedad de toboganes de diferentes alturas y velocidades, adecuados para todas las edades. Además, ofrece alojamiento en cabañas y áreas de *camping* para quienes deseen extender su estadía.
+
+El Centro Vacacional Oaxtepec abre sus puertas de lunes a domingo, de 8:00 am a 6:00 pm, ofreciendo la oportunidad perfecta para disfrutar de un día completo de diversión bajo el sol. Se recomienda llegar temprano para evitar multitudes, llevar traje de baño, protector solar y comida para picnic, así como explorar las opciones de hospedaje para una experiencia más completa y relajante.
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/6a/IMSS_Oaxtepec03.jpg)
