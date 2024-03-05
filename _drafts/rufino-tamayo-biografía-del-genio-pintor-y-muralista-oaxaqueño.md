@@ -63,3 +63,11 @@ Este **mural** puede admirarse en el **Museo del Palacio de Bellas Artes**, en C
 **Tamayo** quiso alejarse del movimiento muralista y, en su búsqueda de una voz universal en el arte mexicano, mostró su visión artística distintiva a través de esta obra de 1945, que muestra a un cantante tocando una guitarra. Con unas medidas de 153.4 x 127 cm, estee óleo sobre lienzo logró un gran reconocimiento mundial y obtuvo un **precio récord** de 7.2 millones de dólares en una **subasta** de Christie's en mayo de 2008.
 
 ![](/uploads/tamayo-trovador.jpg){: width="1024" height="1234"}
+
+### América
+
+Este **mural** fue realizado por encargo e instalado originalmente en el Bank of the Southwest. Esta enorme pieza de 4 por 14.2 metros representa América, personificada por una mujer desnuda y envuelta de los recursos naturales del continente y de imágenes como la cruz traída por los colonizadores del Viejo Mundo. Se trata de la **obra** de mayor envergadura de **Tamayo** y desde hace 15 años se encuentra en préstamo en el **Dallas Museum of Art**.
+
+![](https://artelista.s3.amazonaws.com/obras/big/3/0/4/8233186987457932.jpg)
+
+nn
