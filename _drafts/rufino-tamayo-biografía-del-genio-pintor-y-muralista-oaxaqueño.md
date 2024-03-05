@@ -36,13 +36,13 @@ A continuación revisamos brevemente la **vida** de este oaxaqueño y algunas de
 
 ## Biografía breve
 
-**Rufino del Carmen Arellanes Tamayo** nació en **Oaxaca** de Juárez, el 25 de agosto de 1899. Hijo de indígenas zapotecas, desde muy temprana edad se trasladó con su familia a la Ciudad de México, en donde estudió **pintura**&nbsp;a los dieciséis años en la Academia de Bellas Artes de San Carlos. Años más tarde, fue jefe de&nbsp; Dibujo Etnográfico del Museo Nacional de Arqueología, en donde cultivó su interés por el arte prehispánico.
+**Rufino del Carmen Arellanes Tamayo** nació en **Oaxaca** de Juárez, el 25 de agosto de 1899. Hijo de indígenas zapotecas, desde muy temprana edad se trasladó con su familia a la Ciudad de México, en donde estudió **pintura**&nbsp;a los dieciséis años en la Academia de Bellas Artes de San Carlos. Años después fue jefe de&nbsp; Dibujo Etnográfico del Museo Nacional de Arqueología, en donde cultivó su interés por el arte prehispánico. Más tarde ejerció como profesor en la Escuela Nacional de Bellas Artes y en 1932 fue nombrado director del Departamento de Artes Plásticas de la Secretaría de Educación Pública
 
-Entre 1952 y 1953, Tamayo pintó dos murales en el Palacio de Bellas Artes. Previamente realizó los murales&nbsp;*El canto y la música*&nbsp;(1933), en la entonces Escuela Nacional de Música;&nbsp;*Revolució*n (1938), en el Museo Nacional de Arqueología (hoy Museo de las Culturas); y&nbsp;*La naturaleza y el artista. La obra de arte y el espectador*&nbsp;(1943), en la Hillyer Art Library del Smith College, en Northampton, Massachusetts.
+Entre 1952 y 1953, **Tamayo** pintó dos murales en el Palacio de Bellas Artes. Previamente realizó los murales&nbsp;*El canto y la música*&nbsp;(1933), en la entonces Escuela Nacional de Música;&nbsp;*Revolució*n (1938), en el Museo Nacional de Arqueología (hoy Museo de las Culturas); y&nbsp;*La naturaleza y el artista. La obra de arte y el espectador*&nbsp;(1943), en la Hillyer Art Library del Smith College, en Northampton, Massachusetts.
 
-Más tarde, promovió la creación del Museo de Arte Prehispánico de Oaxaca (1974) y del Museo Tamayo Arte Contemporáneo (1981) en el Bosque de Chapultepec, CDMX.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rufino_Tamayo.jpg/488px-Rufino_Tamayo.jpg)
 
-Murió en la Ciudad de México el 24 de junio de 1991. Según críticos y estudiosos, su obra combina temáticas netamente mexicanas con estilos artísticos propios de vanguardias europeas como el cubismo y el expresionismo.&nbsp;
+Más tarde, **Rufino** promovió la creación del Museo de Arte Prehispánico de Oaxaca (1974) y del **Museo Tamayo** Arte Contemporáneo (1981) en el Bosque de Chapultepec, CDMX. Murió en la Ciudad de México el 24 de junio de 1991, a los noventa y un años de edad. Según críticos y estudiosos, su obra combina temáticas netamente mexicanas con estilos artísticos propios de vanguardias europeas como el cubismo y el expresionismo.&nbsp;
 
 ## Obras
 
