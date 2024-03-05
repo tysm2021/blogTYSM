@@ -70,4 +70,8 @@ Este **mural** fue realizado por encargo e instalado originalmente en el Bank of
 
 ![](https://artelista.s3.amazonaws.com/obras/big/3/0/4/8233186987457932.jpg)
 
-nn
+### Perro de luna
+
+Esta obra también se conoce como *Moon Dog* y destaca por la figura central del can, en contraste con un fondo de color azul cobalto. Este lienzo corresponde a una etapa en la que **Tamayo** realizó varias pinturas de perros. Según los críticos, se trata de la pintura de un "perro pelón" o xoloscuintle, el cual se encuentra ladrándole a la Luna con un significado simbólico ligado a la mitología prehispánica.
+
+![](/uploads/tamayo-perro.jpg){: width="1200" height="930"}
