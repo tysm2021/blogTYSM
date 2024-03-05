@@ -28,7 +28,11 @@ summary: >-
   Tamayo fue un maestro de la plástica, del uso del color y del arte popular;
   conozcamos un poco de su vida y obra.
 ---
-TE RECOMENDAMOS:
+Si hablamos de **arte** y de **pintores** **mexicanos** del siglo XX, de inmediato la memoria evoca a Diego Rivera, a José Clemente Orozco y a David Alfaro Siqueiros; a mujeres como Frida Kahlo, María Izquierdo, Aurora Reyes o las refugiadas Remedios Varo y Leonora Carrington; o bien, a paisajistas como José María Velasco o el Dr. Atl. Pero sin duda **uno de los más grandes pintores** y **muralistas** de **México** nació en **Oaxaca** y se llamó **Rufino Tamayo**. ¿Conoces su **biografía** y sus **mejores pinturas**?
+
+A continuación revisamos brevemente la **vida** de este oaxaqueño y algunas de sus **obras** que cuelgan en numerosas galerías y colecciones privadas, o que decoran los muros de **museos** de relieve internacional.
+
+**TE RECOMENDAMOS: [¿Dónde quedó el retrato de María Félix que le hizo Diego Rivera?](https://blog.tonoysumariachi.com/cultura/2024/02/29/d%C3%B3nde-qued%C3%B3-el-retrato-de-mar%C3%ADa-f%C3%A9lix-que-le-hizo-diego-rivera.html){: target="_blank" rel="noopener"}**
 
 ## Obras
 
