@@ -58,4 +58,8 @@ Este **mural** puede admirarse en el **Museo del Palacio de Bellas Artes**, en C
 
 ![](/uploads/mexico-de-hoy.jpeg){: width="1024" height="432"}
 
-mm
+### El trovador
+
+**Tamayo** quiso alejarse del movimiento muralista y, en su búsqueda de una voz universal en el arte mexicano, mostró su visión artística distintiva a través de esta obra de 1945, que muestra a un cantante tocando una guitarra. Con unas medidas de 153.4 x 127 cm, estee óleo sobre lienzo logró un gran reconocimiento mundial y obtuvo un **precio récord** de 7.2 millones de dólares en una **subasta** de Christie's en mayo de 2008.
+
+![](/uploads/tamayo-trovador.jpg){: width="1024" height="1234"}
