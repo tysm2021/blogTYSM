@@ -18,7 +18,7 @@ article_header:
     src: /uploads/plant-fruit-dry-orange-bowl-food-683677-pxhere-com.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/plant-fruit-dry-orange-bowl-food-683677-pxhere-com.jpg
 show_author_profile: false
 comment: false
 summary: >-
@@ -37,7 +37,7 @@ Los nombres con los que conocemos los **chiles** —el ancho, el guajillo, el ja
 
 ## Proviene de Tabasco
 
-El nombre científico del **chile piquín** es&nbsp;*Capsicum annuum*&nbsp;var.&nbsp;*glabriusculum*&nbsp;y también se le conoce como **chile** amashito, mashito, amash,&nbsp;**chiltepín**, chiltepe o chile de monte. Según los expertos, es originario del estado de Tabasco y de ahí se distribuyó a América Central —Guatemala, El Salvador, Nicaragua, etc.— y a otras regiones del país. Se le considera muy picante —hasta 60 mil unidades Scoville— y de sabor cítrico, ahumado y almendrado.
+El nombre científico del **chile piquín** es&nbsp;*Capsicum annuum*&nbsp;var.&nbsp;*glabriusculum*&nbsp;y también se le conoce como **chile** amashito, mashito, amash, chiltepe o chile de monte. Según los expertos, es originario del estado de Tabasco y de ahí se distribuyó a América Central —Guatemala, El Salvador, Nicaragua, etc.— y a otras regiones del país. Se le considera muy picante —hasta 60 mil unidades Scoville— y de sabor cítrico, ahumado y almendrado.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tabasco_Chile_amashito.jpg/1024px-Tabasco_Chile_amashito.jpg)
 
@@ -46,3 +46,9 @@ El nombre científico del **chile piquín** es&nbsp;*Capsicum annuum*&nbsp;var.&
 Según la Comisión Nacional Forestal, el chile piquín sigue siendo un producto forestal no maderable porque, a diferencia de otros chiles, su domesticación no se ha popularizado mucho, de modo que casi el 100% es de origen silvestre. Por esa razón, este **chile** al ser consumido no causa ardor, ni acidez en el estómago, ya que no contiene pesticidas ni fertilizantes. Al igual que otras plantas que crecen en las zonas secas, después de las lluvias es cuando nace una gran cantidad de chiles.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Capsicum_annuum_glabriusculum_10zz.jpg)
+
+## El chile en polvo no es piquín
+
+En las tiendas y los supermercados, a menudo se le llama **chile piquín** a cualquier **chile en polvo** que se vende en frascos o sobres, y que se añade a las comidas pata darles sabor y picor. Pero lo cierto es que casi nunca consisten en **chile piquín** al 100% y más bien se trata de mezclas de distintos chiles secos y triturados, a los que casi siempre se les añade sal, conservadores y saborizantes artificiales para, por ejemplo, darles un toque de limón. Entonces, si buscas probar el verdadero **chile piquín** lo distinguirás porque es rojo, redondo —a diferencia del **chiltepín**, que es ligeramente alargado— y porque se comercializa en salsas.
+
+Y ahora sí, ¡provechito!
