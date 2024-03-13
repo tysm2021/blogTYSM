@@ -36,4 +36,16 @@ Según la leyenda, los entonces **aztecas** y futuros **mexicas** recibieron la 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SculptureEagleNopalZocalo02.JPG/1024px-SculptureEagleNopalZocalo02.JPG){: width="1024" height="685"}
 
+Esa imagen indicaría  que habrían llegado el sito  donde debían fundar una nueva ciudad y un nuevo imperio, que estaría por encima de los demás. Así, de ser un pueblo errante un día,&nbsp;al llegar a los límites del lago de Texcoco, vieron la señal que tanto esperaban justo en un islote en medio del lago, tal como **Huitzilopochtli** les había indicado, y la migración concluyó. Pero, ¿qué dice la **historia**?
+
 Se puede decir que el surgimiento de **México-Tenochtitlan** comenzó con el proceso de la migración de los aztecas chichimecas, quienes recibían ese nombre por habitar la tierra mítica de Aztlán,  donde adoraban a Huitzilopochtli, deidad que los guiaría hacia un nuevo lugar. La peregrinación tomó muchos años antes de alcanzar la Cuenca de México, pasando por diversos lugares y asentamientos.
+
+Según la revista *Arqueología Mexicana*, "la fecha *2 casa* \[que equivale al **año**\] **1325** en la cronología cristiana, ha sido considerada como la **fecha fundacional de México-Tenochtitlan** en las fuentes del siglo&nbsp;XVI&nbsp;y nunca ha sido cuestionada", pero otras fuentes dan otras fechas; por ejemplo, según la primera lámina del&nbsp;*Códice Mendocino*, el hecho tuvo lugar “el año de mil trescientos y veinte y cuatro años \[o sea, el año 1324\] después de la venida de Nuestro Señor y Salvador Jesucristo”; por su parte, el&nbsp;*Códice Aubin*, describe el fenómeno y lo sitúa en los años&nbsp;*1 caña* o *1 pedernal*, que corresponden a los años 1363 y 1364 del calendario cristiano.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;

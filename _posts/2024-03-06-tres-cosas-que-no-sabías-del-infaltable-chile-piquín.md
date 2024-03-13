@@ -31,13 +31,13 @@ Hagamos un recuento sobre este **picante** que proviene del sureste mexicano que
 
 **TE RECOMENDAMOS: [¿Cuáles son los chiles más picantes de México?](https://blog.tonoysumariachi.com/gastronomia/2022/06/16/cuales-son-los-chiles-mas-picantes-de-mexico.html){: target="_blank" rel="noopener"}**
 
-Empecemos hablando, primero, sobre cómo se clasifican los **chiles**. En general, existen cinco especies de cultivo —*Capsicum annuum, Capsicum chínense, Capsicum pubescens, Capsicum frutescens*&nbsp;y&nbsp;*Capsicum. baccatum—*&nbsp;y unas 25 especies silvestres. La especie&nbsp;*Capsicum annuum*&nbsp;L. es la cultivada más importante en todo el mundo, y es en **México** donde se encuentra la mayor diversidad. Esta familia se dispersó a través del mundo en la época colonial, y se ha convertido en uno de los saborizantes más importantes en la cocina mundial.
+Empecemos hablando, primero, sobre cómo se clasifican los **chiles**. En general, existen cinco especies de cultivo —*Capsicum annuum, Capsicum chínense, Capsicum pubescens, Capsicum frutescens* y *Capsicum. baccatum—* y unas 25 especies silvestres. La especie *Capsicum annuum* L. es la cultivada más importante en todo el mundo, y es en **México** donde se encuentra la mayor diversidad. Esta familia se dispersó a través del mundo en la época colonial, y se ha convertido en uno de los saborizantes más importantes en la cocina mundial.
 
 Los nombres con los que conocemos los **chiles** —el ancho, el guajillo, el jalapeño, el serrano, etc.— no son familias o especies, sino **tipos morfológicos** diferentes. Hasta hoy, los biólogos han identificado 64 tipos de chiles y Oaxaca es el estado con mayor diversidad, con al menos 25 tipos. Ahora sí, centrémonos en el chile piquín.
 
 ## Proviene de Tabasco
 
-El nombre científico del **chile piquín** es&nbsp;*Capsicum annuum*&nbsp;var.&nbsp;*glabriusculum*&nbsp;y también se le conoce como **chile** amashito, mashito, amash, chiltepe o chile de monte. Según los expertos, es originario del estado de Tabasco y de ahí se distribuyó a América Central —Guatemala, El Salvador, Nicaragua, etc.— y a otras regiones del país. Se le considera muy picante —hasta 60 mil unidades Scoville— y de sabor cítrico, ahumado y almendrado.
+El nombre científico del **chile piquín** es *Capsicum annuum* var. *glabriusculum* y también se le conoce como **chile** amashito, mashito, amash, chiltepe o chile de monte. Según los expertos, es originario del estado de Tabasco y de ahí se distribuyó a América Central —Guatemala, El Salvador, Nicaragua, etc.— y a otras regiones del país. Se le considera muy picante —hasta 60 mil unidades Scoville— y de sabor cítrico, ahumado y almendrado.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tabasco_Chile_amashito.jpg/1024px-Tabasco_Chile_amashito.jpg)
 
