@@ -30,7 +30,7 @@ La **fundación** de la ciudad de **México-Tenochtitlan**, hoy conocida como la
 
 A continuación te contamos un poco sobre lo que dicen historiadores, arqueólogos, estudiosos de la **civilización mexica** y autoridades del Gobierno de México sobre este acontecimiento, que muchos consideran el origen de la nación mexicana.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cómo se dice: azteca o mexica? ¿Cuál es el término correcto?**]()
 
 Según la leyenda, los entonces **aztecas** y futuros **mexicas** recibieron la orden de su dios guía, **Huitzilopochtli**, de abandonar la ciudad de Aztlán donde vivían e iniciar una peregrinación hasta descubrir la señal que él les había prometido: un **águila** devorando una **serpiente**, mientras estaba posada sobre un **nopal**.
 
