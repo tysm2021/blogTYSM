@@ -32,3 +32,5 @@ En el hemisferio norte, donde se encuentra **México**, el **equinoccio de prima
 Conozcamos en qué consiste dicho **fenómeno**, qué **simbolismo** tiene y si realmente fue planeado en función del conocimiento **astronómico** de los **mayas**… o si se trata de una simple coincidencia.
 
 **TE RECOMENDAMOS: [¿Cuáles eran los principales dioses mayas?](https://blog.tonoysumariachi.com/historia/2022/09/21/cuales-eran-los-principales-dioses-mayas.html){: target="_blank" rel="noopener"}**
+
+El final del invierno y el inicio de la **primavera**, desde hace muchos siglos, ha sido un evento importantísimo en los ciclos agrícolas alrededor del mundo, pues representa el renacimiento de la naturaleza y el momento correcto de sembrar para tener buenas cosechas meses después. Por esa razón, el día del **equinoccio de primavera** —es decir, cuando "entra" dicha estación— históricamente se han realizado rituales de agradecimiento, que buscan propiciar buenas cosechas o, en tiempos recientes, que buscan utilizar la energía de Sol que brilla con fuerza después de los fríos invernales.
