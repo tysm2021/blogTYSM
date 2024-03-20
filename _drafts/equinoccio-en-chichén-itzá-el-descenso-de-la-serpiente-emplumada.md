@@ -20,12 +20,13 @@ article_header:
       /uploads/1024px-el-castillo-aka-temple-of-kukulcan-chichen-itza-mexico-21-may-2014.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/el-templo-mayor-en-tenochtitlan.png
+cover: >-
+  /uploads/1024px-el-castillo-aka-temple-of-kukulcan-chichen-itza-mexico-21-may-2014-1.jpeg
 show_author_profile: false
 comment: false
 summary: >-
-  Tras dos siglos de peregrinación desde la mítica ciudad de Aztlán, el pueblo
-  mexica se asentó en el Valle de México y fundó su ciudad capital…
+  Entre el 20 y el 21 de marzo de cada año, miles de visitantes acuden a
+  presenciar este fenómeno arqueastronómico en el Templo de Kukulkán.
 ---
 En el hemisferio norte, donde se encuentra **México**, el **equinoccio de primavera** tiene lugar entre el 20 y el **21 de marzo** de cada año. En esa fecha muchos creen que tienen lugar **fenómenos** **arqueastronómicos** como el llamado "**descenso de Kukulkán**" o la **serpiente** **emplumada** en el templo conocido como **El Castillo**, en la zona arqueológica **maya** de **Chichén Itzá**.&nbsp;
 
