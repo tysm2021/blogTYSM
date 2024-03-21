@@ -65,6 +65,6 @@ Es un día de silencio, duelo y espera. Después de la crucifixión, el cuerpo d
 
 En el folclor mexicano, ese día la gente acostumbraba "bañarse" a cubetadas en las calles y también se quemaban los Judas o "Juditas", que son figuras artesanales de diablos hechas en cartonería, con cohetes de pirotecnia para que "truenen", las cuales representan al traidor Judas Iscariote.
 
-Domingo de Pascua o de Resurrección
+### Domingo de Pascua o de Resurrección
 
-n
+El día más dichoso de la **Semana Santa**, que celebra la resurrección de Jesús de entre los muertos y el cumplimiento de su promesa. Ese día se celebran misas solemnes que marcan el fin de la Semana Santa y el inicio del tiempo Pascual. Además de las misas, se levanta la prohibición de la carne roja y algunas familias acostumbran hacer regalos a los niños o llevar a cabo el juego del escondite de los Huevos de Pascua.
