@@ -59,9 +59,11 @@ Ese día, los católicos se reúnen para rezar el **Vía Crucis** y caminar en u
 
 **TE RECOMENDAMOS: [Algunos tips para elegir pescado en esta Cuaresma.](https://blog.tonoysumariachi.com/gastronomia/2024/02/16/algunos-tips-para-elegir-pescado-durante-esta-cuaresma.html){: target="_blank" rel="noopener"}**
 
-​​​​​Sábado Santo o de Gloria
+### ​​​​​Sábado Santo
 
-n
+Es un día de silencio, duelo y espera. Después de la crucifixión, el cuerpo de Jesús fue puesto en un sepulcro y sus discípulos guardaron el luto. Para los cristianos, es un momento de reflexión sobre el significado de la muerte y la promesa de su resurrección. Antes se le llamaba **Sábado de Gloria** porque la celebración de la Vigilia de la Resurrección inicia esta noche y Cristo resucita el domingo; con la Resurrección de Jesucristo se abre la gloria del cielo.
+
+En el folclor mexicano, ese día la gente acostumbraba "bañarse" a cubetadas en las calles y también se quemaban los Judas o "Juditas", que son figuras artesanales de diablos hechas en cartonería, con cohetes de pirotecnia para que "truenen", las cuales representan al traidor Judas Iscariote.
 
 Domingo de Pascua o de Resurrección
 
