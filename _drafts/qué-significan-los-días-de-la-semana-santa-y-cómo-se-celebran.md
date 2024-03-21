@@ -41,17 +41,21 @@ Para muchos, la **Semana Santa** inicia el viernes anterior al **Domingo de Ramo
 
 ### Domingo de Ramos
 
-Recuerda el episodio narrado en los Evangelios de la entrada triunfal de Jesús a Jerusalén. Según los relatos bíblicos, Jesús llegó montado en un burro y fue recibido por multitudes que extendieron mantos y **ramas de palma** en su camino, aclamándolo como el Mesías y el Rey de Israel. Ese día, los fieles llevan sus palmas a bendecir a la Iglesia y hacen una pequeña peregrinación en la que se entona el famoso: "Hossana, Hossana en las alturas…". Cabe señalar que las palmas de este día serán quemadas al año siguiente y, ya convertidas en cenizas, servirán para marcar la señal de la cruz el **Miércoles de Ceniza**.
+Recuerda el episodio narrado en los Evangelios de la entrada triunfal de Jesús a Jerusalén. Según los relatos bíblicos, Jesús llegó montado en un burro y fue recibido por multitudes que extendieron mantos y **ramas de palma** en su camino, aclamándolo como el Mesías y el Rey de Israel. Ese día, los fieles llevan sus palmas a bendecir a la Iglesia y hacen una procesión en la que se entona el famoso: "Hossana, Hossana en las alturas…". Cabe señalar que las palmas de este día serán quemadas al año siguiente y, ya convertidas en cenizas, servirán para marcar la señal de la cruz el **Miércoles de Ceniza**.
 
 ### Jueves Santo
 
-Siguiendo la tradición de la Pascua judía, esa noche Jesús celebró con sus discípulos la **Última Cena**, que para los católicos es el origen de la Eucaristía, en la que Jesús convierte en pan en su carne y el vino, en su sangre derramada para el perdón de los pecados. Además, esa noche Jesús también lavó los pies de sus apóstoles como un acto de humildad, enseñándoles la importancia del servicio mutuo; también predijo la traición de Judas Iscariote y su negación por parte de Pedro.
+Siguiendo la tradición de la Pascua judía, esa noche Jesús celebró con sus discípulos la **Última Cena**, que para los católicos es el origen de la Eucaristía, en la que Jesús convierte en pan en su carne y el vino, en su sangre derramada para el perdón de los pecados. Además, esa noche Jesús también lavó los pies de sus apóstoles como un acto de humildad, enseñándoles la importancia del servicio mutuo; también predijo la traición de Judas Iscariote y su negación por parte del apóstol Pedro.
 
-Esa noche, el sacerdote lava los pies de algunos voluntarios, se celebra una peregrinación y se realiza la "Visita de las siete casas", recorriendo siete iglesias distintas para rememorar el tránsito de Jesús aprehendido y llevado ante el Sanedrín, ante Caifás y ante Poncio Pilatos.
+Esa noche, el sacerdote lava los pies de algunos voluntarios, se celebra una procesión y se realiza la "Visita de las siete casas", recorriendo siete iglesias distintas para rememorar el tránsito de Jesús aprehendido y llevado ante el Sanedrín, ante Caifás y ante Poncio Pilatos.
 
 ### Viernes Santo
 
-Para muchos, el día más importante de la Semana Santa —aunque muchos sacerdotes que el evento central no es la muerte, sino la Resurrección de Jesús.&nbsp;
+Para muchos, el día más importante de la Semana Santa —aunque muchos sacerdotes que el evento central no es la muerte, sino la Resurrección de Jesús. El **Viernes Santo** es un día de profunda reflexión y solemnidad para los cristianos, ya que se recuerda el sacrificio supremo de **Jesucristo**&nbsp;por la redención de la humanidad; en la crucifixión, Jesús sufrió grandes tormentos físicos —fue azotado, se le impuso una corona de espinas y fue obligado a cargar su cruz hasta el Calvario—, y fue crucificado junto a dos criminales. Es un día de luto y de espera del cumplimiento de la promesa “y resucitaré al tercer día”.
+
+Ese día, los católicos se reúnen para rezar el **Vía Crucis** y caminar en una procesión con una imagen de Jesús cargando la cruz, acompañándolo hasta su muerte —en algunos sitios se hacen representaciones o los fieles realizan cruentas penitencias—. Tras la **muerte de Jesú**s, por la tarde se realiza la celebración de las Siete Palabras y el Pésame a la Virgen, pero no se celebran misas en ninguna parte del mundo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Viernes_Santo_-_Toledo%2C_Espa%C3%B1a_-_b_-_2010.jpg/1024px-Viernes_Santo_-_Toledo%2C_Espa%C3%B1a_-_b_-_2010.jpg)
 
 **TE RECOMENDAMOS: [Algunos tips para elegir pescado en esta Cuaresma.](https://blog.tonoysumariachi.com/gastronomia/2024/02/16/algunos-tips-para-elegir-pescado-durante-esta-cuaresma.html){: target="_blank" rel="noopener"}**
 
