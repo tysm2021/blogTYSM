@@ -1,31 +1,47 @@
-
+collections_config: {}
 _inputs:
   cover:
     type: image
+    cascade: true
   src:
     type: image
+    cascade: true
   author:
     type: select
     options:
+      allow_empty: true
       values:
         - Redacción TYSM
+    cascade: true
   show_author_profile: false
   comment:
+    type: auto
     hidden: true
+    cascade: true
   sharing:
+    type: auto
     hidden: true
-  layout: 
+    cascade: true
+  layout:
+    type: auto
     hidden: true
+    cascade: true
   mode:
+    type: auto
     hidden: true
+    cascade: true
   excerpt_separator:
+    type: auto
     hidden: true
+    cascade: true
   header:
+    type: auto
     hidden: true
-          
-_snippets_imports:
-  eleventy_nunjucks: true
-
-# Import the Eleventy Liquid Snippets:
+    cascade: true
+_select_data: {}
+_structures: {}
+_editables: {}
+data_config: {}
+timezone: Etc/UTC
 _snippets_imports:
   eleventy_liquid: true
