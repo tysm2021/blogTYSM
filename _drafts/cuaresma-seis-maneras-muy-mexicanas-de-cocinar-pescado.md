@@ -51,7 +51,11 @@ Una de las joyas de la gastronomía nacional. Los filetes de **pescado** —pued
 
 **TE RECOMENDAMOS:&nbsp;[Platillos con pescados y mariscos típicos de las playas mexicanas.](https://blog.tonoysumariachi.com/gastronomia/2023/03/28/platillos-con-pescados-y-mariscos-tipicos-de-las-playas-mexicanas.html){: target="_blank" rel="noopener"}**
 
-Al ajillo
+## Al ajillo
+
+Aunque es fácil de confundirlo con la siguiente preparación, pues ambas llevan como base abundantes ajos, esta preparación lleva ajo, aceite de oliva y chile guajillo. La elaboración consiste en cortar el ajo en láminas y dorarlo en aceite de oliva; después, se añade el chile guajillo sin semillas y en tiritas delgadas. Una vez que esté listo el ajillo, retíralo del fuego pero fríe los **filetes** de **pescado** en ese mismo aceite por ambos lados, hasta que estén bien cocidos. Sirve y baña con la salsa de ajillo que reservaste.
+
+
 
 En mojo de ajo
 
