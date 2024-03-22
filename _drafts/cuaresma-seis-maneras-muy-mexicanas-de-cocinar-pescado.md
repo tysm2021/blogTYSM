@@ -33,7 +33,11 @@ Si vas a comprar **pescado**, recuerda verificar que no tenga los ojos vidriosos
 
 **TE RECOMENDAMOS: [Algunos tips para elegir pescado durante esta Cuaresma.](https://blog.tonoysumariachi.com/gastronomia/2024/02/16/algunos-tips-para-elegir-pescado-durante-esta-cuaresma.html){: target="_blank" rel="noopener"}**
 
-A la talla
+## A la talla
+
+Muchas fuentes afirman que esta deliciosa **receta** es originaria de Acapulco, particularmente de la playa de Barra Vieja, donde se dice que don Beto Godoy inventó parte de la marinada y Cira la Morena, su vecina, puso la sazón. Se trata de un **pescado** entero, con frecuencia un **huachinango** del Pacífico, bañado en una salsa en la que predomina el chile guajillo y se complementa con ajo, cebolla, sal, pimienta y vinagre. Después, el **pescado** se mete en una rejilla para asar y es llevado al fuego de la leña —si es madera de manglar, mucho mejor— o a las brasas del carbón. El acompañamiento ideal es una ensalada de lechuga y jitomate, y se adereza con limón, mayonesa y alguna salsita picante. ¡Simplemente exquisito!
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/dd/Pescado_a_la_talla.jpg)
 
 A la diabla
 
