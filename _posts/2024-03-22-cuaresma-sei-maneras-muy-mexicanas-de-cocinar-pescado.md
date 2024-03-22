@@ -1,5 +1,5 @@
 ---
-title: 'Cuaresma: siete maneras muy mexicanas de cocinar pescado'
+title: 'Cuaresma: sei maneras muy mexicanas de cocinar pescado'
 date: 2024-03-22 12:00:00
 categories:
   - GASTRONOMIA
@@ -57,9 +57,11 @@ Aunque es fácil de confundirlo con la siguiente preparación, pues ambas llevan
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Las_gambas_al_ajillo%2C_t%C3%ADpica_tapa_espa%C3%B1ola.jpg/1024px-Las_gambas_al_ajillo%2C_t%C3%ADpica_tapa_espa%C3%B1ola.jpg)
 
-En mojo de ajo
+## En mojo de ajo
 
-Empapelado
+A diferencia de la preparación anterior, ésta no lleva chile. En cambio, los ajos bien picados o machacados se dejan marinar con sal en aceite de oliva, pimienta y sal en abundancia. Se pasa el **pescado** por agua con limón y, después, se embadurna con la salsa de ajo, se envuelve en plástico o aluminio y se deja en refrigeración de 2 a 12 horas. Después, se calienta la sartén con mantequilla o aceite de oliva y se fríe el pescado hasta que tome un color dorado, ¡para chuparse los dedos!
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Huachinango1.jpg/1024px-Huachinango1.jpg)&nbsp;
 
 ## Embarazado
 
