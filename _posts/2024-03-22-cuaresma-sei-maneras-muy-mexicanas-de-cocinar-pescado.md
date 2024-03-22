@@ -1,5 +1,5 @@
 ---
-title: 'Cuaresma: sei maneras muy mexicanas de cocinar pescado'
+title: 'Cuaresma: seis maneras muy mexicanas de cocinar pescado'
 date: 2024-03-22 12:00:00
 categories:
   - GASTRONOMIA
@@ -19,7 +19,7 @@ article_header:
     src: /uploads/pescado-a-la-talla-41205590500.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/el-templo-mayor-en-tenochtitlan.png
+cover: /uploads/pescado-a-la-talla-41205590500.jpeg
 show_author_profile: false
 comment: false
 summary: >-
