@@ -42,10 +42,24 @@ Este edificio monumental fue usado durante casi 500 años, pues los últimos jue
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1024px-Colosseo_2020.jpg)
 
-Construcción e ingeniería
+### Construcción e ingeniería
 
-Gladiadores
+El **Coliseo** tiene forma elíptica o semi circular. Actualmente mide 89 metros de largo, 156 de ancho y 48 de altura, con un perímetro elíptico de 524 metros. En su construcción se usaron materiales como bloques de travertino, hormigón, madera, ladrillo, piedra (toba), mármol y estuco. En su época de esplendor daba cabida a un aforo para unos 65 000 espectadores cómodamente sentado, con ochenta filas de gradas; los cronistas que asistieron a algún espectáculo dieron fe de que tenía una acústica increíble que permitía oír todo lo que sucedía sin importar donde estuviera uno sentado.
+
+En el exterior del **Coliseo**, son visibles cuatro órdenes o niveles; tres órdenes inferiores los forman 80 arcos sobre pilastras y con semicolumnas adosadas, y el último nivel es una pared ciega, con pilastras adosadas y ventanas. En el interior, además de las gradas destacan los niveles subterráneos ubicados debajo de la arena, que agilizaban la entrada y salida de **gladiadores**, fieras y condenados a muerte. Además, en un prodigio de la ingeniería tenía un sistema hidráulico que permitía inundar la arena para escenificar batallas entre barcos guerreros.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Panoramic_photograph_of_interior_of_Colosseum.jpg/1024px-Panoramic_photograph_of_interior_of_Colosseum.jpg)
+
+**TE RECOMENDAMOS:&nbsp;[¿Cuáles son las Siete Nuevas Maravillas del Mundo y cómo se eligieron?](https://blog.tonoysumariachi.com/mundo/2022/08/01/cuales-son-las-siete-maravillas-del-mundo-moderno.html){: target="_blank" rel="noopener"}**
+
+### Gladiadores
+
+Quizá la función más conocida del **Coliseo** fue su uso como escenario para peleas entre gladiadores, que eran ex soldados o esclavos elegidos por su fortaleza y entrenados para pelear a muerte con armas para deleite de un público aficionado a este tipo de juegos violentos. Este tipo de cruentas peleas fue prohibida a finales del siglo V de nuestra era.&nbsp;
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Jean-Leon_Gerome_Pollice_Verso.jpg/1024px-Jean-Leon_Gerome_Pollice_Verso.jpg)
 
 Los cristianos
+
+
 
 Hoy en día
