@@ -58,8 +58,18 @@ Quizá la función más conocida del **Coliseo** fue su uso como escenario para 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Jean-Leon_Gerome_Pollice_Verso.jpg/1024px-Jean-Leon_Gerome_Pollice_Verso.jpg)
 
-Los cristianos
+### Los cristianos
 
+En egneral, los fieles cristianos consideran que al **Coliseo** como un lugar de **martirio** de un gran número de creyentes durante la persecución de los **cristianos** por parte del Imperio Romano entre los siglos II y III de nuestra era. Al parecer, fue el emperador Nerón quien inició esta persecución al culparlos por el Gran Incendio de **Roma**; más tarde, ésta se recrudeció con el emperador Decio, que obligó a todos los ciudadanos a rendir culto a los dioses romanos, so pena de muerte.
 
+Finalmente, en el siglo IV se firmaron muchos acuerdos que cesaron la persecución y en el año 337, el emperador Constatino se hizo bautizar y se convirtió al **cristianismo**, que al poco tiempo sería la religión oficial de todo el Imperio.
 
-Hoy en día
+![](https://upload.wikimedia.org/wikipedia/commons/c/c4/The_Christian_Martyrs_Last_Prayer.jpg)
+
+### Hoy en día
+
+Con el paso de los siglos, el **Coliseo** sufrió daños graves debidos a terremotos e incendios. Tras la caída del Imperio, fue abandonado su uso público y sirvió a varios usos, desde bodega hasta escenario teatral. Fue continuamente saqueado y sus bloques usados como cantera, hasta que en el año 1749 el papa **Benedicto XIV** prohibió el saqueo y consagró el **Coliseo** como lugar santo en memoria de los mártires cristiano allí ejecutados. Además, erigió las doce estaciones de la Cruz en su interior, mismas que estuvieron de pie durante siglos.
+
+Actualmente, el **Coliseo** es una de las Nuevas Maravillas del Mundo y uno de los más grandes atractivos turísticos de **Roma** y, también, un lugar sagrado para los católicos, en cuyo interior el Papa, en su calidad de Obispo de **Roma**, preside los rezos del Vía Crucis durante la Semana Santa.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rom_Colosseum_Sept_2021_7.jpg/1024px-Rom_Colosseum_Sept_2021_7.jpg)
