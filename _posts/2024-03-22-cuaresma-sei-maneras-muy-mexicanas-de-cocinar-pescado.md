@@ -39,11 +39,11 @@ Muchas fuentes afirman que esta deliciosa **receta** es originaria de Acapulco, 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/dd/Pescado_a_la_talla.jpg)
 
-### A la diabla
+## A la diabla
 
 Con esta misma salsa que, como su nombre lo indica, pica como el Diablo, también pueden elaborarse camarones y algunos otros mariscos. Se trata de una salsa roja en la que se mezcla chile ancho, chile guajillo y chile de árbol seco, que le da su picor característico. En ella el filete de **pescado** se deja marinar, desde unos minutos hasta varias horas, y después se lleva a la sartén y se fríe con mantequilla bien caliente. También se acompaña con una ensalada fresca y muchas tortillas.
 
-### A la veracruzana
+## A la veracruzana
 
 Una de las joyas de la gastronomía nacional. Los filetes de **pescado** —puede ser robalo, tilapia o huachinango— se cocinan en un sofrito de cebolla, ajos y jitomates al que se le añaden especias, hojas de laurel, pimiento, aceitunas verdes y unas chilacas o chiles güeros para sazonar. Se acompaña con arroz blanco.
 
