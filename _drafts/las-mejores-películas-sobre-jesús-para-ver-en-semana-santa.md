@@ -56,10 +56,12 @@ En 1966, el director Julio Bracho dirigió esta historia protagonizada por Enriq
 
 Aclaramos: esta versión musical es una opera-rock realizada en 1973 y no está sustentada en las Escrituras, pues se centra en el conflicto entre Jesús y su discípulo favorito, Judás, quien está descontento con la dirección que ha tomado "el movimiento". La acción se desarrolla como una obra teatral montada en unas ruinas del desierto de Israel, representando una ciudad de Jerusalén habitada por hippies y controlada por soldados romanos. Plantea una óptica distinta, inteligente, y tiene excelentes canciones y coreografías, aunque puede no ser del gusto de las personas más conservadoras.&nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/URWa0rbB1Kw?si=N-sk0G7i72n3VLk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/URWa0rbB1Kw?si=N-sk0G7i72n3VLk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 ### La última tentación de Cristo
 
 Esta película de 1988, en su tiempo, fue de lo más polémica: algunos cines donde se exhibía fueron quemados por fanáticos religiosos y, de hecho, en México nunca se estrenó comercialmente. La historia de basa en una novela del escritor griego Nikos Kazantzakis que narra la vida de **Jesús** desde el punto de vista de un ser humano débil, frágil y lleno de dudas al que se le pone enfrente una última tentación: bajar de la cruz y llevar la vida de un hombre común.
+
+![](/uploads/last-temptation.jpeg){: width="960" height="448"}
 
 La pasión de Cristo
