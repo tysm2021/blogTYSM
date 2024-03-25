@@ -32,4 +32,24 @@ Aquí te recomendamos algunas de ellas, entre en blanco y negro o color, mexican
 
 **TE RECOMENDAMOS: [San Felipe de Jesús, primer santo y protomártir mexicano.](https://blog.tonoysumariachi.com/mexicanisimos/2024/02/02/san-felipe-de-jes%C3%BAs-primer-santo-y-protom%C3%A1rtir-mexicano.html){: target="_blank" rel="noopener"}**
 
-n
+### El mártir del Calvario
+
+Una película mexicana, clásica en la Semana Mayor. En ella, el experimentado actor Enrique Rambal encarna a Jesús, el Hijo del Hombre, desde los inicios de su predicación hasta su muerte y resurrección.&nbsp; Se le considera una de las películas religiosas más importantes de la Época de Oro del cine mexicano, con Manolo Fábregas en el papel de Judas Iscarote y Consuelo Frank como la virgen María.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/avXMva-mDAg?si=oHhqh7hSVaEUms0J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+El mártir del Gólgota
+
+Ben-Hur
+
+Jesucristos Superestrella
+
+Jesús de Nazareth
+
+### La última tentación de Cristo
+
+Esta película de 1988, en su tiempo, fue de lo más polémica: algunos cines donde se exhibía fueron quemados por fanáticos religiosos y, de hecho, en México nunca se estrenó comercialmente. La historia de basa en una novela del escritor griego Nikos Kazantzakis que narra la vida de **Jesús** desde el punto de vista de un ser humano débil, frágil y lleno de dudas al que se le pone enfrente una última tentación: bajar de la cruz y llevar la vida de un hombre común.
+
+
+
+La pasión de Cristo
