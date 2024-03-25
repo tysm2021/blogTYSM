@@ -34,11 +34,15 @@ Aquí te recomendamos algunas de ellas, entre en blanco y negro o color, mexican
 
 ### El mártir del Calvario
 
-Una película mexicana, clásica en la Semana Mayor. En ella, el experimentado actor Enrique Rambal encarna a Jesús, el Hijo del Hombre, desde los inicios de su predicación hasta su muerte y resurrección.&nbsp; Se le considera una de las películas religiosas más importantes de la Época de Oro del cine mexicano, con Manolo Fábregas en el papel de Judas Iscarote y Consuelo Frank como la virgen María.
+Una película mexicana, clásica en la Semana Mayor. En ella, el experimentado actor **Enrique Rambal** encarna a **Jesús**, el Hijo del Hombre, desde los inicios de su predicación hasta su muerte y resurrección.&nbsp; Se le considera una de las películas religiosas más importantes de la Época de Oro del cine mexicano, con Manolo Fábregas en el papel de Judas Iscarote y Consuelo Frank como la virgen María.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/avXMva-mDAg?si=oHhqh7hSVaEUms0J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/avXMva-mDAg?si=oHhqh7hSVaEUms0J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-El mártir del Gólgota
+### El proceso de Cristo
+
+En 1966, el director Julio Bracho dirigió esta historia protagonizada por Enrique Rocha, Julián Soler y Wolf Ruvinskis, que tiene lugar treinta y cuatro años después de la **crucifixión** de **Cristo**, cuando el apóstol Pedro, Barrabás y otros apóstoles son trasladados a Roma para su ejecución y pasan la noche en casa de **Poncio Pilatos**, quien desea saber si el hombre al que condenó décadas atrás en **Jerusalén** era inocente o culpable ante quien recuerdan la vida, los milagros, el juicio y la muerte de **Jesús**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-PaULU49a8?si=jA3RCt21LCuyQV6B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Ben-Hur
 
@@ -49,7 +53,5 @@ Jesús de Nazareth
 ### La última tentación de Cristo
 
 Esta película de 1988, en su tiempo, fue de lo más polémica: algunos cines donde se exhibía fueron quemados por fanáticos religiosos y, de hecho, en México nunca se estrenó comercialmente. La historia de basa en una novela del escritor griego Nikos Kazantzakis que narra la vida de **Jesús** desde el punto de vista de un ser humano débil, frágil y lleno de dudas al que se le pone enfrente una última tentación: bajar de la cruz y llevar la vida de un hombre común.
-
-
 
 La pasión de Cristo
