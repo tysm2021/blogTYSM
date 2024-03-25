@@ -38,15 +38,21 @@ Una película mexicana, clásica en la Semana Mayor. En ella, el experimentado a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/avXMva-mDAg?si=oHhqh7hSVaEUms0J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+### Ben-Hur
+
+Esta superproducción de 1959 no cuenta exactamente la vida de **Jesús**, pero aun así es un clásico de esta época. **Charlton Heston** encarna a Judah Ben-Hur, un joven judío quien por un accidente lo pierde todo y es enviado a trabajar como esclavo en las galeras, escapa de una muerte segura y se convierte en ciudadano romano, pero regresa a su patria a vengarse su amigo que lo traicionó. No es sino hasta que, por casualidad, conoce a **Jesús de Nazaret** que su corazón alberga el perdón y, con él, encuentra al fin la felicidad.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/frE9rXnaHpE?si=zBc_rB7VLiLJjRgC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### El proceso de Cristo
 
 En 1966, el director Julio Bracho dirigió esta historia protagonizada por Enrique Rocha, Julián Soler y Wolf Ruvinskis, que tiene lugar treinta y cuatro años después de la **crucifixión** de **Cristo**, cuando el apóstol Pedro, Barrabás y otros apóstoles son trasladados a Roma para su ejecución y pasan la noche en casa de **Poncio Pilatos**, quien desea saber si el hombre al que condenó décadas atrás en **Jerusalén** era inocente o culpable ante quien recuerdan la vida, los milagros, el juicio y la muerte de **Jesús**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-PaULU49a8?si=jA3RCt21LCuyQV6B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-PaULU49a8?si=jA3RCt21LCuyQV6B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-Ben-Hur
+TE RECOMENDAMOS:
 
-Jesucristos Superestrella
+Jesucristo Superestrella
 
 Jesús de Nazareth
 
