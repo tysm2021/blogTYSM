@@ -52,9 +52,11 @@ En 1966, el director Julio Bracho dirigió esta historia protagonizada por Enriq
 
 **TE RECOMENDAMOS: [¿Qué significan los días de la Semana Santa y cómo se celebran?](https://blog.tonoysumariachi.com/mexicanisimos/2024/03/21/qu%C3%A9-significan-los-d%C3%ADas-de-la-semana-santa-y-c%C3%B3mo-se-celebran.html){: target="_blank" rel="noopener"}**
 
-Jesucristo Superestrella
+### Jesucristo Superestrella
 
-Jesús de Nazareth
+Aclaramos: esta versión musical es una opera-rock realizada en 1973 y no está sustentada en las Escrituras, pues se centra en el conflicto entre Jesús y su discípulo favorito, Judás, quien está descontento con la dirección que ha tomado "el movimiento". La acción se desarrolla como una obra teatral montada en unas ruinas del desierto de Israel, representando una ciudad de Jerusalén habitada por hippies y controlada por soldados romanos. Plantea una óptica distinta, inteligente, y tiene excelentes canciones y coreografías, aunque puede no ser del gusto de las personas más conservadoras.&nbsp;
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/URWa0rbB1Kw?si=N-sk0G7i72n3VLk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### La última tentación de Cristo
 
