@@ -64,4 +64,8 @@ Esta película de 1988, en su tiempo, fue de lo más polémica: algunos cines do
 
 ![](/uploads/last-temptation.jpeg){: width="960" height="448"}
 
-La pasión de Cristo
+### La pasión de Cristo
+
+Por último, en 2004 el actor Mel Gibson dejó su lugar frente a las cámaras y ocupó la silla del director en esta versión de la historia narrada por los Evangelios, desde la oración en el huerto de los olivos hasta la muerte y resurrección de Jesús, pasando por los episodios de la flagelación y la crucifixión, que nunca en la historia habían sido filmados con tanto realismo, crueldad… ni con tanta sangre. Además, la cinta está hablada en los idiomas originales de aquel tiempo, el latín y el arameo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JLA3fN9Irc0?si=fcN20Y1-Ich8_HIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
