@@ -36,6 +36,8 @@ Para celebrar la llegada de esta auténtica fiesta de las **flores**, aquí te h
 
 d
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jacaranda_en_la_colonia_Real_del_Monte%2C_Puebla_02.jpg/640px-Jacaranda_en_la_colonia_Real_del_Monte%2C_Puebla_02.jpg)
+
 ### Bugambilia
 
 Las **bugambilias**, conocidas en México también como *azaleas de guía* o *camelinas*, son plantas ornamentales muy gustadas en nuestro país por sus colores llamativos y brillantes, de tonos morados y rosa mexicano. Son nativas de Sudamérica y Centroamérica, en particular de Brasil y Bolivia. Algunos sitios mexicanos famosos por la abundancia de **bugambilias** son Morelia, Querétaro, Cuernavaca, así como Coyoacán y San Ángel en la Ciudad de México. Además de su extendido uso ornamental, en México las **bugambilias** llaman la atención también por sus propiedades medicinales.
@@ -46,12 +48,18 @@ Las **bugambilias**, conocidas en México también como *azaleas de guía* o *ca
 
 d
 
+![](https://upload.wikimedia.org/wikipedia/commons/c/c4/Templo_de_Santo_Domingo_de_Guzm%C3%A1n%2C_Oaxaca_de_ju%C3%A1rez.png)
+
 **TE RECOMENDAMOS: [Tres cosas que no sabías del infaltable chile piquín.](https://blog.tonoysumariachi.com/gastronomia/2024/03/06/tres-cosas-que-no-sab%C3%ADas-del-infaltable-chile-piqu%C3%ADn.html){: target="_blank" rel="noopener"}**
 
 ### Colorín
 
 d
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Erythrina_americana_%28_Hern%C3%A1n_Garc%C3%ADa_Crespo%29_001.jpg/640px-Erythrina_americana_%28_Hern%C3%A1n_Garc%C3%ADa_Crespo%29_001.jpg)
+
 ### Huizache
 
 d
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flores_de_huizache_%2824_de_Febrero_de_2021%29.jpg/576px-Flores_de_huizache_%2824_de_Febrero_de_2021%29.jpg)
