@@ -37,17 +37,19 @@ Sus padres fueron José María **Carrillo** Jiménez y Candelaria Morales de **C
 
 Álvaro realizó sus estudios profesionales de Ingeniero Agrónomo en la Escuela Nacional de Agricultura de Chapingo, en el Estado de México, pero su vocación musical se impuso y decidió dedicarse de lleno a esta actividad. Su primer gran éxito fue&nbsp;*Amor mío*&nbsp;(1957) cantada por **Lucho Gatica**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f6B29UxQg0w?si=67VTOgvtA5r573jP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f6B29UxQg0w?si=67VTOgvtA5r573jP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-además de ser considerado uno de los personajes más entrañables entre la población, que a 50 años de su deceso ocurrido a causa de un accidente automovilístico el 3 de abril de 1969, lo recuerda con orgullo.
+Estuvo casado con **Ana María Incháustegui** y tuvieron cuatro hijos: Pedro Álvaro, Mario, Ena Marisa y Gina. Entre sus principales obras destacan piezas tan famosas como "La mentira ("Se te olvida"), "Sabor a mí", "El andariego", "Un poco más", "Luz de Luna", "Cancionero", "La señal", "Te doy dos horas" y muchas más, interpretadas por voces tan reconocidas como las del trío Los Panchos, Los Tres Ases, Lucho Gatica, Armando Manzanero, Javier Solís, Frank Sinatra, Plácido Domingo, Marco Antonio Muñiz, José José, Luis Miguel y hasta Café Tacuba.&nbsp;
 
-Entre sus principales obras destacan&nbsp;*La mentira*&nbsp;(*Se te olvida*),&nbsp;*Sabor a mí*,&nbsp;*El andariego*,&nbsp;*Un poco más*,&nbsp;*Luz de Luna*,&nbsp;*Sabrá Dios*,&nbsp;*Amor mío*,&nbsp;*Seguiré mi viaje*,&nbsp;*Cancionero*,&nbsp;*Como un lunar*,&nbsp;*La señal*,&nbsp;*Orgullo*,&nbsp;*Pinotepa*,&nbsp;*Te doy dos horas*,&nbsp;*El amuleto*&nbsp;y muchas más, interpretadas por voces tan reconocidas como Frank Sinatra, Duke Ellington, Plácido Domingo, Marco A. Muñiz, Armando Manzanero, Luis Miguel, Vicente Fernández, Alejandro Fernández, Pepe Jara, Gloria Estefan, Rocío Dúrcal, Café Tacuba, Tania Libertad, José José, Javier Solís, Julio Iglesias, Ana Belén, Yuri, Los Panchos, Los Tres Ases, entre otros.&nbsp;
+Algunas de sus composiciones, como "**Sabor a mí**", han sido traducidas a diversas lenguas. Cuenta la historia que la inspiración y el título de este éxito le vinieron cuando, mientras cenaba con la que sería su esposa y, ya algo "entonado" por los vasos de coñac o whisky que estaba tomando, ella le recriminó que con tantos besos ya la estaba emborrachando, a lo que el compositor replicó: "Ahora llevarás *sabor a mí*".
 
-Algunas de sus composiciones, como&nbsp;*Sabor a mí*, han sido traducidas a diversos idiomas, pero aún quedan muchas inéditas, que son testimonio de la enorme capacidad artística y el talento musical de Carrillo.
+Los restos de Álvaro Carrillo reposan en la sección de compositores del Panteón Jardín de la Ciudad de México.además de ser considerado uno de los personajes más entrañables entre la población, que a 50 años de su deceso ocurrido a causa de un accidente automovilístico el 3 de abril de 1969, lo recuerda con orgullo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GbBJxLfbaKU?si=MNl33t_VcMFycp1S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
-Contrajo nupcias con Ana María Incháustegui y tuvieron cuatro hijos: Pedro Álvaro, Mario, Ena Marisa y Gina. Los restos de Álvaro Carrillo reposan en la sección de compositores del Panteón Jardín de la Ciudad de México.
+
 
 Tanto sus hijos como los cantantes que han interpretado sus temas consideran que aún falta mucho por conocer de la vida y obra de Álvaro Carrillo, sus influencias musicales como el jazz o los géneros como la chilena o el vals peruano que dejaron huella en sus creaciones, cuya vida inspiró la película&nbsp;*Sabor a mí*, interpretada por el recientemente fallecido cantante José José.
 
