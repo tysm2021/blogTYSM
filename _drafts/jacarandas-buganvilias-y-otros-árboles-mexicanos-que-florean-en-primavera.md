@@ -56,7 +56,7 @@ El **framboyán**, **flamboyán** o **tabachín** es un árbol originario de Mad
 
 ### Colorín
 
-d
+Este árbol, cuyas **flores** parecen "espaditas" de color rojo, es originaria de México y se distribuye en Guanajuato, Guerrero, Jalisco, Michoacán y Morelos. Son árboles que llegan a medir hasta 12 m de alto, con troncos de color gris claro o café claro. Sus flores en forma de espada pueden llegar hasta los 7 cm de largo, con pétalos rojos. Además, destacan sus frutos en forma de vaina o legumbre de color café, y sus semillas en forma de frijol, rojas con una manchita negra. Se cultiva como planta ornamental y sus flores son comestibles, pero las semillas contienen sustancias químicas que resultan venenosas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Erythrina_americana_%28_Hern%C3%A1n_Garc%C3%ADa_Crespo%29_001.jpg/640px-Erythrina_americana_%28_Hern%C3%A1n_Garc%C3%ADa_Crespo%29_001.jpg)
 
