@@ -39,12 +39,16 @@ De acuerdo con los cálculos de Instituto de Astronomía de la UNAM, el **eclips
 
 El último **eclipse solar total** que hubo en **México** sucedió hace casi treinta y tres años, el **11 de julio de 1991** y fue visible en gran parte del país durante unos siete minutos, convirtiéndose en el más largo del siglo XX. Aquí un video que rememora ese hecho histórico.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wXMGll5M7vw?si=o7Tt6Hx8b7t2VBE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wXMGll5M7vw?si=o7Tt6Hx8b7t2VBE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-Otras ciudades de México en las que el eclipse total podrá verse serán Durango, Torreón y Monclova, aunque con una duración menor. Sin embargo, la mayoría del país experimentará el eclipse parcial. Por ejemplo, durante la fase máxima del eclipse en la Ciudad de México, la Luna cubrirá el 79 % del disco solar.
+## Dónde se verá
 
-Área de totalidad
+El mejor sitio del mundo para observar el **eclipse total solar 2024**, al parecer, será el puerto de Mazatlán, Sinaloa. Otras ciudades mexicanas en las que podrá verse el eclipse total serán **Durango**, **Torreón** y **Monclova**, aunque con una duración menor. Además de la **franja de totalidad** señalada en el mapa, la mayoría del país percibirá el **eclipse parcial;**&nbsp;durante la fase máxima del eclipse en la Ciudad de México, la Luna cubrirá el 79 % del disco solar.
 
-Dónde se verá
+![](/uploads/eclipsesolar1.jpg){: width="1024" height="682"}
 
-Consejos para observarlo
+## Consejos para observarlo
+
+El Instituto de Geofísica de la UNAM recomienda sólo dos maneras de observar el **eclipse** con seguridad: directamente con **filtros solares** o viendo la imagen proyectada del Sol.
+
+Sobre los filtros, existe una gama que permite ver los **eclipses solares** de manera segura, pues tienen la propiedad de filtrar 99.999% de la luz visible y 100 % de la luz ultravioleta. Pero cuidado: son ellos puedes observar el **eclipse solar** sólo en su fase parcial.
