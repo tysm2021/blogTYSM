@@ -20,7 +20,7 @@ article_header:
     src: /uploads/eclipse-joseph-corl-tmxjna4jjo4-unsplash.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/eclipse-joseph-corl-tmxjna4jjo4-unsplash.jpg
 show_author_profile: false
 comment: false
 summary: >-
@@ -51,4 +51,8 @@ El mejor sitio del mundo para observar el **eclipse total solar 2024**, al parec
 
 El Instituto de Geofísica de la UNAM recomienda sólo dos maneras de observar el **eclipse** con seguridad: directamente con **filtros solares** o viendo la imagen proyectada del Sol.
 
-Sobre los filtros, existe una gama que permite ver los **eclipses solares** de manera segura, pues tienen la propiedad de filtrar 99.999% de la luz visible y 100 % de la luz ultravioleta. Pero cuidado: son ellos puedes observar el **eclipse solar** sólo en su fase parcial.
+Sobre los filtros, existe una gama que permite ver los **eclipses solares** de manera segura, pues tienen la propiedad de filtrar 99.999% de la luz visible y 100 % de la luz ultravioleta. Pero cuidado: son ellos puedes observar el **eclipse solar** sólo en su fase parcial. Una mejor opción son los lentes solares especiales, que son relativamente baratos y los puedes conseguir en varias tiendas en línea ¡Sólo asegúrate que tus lentes tengan certificados CE e ISO 12312-2.2015!
+
+Por otro lado, hay varias maneras para observar un eclipse solar de manera segura proyectando la imagen del Sol sobre una superficie: puedes usar una hoja de papel a la que le haces un pequeño orificio y luego colocas a contraluz, ajustando la distancia hasta que el Sol se vea en la superficie. Lo que JAMÁS debes hacer es observarlo con:&nbsp; radiografías, lentes oscuros, cristales de vidrio oscuro, vidrio ahumado, negativos fotográficos o el agua como un espejo de proyección.
+
+&nbsp;
