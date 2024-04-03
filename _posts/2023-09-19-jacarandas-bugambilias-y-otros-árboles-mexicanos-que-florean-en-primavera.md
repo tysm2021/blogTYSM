@@ -1,6 +1,6 @@
 ---
 title: Jacarandas, bugambilias y otros árboles mexicanos que florean en primavera
-date: 2023-09-19 16:00:00
+date: 2024-04-03 16:00:00
 categories:
   - MEXICANISIMOS
 tags:
