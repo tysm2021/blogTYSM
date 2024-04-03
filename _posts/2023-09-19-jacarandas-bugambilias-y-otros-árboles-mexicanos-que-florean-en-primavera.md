@@ -19,7 +19,7 @@ article_header:
     src: /uploads/emily-jones-l6wsj1ws2k8-unsplash.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/emily-jones-l6wsj1ws2k8-unsplash.jpeg
 show_author_profile: false
 comment: false
 summary: >-
@@ -62,6 +62,6 @@ Este árbol, cuyas **flores** parecen "espaditas" de color rojo, es originaria d
 
 ### Huizache
 
-d
+El **huizache** es uno de los arbustos o pequeños árboles más importantes de las regiones secas de México. Se cultiva como ornamental y por su leña. Además, es medicinal y se emplea contra la diarrea, la tifoidea, el bazo crecido, la inflamación de la garganta, heridas, dolor de cabeza y contra el empacho. Sus flores son redondas y de color amarillo brillante.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flores_de_huizache_%2824_de_Febrero_de_2021%29.jpg/576px-Flores_de_huizache_%2824_de_Febrero_de_2021%29.jpg)
