@@ -46,7 +46,9 @@ Las **bugambilias**, conocidas en México también como *azaleas de guía* o *ca
 
 ### Framboyán
 
-d
+El **framboyán**, **flamboyán** o **tabachín** es un árbol originario de Madagascar, en África, que llegó al trópico mexicano en el siglo XX. Es un **árbol** que alcanza los 8 metros de altura, su follaje es denso y muy extendido, y se le considera uno de los árboles más coloridos del mundo por sus **flores** de encendido color naranja rojizo y sus hojas de color verde brillante. Es una especie que tiene poca resistencia al frío, por lo que florece mejor en climas cálidos como en los estados de Chiapas, Tamaulipas, Morelos, Michoacán, Nayarit, Veracruz, Estado de México, Tabasco, Campeche, Yucatán, Quintana Roo y Oaxaca, como lo vemos en la foto acompañando a la Iglesia de Santo Domingo, en la capital oaxaqueña.
+
+
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c4/Templo_de_Santo_Domingo_de_Guzm%C3%A1n%2C_Oaxaca_de_ju%C3%A1rez.png)
 
