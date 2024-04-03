@@ -33,7 +33,11 @@ Conozcamos un poco la vida y la obra de **Álvaro Carrillo** quien, nació el 2 
 
 **TE RECOMENDAMOS: [Los globos de Cantolla y la historia del mexicano que los inventó.](https://blog.tonoysumariachi.com/historia/2024/04/02/los-globos-de-cantolla-y-la-historia-del-mexicano-que-los-invent%C3%B3.html){: target="_blank" rel="noopener"}**
 
-Álvaro Carrillo Alarcón es originario de un poblado de la Costa Chica, una región entre los estados de Guerrero y Oaxaca. Tenía raíces afrodescendientes que inspiraron algunas de sus composiciones, como&nbsp;*El negro de la Costa*&nbsp;o&nbsp;*Lindo Oaxaca*, en la que se asume mixteco.
+Sus padres fueron José María **Carrillo** Jiménez y Candelaria Morales de **Carrillo**, quien murió cuando **Álvaro** y sus tres hermanos eran aún unos niños, siendo adoptados por la segunda esposa de son José María: Teodora Alarcón, de quien Álvaro tomó su segundo apellido. Álvaro Carrillo es originario de un poblado de la Costa Chica, una región entre los estados de Guerrero y Oaxaca, y tenía raíces afrodescendientes.
+
+Álvaro realizó sus estudios profesionales de Ingeniero Agrónomo en la Escuela Nacional de Agricultura de Chapingo, en el Estado de México, pero su vocación musical se impuso y decidió dedicarse de lleno a esta actividad. Su primer gran éxito fue&nbsp;*Amor mío*&nbsp;(1957) cantada por **Lucho Gatica**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f6B29UxQg0w?si=67VTOgvtA5r573jP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 además de ser considerado uno de los personajes más entrañables entre la población, que a 50 años de su deceso ocurrido a causa de un accidente automovilístico el 3 de abril de 1969, lo recuerda con orgullo.
 
@@ -41,7 +45,7 @@ Entre sus principales obras destacan&nbsp;*La mentira*&nbsp;(*Se te olvida*),&nb
 
 Algunas de sus composiciones, como&nbsp;*Sabor a mí*, han sido traducidas a diversos idiomas, pero aún quedan muchas inéditas, que son testimonio de la enorme capacidad artística y el talento musical de Carrillo.
 
-Realizó sus estudios profesionales de Ingeniero Agrónomo (especialidad de Irrigación) en la Escuela Nacional de Agricultura (ENA) de Chapingo, Estado de México, pero se impuso su vocación musical y decidió dedicarse por completo a esta actividad. Su primer gran éxito fue&nbsp;*Amor mío*&nbsp;(1957) cantada por Lucho Gatica.
+
 
 Contrajo nupcias con Ana María Incháustegui y tuvieron cuatro hijos: Pedro Álvaro, Mario, Ena Marisa y Gina. Los restos de Álvaro Carrillo reposan en la sección de compositores del Panteón Jardín de la Ciudad de México.
 
@@ -51,4 +55,4 @@ Este año, con motivo del nacimiento del gran compositor mexicano, Las hermanas 
 
 El programa&nbsp;*Luz de Luna Las Hermanas García cantan a Álvaro Carrillo en su Centenario*, incluyó boleros y chilenas a las que las jóvenes cantantes otorgaron nuevos matices, incluidos títulos como&nbsp;*Amor mío*, la pieza poco conocida,&nbsp;*Matemáticamente*, y sus últimas composiciones, como&nbsp;*Que sea para mí*, que es el tema del actual sencillo de este dueto.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YH_jng60ewU?si=WmSoeIPoywGtfxKe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YH_jng60ewU?si=WmSoeIPoywGtfxKe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
