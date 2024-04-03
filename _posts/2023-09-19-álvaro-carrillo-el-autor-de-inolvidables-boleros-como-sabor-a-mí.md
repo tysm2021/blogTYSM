@@ -19,7 +19,7 @@ article_header:
     src: /uploads/alvarocarrillo1.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/alvarocarrillo1.jpg
 show_author_profile: false
 comment: false
 summary: >-
@@ -39,22 +39,14 @@ Sus padres fueron José María **Carrillo** Jiménez y Candelaria Morales de **C
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f6B29UxQg0w?si=67VTOgvtA5r573jP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-Estuvo casado con **Ana María Incháustegui** y tuvieron cuatro hijos: Pedro Álvaro, Mario, Ena Marisa y Gina. Entre sus principales obras destacan piezas tan famosas como "La mentira ("Se te olvida"), "Sabor a mí", "El andariego", "Un poco más", "Luz de Luna", "Cancionero", "La señal", "Te doy dos horas" y muchas más, interpretadas por voces tan reconocidas como las del trío Los Panchos, Los Tres Ases, Lucho Gatica, Armando Manzanero, Javier Solís, Frank Sinatra, Plácido Domingo, Marco Antonio Muñiz, José José, Luis Miguel y hasta Café Tacuba.&nbsp;
+Estuvo casado con **Ana María Incháustegui** y tuvieron cuatro hijos: Pedro Álvaro, Mario, Ena Marisa y Gina. Entre sus principales obras destacan piezas tan famosas como "La mentira ("**Se te olvida**"), "**Sabor a mí**", "**El andariego**", "**Un poco más**", "**Luz de Luna**", "**Cancionero**", "La señal", "Te doy dos horas" y muchas más, interpretadas por voces tan reconocidas como las del trío **Los Panchos**, **Los Tres Ases**, Lucho Gatica, Armando Manzanero, Javier Solís, Frank Sinatra, Plácido Domingo, Marco Antonio Muñiz, José José, **Luis Miguel** y hasta Café Tacuba.&nbsp;
 
 Algunas de sus composiciones, como "**Sabor a mí**", han sido traducidas a diversas lenguas. Cuenta la historia que la inspiración y el título de este éxito le vinieron cuando, mientras cenaba con la que sería su esposa y, ya algo "entonado" por los vasos de coñac o whisky que estaba tomando, ella le recriminó que con tantos besos ya la estaba emborrachando, a lo que el compositor replicó: "Ahora llevarás *sabor a mí*".
 
-Los restos de Álvaro Carrillo reposan en la sección de compositores del Panteón Jardín de la Ciudad de México.además de ser considerado uno de los personajes más entrañables entre la población, que a 50 años de su deceso ocurrido a causa de un accidente automovilístico el 3 de abril de 1969, lo recuerda con orgullo.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GbBJxLfbaKU?si=MNl33t_VcMFycp1S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GbBJxLfbaKU?si=MNl33t_VcMFycp1S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Álvaro Carrillo** falleció alrededor de las 19:00 horas del 3 de abril de 1969 en un accidente automovilístico, cuando regresaba de la toma de posesión del gobernador de Guerrero y su auto chocó contra otro que se salió de su carril y lo embistió de frente, muriendo el chofer, la esposa del cantante y el propio **Carrillo** en el percance. Sus restos reposan en la sección de compositores del Panteón Jardín de la Ciudad de México
 
-
-
-
-
-Tanto sus hijos como los cantantes que han interpretado sus temas consideran que aún falta mucho por conocer de la vida y obra de Álvaro Carrillo, sus influencias musicales como el jazz o los géneros como la chilena o el vals peruano que dejaron huella en sus creaciones, cuya vida inspiró la película&nbsp;*Sabor a mí*, interpretada por el recientemente fallecido cantante José José.
-
-Este año, con motivo del nacimiento del gran compositor mexicano, Las hermanas García, ofrecieron un concierto homenaje, el pasado 3 de abril en la Sala Manuel M. Ponce, en el que interpretaron desde las canciones más conocidas hasta piezas que solo se escuchan en la Costa Chica de Ometepec, Guerrero, la tierra que Álvaro Carrillo decía era su pueblo de crianza.
-
-El programa&nbsp;*Luz de Luna Las Hermanas García cantan a Álvaro Carrillo en su Centenario*, incluyó boleros y chilenas a las que las jóvenes cantantes otorgaron nuevos matices, incluidos títulos como&nbsp;*Amor mío*, la pieza poco conocida,&nbsp;*Matemáticamente*, y sus últimas composiciones, como&nbsp;*Que sea para mí*, que es el tema del actual sencillo de este dueto.
+Tanto sus hijos como los cantantes que han interpretado sus temas consideran que aún falta mucho por conocer de la obra y de la vida de **Álvaro Carrillo**, que inspiró la película&nbsp;*Sabor a mí*, en la que el oaxaqueño es interpretado por el recientemente fallecido cantante José José.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YH_jng60ewU?si=WmSoeIPoywGtfxKe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
