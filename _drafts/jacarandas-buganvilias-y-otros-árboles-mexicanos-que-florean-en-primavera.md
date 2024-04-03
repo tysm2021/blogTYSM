@@ -34,7 +34,7 @@ Para celebrar la llegada de esta auténtica fiesta de las **flores**, aquí te h
 
 ### Jacaranda
 
-d
+Con su característico color lila, las&nbsp;**jacarandas**&nbsp;son originaria de Brasil y llegaron a México a finales del siglo XIX. aunque no existen registros precisos de su introducción, la versión que circula con más fuerza involucra a los jardineros japoneses **Matsumoto**. **Tatsugoro**, el padre, había llegado a México a principios del siglo XX para convertirse en el jardinero predilecto del presidente Porfirio Díaz; su hijo, **Sanshiro**, lo alcanzó siendo apenas un muchacho y, habiéndolo encontrado, juntos montaron un negocio de decoración de jardines; años después, entre 1920 y 1924, fueron ellos quienes le propusieron al presidente Álvaro Obregón sembrar **jacarandas** en las calles de la Ciudad de México y así este árbol de alegres flores lilas que se agitan "jacarandosamente" se convirtió en el favorito de los mexicanos.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jacaranda_en_la_colonia_Real_del_Monte%2C_Puebla_02.jpg/640px-Jacaranda_en_la_colonia_Real_del_Monte%2C_Puebla_02.jpg)
 
