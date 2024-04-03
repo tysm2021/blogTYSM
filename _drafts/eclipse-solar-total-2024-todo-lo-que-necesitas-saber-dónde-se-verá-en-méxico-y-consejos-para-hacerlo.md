@@ -27,3 +27,8 @@ summary: >-
   Este 8 de abril de 2024 tendrá lugar un eclipse de sol que será visible en
   partes de América del Norte y será total en algunas ciudades de México.
 ---
+El próximo 8 de abril de 2024 ocurrirá un eclipse solar total que será visible en los tres países de América del Norte: México, Estados Unidos de Norteamérica y Canadá; sin embargo, nuestro país tendrá las mejores condiciones climáticas para su observación y la duración de la fase total del eclipse será mayor en México. Por ello, la comunidad científica en México considera a este evento como el Gran Eclipse Mexicano.
+
+A continuación te explicaremos todo lo que necesitas saber sobre el eclipse solar total 2024: horarios de inicio y del fin del eclipse, dónde se vera, cómo se puede observar mejor y consejos de seguridad para cuidar de tu vista.
+
+TE RECOMENDAMOS.
