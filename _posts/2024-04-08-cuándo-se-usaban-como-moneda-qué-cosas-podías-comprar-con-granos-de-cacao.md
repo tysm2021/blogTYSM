@@ -30,7 +30,7 @@ Durante el apogeo de **civilizaciones** **mesoamericanas** como los **mexicas**,
 
 A continuación, revisaremos brevemente la historia del **grano de cacao** como unidad de intercambio en un sistema comercial basado en el **trueque** y daremos algunas **equivalencias**, para saber "para qué te alcanzaba" con esta deliciosa y codiciada **moneda**.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS: [Chocolate y cacao, de México para el mundo.](https://blog.tonoysumariachi.com/mundo/2022/06/29/chocolate-y-cacao-de-mexico-para-el-mundo.html){: target="_blank" rel="noopener"}**
 
 Según el Gobierno de México, los primeros vestigios de la semilla del **cacao** en nuestro país datan del año 1900 y 1800 a.C, y fueron encontrados en Chiapas y Veracruz, respectivamente. Como el cultivo de **cacao** se da en la sombra y el fruto es similar a un corazón, los pueblos mesoamericanos lo asociaron con la oscuridad, el inframundo y la sangre.
 
