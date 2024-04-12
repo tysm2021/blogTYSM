@@ -38,7 +38,9 @@ También hay evidencias de **raspados** en el siglo V a.C., en la antigua Grecia
 
 Tras la Independencia y con el paso del tiempo, los **raspados** se volvieron un producto tradicional y obligado para las épocas de calor en las diferentes regiones de México. Actualmente, un sinfín de comerciantes adquieren los bloques de **hielo** por las mañanas y elaboran sus propios jarabes; así, armados con su cepillo metálico — la herramienta con la que raspan el hielo—, producen estos sabrosos postres que deleitan a chicos y grandes.
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sno_cone.jpg/1024px-Sno_cone.jpg){: width="1024" height="768"}
+
+m
 
 &nbsp;
 
