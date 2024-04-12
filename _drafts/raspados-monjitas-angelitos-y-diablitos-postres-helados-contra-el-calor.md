@@ -30,4 +30,20 @@ Conozcamos un poco la historia de los raspados mexicanos, las recetas de su elab
 
 **TE RECOMENDAMOS:** [**Sarape de Saltillo: prenda, textil, tradición y color de México.**](https://blog.tonoysumariachi.com/mexicanisimos/2024/04/10/sarape-de-saltillo-prenda-textil-tradici%C3%B3n-y-color-de-m%C3%A9xico.html)
 
-B
+Primero, ¿qué es un **raspado**? En palabras simples, es un postres hecho con **hielo** molido, que se coloca dentro de un vaso y, para darle sabor, se le agrega **jarabe** de sabores frutales como fresa, tamarindo, grosella, mango, limón u otros, y también se le añaden otros ingredientes como vainilla, leche condensada, rompope o chamoy, por mencionar algunos.
+
+En México, los **raspados** como tales existen a partir de la Conquista, aunque las nieves o sobretes ya eran famosas desde la época prehispánica y hay leyendas que hablan de que Moctezuma y otros tlatoanis los disfrutaban, hechos con frutos y las nieves de los volcanes. Históricamente, hay registros de **raspados** desde el año 1800 a.C., en la antigua Mesopotamia, una civilización muy antigua que floreció en el actual territorio de Irak.
+
+También hay evidencias de **raspados** en el siglo V a.C., en la antigua Grecia, donde se tenía la costumbre de consumir hielo picado mezclado con algún jugo de fruta o simplemente endulzado con miel de abeja —el conquistador Alejandro Magno era muy asiduo a ellos—. Pero no fue hasta el siglo VIII, que los árabes introdujeron la costumbre de consumir el **hielo** con jugos de fruta y aromas, para combatir el agobiante calor del desierto.
+
+Tras la Independencia y con el paso del tiempo, los **raspados** se volvieron un producto tradicional y obligado para las épocas de calor en las diferentes regiones de México. Actualmente, un sinfín de comerciantes adquieren los bloques de **hielo** por las mañanas y elaboran sus propios jarabes; así, armados con su cepillo metálico — la herramienta con la que raspan el hielo—, producen estos sabrosos postres que deleitan a chicos y grandes.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
