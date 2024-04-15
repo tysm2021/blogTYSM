@@ -36,9 +36,13 @@ A continuación, te compartimos las que a nuestros juicio son las **cintas** —
 
 Si bien **Pedro** ya tenía una carrera respetable y había ganado fama con cintas como *Los tres García*, fue con esta película de 1948 —dirigida por Ismael Rodríguez— y con el inolvidable papel de Pepe 'El Toro' que alcanzó la estatura de ídolo del pueblo. En ella, encarna a un humilde carpintero de buen corazón que ama profundamente a su esposa, 'La Chorreada', a su hija Chachita y a su pequeño, 'El Torito', pero sufre todas las calamidades que uno se pueda imaginar, las cuales continuarán en las dos secuelas de la trilogía *Ustedes los ricos* y *Pepe el Toro*.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EdqLGTZd3NA?si=CA9udIeMyPDCJ_cD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Un rincón cerca del cielo
 
 En ninguna otra cinta como en esta le va tan, pero tan mal a Pedro, pues le pasa de todo: al principio encuentra una buena mujer que lo ama y que lo hace padre, pero la mala suerte parece querer ensañarse con él: además de estar sumido en la más tremenda pobreza, no hay empleo que no pierda, sufre acusaciones injustas por las que termina en la cárcel, después para ganarse la vida tiene que actuar como cómico callejero y humillándose imitando a un perro. Es entonces cuando se reencuentra con su mujer y su hijo, pero éste está enfermo y él tiene que robar para pagar sus medicinas, pero es detenido y por ello su hijo muere. Destrozado, intenta suicidarse tirándose a las vías del tren pero falla en su intento y queda cojo. Todo un drama.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qhwfXEZYJYY?si=lLLj1eTupm5XihC9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Escuela de vagabundos
 
