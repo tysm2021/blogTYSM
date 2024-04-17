@@ -37,8 +37,12 @@ Ubicado en pleno **desierto de Sonora**, esta localidad tiene el dudoso honor de
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Desierto_de_San_Luis_Rio_Colorado.jpg/800px-Desierto_de_San_Luis_Rio_Colorado.jpg){: width="800" height="480"}
 
-Mexicali
+## Mexicali
+
+No es de extrañar que la zona fronteriza con Estados Unidos presente las temperaturas más altas del país, pues se trata de una franja desértica donde alrededor del planeta impera el calor extremo. Así, en esta ciudad de **Baja California** el 28 de julio de 1995 el termómetro se elevó hasta los **52 ºC**, medio grado por debajo del **récord nacional**.
+
+Huetamo de Núñez
 
 &nbsp;
 
-Huetamo de Núñez
+&nbsp;
