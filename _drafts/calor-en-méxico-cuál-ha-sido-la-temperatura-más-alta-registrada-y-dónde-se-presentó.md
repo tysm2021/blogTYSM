@@ -43,7 +43,13 @@ No es de extrañar que la zona fronteriza con Estados Unidos presente las temper
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cerro_El_centinela%2C_Mexicali_B.C..jpg/1024px-Cerro_El_centinela%2C_Mexicali_B.C..jpg){: width="1024" height="768"}
 
-Huetamo de Núñez
+### Huetamo de Núñez
+
+Por último, viajamos del ardiente norte del país hasta la zona conocida como "**Tierra Caliente**" que comprende partes del Estado de México, Guerrero y Michoacán. En esta parte, el clima es seco y muy **cálido**, con temperaturas mínimas de 34 °C debidas a la llamada Depresión del Río Balsas, un enclave geográfico de baja altitud que favorece las altas temperaturas. En este municipio del estado de **Michoacán** el termómetro se alzó hasta los **51\.2 ºC**, la más alta fuera del norte de México.
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/b6/Vista_a_Tierra_Caliente.jpg){: width="720" height="540"}
+
+Además de los sitios mencionados, también destacan como los **más cálidos de México**: Navojoa, Son.; Ciudad Juárez, Chih.; Tepalcatepec, Mich.; Huejutla de Reyes, Hgo. y Ciudad Valles, S.L.P., donde el termómetro ha rebasado la marca de los 50 grados centígrados.
 
 &nbsp;
 
