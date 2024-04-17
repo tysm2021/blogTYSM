@@ -31,4 +31,14 @@ A continuación te mencionamos los tres **lugares donde ha hecho más calor en M
 
 **TE RECOMENDAMOS:** [**TOP 5: los lugares más fríos de México para visitar en invierno.**](https://blog.tonoysumariachi.com/turismo/2023/12/05/top-5-los-lugares-m%C3%A1s-fr%C3%ADos-de-m%C3%A9xico-para-visitar-en-invierno.html)
 
-s
+## San Luis Río Colorado
+
+Ubicado en pleno **desierto de Sonora**, esta localidad tiene el dudoso honor de ser el **lugar** en **México** donde se ha presentado la **temperatura más alta de la historia**: según los registros de la Comisión Nacional del Agua (CONAGUA), el 6 de julio de 1966 el termómetro marcó **52\.5 ºC** en el momento de más calor del día. En esta desértica región, de clima seco extremoso, durante el verano es común que se rebasen los 40 grados centígrados, incluso a la sombra.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Desierto_de_San_Luis_Rio_Colorado.jpg/800px-Desierto_de_San_Luis_Rio_Colorado.jpg){: width="800" height="480"}
+
+Mexicali
+
+&nbsp;
+
+Huetamo de Núñez
