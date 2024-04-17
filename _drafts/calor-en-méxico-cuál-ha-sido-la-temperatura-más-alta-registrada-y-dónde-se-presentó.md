@@ -39,7 +39,9 @@ Ubicado en pleno **desierto de Sonora**, esta localidad tiene el dudoso honor de
 
 ## Mexicali
 
-No es de extrañar que la zona fronteriza con Estados Unidos presente las temperaturas más altas del país, pues se trata de una franja desértica donde alrededor del planeta impera el calor extremo. Así, en esta ciudad de **Baja California** el 28 de julio de 1995 el termómetro se elevó hasta los **52 ºC**, medio grado por debajo del **récord nacional**.
+No es de extrañar que la zona fronteriza con Estados Unidos presente las temperaturas más altas del país, pues se trata de una franja desértica donde alrededor del planeta impera el calor extremo. Así, en esta ciudad de **Baja California** el 28 de julio de 1995 el termómetro se elevó hasta los **52 ºC**, medio grado por debajo del **récord nacional**. A pesar de este calor asfixiante, los habitantes de esta urbe aledaña al desierto se han adaptado a las condiciones climatológicas y realizan sus actividades a horas en las que el sol no "pega tan fuerte".
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cerro_El_centinela%2C_Mexicali_B.C..jpg/1024px-Cerro_El_centinela%2C_Mexicali_B.C..jpg){: width="1024" height="768"}
 
 Huetamo de Núñez
 
