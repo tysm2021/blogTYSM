@@ -1,7 +1,5 @@
 ---
-title: >-
-  Calor en México: ¿cuál ha sido la temperatura más alta registrada y dónde se
-  presentó?
+title: 'Calor en México: ¿Cuál ha sido la temperatura más alta y dónde se presentó?'
 date: 2024-04-17 12:00:00
 categories:
   - HISTORIA
