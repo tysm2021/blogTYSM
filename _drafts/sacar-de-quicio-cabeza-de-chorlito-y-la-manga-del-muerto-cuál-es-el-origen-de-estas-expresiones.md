@@ -36,9 +36,11 @@ A continuación te explicamos brevemente el origen de estas tres **frases** hech
 
 **TE RECOMENDAMOS:** [**¿Cuál es el verdadero origen de la palabra 'chido'?**](https://blog.tonoysumariachi.com/mexicanisimos/2024/01/31/cu%C3%A1l-es-el-verdadero-origen-de-la-palabra-chido.html)
 
-Sacar de quicio
+## Sacar de quicio
 
-&nbsp;
+Todos conocemos a alguien que nos exaspera, nos harta y nos hace perder la paciencia o nos hace perder el tino, como se dice en España; en otras palabras, que nos "**saca de quicio**". Pero, ¿cuál es el **significado** real de esta expresión? De entrada, debemos decir que el **quicio** es la parte de la puerta o de la ventana en que se asegura la hoja, donde están los goznes o bisagras. Esto quiere decir que el **quicio** posibilita la unión con la bisagra y, si se sale, todo el engranaje se desmorona. De ahí que si alguien o algo "te **saca de quicio**", quiere decir que te saca de control.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Anger_Controlls_Him.jpg/1024px-Anger_Controlls_Him.jpg){: width="1024" height="683"}
 
 Cabeza de chorlito
 
