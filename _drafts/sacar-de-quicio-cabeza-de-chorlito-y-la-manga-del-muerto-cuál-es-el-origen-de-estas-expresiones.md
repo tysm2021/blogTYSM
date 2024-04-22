@@ -42,9 +42,13 @@ Todos conocemos a alguien que nos exaspera, nos harta y nos hace perder la pacie
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Anger_Controlls_Him.jpg/1024px-Anger_Controlls_Him.jpg){: width="1024" height="683"}
 
-Cabeza de chorlito
+## Cabeza de chorlito
 
-&nbsp;
+Esta expresión era muy común en las tiras cómicas y en las caricaturas de antaño, y se usaba para insultar a algún personaje asegurando que era torpe, tonto o hasta un poco estúpido. Pero, ¿qué es un **chorlito**? Quizá te asombres al saber que se trata de un **pájaro**, un ave de unos 25 centímetros de largo, con patas largas, cuello grueso y un pico corto y robusto; el diseño del plumaje varía con las especies, aunque en él predominan los dorsos pardos o grises, vive en las costas y fabrica su nido en el suelo.
+
+Se dice que esta ave no es muy **inteligente** que digamos, pues los cazadores afirman que cuando le disparan a una y ésta cae abatida, las demás se acercan a ver qué le pasó y así son atrapadas. Por eso a una persona que "no distingue la O por lo redondo" se le dice que tiene **cabeza de chorlito**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/6d/Pluvialis_dominica1.jpg){: width="1050" height="712"}
 
 La manga del muerto
 
