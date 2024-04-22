@@ -50,8 +50,8 @@ Se dice que esta ave no es muy **inteligente** que digamos, pues los cazadores a
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6d/Pluvialis_dominica1.jpg){: width="1050" height="712"}
 
-La manga del muerto
+## La manga del muerto
 
-&nbsp;
+Aunque en el **habla** popular mexicana esta expresión a menudo se acorta para quedar simplemente en "¡La maaaanga!", la versión completa tiene su **origen** del otro lado del océano, en el Siglo de Oro español. Según algunas fuentes, esta frase —que se usa para expresar incredulidad ante justificaciones o explicaciones que resultan demasiado enredosas para ser ciertas— viene de la época de las comedias renacentistas de Cervantes, a finales de siglo XVI; en una de ellas, un actor tenía que meterse a un ataúd y hacerla de muerto, pero tuvo un ataque de comezón y empezó a rascarse. Al ver esto, la gente empezó a señalar "¡La **manga del muerto**, la **manga del muerto**!" y la expresión se quedó como un sinónimo de algo que está fuera de lugar y no viene al caso… como un muerto que se rasca.
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sarah_Bernhardt%27s_coffin_1873.jpg/1024px-Sarah_Bernhardt%27s_coffin_1873.jpg){: width="1024" height="765"}
