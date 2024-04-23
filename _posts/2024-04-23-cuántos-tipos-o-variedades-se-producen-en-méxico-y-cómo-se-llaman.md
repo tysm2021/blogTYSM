@@ -18,7 +18,7 @@ article_header:
     src: /uploads/ioana-cristiana-0ww38q7lgza-unsplash.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/ioana-cristiana-0ww38q7lgza-unsplash.jpeg
 show_author_profile: false
 comment: false
 summary: >-
