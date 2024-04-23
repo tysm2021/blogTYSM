@@ -32,4 +32,42 @@ A continuación te decimos qué **variedades** principales se **consumen** en **
 
 **TE RECOMENDAMOS:** [**Día Nacional de la Gastronomía Mexicana: nuestros mejores platillos.**](https://blog.tonoysumariachi.com/gastronomia/2023/11/15/d%C3%ADa-nacional-de-la-gastronom%C3%ADa-mexicana-nuestros-mejores-platillos.html)
 
-&nbsp;
+El **plátano** fue una de las primeras plantas domesticadas por el hombre, pues se cultiva desde el Neolítico, hace unos 10 mil años. Esta especie de **fruta** es originaria del sudeste asiático, y al paso del tiempo su cultivo se fue expandiendo poco a poco hasta que, con el descubrimiento de América y la posterior colonización española, este fruto llegó a tierras **mexicanas**.
+
+En **México** hubo variaciones locales y aunque existen más de 500 variedades de plátanos, son ocho las variedades principales que se cultivan en México:
+
+* Dominico
+* Valery
+* Pera
+* Tabasco
+* Morado
+* Manzano
+* Cavendish Gigante o Grand Naine
+* Macho
+
+### Plátano Tabasco
+
+Es la especie más consumida en México y recibe el nombre del estado donde se produce. Otro nombre que recibe es **plátano** Roatán y se trata de un **banano** de unos 15 cm de longitud, de piel amarilla y sin manchas cuando madura, con un sabor suave. Históricamente, su cultivo se popularizó debido a que era más resistente a los hongos y parásitos que otras variedades.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pl%C3%A1tano_Tabasco.jpg/1024px-Pl%C3%A1tano_Tabasco.jpg){: width="1024" height="768"}
+
+### Plátano Dominico
+
+También se le llama **plátano** enano, pues es la variedad más pequeña que existe. Sus frutos miden aproximadamente unos 10 cm y se dan en racimos muy tupidos. El sabor es mucho más dulce y acaramelado que el de otras especies; esta característica, además de su tamaño, lo convierte en el favorito de los niños.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ripe_latundan_bananas.jpg/1024px-Ripe_latundan_bananas.jpg){: width="1024" height="680"}
+
+### Plátano Macho
+
+Esta variedad, conocida también como “el **plátano** para cocinar” pues por su sabor fuerte y ligeramente amargo no es apto para su consumo estando crudo, es la base de la alimentación de muchos países. Se distingue porque el fruto es largo, midiendo de 25 a 40cm; la cáscara verde es muy gruesa y la pulpa tiene una consistencia firme y no tan dulce como la del **plátano** Tabasco. Durante la maduración, la cáscara cambia color, de verde a amarillo y más tarde se torna negro. Resulta ideal para freír, pues sus azúcares se caramelizan y, a diferencia de otras variedad, no se desbarata con el calor.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pl%C3%A1tano_macho_asado_y_con_crema_miel_y_tmb_reques%C3%B3n.jpg/1024px-Pl%C3%A1tano_macho_asado_y_con_crema_miel_y_tmb_reques%C3%B3n.jpg){: width="1024" height="576"}
+
+Plátano Rojo
+
+**Producción de plátano en México**
+
+* Las distintas variedades de **plátano** se cultivan en 16 estados del país, siendo los principales: Chiapas, Tabasco, Veracruz, Colima y Michoacán.
+* En 2021, la producción de **plátano** en **México** rebasó los 2 millones de toneladas y se estima que la superficie cosechada es de más 79 mil hectáreas.
+
+  &nbsp;
