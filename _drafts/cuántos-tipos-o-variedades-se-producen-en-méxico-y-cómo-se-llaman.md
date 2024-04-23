@@ -63,7 +63,11 @@ Esta variedad, conocida también como “el **plátano** para cocinar” pues po
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pl%C3%A1tano_macho_asado_y_con_crema_miel_y_tmb_reques%C3%B3n.jpg/1024px-Pl%C3%A1tano_macho_asado_y_con_crema_miel_y_tmb_reques%C3%B3n.jpg){: width="1024" height="576"}
 
-Plátano Rojo
+### Plátano morado
+
+También se le conoce como plátano rojo y es el secreto de muchos chefs para dar un sabor "tropical" a sus postres y recetas. Esta variedad destaca por su color y un sabor dulce, con un ligero toque de frambuesa. Se cree que es originario de Ecuador, su tamaño es más pequeño y más grueso que el plátano Tabasco, con el que comparte la mayoría de sus propiedades. El plátano morado también es una fruta muy nutritiva, pues aporta calorías "buenas", contiene pocas grasas y es muy rico en azúcares y en diferentes minerales, como el potasio.
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Musa_acuminata_%28AAA_Group%29_%27Red_Dacca%27_-_red_banana.jpg){: width="1047" height="580"}
 
 **Producción de plátano en México**
 
