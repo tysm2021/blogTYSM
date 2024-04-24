@@ -27,3 +27,22 @@ summary: >-
   reflejado en la construcción de catedrales, basílicas e iglesias de gran
   tamaño. Estas son las más altas.
 ---
+Santuario Diocesano de Nuestra Señora de Guadalupe
+
+&nbsp;
+
+Catedral de Santiago de Saltillo
+
+&nbsp;
+
+Catedral del Señor de Tabasco
+
+&nbsp;
+
+Catedral Basílica de Nuestra Señora de la Inmaculada Concepción
+
+&nbsp;
+
+Catedral Basílica de Nuestra Señora de San Juan de los Lagos
+
+&nbsp;
