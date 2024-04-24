@@ -51,9 +51,11 @@ El 16 de abril de 1884, el obispo de Tabasco colocó la primera piedra de la nue
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Catedral_de_Villahermosa.jpg/768px-Catedral_de_Villahermosa.jpg){: width="768" height="1024"}
 
-\#2. Catedral de Santiago de Saltillo
+## \#2. Catedral de Santiago de Saltillo
 
-&nbsp;
+Esta se encuentra en la capital del estado de **Coahuila**, en el centro histórico de la ciudad de **Saltillo**, frente a la plaza de armas, y es una de las joyas arquitectónicas del estado. Su construcción se realizó entre 1745 y el año de 1800, y fue consagrada como catedral hasta 1891, cuando se creó la Diócesis de **Saltillo**. A diferencia de las anteriores, esta **catedral** sólo cuenta con una torre campanario, la cual se alza hasta alcanzar una altura de **81 metros**, lo que la hace la más alta del norte del país y la **segunda más alta** de México.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Plaza_de_Armas_y_Catedral_de_Santiago.jpg/683px-Plaza_de_Armas_y_Catedral_de_Santiago.jpg){: width="683" height="1024"}
 
 \#1. Santuario Diocesano de Nuestra Señora de Guadalupe
 
