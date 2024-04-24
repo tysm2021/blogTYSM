@@ -57,8 +57,10 @@ Esta se encuentra en la capital del estado de **Coahuila**, en el centro histór
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Plaza_de_Armas_y_Catedral_de_Santiago.jpg/683px-Plaza_de_Armas_y_Catedral_de_Santiago.jpg){: width="683" height="1024"}
 
-\#1. Santuario Diocesano de Nuestra Señora de Guadalupe
+## \#1. Santuario Diocesano de Nuestra Señora de Guadalupe
 
-&nbsp;
+Por último, nuestro pequeño viaje termina en la ciudad de **Zamora** de Hidalgo, **Michoacán**, donde se levanta este santuario dedicado a la Virgen de Guadalupe. La primera etapa de su construcción duró de 1898 a 1914, cuando por la Revolución Mexicana se abandonaron los trabajos, mismos que se retomaron hasta 1988 y duraron veinte años, de modo que el nuevo **santuario** se inauguró oficialmente el 12 de diciembre de 2008, al haberse concluido las torres que miden nada menos que **107\.5 metros**, indiscutiblemente las más altas de México.
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/a5/Torres_nuevo1.jpg){: width="768" height="1024"}
 
 &nbsp;
