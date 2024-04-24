@@ -39,9 +39,11 @@ Esta enorme **basílica**, ubicada  en la localidad del mismo nombre en el estad
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bas%C3%ADlica_de_San_Juan_de_los_Lagos.jpg/790px-Bas%C3%ADlica_de_San_Juan_de_los_Lagos.jpg){: width="790" height="1024"}
 
-\#4. Catedral Basílica de Nuestra Señora de la Inmaculada Concepción
+## \#4. Catedral Basílica de Nuestra Señora de la Inmaculada Concepción
 
-&nbsp;
+Este es el nombre oficial de la **Catedral de Puebla**, que se encuentra en el corazón de la capital poblana y se distingue como una de las catedrales más bellas y visitadas del centro del país. Tuvo varias etapas constructivas, la primera entre 1575 y 1590, y después se suspendieron las obras hasta el año 1640, cuando gracias al virrey y obispo de **Puebla**, Juan de Palafox, pudieron completarse los trabajos. La **altura** máxima de esta **catedral** es de **73 metros**, sólo uno por encima de la de San Juan de los Lagos.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Catedral_de_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_12.JPG/1024px-Catedral_de_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_12.JPG){: width="1024" height="671"}
 
 \#3. Catedral del Señor de Tabasco
 
