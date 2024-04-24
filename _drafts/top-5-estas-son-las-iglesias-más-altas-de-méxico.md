@@ -33,22 +33,26 @@ Enseguida te decimos cuáles son los **templos religiosos mexicanos** que tienen
 
 **TE RECOMENDAMOS:** [**Estas son las iglesias más antiguas de México.**](https://blog.tonoysumariachi.com/cultura/2024/02/08/estas-son-las-iglesias-m%C3%A1s-antiguas-de-m%C3%A9xico.html)
 
-Catedral Basílica de Nuestra Señora de San Juan de los Lagos
+## \#5. Catedral Basílica de Nuestra Señora de San Juan de los Lagos
+
+Esta enorme **basílica**, ubicada  en la localidad del mismo nombre en el estado de **Jalisco**, es la segunda **iglesia** más visitada del país, sólo detrás de la Basílica de Guadalupe en la CDMX. Está dedicada a la imagen de la Virgen de San Juan de los Lagos, que tiene muchos fieles devotos porque es muy milagrosa. Se construyó en el siglo XVIII, entre 1732 y 1769, y hablando de su elevación los campanarios de sus dos torres alcanzan los **72 metros**, ubicándola en **quinto lugar** entre las **más altas**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bas%C3%ADlica_de_San_Juan_de_los_Lagos.jpg/790px-Bas%C3%ADlica_de_San_Juan_de_los_Lagos.jpg){: width="790" height="1024"}
+
+\#4. Catedral Basílica de Nuestra Señora de la Inmaculada Concepción
 
 &nbsp;
 
-Santuario Diocesano de Nuestra Señora de Guadalupe
+\#3. Catedral del Señor de Tabasco
 
 &nbsp;
 
-Catedral de Santiago de Saltillo
+\#2. Catedral de Santiago de Saltillo
 
 &nbsp;
 
-Catedral del Señor de Tabasco
+\#1. Santuario Diocesano de Nuestra Señora de Guadalupe
 
 &nbsp;
-
-Catedral Basílica de Nuestra Señora de la Inmaculada Concepción
 
 &nbsp;
