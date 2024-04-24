@@ -45,9 +45,11 @@ Este es el nombre oficial de la **Catedral de Puebla**, que se encuentra en el c
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Catedral_de_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_12.JPG/1024px-Catedral_de_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_12.JPG){: width="1024" height="671"}
 
-\#3. Catedral del Señor de Tabasco
+## \#3. Catedral del Señor de Tabasco
 
-&nbsp;
+El 16 de abril de 1884, el obispo de Tabasco colocó la primera piedra de la nueva catedral de la ciudad, pero las construcción no pudo continuar por una campaña antirreligiosa en la entidad, en la época de la Guerra Cristera. Fue hasta 1945 cuando se reanudó la reconstrucción de la catedral con el nombre de **Catedral del Señor de Tabasco**, en honor a una imagen llamada así, concluyéndose la construcción en 1970. La **altura** de esta magnífica **catedral** que se puede admirar en la ciudad de **Villahermosa** es de **80 metros** en sus dos torres.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Catedral_de_Villahermosa.jpg/768px-Catedral_de_Villahermosa.jpg){: width="768" height="1024"}
 
 \#2. Catedral de Santiago de Saltillo
 
