@@ -64,7 +64,7 @@ La hierbabuena, además de usarse en gomas de mascar, enjuagues y pastas dentale
 
 Las preparaciones de la manzanilla se emplean para fiebre, inflamación, espasmos musculares, desordenes menstruales o gastrointestinales, insomnio, úlceras, dolor reumático y hemorroides. Las vaporizaciones del aceite se usan contra la ansiedad y la depresión. La parte más utilizada es su flor, que ayuda a aminorar molestias de  diversa índole, además de ayudar a limpiar impurezas en la piel y a aclarar naturalmente el color del cabello.
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Matricaria_chamomilla_Beroun.jpg/1024px-Matricaria_chamomilla_Beroun.jpg){: width="1024" height="768"}
 
 ### Tila
 
@@ -74,6 +74,6 @@ Tomada con frecuencia, una buena infusión de tila ayuda a las personas que tien
 
 ### Gordolobo
 
-El uso medicinal principal de varias especies de gordolobo es para el tratamiento de problemas respiratorios, incluyendo asma y bronquitis (Rodríguez-Ramos and Navarrete, 2009). El té se toma también contra el catarro, resfriados, fiebre, tos, laringitis, dolor de garganta, sinusitis, neumonía, y enfisema pulmonar. La planta también es antiséptica y antiviral. La decocción de la planta se aplica tópicamente contra las hemorroides por su acción antiinflamatoria.
+El uso medicinal de las distintas especies del **gordolobo** sirvan para remediar problemas respiratorios como el **asma** y la **bronquitis**. La infusión se indica contra el catarro, los **resfriados**, la **fiebre**, la **tos**, **laringitis**, el dolor de garganta, la sinusitis y la neumonía. También es antiséptico y antiviral. Además, se aplica en fomentos calientes contra las hemorroides, por su acción antiinflamatoria.
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Verbascum_lychnitis%2C_Santa_Coloma_de_Farners_02.jpg/1024px-Verbascum_lychnitis%2C_Santa_Coloma_de_Farners_02.jpg){: width="1024" height="768"}
