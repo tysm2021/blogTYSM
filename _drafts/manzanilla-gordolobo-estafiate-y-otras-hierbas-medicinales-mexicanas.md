@@ -40,7 +40,9 @@ Estas coloridas flores no sólo sirven para decorar: también combaten la tos, l
 
 ### Vaporub
 
-Se emplea contra vómito, náusea, infecciones del oído, dolor de muelas o garganta, quemaduras, dermatitis y como antiséptico. Descongestionante de las vías respiratorias, combate la tos seca y disminuye síntomas de resfriado. Se puede cultivar fácilmente en macetas o jardines al aire libre, donde crece rápidamente. Posee propiedades antiinflamatorias, antidiabéticas, descongestionantes y antiansiedad. Se recomienda tomarla caliente o como agua de tiempo en cuadros de enfermedades respiratorias
+Se le llama así porque su olor se asemeja al de este famoso producto farmacéutico. Se emplea contra el vómito, la náusea, las infecciones del oído, el dolor de muelas quemaduras, la dermatitis y como antiséptico. Descongestiona las vías respiratorias, combate la tos  y disminuye los síntomas de resfriado. Posee propiedades antiinflamatorias, antidiabéticas, descongestionantes y contra la ansiedad. Se recomienda tomarla caliente o como agua de tiempo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/VaporubAcuexcomatl.JPG/1024px-VaporubAcuexcomatl.JPG){: width="1024" height="768"}
 
 ### Hoja santa
 
