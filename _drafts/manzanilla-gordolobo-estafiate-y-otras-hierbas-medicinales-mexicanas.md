@@ -34,19 +34,21 @@ A continuación, te mencionamos algunas de las **plantas** y **hierbas** **medic
 
 ### Bugambilia
 
-Estas coloridas flores no sólo sirven para decorar: también combaten la tos, la fiebre y son expectorantes, es decir, que combate la tos seca y ayuda a eliminar la mucosidad de las vías respiratorias. Propicia el correcto funcionamiento de los pulmones y la oxigenación. Su uso medicinal tradicional es muy común en casos de infecciones respiratorias como tos, asma, bronquitis y gripa; además, sus hojas causan estreñimiento, sus raíces poseen propiedades laxantes y antisépticas.
+Estas coloridas flores no sólo sirven para decorar: también combaten **la tos, la fiebre y son expectorante**s, es decir, que combate la tos seca y ayuda a eliminar la mucosidad de las vías respiratorias. Propicia el correcto funcionamiento de los pulmones y la oxigenación. Su uso medicinal tradicional es muy común en casos de infecciones respiratorias como **tos, asma, bronquitis y grip**a; además, sus hojas causan estreñimiento, sus raíces poseen propiedades laxantes y antisépticas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pink_paperflowers_%28Bougainvillea_glabra%29.jpg/1024px-Pink_paperflowers_%28Bougainvillea_glabra%29.jpg){: width="1024" height="768"}
 
 ### Vaporub
 
-Se le llama así porque su olor se asemeja al de este famoso producto farmacéutico. Se emplea contra el vómito, la náusea, las infecciones del oído, el dolor de muelas quemaduras, la dermatitis y como antiséptico. Descongestiona las vías respiratorias, combate la tos  y disminuye los síntomas de resfriado. Posee propiedades antiinflamatorias, antidiabéticas, descongestionantes y contra la ansiedad. Se recomienda tomarla caliente o como agua de tiempo.
+Se le llama así porque su olor se asemeja al de este famoso producto farmacéutico. Se emplea contra el **vómito, la náusea, las infecciones del oído, el dolor de muelas quemaduras**, la dermatitis y como antiséptico. Descongestiona las vías respiratorias, combate la tos  y disminuye los síntomas de resfriado. Posee propiedades **antiinflamatorias**, descongestionantes y contra la ansiedad. Se recomienda tomarla caliente o como agua de tiempo.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/VaporubAcuexcomatl.JPG/1024px-VaporubAcuexcomatl.JPG){: width="1024" height="768"}
 
 ### Hoja santa
 
-ayuda a disminuir la fiebre, es relajante, ayuda al buen funcionamiento intestinal y disminuye el dolor estomacal. Desde la época prehispánica era muy popular por sus usos medicinales, de hecho se dice que su nombre fue otorgado por los sacerdotes españoles que quedaron impresionados con sus propiedades para tratar diferentes malestares.
+Se dice que su nombre fue otorgado por los religiosos españoles en tiempos de la Conquista, pues quedaron impresionados con sus propiedades para tratar diferentes malestares. Además de dar un inconfundible sabor a la cocina oaxaqueña y del sureste, estas hojas ayudan a disminuir la **fiebre**, son relajante, ayudan al  funcionamiento **intestinal** y disminuyen el **dolor de estómago**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/00/Piper_auritum_0zz.jpg){: width="768" height="1024"}
 
 ### Árnica
 
