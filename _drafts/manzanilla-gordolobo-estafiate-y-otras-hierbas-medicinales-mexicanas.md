@@ -62,18 +62,15 @@ La hierbabuena, además de usarse en gomas de mascar, enjuagues y pastas dentale
 
 ### Manzanilla
 
-Las preparaciones de la manzanilla se utilizan para tratar muchos padecimientos incluidos la fiebre, inflamación, espasmos musculares, desordenes mestruales, insomnio, ulcera, herida, desordenes gastrointestinales, dolor reumático y hemorroides. El aceite de la manzanilla es usado en cosméticos y aromaterapia. Se calcula que a nivel mundial se consumen más de un millón de tazas de té herbal de manzanilla al día (Srivastava y col., 2010). La flor se consume en polvo, pero también se hacen preparaciones con agua, etanol y metanol. Una tintura de manzanilla comúnmente se prepara con una parte de flor de manzanilla en cuatro partes de agua con 12% de alcohol grado alimenticio y se utiliza para combatir la diarrea o para prevenir calambres (Srivastava y col., 2010). Las vaporizaciones del aceite se usan contra la ansiedad y la depresión
+Las preparaciones de la manzanilla se emplean para fiebre, inflamación, espasmos musculares, desordenes menstruales o gastrointestinales, insomnio, úlceras, dolor reumático y hemorroides. Las vaporizaciones del aceite se usan contra la ansiedad y la depresión. La parte más utilizada es su flor, que ayuda a aminorar molestias de  diversa índole, además de ayudar a limpiar impurezas en la piel y a aclarar naturalmente el color del cabello.
 
-La parte más utilizada de esta planta es su flor, pues se ha demostrado que las infusiones realizadas con ella, ayudan a aminorar molestias de muy diversa índole, entre ellas:
-
-* Dolores estomacales asociados a infecciones
-* Ansiedad y estrés
-* Indigestión
-* Limpieza de impurezas en la piel
+&nbsp;
 
 ### Tila
 
-La tila ayuda, en especial, a aquellas personas que sufren problemas para encontrar el sueño o que padecen de [insomnio](https://es.wikipedia.org/wiki/Insomnio "Insomnio"). Sin embargo, no solo presenta estas cualidades, sino que también ayuda a recuperar el apetito y a mejorarnos cuando contraemos un resfriado. [<sup>3</sup>](https://es.wikipedia.org/wiki/Tila#cite_note-3)​ También es un buen relajante en caso de [ansiedad](https://es.wikipedia.org/wiki/Ansiedad "Ansiedad")
+Tomada con frecuencia, una buena infusión de tila ayuda a las personas que tienen problemas para conciliar el sueño o que padecen **insomnio**. Pero no sólo eso: también ayuda a recuperar el **apetito** y a mejorarnos cuando nos enfermamos y contraemos un **resfriado**, además de que es auxiliar contra los trastornos de **ansiedad**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tilia._Flowers.jpg/768px-Tilia._Flowers.jpg){: width="768" height="1024"}
 
 ### Gordolobo
 
