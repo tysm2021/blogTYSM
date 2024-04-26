@@ -19,17 +19,56 @@ article_header:
     src: /uploads/chamomile-original-size.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/chamomile-original-size.jpeg
 show_author_profile: false
 comment: false
 summary: >-
   Desde tiempos prehispánicos, la tradición herbolaria mexicana cuenta con un
   remedio para cada malestar o enfermedad; aquí las más importantes.
 ---
-¿Quién no se ha tomado un té de **manzanilla** con anís para la indigestión, una pócima de **gordolobo** para los malestares estomacales o una infusión de **tila** para relajarse y dormir bien? De acuerdo con la Secretaría de Salud, el 90% de la población mexicana ha optado por una de las 4 mil 500 **plantas** y **hierbas medicinales mexicanas**, por lo menos una vez en su vida, por lo que nuestro país ocupa el segundo lugar en el mundo en este tipo de flora que sirve para curar.
+¿Quién no se ha tomado un té de **manzanilla** con anís para la indigestión, una pócima de **gordolobo** para los malestares respiratorios o una infusión de **tila** para relajarse y dormir bien? De acuerdo con la Secretaría de Salud, el 90% de la población mexicana ha optado por una de las 4 mil 500 **plantas** y **hierbas medicinales mexicanas**, por lo menos una vez en su vida, por lo que nuestro país ocupa el segundo lugar en el mundo en este tipo de flora que sirve para curar.
 
 A continuación, te mencionamos algunas de las **plantas** y **hierbas** **medicinales** que forman parte del enorme acervo de la **herbolaria** y la **medicina tradicional mexicana**, esa que las abuelitas sabían administrar con amor y eficacia.
 
 **TE RECOMENDAMOS:** [**Toloache, la hierba del amor, ¿en verdad sirve para que se enamoren de ti?**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/18/toloache-la-hierba-del-amor-en-verdad-sirve-para-que-se-enamoren-de-ti.html)
+
+Bugambilia
+
+antitusígeno, antipirético y expectorante, es decir, que combate la tos seca, reduce la fiebre y ayuda a eliminar la mucosidad de las vías respiratorias altas. Mejora el sistema respiratorio pues propicia el correcto funcionamiento de los pulmones y la oxigenación del cuerpo. Su uso medicinal tradicional es muy extendido en los estados del centro y sur del territorio mexicano, en casos de infecciones respiratorias como tos, asma, bronquitis y gripa.<br><br>Las hojas de esta planta causan estreñimiento y sus raíces poseen propiedades laxantes. Pero también son antisépticas y aplicadas en la piel ayudan a combatir el acné, las infecciones y la descamación, además de acelerar la cicatrización de las heridas si se aplican en infusión fría
+
+Vaporub
+
+Se emplea contra vómito, náusea, infecciones del oído, dolor de muelas o garganta, quemaduras, dermatitis y como antiséptico. Descongestionante de las vías respiratorias, combate la tos seca y disminuye síntomas de resfriado. Se puede cultivar fácilmente en macetas o jardines al aire libre, donde crece rápidamente. Posee propiedades antiinflamatorias, antidiabéticas, descongestionantes y antiansiedad. Se recomienda tomarla caliente o como agua de tiempo en cuadros de enfermedades respiratorias
+
+Hoja santa
+
+ayuda a disminuir la fiebre, es relajante, ayuda al buen funcionamiento intestinal y disminuye el dolor estomacal. Desde la época prehispánica era muy popular por sus usos medicinales, de hecho se dice que su nombre fue otorgado por los sacerdotes españoles que quedaron impresionados con sus propiedades para tratar diferentes malestares.
+
+Árnica
+
+Las dos especies de árnica han sido recomendadas para tratar cuadros inflamatorios o como antimicrobianas (Stafilococus aureus, Eschericha coli) y antioxidantes (Lyss y col., 1998; García-Pérez y col., 2016) así como para el tratamiento de contusiones, esguinces y problemas reumáticos (Kamatani y col., 2014), heridas, hematomas, dolor y angina (Lannitti y col., 2016).
+
+Hierbabuena
+
+La hierbabuena es utilizada ampliamente en el tratamiento de diversos padecimientos como nauseas, vómito y desordenes gastrointestinales (Kumar y col., 2011). En el pasado, la hoja seca en polvo se llegó a utilizar para emblanquecer los dientes (Hajlaoui y col. 2008).  La planta y el aceite de hierbabuena también se han utilizado como repelente de hormigas, mosquitos y avispas
+
+Manzanilla
+
+Las preparaciones de la manzanilla se utilizan para tratar muchos padecimientos incluidos la fiebre, inflamación, espasmos musculares, desordenes mestruales, insomnio, ulcera, herida, desordenes gastrointestinales, dolor reumático y hemorroides. El aceite de la manzanilla es usado en cosméticos y aromaterapia. Se calcula que a nivel mundial se consumen más de un millón de tazas de té herbal de manzanilla al día (Srivastava y col., 2010). La flor se consume en polvo, pero también se hacen preparaciones con agua, etanol y metanol. Una tintura de manzanilla comúnmente se prepara con una parte de flor de manzanilla en cuatro partes de agua con 12% de alcohol grado alimenticio y se utiliza para combatir la diarrea o para prevenir calambres (Srivastava y col., 2010). Las vaporizaciones del aceite se usan contra la ansiedad y la depresión
+
+La parte más utilizada de esta planta es su flor, pues se ha demostrado que las infusiones realizadas con ella, ayudan a aminorar molestias de muy diversa índole, entre ellas:
+
+* Dolores estomacales asociados a infecciones
+* Ansiedad y estrés
+* Indigestión
+* Limpieza de impurezas en la piel
+
+Tila
+
+La tila ayuda, en especial, a aquellas personas que sufren problemas para encontrar el sueño o que padecen de [insomnio](https://es.wikipedia.org/wiki/Insomnio "Insomnio"). Sin embargo, no solo presenta estas cualidades, sino que también ayuda a recuperar el apetito y a mejorarnos cuando contraemos un resfriado. [<sup>3</sup>](https://es.wikipedia.org/wiki/Tila#cite_note-3)​ También es un buen relajante en caso de [ansiedad](https://es.wikipedia.org/wiki/Ansiedad "Ansiedad")
+
+Gordolobo
+
+El uso medicinal principal de varias especies de gordolobo es para el tratamiento de problemas respiratorios, incluyendo asma y bronquitis (Rodríguez-Ramos and Navarrete, 2009). El té se toma también contra el catarro, resfriados, fiebre, tos, laringitis, dolor de garganta, sinusitis, neumonía, y enfisema pulmonar. La planta también es antiséptica y antiviral. La decocción de la planta se aplica tópicamente contra las hemorroides por su acción antiinflamatoria.
 
 &nbsp;
