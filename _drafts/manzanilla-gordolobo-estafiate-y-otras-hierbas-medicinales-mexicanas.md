@@ -56,7 +56,9 @@ Las dos especies de árnica han sido recomendadas para tratar cuadros inflamator
 
 ### Hierbabuena
 
-La hierbabuena es utilizada ampliamente en el tratamiento de diversos padecimientos como nauseas, vómito y desordenes gastrointestinales (Kumar y col., 2011). En el pasado, la hoja seca en polvo se llegó a utilizar para emblanquecer los dientes (Hajlaoui y col. 2008).  La planta y el aceite de hierbabuena también se han utilizado como repelente de hormigas, mosquitos y avispas
+La hierbabuena, además de usarse en gomas de mascar, enjuagues y pastas dentales, es utilizada para tratar padecimientos como las **nauseas**, el **vómito** y los **desordenes gastrointestinales**. En el pasado, la hoja seca en polvo se usaba para blanquear los dientes, además de que el aceite de hierbabuena también se han utilizado como **repelente** de hormigas, mosquitos y avispas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/51/Melissa_officinalis1.jpg){: width="1024" height="768"}
 
 ### Manzanilla
 
