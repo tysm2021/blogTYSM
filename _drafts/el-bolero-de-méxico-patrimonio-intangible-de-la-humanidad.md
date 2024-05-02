@@ -41,7 +41,7 @@ En esos años, el ambiente romántico que se vivía en nuestro país  y la cerca
 
 &nbsp;
 
-ambién grabó las primeras canciones de su admirado Agustín Lara, otro destacado y longevo iniciador. México aportó muchos embajadores al bolero: infinidad de tríos, entre los que merecen una mención especial Los Panchos; orquestas y sonoras como la de Pérez Prado 4que interpretaba boleros bailables; el bolero ranchero en la voz de Javier Solís; o el bolero romántico de Armando Manzanero que todavía está vigente en la voz de Luis Miguel.
+Guty Cárdenas también grabó las primeras canciones del admirado compositor Agustín Lara, otro destacado y longevo iniciador. Con el paso del tiempo, México aportó muchos embajadores al bolero: infinidad de tríos como Los Panchos, Los Diamantes, Los Tres Ases y Los Tres Caballeros; orquestas y sonoras como la de Pérez Prado, que interpretaba boleros bailables y compositores inmortales como Armando Manzanero, Álvaro Carrillo, María Grever y Consuelito Velázquez. Además,  el bolero ranchero surgió en la voz de Javier Solís y décadas más tarde el bolero romántico de sigue vigente en voces como la de Luis Miguel.
 
 Las letras de los boleros aluden a la vida cotidiana y las canciones se interpretan en diversos espacios, desde hogares hasta áreas públicas y grandes salas de conciertos, así como en festivales y serenatas. La práctica generalmente se transmite dentro de las familias, a través de la tradición oral y la imitación. Investigadores y académicos (como historiadores, musicólogos y gestores culturales) también contribuyen a su transmisión. Hoy en día se siguen componiendo nuevos boleros, y las letras y la música dan lugar a un diálogo en constante evolución con la tradición de ambos países.
 
