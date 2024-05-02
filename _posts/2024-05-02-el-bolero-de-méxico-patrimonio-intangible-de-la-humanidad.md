@@ -20,7 +20,7 @@ article_header:
 sharing: true
 author: Redacción TYSM
 cover: /uploads/bolero-1.jpg
-show_author_profile: false
+show_author_profile: true
 comment: false
 summary: >-
   ¿Sabías que una de las manifestaciones musicales más románticas del siglo XX
