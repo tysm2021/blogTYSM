@@ -29,7 +29,7 @@ summary: >-
 ---
 Es un **género musical** que llegó a **México** importado de Cuba, pero que tuvo un gran arraigo popular con compositores como **Agustín Lara** y **Álvaro Carrillo**, intérpretes como los **tríos** **Los Panchos**, **Los Diamantes** y **Los Tres Ases**, y con otros cantantes de la talla de Pedro Infante, Javier Solís y Lucho Gatica. Hablamos del **bolero de México**, cuya importancia cultural e histórica ha sido reconocida por la **UNESCO**, que en **2023** lo nombró **Patrimonio Intangible de la Humanidad**.
 
-Aquí te contamos los detalles y las razones del nombramiento, y haremos una breve historia del **origen del bolero en México**, así como de sus mejores **canciones**, **intérpretes** y **compositores**.
+Aquí te contamos los detalles y las razones del nombramiento, y también haremos una breve historia del **origen del bolero en México**, así como de sus mejores **canciones**, **intérpretes** y **compositores**.
 
 **TE RECOMENDAMOS:** [**Pedro Infante, sus cinco mejores películas.**](https://blog.tonoysumariachi.com/mexicanisimos/2024/04/15/pedro-infante-sus-cinco-mejores-pel%C3%ADculas.html)
 
