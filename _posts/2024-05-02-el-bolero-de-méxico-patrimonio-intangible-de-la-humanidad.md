@@ -19,7 +19,7 @@ article_header:
     src: /uploads/bolero-1.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/bolero-1-1.jpg
+cover: /uploads/bolero-1.jpg
 show_author_profile: false
 comment: false
 summary: >-
