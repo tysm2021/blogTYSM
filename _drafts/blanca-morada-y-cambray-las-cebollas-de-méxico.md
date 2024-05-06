@@ -53,6 +53,6 @@ Es distintiva por su color rojizo o violáceo, y es de uso muy común en la comi
 
 ## Cebollas cambray
 
-También llamadas cebollitas, cebollines, cebollas de verdeo o Welsh onions, en inglés, son notablemente más pequeñas que las cebollas blancas, con tallos largos que a menudo también se comen. En gusto, aroma y sabor es muy similar a la cebolla blanca, pero en realidad nunca forma bulbos; la parte blanca que se consume es ólo un engrosamiento del tallo, similar al del puerro. Por lo regular se consumen como guarnición de carnes, guisados y tacos, pues con el calor se caramelizan y adoptan una consistencia suave y un sabor ligeramente dulce, aunque también se preparan en conservas.
+También llamadas **cebollitas**, **cebollines**, **cebollas** de verdeo o Welsh onions, en inglés, son notablemente más pequeñas que las cebollas blancas, con tallos largos que a menudo también se comen. En gusto, aroma y sabor es muy similar a la cebolla blanca, pero en realidad nunca forma bulbos; la parte blanca que se consume es ólo un engrosamiento del tallo, similar al del puerro. Por lo regular se consumen como guarnición de carnes, guisados y tacos, pues con el calor se caramelizan y adoptan una consistencia suave y un sabor ligeramente dulce, aunque también se preparan en conservas.
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Carnita_Asada.jpg/640px-Carnita_Asada.jpg)
