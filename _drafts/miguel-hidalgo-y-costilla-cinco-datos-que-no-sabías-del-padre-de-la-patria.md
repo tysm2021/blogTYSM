@@ -45,9 +45,9 @@ Es decir, hablaba varias lenguas. Esto se debió a que desde muy joven estudió 
 
 ## Se ignora qué fue lo que gritó
 
-Cada **15 de septiembr**e, el presidente de México lleva a cabo la ceremonia de "**El Grito**", en la que después de pronunciar frases como "Vivan los héroes que nos dieron Patria" y de mencionar los nombres de Allende, Aldama, la Corregidora, Morelos y del propio Hidalgo, culmina diciendo tres veces "¡Viva México!". Pero históricamente, como no hubo registros escritos ni testigos presenciales que pudieran dar fe del hecho, ignoramos qué fue exaatamente lo que gritó. Algunas versiones dicen que fue: "¡Viva la religión católica!, ¡viva Fernando VII!, ¡viva la Patria y la santísima Virgen de Guadalupe!, ¡muera el mal gobierno!" o "¡Viva la América!, ¡viva Fernando VII!, ¡viva la religión y mueran los gachupines!".
+Cada **15 de septiembr**e, el presidente de México lleva a cabo la ceremonia de "**El Grito**", en la que después de pronunciar frases como "Vivan los héroes que nos dieron Patria" y de mencionar los nombres de Allende, Aldama, la Corregidora, Morelos y del propio **Hidalgo**, culmina diciendo tres veces "¡Viva México!". Pero históricamente, como no hubo registros escritos ni testigos presenciales que pudieran dar fe del hecho, ignoramos qué fue exactamente lo que gritó. Algunas versiones dicen que fue: "¡Viva la religión católica!, ¡viva Fernando VII!, ¡viva la Patria y la santísima Virgen de Guadalupe!, ¡muera el mal gobierno!" o "¡Viva la América!, ¡viva Fernando VII!, ¡viva la religión y mueran los gachupines!".
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/2/2b/El_cura_D._Miguel_Hidalgo_proclama_la_Independencia_Nacional_en_Dolores%2C_a_la_madrugada_del_16_de_septiembre_de_1810%2C_no_obstante_que_no_ten%C3%ADa_terminados_a%C3%BAn_los_preparativos_para_la_revoluci%C3%B3n.jpg)
 
 ## No sabemos cómo era su cara
 
