@@ -19,7 +19,7 @@ article_header:
     src: /uploads/hidalgo1.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/hidalgo1.jpg
 show_author_profile: false
 comment: false
 summary: >-
@@ -51,8 +51,12 @@ Cada **15 de septiembr**e, el presidente de México lleva a cabo la ceremonia de
 
 ## No sabemos cómo era su cara
 
-A pesar de que **Hidalgo** aparece en innumerables estatuas, monumentos, efigies, monedas, billetes y hasta en adornos de las fiestas de la Independencia, lo cierto es que no existe certeza de cómo era el rostro de **Miguel Hidalgo**. De hecho, no existe ningún retrato de él tomado de su imagen real y todas sus pinturas fueron elaboradas después de su muerte. Esto obedece a que, tras su ejecución en 1811, el gobierno virreinal de la Nueva España prohibió cualquier representación de **Hidalgo** y destruyó todas las pinturas que existían de él. La imagen que tenemos de él deriva de una descripción de 1849, hecha por Lucás Alamán, quien conoció en persona al insurgente.
+A pesar de que **Hidalgo** aparece en innumerables estatuas, monumentos, efigies, monedas, billetes y hasta en adornos de las fiestas de la Independencia, lo cierto es que no existe certeza de cómo era el rostro de **Miguel Hidalgo**. De hecho, no existe ningún retrato de él tomado de su imagen real y todas sus pinturas fueron elaboradas después de su muerte. Esto obedece a que, tras su ejecución en 1811, el gobierno virreinal de la Nueva España prohibió cualquier representación de **Hidalgo** y destruyó todas las pinturas que existían de él. La imagen que tenemos de él deriva de una descripción de 1849, hecha por Lucas Alamán, quien conoció en persona al insurgente.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/General%C3%ADsimo_Miguel_Hidalgo_y_Costilla.png/618px-General%C3%ADsimo_Miguel_Hidalgo_y_Costilla.png)
 
-&nbsp;
+## Fue excomulgado
+
+Uno de los peores castigos que podía imponer la Iglesia católica en tiempos de **Hidalgo** era la excomunión, la cual equivalía a la expulsión de la iglesia, al rechazo de los fieles y la negación al perdón de los pecados y a la resurrección después. dela muerte. **Hidalgo**, como era sacerdote, antes de ser ejecutado por traición debió pasar por el penoso proceso del juicio inquisitorial y al de la degradación sacerdotal; se le visitó con su sotana, se le obligó a arrodillarse y después, con un cuchillo se le raspó las manos y las yemas de los dedos  en señal de despojo de los derechos a tomar la ostia para consagrar; le cortaron el pelo y le rasparon la cabeza, en señal de remoción de su tonsura y con ello, su despojo total de su investidura sacerdotal.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mural_de_Hidalgo_en_PalGob..jpg/768px-Mural_de_Hidalgo_en_PalGob..jpg)
