@@ -26,13 +26,27 @@ summary: >-
   Desde la frontera con Estados Unidos hasta el sureste, los mexicanos adoramos
   hacernos tacos de todos tipos. Aquí van los más populares.
 ---
-Tacos al pastor
+En México, hacer un taco es de lo más fácil: agarras una tortilla, ya sea de maíz o de trigo, chica o grande, y le pones enmedio casi cualquier platillo: un guisado, frijoles, papa, carne asada, suadero, carne al pastor, cochinita pibil, pollo deshebrado, carnitas de cerdo, chicharrón seco o hasta chapulines con una untada de guacamole. Después, puede ir "suave" o dorado —es decir, frito—, y coronarse con verduras, cebolla, crema o salsas. Pero, ¿cuál es el Top 5 de los mejores tacos de México?
 
-Tacos de canasta
+Es muy difícil cuáles son los mejores de todos, pero aquí va un conteo con nuestra humilde opinión y la de miles de internautas que durante años han votado por sus favoritos y los han posicionado en rankings mundiales.
+
+TE RECOMENDAMOS:  ¿Quién inventó los tacos al pastor?
 
 Tacos de cochinita pibil
 
+&nbsp;
+
+Tacos al pastor
+
+&nbsp;
+
+Tacos de canasta
+
+&nbsp;
+
 Tacos dorados
+
+&nbsp;
 
 Burritos
 
