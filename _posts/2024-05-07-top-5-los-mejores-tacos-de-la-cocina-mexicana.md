@@ -19,7 +19,7 @@ article_header:
     src: /uploads/jeswin-thomas-z-pfagzen9e-unsplash.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/jeswin-thomas-z-pfagzen9e-unsplash.jpeg
 show_author_profile: false
 comment: false
 summary: >-
@@ -30,7 +30,7 @@ En **México**, hacer un **taco** es de lo más fácil: agarras una **tortilla**
 
 Es muy difícil cuáles son los **mejores** de todos, pero aquí va un conteo con nuestra humilde opinión y la de miles de internautas que durante años han votado por sus **tacos** favoritos y los han posicionado en rankings mundiales.
 
-**TE RECOMENDAMOS:**  [**¿Quién inventó los tacos al pastor?**](https://blog.tonoysumariachi.com/gastronomia/2023/09/27/qui%C3%A9n-invent%C3%B3-los-tacos-al-pastor.html)
+**TE RECOMENDAMOS:** [**¿Quién inventó los tacos al pastor?**](https://blog.tonoysumariachi.com/gastronomia/2023/09/27/qui%C3%A9n-invent%C3%B3-los-tacos-al-pastor.html)
 
 ## Tacos de cochinita pibil
 
@@ -50,7 +50,7 @@ Los consentidos indiscutibles, pues varias veces han sido nombrados "el **mejor*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Trompo_de_pastor_-_festival_del_taco_en_xalapa_2023_01.jpg/768px-Trompo_de_pastor_-_festival_del_taco_en_xalapa_2023_01.jpg)
 
-## Burritos&nbsp;
+## Burritos 
 
 Para muchos puristas, estos no son precisamente **tacos**; pero lo cierto es que, aunque se elaboren con tortillas de harina de trigo califican como tales por sus ingredientes y preparación. Son típicos del norte del país y de estados como Chihuahua, Sonora y Baja California; se elaboran con una **tortilla** de harina de trigo donde se coloca la carne, el queso, la cebolla, el morrón y otros elementos, y se cierra para poder darle mordidas.
 
@@ -60,6 +60,6 @@ Para muchos puristas, estos no son precisamente **tacos**; pero lo cierto es que
 
 También se les llama "flautas", aunque siendo estrictos este nombre sólo lo reciben las que se preparan con una **tortilla** especial, más alargada. Por lo general son **tacos** rellenos con papa, pollo, carne de res y también con barbacoa de borrego deshebrados; se cierran el **taco**, se sellan al calor del aceite y se van dorando por todos lados, bañándolos en aceite. Ya que están listos, se dejan escurrir y enfriar, y se cubren con crema, queso panela rallado o desmoronado, y ensalada de lechuga con jitomate, cebolla y aguacate. Para rematar, unas gotas de salsita roja o del mexicanísimo [**guacamole**](https://blog.tonoysumariachi.com/gastronomia/2022/10/17/el-mexicanisimo-guacamole-historia-y-recetas.html). ¿Ya se te antojaron?
 
-&nbsp;![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tacos_Dorados.jpg/1024px-Tacos_Dorados.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tacos_Dorados.jpg/1024px-Tacos_Dorados.jpg)
 
 &nbsp;
