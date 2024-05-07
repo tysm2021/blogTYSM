@@ -45,4 +45,10 @@ Es decir, hablaba varias lenguas. Esto se debió a que desde muy joven estudió 
 
 &nbsp;
 
+## No sabemos cómo era su cara
+
+A pesar de que **Hidalgo** aparece en innumerables estatuas, monumentos, efigies, monedas, billetes y hasta en adornos de las fiestas de la Independencia, lo cierto es que no existe certeza de cómo era el rostro de **Miguel Hidalgo**. De hecho, no existe ningún retrato de él tomado de su imagen real y todas sus pinturas fueron elaboradas después de su muerte. Esto obedece a que, tras su ejecución en 1811, el gobierno virreinal de la Nueva España prohibió cualquier representación de **Hidalgo** y destruyó todas las pinturas que existían de él. La imagen que tenemos de él deriva de una descripción de 1849, hecha por Lucás Alamán, quien conoció en persona al insurgente.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/General%C3%ADsimo_Miguel_Hidalgo_y_Costilla.png/618px-General%C3%ADsimo_Miguel_Hidalgo_y_Costilla.png)
+
 &nbsp;
