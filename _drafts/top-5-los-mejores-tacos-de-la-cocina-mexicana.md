@@ -44,13 +44,13 @@ Alguna vez el escritor mexicano Jorge Ibargüengoitia dijo de estos **tacos suda
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Puesto_de_tacos_de_canasta_%22atr%C3%A1s_de_correos%22_02.jpg/768px-Puesto_de_tacos_de_canasta_%22atr%C3%A1s_de_correos%22_02.jpg)
 
-Tacos al pastor
+## Tacos al pastor
 
-&nbsp;
+Los consentidos indiscutibles, pues varias veces han sido nombrados "el **mejor** platillo del mundo". En origen, se preparan con **carne de cerdo** adobada, la cual se coloca en un "trompo" que se cuece a las brasas de carbón, en un horno vertical que tiene mucha influencia de los *kebab* griegos y la carne al espetón de la cocina libanesa. Actualmente, por practicidad, las **taquerías** utilizan flamas de gas en lugar de carbón, pero la idea es la misma. Se aderezan con cebolla, cilantro y un trozo de piña, que para nos es opcional y para otros, indispensable.
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Trompo_de_pastor_-_festival_del_taco_en_xalapa_2023_01.jpg/768px-Trompo_de_pastor_-_festival_del_taco_en_xalapa_2023_01.jpg)
 
-Tacos dorados
+&nbsp;Tacos dorados
 
 &nbsp;
 
