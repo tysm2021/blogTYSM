@@ -26,3 +26,16 @@ summary: >-
   Desde la frontera con Estados Unidos hasta el sureste, los mexicanos adoramos
   hacernos tacos de todos tipos. Aquí van los más populares.
 ---
+Tacos al pastor
+
+Tacos de canasta
+
+Tacos de cochinita pibil
+
+Tacos dorados
+
+Burritos
+
+&nbsp;
+
+&nbsp;
