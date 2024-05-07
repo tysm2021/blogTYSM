@@ -39,7 +39,9 @@ Hoy en día, por lo regular los mexicanos tenemos uno o, a lo mucho, dos nombres
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7d/Miguel_Hidalgo_con_estandarte.jpg)
 
-Era políglota
+## Era políglota
+
+Es decir, hablaba varias lenguas. Esto se debió a que desde muy joven estudió en el Colegio de San Nicolás Obispo, en la ciudad de Valladolid —actualmente Morelia, capital de Michoacán—, donde además de hablar español aprendió a hablar y leer en latín. Más tarde, conoció las obras de Molière y aprendió francés; y como tuvo contacto con indígenas de los pueblos originarios, adquirió conocimientos de náhuatl, otomí y purépecha. Seis idiomas, en total.
 
 &nbsp;
 
