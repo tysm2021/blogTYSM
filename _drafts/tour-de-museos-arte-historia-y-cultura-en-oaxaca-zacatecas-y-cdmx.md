@@ -43,7 +43,15 @@ En la capital zacatecana, dentro de un inmueble histórico donde estuvo ubicado 
 
 Cuenta con 15 salas permanentes y, además de la obra de **Coronel**, se exhibe arte universal de distintas épocas. Además, alberga la **Biblioteca Histórica Elías Amador**, que contiene un acervo de más de 20 mil volúmenes de los siglos XVI al XIX y una interesante colección de numismática zacatecana. El **Museo Pedro Coronel** encuentra en el centro histórico de Zacatecas, en la Plaza de Santo Domingo s/n, col. Centro, CP 98000, Zacatecas, Zacatecas.
 
-Museo de Sitio de Monte Albán
+## Museo de Sitio de Monte Albán
+
+Bajo el ardiente sol de **Oaxaca**, aledaño a esta importante zona arqueológica que recibió el nombre de **Monte Albán** por su parecido con los Montes Albanos europeos, se encuentra este museo de sitio administrado por el INAH y dedicado a la incomparable ciudad olmeca, zapoteca y mixteca de más de mil 500 años de antigüedad, ubicada en la cima de un cuerpo de montañas donde se encontró el invaluable Tesoro de la Tumba 7.
+
+&nbsp;
+
+El museo abrió al público en noviembre de 1994 y ofrece un panorama de la historia de la ciudad prehispánica de **Monte Albá**n, nombrada por la UNESCO Patrimonio Cultural de la Humanidad en 1987. Tiene una superficie de 1,200 m<sup>2</sup> y está dividido en áreas de exposición permanente y una sala de exposiciones temporales. La colección está integrada por 650 piezas arqueológicas, entre las que se encuentran grabados en piedra, utensilios y figurillas de cerámica, concha y restos óseos. Exhibe también el tesoro de la Tumba 7, encontrado por Alfonso Caso en 1932.
+
+&nbsp;
 
 &nbsp;
 
