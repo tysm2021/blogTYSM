@@ -22,10 +22,10 @@ article_header:
     src: /uploads/1024px-camilosesto.png
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/pedro-coronel-principal.jpeg
 show_author_profile: false
 comment: false
 summary: >-
-  Desde mediados del siglo XX, una serie de artistas y cantantes españoles
-  emprendieron la "reconquista" del público mexicano
+  Vayamos de paseo para conocer una importante zona arqueológica, un edificio
+  colonial colmado de arte y un secreto escondido en Chapultepec.
 ---
