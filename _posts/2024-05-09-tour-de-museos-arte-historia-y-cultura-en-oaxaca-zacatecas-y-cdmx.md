@@ -19,7 +19,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-camilosesto.png
+    src: /uploads/pedro-coronel-principal.jpeg
 sharing: true
 author: Redacción TYSM
 cover: /uploads/pedro-coronel-principal.jpeg
