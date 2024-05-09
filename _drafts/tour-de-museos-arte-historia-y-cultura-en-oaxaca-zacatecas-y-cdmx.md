@@ -29,3 +29,28 @@ summary: >-
   Vayamos de paseo para conocer una importante zona arqueológica, un edificio
   colonial colmado de arte y un secreto escondido en Chapultepec.
 ---
+Nuevamente nos ponemos la mochila al hombro y partimos en un viaje por la cultura, el arte moderno, los vestigios prehispánicos y la historia de **México**, en este **tour de museos** del mes de mayo. En esta ocasión, visitaremos el **Museo de Sitio de Monte Albán**, que exhibe importantes hallazgos de esa zona arqueológica oaxaqueña; el **Museo Pedro Coronel**, que además de la obra del artista plástico exhibe otras importantes piezas de arte; y el **Museo del Caracol**, una joya escondida en el Bosque de Chapultepec de la Ciudad de México.
+
+Arranquemos, pues, con este paseo cultural en el que podrás conocer tres recintos dedicados a la preservación, el estudio y la exhibición del patrimonio cultural de sus respectivos estados y de la gran nación que es México.
+
+**TE RECOMENDAMOS:** [**Estas son las iglesias más altas de México.**](https://blog.tonoysumariachi.com/cultura/2024/02/08/estas-son-las-iglesias-m%C3%A1s-antiguas-de-m%C3%A9xico.html)
+
+## Museo Pedro Coronel
+
+En la capital zacatecana, dentro de un inmueble histórico donde estuvo ubicado el Real Colegio y Seminario de San Luis Gonzaga de la Compañía Jesús y que después fue el Colegio de la Purísima Concepción y hasta cárcel del Estado, desde 1983 se encuentra este museo de arte cuyo propósito es investigar, difundir y conservar el conocimiento del arte universal contenido en las colecciones donadas por el artista plástico, pintor y escultor zacatecano **Pedro Coronel**.
+
+![](https://www.zacatecastravel.com/img/galerias/museos/exp_museos_pedrocoronel_4.jpg)
+
+Cuenta con 15 salas permanentes y, además de la obra de **Coronel**, se exhibe arte universal de distintas épocas. Además, alberga la **Biblioteca Histórica Elías Amador**, que contiene un acervo de más de 20 mil volúmenes de los siglos XVI al XIX y una interesante colección de numismática zacatecana. El **Museo Pedro Coronel** encuentra en el centro histórico de Zacatecas, en la Plaza de Santo Domingo s/n, col. Centro, CP 98000, Zacatecas, Zacatecas.
+
+Museo de Sitio de Monte Albán
+
+&nbsp;
+
+## Museo del Caracol
+
+Desde 1960, el **Museo del Caracol** despliega la historia de México, desde la Guerra de Independencia hasta la Constitución de 1917, de forma didáctica y valiéndose se dioramas, maquetas, videos y tableros. La idea original era construir un espacio que sirviera como introducción al Museo Nacional de Historia Castillo de Chapultepec —el cual se encuentra metros más arriba de éste, en la cima del cerro— a fin de explicar a niños, jóvenes y adultos los momentos estelares de nuestea historia desde finales del Virreinato hasta la promulgación de la Constitución que nos rige.
+
+![](https://lugares.inah.gob.mx/images/colecciones/_thumb1/diora.jpg)
+
+La **Galería de Historia** fue inaugurada el 21 de noviembre de 1960 por el presidente Adolfo López Mateos y se usaron recursos tecnológicos que en aquel entonces eran de avanzada. No hay en todo el museo piezas antiguas, sino representaciones teatrales en miniatura y maquetas de las escenas históricas, las cuales estaban sonorizadas con pequeñas dramatizaciones para acercar el pasado al público en general. El **Museo del Caracol** se halla en la Rampa de acceso al Castillo de Chapultepec, en la 1a Sección del Bosque de Chapultepec, CDMX.
