@@ -17,7 +17,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-camilosesto.png
+    src: /uploads/donaflorinda1.jpg
 sharing: true
 author: Redacción TYSM
 cover: /uploads/1024px-camilosesto.png
