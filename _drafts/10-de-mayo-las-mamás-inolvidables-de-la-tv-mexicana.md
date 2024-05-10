@@ -42,13 +42,13 @@ Doña Refugio Chavero
 
 Esta abnegada "cabecita de algodón" es la **madre** soltera del perezoso y engreído Gordolfo Gelatino, a quien cariñosamente llama "hijazo de mi vidaza". Es uno de los personajes más entrañables de la pareja cómica Los Polivoces —Eduardo Segundo y Enrique Cuenca, quien interpretaba a la viejecita— y, como buena **mamá** consentidora, hace de todo y trabaja incensamentente para sostener a su hijo, al cual adula como si fuera el hombre más guapo del mundo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pjSkuC0TRcc?si=MPL6L1zU9rUNb-ky" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pjSkuC0TRcc?si=MPL6L1zU9rUNb-ky" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 ## Doña Florinda
 
-Según ella, su nombre completo es Florinda Corcuera y Villalpando viuda de Mátalas Callando, y vive en la misma vecindad que el Chavo del Ocho. Es madre soltera de un niño odioso, consentido y cachetón de nombre Quico, al cual sobreprotege y le da ínfulas diciéndole que "no se junte con la chusma". Brava, contestona y violenta, doña Florinda es el arquetipo de la madre soltera mexicana que se inventa una historia de alcurnia sobre el padre de su hijo, lo cría como a un verdadero engendro y eso sí: se siente muy superior a los de la puerta de junto. Pero, aun así, siempre la quisimos…
+Según ella, su nombre completo es Florinda Corcuera y Villalpando viuda de Mátalas Callando, y vive en la misma vecindad que el Chavo del Ocho. Es **mamá** de un niño odioso, consentido y cachetón de nombre Quico, al cual sobreprotege y le da ínfulas diciéndole que "no se junte con la chusma". Brava, contestona y violenta, Doña Florinda es el arquetipo de la **madre soltera** mexicana que se inventa una historia de alcurnia sobre el padre de su hijo, lo cría como a un verdadero engendro y eso sí: se siente muy superior a los de la puerta de junto. Pero, aun así, siempre la quisimos…
 
-&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kRN9UHdjB2A?si=avEuqxfI7gqKEVcH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Catalina Creel
 
