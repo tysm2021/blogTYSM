@@ -36,7 +36,13 @@ Acá hacemos un breve recuento de cinco ejemplos de **madres de la televisión m
 
 Doña Refugio Chavero
 
-Federica P. Luche
+&nbsp;
+
+## Doña Naborita
+
+Esta abnegada "cabecita de algodón" es la **madre** soltera del perezoso y engreído Gordolfo Gelatino, a quien cariñosamente llama "hijazo de mi vidaza". Es uno de los personajes más entrañables de la pareja cómica Los Polivoces —Eduardo Segundo y Enrique Cuenca, quien interpretaba a la viejecita— y, como buena **mamá** consentidora, hace de todo y trabaja incensamentente para sostener a su hijo, al cual adula como si fuera el hombre más guapo del mundo.
+
+&nbsp;
 
 ## Doña Florinda
 
@@ -50,6 +56,8 @@ Para muchos, ha sido la más grande villana de la TV mexicana y la perversión t
 
 &nbsp;
 
-Doña Lucha
+## Doña Lucha
+
+María de la Luz Martínez (Mara Escalante), mejor conocida como Doña Lucha, es la sobreprotectora **madre** soltera —una más— de tres hijos: Albertano, Rosa Aurora y el Chino. Tiene 56 años, es ingeniosa y dicharachera, pero gusta de meterse en asuntos ajenos, además de ser chantajista y autoritaria con su prole. Eso sí: es "luchona" y hace todo que esté en su alcance para sacar adelante a su familia, y por lo mismo desprecia a María de Todos Los Ángeles —que, de hecho, es el nombre del programa de TV donde apareció— porque cree que  va a alejarla de su hijo mayor.
 
 &nbsp;
