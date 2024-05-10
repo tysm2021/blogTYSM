@@ -38,9 +38,17 @@ Doña Refugio Chavero
 
 Federica P. Luche
 
-Doña Florinda
+## Doña Florinda
 
-Catalina Creel
+Según ella, su nombre completo es Florinda Corcuera y Villalpando viuda de Mátalas Callando, y vive en la misma vecindad que el Chavo del Ocho. Es madre soltera de un niño odioso, consentido y cachetón de nombre Quico, al cual sobreprotege y le da ínfulas diciéndole que "no se junte con la chusma". Brava, contestona y violenta, doña Florinda es el arquetipo de la madre soltera mexicana que se inventa una historia de alcurnia sobre el padre de su hijo, lo cría como a un verdadero engendro y eso sí: se siente muy superior a los de la puerta de junto. Pero, aun así, siempre la quisimos…
+
+&nbsp;
+
+## Catalina Creel
+
+Para muchos, ha sido la más grande villana de la TV mexicana y la perversión total del arquetipo de la **madre mexicana**. Apareció como protagonista de la telenovela *Cuna de lobos* (1987), con su peinado recogido y su inolvidable parche en el ojo con el que chantajeaba a su hijo menor, esta mujer era capaz de mentir, manipular y hasta asesinar con tal de proteger a su primogénito. Sin duda, esta interpretación de María Rubio le valió un lugar permanente en la memoria de todos los mexicanos.
+
+&nbsp;
 
 Doña Lucha
 
