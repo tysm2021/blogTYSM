@@ -54,20 +54,16 @@ Uno de los **murales** más destacados por sus dimensiones es el llamado 'Mural 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cacaxtla11.jpg/1024px-Cacaxtla11.jpg){: width="1024" height="671"}
 
-**Hombre-pájaro y Hombre-jaguar**
+### Hombre-pájaro y Hombre-jaguar
 
-Este conjunto de murales se encuentra en el Edificio A del complejo ceremonial y se halla a la entrada de un cuarto doble donde fueron plasmados dos personajes, uno de ellos lleva una piel de jaguar y sostiene lanzas de las cuales brota agua; mientras que el otro está ataviado de plumas y porta un atado que envuelve una serpiente de la que brota sangre. Ambos se encuentran de pie sobre una serpiente y están acompañados de glifos y símbolos; además, los rodea una cenefa acuática donde fueron representados diversos animales. Se estima que estos murales fueron realizados posterior al año 700 d.C.
+Estos **murales** se encuentran en el Edificio A y representan a dos personajes: uno con una piel de jaguar y lanzas de las cuales brota agua; el otro está ataviado de plumas y porta un bulto que envuelve una serpiente de la que brota sangre. Se estima que estos murales fueron realizados posterior al año 700 d.C.
 
-**Mural del Templo Rojo**
+&nbsp;![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cacaxtla2.jpg/1024px-Cacaxtla2.jpg){: width="1024" height="734"}
 
-Este mural, ubicado a un costado de la escalera ascendente del Templo Rojo, plasma una escena en la que se ve representado un anciano que porta orejeras, pulseras, un collar, sandalias, manoplas y piel y tocado de jaguar. A sus espaldas lleva un cacaxtli que contiene un caparazón de tortuga, plantas y otros objetos. Además del hombre fueron plasmadas plantas de maíz cuyas mazorcas poseen rostros humanos de características consideradas mayas.
-
-La escena es rodeada por una cenefa acuática y también son representadas aves, un sapo y otros animales lacustres.
+Para la realización de estos murales se emplearon cinco colores: rojo óxido, amarillo ocre, azul maya, negro de humo y el blanco de la cal). Los pigmentos utilizados son minerales de procedencia local: cal, carbón, hematita y goethita. El azul plasmado en los murales es el llamado “azul maya”, el cual se obtiene de una arcilla a base de paligorskita que era teñida con índigo.
 
 &nbsp;
 
-**Materiales**
+&nbsp;
 
-Para la realización de la mayoría de los murales fueron utilizados cinco tonos (rojo óxido, amarillo ocre, azul maya, negro de humo y el blanco de la cal), los cuales podían ser mezclados para obtener como resultado colores secundarios.
-
-Los pigmentos utilizados son minerales de procedencia local, como cal, carbón, hematita y goethita. El azul en los murales es el denominado “azul maya”, el cual se obtiene de una arcilla a base de paligorskita que era teñida con índigo.
+&nbsp;
