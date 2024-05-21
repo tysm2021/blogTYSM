@@ -42,17 +42,17 @@ En 1975, habitantes del poblado de **San Miguel del Milagro** —en el municipio
 
 Estos **murales** tienen influencia tanto de los mayas como de los teotihuacanos y muestran escenas relacionadas con la mitología, la religión, la guerra, la derrota y la paz, así como descripciones a la naturaleza dibujadas con gran realismo y con elementos simbólicos aún no descifrados. En el Gran Basamento se construyeron diversos edificios,  actualmente llamados: Edificio de las columnas, El Palacio, Edificio A, Cuarto de la Escalera, Edificio F, Templo de Venus y Templo Rojo.
 
-**Templo de Venus**
+### Templo de Venus
 
 Las pinturas murales ubicadas en el Templo de Venus son las más antiguas y presentan dos figuras, aparentemente representan de un sacerdote y una sacerdotisa con piel azul, un collar y los brazos hacia arriba sobre un fondo rojo. En estos murales destaca la presencia de dos símbolos de Venus ubicados en la cintura de cada una de las figuras.
 
-**Mural de la batalla**
+![](https://upload.wikimedia.org/wikipedia/commons/4/42/MuralDelTemploDeVenus%28right%29.jpg){: width="437" height="984"}
 
-Uno de los murales más destacados por su tamaño es el denominado Mural de la batalla, que data aproximadamente de entre el 650 y 700 d.C. En él se observa a dos grupos de personajes aparentemente en batalla, uno de ellos es representado como el dominante y está relacionado con los antiguos habitantes del Altiplano Central, mientras que el otro, que es representado como el sometido, es aparentemente de origen maya.
+### Mural de la batalla
 
-El grupo dominante porta pieles de jaguar y llevan lanzas; mientras que los vencidos portan tocados, joyas y son representados heridos y con mutilaciones. Análisis recientes de la iconografía de este mural señalan que la escena plasmada en él no se relaciona con actividades bélicas sino con un ritual de sacrificio en honor al Dios del maíz.
+Uno de los **murales** más destacados por sus dimensiones es el llamado 'Mural de la batalla', que data aproximadamente del 650 d.C. aproximadamente. En él se observa a dos grupos de personajes en guerra, uno de ellos  representado como el dominante—relacionado con los antiguos habitantes del Altiplano Central—, mientras que el otro aparentemente es de origen maya. El grupo dominante porta pieles de jaguar y llevan lanzas, mientras que los vencidos portan tocados, joyas y son representados heridos y con mutilaciones.
 
-Asimismo, un estudio comparativo realizado por Claudia Brittenham arrojó que esta pintura mural pudo haber sido realizada por al menos 10 pintores, pues se observan patrones similares en algunos grupos de figuras, los cuales poseen una marcada diferencia en relación con otros grupos de trazos.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cacaxtla11.jpg/1024px-Cacaxtla11.jpg){: width="1024" height="671"}
 
 **Hombre-pájaro y Hombre-jaguar**
 
