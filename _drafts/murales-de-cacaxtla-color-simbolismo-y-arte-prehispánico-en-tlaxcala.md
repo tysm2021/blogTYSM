@@ -26,4 +26,10 @@ summary: >-
   Una de las muestras de arte pictórico mural más impresionantes de Mesoamérica
   se encuentra en Cacaxtla. ¿Quiénes aparecen en esas escenas y qué significan?
 ---
-Una de las muestras artísticas menos comunes, pero quizás más apreciadas de las civilizaciones del México prehispánico, son las pinturas murales de lugares como Teotihuacan, Bonampak o la zona arqueológica que nos ocupa en este artículo: Cacaxtla. Ubicado en el estado de Tlaxcala, este centro ceremonial cuenta en sus paredes historias y leyendas del pueblo que los creó, en forma de vistosas y coloridas pinturas murales. ¿Quiénes las
+Una de las muestras artísticas menos comunes, pero quizás más apreciadas de las civilizaciones del **México** **prehispánico**, son las **pinturas murales** de lugares como Teotihuacan, Bonampak o la **zona arqueológica** que nos ocupa en este artículo: **Cacaxtla**. Ubicado en el estado de **Tlaxcala**, este centro ceremonial cuenta en sus paredes historias y leyendas del pueblo que los creó, en forma de vistosas y coloridas pinturas murales. ¿**Quiénes** las elaboraron y con qué propósito? ¿A **quiénes representan** y qué hecho narran estas escenas?
+
+A continuación te platicamos algunos detalles de estas **pinturas murales** que despliegan múltiples estilos e influencias provenientes de la región maya, la costa del Golfo, Oaxaca, Teotihuacán, Cholula y Xochicalco.
+
+**TE RECOMENDAMOS:** [**El rey Pakal, ¿un astronauta en Palenque?**](https://blog.tonoysumariachi.com/historia/2023/09/21/el-rey-pakal-un-astronauta-en-palenque.html)
+
+&nbsp;
