@@ -33,13 +33,17 @@ Conozcamos, entonces a los principales **dioses y diosas** del **México** **ant
 
 **TE RECOMENDAMOS:** [**Teotihuacan: cinco cosas que no sabías de la "Ciudad de los Dioses".**](https://blog.tonoysumariachi.com/historia/2023/12/26/teotihuacan-cinco-cosas-que-no-sab%C3%ADas-de-la-ciudad-de-los-dioses.html)
 
-Tláloc
+## Tláloc
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/4/49/Tlaloc%2C_God_of_the_Rain%2C_Thunder%2C_Earthquakes%3B_Codex_Borgia.jpg){: width="752" height="716"}
 
-Chaac
+Sin duda, es el más famoso de los **dioses de la lluvia** del México prehispánico, pues se le rendía culto en Teotihuacan, entre los toltecas y en el Imperio Mexica. A **Tláloc** se le representa de color azul turquesa, con un par de anteojeras negras formadas por dos serpientes que se entrelazan, una especie de bigotera que es su labio superior, un estandarte de oro largo y con forma de culebra, y gotas oscuras en su vestimenta que representan las gotas de la lluvia. También se le consideraba **dios del rayo** y de los terremotos.
 
-&nbsp;
+## Chaac
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Uxmal_-_Quadrangulo_de_las_Monjas_-_%C3%96stlicher_Palast_5_Chacmaske.jpg/768px-Uxmal_-_Quadrangulo_de_las_Monjas_-_%C3%96stlicher_Palast_5_Chacmaske.jpg){: width="768" height="1024"}
+
+Entre los mayas, **Chaac** era **dios de la lluvia** y del relámpago equivalente a **Tláloc** y se le distingue por una sobresaliente y notoria nariz ganchuda. Es el dios más representado en los códices mayas, por su clara significación de lluvia y relámpago. En ellos aparece con cuerpo humano y cara con larga nariz colgante como de tapir; en ocasiones porta en la mano su hacha-rayo; a veces lleva una antorcha, símbolo de sequía, ya que de él dependía que lloviera o no. Se le dibuja sembrando, sentado sobre árboles de los rumbos cósmicos, sobre animales y sobre nubes. Chaac ha sido asociado también con la guerra y con el dios GI de Palenque.
 
 ## Cocijo
 
