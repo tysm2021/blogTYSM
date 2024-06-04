@@ -32,4 +32,26 @@ A continuación un breve recuento, en orden de menor a mayor, de **los hombres y
 
 **TE RECOMENDAMOS:** [**Cinco lugares enMéxico para ver ovnis… o eso dicen.**](https://blog.tonoysumariachi.com/mexicanisimos/2023/11/22/cinco-lugares-en-m%C3%A9xico-para-ver-ovnis-o-eso-dicen.html)
 
-bb
+\#5. María Asunción Aramburuzabala
+
+&nbsp;
+
+\#4. Alejandro Baillères Gual
+
+&nbsp;
+
+\#3. Ricardo Salinas Pliego
+
+&nbsp;
+
+\#2. Germán Larrea Mota Velasco
+
+&nbsp;
+
+## \#1. Carlos Slim Helú
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Carlos_Slim_%2841952787601%29.jpg/925px-Carlos_Slim_%2841952787601%29.jpg){: width="925" height="1024"}
+
+El ingeniero Slim, como dice la canción, "sigue siendo el rey" pues desde la histórica compra de la paraestatal Teléfonos de México en la década de 1990 el descendiente de migrantes libaneses ha encabezado las listas de las personas más ricas de México. Slim fue la persona más rica del mundo de 2010 a 2013, con 74 mil millones de dólares. Aunque ahora hay otras trece personas delante de él, es más **rico** que nunca gracias a un aumento del 60% en las acciones. Actualmente, su fortuna se calcula en **102 mil millones de dólares**.
+
+&nbsp;
