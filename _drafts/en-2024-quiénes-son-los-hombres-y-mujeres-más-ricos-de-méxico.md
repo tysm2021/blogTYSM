@@ -36,13 +36,13 @@ A continuación un breve recuento, en orden de menor a mayor, de **los hombres y
 
 ![](/uploads/maria-asuncion-aramburuzabala-larregui.jpeg){: width="500" height="500"}
 
-Una mujer ocupa el quinto sitio entre las **personas más ricas de México**. En este caso, la fortuna proviene de la empresa **Grupo Modelo** —fabricante de **cervezas** como Corona, Modelo Especial y Negra Modelo—, que fue fundada por su abuelo, **Félix Aramburuzabala**, en asociación con **Carlos Díez**. A su muerte en 1972, dejó el negocio a su hijo, Pablo, quien a su vez lo transmitió a "Mariasun", como se le conoce cariñosamente.
+Una mujer ocupa el quinto sitio entre las **personas más ricas de México**. En este caso, la fortuna proviene de la empresa **Grupo Modelo** —fabricante de **cervezas** como Corona, Modelo Especial y Negra Modelo—, que fue fundada por su abuelo, **Félix Aramburuzabala**, en asociación con **Carlos Díez**. A su muerte en 1972, dejó el negocio a su hijo, Pablo, quien a su vez lo transmitió a "Mariasun", como se le conoce cariñosamente, cuya riqueza se calcula en **6 mil 300 millones de dólares.**
 
-\#4. Alejandro Baillères Gual
+## \#4. Alejandro Baillères Gual
 
-&nbsp;
+![](/uploads/alejandro-bailleres-gual-continue-frente.jpeg){: width="853" height="1280"}
 
-nn
+En cuarto escalón está el empresario mexicano que, entre otras cosas, es dueño de El Palacio de Hierro, de la aseguradora Grupo Nacional Provincial (GNP), de Industrias Peñoles —la segunda minera más grande del país— y del Instituto Tecnológico Autónomo de México (ITAM), todas unidas en un conglomerado conocido como Grupo BAL. Tras la muerte de su padre Alberto Baillères en 2012, su fortuna se estima en **8 mil 300 millones de dólares**.
 
 ## \#3. Ricardo Salinas Pliego
 
@@ -60,6 +60,6 @@ El insoportable dueño de TV Azteca y de las tiendas Elektra está en tercer sit
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Carlos_Slim_%2841952787601%29.jpg/925px-Carlos_Slim_%2841952787601%29.jpg){: width="925" height="1024"}
 
-El ingeniero **Slim**, como dice la canción, "sigue siendo el rey" pues desde la histórica compra de la paraestatal Teléfonos de México en la década de 1990 el descendiente de migrantes libaneses ha encabezado las listas de las **personas más ricas** de **México**. Slim fue la persona **más rica del mundo** de 2010 a 2013, con 74 mil millones de dólares. Aunque ahora hay otras trece personas delante de él, es más **rico** que nunca gracias a un aumento del 60% en las acciones. Actualmente, su fortuna se calcula en **102 mil millones de dólares**.
+El ingeniero **Slim**, como dice la canción, "sigue siendo el rey" pues desde la histórica compra de la paraestatal Teléfonos de México en la década de 1990 el descendiente de migrantes libaneses ha encabezado las listas de las **personas más ricas** de **México**. Slim fue la persona **más rica del mundo** de 2010 a 2013, con 74 mil millones de dólares. Aunque ahora hay otras trece personas delante de él, es más **rico** que nunca gracias a un aumento del 60% en las acciones. Actualmente, su fortuna se calcula en **102 mil millones de dólares**, que lo convierten en el \#14 entre los más ricos del planeta.
 
 &nbsp;
