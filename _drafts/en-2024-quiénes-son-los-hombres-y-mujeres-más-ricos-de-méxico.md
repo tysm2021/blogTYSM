@@ -40,9 +40,11 @@ A continuación un breve recuento, en orden de menor a mayor, de **los hombres y
 
 &nbsp;
 
-\#3. Ricardo Salinas Pliego
+## \#3. Ricardo Salinas Pliego
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/3/32/Ricardo_Salinas_Pliego_2020-1.jpg){: width="956" height="816"}
+
+El insoportable dueño de TV Azteca y de las tiendas Elektra está en tercer sitio en esta lista, con una fortuna estimada de **13 mil 200 millones de dólares**, aunque su empresa está en problemas con las autoridades fiscales del país y el gobierno mexicano anunció que el empresario debe la friolera de 3 mil 800 millones de dólares en impuestos. Salinas, muy a su estilo, dijo que demandaría al portavoz del gobierno mexicano y a su equipo por publicar el monto de la deuda.
 
 ## \#2. Germán Larrea Mota Velasco
 
