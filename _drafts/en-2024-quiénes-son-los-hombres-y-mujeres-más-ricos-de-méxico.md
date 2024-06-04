@@ -32,13 +32,17 @@ A continuación un breve recuento, en orden de menor a mayor, de **los hombres y
 
 **TE RECOMENDAMOS:** [**Cinco lugares enMéxico para ver ovnis… o eso dicen.**](https://blog.tonoysumariachi.com/mexicanisimos/2023/11/22/cinco-lugares-en-m%C3%A9xico-para-ver-ovnis-o-eso-dicen.html)
 
-\#5. María Asunción Aramburuzabala
+## \#5. María Asunción Aramburuzabala
 
-&nbsp;
+![](/uploads/maria-asuncion-aramburuzabala-larregui.jpeg){: width="500" height="500"}
+
+Una mujer ocupa el quinto sitio entre las **personas más ricas de México**. En este caso, la fortuna proviene de la empresa **Grupo Modelo** —fabricante de **cervezas** como Corona, Modelo Especial y Negra Modelo—, que fue fundada por su abuelo, **Félix Aramburuzabala**, en asociación con **Carlos Díez**. A su muerte en 1972, dejó el negocio a su hijo, Pablo, quien a su vez lo transmitió a "Mariasun", como se le conoce cariñosamente.
 
 \#4. Alejandro Baillères Gual
 
 &nbsp;
+
+nn
 
 ## \#3. Ricardo Salinas Pliego
 
