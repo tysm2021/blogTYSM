@@ -37,6 +37,14 @@ El **álgebra**, seguramente lo recordarás, es la rama de las matemáticas que 
 
 Durante esos años de estudio, un libro de texto fundamental es el *Álgebra* de **Baldor**, como se le conoce coloquialmente, obra del matemático, abogado y escritor cubano **Aurelio Baldor**, quien nació en La Habana, Cuba, en 1906 y murió en Miami en 1978. La primera edición del *Álgebra* salió al mercado en 1941 y desde entonces se han reimpreso multitud de reediciones.
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/6/6b/Baldor.jpg){: width="527" height="793"}
 
-&nbsp;
+La portada original es obra del ilustrador cubano **D. G. Terminel** y permaneció sin cambios durante más de 60 años, hasta que en 2007 la editorial que publica el libro lo sometió a un rediseño de fondo por parte del diseñador gráfico Juan Bernardo Rosado Ortiz, con una nueva ilustración de José Luis Mendoza Monroy y el diseño editorial de Carlos Sánchez. Pero, hasta ese momento, ¿quién era el misterioso árabe del turbante, que muchos confunden con el mismísimo Baldor?
+
+Pus bien: la portada en cuestión presenta al matemático, astrónomo y geógrafo persa musulmán **Abu Abdallah Muḥammad Ibn Mūsā Al-Jwarizmī**, mejor conocido como **Al-Juarismi**, quien vivió entre los años 780 y 850d.C.; al fondo, se aprecia una asimilación de su ciudad natal, Bagdad.
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/a1/Mu%E1%B8%A5ammad_ibn_M%C5%ABs%C4%81_al-Khw%C4%81rizm%C4%AB.png){: width="360" height="518"}
+
+**Al-Juarismi**, entre otros logros matemáticos, es considerado **padre del álgebra**. Fue astrónomo y jefe de la Biblioteca del Centro de la Sabiduría de Bagdad. Uno de sus principales logros en el álgebra fue la demostración de cómo resolver ecuaciones cuadráticas con el método de completación de cuadrados, justificándolo geométricamente. La castellanización de su nombre dio origen a palabras como *algoritmo* y *guarismo*, y la traducción de sus obras al latín fue una de las causas de. la popularización de los números arábigos entre los matemáticos europeos.
+
+Curiosamente, en 2001 una teoría conspirativa relacionó su retrato en el libro ya citado con la del terrorista **Osama Bin Laden**, citando una especie de profecía o algo así, e incluso hubo quienes vieron simbolizadas a las Torres Gemelas de Nueva York en el paisaje de la antigua Bagdad
