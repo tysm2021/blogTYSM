@@ -1,6 +1,6 @@
 ---
 title: ¿Quién es el árabe que aparece en el libro de álgebra de Baldor?
-date: 2023-09-19 16:00:00
+date: 2024-06-05 16:00:00
 categories:
   - CULTURA
 tags:
