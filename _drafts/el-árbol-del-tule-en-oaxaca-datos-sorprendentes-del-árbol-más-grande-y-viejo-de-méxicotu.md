@@ -40,6 +40,4 @@ El **Árbol de Tule** es un **ahuehuete** —su nombre científico es *Taxodium 
 
 Su **altura total es de 41 metros** aproximadamente, de modo que ni siquiera veinte personas, paradas una encima de otra, alcanzarían la punta de su copa.  Los lugareños le han encontrado diferentes formas al tronco, como de duende, cocodrilo, delfín y cabeza de venado, entre otras. "El **Ahuehuete** de **Santa María del Tule** es el máximo representante vivo del **árbol nacional** de México y el primer ejemplar catalogado como Notable de parte del Gobierno de Oaxaca. Es un ejemplar que ha permitido la convergencia entre la grandeza biológica con la herencia cultural y solidaria de su pueblo”, declaró en 2021 el presidente municipal del lugar.
 
-&nbsp;
-
-&nbsp;
+Además de su extraordinario tamaño, es un árbol muy viejo: se calcula que tiene aproximadamente **2 mil años de antigüedad**. La leyenda dice que fue plantado por un sacerdote del dios mexica del viento, Ehécatl. En lengua náhuatl, ahuehuete significa “un árbol viejo de agua” pues crece donde hay agua abundante, cerca de los lagos y ríos.
