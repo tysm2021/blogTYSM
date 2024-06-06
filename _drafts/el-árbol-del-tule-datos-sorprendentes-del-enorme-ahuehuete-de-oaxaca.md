@@ -1,6 +1,6 @@
 ---
 title: 'El árbol del Tule: datos sorprendentes del enorme ahuehuete de Oaxaca'
-date: 2024-06-06 16:00:00
+date: 2024-06-06 14:00:00
 categories:
   - TURISMO
 tags:
