@@ -28,3 +28,12 @@ summary: >-
   A unos cuantos kilómetros de la ciudad de Oaxaca se encuentra este majestuoso
   ahuhuete que, se estima, tiene más de 2 mil años de antigüedad…
 ---
+Se encuentra al lado de una colorida iglesia, en el municipio de Santa María del Tule, a unos 14 kilómetros de la ciudad de Oaxaca de Juárez. Por su colosal altura y su extraordinaria antigüedad, se le considera el ser vivo más grande y más longevo de todo México. Se trata del Árbol del Tule, un ahuehuete —otros le llaman sabino— que es un destino turístico obligado para quienes visitan la capital oaxaqueña.
+
+Conozcamos algunos detalles sobre este impresionante árbol histórico que, según estimaciones, estaba empezando a crecer en los valles centrales de Oaxaca cuando Jesucristo aún caminaba y predicaba por toda la Tierra Santa.
+
+TE RECOMENDAMOS:
+
+NN
+
+&nbsp;
