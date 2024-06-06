@@ -1,7 +1,7 @@
 ---
 title: >-
-  El árbol del tule en Oaxaca: datos sorprendentes del árbol más grande y viejo
-  de Méxicotu
+  El árbol del tule en Oaxaca: datos sorprendentes del ser vivo más grande de
+  México
 date: 2024-06-06 16:00:00
 categories:
   - TURISMO
@@ -21,7 +21,7 @@ article_header:
     src: /uploads/el-tule-03.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/el-tule-03.jpeg
 show_author_profile: false
 comment: false
 summary: >-
