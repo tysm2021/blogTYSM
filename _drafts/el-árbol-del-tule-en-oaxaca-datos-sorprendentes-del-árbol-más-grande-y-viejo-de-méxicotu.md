@@ -34,8 +34,12 @@ Conozcamos algunos detalles sobre este impresionante árbol histórico que, seg�
 
 **TE RECOMENDAMOS:** [**Oaxaca de Juárez: cinco cosas que hacer en la capital oaxaqueña.**](https://blog.tonoysumariachi.com/turismo/2022/08/11/oaxaca-de-juarez-cinco-cosas-que-hacer-en-la-capital-oaxaquena.html)
 
-El **Árbol de Tule** es un **ahuehuete** —su nombre científico es *Taxodium mucronatum*—con una circunferencia de copa de aproximadamente 58 metros y una altura de 42 metros. Se localiza en el atrio de la iglesia de Santa María del Tule y es el árbol con el diámetro de tronco más grande del mundo, pues mide 14.05 metros; se estima que serían necesarias al menos 30 personas con las manos entrelazadas para poder abarcarlo y en su sombra caben aproximadamente 500 personas.
+El **Árbol de Tule** es un **ahuehuete** —su nombre científico es *Taxodium mucronatum*—con una circunferencia de copa de aproximadamente 58 metros y una altura de 42 metros. Se localiza en el atrio de la iglesia de **Santa María del Tule** y es el **árbol** con el **diámetro de tronco más grande del mundo**, pues mide 14.05 metros; se estima que serían necesarias al menos 30 personas con las manos entrelazadas alrededor de él para poder abarcarlo y en su sombra caben aproximadamente 500 personas.
 
-Los lugareños le han encontrado diferentes formas al tronco como son de 'duende', 'cocodrilo', 'delfín', 'cabeza de venado', entre otras.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Panor%C3%A1mica_del_%C3%81rbol_del_Tule.jpg/1024px-Panor%C3%A1mica_del_%C3%81rbol_del_Tule.jpg){: width="1024" height="768"}
+
+Su **altura total es de 41 metros** aproximadamente, de modo que ni siquiera veinte personas, paradas una encima de otra, alcanzarían la punta de su copa.  Los lugareños le han encontrado diferentes formas al tronco, como de duende, cocodrilo, delfín y cabeza de venado, entre otras. "El **Ahuehuete** de **Santa María del Tule** es el máximo representante vivo del **árbol nacional** de México y el primer ejemplar catalogado como Notable de parte del Gobierno de Oaxaca. Es un ejemplar que ha permitido la convergencia entre la grandeza biológica con la herencia cultural y solidaria de su pueblo”, declaró en 2021 el presidente municipal del lugar.
+
+&nbsp;
 
 &nbsp;
