@@ -1,7 +1,5 @@
 ---
-title: >-
-  El árbol del tule en Oaxaca: datos sorprendentes del ser vivo más grande de
-  México
+title: 'El árbol del Tule: datos sorprendentes del enorme ahuehuete de Oaxaca'
 date: 2024-06-06 16:00:00
 categories:
   - TURISMO
