@@ -36,11 +36,7 @@ A continuación, te compartimos una **lista completa de gentilicios de México**
 
 TE RECOMENDAMOS:
 
-&nbsp;
-
-Gentilicios por estado
-
-&nbsp;
+### &nbsp;Gentilicios por estado
 
 Aguascalientes: aguascalentense, hidrocálido
 
@@ -90,6 +86,8 @@ Quintana Roo: quintanarroense
 
 San Luis Potosí: potosino
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Catedral_de_SAN_LUIS_POTOSI.JPG/1024px-Catedral_de_SAN_LUIS_POTOSI.JPG)
+
 Sinaloa: sinaloense
 
 Sonora: sonorense
@@ -106,9 +104,7 @@ Yucatán: yucateco
 
 Zacatecas: zacatecano
 
-&nbsp;
-
-Capitales
+### Gentilicio por ciudad capital
 
 Mexicali: mexicalense
 
@@ -150,11 +146,7 @@ Jalapa: jalapeño
 
 Mérida: meridano
 
-&nbsp;
-
-&nbsp;
-
-Otras ciudades
+### Otras ciudades
 
 Acapulco: acapulqueño
 
