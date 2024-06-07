@@ -130,6 +130,8 @@ Tepic: tepiqueño
 
 Monterrey: regiomontano
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Cerro_de_La_Silla_y_Faro_del_Comercio_desde_el_aire.jpg/1024px-Cerro_de_La_Silla_y_Faro_del_Comercio_desde_el_aire.jpg)
+
 Puebla (ciudad): poblano, angelopolitano
 
 Chetumal: chetumalense, chetumaleño
@@ -159,6 +161,8 @@ Huamantla: huamantleño
 Guaymas: guaymeño. Gauymense
 
 Mazatlán: mazatleco
+
+![](/uploads/playa-en-mazatlan-08.jpeg)
 
 Tijuana: tijuanense
 
