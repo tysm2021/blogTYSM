@@ -34,9 +34,9 @@ summary: >-
 
 A continuación, te compartimos una **lista completa de gentilicios de México**, primero por estado y después por ciudad capital; además, incluimos un “pilón” con otros gentilicios de ciudades poco conocidas.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Cuál es el verdadero origen de la palabra chido?**](https://blog.tonoysumariachi.com/mexicanisimos/2024/01/31/cu%C3%A1l-es-el-verdadero-origen-de-la-palabra-chido.html)
 
-### &nbsp;Gentilicios por estado
+### Gentilicios por estado
 
 Aguascalientes: aguascalentense, hidrocálido
 
