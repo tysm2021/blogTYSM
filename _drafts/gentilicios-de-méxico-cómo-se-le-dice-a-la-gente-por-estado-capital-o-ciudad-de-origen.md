@@ -22,7 +22,7 @@ article_header:
     src: /uploads/ale-vargas-nn-tmzem6zm-unsplash.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/ale-vargas-nn-tmzem6zm-unsplash.jpeg
 show_author_profile: false
 comment: false
 summary: >-
@@ -158,7 +158,7 @@ Apizaco: apizaquense
 
 Huamantla: huamantleño
 
-Guaymas: guaymeño. Gauymense
+Guaymas: guaymeño, guaymense
 
 Mazatlán: mazatleco
 
