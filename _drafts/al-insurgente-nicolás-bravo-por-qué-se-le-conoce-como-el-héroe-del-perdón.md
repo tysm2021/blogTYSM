@@ -40,26 +40,16 @@ En mayo de 1811, **Nicolás** se unió a las fuerzas de Hermenegildo Galeana. En
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nicol%C3%A1s_Bravo_%28Joaqu%C3%ADn_Ram%C3%ADrez%29.jpg/866px-Nicol%C3%A1s_Bravo_%28Joaqu%C3%ADn_Ram%C3%ADrez%29.jpg)
 
-Siendo comandante militar insurgente en Veracruz, Nicolás Bravo recibió la siguiente carta de Morelos:
+El gobierno virreinal ofreció a su hijo **Nicolás** y a sus  hermanos que se rindieran y, a cambio, le perdonarían la vida a don **Leonardo**. Pero los **Bravo** sabían que los realistas no acostumbraban cumplir sus promesas, así que se negaron. Siendo ya comandante insurgente en Veracruz, **Nicolás Bravo** recibió una carta de **Morelos** en la que le informaba que el 13 de septiembre de 1812, por orden del Virrey, había muerto su  padre, el general **Leonardo Bravo**.
 
-"Excmo. Sr. General don Nicolás Bravo.<br>Medellín. Prov. de Veracruz.
+Además, en la carta Morelos le ordenaba a **Bravo**: "Sírvase usted mandar pasar a cuchillo a todos los **prisioneros** que tiene en su poder, comunicándome, en seguida, su ejecución". En cumplimiento de esa orden,  Nicolás mandó poner en capilla a los 300 prisioneros y les permitió que se confesaran, esperando ser ejecutados al día siguiente. Pero no fue así…
 
-Tengo la pena de manifestar a usted que por órdenes expresas del Virrey, con fecha 13 del actual fue muerto su señor padre, general D. Leonardo Bravo, en la Calzada del Ejido de la ciudad de México, habiendo subido al ignominioso patíbulo del garrote vil con el valor y la serenidad que siempre lo distinguieron.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Nicol%C3%A1s_Bravo_liberando_a_trescientos_prisioneros_realistas%2C_13-9-1812%2C_Daniel_del_Valle_%281910%29_%28anverso%29.jpg/1024px-Nicol%C3%A1s_Bravo_liberando_a_trescientos_prisioneros_realistas%2C_13-9-1812%2C_Daniel_del_Valle_%281910%29_%28anverso%29.jpg)
 
-Deploro tanto como usted suceso tan infausto, aunque le recordaré que es una gloria morir en el servicio de la patria.
+A la mañana siguiente, **Bravo** ascendió a un estrado improvisado ante los prisioneros y, explicándoles lo que había sucedido, les **perdonó** la vida y les dijo "Quedáis en libertad". Muchos de los indultados, que parecían despertar de una pesadilla, desertaron del ejército y se incorporaron de inmediato a las filas **insurgentes** para pelear al lado del magnánimo **Nicolás**. Así fue que **Bravo** mereció el título de “**Héroe del Perdón**”, al indultar a los trescientos prisioneros realistas, a quienes debía fusilar en represalia por la cruel muerte de su padre.
 
-De todos modos, como respuesta a la anterior noticia, sírvase mandar pasar a cuchillo a todos los prisioneros que tiene en su poder, comunicándome, en seguida, su ejecución. Igual cosa haré con los que yo guardo.
+Años después, **Bravo** participó  en la defensa del Congreso de Chilpancingo. En 1817, fue tomado prisionero por los españoles durante tres años, pero al salir libre por la amnistía de Fernando VII, se unió al Plan de Iguala. Al consumarse la **Independencia**, fue nombrado consejero de Estado. En 1823, luchó contra Iturbide cuando éste se coronó emperador. Fue vicepresidente de Guadalupe Victoria. Combatió a Guerrero en 1828, fue hecho prisionero, juzgado y desterrado, pero regresó a México en 1829.
 
-“En cumplimiento de esa orden, don Nicolás mandó poner en capilla a los 300 prisioneros. Durante esa noche los auxilió espiritualmente el sacerdote Sotomayor.
-
-Al día siguiente, Bravo ascendió a una plataforma improvisada, ante los prisioneros que serian pasados por las armas. EI pueblo en masa era testigo. Bravo les perdonó la vida y los dejó en libertad de partir. A tal magnanimidad que la historia recogería con respeto, el generalísimo Morelos no hizo comentario sobre la desobediencia militar que implicaba, quizá por las atenuantes de nobleza que inspiraban a su subalterno, quizá asimismo por los méritos de Bravo. Muchos de los indultados que parecían despertar de un sueño siniestro, se incorporaron a las filas insurgentes.”
-
-Así mereció el título de “Héroe del Perdón”, al indultar a los trescientos prisioneros realistas, a quienes debía fusilar en represalia por el ajusticiamiento de su padre, el también insurgente Leonardo Bravo, a pesar de que Morelos había propuesto al virrey el canje de 800 realistas por él.
-
-Bravo participó también en la defensa del Congreso de Chilpancingo. En 1817 fue prisionero de los españoles durante tres años y al salir libre por la amnistía decretada por Fernando VII, se unió al Plan de Iguala.
-
-Al consumarse la Independencia, fue nombrado consejero de Estado e individuo de la Regencia por el congreso Constituyente. En 1823 luchó contra Iturbide cuando éste se coronó emperador. Dirigente de la logia escocesa de corte conservador, al instaurarse la República, fue vicepresidente durante el gobierno de Guadalupe Victoria. Combatió a Guerrero cuando se levantó contra Gómez Pedraza en 1828. Bravo fue hecho prisionero en Tulancingo, juzgado por el Gran Jurado Nacional y desterrado a Colombia y Ecuador. Regresó a México en 1829 y ocupó varios puestos gubernamentales.
-
-En 1833 estuvo presente en la campaña contra los texanos rebeldes. Fungió brevemente tres veces como Presidente, dos veces en sustitución de Santa Anna del 11 al 17 de julio de 1839 y del 26 de octubre de 1842 al 14 de mayo de 1843, y de Mariano Paredes, del 28 de julio al 6 de agosto de 1846.
+**Nicolás Bravo** fue tres veces Presidente, aunque por periodos muy breves, dos veces sustituyendo a Antonio López de Santa Anna, de 1839 a 1843, y reemplazando a Mariano Paredes durante unos días en 1846. Murió de forma repentina en su lugar natal, la Hacienda de Chichicualco, el **22 de abril de 1854**; como su esposa murió al mismo tiempo, corrieron rumores de un envenenamiento. Su nombre está escrito con letras de oro en los muros del Congreso de la Unión.
 
 &nbsp;
