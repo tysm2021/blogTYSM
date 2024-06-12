@@ -16,7 +16,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/castillo-de-chapultepec-int.jpeg
+    src: /uploads/salon-de-emplomados-chapultepec-castle-mexico-2024.jpeg
 sharing: true
 author: Redacción TYSM
 cover: /uploads/salon-de-emplomados-chapultepec-castle-mexico-2024.jpeg
