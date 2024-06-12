@@ -1,6 +1,6 @@
 ---
 title: 'Castillo de Chapultepec: palacio, colegio, residencia y museo'
-date: 2023-09-26 11:00:00
+date: 2024-06-12 12:00:00
 categories:
   - TURISMO
 tags:
@@ -19,7 +19,7 @@ article_header:
     src: /uploads/castillo-de-chapultepec-int.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/castillo-de-chapultepec-int.jpeg
+cover: /uploads/salon-de-emplomados-chapultepec-castle-mexico-2024.jpeg
 show_author_profile: false
 comment: false
 summary: >-
@@ -32,7 +32,7 @@ Dicha construcción preside el bosque de **Chapultepec**, uno de los pulmones na
 
 **TE RECOMENDAMOS: [Cinco castillos europeos que morirás por conocer.](https://blog.tonoysumariachi.com/mundo/2022/11/23/cinco-castillos-europeos-que-moriras-por-conocer.html){: target="_blank" rel="noopener"}**
 
-El **Castillo de Chapultepec** es una espléndida construcción de finales del siglo XVIII, diseñada como casa de descanso por órdenes del virrey de la Nueva España. A lo largo del tiempo, sin embargo, el edificio se ha modificado varias veces en función de sus distintos usos: fue sede del **Colegio Militar**, escenario de batallas durante la **Intervención Estadounidense** —entre ellas, la Gesta Heróica de los **Niños Héroes**—, residencia imperial de **Maximiliano** y **Carlota,**&nbsp;residencia de algunos presidentes de México, como Porfirio Díaz, y finalmente se declaró museo. Así, a **historia** del **Castillo de Chapultepec** puede dividirse en cinco etapas:
+El **Castillo de Chapultepec** es una espléndida construcción de finales del siglo XVIII, diseñada como casa de descanso por órdenes del virrey de la Nueva España. A lo largo del tiempo, sin embargo, el edificio se ha modificado varias veces en función de sus distintos usos: fue sede del **Colegio Militar**, escenario de batallas durante la **Intervención Estadounidense** —entre ellas, la Gesta Heróica de los **Niños Héroes**—, residencia imperial de **Maximiliano** y **Carlota,** residencia de algunos presidentes de México, como Porfirio Díaz, y finalmente se declaró museo. Así, a **historia** del **Castillo de Chapultepec** puede dividirse en cinco etapas:
 
 ### Virreinato
 
@@ -50,11 +50,11 @@ Años después, el **Castillo** fue reconstruido y ocupada por primera vez como 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Castillo_de_Chapultepec_06.JPG/682px-Castillo_de_Chapultepec_06.JPG)
 
-**TE RECOMENDAMOS:&nbsp;[La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?](https://blog.tonoysumariachi.com/historia/2022/06/30/la-historia-de-los-ninos-heroes-de-chapultepec-es-verdad-o-mito.html){: target="_blank" rel="noopener"}**
+**TE RECOMENDAMOS: [La historia de los Niños Héroes de Chapultepec, ¿es verdad o mito?](https://blog.tonoysumariachi.com/historia/2022/06/30/la-historia-de-los-ninos-heroes-de-chapultepec-es-verdad-o-mito.html){: target="_blank" rel="noopener"}**
 
 ### Palacio imperial
 
-El Alcázar adquirió su aspecto actual cuando el archiduque austriaco **Maximiliano de Habsburgo** y su esposa, la princesa belga **Carlota**, residieron en el **Castillo** entre 1864 y 1867, durante el&nbsp;**Segunda Imperio Mexicano**. El inmueble fue acondicionado como palacio por el arquitecto mexicano Ramón Rodríguez Arangoity y los jardines fueron rediseñados por el botánico austriaco Wilhelm Knechtel. El castillo se ajuareó con cristalería, vajillas y mobiliario finísimo traído de Europa.
+El Alcázar adquirió su aspecto actual cuando el archiduque austriaco **Maximiliano de Habsburgo** y su esposa, la princesa belga **Carlota**, residieron en el **Castillo** entre 1864 y 1867, durante el **Segunda Imperio Mexicano**. El inmueble fue acondicionado como palacio por el arquitecto mexicano Ramón Rodríguez Arangoity y los jardines fueron rediseñados por el botánico austriaco Wilhelm Knechtel. El castillo se ajuareó con cristalería, vajillas y mobiliario finísimo traído de Europa.
 
 Los emperadores **Maximiliano** y **Carlota** eligieron como aposentos las habitaciones de la planta baja que miraban hacia el Oriente: hacia la Ciudad de México —recordemos que en aquel entonces Chapultepec estaba a las afueras—, el lago de Texcoco y los volcanes Iztaccíhuatl y Popocatépetl; razón por la cual mandaron construir una terraza panorámica frente a sus habitaciones.
 
