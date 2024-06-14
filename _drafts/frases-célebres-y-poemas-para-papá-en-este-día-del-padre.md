@@ -26,3 +26,10 @@ summary: >-
   Desde mediados del siglo XX, una serie de artistas y cantantes españoles
   emprendieron la "reconquista" del público mexicano
 ---
+Según el Gobierno de México, la idea de celebrar el **Día del Padre** surgió en el año 1910, encabezada por Louise Smart Dood, una mujer estadounidense que intentaba lograr el reconocimiento del papel de los padres en la sociedad. Fue hasta 1972 que se oficializó en México que el tercer domingo del mes de junio se hiciera un merecido homenaje a los padres en su día.
+
+A continuación, te compartimos algunos poemas sobre los padres y la bendición de la paternidad, así como unas frases célebres que honran la figura paterna.
+
+TE RECOMENDAMOS:
+
+M
