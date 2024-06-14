@@ -50,6 +50,8 @@ A continuación, te compartimos algunos **poemas** sobre los **padres** y la ben
 
 *Sin embargo…<br>en cada vuelo,<br>en cada vida,<br>en cada sueño,<br>perdurará siempre la huella<br>del camino enseñado.*
 
-&nbsp;
+### Algo sobre la muerte del mayor Sabines
 
-&nbsp;
+**Jaime Sabines**
+
+*Papá por treinta o por cuarenta años,<br>amigo de mi vida todo el tiempo,<br>protector de mi miedo, brazo mío,<br>palabra clara, corazón resuelto,<br><br>te has muerto cuando menos falta hacías,<br>cuando más falta me haces, padre, abuelo,<br>hijo y hermano mío, esponja de mi sangre,<br>pañuelo de mis ojos, almohada de mi sueño.<br><br>Te has muerto y me has matado un poco.<br>Porque no estás, ya no estaremos nunca<br>completos, en un sitio, de algún modo.<br><br>Algo le falta al mundo, y tú te has puesto<br>a empobrecerlo más, y a hacer a solas<br>tus gentes tristes y tu Dios contento.*
