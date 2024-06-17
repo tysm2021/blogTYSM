@@ -33,12 +33,16 @@ A final de mayo de 2024, los medios de comunicación de **México** cubrieron un
 
 Aquí te explicamos un poco sobre la **Guía** y te damos **la lista completa de restaurantes mexicanos** que han sido reconocidos con una o dos estrellas de la famosa marca de llantas.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**¿Quién inventó los tacos al pastor?**](https://blog.tonoysumariachi.com/gastronomia/2023/09/27/qui%C3%A9n-invent%C3%B3-los-tacos-al-pastor.html)
 
-Todo empezó en Clermont-Ferrand, en Francia, en el año 1889, cuando los hermanos **André** y **Edouard Michelin** fundaron la empresa de neumáticos que lleva su nombre. Unos años después, en 1900, surgió la famosa Guía MICHELIN, un ejemplar que proporcionaba a los automovilistas una pequeña guía que facilitase el viaje; luego en 1923, apareció por primera vez la categoría "Hoteles y restaurantes". Unos años después, en 1926, la guía comenzó a valorar con estrellas la calidad de los establecimientos, inicialmente con una estrella y más tarde se estableció la jerarquía de una, dos y tres estrellas.
+Todo empezó en Clermont-Ferrand, en Francia, en el año 1889, cuando los hermanos **André** y **Edouard Michelin** fundaron la empresa de neumáticos que lleva su nombre. Unos años después, en 1900, surgió la famosa **Guía MICHELIN**, un ejemplar que proporcionaba a los automovilistas consejos que facilitaran el viaje; luego en 1923, apareció por primera vez la categoría "Hoteles y **restaurantes**". Unos años después, en 1926, la guía comenzó a valorar con **estrellas** la calidad de los establecimientos, inicialmente con **una estrella** y más tarde se estableció la jerarquía de una, dos y tres estrellas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Guide_michelin_1929_couverture_2.png/464px-Guide_michelin_1929_couverture_2.png)
 
-Así fue, con el paso del tiempo,
+Así fue que, con el paso del tiempo, la Guía MICHELIN se convirtió en un referente de la gastronomía mundial, y sus famosas estrellas en una garantía de calidad, servicio, sabor y gastronomía de nivel internacional. A continuación, los restaurantes mexicanos que han sido premiados:
+
+Lista de restuarntes
+
+&nbsp;
 
 &nbsp;
