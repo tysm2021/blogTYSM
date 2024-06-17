@@ -75,15 +75,15 @@ Ubicado en la exclusiva zona del Pedregal de San Ángel de la CDMX, este espacio
 
 Su especialidad es la cocina con influencia italiana y lleva casi dos décadas siendo uno de los mejores restaurantes de la CDMX. &nbsp;Se localiza en Colima 166, col. Roma.
 
-Animalón
+### Animalón
 
-&nbsp;
+&nbsp;Para comer en este restaurante, que se especializa en cocina del mar servida al aire libre, tendrás que viajar mucho pero valdrá la pena. Se halla en Carretera Federal \#3 Km. 83, Valle de Guadalupe, Baja California.
 
-HA'
+### HA'
 
-&nbsp;n
+&nbsp;Ubicado dentro del Hotel XCaret, es considerado el mejor de Playa del Carmen. Su dirección es: Carretera Chetumal-Puerto Juárez, Km. 282, Solidaridad, Playa del Carmen, Q. Roo.
 
-Damiana
+### Damiana
 
 &nbsp;n
 
