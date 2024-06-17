@@ -63,17 +63,17 @@ Cocina internacional basada en mariscos, con un toque exótico. Está en Tonalá
 
 Ubicado en la exclusiva zona del Pedregal de San Ángel de la CDMX, este espacioso restaurante ofrece platillos exquisitos que combinan lo mejor de los ingredientes nacionales y la cocina del mundo. Su dirección es: Blvd. De La Luz 777, col. Jardines del Pedregal
 
-Levadura de olla
+### Levadura de olla
 
-&nbsp;
+&nbsp;Es te hermoso lugar, ubicado en Manuel García Vigil \#304, en la ciudad de Oaxaca, es propiedad de Thalía Barrios García, una joven chef que se inspira en el recetario tradicional oaxaqueño y en los recuerdos de su pueblo natal.
 
-Esquina común
+### Esquina común
 
-&nbsp;
+&nbsp;En su azotea cubierta con abundante vegetación se respira una atmósfera agradable y relajada. Y la comida, fresca y con abundantes pescados y mariscos, es de gran nivel. Se halla en Fernando Montes de Oca 86, col. Condesa, CDMX.
 
-Rosetta
+### Rosetta
 
-&nbsp;
+Su especialidad es la cocina con influencia italiana y lleva casi dos décadas siendo uno de los mejores restaurantes de la CDMX. &nbsp;Se localiza en Colima 166, col. Roma.
 
 Animalón
 
@@ -81,43 +81,39 @@ Animalón
 
 HA'
 
-&nbsp;
+&nbsp;n
 
 Damiana
 
-&nbsp;
+&nbsp;n
 
 Cocina de autor Riviera Maya
 
-&nbsp;
+&nbsp;n
 
 Conchas de Piedra
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+&nbsp;n
 
 Los Danzantes Oaxaca
 
-&nbsp;
+&nbsp;n
 
 Pangea
 
-&nbsp;
+&nbsp;n
 
 Le chique
 
-&nbsp;
+&nbsp;n
 
 KOLI
 
-&nbsp;
+&nbsp;n
 
 Cocina de autor Los Cabos
 
-&nbsp;
+&nbsp;n
 
 ### Taquería El Califá de León
 
