@@ -26,6 +26,6 @@ cover: /uploads/1024px-camilosesto.png
 show_author_profile: false
 comment: false
 summary: >-
-  Desde mediados del siglo XX, una serie de artistas y cantantes españoles
-  emprendieron la "reconquista" del público mexicano
+  Hace poco causó revuelo que una taquería de la CDMX ganó este prestigiado
+  reconocimiento; pero, ¿qué otros restaurantes tienen una estrella Michelin?
 ---
