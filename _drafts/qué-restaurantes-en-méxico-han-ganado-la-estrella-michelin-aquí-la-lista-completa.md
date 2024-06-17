@@ -85,36 +85,16 @@ Su especialidad es la cocina con influencia italiana y lleva casi dos décadas s
 
 ### Damiana
 
-&nbsp;n
+Está en los Viñedos de la Reina, entre dos hileras de árboles dan sombra a las mesas dispuestas en el patio, un espacio perfecto para quienes prefieren comer al aire libre.&nbsp;Carretera Federal Ensenada-Tecate Km. 71, Valle de Guadalupe.
 
-Cocina de autor Riviera Maya
+![](https://resizer.otstatic.com/v2/photos/wide-xlarge/3/62464489.jpg)
 
-&nbsp;n
+### Cocina de autor Riviera Maya
 
-Conchas de Piedra
-
-&nbsp;n
-
-Los Danzantes Oaxaca
-
-&nbsp;n
-
-Pangea
-
-&nbsp;n
-
-Le chique
-
-&nbsp;n
-
-KOLI
-
-&nbsp;n
-
-Cocina de autor Los Cabos
-
-&nbsp;n
+&nbsp;Una vez dentro del *resort* Grand Velas, disfrutarás de una experiencia inmersiva que incluye música en directo, servicio de primera y, cómo no, una cocina singular. Su drección: Carr. Cancún-Tulum, Km. 62, en Playa del Carmen.
 
 ### Taquería El Califá de León
 
 La más reciente adquisición de la famosa Guía. Sólo sirven **tacos de bistec** y de **costilla** de res, sazonados con especias y dos salsas que son "la receta secreta". Se encuentra sobre Rivera de San Cosme, en la colonia San Rafael de CDMX.
+
+Otros **restaurantes** reconocidos con **una estrella Michelin**, que significa "una cocina de gran nivel", son: Conchas de Piedra, especializado en comida del mar y ubicado en Valle de Guadalupe; **Los Danzantes Oaxac**a, en la capital oaxaqueña, con lo mejor de la gastronomía local; Pangea, en San Pedro Garza García, N.L., un referente de la buena mesa en Monterrey gracias a su cocina mexicana de hábil factura adornada con notas asiáticas y francesas; **Le chique**, ubicado en el Azul Beach Resort de Puerto Madero, Q. Roo; KOLI, el restaurante que encarna mejor la nueva cara de la cocina norestense, ubicado en Monterrey; y, por último, **Cocina de autor Los Cabo**s, en Cabo San Lucas, dentro del Hotel Gran Velas.&nbsp;
