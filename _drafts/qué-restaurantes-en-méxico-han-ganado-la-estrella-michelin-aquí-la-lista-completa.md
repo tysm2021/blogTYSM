@@ -93,7 +93,7 @@ Está en los Viñedos de la Reina, entre dos hileras de árboles dan sombra a la
 
 &nbsp;Una vez dentro del *resort* Grand Velas, disfrutarás de una experiencia inmersiva que incluye música en directo, servicio de primera y, cómo no, una cocina singular. Su drección: Carr. Cancún-Tulum, Km. 62, en Playa del Carmen.
 
-### Taquería El Califá de León
+### Taquería El Califa de León
 
 La más reciente adquisición de la famosa Guía. Sólo sirven **tacos de bistec** y de **costilla** de res, sazonados con especias y dos salsas que son "la receta secreta". Se encuentra sobre Rivera de San Cosme, en la colonia San Rafael de CDMX.
 
