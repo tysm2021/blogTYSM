@@ -1,6 +1,6 @@
 ---
 title: Historia, origen y significado de la frase "Hacer lo que el viento a Juárez"
-date: 2024-06-19 10:00:00
+date: 2024-07-01 10:00:00
 categories:
   - MEXICANISIMOS
 tags:
@@ -16,7 +16,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-camilosesto.png
+    src: /uploads/vientoajuarez.png
 sharing: true
 author: Redacción TYSM
 cover: /uploads/1024px-camilosesto.png
