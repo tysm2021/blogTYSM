@@ -33,6 +33,18 @@ Haciendo una investigación, resulta que no existe una sola respuesta y sí vari
 
 **TE RECOMENDAMOS:** [**Benito Juárez, ¿por qué dijo "El respeto al derecho ajeno es la paz"?**](https://blog.tonoysumariachi.com/historia/2022/12/01/benito-juarez-por-que-dijo-el-respeto-al-derecho-ajeno-es-la-paz.html)
 
-La barca
+## La barca
+
+Esta es quizás, la versión más popular y habla de un **Benito** que aún es niño y vive en su natal **Guelatao**, estado de Oaxaca. Siendo pastor, muchas veces pasaba las tardes a la intemperie y con frecuencia iba de cacería con otros niños. Cuentan que en una ocasión Juárez se embarcó en una pequeña canoa y fueron sorprendidos por un ventarrón: todos los niños abandonaron la barca y nadaron a la orilla, pero **Benito** se quedó en ella y valientemente aguantó hasta que terminó el fuerte **viento**. Según el escritor Fernando Benítez, en su libro *Un indio zapoteco llamado Benito Juárez*, éste es el origen de la expresión.
+
+![](https://turismo.guadalajaravisit.com/wp-content/uploads/2020/03/benito-juarez-cosas-que-no-sabias-2.jpg)
+
+En su libro 'Un indio zapoteco llamado Benito Juárez', Fernando Benítez recoge una leyenda —de esas que abundan en los libros de historia de México— que dice que, cuando era niño, don Benito solía ir a cazar animales pequeños acompañado por otros niños; pero en una ocasión se embarcaron en una pequeña canoa y fueron sorprendidos por un ventarrón: los niños, asustados, abandonaron la embarcación y nadaron a la orilla, sólo Benito se quedó en ella y aguantó hasta que terminó el ventarrón. Según Benítez, en los siguientes días nació la frase en el pueblo de Guelatao
 
 La estatua
+
+La pintura
+
+La levita
+
+&nbsp;
