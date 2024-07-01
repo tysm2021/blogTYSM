@@ -55,4 +55,6 @@ Una tercera versión sobre el origen de esta expresión tiene que ver con una pi
 
 ## El albur
 
-&nbsp;
+Como lo lees. Existen dos versiones diferentes, un poco subidas de tono, que conste. La primera historia responde a la pregunta ¿**Qué fue lo que le hizo el viento a Juárez**? y dice: "Le voló el sombrero y le campaneó los huevos", quizás haciendo alusión a alguno de los monumentos ya mencionados. La segunda es más complicada de entender, pues empieza diciendo que lo único que **le hizo el viento Juárez** fue que "le movió la levita" —refiriéndose a la especie de saco largo que se usaba en ese tiempo, que cubre el cuerpo hasta casi la rodilla—, que equivale a decir, que "le hizo la chaqueta a un lado"; o sea que le hizo la masturbación o, como decimos coloquialmente: "se la peló".
+
+Sí, que nos laven la boca con jabón… ¡pero no digas que no te lo advertimos!
