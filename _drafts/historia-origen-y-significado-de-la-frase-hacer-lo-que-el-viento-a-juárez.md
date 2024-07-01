@@ -39,9 +39,13 @@ Esta es quizás, la versión más popular y habla de un **Benito** que aún es n
 
 ![](https://turismo.guadalajaravisit.com/wp-content/uploads/2020/03/benito-juarez-cosas-que-no-sabias-2.jpg)
 
-En su libro 'Un indio zapoteco llamado Benito Juárez', Fernando Benítez recoge una leyenda —de esas que abundan en los libros de historia de México— que dice que, cuando era niño, don Benito solía ir a cazar animales pequeños acompañado por otros niños; pero en una ocasión se embarcaron en una pequeña canoa y fueron sorprendidos por un ventarrón: los niños, asustados, abandonaron la embarcación y nadaron a la orilla, sólo Benito se quedó en ella y aguantó hasta que terminó el ventarrón. Según Benítez, en los siguientes días nació la frase en el pueblo de Guelatao
+## La estatua
 
-La estatua
+Otra versión habla, más bien, de una estatua del presidente **Juárez**, la cual se encontraba en un importante puerto mexicano —los lugares cambian dependiendo de a quién se le pregunte, pero casi siempre es **Tampico**—, con la mirada puesta hacia el inmenso mar. Cuentan que un terrible huracán azotó la región y los ventarrones destrozaron prácticamente todo a su paso, pero la **estatua** de **Juárez** permaneció de pie e intacta. De ahí que cuando algo que parece muy amenazador no te hace ni un rasguño, se dice que te "hace **lo que el viento a Juárez**".
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Monumento_a_Benito_Ju%C3%A1rez_%28Cerro_de_las_Campanas%2C_Quer%C3%A9taro%29.jpg/910px-Monumento_a_Benito_Ju%C3%A1rez_%28Cerro_de_las_Campanas%2C_Quer%C3%A9taro%29.jpg)
+
+Una variante de esta versión se refiere a la estatua que está en el lugar del fusilamiento de Maximiliano, Mejía y Miramón: el **Cerro de las Campanas**, en Querétaro, un lugar en las alturas donde los **vientos** soplan inclemente, pero que esta imagen en bronce del presidente **Juárez** encara sin temor.
 
 La pintura
 
