@@ -47,8 +47,12 @@ Otra versión habla, más bien, de una estatua del presidente **Juárez**, la cu
 
 Una variante de esta versión se refiere a la estatua que está en el lugar del fusilamiento de Maximiliano, Mejía y Miramón: el **Cerro de las Campanas**, en Querétaro, un lugar en las alturas donde los **vientos** soplan inclemente, pero que esta imagen en bronce del presidente **Juárez** encara sin temor.
 
-La pintura
+## La pintura
 
-La levita
+Una tercera versión sobre el origen de esta expresión tiene que ver con una pintura, en la cual **Juárez** enarbola gallardamente una bandera que ondea sacudida por el **viento**, pero él luce su acostumbrado peinado "de queso Oaxaca", relamido y sin un pelo fuera de su lugar. No se sabe bien a bien qué pintura podría ser, pero algunos especulan que es este mural en el Museo Nacional de Historia:
+
+![](/uploads/benitojuarezmural.png)
+
+## El albur
 
 &nbsp;
