@@ -65,10 +65,16 @@ Es un museo de sitio creado para rendir homenaje al Benemérito de las Américas
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Recinto_homenaje_a_Benito_Ju%C3%A1rez_V.jpg/1024px-Recinto_homenaje_a_Benito_Ju%C3%A1rez_V.jpg)
 
-Museo Histórico de Palacio Nacional
+## Museo Histórico de Palacio Nacional
 
-Las voces, rostros, utensilios y ropajes, exhibidos en este recinto, se convierten en emisarios del pasado y nos permiten apreciar y comprender que Palacio Nacional es un patrimonio vivo, ejemplo de conservación y adaptación a paso del tiempo.
+Las voces, rostros, utensilios y ropajes, exhibidos en este recinto, se convierten en emisarios del pasado y nos permiten apreciar y entender que **Palacio Nacional** es un patrimonio vivo, ejemplo de conservación y adaptación a paso del tiempo.
 
-Áreas de presidencia
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Palacio_Nacional_IMG_7100_%2827130706480%29.jpg/1024px-Palacio_Nacional_IMG_7100_%2827130706480%29.jpg)
+
+## Áreas de presidencia
+
+Dentro de **Palacio Nacional** hay multitud de **salones**, entre los que se cuentan: el Salón de la Tesorería, donde el presidente López Obrador acostumbra dar sus conferencias de prensa "mañaneras"; el Salón de Embajadores, los salones Azul, Morado y Verde, el Salón de Acuerdos, el Salón Juárez, el Salón de Acuerdos, el Comedor, el Antecomedor y la Biblioteca Presidenciales, y desde luego el Despacho Presidencial.
+
+&nbsp;
 
 &nbsp;
