@@ -27,17 +27,17 @@ summary: >-
   Se ubica en la Plaza de la Constitución o Zócalo, en el centro histórico de la
   CDMX, y es la actual casa presidencial. ¿Conoces su historia?
 ---
-Cada 15 de septiembre,  el presidente de México da desde su balcón central el famoso "Grito" de independencia y observa los fuegos artificiales, al día siguiente, en el mismo lugar presencia el desfile militar. Es actualmente, además, la casa presidencial y desde que nuestro país era un virreinato podría considerarse el corazón político de México. Hablamos del Palacio Nacional, un edificio cuya historia vale la pena contar.
+Cada 15 de septiembre,  el **presidente** de **México** da desde su balcón central el famoso "Grito" de independencia y observa los fuegos artificiales, al día siguiente, en el mismo lugar presencia el desfile militar. Es actualmente, además, la casa presidencial y desde que nuestro país era un virreinato podría considerarse el corazón político de México. Hablamos del **Palacio Nacional**, un edificio cuya historia vale la pena contar.
 
 Hagamos un breve recorrido en el tiempo y conozcamos su origen e historia, algunos de sus hechos más relevantes y sus espacios más emblemáticos.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Al insurgente Nicolás Bravo, ¿por qué se le conoce como "el Héroe del Perdón"?**](https://blog.tonoysumariachi.com/historia/2024/06/11/al-insurgente-nicol%C3%A1s-bravo-por-qu%C3%A9-se-le-conoce-como-el-h%C3%A9roe-del-perd%C3%B3n.html)
 
-la historia de este emblemático edificio se remonta al siglo XVI, poco después de la caída de Tenochtitlan, cuando se comenzó su construcción sobre los restos de lo que fue el palacio de Moctezuma Xocoyotzin, tlatoani de los mexicas, a un costado del Templo Mayor. La edificación tenía como propósito inicial ser residencia para Hernán Cortés, sin embargo, se ocupó como morada para los virreyes que llegaban desde España.
+La **historia** del **Palacio Nacional de México** se remonta al siglo XVI, poco después de la caída de México-Tenochtitlan, cuando su construcción se inició sobre las ruinas del **palacio de Moctezuma** Xocoyotzin, tlatoani de los mexicas, a un costado del Templo Mayor. El edificio, en aquel entonces, tenía como propósito ser la residencia del conquistador Hernán Cortés; sin embargo, se ocupó como morada para los virreyes que llegaban desde España.
 
-Desde entonces el Palacio Nacional se configuró como el lugar del poder político de la Nueva España, papel que se ratificó una vez consumada la Independencia, en el entonces naciente Estado mexicano, pues en sus estancias han habitado y trabajado desde los virreyes y emperadores, hasta presidentes.
+Desde entonces, el **Palacio Nacional** se convirtió en el corazón político de la Nueva España, papel que se ratificó cuando se consumó la Independencia de **México**, pues en sus habitaciones han vivido y trabajado desde los virreyes novohispanos y los dos emperadores, Agustín I y Maximiliano I, hasta presidentes. Actualmente es la **sede del Poder Ejecutivo** del Gobierno Federal mexicano, ocupa una superficie 40 mil metros cuadrados y además fue considerado por la UNESCO como Patrimonio de la Humanidad en 1987.
 
-Es la sede del Poder Ejecutivo del Gobierno Federal mexicano y ocupa unos 40,000 metros cuadrados. Es considerado como Patrimonio de la Humanidad desde 1987.
+&nbsp;
 
 La construcción comenzó en 1522. Iba a ser la segunda residencia privada de Hernán Cortés, construida sobre parte del palacio existente del Huey Tlatoani, Moctezuma Xocoyotzin. Este palacio era conocido como las **Casas Nuevas de Moctezuma**. Con la caída de la antigua Tenochtitlán, la Corona española la declaró sede de los virreyes de la Nueva España. Funcionó como tal durante unos 300 años.
 
