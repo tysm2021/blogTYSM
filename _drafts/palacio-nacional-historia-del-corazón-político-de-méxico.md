@@ -41,23 +41,29 @@ Un gran incendio destruyó gran parte del complejo en 1692 y el Palacio fue reco
 
 En las habitaciones del **Palacio Nacional** han vivido y trabajado desde los virreyes novohispanos, el emperador Agustín I y hasta presidentes. Actualmente es la **sede del Poder Ejecutivo** del Gobierno Federal mexicano, ocupa una superficie 40 mil metros cuadrados y además fue considerado por la UNESCO como Patrimonio de la Humanidad en 1987. Aquí se recibe a jefes de Estado y gobiernos extranjeros y se llevan a cabo **las festividades oficiales del Grito de Dolores**.
 
-Durante los 500 años de su historia, el estilo arquitectónico de **Palacio Nacional** ha sido modificado y ampliado muchas veces. Contiene elementos neoclásicos, barrocos y neocoloniales. La apariencia actual es el resultado de un trabajo importante durante la segunda década del siglo XX cuando se agregó un tercer nivel. Con un valioso patrimonio histórico-artístico, los murales de Diego Rivera son magníficos ejemplos de arte que es posible visitar en su interior.
+Durante los cinco siglos de su historia, el estilo arquitectónico de **Palacio Nacional** ha sido modificado y ampliado muchas veces. Contiene elementos neoclásicos, barrocos y neocoloniales, y su apariencia actual es el resultado de un trabajo importante en la década de 1920, cuando se agregó un tercer nivel. Además, los **murales** de **Diego Rivera** son magníficos ejemplos de arte que es posible visitar en su interior.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Palacio_Nacional_Murals_view.JPG/1024px-Palacio_Nacional_Murals_view.JPG)
 
-Hoy en día, este inigualable recinto alberga al poder ejecutivo y a la Secretaría de Hacienda y Crédito Público, y, al mismo tiempo, abre sus puertas al público para conocer los murales de Diego Rivera, sus impresionantes jardines, dos museos, escalinatas decimonónicas, fondos históricos y un extraordinario patio central en el que se llevan a cabo algunas de las ceremonias cívicas de mayor relevancia.
+Hoy en día, el recinto alberga también a la Secretaría de Hacienda y Crédito Público, y está abierto al público para visitar los murales de Rivera, sus impresionantes jardines, dos museos, las escalinatas, los fondos históricos y otros espacios, tales como;
 
-Patio Central
+## Patio Central
 
-El más amplio y apabullante patio dentro de Palacio Nacional. Su construcción se remonta al siglo XVIII, y en él podemos encontrar no solamente un elegante estilo arquitectónico, sino también la Fuente de Pegaso. Esta obra, realizada en 1972 y colocada en 1973, cuenta con una base ochavada de mármol blanco y una figura en su cima que hace referencia a Pegaso, el mítico caballo alado que nació de la sangre de Medusa y que ayudó al héroe Belerofonte en su épica batalla contra la Quimera. No cabe duda de que esta pieza es la cereza del pastel en cuanto a la ornamentación del edificio.
+El patio más amplio dentro de **Palacio Nacional**. Data del siglo XVIII y en él podemos encontrar la Fuente de Pegaso, con una base ochavada de mármol y una figura en su cima que hace referencia al mítico caballo alado que nació de la sangre de Medusa. Esta pieza es una cereza en el pastel de la ornamentación del edificio.
 
-Recinto Parlamentario
+![](/uploads/patio-central-en-palacio-nacional-mexico-2019.jpeg)
 
-Es un majestuoso salón neoclásico que albergó la Cámara de Diputados durante gran parte del siglo XIX. La planta es semicircular, acorde al modelo francés de recinto legislativo. El 22 de agosto de 1872 se incendió de manera accidental y fue reconstruido cien años después como parte de las conmemoraciones del aniversario luctuoso de Benito Juárez.
+## Recinto Parlamentario
 
-Recinto Homenaje a Benito Juárez
+Es un majestuoso salón neoclásico que durante gran parte del siglo XIX albergó a la Cámara de Diputados. Tiene una planta semicircular y el 22 de agosto de 1872 se incendió accidentalmente, siendo reconstruido cien años después como parte de las conmemoraciones del aniversario luctuoso de Benito Juárez. En sus muros están los nombres de los constituyentes de la Carta Magna de 1857.
 
-Es un museo de sitio creado para honrar la memoria del Benemérito de las Américas, el cual se encuentra ubicado en los espacios de Palacio Nacional que habitó hacia el final de su vida. Exhibe de forma permanente una nutrida colección de pinturas, medallas e insignias que permiten conocer aspectos fundamentales de la vida y obra de Benito Juárez. Además, contiene una biblioteca especializada en el siglo XIX con un valioso acervo bibliográfico y hemerográfico que da cuenta de la importancia de este personaje en la historia de México.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Palacio_Nacional_IMG_7166_%2826798353454%29.jpg/1024px-Palacio_Nacional_IMG_7166_%2826798353454%29.jpg)
+
+## Recinto Homenaje a Benito Juárez
+
+Es un museo de sitio creado para rendir homenaje al Benemérito de las Américas, el cual se encuentra en los espacios de **Palacio Nacional** donde Juárez hacia el final de su vida. Exhibe de forma permanente una colección de pinturas, medallas e insignias de Benito Juárez., y además tiene una biblioteca especializada en el siglo XIX.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Recinto_homenaje_a_Benito_Ju%C3%A1rez_V.jpg/1024px-Recinto_homenaje_a_Benito_Ju%C3%A1rez_V.jpg)
 
 Museo Histórico de Palacio Nacional
 
