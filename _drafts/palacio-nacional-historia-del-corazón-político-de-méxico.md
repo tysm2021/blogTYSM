@@ -20,10 +20,10 @@ article_header:
     src: /uploads/patio-central-en-palacio-nacional-mexico-2019.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/patio-central-en-palacio-nacional-mexico-2019.jpeg
 show_author_profile: false
 comment: false
 summary: >-
-  Desde mediados del siglo XX, una serie de artistas y cantantes españoles
-  emprendieron la "reconquista" del público mexicano
+  Se ubica en la Plaza de la Constitución o Zócalo, en el centro histórico de la
+  CDMX, y es la actual casa presidencial. ¿Conoces su historia?
 ---
