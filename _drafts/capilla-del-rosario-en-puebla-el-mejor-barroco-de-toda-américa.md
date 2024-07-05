@@ -17,7 +17,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-camilosesto.png
+    src: /uploads/vista-de-la-capilla-del-rosario-puebla.jpg
 sharing: true
 author: Redacción TYSM
 cover: /uploads/vista-de-la-capilla-del-rosario-puebla.jpg
@@ -43,10 +43,10 @@ La **capilla** comunica con el cuerpo del **Templo de Santo Domingo** a través 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Capilla_del_Rosario_37.jpg/1024px-Capilla_del_Rosario_37.jpg)
 
-El interior de la capilla es –sin exagerar- portentoso, donde la estructura arquitectónica ha sido cubierta con relieves en que la fantasía más osada ha sido interpretado el sentimiento religioso del pueblo en su época. El conjunto, a primera vista aturde, pues los lados de la nave, simétricos, revisten sus muros con marcos sustuosísimos para los seis grandes lienzos con que José Rodríguez Carnero pintó las escenas del Nacimiento de Cristo y los misterios gozosos del Rosario. Los relieves ascendentes, cubren las pilastras, las bóvedas, todo. Las pinturas son de tono sombrío, recién restauradas, pintadas con el estilo claroculista de la época, en contraste con las que adornan el crucero, del mismo pintor, que son tan luminosas y claras que bien podrían pasar por lienzos del siglo XVIII, siendo dicho contraste intencional para dar mayor realce e importancia a las escenas de los misterios gloriosos a los que pertenecen los pasajes de la Asunción, la Coronación y la Glorificación de la Virgen María.
+El interior de la **Capilla del Rosario** es, sin exagerar, portentoso. Toda la estructura arquitectónica se cubrió con relieves espectaculares que expresan el sentimiento religioso del pueblo en su época. A primera vista, puede aturdir al visitante por la cantidad de adornos, personajes y escenas que se despliegan; además, en las partes laterales lucen seis grandes lienzos que José Rodríguez Carnero pintó con las escenas del Nacimiento de Cristo y los misterios gozosos del Rosario.
 
-<br>En el centro del santuario se levanta el trono de la Virgen, con un baldaquino labrado por el maestro Lucas Pinto, de origen peninsular. El primer cuerpo con sus columnas de tecali y el segundo con las salomónicas doradas contribuyen a crear un efecto evanescente que flota desprendido del interior de la cúpula, en donde hasta los angelitos que decoran el segundo cuerpo y el capulín adoptan posiciones de danza tal si desearan ascender al reino celeste donde las vírgenes mártires exhiben los símbolos de su holocausto.
+En el centro del recinto se levanta el trono de la **Virgen del Rosario**, con un baldaquino labrado por el maestro español Lucas Pinto, con sus columnas de tecali en el primer nivel y el segundo, con columnas salomónicas doradas contribuyen a crear un efecto divino. La Virgen luce elegantes vestidos bordados con hilos de plata, que van cambiando dependiendo del calendario litúrgico. Sobre ella, se aprecia una imagen de bulto de San Domingo de Guzmán, fundador de la orden dominica.
 
-ostenta el primer lugar del Premio Internacional como Mejor Barroca de Iberoamérica.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Capilla_del_Rosario_18.jpg/682px-Capilla_del_Rosario_18.jpg)
 
-Además de su belleza, fueron su estructura, composición arquitectónica, discurso ornamental y religioso, y el grado de conservación, los elementos que la hicieron quedar al frente en esta pugna convocada por el Congreso Internacional Barroco Iberoamericano 2020 de España, donde compitió hasta el final con la iglesia de San Francisco, ubicada en Lima, Perú.
+Por todas estas razones, la **Capilla del Rosario** ostenta el primer lugar del Premio Internacional como **Mejor Barroca** de Iberoamérica. Además de su belleza, fueron su estructura, su composición arquitectónica, el discurso ornamental y religioso, y el grado de conservación, los elementos que la hicieron quedar al frente en este certamen convocado por el Congreso Internacional Barroco Iberoamericano 2020 de España, donde compitió hasta el final con la iglesia de San Francisco de Lima, Perú.
