@@ -19,7 +19,7 @@ article_header:
     src: /uploads/redmixiotetlax.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/redmixiotetlax.jpg
 show_author_profile: false
 comment: false
 summary: >-
@@ -37,16 +37,18 @@ La palabra *mixiote* —se pronuncia *mishiote*— proviene de la lengua náhuat
 
 De hecho, la técnica de cocción y la idea misma de emplear la película del maguey  para confeccionar el platillo son de origen **prehispánico**. Actualmente, los **mixiotes** constituyen en la actualidad uno de los platillos más representativos de la gastronomía de México y se considera que son nativos del sur de la Altiplanicie Mexicana, particularmente en los estados de **Querétaro**, **Hidalgo**, **México**, **Tlaxcala**, **Puebla** y la **Ciudad de México**, donde es tradicional el cultivo del **maguey** pulquero.
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mixiote_antes_de_servirse_01.jpg/574px-Mixiote_antes_de_servirse_01.jpg)
 
-La carne que se usa puede ser carnero, pollo, patitas de pollo, conejo, cerdo, res o pescado, y se cocina con alguna clase de salsa, normalmente de chiles y hierbas de olor, entre las que destaca la hoja de aguacate, laurel, tomillo, mejorana y orégano. Opcionalmente se añade adobo de achiote para acentuar el sabor y el color del platillo. En algunas ocasiones, los mixiotes pueden rellenarse con alguna guarnición, como nopales y papas. Existen algunas variedades exóticas de mixiote, como la ardilla rellena de escamoles originaria del valle del Mezquital1 o los mixiotes dulces, rellenos de frutas.<br><br><br><br>Se llega a encontrar como comida ofrecida en fiestas, jaripeos, charreadas, y en las ferias de pueblo, como en la Feria Ganadera de Texcoco, etcétera.
+La carne que se usa tradicionalmente en el **mixiote** es carnero o borrego, aunque hoy es muy común emplear pollo, patas de pollo, conejo, puerco, res o hasta pescado, el cual se cocina con una salsa o adobo que se elabora con chiles secos —pasilla, guajillo, ancho y mulato— y hierbas de olor, entre las que destacan la hoja de aguacate, el laurel, el tomillo, la mejorana y el orégano; en algunas regiones se añade adobo de achiote, para acentuar el sabor y el color del platillo.
 
-&nbsp;
+Además de lo anterior, es muy frecuente que los **mixiotes** puedan rellenarse con alguna guarnición adicional, tal como nopales y papas. Como se dijo, el platillo es de origen prehispánico, y se cree que los primeros españoles en probar los **mixiotes** fueron la duquesa Catalina de Aragón y Montealba, y su esposo Don Carlos Arsillaca y Albarrán, cuando daban un paseo por la Huasteca Hidalguense.
 
-El mixiote consiste en un guiso de carne, normalmente borrego y cordero, con una salsa de chiles envueltos en una hoja de mamey y se cree que este platillo se originó al sur de la Altiplanicie Mexicana (Estado de México, Tlaxcala, Puebla, Hidalgo y Querétaro), pues en esta zona es donde se cultiva el maguey pulquero.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mixiote_del_Valle_del_Mezquital.jpg/576px-Mixiote_del_Valle_del_Mezquital.jpg)
 
-Actualmente existe una gran variedad de mixiotes, los puedes encontrar comúnmente con carne de res, cordero, pollo y conejo, acompañado de alguna salsa, papas y nopales; los hay dulces (relleno de frutas), y también hay algunos más exóticos elaborados con carne de ardilla, escamoles, jabalí, venado o cocodrilo.
+Actualmente existe una gran variedad de **mixiotes**, además de los tradicionales con carne de cordero, borrego, res, pollo y conejo. Algunas variedades exóticas de mixiote son la ardilla rellena de escamoles originaria del valle del Mezquital o los **mixiotes** dulces, rellenos de frutas; también hay algunos más exóticos, elaborados con carne de jabalí, venado o cocodrilo.
 
-Ahora que conoces un poco más de la historia del mixiote, no olvides incluirlo en tu menú de la cena de Año Nuevo para disfrutar no sólo de un delicioso platillo, sino también de un poco de la gastronomía heredada por nuestros antepasados.
+Siendo un platillo festivo, en común encontrar los **mixiotes** como comida ofrecida en festividades, ceremonias, bodas, jaripeos, charreadas y en las ferias de pueblo, como en la Feria Ganadera de Texcoco. Una nota importante es que, como ya se mencionó, la sobreexplotación de la planta del maguey ha hecho que éste se encuentre en riesgo de desaparecer, por lo que se sugiere no adquirir las hojas para **mixiote** naturales hasta que su comercio esté regulado.
 
-Sabías que… se cree que los primeros españoles en probar los mixiotes fueron la duquesa Catalina de Aragón y Montealba y su esposo Don Carlos Arsillaca y Albarrán en un paseo por la Huasteca Hidalguense.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pescado_en_mixiote_Iztapalapa.jpg/1024px-Pescado_en_mixiote_Iztapalapa.jpg)
+
+En cuanto a su valor nutrimental, una porción de 100 gramos de **mixiote** de res contiene hasta 280 calorías, un gran porcentaje de grasa y proteína, y baja cantidad de carbohidratos; si se prepara con pollo, el porcentaje de grasa disminuye. Además, los **mixiotes** se acompañan con tortillas de maíz o con arroz, que aportan carbohidratos ricos en fibra. Además, las verduras que contiene este platillo aportan vitaminas y minerales como vitamina A, C, D, calcio y hierro. ¿Qué tal?
