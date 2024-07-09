@@ -1,5 +1,5 @@
 ---
-title: 'Mixiote: una delicia culinaria envuelta en hoja de ma¡íz'
+title: 'Mixiote: una delicia culinaria envuelta en hoja de maguey'
 date: 2024-07-09 14:00:00
 categories:
   - GASTRONOMIA
