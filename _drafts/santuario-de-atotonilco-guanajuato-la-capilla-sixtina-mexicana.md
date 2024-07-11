@@ -44,24 +44,16 @@ Su construcción se inició en el siglo XVIII bajo la dirección del sacerdote *
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Santuario_de_Jes%C3%BAs_Nazareno_de_Atotonilco%2C_Guanajuato.jpg/682px-Santuario_de_Jes%C3%BAs_Nazareno_de_Atotonilco%2C_Guanajuato.jpg)
 
-La iglesia está compuesta de una nave principal, siete capillas anexas, sacristía y seis camarines. Las capillas están decoradas con cuadros de **Juan Rodríguez Juárez**.
+La **iglesia** está compuesta por una nave principal, siete **capillas** —del Calvario, del Santo Sepulcro, de Loreto, del Santo Cenáculo, de la Purísima, de Belén y del Rosario—, una sacristía y seis **camarines**, el más importante de los cuales se llama Camarín de los Apóstoles y es un espléndido espacio con una bóveda circular que despliega figuras de bulto de los doce apóstoles de Jesús. Las capillas están decoradas con cuadros del famoso pintor novohispano **Juan Rodríguez Juárez**.
+
+Según la tradición, el día 3 de mayo de 1740, Día de la Santa Cruz, el padre Alfaro se preparaba para trazar los cimientos del **Santuario** cuando se dejaron ver tres arco iris. En la Biblia, el arco iris es un símbolo de reconciliación de Dios con los hombres, como el que apareció cuando terminó el Diluvio Universal. La señal se tomó como la confirmación del compromiso de conducirse rectamente frente a la alianza divina.
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d9/Frescos_en_el_Santuario_de_Jes%C3%BAs_Nazareno_de_Atotonilco%2C_Guanajuato.jpg)
+
+En el todo el interior, las paredes y los techos del **Santuario de Jesús Nazareno** y sus capillas hay una enorme cantidad de **murales** pintados al temple —y algunas **pinturas** de caballete, montadas en los muros— que decora todo, cubriendo casi por completo las bóvedas, las cúpulas, las linternillas y los muros casi hasta el suelo, en forma tal que casi no es posible encontrar una superficie sin decoración.
+
+&nbsp;
 
 La importancia del Santuario quedó de manifiesta el 8 de julio de 2008 cuando la Unesco incluyó al santuario dentro de su lista del Patrimonio de la Humanidad. Para la Unesco: «Su arquitectura y decoración testimonia la influencia de la doctrina de San Ignacio de Loyola».
 
 &nbsp;
-
-Además de la visita de los fieles en las diferentes peregrinaciones de varios puntos de la República. Se destacan la celebración de la **Virgen de la Luz** y el tercer fin de semana de Julio con la festividad de la Parroquia de **Jesús Nazareno**. De igual manera la procesión con el Sr. de la Columna hacia la ciudad de San Miguel de Allende.
-
-&nbsp;
-
-&nbsp;
-
-El conjunto está dominado por un ángulo de aproximadamente 90°, cuyos brazos corresponde a las naves de la *capilla del Calvario* y al *tempo de Jesús Nazareno*, que son equivalentes en longitud y ancho. Éste último tiene una orientación este-oeste que se desvía 29° hacia el norte, de manera que mirando desde el altar mayor desde la nave la feligresía dirige la cara a *Tierra Santa*.
-
-El día 3 de mayo, día de la Santa Cruz cuando el padre Alfaro se aprestaba para trazar los cimientos de la capilla, se dejaron ver tres arco iris: uno al *oriente*, otro al *norte* y otro al *sur*, dejando libre al *poniente*. El arco iris es explicado en la Biblia como un símbolo de reconciliación de Dios con los hombres. Se deduce, la confirmación del compromiso que tienen los humanos de conducirse rectamente frente a la alianza divina.
-
-&nbsp;
-
-Además de la capilla del Calvario, tiene el Santuario seis más: la del *Santo Sepulcro*, la de *Loreto*, la del *Santo Cenáculo* y la de la *Purísima*, que se abren al norte mientras que la de *Belén* y la del *Rosario* se abren al sur. El aspecto exterior esta dominado por una sencilla fachada con una puerta coronada de arco mistilíneo, con movimiento. En el mismo plano de la fachada se extiende hacia el norte el costado de las capillas del santo Sepulcro y del Calvario, con sus ventanas cruciformes, y la saliente de plata semicircular del crucero, mientras en lo alto destaca la gran cúpula que gana altura gracias a su tambor ochavado con ventanas también mixtilíneas. Al sur de la fachada y cargada hacia el frente se levanta una torre con reloj, después el portal de ingreso a la Casa de Ejercicios. Frente a la fachada hay un espacio delimitado por una balaustrada que fue originalmente cementerio que ahora funge como minúsculo atrio con árboles frondosos que lo sombrean y proporcionan un ambiente intermedio entre el exterior luminoso y la penumbra interior.
-
-En el interior del Santuario y sus capillas hay una profusión de pintura principalmente mural que decora todo cubriendo las bóvedas, las cúpulas, las linternillas y los muros casi hasta el suelo, en forma tal que apenas es posible encontrar una superficie sin decorar; si se encuentra es seguramente producto del deterioro.
