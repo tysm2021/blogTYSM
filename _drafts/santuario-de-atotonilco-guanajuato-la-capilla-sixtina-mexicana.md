@@ -42,7 +42,7 @@ En lengua náhuatl, **Atotonilco** significa “lugar de agua caliente” ya que
 
 Su construcción se inició en el siglo XVIII bajo la dirección del sacerdote **Luis Felipe Neri de Alfaro,** quien buscaba construir una iglesia semejante de la del Santo Sepulcro de Jerusalén. Así, la edificación del Santuario y sus capillas tuvo lugar entre los años 1740 y 1776, cuando el padre Alfaro vivió allí. Sólo le faltó concluir la capilla de la Santa Escuela.
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Santuario_de_Jes%C3%BAs_Nazareno_de_Atotonilco%2C_Guanajuato.jpg/682px-Santuario_de_Jes%C3%BAs_Nazareno_de_Atotonilco%2C_Guanajuato.jpg)
 
 La iglesia está compuesta de una nave principal, siete capillas anexas, sacristía y seis camarines. Las capillas están decoradas con cuadros de **Juan Rodríguez Juárez**.
 
