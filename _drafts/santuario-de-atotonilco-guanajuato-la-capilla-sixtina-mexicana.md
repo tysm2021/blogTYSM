@@ -28,8 +28,36 @@ summary: >-
   se encuentra una de las máximas joyas de la arquitectura barroca mexicana, con
   frescos que han sido comparados con la obra maestra de Miguel Ángel…
 ---
-Mucha gente alrededor del mundo ha admirado por siglos los famosos murales pintados por Miguel Ángel Buonarroti en los muros y los techos de la **Capilla Sixitina**, en la Ciudad del Vaticano. Pero, ¿sabías que en **México** también existe un templo con **frescos** religiosos tan hermosos que ha sido apodada "la **Capilla Sixtina de México**". Claro: nos referimos al **Santuario de Jesús Nazareno**, en **Atotonilco**, **Guanajuato**, que se encuentra a unos kilómetros de la ciudad de San Miguel de Allende.
+Mucha gente alrededor del mundo ha admirado por siglos los famosos murales pintados por Miguel Ángel Buonarroti en los muros y los techos de la **Capilla Sixitina**, en la Ciudad del Vaticano. Pero, ¿sabías que en **México** también existe un templo con **frescos** religiosos tan hermosos que ha sido apodada "la **Capilla Sixtina de México**". Claro: nos referimos al **Santuario de Jesús Nazareno**, en **Atotonilco**, **Guanajuato**, que se encuentra a unos kilómetros de la ciudad de **San Miguel de Allende**.
 
-Hagamos un recorrido visual por esta joya del barroco mexicano y conozcamos un poco de su historia, así como del autor de estas maravillas pintadas en sus muros y techos, que le han valido la admiración de millones de visitantes nacionales y extranjeros.
+Hagamos un **recorrido visual** por esta joya del barroco mexicano y conozcamos un poco de su **historia**, así como del autor de estas maravillas pintadas en sus muros y techos, que le han valido la admiración de millones de visitantes nacionales y extranjeros.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Bahías de Huatulco: un paraíso junto al mar en las costas de Oaxaca.**](https://blog.tonoysumariachi.com/turismo/2024/03/26/bah%C3%ADas-de-huatulco-un-para%C3%ADso-junto-al-mar-en-las-costas-de-oaxaca.html)
+
+El **Santuario de Jesús Nazareno de Atotonilco** es un templo barroco que fue construido durante el siglo XVIII en el actual estado de Guanajuato. Se encuentra ubicado a escasos 14 kilómetros de la famosa y turística ciudad de San Miguel de Allende en el estado mexicano de Guanajuato. Además de su importancia artística, cultural y religiosa, el **Santuario de Atotonilco** es conocido por un episodio clave en la historia de la Independencia de México, cuando el cura Miguel Hidalgo y Costilla tomó un estandarte con la imagen de Virgen de Guadalupe como bandera del ejército insurgente.
+
+La construcción se inicia en el siglo XVIII bajo la dirección del sacerdote **Luis Felipe Neri de Alfaro** quien buscaba construir una iglesia a semejanza de la del **Santo Sepulcro de Jerusalén**.
+
+La iglesia está compuesta de una nave principal, siete capillas anexas, sacristía y seis camarines. Las capillas están decoradas con cuadros de **Juan Rodríguez Juárez**.
+
+La importancia del Santuario quedó de manifiesta el 8 de julio de 2008 cuando la Unesco incluyó al santuario dentro de su lista del Patrimonio de la Humanidad. Para la Unesco: «Su arquitectura y decoración testimonia la influencia de la doctrina de San Ignacio de Loyola».
+
+El nombre de esta localidad significa “**lugar de agua caliente**” ya que [muy cerca del Santuario](https://www.santuariodeatotonilco.org/el-santuario-y-su-casa-de-ejercicios/ubicacion-del-santuario/ "Ubicación del Santuario") (a 1 Kilómetro), ya que antiguamente había una gran cantidad de manantiales de aguas térmicas, cuyas propiedades curativas eran estimada desde la época prehispánica; que también eran un buen pretexto para la promiscuidad sexual, además de ser lugar propicio para los asaltos; lo que fue un motivo que contribuyó a la construcción del templo y de la Casa de Ejercicios.
+
+Majestuosa construcción del siglo XVII a cargo del padre [**Luis Felipe Neri de Alfaro**](https://www.santuariodeatotonilco.org/el-santuario-de-atotonilco/luis-felipe-neri-de-alfaro/ "Luis Felipe Neri de Alfaro"), quien se inspiró para su edificación en el santo Sepulcro y ubicado en Jerusalén. Este Santuario dedicado a **Jesús Nazareno**, fungió como casa de Ejercicios Espirituales de **San Ignacio de Loyola**.
+
+Además de la visita de los fieles en las diferentes peregrinaciones de varios puntos de la República. Se destacan la celebración de la **Virgen de la Luz** y el tercer fin de semana de Julio con la festividad de la Parroquia de **Jesús Nazareno**. De igual manera la procesión con el Sr. de la Columna hacia la ciudad de San Miguel de Allende.
+
+&nbsp;
+
+El **Santuario** y sus *capillas*, fueron construidos entre 1740 y 1776, que fueron los 36 años que el padre *Alfaro* vivió allí. Sólo le faltó concluir la capilla de la Santa Escuela.
+
+El conjunto está dominado por un ángulo de aproximadamente 90°, cuyos brazos corresponde a las naves de la *capilla del Calvario* y al *tempo de Jesús Nazareno*, que son equivalentes en longitud y ancho. Éste último tiene una orientación este-oeste que se desvía 29° hacia el norte, de manera que mirando desde el altar mayor desde la nave la feligresía dirige la cara a *Tierra Santa*.
+
+El día 3 de mayo, día de la Santa Cruz cuando el padre Alfaro se aprestaba para trazar los cimientos de la capilla, se dejaron ver tres arco iris: uno al *oriente*, otro al *norte* y otro al *sur*, dejando libre al *poniente*. El arco iris es explicado en la Biblia como un símbolo de reconciliación de Dios con los hombres. Se deduce, la confirmación del compromiso que tienen los humanos de conducirse rectamente frente a la alianza divina.
+
+En Atotonilco mediaría el hecho de que habiendo estado anteriormente el lugar dedicado a idolatrías, robos, asesinatos y sensualidades guía Dios con beneplácito el proyecto de regeneración emprendiendo por el padre Alfaro.
+
+Además de la capilla del Calvario, tiene el Santuario seis más: la del *Santo Sepulcro*, la de *Loreto*, la del *Santo Cenáculo* y la de la *Purísima*, que se abren al norte mientras que la de *Belén* y la del *Rosario* se abren al sur. El aspecto exterior esta dominado por una sencilla fachada con una puerta coronada de arco mistilíneo, con movimiento. En el mismo plano de la fachada se extiende hacia el norte el costado de las capillas del santo Sepulcro y del Calvario, con sus ventanas cruciformes, y la saliente de plata semicircular del crucero, mientras en lo alto destaca la gran cúpula que gana altura gracias a su tambor ochavado con ventanas también mixtilíneas. Al sur de la fachada y cargada hacia el frente se levanta una torre con reloj, después el portal de ingreso a la Casa de Ejercicios. Frente a la fachada hay un espacio delimitado por una balaustrada que fue originalmente cementerio que ahora funge como minúsculo atrio con árboles frondosos que lo sombrean y proporcionan un ambiente intermedio entre el exterior luminoso y la penumbra interior.
+
+En el interior del Santuario y sus capillas hay una profusión de pintura principalmente mural que decora todo cubriendo las bóvedas, las cúpulas, las linternillas y los muros casi hasta el suelo, en forma tal que apenas es posible encontrar una superficie sin decorar; si se encuentra es seguramente producto del deterioro.
