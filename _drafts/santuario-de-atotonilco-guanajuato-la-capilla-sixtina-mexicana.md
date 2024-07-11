@@ -52,8 +52,10 @@ Según la tradición, el día 3 de mayo de 1740, Día de la Santa Cruz, el padre
 
 En el todo el interior, las paredes y los techos del **Santuario de Jesús Nazareno** y sus capillas hay una enorme cantidad de **murales** pintados al temple —y algunas **pinturas** de caballete, montadas en los muros— que decora todo, cubriendo casi por completo las bóvedas, las cúpulas, las linternillas y los muros casi hasta el suelo, en forma tal que casi no es posible encontrar una superficie sin decoración.
 
-&nbsp;
+La decoración de la nave principal del **Santuario** está organizada en tramos divididos por arcos, en los cuales se escribieron los versos del **padre** **Alfaro** relativos a las escenas pintadas en cada una de las bóvedas. Cada fragmento triangular está ocupado por una representación o alguna alegoría relativa a la Pasión de Cristo.
 
-La importancia del Santuario quedó de manifiesta el 8 de julio de 2008 cuando la Unesco incluyó al santuario dentro de su lista del Patrimonio de la Humanidad. Para la Unesco: «Su arquitectura y decoración testimonia la influencia de la doctrina de San Ignacio de Loyola».
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Santuario_de_Atotonilco%2C_San_Miguel_de_Allende.jpg/1024px-Santuario_de_Atotonilco%2C_San_Miguel_de_Allende.jpg)
+
+La importancia del **Santuario de Jesús Nazareno de Atotonilco** quedó  manifiesta el 8 de julio de 2008, cuando la **UNESCO** incluyó la obra arquitectónica y sus pinturas dentro de su lista del Patrimonio de la Humanidad. Para esta institución, "su arquitectura y decoración testimonia la influencia de la doctrina de San Ignacio de Loyola".
 
 &nbsp;
