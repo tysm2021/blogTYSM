@@ -66,9 +66,13 @@ Para fortuna del ex **presidente**, la bala fue a estrellarse con la funda metá
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Theodore_Roosevelt_speaking_from_a_car_in_Milwaukee_Wisconsin_on_Oct._14%2C_1912.webp/661px-Theodore_Roosevelt_speaking_from_a_car_in_Milwaukee_Wisconsin_on_Oct._14%2C_1912.webp.png)
 
-John F. Kennedy
+## John F. Kennedy
 
-&nbsp;
+Quizá el **magnicidio** más famoso de todos los tiempos, que incluso motivó una película donde se expone la teoría del asesino solitario y de una "bala mágica" que atravesó a varias personas y dio varios giros antes de impactar contra el cráneo del mandatario. Todo sucedió el **22 de noviembre de 1963**, en la ciudad de **Dallas**, cuando el presidente Kennedy, su esposa Jackie, el gobernador de Texas, **John Connally** y la esposa de éste, Nellie, viajaban en un auto descapotable en la Plaza Dealy de la ciudad texana.
+
+**Kennedy** recibió al menos dos heridas de bala: una que atravesó su pecho y pulmones, y salió por su garganta; y la herida fatal en su cabeza, que arrancó partes de su cráneo y del cerebro, que quedaron salpicadas en la escena del crimen. El único "asesino solitario" acusado por el asesinato fue el ex soldado **Lee Harvey Oswald**, quien fue detenido; pero dos días después también fue asesinado por un hombre llamado Jack Ruby. Hasta hoy no existe una explicación convincente para todos estos hechos.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Robert_Croft_photo_showing_JFK%27s_car_on_Elm_Street.jpg/1024px-Robert_Croft_photo_showing_JFK%27s_car_on_Elm_Street.jpg)
 
 Ronald Reagan
 
