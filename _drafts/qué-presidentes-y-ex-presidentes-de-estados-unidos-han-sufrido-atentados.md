@@ -44,7 +44,7 @@ El **14 de abril de 1865**, mientras disfrutaba de una función en el **Teatro F
 
 El **presidente** **Garfield** había asumido la presidencia el 4 de marzo de 1881, venciendo al republicano Hancock, quien era favorito en la elección. Sin embargo, un hombre cercano a él de nombre **Charles J. Guiteau**, quien se sentía decepcionado porque **Garfield** no le había asignado un puesto importante, atentó contra su vida el 2 de julio de 1881 en la célebre **estación de trenes de Baltimore y Potomac**, también conocida como Estación Pensilvania, en Washington D.C. La herida de bala de Garfield no fue fatal en el momento, pero fue muy mal tratada y se infectó, causando la muerte del presidente el **19 de septiembre de 1881**.
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Garfield_assassination_engraving_cropped.jpg/1024px-Garfield_assassination_engraving_cropped.jpg)
 
 William McKenley
 
