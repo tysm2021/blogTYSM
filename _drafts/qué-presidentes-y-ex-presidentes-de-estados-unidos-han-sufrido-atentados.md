@@ -58,9 +58,13 @@ McKinley sobrevivió al atentado, pero los médicos no lograron extraer al segun
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/3f/McKinleyAssassination.jpg)
 
-Theodore Roosevelt
+## Theodore Roosevelt
 
-&nbsp;
+Tras la muerte de McKinley, el vicepresidente **Theodore Roosevelt** asumió el cargo de mandatario el mismo 14 de septiembre de 1901 y sirvió en la **presidencia** durante dos periodos, hasta el 4 de marzo de 1909. A principios de 1912 se rumoraba una candidatura suya para un tercer periodo, pero el **14 de octubre de 1912**, estando en un auto abierto frente al **Hotel Gilpatrick** de la ciudad de **Milwaukee**, sufrió un atentado perpetrado por un enloquecido migrante alemán llamado **John Schrank**, el cual alcanzó a disparar contra Roosevelt antes de ser detenido. Después declararía que el fantasma de McKinley le había ordenado el asesinato.
+
+Para fortuna del ex **presidente**, la bala fue a estrellarse con la funda metálica de los anteojos de **Theodore Roosevelt** y contra un fajo de hojas que contenía el discurso que pronunciaría ese día, por lo que no alcanzó a penetrar en los pulmones y se alojó en el músculo pectoral de su **pecho**, donde permaneció el resto de su vida. Increíble, ¿no?
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Theodore_Roosevelt_speaking_from_a_car_in_Milwaukee_Wisconsin_on_Oct._14%2C_1912.webp/661px-Theodore_Roosevelt_speaking_from_a_car_in_Milwaukee_Wisconsin_on_Oct._14%2C_1912.webp.png)
 
 John F. Kennedy
 
