@@ -58,6 +58,8 @@ McKinley sobrevivió al atentado, pero los médicos no lograron extraer al segun
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/3f/McKinleyAssassination.jpg)
 
+**TE RECOMENDAMOS:** [**17 de julio de 1928: asesinato de Álvaro Obregón.**](https://blog.tonoysumariachi.com/historia/2022/11/24/17-de-julio-de-1928-asesinato-de-alvaro-obregon.html)
+
 ## Theodore Roosevelt
 
 Tras la muerte de McKinley, el vicepresidente **Theodore Roosevelt** asumió el cargo de mandatario el mismo 14 de septiembre de 1901 y sirvió en la **presidencia** durante dos periodos, hasta el 4 de marzo de 1909. A principios de 1912 se rumoraba una candidatura suya para un tercer periodo, pero el **14 de octubre de 1912**, estando en un auto abierto frente al **Hotel Gilpatrick** de la ciudad de **Milwaukee**, sufrió un atentado perpetrado por un enloquecido migrante alemán llamado **John Schrank**, el cual alcanzó a disparar contra Roosevelt antes de ser detenido. Después declararía que el fantasma de McKinley le había ordenado el asesinato.
@@ -74,12 +76,14 @@ Quizá el **magnicidio** más famoso de todos los tiempos, que incluso motivó u
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Robert_Croft_photo_showing_JFK%27s_car_on_Elm_Street.jpg/1024px-Robert_Croft_photo_showing_JFK%27s_car_on_Elm_Street.jpg)
 
-Ronald Reagan
+## Ronald Reagan
 
-&nbsp;
+El **30 de mayo de 1981**, **John Hinckley Jr.** disparó contra el **presidente** **Ronald Reagan** a las afueras del **Hotel Hilton** de **Washington**. Al parecer Hinckley estaba obsesionado con Jodie Foster y el atentado fue su manera de llamar la atención de la actriz. El **mandatario** recibió un balazo de revólver que le rompió el antebrazo, perforó su costado, fracturó una costilla y penetró el pulmón, causando una seria hemorragia. **Reagan** llegó al hospital al borde de la muerte, pero fue rápidamente estabilizado y se le practicó una intervención que le salvó la vida y le permitió seguir en el puesto durante dos periodos, hasta 1989.
 
-Donald Trump
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/President_Ronald_Reagan_moments_before_he_was_shot_in_an_assassination_attempt_1981.jpg/1024px-President_Ronald_Reagan_moments_before_he_was_shot_in_an_assassination_attempt_1981.jpg)
 
-&nbsp;
+## Donald Trump
 
-&nbsp;
+Por último, el pasado sábado 13 de julio de 2024, en un evento de campaña en la localidad de **Butler**, **Pensilvania**, el ex presidente **Donald Trump** sufrió un **atentado** con arma larga del que resultó con un rozón en la oreja derecha. De acuerdo con los avances más recientes de la investigación, el atacante fue abatido e identificado como **Thomas Matthew Crook**, de 20 años de edad. Algunos piensan que con este hecho Trump prácticamente se ha echado la elección en la bolsa para un segundo periodo presidencial, por lo que muchos no descartan que se haya tratado de un montaje. Pero nadie podrá negar que la foto es icónica y pasará a la historia como una de las imágenes que definen la mitad de la década del 2020…
+
+![](/uploads/trump.jpg)
