@@ -34,6 +34,34 @@ Son varios y aquí te los decimos todos, desde **Abraham Lincoln** hasta **Donal
 
 **TE RECOMENDAMOS:** [**Washington D.C.: los edificios y monumentos más bellos.**](https://blog.tonoysumariachi.com/mundo/2022/10/14/washington-d.c.los-edificios-y-monumentos-mas-bellos.html)
 
+## Abraham Lincoln
+
+El **14 de abril de 1865**, mientras disfrutaba de una función en el Teatro Ford, ubicado en Washington D.C., acompañado por su esposa, el **presidente** **Lincoln** fue agredido por el confederado **John Wilkes Booth**, quien secretamente se coló en el teatro y logró escabullirse al balcón presidencial, donde le disparó en la cabeza al mandatario, quien fue llevado al hospital en estado de coma y falleció al día siguiente, en la madrugada del 15 de abril. Días después, Booth —que había logrado escapar— fue localizado y rodeado por la policía, quien lo abatió el 26 de abril del mismo año.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lincoln_assassination_slide_c1900_-_Restoration.jpg/821px-Lincoln_assassination_slide_c1900_-_Restoration.jpg)
+
+James A. Garfield
+
+&nbsp;
+
+William McKenley
+
+&nbsp;
+
+Theodore Roosevelt
+
+&nbsp;
+
+John F. Kennedy
+
+&nbsp;
+
+Ronald Reagan
+
+&nbsp;
+
+Donald Trump
+
 &nbsp;
 
 &nbsp;
