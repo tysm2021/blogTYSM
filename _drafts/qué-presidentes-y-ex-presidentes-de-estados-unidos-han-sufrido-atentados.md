@@ -36,19 +36,27 @@ Son varios y aquí te los decimos todos, desde **Abraham Lincoln** hasta **Donal
 
 ## Abraham Lincoln
 
-El **14 de abril de 1865**, mientras disfrutaba de una función en el **Teatro Ford**, ubicado en Washington D.C., acompañado por su esposa, el **presidente** **Lincoln** fue agredido por el confederado **John Wilkes Booth**, quien secretamente se coló en el teatro y logró escabullirse al balcón presidencial, donde le disparó en la cabeza al mandatario, quien fue llevado al hospital en estado de coma y falleció al día siguiente, en la madrugada del 15 de abril. Días después, Booth —que había logrado escapar— fue localizado y rodeado por la policía, quien lo abatió el 26 de abril del mismo año.
+El **14 de abril de 1865**, mientras disfrutaba de una función en el **Teatro Ford**, ubicado en Washington D.C., acompañado por su esposa, el **presidente** **Lincoln** fue agredido por el confederado **John Wilkes Booth**, quien secretamente se coló en el teatro y logró escabullirse al balcón presidencial, donde le disparó en la cabeza al mandatario, quien fue llevado al hospital en estado de coma y falleció al día siguiente, en la madrugada del 15 de abril.
+
+Días después, **Booth** —que había logrado escapar— fue localizado y rodeado por la policía, quien lo abatió el 26 de abril de 1865.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lincoln_assassination_slide_c1900_-_Restoration.jpg/821px-Lincoln_assassination_slide_c1900_-_Restoration.jpg)
 
 ## James A. Garfield
 
-El **presidente** **Garfield** había asumido la presidencia el 4 de marzo de 1881, venciendo al republicano Hancock, quien era favorito en la elección. Sin embargo, un hombre cercano a él de nombre **Charles J. Guiteau**, quien se sentía decepcionado porque **Garfield** no le había asignado un puesto importante, atentó contra su vida el 2 de julio de 1881 en la célebre **estación de trenes de Baltimore y Potomac**, también conocida como Estación Pensilvania, en Washington D.C. La herida de bala de Garfield no fue fatal en el momento, pero fue muy mal tratada y se infectó, causando la muerte del presidente el **19 de septiembre de 1881**.
+El **presidente** **Garfield** había asumido la presidencia el 4 de marzo de 1881, venciendo al republicano Hancock, quien era favorito en la elección. Sin embargo, un hombre cercano a él de nombre **Charles J. Guiteau**, quien se sentía decepcionado porque **Garfield** no le había asignado un puesto importante, atentó contra su vida el 2 de julio de 1881 en la célebre **estación de trenes de Baltimore y Potomac**, también conocida como Estación Pensilvania, en Washington D.C.
+
+La herida de bala de Garfield no fue fatal en el momento, pero fue muy mal tratada y se infectó, causando la muerte del presidente el **19 de septiembre de 1881**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Garfield_assassination_engraving_cropped.jpg/1024px-Garfield_assassination_engraving_cropped.jpg)
 
-William McKenley
+## William McKinley
 
-&nbsp;
+Durante los primeros meses de su segundo periodo **presidencial**, el **6 de septiembre de 1901**, **McKinley** visitó un centro de espectáculos en la ciudad de Buffalo, New York, conocido como el **Temple of Music**. Ahí lo esperaba el anarquista **Leon F. Czolgosz**, quien el día anterior había intentado acercarse al mandatario con la intención de asesinarlo pero no vio clara la oportunidad; esa segunda vez, alcanzó a dispararle en dos ocasiones antes de ser detenido.
+
+McKinley sobrevivió al atentado, pero los médicos no lograron extraer al segunda bala, misma que causó una **gangrena** que acabó causándole la **muerte** el **14 de septiembre de 1901**. Su asesino fue juzgado, condenado a muerte y ejecutado en la silla eléctrica unos días después, el 29 de octubre.
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/3f/McKinleyAssassination.jpg)
 
 Theodore Roosevelt
 
