@@ -27,3 +27,10 @@ summary: >-
   Desde mediados del siglo XX, una serie de artistas y cantantes españoles
   emprendieron la "reconquista" del público mexicano
 ---
+¿Qué **horas** son en **México**? Bueno, la respuesta dependerá de en qué parte del país te encuentres, pues nuestro territorio está dividido en **cuatro husos** o **zonas** **horarias**, las cuales determinan la **hora** **oficial** en un momento y un lugar determinados. ¿**Cómo se llaman** y **qué estados** comprenden? Es un poco complicado, pero enseguida lo explicaremos.
+
+La actual ley que rige el tiempo y la hora en México fue publicada en el Diario Oficial de la Federación en 2022 y, como bien sabemos, ya no considera el Horario de Verano que tantos mexicanos y mexicanas odiaban porque "les robaba una hora de sueño".
+
+TE RECOMENDAMOS:
+
+&nbsp;
