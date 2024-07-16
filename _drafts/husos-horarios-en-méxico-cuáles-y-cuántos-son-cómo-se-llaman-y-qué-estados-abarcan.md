@@ -20,7 +20,7 @@ article_header:
     src: /uploads/mexico1.png
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/mexico1.png
 show_author_profile: false
 comment: false
 summary: >-
@@ -53,6 +53,8 @@ Conocida como **UTC-8** y ubicada en el extremo superior izquierdo en el mapa de
 ## Zona Sureste
 
 Es conocida como UTC-5 y abarca únicamente el territorio del **estado** de **Quintana Roo**.
+
+![](/uploads/mexico-zonas.jpg)
 
 Hasta aquí, todo va bien. El asunto se complica, sin embargo, en el periodo que va de las dos de la mañana del segundo domingo de marzo, hasta a las dos horas del primer domingo de noviembre, se aplica un Horario Estándar Estacional, que comprende:
 
