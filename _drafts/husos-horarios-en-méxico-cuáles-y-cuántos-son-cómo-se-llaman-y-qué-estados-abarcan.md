@@ -29,8 +29,10 @@ summary: >-
 ---
 ¿Qué **horas** son en **México**? Bueno, la respuesta dependerá de en qué parte del país te encuentres, pues nuestro territorio está dividido en **cuatro husos** o **zonas** **horarias**, las cuales determinan la **hora** **oficial** en un momento y un lugar determinados. ¿**Cómo se llaman** y **qué estados** comprenden? Es un poco complicado, pero enseguida lo explicaremos.
 
-La actual ley que rige el tiempo y la hora en México fue publicada en el Diario Oficial de la Federación en 2022 y, como bien sabemos, ya no considera el Horario de Verano que tantos mexicanos y mexicanas odiaban porque "les robaba una hora de sueño".
+La actual ley que rige el tiempo y la **hora** en **México** fue publicada en el Diario Oficial de la Federación en 2022 y, como bien sabemos, ya no considera el **Horario de Verano** que tantos mexicanos y mexicanas odiaban porque "les robaba una hora de sueño".
 
-TE RECOMENDAMOS:
+TE RECOMENDAMOS: [**Gentilicios de México: cómo se le dice a la gente por estado, capital o ciudad de origen**](https://blog.tonoysumariachi.com/mexicanisimos/2024/06/07/gentilicios-de-m%C3%A9xico-c%C3%B3mo-se-le-dice-a-la-gente-por-estado-capital-o-ciudad-de-origen.html)**.**
+
+&nbsp;
 
 &nbsp;
