@@ -59,7 +59,9 @@ El pueblo **mixteco** está conformado aproximadamente por **350 mil hombres, mu
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/24/Concurso_de_jarabe_mixteco_2015.jpg)
 
-Otomíes
+## Otomíes
+
+Por último, tenemos al pueblo **otomí**, que está conformado por unos 350 mil habitantes que viven en los **estados** de Hidalgo y México, principalmente, aunque también en Querétaro, Veracruz y Puebla.
 
 &nbsp;
 
