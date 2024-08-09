@@ -37,32 +37,32 @@ Según el Sistema de Información Cultural (SIC) del Gobierno de **México**, en
 
 ## Pueblos nahuas
 
-Son una multitud de pueblos que tienen como lengua común el **náhuatl** y presumiblemente son descendientes de los antiguos **mexicas** que dominaron el centro, sur y occidente de **México** durante los siglos XV y XVI. Están distribuidos en **trece estados**: Ciudad de México, Estado de México, Guerrero, Hidalgo, Jalisco, Michoacán, Puebla, Morelos, San Luis Potosí, Tlaxcala y Veracruz, así como en Durango y Nayarit, donde reciben el nombre de **Mexicaneros**. En total, suman unos **2\.88 millones** de personas.
+Son una multitud de pueblos que tienen como lengua común el **náhuatl** y presumiblemente son descendientes de los antiguos **mexicas** que dominaron el centro, sur y occidente de **México** durante los siglos XV y XVI. Están distribuidos en **trece estados**: **Ciudad de México, Estado de México, Guerrero, Hidalgo, Jalisco, Michoacán, Puebla, Morelos, San Luis Potosí, Tlaxcala y Veracruz**, así como en Durango y Nayarit, donde reciben el nombre de **Mexicaneros**. En total, suman unos **2\.88 millones** de personas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ni%C3%B1as_Nahuas.jpg/1024px-Ni%C3%B1as_Nahuas.jpg)
 
 ## Mayas
 
-Habitan en el sureste de México, en la península de Yucatán y en los **estados** de Yucatán, Quintana Roo, Campeche. Tienen como lengua el **maya** y aún conservan muchas de sus tradiciones, usos y costumbres. Los integrantes de este pueblo no cuentan con una forma común de autodenominarse en su propia lengua, y en general se autoidentifican como **mayas** —en algunos casos también se identifican por su forma de hablar la lengua—. Según el último censo, son **casi un millón** de personas.
+Habitan en el sureste de México, en la península de Yucatán y en los **estados** de **Yucatán**, **Quintana Roo**, **Campeche**. Tienen como lengua el **maya** y aún conservan muchas de sus tradiciones, usos y costumbres. Los integrantes de este pueblo no cuentan con una forma común de autodenominarse en su propia lengua, y en general se autoidentifican como **mayas** —en algunos casos también se identifican por su forma de hablar la lengua—. Según el último censo, son **casi un millón** de personas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jeunes_femmes_mayas.jpg/1024px-Jeunes_femmes_mayas.jpg)
 
 ## Zapotecos
 
-El pueblo **zapoteco** se localiza principalmente en el **estado** de **Oaxaca**, en las regiones de los Valles Centrales, el Istmo de Tehuantepec —donde se concentra la población zapoteca en las dos ciudades de mayor densidad, Juchitán y Tehuantepec— y la Sierra Norte, así como en los estados de Veracruz, Sinaloa y Baja California, en menor medida. En total, son casi **500 mil** personas.
+El pueblo **zapoteco** se localiza principalmente en el **estado** de **Oaxaca**, en las regiones de los Valles Centrales, el Istmo de Tehuantepec —donde se concentra la población zapoteca en las dos ciudades de mayor densidad, Juchitán y Tehuantepec— y la Sierra Norte, así como en los estados de **Veracruz**, **Sinaloa** y **Baja California**, en menor medida. En total, son casi **500 mil** personas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Traje_tehuana.jpg/1024px-Traje_tehuana.jpg)
 
 ## Mixtecos
 
-El pueblo **mixteco** está conformado aproximadamente por **350 mil hombres, mujeres y niños** que viven sobre todo en Oaxaca, pero también abundan en Guerrero, Puebla Sinaloa y Baja California —por migración—. Su principal actividad económica de los mixtecos es la agricultura y  cuentan con una gran tradición culinaria que incorpora numerosos platillos como el llamado mole de caderas, que se prepara con carne de chivo
+El pueblo **mixteco** está conformado aproximadamente por **350 mil hombres, mujeres y niños** que viven sobre todo en **Oaxaca**, pero también abundan en **Guerrero**, **Puebla, Sinaloa** y **Baja California** —por migración—. Su principal actividad económica de los mixtecos es la agricultura y  cuentan con una gran tradición culinaria que incorpora numerosos platillos como el llamado mole de caderas, que se prepara con carne de chivo
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/24/Concurso_de_jarabe_mixteco_2015.jpg)
 
 ## Otomíes
 
-Por último, tenemos al pueblo **otomí**, que está conformado por unos 350 mil habitantes que viven en los **estados** de Hidalgo y México, principalmente, aunque también en Querétaro, Veracruz y Puebla.
+Por último, tenemos al pueblo **otomí**, que está conformado por unos 350 mil habitantes que viven en los **estados** de **Hidalgo** —en la región del Valle del Mezquital— y en el **Estado de México**, principalmente  en los municipios de Toluca, Temoaya, Acambay y Chapa de Mota; aunque también en **Querétaro**, **Michocán** y **Puebla**. Las prácticas religiosas de los **otomíes** son una combinación de elementos católicos y prehispánicos, rinden culto a los muertos, tienen la creencia en ciertas enfermedades, los sueños y anécdotas que prevalecen en la vida **otomí**.
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/OtomiWomenchurchtequis.jpg/1024px-OtomiWomenchurchtequis.jpg)
 
 &nbsp;
