@@ -49,11 +49,15 @@ Habitan en el sureste de México, en la península de Yucatán y en los **estado
 
 ## Zapotecos
 
-El pueblo **zapoteco** se localiza principalmente en el **estado** de **Oaxaca**, en las regiones de los Valles Centrales, el Istmo de Tehuantepec —donde se concentra la población zapoteca en las dos ciudades de mayor densidad, Juchitán y Tehuantepec— y la Sierra Norte, así como en los estados de Veracruz, Sinaloa y Baja California, en menor medida.
+El pueblo **zapoteco** se localiza principalmente en el **estado** de **Oaxaca**, en las regiones de los Valles Centrales, el Istmo de Tehuantepec —donde se concentra la población zapoteca en las dos ciudades de mayor densidad, Juchitán y Tehuantepec— y la Sierra Norte, así como en los estados de Veracruz, Sinaloa y Baja California, en menor medida. En total, son casi **500 mil** personas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Traje_tehuana.jpg/1024px-Traje_tehuana.jpg)
 
-Mixtecos
+## Mixtecos
+
+El pueblo **mixteco** está conformado aproximadamente por **350 mil hombres, mujeres y niños** que viven sobre todo en Oaxaca, pero también abundan en Guerrero, Puebla Sinaloa y Baja California —por migración—. Su principal actividad económica de los mixtecos es la agricultura y  cuentan con una gran tradición culinaria que incorpora numerosos platillos como el llamado mole de caderas, que se prepara con carne de chivo
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/24/Concurso_de_jarabe_mixteco_2015.jpg)
 
 Otomíes
 
