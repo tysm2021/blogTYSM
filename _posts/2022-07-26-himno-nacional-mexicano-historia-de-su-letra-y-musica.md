@@ -1,12 +1,12 @@
 ---
 title: 'Himno Nacional Mexicano: historia de su letra y música'
-date: 2022-07-26 00:00:00 UTC
+date: 2024-08-12 15:00:00
 categories:
-- MEXICANISIMOS
+  - MEXICANISIMOS
 tags:
-- musica
-- historia
-- biografias
+  - musica
+  - historia
+  - biografias
 author: Redacción TYSM
 layout: article
 excerpt_separator: <!--more-->
@@ -18,19 +18,14 @@ article_header:
   image:
     src: /images/2022-07-26-himnonacional1.jpg
 sharing: true
-summary: '"Mexicanos al grito de guerra…"; ¿conoces la historia detrás del Himno Nacional
-  que se canta en las escuelas los lunes por la mañana?'
-cover: "/images/2022-07-26-himnonacional1.jpg"
+summary: >-
+  "Mexicanos al grito de guerra…"; ¿conoces la historia detrás del Himno
+  Nacional que se canta en las escuelas los lunes por la mañana?
+cover: /images/2022-07-26-himnonacional1.jpg
 show_author_profile: false
 comment: false
 _template: plantilla
 ---
-
-
-
-
-
-
 A todos, en las escuelas, nos hacen memorizarlo desde muy pequeños y regularmente lo cantamos las mañanas de todos los lunes mientras hacemos los "honores a la Bandera". Pero, ¿conoces la **historia** que dio **origen** al **Himno Nacional Mexicano**? ¿Quiénes escribieron su **letra** y su **música**, cuándo se estrenó y cuántas **estrofas** tiene?
 
 De todo esto y un poco más te platicaremos en esta breve nota, para que la próxima vez que entonces el famoso "**Mexicanos** al grito de guerra, el acero aprestad y el bridón…" sepas un poco del contexto del cántico marcial más famoso de **México**.
@@ -47,9 +42,9 @@ Cuenta la historia que un poeta potosino de nombre **Francisco González Bocaneg
 
 ![](/images/2022-07-26-gonzalezbocanegra.jpg)
 
-Fue así que, enardecido por el encierro y por la participación forzada, **González Bocanegra** escribió las sentidas estrofas del **Himno Nacional Mexicano**, que —en esos convulsos tiempos cuando la Nación había perdido la cuarta parte de su territorio— exaltan al patriota a tomar las armas para defender a la Nación. Así, Guadalupe introdujo los versos en el sobre y lo sometió a concurso, hallándose con la grata noticia de su triunfo el 3 de febrero de 1854.
+Fue así que, enardecido por el encierro y por la participación forzada, **González Bocanegra** escribió las sentidas estrofas del **Himno Nacional Mexicano**, que —en esos convulsos tiempos cuando la Nación había perdido la cuarta parte de su territorio— exaltan al patriota a tomar las armas para defender a la Nación. Así, Guadalupe introdujo los versos en el sobre y lo sometió a concurso, hallándose con la grata noticia de su triunfo el **3 de febrero de 1854**.
 
-Pero hallar la música adecuada para el Himno patriótico que había ideado **González Bocanegra** no fue labor sencilla, y tuvieron que pasar casi ciento ochenta días más antes de que la obra del músico español **Jaime Nunó Roca**, quien era director de las bandas militares del ejército nacional, fuera elegida como la idónea para acompañar las estrofas del potosino.
+Pero hallar la música adecuada para el Himno patriótico que había ideado **González Bocanegra** no fue labor sencilla, y tuvieron que pasar casi ciento ochenta días más antes de que la obra del músico español **Jaime Nunó Roca**, quien era director de las bandas militares del ejército nacional, fuera elegida como la idónea para acompañar las estrofas del potosino el **12 de agosto de 1854**.
 
 ![](/images/2022-07-26-jaimenuno.jpg)
 
