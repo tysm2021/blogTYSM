@@ -1,5 +1,5 @@
 ---
-title: '13 de agosto de 1521: conquista y caída de México-Tenochtitlan'
+title: '13 de agosto de 1521: historia completa de la caída de México-Tenochtitlan'
 date: 2024-08-13 08:00:00
 categories:
   - HISTORIA
