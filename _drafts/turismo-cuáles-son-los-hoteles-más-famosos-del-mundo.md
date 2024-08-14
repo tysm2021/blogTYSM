@@ -73,4 +73,6 @@ Construido en 1903, el **Taj Mahal Palace** se ha convertido en un emblemático 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Beverly_Hills_Hotel_Red_Carpet_.jpg)
 
-mm
+Inaugurado en 1912, este icónico **hotel** hospedó a Frank Sinatra y a su famoso grupo de amigos, el "Rat Pack", así como a Marilyn Monroe, por nombrar algunas celebridades que pasaron por su *lobby*. Con 12 hectáreas de jardines con hermosos paisajes, la combinación del glamour moderno y del Hollywood de antaño hace que este hotel sea tan emblemático como la zona.
+
+Famoso por su servicio y sus huéspedes legendarios, el **Hotel Beverly Hills** sigue siendo un edificio emblemático en el prestigioso barrio de los famosos, en la ciudad de Los Angeles, California.
