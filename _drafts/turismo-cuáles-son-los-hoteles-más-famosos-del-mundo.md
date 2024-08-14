@@ -47,7 +47,7 @@ En 1993, el **Waldorf-Astoria** fue reconocido como un *landmark* o lugar para v
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/H%C3%B4tel_Ritz.jpg/1024px-H%C3%B4tel_Ritz.jpg)
 
-ll
+Tan icónico como la mismísima "Ciudad Luz", el Hotel **Ritz Paris** es una verdadera muestra atemporal de elegancia y estilo francés. Ubicado junto al Jardín de las Tullerías y con vistas a la Place Vendôme, el **Ritz Paris** es uno de los hoteles más famosos del mundo, reconocido por haber tenido a Coco Chanel y a los escritores F. Scott Fitzgerald y Ernest Hemingway entre sus huéspedes; de hecho, algunas obras del primero tienen lugar en este emblemático establecimiento en el que existe un Bar Hemingway, cuyo nombre homenajea al autor de El viejo y el mar, y era un bebedor frecuente del Bloody Mary, que fue inventado para él en dicho bar.
 
 ## The Savoy — Londres
 
