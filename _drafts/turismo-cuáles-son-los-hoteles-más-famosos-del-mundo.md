@@ -57,7 +57,9 @@ ll
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fachada_do_Copacabana_Palace_ao_anoitecer_-_Rio_de_Janeiro_-_foto_Carlos_Alkmin.jpg/939px-Fachada_do_Copacabana_Palace_ao_anoitecer_-_Rio_de_Janeiro_-_foto_Carlos_Alkmin.jpg)
 
-pp
+Inaugurado en 1923, el **Belmond Copacabana Palace**, con su arquitectura de estilo art déco, está situado cerca de la playa de **Copacabana** en **Río de Janeiro**, **Brasil**. Siguiendo el modelo de los complejos turísticos de la Riviera francesa, el hotel cuenta con 245 habitaciones y suites. La princesa Diana, Michael Jackson y Walt Disney son algunas de las celebridades que se han alojado en este famoso *resort*
+
+Reconocido mundialmente por haber inspirado la canción "**Copacabana**" de Barry Manilow, el **Copacabana Palace** también ha contado con músicos de renombre como Ella Fitzgerald, Nat King Cole y Ray Charles tocando en su club.
 
 ## Taj Mahal Palace — Mumbai
 
