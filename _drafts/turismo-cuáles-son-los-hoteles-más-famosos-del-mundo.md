@@ -53,12 +53,16 @@ ll
 
 ññ
 
-Copacabana Palace — Río de Janeiro
+## Copacabana Palace — Río de Janeiro
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fachada_do_Copacabana_Palace_ao_anoitecer_-_Rio_de_Janeiro_-_foto_Carlos_Alkmin.jpg/939px-Fachada_do_Copacabana_Palace_ao_anoitecer_-_Rio_de_Janeiro_-_foto_Carlos_Alkmin.jpg)
+
+pp
+
+## Taj Mahal Palace — Mumbai
 
 &nbsp;
 
-Taj Mahal Palace — Mumbai
-
-&nbsp;
+nn
 
 Beverly Hills Hotel — Los Angeles
