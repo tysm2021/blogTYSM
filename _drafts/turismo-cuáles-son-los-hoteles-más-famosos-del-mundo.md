@@ -47,10 +47,18 @@ jj
 
 ll
 
-The Savoy — Londres
+## The Savoy — Londres
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Afternoon_Tea_at_the_Savoy_-_geograph.org.uk_-_4519361.jpg/1024px-Afternoon_Tea_at_the_Savoy_-_geograph.org.uk_-_4519361.jpg)
+
+ññ
 
 Copacabana Palace — Río de Janeiro
 
+&nbsp;
+
 Taj Mahal Palace — Mumbai
+
+&nbsp;
 
 Beverly Hills Hotel — Los Angeles
