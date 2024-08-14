@@ -35,11 +35,13 @@ Aquí te presentamos siete de los **hoteles más reconocidos del planeta**, tant
 
 **TE RECOMENDAMOS:** [**Tutankamón o la maldición de la momia egipcia.**](https://blog.tonoysumariachi.com/mundo/2024/01/23/tutankam%C3%B3n-o-la-maldici%C3%B3n-de-la-momia-egipcia.html)
 
-## Waldorf Astoria — Nueva York
+## Waldorf-Astoria — Nueva York
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Waldorf_Astoria.jpg/768px-The_Waldorf_Astoria.jpg)
 
-jj
+Reconocidas por su arquitectura y sus piezas de arte art déco, las suites del **Waldorf-Astoria** han acogido a todos los presidentes de los Estados Unidos desde Herbert Hoover hasta Barack Obama. Este hotel, famoso en todo el mundo, también ha alojado a la realeza y a estrellas de Hollywood como Sophia Loren y Elizabeth Taylor.
+
+En 1993, el **Waldorf-Astoria** fue reconocido como un *landmark* o lugar para visitar de la ciudad de Nueva York y es reconocido por crear la ensalada Waldorf, el pastel Red Velvet y por haber sido el primero en brindar servicio a la habitación las 24 horas.
 
 ## Hotel Ritz — París
 
