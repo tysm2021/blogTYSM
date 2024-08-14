@@ -67,7 +67,7 @@ Reconocido mundialmente por haber inspirado la canción "**Copacabana**" de Barr
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Taj_Mahal_Palace_Hotel.jpg/1024px-The_Taj_Mahal_Palace_Hotel.jpg)
 
-nn
+Construido en 1903, el **Taj Mahal Palace** se ha convertido en un emblemático monumento frente al mar de Mumbai y es un sitio histórico considerado *landmark* en el puerto de la ciudad. Con una mezcla de estilos islámico y renacentista europeo, el hotel tiene una historia íntimamente ligada a la de La India; fue el primero en emplear mujeres y en tener electricidad, y es famoso por tener el primer bar con licencia de la ciudad. El **Taj Mahal Palace** cuenta con 560 habitaciones y evoca la grandeza de otra época con pinturas y muebles originales.
 
 ## The Beverly Hills Hotel — Los Angeles
 
