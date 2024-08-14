@@ -53,7 +53,9 @@ Tan icónico como la mismísima "Ciudad Luz", el Hotel **Ritz Paris** es una ver
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Afternoon_Tea_at_the_Savoy_-_geograph.org.uk_-_4519361.jpg/1024px-Afternoon_Tea_at_the_Savoy_-_geograph.org.uk_-_4519361.jpg)
 
-ññ
+El **Savoy** es un **hotel** ubicado en el centro de **Londres**, Inglaterra, construido en 1889 por un empresario teatral. Fue el primer hotel en Gran Bretaña en tener luz eléctrica en todo el edificio, elevadores eléctricos, baños en la mayoría de las habitaciones lujosamente amuebladas, agua caliente corriente y constante, y muchas otras innovaciones que hoy son estándar en la industria.
+
+Además de que a menudo el primer ministro llevaba a su gabinete a almorzar al restaurante, **The Savoy** ha hospedado a celebridades como Frank Sinatra, el rey Eduardo VII, Oscar Wilde, Charlie Chaplin, el presidente Harry Truman, Joan Crawford, Judy Garland, John Wayne, Laurence Olivier, Marilyn Monroe, Humphrey Bogart, Elizabeth Taylor, Barbra Streisand, Bob Dylan, Bette Midler, los Beatles y muchos otros.
 
 ## Copacabana Palace — Río de Janeiro
 
