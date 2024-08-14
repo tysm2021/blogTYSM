@@ -61,8 +61,12 @@ pp
 
 ## Taj Mahal Palace — Mumbai
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Taj_Mahal_Palace_Hotel.jpg/1024px-The_Taj_Mahal_Palace_Hotel.jpg)
 
 nn
 
-Beverly Hills Hotel — Los Angeles
+## The Beverly Hills Hotel — Los Angeles
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Beverly_Hills_Hotel_Red_Carpet_.jpg)
+
+mm
