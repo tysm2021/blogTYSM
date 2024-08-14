@@ -35,9 +35,17 @@ Aquí te presentamos siete de los **hoteles más reconocidos del planeta**, tant
 
 **TE RECOMENDAMOS:** [**Tutankamón o la maldición de la momia egipcia.**](https://blog.tonoysumariachi.com/mundo/2024/01/23/tutankam%C3%B3n-o-la-maldici%C3%B3n-de-la-momia-egipcia.html)
 
-Waldorf Astoria — Nueva York
+## Waldorf Astoria — Nueva York
 
-The Ritz — París
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Waldorf_Astoria.jpg/768px-The_Waldorf_Astoria.jpg)
+
+jj
+
+## Hotel Ritz — París
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/H%C3%B4tel_Ritz.jpg/1024px-H%C3%B4tel_Ritz.jpg)
+
+ll
 
 The Savoy — Londres
 
