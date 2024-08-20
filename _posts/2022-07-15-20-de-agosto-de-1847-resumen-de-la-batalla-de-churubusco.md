@@ -1,12 +1,12 @@
 ---
 title: '20 de agosto de 1847: resumen de la Batalla de Churubusco'
-date: 2022-07-15 00:00:00 UTC
+date: 2022-07-15 00:00:00
 categories:
-- HISTORIA
+  - HISTORIA
 tags:
-- efemerides
-- intervenciones
-- sigloXIX
+  - efemerides
+  - intervenciones
+  - sigloXIX
 author: Redacción TYSM
 layout: article
 excerpt_separator: <!--more-->
@@ -19,19 +19,14 @@ article_header:
     src: >-
       /images/2022-07-15-1280px-antiguo_convento_de_san_diego_churubusco-_coyoacan_01.jpeg
 sharing: true
-summary: 'A mediados del siglo XIX, el ejército estadounidense invadió México y libró
-  una batalla en el ex convento de Churubusco: te decimos qué paso.'
-cover: "/images/2022-07-15-1280px-antiguo_convento_de_san_diego_churubusco-_coyoacan_01.jpeg"
+summary: >-
+  A mediados del siglo XIX, el ejército estadounidense invadió México y libró
+  una batalla en el ex convento de Churubusco: te decimos qué paso.
+cover: /uploads/churubusco1.jpg
 show_author_profile: false
 comment: false
 _template: plantilla
 ---
-
-
-
-
-
-
 Corría el año de 1847 y el ejército invasor de los **Estados Unidos** se adentraba en el territorio nacional, debido a la llamada **Intervención Estadounidense**, que se originó por los deseos expansionistas del país del norte y que ya habían desembocado en la formación de la República de Texas, la cual se había separado de **México**. Fue entonces que, el **20 de agosto de 1847**, el Ejército Mexicano hizo frente a las tropas de Estados Unidos en lo que se ha llamado **Batalla del Convento de Churubusco**.
 
 Aquí te ofrecemos un breve **resumen** de lo acontecido en esa histórica batalla, de la cual aún sobrevive el ex **Convento**, con sus cañones y sus huellas de bala de cañón, aunque ahora se ha convertido en el **Museo Nacional de las Intervenciones**, administrado por el INAH.
@@ -48,4 +43,4 @@ Después de tres horas de encarnizados enfrentamientos, al **Ejército Mexicano*
 
 Los generales Anaya y Manuel José Rincón solicitaron más municiones para continuar en la lucha, pero las que les enviaron resultaron inútiles pues eran de calibre diferente a las requeridas, de modo que los mexicanos y sus aliados, los desertores irlandeses, terminaron luchando con sus puños y con las bayonetas de sus fusiles. Al final del día, los **invasores** tomaron la posición e izaron la bandera de su país en uno de los muros del **Convento de Churubusco**.
 
-La leyenda dice que cuando los generales estadounidenses entraron a **Churubusco** y apresaron a los generales, les solicitaron que depusieran las armas y que entregaran el "parque" que les quedara disponible, refiriéndose con esa palabra a las municiones, balas y cartuchos. Fue entonces cuando el general **Pedro María Anaya** les respondió con una frase que quedó grabada en la historia: "Si hubiera parque, usted no estaría aquí".
+La leyenda dice que cuando los generales estadounidenses entraron a **Churubusco** y apresaron a los generales, les solicitaron que depusieran las armas y que entregaran el “parque” que les quedara disponible, refiriéndose con esa palabra a las municiones, balas y cartuchos. Fue entonces cuando el general **Pedro María Anaya** les respondió con una frase que quedó grabada en la historia: “Si hubiera parque, usted no estaría aquí”.
