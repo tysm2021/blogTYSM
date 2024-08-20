@@ -16,8 +16,7 @@ header:
 article_header:
   type: cover
   image:
-    src: >-
-      /images/2022-07-15-1280px-antiguo_convento_de_san_diego_churubusco-_coyoacan_01.jpeg
+    src: /uploads/churubusco1.jpg
 sharing: true
 summary: >-
   A mediados del siglo XIX, el ejército estadounidense invadió México y libró
