@@ -31,7 +31,7 @@ summary: >-
 
 Aquí están, pues, los **cinco músicos clásicos más famosos del mundo**, cuyas obras más emblemáticas deberías escuchar al menos una vez en la vida. Y para que no te quedes con las ganas, en cada una te dejamos la opción de oírla en video.
 
-TE RECOMENDAMOS:
+**TE RECOMENDAMOS:** [**Juventino Rosas y la historia de su vals "Sobre las olas".**](https://blog.tonoysumariachi.com/cultura/2022/11/10/juventino-rosas-y-la-historia-de-su-vals-sobre-las-olas.html)
 
 Bach
 
