@@ -53,17 +53,21 @@ Entre sus piezas más conocidas está *La pasión según San Mateo*, un clásico
 
 ## Mozart
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mozart_Portrait_Croce.jpg/706px-Mozart_Portrait_Croce.jpg)
+
 El genio de Salzburgo, **Wolfgang Amadeus Mozart** (1756-1791), es conocido como uno de los grandes genios musicales por su talento innato que demostró desde la tierna edad de cinco años. Compuso una enorme cantidad de conciertos, sonatas, música de cámara, réquiems, misas, sinfonías —la No. 40 es la más memorable— y óperas como *Don Giovann*i, *Las bodas de Fígaro* y *La flauta mágica*. Un buen acercamiento a su obra es ver la película *Amadeus*, donde es interpretado por el actor Tom Hulce.
 
 &nbsp;
 
-## Tchaikowsky
+## Tchaikovsky
 
-El compositor ruso **Piotr Ilych Tchaikowsky** (1840-1893) fue uno de los más populares de finales del siglo XIX. Además de obras como conciertos, cuartetos y algunas sinfonías. Pero sin duda lo más recordado de su obra son sus hermosos ballets, destacando ***El cascanueces***, un clásico basado en el cuento de E.T.A. Hoffman, y ***El lago de los cisnes***, los cuales son representados por compañías de danza cada din de año en nuestro país y han tenido versiones cinematográficas animadas y en *live action*.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg/598px-Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg)
 
-&nbsp;
+El compositor ruso **Piotr Ilych Tchaikovsky** (1840-1893) fue uno de los más populares de finales del siglo XIX. Además de obras como conciertos, cuartetos y algunas sinfonías. Pero sin duda lo más recordado de su obra son sus hermosos ballets, destacando ***El cascanueces***, un clásico basado en el cuento de E.T.A. Hoffman, y ***El lago de los cisnes***, los cuales son representados por compañías de danza cada din de año en nuestro país y han tenido versiones cinematográficas animadas y en *live action*.
 
 ## Chopin
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fr%C3%A9d%C3%A9ric_Chopin_1849.jpg/535px-Fr%C3%A9d%C3%A9ric_Chopin_1849.jpg)
 
 Por último, si te gusta la música de **piano** tienes que conocer al polaco **Frédéric Chopin** (1810-1849), quien se especializó en composiciones para ese instrumento de teclado. Entre sus muchas obras se encuentran conciertos para piano, estudios, *mazurkas* —una forma musical de su país—, sonatas, valses, nocturnos y polonesas. Algunas de sus obras más recordadas son: **"Nocturno No. 2"** y la **"Polonesa No. 6"**, tan famosa que incluso personajes de caricatura la han interpretado al piano.
 
