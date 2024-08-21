@@ -43,11 +43,17 @@ Entre sus piezas más conocidas está *La pasión según San Mateo*, un clásico
 
 &nbsp;
 
-Beethoven
+## Beethoven
+
+**Ludwig van Beethoven** (1770-1827), conocido como "El genio de Bonn" por la ciudad alemana en que nació, es sin duda uno de los compositores más famosos y reconocidos del periodo romántico. Destacan obras para piano como "Para Elisa" —cuya tonada se usó mucho como *ringtone* en teléfonos— y "Claro de Luna", así como sus nueve **sinfonías**, de las cuales las más famosas son la **Sexta**, llamada "Pastoral" porque evoca la campiña alemana; la **Quinta**, cuyo inicio —ta-ta-ta-táaaaan— son quizá las cuatro notas más famosas del mundo; y la **Novena**, cuyo cuarto movimiento es conocido como "**El himno a la Alegría**" por el nombre del poema del alemán Schiller que se canta a coro.
 
 &nbsp;
 
-Mozart
+## Mozart
+
+El genio de Salzburgo, **Wolfgang Amadeus Mozart** (1756-1791), es conocido como uno de los grandes genios musicales por su talento innato que demostró desde la tierna edad de cinco años. Compuso una enorme cantidad de conciertos, sonatas, música de cámara, réquiems, misas, sinfonías —la No. 40 es la más memorable— y óperas como *Don Giovann*i, *Las bodas de Fígaro* y *La flauta mágica*. Un buen acercamiento a su obra es ver la película Amadeus, donde es interpretado por el actor Tom Hulce.
+
+&nbsp;
 
 Tchaikowski
 
