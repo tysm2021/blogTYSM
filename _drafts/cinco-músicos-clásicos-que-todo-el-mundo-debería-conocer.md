@@ -61,6 +61,8 @@ Entre sus piezas más conocidas está *La pasión según San Mateo*, un clásico
 
 El genio de Salzburgo, **Wolfgang Amadeus Mozart** (1756-1791), es conocido como uno de los grandes genios musicales por su talento innato que demostró desde la tierna edad de cinco años. Compuso una enorme cantidad de conciertos, sonatas, música de cámara, réquiems, misas, sinfonías —la No. 40 es la más memorable— y óperas como *Don Giovann*i, *Las bodas de Fígaro* y *La flauta mágica*. Un buen acercamiento a su obra es ver la película *Amadeus*, donde es interpretado por el actor Tom Hulce.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5kwTEYNZosE?si=cn-uOYY09yFfET91" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 &nbsp;
 
 ## Tchaikovsky
