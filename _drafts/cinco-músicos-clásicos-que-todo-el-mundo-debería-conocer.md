@@ -59,8 +59,12 @@ El genio de Salzburgo, **Wolfgang Amadeus Mozart** (1756-1791), es conocido como
 
 ## Tchaikowsky
 
-El compositor ruso **Piotr Ilych Tchaikowsky** (1840-1893)
+El compositor ruso **Piotr Ilych Tchaikowsky** (1840-1893) fue uno de los más populares de finales del siglo XIX. Además de obras como conciertos, cuartetos y algunas sinfonías. Pero sin duda lo más recordado de su obra son sus hermosos ballets, destacando ***El cascanueces***, un clásico basado en el cuento de E.T.A. Hoffman, y ***El lago de los cisnes***, los cuales son representados por compañías de danza cada din de año en nuestro país y han tenido versiones cinematográficas animadas y en *live action*.
 
-Chopin
+&nbsp;
+
+## Chopin
+
+Por último, si te gusta la música de **piano** tienes que conocer al polaco **Frédéric Chopin** (1810-1849), quien se especializó en composiciones para ese instrumento de teclado. Entre sus muchas obras se encuentran conciertos para piano, estudios,
 
 &nbsp;
