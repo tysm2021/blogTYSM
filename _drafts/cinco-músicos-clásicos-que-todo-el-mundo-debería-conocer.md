@@ -65,6 +65,8 @@ El compositor ruso **Piotr Ilych Tchaikowsky** (1840-1893) fue uno de los más p
 
 ## Chopin
 
-Por último, si te gusta la música de **piano** tienes que conocer al polaco **Frédéric Chopin** (1810-1849), quien se especializó en composiciones para ese instrumento de teclado. Entre sus muchas obras se encuentran conciertos para piano, estudios, *mazurkas* —una forma musical de su país—, sonatas, valses, nocturnos y polonesas.
+Por último, si te gusta la música de **piano** tienes que conocer al polaco **Frédéric Chopin** (1810-1849), quien se especializó en composiciones para ese instrumento de teclado. Entre sus muchas obras se encuentran conciertos para piano, estudios, *mazurkas* —una forma musical de su país—, sonatas, valses, nocturnos y polonesas. Algunas de sus obras más recordadas son: **"Nocturno No. 2"** y la **"Polonesa No. 6"**, tan famosa que incluso personajes de caricatura la han interpretado al piano.
+
+&nbsp;
 
 &nbsp;
