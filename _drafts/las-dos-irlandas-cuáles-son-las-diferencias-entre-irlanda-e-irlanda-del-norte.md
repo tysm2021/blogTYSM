@@ -45,4 +45,14 @@ Dublín se estableció como la capital del Estado Libre de Irlanda y en 1937 una
 
 En 1985, un tratado angloirlandés otorgó a la **República de Irlanda** un papel consultivo en el gobierno de **Irlanda del Norte**. En 1993, Irlanda y el Reino Unido acordaron un marco para resolver problemas y llevar una paz duradera a la región.
 
-&nbsp;
+## Diferencias entre las dos Irlandas
+
+La política es la primera **diferencia** importante. **Irlanda**, cuya capital es **Dublín** elige un presidente cada 7 años, tiene un parlamento con dos cámaras y un primer ministro, similar a otras repúblicas del mundo. Aquí vemos el edificio de gobierno de la **República de Irlanda**, en **Dublín**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Government_Buildings%2C_Dublin%2C_Ireland.jpg/1024px-Government_Buildings%2C_Dublin%2C_Ireland.jpg)
+
+**Irlanda del Norte** no funciona así, pues el país es parte del Reino Unido, una monarquía constitucional sin presidente y con un primer ministro. La Asamblea de **Irlanda del Norte** tiene su sede en **Belfast** y trabaja con el parlamento del Reino Unido. La religión también es donde las **diferencias** entre **las dos Irlandas** se hacen más evidentes, pues jugó un papel en la división entre estos países. La **República de Irlanda** es predominantemente católica, mientras que **Irlanda del Norte** es principalmente protestante.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Northern_Ireland_-_Albert_Memorial_%28clock%29_Victoria_St._Belfast_-_20180412121430.jpg/682px-Northern_Ireland_-_Albert_Memorial_%28clock%29_Victoria_St._Belfast_-_20180412121430.jpg)
+
+La moneda también difiere entre las dos naciones. Si bien el Reino Unido fue miembro de la Unión Europea durante mucho tiempo, nunca adoptó el euro, así que los viajeros de Europa deberán cambiar sus euros por libras esterlinas si viajan a **Irlanda del Norte**. Pero si viajas a la **República de Irlanda**, tus euros son bienvenidos. Por último, **Irlanda del Norte** está formada por 6 condados mientras que **Irlanda** está formada por 26.
