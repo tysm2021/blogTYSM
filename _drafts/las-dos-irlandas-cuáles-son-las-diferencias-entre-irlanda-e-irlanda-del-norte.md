@@ -41,8 +41,8 @@ La situación de **Irlanda** cambió drásticamente a principios del siglo XX. E
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Great_Britain_and_Ireland_Atlas_Minor_1736.jpg/1024px-Great_Britain_and_Ireland_Atlas_Minor_1736.jpg)
 
-Dublín se estableció como la capital del Estado Libre de Irlanda, y en 1937 una nueva constitución cambió el nombre de la nación a Éire, o Irlanda. En 1949 se convirtió en república y abandonó la Commonwealth británica.
+Dublín se estableció como la capital del Estado Libre de Irlanda y en 1937 una nueva constitución cambió el nombre de la nación a **Éire**, o **Irlanda**. En 1949 se convirtió en república y abandonó la Commonwealth británica. La mayoría protestante y la minoría católica en **Irlanda del Norte** estuvieron en conflicto casi desde el principio. En 1969, la  violencia llevó a la instalación del ejército británico para mantener la paz, y tres años después, ataques terroristas en **Irlanda** y Gran Bretaña hicieron que **Irlanda del Norte** se gobernara directamente por el parlamento del Reino Unido.
 
-La mayoría protestante y la minoría católica en Irlanda del Norte estuvieron en conflicto casi desde el principio. En 1969, la creciente violencia entre los grupos llevó a la instalación del ejército británico para mantener la paz, y tres años después, los ataques terroristas en Irlanda y Gran Bretaña llevaron al gobierno directo de Irlanda del Norte por parte del parlamento del Reino Unido. En 1985, un tratado angloirlandés otorgó a la República de Irlanda un papel consultivo en el gobierno de Irlanda del Norte. En 1993, la República de Irlanda y el Reino Unido acordaron un marco para resolver problemas y llevar una paz duradera a la conflictiva región.
+En 1985, un tratado angloirlandés otorgó a la **República de Irlanda** un papel consultivo en el gobierno de **Irlanda del Norte**. En 1993, Irlanda y el Reino Unido acordaron un marco para resolver problemas y llevar una paz duradera a la región.
 
 &nbsp;
