@@ -50,7 +50,7 @@ Las pinturas murales ubicadas en el Templo de Venus son las más antiguas y pres
 
 ### Mural de la batalla
 
-Uno de los **murales** más destacados por sus dimensiones es el llamado 'Mural de la batalla', que data aproximadamente del 650 d.C. aproximadamente. En él se observa a dos grupos de personajes en guerra, uno de ellos  representado como el dominante—relacionado con los antiguos habitantes del Altiplano Central—, mientras que el otro aparentemente es de origen maya. El grupo dominante porta pieles de jaguar y llevan lanzas, mientras que los vencidos portan tocados, joyas y son representados heridos y con mutilaciones.
+Uno de los **murales** más destacados por sus dimensiones es el llamado ‘Mural de la batalla’, que data aproximadamente del 650 d.C. aproximadamente. En él se observa a dos grupos de personajes en guerra, uno de ellos  representado como el dominante—relacionado con los antiguos habitantes del Altiplano Central—, mientras que el otro aparentemente es de origen maya. El grupo dominante porta pieles de jaguar y llevan lanzas, mientras que los vencidos portan tocados, joyas y son representados heridos y con mutilaciones.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cacaxtla11.jpg/1024px-Cacaxtla11.jpg){: width="1024" height="671"}
 
