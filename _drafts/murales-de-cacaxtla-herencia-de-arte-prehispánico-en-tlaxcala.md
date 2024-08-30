@@ -1,14 +1,14 @@
 ---
 title: Murales de Cacaxtla, herencia de arte prehispánico en Tlaxcala
-date: 2024-05-15 16:00:00
+date: 2024-08-30 14:00:00
 categories:
-  - CULTURA
+  - TURISMO
 tags:
-  - cultura
   - arte
   - prehispánico
   - tlaxcala
   - pintura
+  - turismo
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -17,13 +17,14 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/1024px-camilosesto.png
+    src: /uploads/cacaxtla1.jpeg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/cacaxtla1.jpeg
 show_author_profile: false
 comment: false
 summary: >-
-  Desde mediados del siglo XX, una serie de artistas y cantantes españoles
-  emprendieron la "reconquista" del público mexicano
+  Una de las manifestaciones más impresionantes de la pintura mural del México
+  prehispánico se puede apreciar en Cacaxtla, Tlaxcala. ¿Quiénes hicieron estos
+  murales y a quiénes representan?
 ---
