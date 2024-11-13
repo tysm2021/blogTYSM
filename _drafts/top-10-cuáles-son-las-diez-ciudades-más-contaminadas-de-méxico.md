@@ -63,12 +63,8 @@ La localidad de **San Miguel Totocuitlapilco** está en el Estado de México y p
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Concrete_plant_odisa_12.jpg/1024px-Concrete_plant_odisa_12.jpg)
 
-Ajalpan
+**TE RECOMENDAMOS:** [**Significado y origen de los nombres de los estados de México.**](https://blog.tonoysumariachi.com/mexicanisimos/2023/08/21/significado-y-origen-de-los-nombres-de-los-estados-de-m%C3%A9xico.html)
 
-Celaya
+Los siguiente cinco lugares entre las **ciudades y los municipios mexicanos más contaminados**, según la concentración anual promedio de contaminantes PM2.5 son: **Ajalpan**, un municipio del estado de Puebla cercano a la frontera con Veracruz, con 24.3; la industriosa ciudad de **Celaya, Guanajuato**, con 24.2; la fronteriza y desértica Ciudad Juárez, en el estado de Chihuahua, con un promedio de 24; la capital del país, la **Ciudad de México**, promedia 22.3 y, por último, la capital michoacana, Morelia, registra 21.6, con un peligroso pico en enero de 36 puntos.
 
-Ciudad Juárez
-
-Ciudad de México
-
-Morelia
+Si bien cualquier cifra que exceda los 10 puntos recomendados como exposición máxima según la OMS, como referencia tenemos que la ciudad más contaminada del mundo es **Bagusarai**, en **la India**, con un escalofriante promedio anual de contaminates PM2.5 equivalente a **118\.9** y un pico récord de 285 en el mes de diciembre, en gran parte debidos a la presencia de la refinería Barauni.
