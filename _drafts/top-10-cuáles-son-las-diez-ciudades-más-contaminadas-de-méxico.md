@@ -45,15 +45,21 @@ Es uno de los 125 municipios del Estado de México y se encuentra en el Valle de
 
 ## Toluca de Lerdo
 
-La ciudad capital del Estado de México ocupa el segundo lugar entre las localidades más contaminadas del país, con una **concentración media promedio de PM2.5 de 28.3**, aunque llama la atención que en el mes de enero alcanzó un nivel muy grave de 36, debido a la abundancia de industrias con emisiones contaminantes y a efectos atmosféricos como la llamada "inversión térmica".
+La ciudad capital del Estado de México ocupa el segundo lugar entre las localidades más contaminadas del país, con una **concentración media promedio de PM2.5 de 28.3**, aunque llama la atención que en el mes de enero alcanzó un nivel muy grave de 36, debido a la abundancia de industrias con emisiones contaminantes y a efectos atmosféricos como la llamada “inversión térmica”.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Toluca_A%C3%B1o_Nuevo_2008-2.jpg/1024px-Toluca_A%C3%B1o_Nuevo_2008-2.jpg)
 
 Guadalajara
 
+&nbsp;
+
 &nbsp;San Miguel Totocuitlapilco
 
+&nbsp;
+
 Atotonilco de Tula
+
+&nbsp;
 
 Ajalpan
 
