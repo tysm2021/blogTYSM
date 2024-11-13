@@ -41,13 +41,13 @@ Aquí el Top 10 de las **ciudades mexicanas** o municipios con **peor calidad de
 
 ## Xonacatlán
 
-Es uno de los 125 municipios del Estado de México y se encuentra en el Valle de Toluca, dentro de la Región Naucalpan, entre dicho municipio y Lerma. Su **concentración anual media de PM2.5 durante 2023 fue de 29.2**, lo que lo convierte en el **municipio más contaminado del país**.
+Es uno de los 125 municipios del Estado de México y se encuentra en el Valle de Toluca, dentro de la Región Naucalpan, entre dicho municipio y Lerma. Su **concentración anual promedio de PM2.5 durante 2023 fue de 29.2**, lo que lo convierte en el **municipio más contaminado del país**.
 
-Es un mu
+## Toluca de Lerdo
 
-Este
+La ciudad capital del Estado de México ocupa el segundo lugar entre las localidades más contaminadas del país, con una **concentración media promedio de PM2.5 de 28.3**, aunque llama la atención que en el mes de enero alcanzó un nivel muy grave de 36, debido a la abundancia de industrias con emisiones contaminantes y a efectos atmosféricos como la llamada "inversión térmica".
 
-Toluca de Lerdo
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Toluca_A%C3%B1o_Nuevo_2008-2.jpg/1024px-Toluca_A%C3%B1o_Nuevo_2008-2.jpg)
 
 Guadalajara
 
