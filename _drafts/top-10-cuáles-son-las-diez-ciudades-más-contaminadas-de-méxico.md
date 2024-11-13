@@ -51,15 +51,17 @@ La ciudad capital del Estado de México ocupa el segundo lugar entre las localid
 
 ## Guadalajara
 
-&nbsp;La "Perla Tapatía", con toda su industria y parque vehicular, está en el tercer sitio entre las más contaminadas, con un promedio de 25.8 en cuanto a concentración anual de contaminantes PM2.5.
+&nbsp;La “Perla Tapatía”, con toda su industria y parque vehicular, está en el tercer sitio entre las más contaminadas, con un promedio de 25.8 en cuanto a concentración anual de contaminantes PM2.5.
 
 ## San Miguel Totocuitlapilco
 
-La localidad de **San Miguel Totocuitlapilco** está en el Estado de México y pertenece al Municipio de **Metepec**, encontrándose a 3 km de la ciudad de dicho nombre. Tiene poco menos de 10 mil habitantes, pero por su cercanía a la ciudad de **Toluca** y a la zona industrial de **Lerma** —hoy por hoy, la región más contaminada de México— tiene registros muy altos en cuanto a medición de contaminantes.
+La localidad de **San Miguel Totocuitlapilco** está en el Estado de México y pertenece al Municipio de **Metepec**, encontrándose a 3 km de la ciudad de dicho nombre. Tiene poco menos de 10 mil habitantes, pero por su cercanía a la ciudad de **Toluca** y a la zona industrial de **Lerma** —hoy por hoy, la región más contaminada de México— tiene números muy altos en cuanto a medición de contaminantes, registrando una **concentración anual de contaminantes PM2.5. equivalente a 25.7** durante **2023**.
 
-Atotonilco de Tula
+## Atotonilco de Tula
 
-&nbsp;
+&nbsp;En quinto lugar tenemos a la ciudad de **Atotonilco de Tula**, en el estado de **Hidalgo**, la cual es cabecera del municipio el mismo nombre y se encuentra en la zona conurbada a la zona metropolitana de Tula. Registra una **concentración anual de contaminantes PM2.5. de 25.1**, en gran parte debida a la presencia de numerosas fábricas, destacando diversas planta de cementos que generan muchísimos residuos y partículas suspendidas, así como una refinería de PEMEX.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Concrete_plant_odisa_12.jpg/1024px-Concrete_plant_odisa_12.jpg)
 
 Ajalpan
 
