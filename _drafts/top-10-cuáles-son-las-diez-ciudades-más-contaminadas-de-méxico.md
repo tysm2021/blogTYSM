@@ -49,13 +49,13 @@ La ciudad capital del Estado de México ocupa el segundo lugar entre las localid
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Toluca_A%C3%B1o_Nuevo_2008-2.jpg/1024px-Toluca_A%C3%B1o_Nuevo_2008-2.jpg)
 
-Guadalajara
+## Guadalajara
 
-&nbsp;
+&nbsp;La "Perla Tapatía", con toda su industria y parque vehicular, está en el tercer sitio entre las más contaminadas, con un promedio de 25.8 en cuanto a concentración anual de contaminantes PM2.5.
 
-&nbsp;San Miguel Totocuitlapilco
+## San Miguel Totocuitlapilco
 
-&nbsp;
+La localidad de **San Miguel Totocuitlapilco** está en el Estado de México y pertenece al Municipio de **Metepec**, encontrándose a 3 km de la ciudad de dicho nombre. Tiene poco menos de 10 mil habitantes, pero por su cercanía a la ciudad de **Toluca** y a la zona industrial de **Lerma** —hoy por hoy, la región más contaminada de México— tiene registros muy altos en cuanto a medición de contaminantes.
 
 Atotonilco de Tula
 
