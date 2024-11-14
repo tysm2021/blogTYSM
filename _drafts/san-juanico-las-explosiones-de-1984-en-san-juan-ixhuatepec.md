@@ -39,6 +39,8 @@ Las **explosiones** continuaron hasta pasadas las 7 am. Las causas exactas del *
 
 En total, se registraron al menos **500 muertos** y más de **3,000 personas heridas**, aunque algunas estimaciones sugieren que la cifra real podría haber sido aún mayor, dado el caos y la falta de registros precisos en el momento. La mayoría de las víctimas fueron personas que vivían en las colonias cercanas, quienes fueron alcanzadas por las **explosiones** y la onda expansiva, o atrapadas entre los escombros de sus viviendas. El fuego que se desató durante y después de las explosiones fue tan intenso que algunos cuerpos no pudieron ser identificados y muchas casas quedaron reducidas a cenizas.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-LBSto7iQFU?si=bZMpyDW9zM9-7n11" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Una consecuencia colateral de la tragedia tuvo lugar en los meses siguiente, durante el tratamiento a los miles de personas quemadas: gracias a la revisión de las técnicas tradicionales de herbolaria, muchos de ellos fueron tratados con la corteza de **tepezcohuite**; este tratamiento resultó ser mucho más efectivo que otras técnicas médicas y restableció el lugar que tenía la medicina ancestral mexicana.
 
 **TE RECOMENDAMOS:** [**Tepezcohuite: usos y beneficios de esta planta medicinal ancestral.**](https://blog.tonoysumariachi.com/mexicanisimos/2022/08/17/tepezcohuite-usos-y-beneficios-de-esta-planta-medicinal-ancestral.html)
