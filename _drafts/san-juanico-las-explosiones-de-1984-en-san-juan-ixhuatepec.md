@@ -33,7 +33,7 @@ Este accidente, conocido como la **Tragedia de San Juanico**, dejó un saldo en 
 
 El desastre comenzó alrededor de las 5:45 de la mañana, cuando una **fuga de ga**s en la planta de almacenamiento de Petróleos Mexicanos (**PEMEX**) provocó una **explosión** inicial. La planta, que almacenaba grandes cantidades de gas LP , estaba situada cerca de varias colonias densamente pobladas. En cuestión de minutos, una serie de explosiones sucesivas destrozó no solo la planta, sino también una gran área alrededor, alcanzando viviendas, tiendas y edificios cercanos. El estruendo se escuchó a kilómetros de distancia y fue tan potente que provocó la rotura de ventanas y el colapso de estructuras en un amplio radio de la zona.
 
-&nbsp;
+&nbsp;![](/uploads/project-details-5.jpg)
 
 Las causas exactas del accidente siguen siendo un tema de debate, pero se sabe que la explosión fue el resultado de una fuga de gas que se desató debido a una combinación de factores: el mal estado de la infraestructura, la falta de mantenimiento adecuado y la ausencia de medidas de seguridad apropiadas. Aparentemente, el personal de la planta no contaba con los protocolos necesarios para controlar una emergencia de tal magnitud. Además, las condiciones de la planta de almacenamiento de gas no eran las ideales, y la cercanía de zonas habitadas a un lugar tan peligroso evidenció la falta de planificación urbana adecuada.
 
