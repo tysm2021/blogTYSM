@@ -37,4 +37,20 @@ Para recordar a una de las plumas más destacadas de la literatura mexicana del 
 
 **TE RECOMENDAMOS:** [**Recordando a la poeta Rosario Castellanos, su vida y obra.**](https://blog.tonoysumariachi.com/cultura/2023/08/08/recordando-a-la-poeta-rosario-castellanos-su-vida-y-su-obra.html)
 
-&nbsp;
+### La ley de Herodes (1967)
+
+Este es el único libro de **cuentos** como tal que escribió **Jorge Ibargüengoitia**, aunque más bien se trata de una serie de ficciones con un fondo autobiográfico que podrían ser las visiones en comedia y en farsa de los conflictos que la literatura mexicana suele expresar en  sentido trágico. **Ibargüengoitia** sabe observar nuestros actos en todo lo que tienen de grotesco o absurdo, y convertirlos en divertidas y mordaces sátiras. Por su pluma desfilan los medios intelectuales, el universo de los boy scouts, el mundo de una clase media en derrota, asediada por un proletariado que pasa tranquilamente de la mendicidad a la delincuencia.
+
+No hay que confundir este título con la **película** protagonizada por Damián Alcázar y dirigida por Luis Estrada, ya que sólo comparten el nombre. Algunos de los **cuentos** que componen este libro son: "La mujer que no", "El episodio cinematográfico", "Las manos muertas" y el que da título al libro.
+
+### Las muertas (1977)
+
+Esta es una especie de reportaje periodístico novelado, en el que —como dice el propio **Ibargüengoitia**— "algunos hechos son reales y todos los personajes son imaginarios". En la trama, una mujer llega a un pueblo en busca del panadero para cobrar venganza; cuando lo encuentra, lo balacea y le prende fuego al lugar. Las investigaciones del crimen revelarán los oscuros secretos de las conocidas hermanas Serafina y Arcángela Baladro, dueñas de cantinas y prostíbulos más tarde conocidas como "**Las Poquianchis**".
+
+*Las muertas* es un extraordinario ejercicio literario de ficción construido a partir de un caso real, y una muestra inigualable de la capacidad de **Jorge Ibargüengoitia** para retratar con humor la vida por el lado que más duele.
+
+![](/uploads/lasmuertas.jpeg)
+
+Dos crímenes (1979)
+
+Instrucciones para vivir en México (1990)
