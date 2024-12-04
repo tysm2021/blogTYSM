@@ -51,6 +51,8 @@ Cada año, entre los meses de noviembre y diciembre, en el pueblo de **Tlalpujah
 
 La comunidad de **Chignahuapan**, **Puebla**, se localizada en la parte Oeste de la Sierra Norte de Puebla. Su nombre proviene del náhuatl y significa “En las nueve aguas” o “donde abunda el agua”. La zona fue ocupada por totonacas, que convivieron con nahuas, otomíes y tepehuas; ya en el siglo XVI se fundó Santiago Chiquinahuitle (nueve ojos de agua) a donde llegaron misioneros para convertir el lugar en centro de adoctrinamiento y conversión. Ubicado a 2280 m de altitud, presenta un clima semifrío y una temperatura media de 12º C, por lo que se recomienda ir bien abrigado en invierno.
 
+**TE RECOMENDAMOS:** [**Según la tradición, ¿cuándo se pone el Árbol de Navidad en México?**](https://blog.tonoysumariachi.com/mexicanisimos/2023/11/28/seg%C3%BAn-la-tradici%C3%B3n-cu%C3%A1ndo-se-pone-el-%C3%A1rbol-de-navidad-en-m%C3%A9xico.html)
+
 En 1965, el ingeniero Rafael Méndez Muñoz y el señor Héctor Rodríguez fundaron los primeros talleres donde elaboraban de **esferas navideñas** con **vidrio soplado**. Los artesanos pronto dominaron las técnicas del **soplado** y **decoración** de las esferas navideñas con un estilo propio. En las décadas siguientes se abrieron nuevos talleres en la misma población, aplicando los conocimientos y técnicas aprendidos y generando una industria tradicional que se caracteriza por un sistema de producción artesanal, con procedimientos manuales en toda la secuencia, y diseños de estilo único, pues cada pieza se pinta y decora por separado.
 
 ![](/uploads/venta-de-esferas-navidenas-en-chignahuapan-puebla-03.jpg)
@@ -60,6 +62,10 @@ Actualmente esta industria tradicional se conforma  por más de 400 talleres, lo
 El **soplado** del vidrio, el cromado, el decorado y la incrustación del colgante son hechas a mano, y su tamaño, colorido y diseño puede ser tan diverso como el ingenio del artesano lo decida. Existen desde la **esfera** tradicional, hasta las más decoradas o rellenas de materiales como paja, plumas u hojas de maíz. También las hay con forma de personajes de caricaturas. En el **Castillo de la esfera**, la fábrica más grande de productos navideño, es posible observar el proceso de elaboración de estos adornos.
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/DNdWiGosDRs?si=bz3-fEudZj8gx9LR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
