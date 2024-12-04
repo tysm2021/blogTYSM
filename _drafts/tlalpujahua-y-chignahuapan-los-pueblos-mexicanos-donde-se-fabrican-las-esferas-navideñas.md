@@ -51,4 +51,6 @@ Actualmente esta industria tradicional se conforma  por más de 400 talleres, lo
 
 El **soplado** del vidrio, el cromado, el decorado y la incrustación del colgante son hechas a mano, y su tamaño, colorido y diseño puede ser tan diverso como el ingenio del artesano lo decida. Existen desde la **esfera** tradicional, hasta las más decoradas o rellenas de materiales como paja, plumas u hojas de maíz. También las hay con forma de personajes de caricaturas. En el **Castillo de la esfera**, la fábrica más grande de productos navideño, es posible observar el proceso de elaboración de estos adornos.
 
+<iframe width="720" height="480" src="https://www.youtube.com/embed/DNdWiGosDRs?si=bz3-fEudZj8gx9LR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 &nbsp;
