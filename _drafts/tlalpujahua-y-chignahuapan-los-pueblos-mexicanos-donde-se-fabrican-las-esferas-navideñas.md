@@ -37,13 +37,15 @@ Hagamos un recorrido breve por estas **poblaciones** para conocer su **historia*
 
 ## Tlalpujahua
 
-**Tlalpujahua** procede del náhuatl *tlalli, '*tierra' y *poxohuac, '*esponja, fofa', de ahí que significa “tierra de tezontle” o “tierra bofa o esponjosa”. Fue ocupada por mazahuas, nahuas y tarascos hasta la Conquista; con la llegada de los españoles y la capitulación tarasca en 1522 empezó la historia del pueblo. Destaca su arquitectura virreinal, sus casonas con balcones y su pasado minero. Aquí nació el héroe Ignacio López Rayón, y su casa es ahora un museo. Ubicado a 2600 m de altitud, ofrece una temperatura media de 14º C, poca variación entre estaciones y lluvias entre verano y otoño.
+**Tlalpujahua** procede del náhuatl *tlalli, ‘*tierra’ y *poxohuac, ‘*esponja, fofa’, de ahí que significa “tierra de tezontle” o “tierra bofa o esponjosa”. Fue ocupada por mazahuas, nahuas y tarascos hasta la Conquista; con la llegada de los españoles y la capitulación tarasca en 1522 empezó la historia del pueblo. Destaca su arquitectura virreinal, sus casonas con balcones y su pasado minero. Aquí nació el héroe Ignacio López Rayón, y su casa es ahora un museo. Ubicado a 2600 m de altitud, ofrece una temperatura media de 14º C, poca variación entre estaciones y lluvias entre verano y otoño.
 
 ![](/uploads/1024px-tlalpujahua-de-rayon-0415.jpeg)
 
 Actualmente, el pueblo es famoso en el mundo por la fabricación de **esferas navideñas**, debido a su producción manual y por las técnicas tradicionales. El proceso empieza con la fundición del vidrio y su posterior soplado; en una jornada de ocho horas, un **artesano** puede inflar entre 80 y 120 **esferas**. Después sigue el decorado, con paciencia y el talento de cada artesano, que le da su toque especial. Las piezas que parecen espejos llevan una película de plata pura en su interior.
 
-&nbsp;
+Cada año, entre los meses de noviembre y diciembre, en el pueblo de **Tlalpujahua** tiene lugar la **Feria de la Esfera**, donde decenas de **artesanos** exponen y venden lo mejor de su producción a precios muy atractivos. Además, se instala la villa navideña conocida como la Villa de Santa Claus, con casas decoradas e iluminadas para que te tomes la obligada foto del recuerdo en ellas.
+
+![](/uploads/tlalpujahua2.jpg)
 
 ## Chignahuapan
 
@@ -58,6 +60,8 @@ Actualmente esta industria tradicional se conforma  por más de 400 talleres, lo
 El **soplado** del vidrio, el cromado, el decorado y la incrustación del colgante son hechas a mano, y su tamaño, colorido y diseño puede ser tan diverso como el ingenio del artesano lo decida. Existen desde la **esfera** tradicional, hasta las más decoradas o rellenas de materiales como paja, plumas u hojas de maíz. También las hay con forma de personajes de caricaturas. En el **Castillo de la esfera**, la fábrica más grande de productos navideño, es posible observar el proceso de elaboración de estos adornos.
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/DNdWiGosDRs?si=bz3-fEudZj8gx9LR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+&nbsp;
 
 &nbsp;
 
