@@ -21,14 +21,21 @@ article_header:
     src: /uploads/1280px-juandiego.png
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/1280px-juandiego.png
 show_author_profile: false
 comment: false
 summary: >-
-  Desde mediados del siglo XX, una serie de artistas y cantantes españoles
-  emprendieron la "reconquista" del público mexicano
+  La tradición cuenta que Juan Diego fue visitado por la Virgen de Guadalupe,
+  quien lo llamó "el más pequeño de mis hijos". Aquí te contamos un poco de lo
+  que se sabe de su biografía.
 ---
-Juan Diego Cuauhtlatoatzin, conocido en la tradición católica como San Juan Diego, nació alrededor del año 1474 en el Valle de México, en una comunidad náhuatl cercana a lo que hoy es la Ciudad de México. Su nombre indígena, Cuauhtlatoatzin, significa "el que habla como águila", una referencia a su noble linaje y a la importancia de la lengua náhuatl en su cultura. Pertenecía a una familia de origen humilde pero respetada en su comunidad, y en su juventud fue testigo de las profundas transformaciones que traía la llegada de los conquistadores españoles a América. Al momento de las apariciones, ya era un hombre adulto, de unos cincuenta años, que vivía en el pueblo de Tlatelolco con su esposa, María, y había experimentado la pérdida de muchos seres queridos a causa de las enfermedades traídas por los europeos.
+Entre el 9 y el **12 de diciembre de 1531**, según la tradición católica, la **Virgen de Guadalupe** se apareció ante el indio **Juan Diego**, “el más pequeño de sus hijos”. Dichas apariciones dieron lugar a la construcción de distintos templos dedicados a ella, incluyendo dos **Basílicas**, y al culto religioso más arraigado en nuestro país. Pero, ¿quién fue **Juan Diego Cuauhtlatoatzin** y qué sabemos de su **biografía**?
+
+Aquí te contamos brevemente la vida del **primer santo indígena**, antes y después de las apariciones de la **Virgen**, hasta su beatificación y canonización durante el papado de Juan Pablo II.
+
+**TE RECOMENDAMOS:** [**San Felipe de Jesús, primer santo y protomártir mexicano.**](https://blog.tonoysumariachi.com/mexicanisimos/2024/02/02/san-felipe-de-jes%C3%BAs-primer-santo-y-protom%C3%A1rtir-mexicano.html)
+
+Juan Diego Cuauhtlatoatzin, conocido en la tradición católica como San Juan Diego, nació alrededor del año 1474 en el Valle de México, en una comunidad náhuatl cercana a lo que hoy es la Ciudad de México. Su nombre indígena, Cuauhtlatoatzin, significa “el que habla como águila”, una referencia a su noble linaje y a la importancia de la lengua náhuatl en su cultura. Pertenecía a una familia de origen humilde pero respetada en su comunidad, y en su juventud fue testigo de las profundas transformaciones que traía la llegada de los conquistadores españoles a América. Al momento de las apariciones, ya era un hombre adulto, de unos cincuenta años, que vivía en el pueblo de Tlatelolco con su esposa, María, y había experimentado la pérdida de muchos seres queridos a causa de las enfermedades traídas por los europeos.
 
 Antes de los eventos que lo hicieron famoso, la vida de Juan Diego parecía ser la de un hombre común de la época. Era un campesino devoto y piadoso, que, como tantos otros, había abrazado el cristianismo tras la llegada de los misioneros. De hecho, fue bautizado por un fraile franciscano en la joven fe cristiana. Sin embargo, la vida de Juan Diego cambiaría para siempre en el invierno de 1531, cuando, en su camino a la misa, tuvo una visión extraordinaria: en el cerro del Tepeyac, se encontró con una joven mujer que le habló en náhuatl, su lengua materna. Esa mujer no era otra que la Virgen María, quien se le apareció como la *Virgen de Guadalupe* y le pidió que llevara su mensaje al obispo de México, Juan de Zumárraga, para que le construyera un templo en ese mismo lugar.
 
