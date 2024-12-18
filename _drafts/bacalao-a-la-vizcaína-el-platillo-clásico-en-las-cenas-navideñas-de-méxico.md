@@ -37,7 +37,9 @@ El **bacalao** es un pescado que se vive en mares fríos de agua salada, princip
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bacalao-Salaz%C3%B3n.jpg/1024px-Bacalao-Salaz%C3%B3n.jpg)
 
-&nbsp;
+&nbsp;De acuerdo a con el portal de Larousse Cocina, el origen del **bacalao a la vizcaína** se dio en el año 1835, debido a que Simón Gurtubay Zubero, un comerciante vizcaíno, pidió a su proveedor 100 o 120 filetes de bacalao; sin embargo, por una confusión de la letra “o” con un 0, en lugar de la cantidad pedida recibió 1 000 120 filetes. Al no haber vuelta atrás, tuvo que salar los filetes para conservarlos. En el afán de experimentar y no aburrirse del pescado, lo preparó con salsa vizcaína, la cual consiste en pimiento, cebolla, ajo, caldo de pescado y harina.
+
+De acuerdo a la Secretaría de Agricultura de México, el **bacalao** llegó a suelo **mexicano** durante el **Virreinato** y la receta fue tropicalizada: se le añadió una gran cantidad de jitomates, chiles güeros, perejil, alcaparras, aceitunas, ajo y papas.
 
 &nbsp;
 
