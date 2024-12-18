@@ -37,11 +37,19 @@ En 2024, son 177 las poblaciones designadas como **Pueblos Mágicos** y se encue
 
 ## Tepoztlán
 
-Ubicado en el estado de **Morelos**, la cercanía de este **Pueblo Mágico** con la Ciudad de México lo convierte en un **destino** preferido de miles de capitalinos y de otros turistas, que los fines de semana abarrotan el mercado, la calle principal y el camino al **cerro del Tepozteco**. Cuenta con una muy variada oferta hotelera, para todos los presupuestos, y además de la obligada subida a la pirámide —es difícil, pues toma una hora o más de ascenso—, no puedes dejar de probar las quesadillas, los tacos acorazados y la cecina de Yecapixtla que se venden en el mercado, conocer el ex convento de la Natividad y explorar sus tiendas y comercios, muchos de ellos enfocados en cuarzos y otros objetos con supuesta energía espiritual.
+Ubicado en el estado de **Morelos**, la cercanía de este **Pueblo Mágico** con la Ciudad de México lo convierte en un **destino** preferido de miles de capitalinos y de otros turistas, que los fines de semana abarrotan el mercado, la calle principal y el camino al **cerro del Tepozteco**. Cuenta con una muy variada oferta hotelera, para todos los presupuestos, y además de la obligada subida a la pirámide —es difícil, pues toma una hora o más de ascenso—, no puedes dejar de probar las quesadillas, los tacos acorazados y la cecina de Yecapixtla que se venden en el mercado, conocer el ex convento de la Natividad y explorar sus tiendas y comercios, muchos de ellos enfocados en cuarzos y otros objetos con supuesta energía espiritual.&nbsp;
 
 &nbsp;![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Templo_la_natividad_Tepoztlan_Morelos.jpg/765px-Templo_la_natividad_Tepoztlan_Morelos.jpg)
 
-Sayulita
+**TE RECOMENDAMOS:** [**Cinco cosas que hacer en Tepoztlán, Morelos.**](https://blog.tonoysumariachi.com/turismo/2022/07/19/cinco-cosas-que-hacer-en-tepoztlan-morelos.html)
+
+## Sayulita
+
+Es uno de los principales destinos turísticos de la zona llamada **Riviera Nayarit**, que en los últimos años ha tenido gran desarrollo. Combina los encantos y las bondades de un pintoresco **pueblo costeño nayarita** con hermosas **playas**, donde turistas nacionales y extranjeros se deleitan con la arena, el mar y los hermosos atardeceres. Además, tiene una interesante oferta gastronómica —el aguachile y el pescado zarandeado son dos especialidades de la zona— y hotelera, donde seguro podrás encontrar algo a la medida de tu presupuesto.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sayulita_Mexico_%28130982763%29.jpeg/1024px-Sayulita_Mexico_%28130982763%29.jpeg)
+
+**TE RECOMENDAMOS:** [**Sayulita y otras hermosas playas de la Riviera Nayarit.**](https://blog.tonoysumariachi.com/turismo/2022/12/05/sayulita-y-otras-hermosas-playas-de-la-riviera-nayarit.html)
 
 San Miguel de Allende
 
