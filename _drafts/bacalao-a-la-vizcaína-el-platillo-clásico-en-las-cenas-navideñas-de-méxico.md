@@ -62,23 +62,25 @@ De acuerdo a la Secretaría de Agricultura de México, el **bacalao** llegó a s
 * 2 cabezas grandes de ajo
 * Un manojo de perejil finamente picado
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bacalao_a_la_Vizca%C3%ADna.jpg/768px-Bacalao_a_la_Vizca%C3%ADna.jpg)
+
 #### **Preparación**
 
-* 1\. Desala el bacalao remojándolo dos días enteros con agua, cambia el agua y enjuaga el pescado cada día.
-* 2\. Una vez enjuagado, remoja un día y medio en leche entera y enjuaga de nuevo.
-* 3\. Comienza a desmenuzárlo, verás que es más fácil sacar las espinas, reserva.
-* 4\. Pon a hervir los jitomates, cuando la piel se abra, retira del fuego, pon a enfriar y pélalos para poder picarlos, reserva.
-* 5\. Pica la cebolla finamente y reserva.
-* 6\. Pela las dos cabezas de ajo, pícalas finamente y reserva.
-* 7\. Hierve las papas cambray, pélalas y pica en cuartos.
-* 8\. Quita la salmuera de los chiles güeros, las aceitunas y las alcaparras, reserva.
-* 9\. Pica finamente el perejil y reserva.
-* 10\. Pon en una olla grande los dos litros de aceite extra virgen y deja calentar, haz la prueba con un cubito de cebolla y ya que esté listo agrega toda la cebolla y mueve hasta que esté acitronada.
-* 11\. Agrega el ajo y carameliza (cuando tenga un color ligeramente dorado)
-* 12\. Añade el bacalao a la olla y mueve constantemente.
-* 13\. Cuando el bacalao haya absorbido una parte del aceite de olivo agrega las almendras, los piñones y las pasas, deja sazonar e incorpora.
-* 14\. Agrega el jitomate y dos cucharadas soperas de consomé de pollo en polvo, vierte el vino y deja cocer.
-* 15\. Cuando el jitomate esté cocido, añade las papas, las aceitunas, las alcaparras y los chiles güeros, deja que suelten sus jugos y se cuesan.
-* 16\. Al final agrega el perejil y deja dar el último hervor, puedes añadirle sal si así lo consideras.
+1. Desala el bacalao: sumérgelo en agua durante dos días enteros, cambiando el agua y enjuagando el pescado tres veces al día.
+2. Una vez desalado —debe conservar un poco de sal, para que le dé sabor al guiso— comienza a desmenuzarlo y ten mucho cuidado de sacar todas las espinas. Reserva.
+3. Pon a hervir los jitomates. Cuando la piel se abra, retira del fuego, pon a enfriar y pélalos para poder picarlos. Reserva.
+4. Pica la cebolla finamente y reserva.
+5. Pela las dos cabezas de ajo, pícalas finamente y reserva.
+6. Por a hervir las papas cambray; ya que estén suaves, pélalas y pica en cuartos. Reserva.
+7. Escurre la salmuera de los chiles güeros, las aceitunas y las alcaparras. Reserva.
+8. Pica finamente el perejil y reserva.
+9. Ahora sí, a cocinar: pon en una olla grande los dos litros de aceite extra virgen y deja calentar muy, muy bien. Ya que esté bien caliente, agrega toda la cebolla y mueve hasta que esté acitronada (se transparenta).
+10. Agrega el ajo y carameliza hasta que tenga un color ligeramente dorado.
+11. Añade el bacalao a la olla y muévelo constantemente. Debe adquirir un tono dorado.
+12. Cuando el bacalao haya absorbido una parte del aceite de olivo, agrega las almendras, los piñones y las pasas. Deja sazonar e incorpora.
+13. Agrega el jitomate y dos cucharadas soperas de consomé de pollo en polvo. Cuando se haya suavizado y espesado un poco, vierte el vino y deja cocer.
+14. Cuando esté cocido, añade las papas, las aceitunas, las alcaparras y los chiles güeros, deja que suelten sus jugos y se sazonen en la olla.
+15. Al final, agrega el perejil y deja dar el último hervor. puedes añadirle sal si así lo consideras.
+16. Deja enfriar y recalienta cuando lo vayas a servir. Dicen las malas lenguas que este es uno de los platillos que sabe mejor al día siguiente, en el recalentado.
 
-Ahora que conoces el **origen del bacalao a la vizcaína,** no dudes en preparar esta deliciosa receta, te aseguro que le va a encantar a toda tu familia.
+Ahora que conoces el **origen del bacalao a la vizcaína,** no dudes en preparar esta deliciosa receta, te aseguramos que le va a encantar a toda tu familia.
