@@ -33,4 +33,10 @@ Aquí te hablamos un poco de este delicioso platillo, su **origen**, la **histor
 
 **TE RECOMENDAMOS:** [**¿Los amas o los odias? Romeritos, un revoltijo de tradición y sabor.**](https://blog.tonoysumariachi.com/gastronomia/2023/12/21/los-amas-o-los-odias-romeritos-un-revoltijo-de-tradici%C3%B3n-y-sabor.html)
 
-&nbsp;NN
+&nbsp;El bacalao es un pescado que se vive en mares fríos de agua salada, principalmente habita la parte norte de la Península Ibérica y en países escandinavos como Noruega, Suecia y Dinamarca. Quienes lo trajeron a México fueron los españoles, pero como era muy difícil transportado en su estado fresco, se conservaba con sal para evitar que se deteriorara; este método de conservación basado en deshidratación y salado es conocido como *salazón*. De acuerdo con la Profeco, este método no solo sirve para inhibir bacterias, sino que también permite que los nutrientes se concentren y le brinda más sabor.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
