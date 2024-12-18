@@ -37,9 +37,9 @@ En 2024, son 177 las poblaciones designadas como **Pueblos Mágicos** y se encue
 
 ## Tepoztlán
 
-Ubicado en el estado de **Morelos**, la cercanía de este **Pueblo Mágico** con la Ciudad de México lo convierte en un **destino** preferido de miles de capitalinos y de otros turistas, que los fines de semana abarrotan el mercado, la calle principal y el camino al **cerro del Tepozteco**. Cuenta con una muy variada oferta hotelera, para todos los presupuestos, y además de la obligada subida a la pirámide —es difícil, pues toma una hora o más de ascenso—, no puedes dejar de probar las quesadillas, los tacos acorazados y la cecina de Yecapixtla que se venden en el mercado, conocer el ex convento y explorar sus tiendas y comercios, muchos de ellos enfocados en cuarzos y otros objetos con supuesta energía espiritual.
+Ubicado en el estado de **Morelos**, la cercanía de este **Pueblo Mágico** con la Ciudad de México lo convierte en un **destino** preferido de miles de capitalinos y de otros turistas, que los fines de semana abarrotan el mercado, la calle principal y el camino al **cerro del Tepozteco**. Cuenta con una muy variada oferta hotelera, para todos los presupuestos, y además de la obligada subida a la pirámide —es difícil, pues toma una hora o más de ascenso—, no puedes dejar de probar las quesadillas, los tacos acorazados y la cecina de Yecapixtla que se venden en el mercado, conocer el ex convento de la Natividad y explorar sus tiendas y comercios, muchos de ellos enfocados en cuarzos y otros objetos con supuesta energía espiritual.
 
-&nbsp;
+&nbsp;![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Templo_la_natividad_Tepoztlan_Morelos.jpg/765px-Templo_la_natividad_Tepoztlan_Morelos.jpg)
 
 Sayulita
 
