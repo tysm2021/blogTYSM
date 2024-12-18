@@ -35,4 +35,20 @@ En 2024, son 177 las poblaciones designadas como **Pueblos Mágicos** y se encue
 
 **TE RECOMENDAMOS:** [**Estos son los tres Pueblos Mágicos del estado de Chihuahua.**](https://blog.tonoysumariachi.com/turismo/2023/03/22/estos-son-los-tres-pueblos-magicos-del-estado-de-chihuahua.html)
 
+## Tepoztlán
+
+Ubicado en el estado de **Morelos**, la cercanía de este **Pueblo Mágico** con la Ciudad de México lo convierte en un **destino** preferido de miles de capitalinos y de otros turistas, que los fines de semana abarrotan el mercado, la calle principal y el camino al **cerro del Tepozteco**. Cuenta con una muy variada oferta hotelera, para todos los presupuestos, y además de la obligada subida a la pirámide —es difícil, pues toma una hora o más de ascenso—, no puedes dejar de probar las quesadillas, los tacos acorazados y la cecina de Yecapixtla que se venden en el mercado, conocer el ex convento y explorar sus tiendas y comercios, muchos de ellos enfocados en cuarzos y otros objetos con supuesta energía espiritual.
+
 &nbsp;
+
+Sayulita
+
+San Miguel de Allende
+
+San Cristóbal de las Casas
+
+Chiapas
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ZOCALO_DE_SAN_CRISTOBAL_DE_LAS_CASAS_CHIAPAS.jpg/1024px-ZOCALO_DE_SAN_CRISTOBAL_DE_LAS_CASAS_CHIAPAS.jpg)
+
+Bacalar
