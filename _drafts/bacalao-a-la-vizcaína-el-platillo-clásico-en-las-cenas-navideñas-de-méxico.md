@@ -19,7 +19,7 @@ article_header:
     src: /uploads/bacalao.png
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/bacalao.png
 show_author_profile: false
 comment: false
 summary: >-
@@ -27,3 +27,10 @@ summary: >-
   clásico de la cena de Nochebuena: aquí te decimos su historia y cómo
   prepararlo.
 ---
+El lomo a la cerveza, los romeritos, el jamón Virginia y la ensalada de manzana con crema, son todos platillos clásicos de la **cena de Nochebuena** en México. Pero hay uno que es el más emblemático en la temporada de **Navidad**: el **bacalao a la vizcaína**. Aunque lleva varios días desalarlo, primero, y cocinarlo después, se trata de una de esas recetas que van pasando de generación en generación y que fomentan la unión familiar si se cocinan entre todos. ¿Y quién le dice que no a una torta en el "recalentado" del día 25?
+
+Aquí te hablamos un poco de este delicioso platillo, su **origen**, la **historia** del dichoso **bacalao** y algunas maneras de prepararlo.
+
+TE RECOMENDAMOS:
+
+&nbsp;
