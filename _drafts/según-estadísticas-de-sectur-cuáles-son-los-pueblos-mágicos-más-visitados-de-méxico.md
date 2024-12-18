@@ -61,8 +61,14 @@ Durante muchos años, esta bella ciudad colonial del estado de **Guanajuato** ha
 
 ## San Cristóbal de las Casas
 
-El **Pueblo Mágico** por excelencia del estado de **Chiapas**. Sus calles empedradas y sus casas coloniales de tejados rojos te invitan a perderte en un escenario que parece salido de una película. Comienza tu visita en la **Catedral de San Cristóbal Mártir**, una joya barroca que vigila la ciudad desde su plaza principal. Recorre los andadores llenos de tienditas y cafeterías, y no te pierdas el Templo de Santo Domingo, cuya fachada rosa y dorada te dejará boquiabierto. ¿Y si tienes hambre? "Sancris" ofrece los tamales chiapanecos, el cochito horneado o un tascalate refrescante; y si buscas algo más aventurero, no te resistas a un *pox* (se pronuncia "pos"), la tradicional bebida maya que calienta cuerpo y alma.
+El **Pueblo Mágico** por excelencia del estado de **Chiapas**. Sus calles empedradas y sus casas coloniales de tejados rojos te invitan a perderte en un escenario que parece salido de una película. Comienza tu visita en la **Catedral de San Cristóbal Mártir**, una joya barroca que vigila la ciudad desde su plaza principal. Recorre los andadores llenos de tienditas y cafeterías, y no te pierdas el Templo de Santo Domingo, cuya fachada rosa y dorada te dejará boquiabierto. ¿Y si tienes hambre? “Sancris” ofrece los tamales chiapanecos, el cochito horneado o un tascalate refrescante; y si buscas algo más aventurero, no te resistas a un *pox* (se pronuncia “pos”), la tradicional bebida maya que calienta cuerpo y alma.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ZOCALO_DE_SAN_CRISTOBAL_DE_LAS_CASAS_CHIAPAS.jpg/1024px-ZOCALO_DE_SAN_CRISTOBAL_DE_LAS_CASAS_CHIAPAS.jpg)
 
-Bacalar
+## Bacalar
+
+Ubicado en el sur de **Quintana Roo**, **Bacalar** es un **Pueblo Mágico** que enamora con su **Laguna de los Siete Colores**, una joya natural donde el agua despliega un abanico de tonos azulados y turquesas. Aquí puedes explorar el Cenote Azul, un espejo de agua dulce rodeado de selva, perfecto para nadar y bucear. Otro imperdible es el Canal de los Piratas, un pasaje histórico donde antiguamente transitaban corsarios y que hoy es un sitio ideal para un relajante baño de arcilla. Las vistas desde el Fuerte de San Felipe, una fortaleza del siglo XVIII, te transportarán a los días de defensas y batallas mientras disfrutas de su pequeño museo y su arquitectura colonial.
+
+Además de la **laguna**, **Bacalar** invita a descubrir su tranquila atmósfera y su rica historia. Pasea por el centro del pueblo y disfruta de su mercado de artesanías o degusta platillos tradicionales en alguna de sus pintorescas palapas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bacalar_Collage.jpg/682px-Bacalar_Collage.jpg)
