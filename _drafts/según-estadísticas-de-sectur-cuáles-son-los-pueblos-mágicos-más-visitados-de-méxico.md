@@ -51,7 +51,13 @@ Es uno de los principales destinos turísticos de la zona llamada **Riviera Naya
 
 **TE RECOMENDAMOS:** [**Sayulita y otras hermosas playas de la Riviera Nayarit.**](https://blog.tonoysumariachi.com/turismo/2022/12/05/sayulita-y-otras-hermosas-playas-de-la-riviera-nayarit.html)
 
-San Miguel de Allende
+## San Miguel de Allende
+
+Durante muchos años, esta bella ciudad colonial del estado de **Guanajuato** ha sido nombrada el Mejor lugar para vivir en México, y no es para menos. En su centro histórico se encuentra la famosa **Parroquia de San Miguel Arcángel**, patrono de la ciudad, un templo de corte neogótico que sin duda es la iglesia más fotografiada —e "instagrameable"— de México. Tiene cafés, hoteles y restaurantes de todo tipo, además de buena oferta cultural, con museos y galerías de arte, que lo convierten en un destino preferido de nacionales y extranjeros, que cariñosamente apodan a la ciudad como "St. Mike".
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Arquitectura_de_San_Miguel_de_Allende_%28Guanajuato%29.jpg/908px-Arquitectura_de_San_Miguel_de_Allende_%28Guanajuato%29.jpg)
+
+**TE RECOMENDAMOS:** [**San Miguel de Allende: qué hacer en sus atractivos turísticos.**](https://blog.tonoysumariachi.com/turismo/2022/08/16/san-miguel-de-allende-que-hacer-en-sus-atractivos-turisiticos.html)
 
 San Cristóbal de las Casas
 
