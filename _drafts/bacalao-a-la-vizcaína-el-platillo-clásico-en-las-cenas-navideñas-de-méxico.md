@@ -33,6 +33,8 @@ Aquí te hablamos un poco de este delicioso platillo, su **origen**, la **histor
 
 **TE RECOMENDAMOS:** [**¿Los amas o los odias? Romeritos, un revoltijo de tradición y sabor.**](https://blog.tonoysumariachi.com/gastronomia/2023/12/21/los-amas-o-los-odias-romeritos-un-revoltijo-de-tradici%C3%B3n-y-sabor.html)
 
+## Historia
+
 El **bacalao** es un pescado que se vive en mares fríos de agua salada, principalmente habita la parte norte de la Península Ibérica y en países escandinavos como **Noruega**, Suecia y Dinamarca. Quienes lo trajeron a **México** fueron los españoles, pero como era muy difícil transportado en su estado fresco, se conservaba con sal para evitar que se deteriorara; este método de conservación basado en deshidratación y salado es conocido como *salazón*. De acuerdo con la Profeco, este método no solo sirve para inhibir bacterias, sino que también permite que los nutrientes se concentren y le brinda más sabor.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bacalao-Salaz%C3%B3n.jpg/1024px-Bacalao-Salaz%C3%B3n.jpg)
@@ -41,6 +43,42 @@ El **bacalao** es un pescado que se vive en mares fríos de agua salada, princip
 
 De acuerdo a la Secretaría de Agricultura de México, el **bacalao** llegó a suelo **mexicano** durante el **Virreinato** y la receta fue tropicalizada: se le añadió una gran cantidad de jitomates, chiles güeros, perejil, alcaparras, aceitunas, ajo y papas.
 
-&nbsp;
+## Receta del bacalao a la vizcaína
 
-&nbsp;
+#### Ingredientes
+
+* Aceite de oliva extra virgen (1 lt por kilo)
+* 2 kg de bacalao noruego
+* 2 kg de jitomate bola
+* 2 kilos de papas cambray hervidas y partidas en cuartos
+* 1 kg de cebolla finamente picada (aprox 4 cebollas grandes)
+* 450 gr de aceitunas en salmuera
+* 400 gr de pasas blancas
+* 350 gr de piñones
+* 350 gr de almendras fileteadas
+* 250 ml de vino blanco
+* 100 gr de alcaparras
+* 2 latas de chiles güeros (400 gr)
+* 2 cabezas grandes de ajo
+* Un manojo de perejil finamente picado
+
+#### **Preparación**
+
+* 1\. Desala el bacalao remojándolo dos días enteros con agua, cambia el agua y enjuaga el pescado cada día.
+* 2\. Una vez enjuagado, remoja un día y medio en leche entera y enjuaga de nuevo.
+* 3\. Comienza a desmenuzárlo, verás que es más fácil sacar las espinas, reserva.
+* 4\. Pon a hervir los jitomates, cuando la piel se abra, retira del fuego, pon a enfriar y pélalos para poder picarlos, reserva.
+* 5\. Pica la cebolla finamente y reserva.
+* 6\. Pela las dos cabezas de ajo, pícalas finamente y reserva.
+* 7\. Hierve las papas cambray, pélalas y pica en cuartos.
+* 8\. Quita la salmuera de los chiles güeros, las aceitunas y las alcaparras, reserva.
+* 9\. Pica finamente el perejil y reserva.
+* 10\. Pon en una olla grande los dos litros de aceite extra virgen y deja calentar, haz la prueba con un cubito de cebolla y ya que esté listo agrega toda la cebolla y mueve hasta que esté acitronada.
+* 11\. Agrega el ajo y carameliza (cuando tenga un color ligeramente dorado)
+* 12\. Añade el bacalao a la olla y mueve constantemente.
+* 13\. Cuando el bacalao haya absorbido una parte del aceite de olivo agrega las almendras, los piñones y las pasas, deja sazonar e incorpora.
+* 14\. Agrega el jitomate y dos cucharadas soperas de consomé de pollo en polvo, vierte el vino y deja cocer.
+* 15\. Cuando el jitomate esté cocido, añade las papas, las aceitunas, las alcaparras y los chiles güeros, deja que suelten sus jugos y se cuesan.
+* 16\. Al final agrega el perejil y deja dar el último hervor, puedes añadirle sal si así lo consideras.
+
+Ahora que conoces el **origen del bacalao a la vizcaína,** no dudes en preparar esta deliciosa receta, te aseguro que le va a encantar a toda tu familia.
