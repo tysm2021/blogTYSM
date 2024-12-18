@@ -53,15 +53,15 @@ Es uno de los principales destinos turísticos de la zona llamada **Riviera Naya
 
 ## San Miguel de Allende
 
-Durante muchos años, esta bella ciudad colonial del estado de **Guanajuato** ha sido nombrada el Mejor lugar para vivir en México, y no es para menos. En su centro histórico se encuentra la famosa **Parroquia de San Miguel Arcángel**, patrono de la ciudad, un templo de corte neogótico que sin duda es la iglesia más fotografiada —e "instagrameable"— de México. Tiene cafés, hoteles y restaurantes de todo tipo, además de buena oferta cultural, con museos y galerías de arte, que lo convierten en un destino preferido de nacionales y extranjeros, que cariñosamente apodan a la ciudad como "St. Mike".
+Durante muchos años, esta bella ciudad colonial del estado de **Guanajuato** ha sido nombrada el Mejor lugar para vivir en México, y no es para menos. En su centro histórico se encuentra la famosa **Parroquia de San Miguel Arcángel**, patrono de la ciudad, un templo de corte neogótico que sin duda es la iglesia más fotografiada —e “instagrameable”— de México. Tiene cafés, hoteles y restaurantes de todo tipo, además de buena oferta cultural, con museos y galerías de arte, que lo convierten en un destino preferido de nacionales y extranjeros, que cariñosamente apodan a la ciudad como “St. Mike”.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Arquitectura_de_San_Miguel_de_Allende_%28Guanajuato%29.jpg/908px-Arquitectura_de_San_Miguel_de_Allende_%28Guanajuato%29.jpg)
 
 **TE RECOMENDAMOS:** [**San Miguel de Allende: qué hacer en sus atractivos turísticos.**](https://blog.tonoysumariachi.com/turismo/2022/08/16/san-miguel-de-allende-que-hacer-en-sus-atractivos-turisiticos.html)
 
-San Cristóbal de las Casas
+## San Cristóbal de las Casas
 
-Chiapas
+El **Pueblo Mágico** por excelencia del estado de **Chiapas**. Sus calles empedradas y sus casas coloniales de tejados rojos te invitan a perderte en un escenario que parece salido de una película. Comienza tu visita en la **Catedral de San Cristóbal Mártir**, una joya barroca que vigila la ciudad desde su plaza principal. Recorre los andadores llenos de tienditas y cafeterías, y no te pierdas el Templo de Santo Domingo, cuya fachada rosa y dorada te dejará boquiabierto. ¿Y si tienes hambre? "Sancris" ofrece los tamales chiapanecos, el cochito horneado o un tascalate refrescante; y si buscas algo más aventurero, no te resistas a un *pox* (se pronuncia "pos"), la tradicional bebida maya que calienta cuerpo y alma.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ZOCALO_DE_SAN_CRISTOBAL_DE_LAS_CASAS_CHIAPAS.jpg/1024px-ZOCALO_DE_SAN_CRISTOBAL_DE_LAS_CASAS_CHIAPAS.jpg)
 
