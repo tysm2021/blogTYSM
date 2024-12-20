@@ -33,4 +33,6 @@ Todo tiene que ver con la ciencia. Aquí te lo explicamos por qué esa torta de 
 
 **TE RECOMENDAMOS:** [**Bacalao a la vizcaína: el platillo clásico en las cenas navideñas de México.**](https://blog.tonoysumariachi.com/gastronomia/2024/12/18/bacalao-a-la-vizca%C3%ADna-el-platillo-cl%C3%A1sico-en-las-cenas-navide%C3%B1as-de-m%C3%A9xico.html)
 
+&nbsp;A todos nos ha pasado: ya sea que tú cocines o que alguien más lo haga, luego de horas de preparación, sazón, cocción y decoración de un platillo, finalmente lo pruebas y te parece magnífico; pero al terminar, guardas lo que sobró en el refrigerador para disfrutarlo al día siguiente y al recalentarlo te das cuenta de que sabe aún mejor de lo que sabía cuando recién lo serviste. ¿A qué se debe esto?
+
 &nbsp;
