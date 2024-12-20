@@ -43,7 +43,7 @@ Las reacciones químicas que normalmente hacen que los alimentos se echen a perd
 
 Por otro lado, el proceso de **recalentado** —es decir, cuando se somete la comida al fuego por segunda o tercera vez— libera algunas de las **moléculas de sabor** que estaban atrapadas en las grasas, el almidón de alimentos como las papas o en algunas verduras. Al **volver a calentar** los alimentos y llevarlos al punto de ebullición, esas partículas de sabor volátiles se liberan y realzan el sabor de esa manera.
 
-&nbsp;
+&nbsp;![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Picadillo_de_res_con_papa_y_zanahoria.jpg/576px-Picadillo_de_res_con_papa_y_zanahoria.jpg)
 
 * Cambios en los alimentos
 
