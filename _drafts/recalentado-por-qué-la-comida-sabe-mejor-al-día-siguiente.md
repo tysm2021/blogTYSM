@@ -45,22 +45,14 @@ Por otro lado, el proceso de **recalentado** —es decir, cuando se somete la co
 
 &nbsp;![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Picadillo_de_res_con_papa_y_zanahoria.jpg/576px-Picadillo_de_res_con_papa_y_zanahoria.jpg)
 
-* Cambios en los alimentos
+A medida que los alimentos comienzan a metabolizarse o sufrir reacciones químicas, se generan diferentes compuestos y tienen lugar diferentes tipos de reacciones, lo cual permite que **se creen o liberen nuevos sabores**, e incluso se creen cambios de textura, por lo que la estructura de la comida cambia físicamente.
 
-A medida que los alimentos comienzan a metabolizarse o cambiar, se generan diferentes compuestos y tienen lugar diferentes tipos de reacciones, señaló Simons, quien sostiene que esto permite que se creen o liberen nuevos sabores, e incluso se creen cambios de textura, “por lo que literalmente cambia físicamente la estructura de la comida”.
-
-La percepción también puede influir en la razón por la que algunas sobras de comida saben mejor, mencionaron los expertos, ya que el recuerdo de una comida deliciosa puede influir en el sabor de los alimentos al ser recalentados.
-
-Esto se debe, según Crosby, a que el sabor se crea en la boca, pero el sabor se percibe en el cerebro, de ahí que “sea probable que anheles los alimentos reconfortantes que comiste cuando creciste”, dijo.
+También tiene que ver un factor psicológico, ya que la percepción también puede influir en el mejor sabor de algunas sobras de comida: el recuerdo de una comida suculenta permea en el sabor de los alimentos que nuestra mente percibe al ser **recalentados**. Esto se debe a que el sabor se crea en la boca, pero el sabor se percibe en el cerebro, de ahí que uno anheles o sienta nostalgia por los alimentos reconfortantes que uno comía en la infancia, como los frijolitos de la olla o el picadillo caldoso de la abuelita.
 
 ### ¿Qué alimentos saben mejor recalentados?
 
-Las verduras crucíferas como la col rizada, el brócoli, la coliflor y la col verde o morada, y las verduras de allium, incluidas las cebollas, los puerros y el ajo, son buenos para disfrutar recalentados, ya que, según Crosby, cuando están crudos o recién cocidos pueden ser amargos y ásperos, pero al oxidarse se suavizan en textura y sabor.
+Las verduras como **la col, el brócoli, la coliflor** y la col verde o morada, así como las **cebollas**, los **puerros** y el **ajo**, que se disfrutan mejor al ser **recalentados**: estando crudos o recién cocidos resultan amargos y ásperos, pero al oxidarse se suavizan y mejoran en textura y sabor. También las verduras que contienen grandes cantidades de almidón, como las papas, al recalentarse suelen ser más dulces, pues dicho almidón descompone lentamente los azúcares en el alimento.
 
-Las verduras como las papas que contienen grandes cantidades de almidón al recalentarse suelen ser un poco más dulces con el tiempo, y a que el almidón descompone lentamente los azúcares, o glucosa, en estos alimentos.
-
-Los alimentos ricos en proteínas también pueden tener mejor sabor con el tiempo, coinciden los expertos, ya que al descomponerse, las proteínas liberan aminoácidos, como el glutamato, que mejoran los sabores salados o umami (deliciosos).
-
-Los alimentos con capsaicina como los pimientos o chiles, pueden hacerse menos picantes al recalentarse, lo que mejora su sabor.
+Lo mismo sucede con los alimentos ricos en proteínas, como las carnes y algunas leguminosas: al descomponerse, las proteínas liberan aminoácidos como el glutamato, que **mejoran los sabores** salados; por ultimo, los alimentos picantes —es decir, que tienen capsaicinas— como los pimientos o chiles, se tornan un poco menos picantes al **recalentarse** y su sabor se integra con el del resto de los ingredientes. Y ahora sí, ¿estás listo para disfrutar del **recalentado**?
 
 &nbsp;
