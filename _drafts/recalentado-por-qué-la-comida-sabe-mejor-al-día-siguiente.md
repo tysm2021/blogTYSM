@@ -37,4 +37,30 @@ Todo tiene que ver con la ciencia. Aquí te lo explicamos por qué esa torta de 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Family_eating_meal.jpg/1024px-Family_eating_meal.jpg)
 
+&nbsp;Según los expertos, una de las razones por las que algunos alimentos saben mejor si se recalientan es porque el tiempo les da a los sabores de los platos la oportunidad de fusionarse, lo que podría **mejorar el sabor** en lugar de degradarlo demasiado rápido. Así, la comida tiene una segunda oportunidad para que los sabores se unan un poco más y continúen evolucionando, lo que puede hacerlos **más sabrosos**.
+
+Las reacciones químicas que normalmente hacen que los alimentos se echen a perder, bajo ciertas condiciones también **mejoran la textura y el sabor.** Un ejemplo es la oxidación: dependiendo del alimento y de cómo se almace, dicha oxidación es capaz de lograr  que algunos alimentos sepan mejor, tal como ocurre con las cebollas, las papas y el brócoli.
+
+Por otro lado, el proceso de **recalentado** —es decir, cuando se somete la comida al fuego por segunda o tercera vez— libera algunas de las **moléculas de sabor** que estaban atrapadas en las grasas, el almidón de alimentos como las papas o en algunas verduras. Al **volver a calentar** los alimentos y llevarlos al punto de ebullición, esas partículas de sabor volátiles se liberan y realzan el sabor de esa manera.
+
+&nbsp;
+
+* Cambios en los alimentos
+
+A medida que los alimentos comienzan a metabolizarse o cambiar, se generan diferentes compuestos y tienen lugar diferentes tipos de reacciones, señaló Simons, quien sostiene que esto permite que se creen o liberen nuevos sabores, e incluso se creen cambios de textura, “por lo que literalmente cambia físicamente la estructura de la comida”.
+
+La percepción también puede influir en la razón por la que algunas sobras de comida saben mejor, mencionaron los expertos, ya que el recuerdo de una comida deliciosa puede influir en el sabor de los alimentos al ser recalentados.
+
+Esto se debe, según Crosby, a que el sabor se crea en la boca, pero el sabor se percibe en el cerebro, de ahí que “sea probable que anheles los alimentos reconfortantes que comiste cuando creciste”, dijo.
+
+### ¿Qué alimentos saben mejor recalentados?
+
+Las verduras crucíferas como la col rizada, el brócoli, la coliflor y la col verde o morada, y las verduras de allium, incluidas las cebollas, los puerros y el ajo, son buenos para disfrutar recalentados, ya que, según Crosby, cuando están crudos o recién cocidos pueden ser amargos y ásperos, pero al oxidarse se suavizan en textura y sabor.
+
+Las verduras como las papas que contienen grandes cantidades de almidón al recalentarse suelen ser un poco más dulces con el tiempo, y a que el almidón descompone lentamente los azúcares, o glucosa, en estos alimentos.
+
+Los alimentos ricos en proteínas también pueden tener mejor sabor con el tiempo, coinciden los expertos, ya que al descomponerse, las proteínas liberan aminoácidos, como el glutamato, que mejoran los sabores salados o umami (deliciosos).
+
+Los alimentos con capsaicina como los pimientos o chiles, pueden hacerse menos picantes al recalentarse, lo que mejora su sabor.
+
 &nbsp;
