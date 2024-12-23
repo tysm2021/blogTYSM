@@ -58,8 +58,10 @@ Si sueñas con viajar más el próximo año, toma una **maleta** y da una vuelta
 
 ### 5\. **Para la suerte: barrer hacia afuera de la casa**
 
-Para atraer la buena suerte y eliminar las malas energías, barre hacia afuera de tu casa antes de que termine el 31 de diciembre. Este acto simbólico ayuda a “limpiar” el espacio de todo lo negativo y dejarlo listo para recibir las bendiciones del nuevo año.
+Para atraer la **buena suerte** y eliminar las malas energías, **barre** hacia afuera de tu casa antes de que termine el **31 de diciembre**. Este acto simbólico ayuda a “limpiar” el espacio de todo lo negativo y dejarlo listo para recibir las bendiciones del nuevo año.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hue_Vietnam_Broom-in-C%C3%A0n-Th%C3%A0nh-Palace-01.jpg/682px-Hue_Vietnam_Broom-in-C%C3%A0n-Th%C3%A0nh-Palace-01.jpg)
 
 ### Conclusión
 
-El Año Nuevo en México no solo es un momento para reflexionar y celebrar, sino también para llenar de simbolismo y energía positiva el inicio de un nuevo ciclo. Ya sea que busques amor, dinero, salud, viajes o suerte, estos rituales te ofrecen una forma divertida y significativa de recibir el 2024 con optimismo. ¡Anímate a probar alguno!
+El **Año Nuevo** en **México** no solo es un momento para reflexionar y celebrar, sino también para llenar de simbolismo y energía positiva el inicio de un nuevo ciclo. Ya sea que busques **amor, dinero, salud, viajes o suerte**, estos **rituales** te ofrecen una forma divertida y significativa de recibir el **2025** con optimismo. ¡Anímate a probar alguno!
