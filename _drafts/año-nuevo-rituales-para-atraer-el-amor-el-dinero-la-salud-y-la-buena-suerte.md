@@ -19,7 +19,7 @@ article_header:
     src: /uploads/myriam-zilles-l3fwt4qmet0-unsplash.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/myriam-zilles-l3fwt4qmet0-unsplash.jpg
 show_author_profile: false
 comment: false
 summary: >-
@@ -30,7 +30,7 @@ Cuando se acerca el **Año Nuevo**, los **mexicanos** se preparan para despedir 
 
 Así pues, aquí te presentamos los **cinco rituales más populares en México** para realizar en la **Nochevieja** y atraer todo lo bueno para el **Año Nuevo**. ¡Sigue leyendo para descubrir cómo puedes empezar el ciclo entrante con el pie derecho!
 
-**TE RECOMENDAMOS:**  [**Recalentado: por qué la comida sabe mejor al día siguiente.**](https://blog.tonoysumariachi.com/gastronomia/2024/12/20/recalentado-por-qu%C3%A9-la-comida-sabe-mejor-al-d%C3%ADa-siguiente.html)
+**TE RECOMENDAMOS:** [**Recalentado: por qué la comida sabe mejor al día siguiente.**](https://blog.tonoysumariachi.com/gastronomia/2024/12/20/recalentado-por-qu%C3%A9-la-comida-sabe-mejor-al-d%C3%ADa-siguiente.html)
 
 ### 1\. **Para el amor: usar ropa interior roja**
 
@@ -40,7 +40,9 @@ Uno de los rituales más conocidos y queridos en **México** es estrenar **ropa 
 
 ### 2\. **Para el dinero: llenar la cartera con billetes**
 
-Si tu propósito es mejorar tu economía, llena tu cartera con billetes justo antes de la medianoche. Este ritual simboliza la abundancia y la atracción de nuevas oportunidades financieras. Algunos también colocan monedas cerca de la puerta de entrada para asegurar que la prosperidad entre a su hogar.
+Si tu propósito es mejorar tu economía, **llena tu cartera con billetes** justo antes de la medianoche del 31 de diciembre. Este ritual simboliza la abundancia y la atracción de nuevas oportunidades financieras. Algunos también colocan monedas cerca de la puerta de entrada para asegurar que la prosperidad entre a su hogar y, de remate, usan **ropa interior amarilla** —el color del oro— para que nunca te falten las monedas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/18/Australian_banknotes_in_wallet.jpg)
 
 ### 3\. **Para la salud: comer 12 uvas al ritmo de las campanadas**
 
