@@ -46,11 +46,15 @@ Si tu propósito es mejorar tu economía, **llena tu cartera con billetes** just
 
 ### 3\. **Para la salud: comer 12 uvas al ritmo de las campanadas**
 
-Comer 12 uvas, una por cada campanada al dar la medianoche, es un ritual que simboliza buenos deseos para cada mes del año. Para quienes desean buena salud, cada uva debe ser acompañada por un pensamiento positivo relacionado con bienestar físico y mental.
+Comer **doce uvas**, una por cada **campanada** al dar la medianoche, es un ritual que simboliza buenos deseos para cada mes del año. Para quienes desean buena salud, cada uva debe ser acompañada por un pensamiento positivo relacionado con bienestar físico y mental.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/12_lucky_grapes_%28cropped_to_show_underwear%29.jpg/768px-12_lucky_grapes_%28cropped_to_show_underwear%29.jpg)
 
 ### 4\. **Para los viajes: dar la vuelta a la cuadra con una maleta**
 
-Si sueñas con viajar más el próximo año, toma una maleta y dá una vuelta por la cuadra justo después de la medianoche. Este ritual asegura nuevas aventuras y experiencias lejos de casa. Algunos también colocan dentro de la maleta un objeto relacionado con el destino que desean visitar.
+Si sueñas con viajar más el próximo año, toma una **maleta** y da una vuelta por la cuadra justo después de la medianoche del 31 de diciembre. Este **ritual** asegura nuevas aventuras y experiencias lejos de casa. Algunos también colocan dentro de la maleta un objeto relacionado con el destino que desean visitar.
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Holding_Luggage_%286151583618%29.jpg)
 
 ### 5\. **Para la suerte: barrer hacia afuera de la casa**
 
