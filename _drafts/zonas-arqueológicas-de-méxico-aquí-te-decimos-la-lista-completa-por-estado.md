@@ -29,7 +29,7 @@ summary: >-
   siglo XVI están al cuidado del Instituto Nacional de Antropología e Historia
   (INAH): aquí la lista completa.
 ---
-En el territorio que hoy denominamos **México**, antes de la Conquista española vivió y se desarrolló una serie de **pueblos y civilizaciones prehispánicas** que, además de obras de arte y otras manifestaciones culturales, dejaron tras de sí sus **templos** y antiguas **ciudades**, los cuales al ser redescubiertos en los siglos XIX y XX reciben el nombre de **zonas arqueológicas**, las cuales por decreto oficial están al cuidado del **Instituto Nacional de Antropología e Historia** (**INAH**). Actualmente, este instituto tiene bajo su resguardo un total de **193 zonas arqueológicas** y una paleontológica, abiertas al público en todo el país, los 365 días del año.
+## En el territorio que hoy denominamos **México**, antes de la Conquista española vivió y se desarrolló una serie de **pueblos y civilizaciones prehispánicas** que, además de obras de arte y otras manifestaciones culturales, dejaron tras de sí sus **templos** y antiguas **ciudades**, los cuales al ser redescubiertos en los siglos XIX y XX reciben el nombre de **zonas arqueológicas**, las cuales por decreto oficial están al cuidado del **Instituto Nacional de Antropología e Historia** (**INAH**). Actualmente, este instituto tiene bajo su resguardo un total de **193 zonas arqueológicas** y una paleontológica, abiertas al público en todo el país, los 365 días del año.
 
 Para que sepas cuáles son, acá te dejamos la **lista completa** de **zonas arqueológicas en México**, **por estado**. No sé tú, pero en TYSM nos encantaría conocerlas todas…
 
@@ -85,33 +85,53 @@ Xpuhil
 
 ## Chiapas
 
+&nbsp;Bonampak
+
+Chiapa de Corzo
+
+Chinkultic
+
+Iglesia Vieja
+
+Izapa
+
+Lagartero
+
+Palenque
+
+Tenam Puente
+
+Toniná
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Tonin%C3%A1_Pyramid_1.jpg/1024px-Tonin%C3%A1_Pyramid_1.jpg)
+
+Yaxchilán
+
+## Chihuahua
+
 &nbsp;
 
-Chihuahua
+## Ciudad de México
 
 &nbsp;
 
-Ciudad de México
+## Coahuila
 
 &nbsp;
 
-Coahuila
+## Colima
 
 &nbsp;
 
-Colima
+## Durango
 
 &nbsp;
 
-Durango
+## Estado de México
 
 &nbsp;
 
-Estado de México
-
-&nbsp;
-
-Guanajuato
+## Guanajuato
 
 &nbsp;
 
