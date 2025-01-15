@@ -193,70 +193,126 @@ Tocuila
 
 ## Guanajuato
 
-&nbsp;
+&nbsp;Arroyo Seco
+
+Cañada de la Virgen
+
+El Cóporo
+
+Peralta
+
+Plazuelas
 
 **TE RECOMENDAMOS:** [**Teotihuacan: cinco cosas que no sabías de la “ciudad de los dioses”.**](https://blog.tonoysumariachi.com/historia/2023/12/26/teotihuacan-cinco-cosas-que-no-sab%C3%ADas-de-la-ciudad-de-los-dioses.html)
 
-Guerrero
+## Guerrero
+
+Cuetlajuchitlán (Los Querende)
+
+Huamuxtitlán
+
+Ixcateopan
+
+La Organera Xochipala
+
+La Sabana
+
+Los Tepoltzis
+
+Palma Sola
+
+Soledad de Maciel
+
+Tehuacalco
+
+Teopantecuanitlán&nbsp;
+
+## Hidalgo
+
+Huapalcalco
+
+Pañhu
+
+Tepeapulco
+
+Tula&nbsp;
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Telamones_Tula.jpg/1024px-Telamones_Tula.jpg)
+
+## Jalisco
 
 &nbsp;
 
-Hidalgo
+## Michoacán
 
 &nbsp;
 
-Jalisco
+## Morelos
 
 &nbsp;
 
-Michoacán
+## Nayarit
 
 &nbsp;
 
-Morelos
+## Nuevo León
 
 &nbsp;
 
-Nayarit
+## Oaxaca
 
 &nbsp;
 
-Nuevo León
+## Puebla
 
 &nbsp;
 
-Oaxaca
-
-&nbsp;
-
-Puebla
-
-&nbsp;
-
-Querétaro
+## Querétaro
 
 &nbsp;
 
 **TE RECOMENDAMOS:** [**El Rey Pakal, ¿un astronauta en Palenque?**](https://blog.tonoysumariachi.com/historia/2023/09/21/el-rey-pakal-un-astronauta-en-palenque.html)
 
-Quintana Roo
+## Quintana Roo
 
 &nbsp;
 
-San Luis Potosí
+## San Luis Potosí
 
-Sinaloa
+&nbsp;
 
-Sonora
+## Sinaloa
 
-Tabasco
+&nbsp;
 
-Tamaulipas
+## Sonora
 
-Tlaxcala
+&nbsp;
 
-Veracruz
+## Tabasco
 
-Yucatán
+&nbsp;
 
-Zacatecas
+## Tamaulipas
+
+&nbsp;
+
+## Tlaxcala
+
+&nbsp;
+
+## Veracruz
+
+&nbsp;
+
+## Yucatán
+
+&nbsp;
+
+## Zacatecas
+
+Alta Vista Chalchihuites
+
+Cerro de las Ventanas
+
+La Quemada
