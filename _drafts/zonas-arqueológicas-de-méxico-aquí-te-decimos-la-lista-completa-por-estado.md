@@ -59,6 +59,8 @@ Estado de México
 
 Guanajuato
 
+TE RECOMENDAMOS:
+
 Guerrero
 
 Hidalgo
@@ -79,6 +81,24 @@ Puebla
 
 Querétaro
 
+TE RECOMENDAMOS:
+
 Quintana Roo
 
-&nbsp;
+San Luis Potosí
+
+Sinaloa
+
+Sonora
+
+Tabasco
+
+Tamaulipas
+
+Tlaxcala
+
+Veracruz
+
+Yucatán
+
+Zacatecas
