@@ -29,11 +29,11 @@ summary: >-
   siglo XVI están al cuidado del Instituto Nacional de Antropología e Historia
   (INAH): aquí la lista completa.
 ---
-## En el territorio que hoy denominamos **México**, antes de la Conquista española vivió y se desarrolló una serie de **pueblos y civilizaciones prehispánicas** que, además de obras de arte y otras manifestaciones culturales, dejaron tras de sí sus **templos** y antiguas **ciudades**, los cuales al ser redescubiertos en los siglos XIX y XX reciben el nombre de **zonas arqueológicas**, las cuales por decreto oficial están al cuidado del **Instituto Nacional de Antropología e Historia** (**INAH**). Actualmente, este instituto tiene bajo su resguardo un total de **193 zonas arqueológicas** y una paleontológica, abiertas al público en todo el país, los 365 días del año.
+En el territorio que hoy denominamos **México**, antes de la Conquista española vivió y se desarrolló una serie de **pueblos y civilizaciones prehispánicas** que, además de obras de arte y otras manifestaciones culturales, dejaron tras de sí sus **templos** y antiguas **ciudades**, los cuales al ser redescubiertos en los siglos XIX y XX reciben el nombre de **zonas arqueológicas**, las cuales por decreto oficial están al cuidado del **Instituto Nacional de Antropología e Historia** (**INAH**). Actualmente, este instituto tiene bajo su resguardo un total de **193 zonas arqueológicas** y una paleontológica, abiertas al público en todo el país, los 365 días del año.
 
 Para que sepas cuáles son, acá te dejamos la **lista completa** de **zonas arqueológicas en México**, **por estado**. No sé tú, pero en TYSM nos encantaría conocerlas todas…
 
-**TE RECOMENDAMOS: Las cinco mejores zonas arqueológicas mayas.**
+**TE RECOMENDAMOS:** [**Las cinco mejores zonas arqueológicas mayas.**](https://blog.tonoysumariachi.com/turismo/2022/06/27/las-cinco-mejores-zonas-arqueologicas-mayas.html)
 
 ## Aguascalientes
 
@@ -61,7 +61,7 @@ Chunhuhub
 
 Dzibilnocac
 
-Edzná
+**Edzná**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/15-07-14-Edzna-Campeche-Mexico-RalfR-WMA_0700-edit.jpg/1024px-15-07-14-Edzna-Campeche-Mexico-RalfR-WMA_0700-edit.jpg)
 
@@ -101,7 +101,7 @@ Palenque
 
 Tenam Puente
 
-Toniná
+**Toniná**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Tonin%C3%A1_Pyramid_1.jpg/1024px-Tonin%C3%A1_Pyramid_1.jpg)
 
@@ -117,7 +117,7 @@ Cueva de la Olla
 
 Huapoca
 
-Paquimé
+**Paquimé**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zona_arqueol%C3%B3gica_de_Paquim%C3%A9_2020-1.jpg/1024px-Zona_arqueol%C3%B3gica_de_Paquim%C3%A9_2020-1.jpg)
 
@@ -129,7 +129,7 @@ Cuicuilco
 
 Mixcoac
 
-Templo Mayor&nbsp;
+**Templo Mayor**&nbsp;
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eastern_area_and_Museo_del_Templo_Mayor_-_Templo_Mayor_Archeological_Zone_-_Mexico_2024_%282%29.jpg/1024px-Eastern_area_and_Museo_del_Templo_Mayor_-_Templo_Mayor_Archeological_Zone_-_Mexico_2024_%282%29.jpg)
 
@@ -167,7 +167,7 @@ Los Melones
 
 Los Reyes La Paz
 
-Malinalco
+**Malinalco**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/120804_Pano_Malinalco_2.51_045%25_002.jpg/1024px-120804_Pano_Malinalco_2.51_045%25_002.jpg)
 
@@ -235,7 +235,7 @@ Pañhu
 
 Tepeapulco
 
-Tula&nbsp;
+**Tula**&nbsp;
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Telamones_Tula.jpg/1024px-Telamones_Tula.jpg)
 
@@ -275,7 +275,7 @@ Teopanzolco
 
 Tepozteco
 
-Xochicalco
+**Xochicalco**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Xochicalco_Serpiente_Emplumada_GR.jpg/1024px-Xochicalco_Serpiente_Emplumada_GR.jpg)
 
@@ -305,7 +305,7 @@ Huamelulpan
 
 Lambityeco
 
-Mitla
+**Mitla**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ancient_Mitla_by_ovedc_019.jpg/1024px-Ancient_Mitla_by_ovedc_019.jpg)
 
@@ -317,7 +317,23 @@ Zaachila
 
 ## Puebla
 
-&nbsp;
+&nbsp;**Cantona**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_45.JPG/1024px-Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_45.JPG)
+
+Cholula
+
+Los Cerritos de San Cristóbal Tepatlaxco
+
+Tehuacán el Viejo
+
+Tepexi el Viejo
+
+Teteles de Santo Nombre
+
+Tepapayeca
+
+Yohualichan
 
 ## Querétaro
 
