@@ -109,7 +109,17 @@ Yaxchilán
 
 ## Chihuahua
 
-&nbsp;
+Cuarenta Casas&nbsp;
+
+Cueva Grande
+
+Cueva de la Olla
+
+Huapoca
+
+Paquimé
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zona_arqueol%C3%B3gica_de_Paquim%C3%A9_2020-1.jpg/1024px-Zona_arqueol%C3%B3gica_de_Paquim%C3%A9_2020-1.jpg)
 
 ## Ciudad de México
 
