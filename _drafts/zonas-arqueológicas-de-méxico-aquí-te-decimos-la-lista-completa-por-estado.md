@@ -249,7 +249,17 @@ Teuchitlán-Huachimontones
 
 ## Michoacán
 
-&nbsp;
+&nbsp;Huandacareo (La Nopalera)
+
+Ihuatzio
+
+San Felipe Los Alzati
+
+Tingambato
+
+Tres Cerritos
+
+Tzintzuntzan
 
 ## Morelos
 
@@ -369,7 +379,7 @@ Chichén ltzá
 
 Dzibilchaltún
 
-Ek' Balam
+Ek’ Balam
 
 Izamal
 
