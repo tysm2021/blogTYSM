@@ -407,7 +407,9 @@ Las Labradas&nbsp;
 
 Comalcalco
 
-La Venta
+**La Venta**
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/59/Villahermosa%2C_La_Venta_1986_06.jpg)
 
 Malpasito
 
@@ -425,11 +427,39 @@ Las Flores&nbsp;
 
 ## Tlaxcala
 
-&nbsp;
+**Cacaxtla-Xochitécatl**&nbsp;
+
+![](/uploads/cacaxtla1.jpeg)
+
+Ocotelulco
+
+Tecoaque
+
+Tizatlán
 
 ## Veracruz
 
-&nbsp;
+&nbsp;Castillo de Teayo
+
+Cempoala
+
+Cuajilote
+
+Cuyuxquihui
+
+**El Tajín**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Tajin_%289786031125%29.jpg/1024px-El_Tajin_%289786031125%29.jpg)
+
+Las Higueras
+
+Quiahuiztlán
+
+San Lorenzo Tenochtitlan
+
+Tres Zapotes
+
+Vega de la Peña
 
 ## Yucatán
 
