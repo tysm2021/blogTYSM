@@ -137,19 +137,59 @@ Tlatelolco
 
 ## Coahuila
 
-&nbsp;
+&nbsp;Zona Paleontológica Rincón Colorado
 
 ## Colima
 
-&nbsp;
+El Chanal
+
+La Campana&nbsp;
 
 ## Durango
 
-&nbsp;
+&nbsp;La Ferrería
 
 ## Estado de México
 
-&nbsp;
+&nbsp;Acozac Ixtapaluca
+
+Calixtlahuaca
+
+Chimalhuacán
+
+El Conde
+
+Huamango
+
+Huexotla
+
+Los Melones
+
+Los Reyes La Paz
+
+Malinalco
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/120804_Pano_Malinalco_2.51_045%25_002.jpg/1024px-120804_Pano_Malinalco_2.51_045%25_002.jpg)
+
+Ocoyoacac
+
+San Miguel Ixtapan
+
+Santa Cecilia Acatitlán
+
+Teotenango
+
+Teotihuacán
+
+Tetzcotzinco
+
+Tenayuca
+
+Tenayuca II
+
+Tlapacoya
+
+Tocuila
 
 ## Guanajuato
 
