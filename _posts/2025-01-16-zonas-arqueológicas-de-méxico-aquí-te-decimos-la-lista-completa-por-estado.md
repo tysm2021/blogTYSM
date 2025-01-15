@@ -1,6 +1,6 @@
 ---
 title: 'Zonas arqueológicas de México: aquí te decimos la lista completa por estado'
-date: 2025-01-16 12:00:00
+date: 2025-01-15 12:00:00
 categories:
   - HISTORIA
 tags:
