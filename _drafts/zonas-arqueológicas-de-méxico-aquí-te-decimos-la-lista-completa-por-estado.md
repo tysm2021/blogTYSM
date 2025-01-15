@@ -241,7 +241,11 @@ Tula&nbsp;
 
 ## Jalisco
 
-&nbsp;
+El Grillo
+
+Ixtépete
+
+Teuchitlán-Huachimontones
 
 ## Michoacán
 
@@ -253,11 +257,11 @@ Tula&nbsp;
 
 ## Nayarit
 
-&nbsp;
+&nbsp;Ixtlán del Río (Los Toriles)
 
 ## Nuevo León
 
-&nbsp;
+&nbsp;Boca de Potrerillos
 
 ## Oaxaca
 
@@ -279,15 +283,17 @@ Tula&nbsp;
 
 ## San Luis Potosí
 
-&nbsp;
+&nbsp;Tamtoc
+
+Tamohi (El Consuelo)
 
 ## Sinaloa
 
-&nbsp;
+Las Labradas&nbsp;
 
 ## Sonora
 
-&nbsp;
+&nbsp;Cerro de Trincheras
 
 ## Tabasco
 
@@ -295,7 +301,11 @@ Tula&nbsp;
 
 ## Tamaulipas
 
-&nbsp;
+Balcón de Montezuma
+
+El Sabinito
+
+Las Flores&nbsp;
 
 ## Tlaxcala
 
