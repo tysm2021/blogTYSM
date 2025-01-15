@@ -123,7 +123,17 @@ Paquimé
 
 ## Ciudad de México
 
-&nbsp;
+Cerro de la Estrella
+
+Cuicuilco
+
+Mixcoac
+
+Templo Mayor&nbsp;
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eastern_area_and_Museo_del_Templo_Mayor_-_Templo_Mayor_Archeological_Zone_-_Mexico_2024_%282%29.jpg/1024px-Eastern_area_and_Museo_del_Templo_Mayor_-_Templo_Mayor_Archeological_Zone_-_Mexico_2024_%282%29.jpg)
+
+Tlatelolco
 
 ## Coahuila
 
