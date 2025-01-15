@@ -337,7 +337,13 @@ Yohualichan
 
 ## Querétaro
 
-&nbsp;
+El Cerrito
+
+Ranas
+
+Tancama&nbsp;
+
+Toluquilla
 
 **TE RECOMENDAMOS:** [**El Rey Pakal, ¿un astronauta en Palenque?**](https://blog.tonoysumariachi.com/historia/2023/09/21/el-rey-pakal-un-astronauta-en-palenque.html)
 
@@ -399,7 +405,15 @@ Las Labradas&nbsp;
 
 ## Tabasco
 
-&nbsp;
+Comalcalco
+
+La Venta
+
+Malpasito
+
+Moral-Reforma&nbsp;
+
+Pomoná
 
 ## Tamaulipas
 
