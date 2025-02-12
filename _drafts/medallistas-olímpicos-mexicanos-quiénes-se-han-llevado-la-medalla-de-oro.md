@@ -53,9 +53,13 @@ Además de un gran **clavadista**, por su bien ganada fama **Joaquín Capilla** 
 
 Tras su éxito en Juegos Olímpicos y en los Juegos Paramericanos, participó en el cine y entrenó a jóvenes clavadistas. Sin embargo, debido a un accidente en el que perdió los tímpanos cayó en el alcoholismo, la pobreza y perdió a su familia; varias veces fue arrestado por conducir en estado de ebriedad e incluso se planteó el suicidio, pero fue rescatado por la religión. En 2009 recibió el Premio Nacional del Deporte como el **máximo medallista olímpico mexicano**. Murió al año siguiente de un infarto.
 
-&nbsp;María del Rosario Espinoza
+## &nbsp;María del Rosario Espinoza
 
-&nbsp;
+&nbsp;**(1987- )**
+
+Esta deportista mexicana nacida en Sinaloa destacó en las competencias de **taekwondo**, obteniendo una **medalla de oro** en los **Juegos Olímpicos** de Pekín 2008. Es la segunda mujer mexicana en obtener una medalla olímpica después de Soraya Jiménez, quien la obtuvo en halterofilia en los juegos de Sidney 2000. Obtuvo otras dos **medallas**: una de bronce en Londres 2012 y una de plata en Río 2016. También ganó tres medallas en el Campeonato Mundial de Taekwondo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/85/Mar%C3%ADa_Espinoza_2016.jpg)
 
 Rubén Uriza
 
