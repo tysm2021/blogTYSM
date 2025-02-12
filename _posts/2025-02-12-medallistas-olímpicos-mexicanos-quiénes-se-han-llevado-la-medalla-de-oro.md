@@ -71,4 +71,4 @@ Por último, está el marchista neoleonés **Raúl González,** que ganó dos **
 
 ![](/uploads/raulglz.jpg)
 
-Otros mexicanos que se han llevado la medalla de oro han sido: Ricardo Delgado y Antonio Roldán en boxeo&nbsp;
+Otros mexicanos que se han llevado la medalla de oro han sido: **Ricardo Delgado** y **Antonio Roldán** en boxeo, **Felipe "Tibio" Muñoz** en natación, **Daniel Bautista** y **Ernesto Canto** en marcha 20km, **Soraya Jiménez** en halterofilia, Guillermo Pérez en taekwondo y la selección varonil de futbol sub-23.
