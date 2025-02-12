@@ -49,4 +49,6 @@ Además de un gran **clavadista**, por su bien ganada fama **Joaquín Capilla** 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/01/Joaqu%C3%ADn_Capilla_1952.jpg)
 
+Tras su éxito en Juegos Olímpicos y en los Juegos Paramericanos, participó en el cine y entrenó a jóvenes clavadistas. Sin embargo, debido a un accidente en el que perdió los tímpanos cayó en el alcoholismo, la pobreza y perdió a su familia; varias veces fue arrestado por conducir en estado de ebriedad e incluso se planteó el suicidio, pero fue rescatado por la religión. En 2009 recibió el Premio Nacional del Deporte como el **máximo medallista olímpico mexicano**. Murió al año siguiente de un infarto.
+
 &nbsp;
