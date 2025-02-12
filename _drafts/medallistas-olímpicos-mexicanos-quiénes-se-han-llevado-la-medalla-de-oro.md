@@ -37,7 +37,7 @@ Hasta la fecha, sólo **cinco atletas mexicanos** se han llevado la **medalla de
 
 **(1913-1972)**
 
-Fue un militar con grado de teniente y jinete mexicano, **el primero en ganar una medalla de oro** en **Juegos Olímpicos**. Su participación durante la olimpiada de Londres 1948 conquistó **dos preseas doradas** montando al caballo "Arete" en salto ecuestre individual y por equipos, y una más de bronce en concurso completo por equipos, siendo el único mexicano en ganar **dos medallas de oro** y tres medallas en una misma edición de los Juegos.
+Fue un militar con grado de teniente y jinete mexicano, **el primero en ganar una medalla de oro** en **Juegos Olímpicos**. Su participación durante la olimpiada de Londres 1948 conquistó **dos preseas doradas** montando al caballo “Arete” en salto ecuestre individual y por equipos, y una más de bronce en concurso completo por equipos, siendo el único mexicano en ganar **dos medallas de oro** y tres medallas en una misma edición de los Juegos.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/87/Humberto_Mariles_1956.jpg)
 
