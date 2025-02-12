@@ -61,10 +61,14 @@ Esta deportista mexicana nacida en Sinaloa destacó en las competencias de **tae
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/85/Mar%C3%ADa_Espinoza_2016.jpg)
 
-Rubén Uriza
+## Rubén Uriza
 
-&nbsp;
+Se trató de un destacado jinete mexicano que ganó **dos medallas** en los Juegos Olímpicos de Londres 1948, una **medalla de oro** en salto ecuestre por equipos y plata en individual.
 
-Raúl González
+## Raúl González
+
+Por último, está el marchista neoleonés **Raúl González,** que ganó dos **medallas** en los Juegos Olímpicos de **Los Angeles 1984**: una de plata en la prueba de 20km —cuando secundó y sirvió de apoyo a otro marchista mexicano, Ernesto Canto, quien se llevó la presea dorada— y **una medalla de oro** en la de 50 km, la cual siempre dominó más. En 1987 participó en los Panamericanos y después se retiró, fue presidente de la CONADE en México y se postulo para el Senado por su estado natal.
+
+![](/uploads/raulglz.jpg)
 
 &nbsp;
