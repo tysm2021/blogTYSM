@@ -41,6 +41,12 @@ Fue un militar con grado de teniente y jinete mexicano, **el primero en ganar un
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/87/Humberto_Mariles_1956.jpg)
 
-Su brillante carrera deportiva se vio empañada por dos penosos incidentes: en 1964, tras un accidente automovilístico en las calles de la Ciudad de México le disparó a una persona causándole la muerte, por lo que estuvo prófugo en Texas pero fue aprehendido y encarcelado en 1965, aunque obtuvo un indulto presidencial en 1971. Después tuvo problemas financieros y se involucró en narcotráfico, mas también fue capturado en Francia en 1972; estando en una prisión francesa sufrió un edema pulmonar que le quitó la vida. Sus restos fueron repatriados a México.
+Su brillante carrera **deportiva** se vio empañada por dos penosos incidentes: en 1964, tras un accidente automovilístico en las calles de la Ciudad de México le disparó a una persona causándole la muerte, por lo que estuvo prófugo en Texas pero fue aprehendido y encarcelado en 1965, aunque obtuvo un indulto presidencial en 1971. Después tuvo problemas financieros y se involucró en narcotráfico, mas también fue capturado en Francia en 1972; estando en una prisión francesa sufrió un edema pulmonar que le quitó la vida. Sus restos fueron repatriados a México.
+
+## Joaquín Capilla
+
+Además de un gran **clavadista**, por su bien ganada fama **Joaquín Capilla** también incursionó como actor en el cine. Pero más bien lo recordamos como el primer atleta en ganar **medallas** en múltiples ediciones olímpicas y el más grande **medallista olímpico mexicano** de todos los tiempos, con un total de **cuatro medallas**: una de **oro** en Melbourne 1956, una de plata en Helsinki 1952 y dos de bronce, una en Londres 1948 y otras en Melbourne 1956.
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/01/Joaqu%C3%ADn_Capilla_1952.jpg)
 
 &nbsp;
