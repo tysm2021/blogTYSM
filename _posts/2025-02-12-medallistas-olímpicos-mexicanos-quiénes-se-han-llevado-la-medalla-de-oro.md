@@ -29,7 +29,7 @@ summary: >-
 ---
 La primera vez que una selección de **deportistas mexicanos** acudió a los **Juegos Olímpicos** fue en los de París 1900. Desde entonces, se han cosechado un total de 78 **medallas**: 13 de oro, 27 de plata y 38 de bronce, pero, ¿quiénes han sido los más grandes **medallistas** y los que lograron llevarse la codiciada **medalla de oro**?
 
-Hasta la fecha, sólo **cinco atletas mexicanos** se han llevado la **medalla de oro** en **Juegos Olímpicos**. Aquí te decimos **quiénes** fueron y te platicamos brevemente sus **biografías**, pues algunos pasaron momentos muy interesantes… ¡y hasta vergonzosos!
+En este artículo te presentamos a los **cinco atletas mexicanos** con más **medallas olímpicas** incluyendo la de **oro**. Aquí te decimos **quiénes** fueron y te platicamos brevemente sus **biografías**, pues algunos pasaron momentos muy interesantes… ¡y hasta vergonzosos!
 
 **TE RECOMENDAMOS:** [**Top 5: los mejores boxeadores mexicanos de todos los tiempos.**](https://blog.tonoysumariachi.com/mexicanisimos/2023/10/06/top-5-los-mejores-boxeadores-mexicanos-de-todos-los-tiempos.html)
 
@@ -71,4 +71,4 @@ Por último, está el marchista neoleonés **Raúl González,** que ganó dos **
 
 ![](/uploads/raulglz.jpg)
 
-&nbsp;
+Otros mexicanos que se han llevado la medalla de oro han sido: Ricardo Delgado y Antonio Roldán en boxeo&nbsp;
