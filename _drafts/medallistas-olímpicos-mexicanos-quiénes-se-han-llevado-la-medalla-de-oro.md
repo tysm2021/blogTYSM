@@ -45,10 +45,22 @@ Su brillante carrera **deportiva** se vio empañada por dos penosos incidentes: 
 
 ## Joaquín Capilla
 
+**(1928-2010)**
+
 Además de un gran **clavadista**, por su bien ganada fama **Joaquín Capilla** también incursionó como actor en el cine. Pero más bien lo recordamos como el primer atleta en ganar **medallas** en múltiples ediciones olímpicas y el más grande **medallista olímpico mexicano** de todos los tiempos, con un total de **cuatro medallas**: una de **oro** en Melbourne 1956, una de plata en Helsinki 1952 y dos de bronce, una en Londres 1948 y otras en Melbourne 1956.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/01/Joaqu%C3%ADn_Capilla_1952.jpg)
 
 Tras su éxito en Juegos Olímpicos y en los Juegos Paramericanos, participó en el cine y entrenó a jóvenes clavadistas. Sin embargo, debido a un accidente en el que perdió los tímpanos cayó en el alcoholismo, la pobreza y perdió a su familia; varias veces fue arrestado por conducir en estado de ebriedad e incluso se planteó el suicidio, pero fue rescatado por la religión. En 2009 recibió el Premio Nacional del Deporte como el **máximo medallista olímpico mexicano**. Murió al año siguiente de un infarto.
+
+&nbsp;María del Rosario Espinoza
+
+&nbsp;
+
+Rubén Uriza
+
+&nbsp;
+
+Raúl González
 
 &nbsp;
