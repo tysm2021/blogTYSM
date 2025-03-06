@@ -16,7 +16,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /uploads/panchovilla.jpg
+    src: /uploads/panchovilla2.jpg
 sharing: true
 author: Redacción TYSM
 cover: /uploads/panchovilla.jpg
