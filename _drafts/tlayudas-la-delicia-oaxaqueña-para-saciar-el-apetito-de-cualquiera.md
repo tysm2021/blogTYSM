@@ -19,14 +19,15 @@ article_header:
     src: /uploads/tlayuda-3023276558.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/tlayuda-3023276558.jpg
 show_author_profile: false
 comment: false
 summary: >-
-  Desde mediados del siglo XX, una serie de artistas y cantantes españoles
-  emprendieron la "reconquista" del público mexicano
+  Entre la multitud de platillos típicos que provienen del estado de Oaxaca, uno
+  que destaca es la deliciosa tlayuda. Aquí te decimos cómo prepararla a tu
+  gusto…
 ---
-Si hay algo que grita "**Oaxaca**" con todo el sabor y la tradición, es la **tlayuda**. Este manjar, muchas veces llamado la "**pizza oaxaqueña**" —aunque los oaxaqueños podrían alzar la ceja con esa comparación—, es una joya **gastronómica** que combina ingredientes sencillos pero poderosos.
+Si hay algo que grita “**Oaxaca**” con todo el sabor y la tradición, es la **tlayuda**. Este manjar, muchas veces llamado la “**pizza oaxaqueña**” —aunque los oaxaqueños podrían alzar la ceja con esa comparación—, es una joya **gastronómica** que combina ingredientes sencillos pero poderosos.
 
 Su origen se remonta a tiempos **prehispánicos**, cuando el maíz ya era el rey de la cocina mesoamericana. Pero, ¿qué hace tan especial a este platillo? Bueno, si nunca has probado una, prepárate para salivar.
 
@@ -42,4 +43,4 @@ Comer una **tlayuda** no es solo disfrutar de un platillo delicioso, sino sumerg
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TlayudaMazunte2.JPG/1024px-TlayudaMazunte2.JPG)
 
-Así que si alguna vez te encuentras en **Oaxaca**, no pierdas la oportunidad de probar una **tlayuda auténtica**. Y si no puedes viajar, intenta hacerla en casa: solo necesitas buenos ingredientes, paciencia y ganas de ensuciarte un poco las manos. Eso sí, no te olvides de acompañarla con un **mezcalito**, porque como dicen en **Oaxaca**: "Para todo mal, mezcal; para todo bien, también".
+Así que si alguna vez te encuentras en **Oaxaca**, no pierdas la oportunidad de probar una **tlayuda auténtica**. Y si no puedes viajar, intenta hacerla en casa: solo necesitas buenos ingredientes, paciencia y ganas de ensuciarte un poco las manos. Eso sí, no te olvides de acompañarla con un **mezcalito**, porque como dicen en **Oaxaca**: “Para todo mal, mezcal; para todo bien, también”.
