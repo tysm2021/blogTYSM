@@ -1,6 +1,6 @@
 ---
 title: 'Raspados, monjitas, angelitos y diablitos: postres helados contra el calor'
-date: 2024-04-12 16:00:00
+date: 2025-03-11 12:00:00
 categories:
   - GASTRONOMIA
 tags:
@@ -40,7 +40,7 @@ Tras la Independencia y con el paso del tiempo, los **raspados** se volvieron un
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sno_cone.jpg/1024px-Sno_cone.jpg){: width="1024" height="768"}
 
-Uno de los lugares emblemáticos para probar **raspados** en el Zócalo de Cuernavaca, la Ciudad de la Eterna Primavera. Hay se preparan los **Diablitos**, que son como "una bomba", pues están elaborados con hielo, jarabe, pulpa de tamarindo, chile en polvo, salsa valentina, chamoy, limón y sal. Es uno de los más vendidos. Pero para aquellos que prefieren los sabores dulces está el **Angelito**, que lleva vainilla, lechera y un toque de canela.
+Uno de los lugares emblemáticos para probar **raspados** en el Zócalo de Cuernavaca, la Ciudad de la Eterna Primavera. Hay se preparan los **Diablitos**, que son como “una bomba”, pues están elaborados con hielo, jarabe, pulpa de tamarindo, chile en polvo, salsa valentina, chamoy, limón y sal. Es uno de los más vendidos. Pero para aquellos que prefieren los sabores dulces está el **Angelito**, que lleva vainilla, lechera y un toque de canela.
 
 Por último, está la monjita, que lleva rompope, hielo, leche condensada, leche evaporada, canela en polvo y una galleta; se le llama **Monjita** por el sabor del rompope, que tradicionalmente era elaborado por las religiosas. Y a ti, ¿cuál es el que más te gusta?
 
