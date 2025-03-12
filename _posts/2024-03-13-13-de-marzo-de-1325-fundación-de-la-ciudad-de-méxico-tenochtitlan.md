@@ -1,6 +1,6 @@
 ---
-title: '13 de marzo de 1325: fundación de la ciudad de México-Tenochtitlan'
-date: 2024-03-13 12:00:00
+title: '13 de marzo de 1325: 700 años de la fundación de México-Tenochtitlan'
+date: 2025-03-12 08:00:00
 categories:
   - HISTORIA
 tags:
@@ -28,7 +28,7 @@ summary: >-
 ---
 La **fundación** de la ciudad de **México-Tenochtitlan**, hoy conocida como la Ciudad de México, es un hecho que se encuentra en la frontera entre los **hechos históricos** y la leyenda. Por un lado, están los registros, las crónicas y los **códices**, los cuales hay que interpretar para dar con una fecha precisa, y por otro lado está el **mito fundacional** que habla del **águila** posada en un **nopal** o tunal y atrapando o devorando una **serpiente**, que era la señal prometida por su patrono, el dios **Huitzilopochtli**. Así, ¿cómo llegamos a la **fecha** del **13 de marzo de 1325**?
 
-A continuación te contamos un poco sobre lo que dicen historiadores, arqueólogos, estudiosos de la **civilización mexica** y autoridades del Gobierno de México sobre este acontecimiento, que muchos consideran el origen de la nación mexicana.
+A continuación te contamos un poco sobre lo que dicen historiadores, arqueólogos, estudiosos de la **civilización mexica** y autoridades del Gobierno de México sobre este acontecimiento, que muchos consideran el origen de la nación mexicana y que tuvo lugar hace **700 años**.
 
 **TE RECOMENDAMOS:** [**¿Cómo se dice: azteca o mexica? ¿Cuál es el término correcto?**]()
 
@@ -40,7 +40,7 @@ Esa imagen indicaría que habrían llegado el sito donde debían fundar una nuev
 
 Se puede decir que el surgimiento de **México-Tenochtitlan** comenzó con el proceso de la migración de los aztecas chichimecas, quienes recibían ese nombre por habitar la tierra mítica de Aztlán, donde adoraban a Huitzilopochtli, deidad que los guiaría hacia un nuevo lugar. La peregrinación tomó muchos años antes de alcanzar la Cuenca de México, pasando por diversos lugares y asentamientos.
 
-Según la revista *Arqueología Mexicana*, "la fecha *2 casa* \[que equivale al **año**\] **1325** en la cronología cristiana, ha sido considerada como la **fecha fundacional de México-Tenochtitlan** en las fuentes del siglo XVI y nunca ha sido cuestionada", pero otras fuentes dan otras fechas; por ejemplo, según la primera lámina del&nbsp;*Códice Mendocino*, el hecho tuvo lugar “el año de mil trescientos y veinte y cuatro años \[o sea, el año 1324\] después de la venida de Nuestro Señor y Salvador Jesucristo”; por su parte, el&nbsp;*Códice Aubin*, describe el fenómeno y lo sitúa en los años&nbsp;*1 caña* o *1 pedernal*, que corresponden a los años 1363 y 1364 del calendario cristiano.
+Según la revista *Arqueología Mexicana*, “la fecha *2 casa* \[que equivale al **año**\] **1325** en la cronología cristiana, ha sido considerada como la **fecha fundacional de México-Tenochtitlan** en las fuentes del siglo XVI y nunca ha sido cuestionada”, pero otras fuentes dan otras fechas; por ejemplo, según la primera lámina del&nbsp;*Códice Mendocino*, el hecho tuvo lugar “el año de mil trescientos y veinte y cuatro años \[o sea, el año 1324\] después de la venida de Nuestro Señor y Salvador Jesucristo”; por su parte, el&nbsp;*Códice Aubin*, describe el fenómeno y lo sitúa en los años&nbsp;*1 caña* o *1 pedernal*, que corresponden a los años 1363 y 1364 del calendario cristiano.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/03/First_page_of_the_Codex_Mendoza%2C_ca._1541_restored.jpeg){: width="793" height="1188"}
 
