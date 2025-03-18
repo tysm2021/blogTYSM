@@ -1,12 +1,12 @@
 ---
-title: 'Mango manila, ataulfo y petacón: ¿Cuál es la diferencia?'
-date: 2022-07-19 00:00:00 UTC
+title: 'Mango manila, mango ataulfo y mango petacón: ¿Cuáles son sus diferencias?'
+date: 2025-03-18 10:00:00
 categories:
-- GASTRONOMIA
+  - GASTRONOMIA
 tags:
-- comida
-- frutas
-- postres
+  - comida
+  - frutas
+  - postres
 author: Redacción TYSM
 layout: article
 excerpt_separator: <!--more-->
@@ -18,20 +18,15 @@ article_header:
   image:
     src: /images/2022-07-19-dasheri_mango.jpeg
 sharing: true
-summary: 'Una de las frutas favoritas de muchísimos mexicanos es el mango, en cualquiera
-  de sus tres variedades: aquí te hablamos acerca de ellas'
-cover: "/images/2022-07-19-dasheri_mango.jpeg"
+summary: >-
+  Una de las frutas favoritas de muchísimos mexicanos es el mango, en cualquiera
+  de sus tres variedades: aquí te hablamos acerca de ellas
+cover: /images/2022-07-19-dasheri_mango.jpeg
 show_author_profile: false
 comment: false
 _template: plantilla
 ---
-
-
-
-
-
-
-A los mexicanos nos gusta tanto el **mango** que, hace años, cuando veíamos a una muchacha curvilínea y de buen ver, exclamábamos que "¡Es un **mango**!" Y como existen tres variedades principales de esta fruta —**manila**, **ataulfo** y **petacón**—, aquí te explicamos un poco las **diferencias** entre ellas.
+A los mexicanos nos gusta tanto el **mango** que, hace años, cuando veíamos a una muchacha curvilínea y de buen ver, exclamábamos que “¡Es un **mango**!” Y como existen tres variedades principales de esta fruta —**manila**, **ataulfo** y **petacón**—, aquí te explicamos un poco las **diferencias** entre ellas.
 
 A pesar de ser una fruta de temporada, casi todo el año podemos encontrar **mangos** en muchas latitudes, ya sea naturales para ir comiendo o pelarlos, o en carritos donde a veces se venden con chile, limón y sal.
 
