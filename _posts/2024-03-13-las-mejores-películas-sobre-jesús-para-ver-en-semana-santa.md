@@ -1,6 +1,6 @@
 ---
 title: Las mejores películas sobre Jesús para ver en Semana Santa
-date: 2024-03-25 12:00:00
+date: 2025-04-14 08:00:00
 categories:
   - CULTURA
 tags:
@@ -54,7 +54,7 @@ En 1966, el director Julio Bracho dirigió esta historia protagonizada por Enriq
 
 ### Jesucristo Superestrella
 
-Aclaramos: esta versión musical es una opera-rock realizada en 1973 y no está sustentada en las Escrituras, pues se centra en el conflicto entre Jesús y su discípulo favorito, Judás, quien está descontento con la dirección que ha tomado "el movimiento". La acción se desarrolla como una obra teatral montada en unas ruinas del desierto de Israel, representando una ciudad de Jerusalén habitada por hippies y controlada por soldados romanos. Plantea una óptica distinta, inteligente, y tiene excelentes canciones y coreografías, aunque puede no ser del gusto de las personas más conservadoras.&nbsp;
+Aclaramos: esta versión musical es una opera-rock realizada en 1973 y no está sustentada en las Escrituras, pues se centra en el conflicto entre Jesús y su discípulo favorito, Judás, quien está descontento con la dirección que ha tomado “el movimiento”. La acción se desarrolla como una obra teatral montada en unas ruinas del desierto de Israel, representando una ciudad de Jerusalén habitada por hippies y controlada por soldados romanos. Plantea una óptica distinta, inteligente, y tiene excelentes canciones y coreografías, aunque puede no ser del gusto de las personas más conservadoras.&nbsp;
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/URWa0rbB1Kw?si=N-sk0G7i72n3VLk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
