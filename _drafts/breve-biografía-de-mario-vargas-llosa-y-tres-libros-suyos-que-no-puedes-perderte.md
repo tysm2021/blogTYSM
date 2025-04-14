@@ -21,7 +21,7 @@ article_header:
     src: /uploads/mariovargasllosa.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/mariovargasllosa.jpg
 show_author_profile: false
 comment: false
 summary: >-
@@ -39,6 +39,8 @@ Hablar de **Mario Vargas Llosa** es hablar de uno de los grandes titanes de la *
 
 Además de su faceta literaria, **Vargas Llosa** ha sido un personaje polémico por su vida pública y sus opiniones políticas. A principios de los años 90 fue candidato a la presidencia del Perú, en una campaña intensa que perdió frente a Alberto Fujimori. A partir de ahí, se dedicó de lleno a la escritura y a su labor como intelectual, colaborando con medios internacionales y opinando sobre temas tan variados como la democracia, el liberalismo o el arte. Aunque se naturalizó español en 1993, nunca dejó de mirar a América Latina, tanto con amor como con una mirada crítica.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mario_Vargas_Llosa_%28crop_2%29.jpg/500px-Mario_Vargas_Llosa_%28crop_2%29.jpg)
+
 A lo largo de su carrera ha cosechado los más prestigiosos reconocimientos literarios, incluido el **Premio Nobel de Literatura** en **2010**, otorgado por “su cartografía de las estructuras del poder y sus imágenes mordaces de la resistencia del individuo”. Su estilo narrativo, a veces vertiginoso, siempre agudo, ha sido clave para entender los dilemas sociales, políticos y existenciales de América Latina. **Vargas Llosa** no solo ha escrito novelas inolvidables, también ha defendido —con o sin polémica— la idea de que la literatura tiene un papel vital en la formación de ciudadanos libres y críticos.
 
 A lo largo de su vida, vivió en Perú, España, Francia e Inglaterra, y ha sido una figura polémica tanto por sus posturas ideológicas como por su estilo directo. Sin embargo, más allá de cualquier debate, lo que nadie puede negar es su capacidad para atrapar al lector en tramas vibrantes y complejas, cargadas de personajes inolvidables y una prosa ágil que nunca subestima la inteligencia del lector. Por eso, aquí te dejamos tres libros suyos que no te debes perder:
@@ -47,10 +49,16 @@ A lo largo de su vida, vivió en Perú, España, Francia e Inglaterra, y ha sido
 
 Su primera gran novela y un golpe directo al corazón de la literatura latinoamericana. Ambientada en un colegio militar en Lima, es una crítica feroz a las estructuras de poder, la violencia institucional y la masculinidad tóxica. Vargas Llosa rompe con la narrativa lineal y se atreve con técnicas innovadoras como el monólogo interior, marcando su estilo desde el inicio. Leerla es asomarse al nacimiento de un escritor en plena ebullición creativa.
 
+![](https://www.latercera.com/resizer/v2/DWBROTZCQNF37D2RM764C6S47Y.jpeg?auth=11b9d63676de8d4f47722ca7d058d5b99be78e68f4e9deb03c394e11c58bfa7a&amp;height=1383&amp;width=990&amp;smart=true)
+
 ## *Conversación en la Catedral* (1969)
 
 Considerada por muchos su obra maestra. A través del diálogo entre un periodista frustrado y un antiguo compañero, Vargas Llosa construye un rompecabezas sobre la corrupción y el desencanto durante la dictadura de Manuel A. Odría en Perú. Es una novela densa, sí, pero fascinante: una exploración de cómo el poder se infiltra hasta en la vida más íntima. Ideal para quienes disfrutan de las novelas donde cada frase revela una capa más de la historia.
 
+![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738418016i/2091367.jpg)
+
 ## *La fiesta del chivo* (2000)
 
 Una obra madura, contundente y absorbente. Aquí Vargas Llosa viaja a República Dominicana para retratar los últimos días del dictador Rafael Trujillo y el impacto de su régimen en la vida de sus víctimas. Con una estructura sólida y personajes memorables, es una novela que combina tensión política, drama humano y reflexión histórica. Perfecta para lectores que disfrutan las historias que escarban en la memoria colectiva y no temen mirar de frente la brutalidad del poder.
+
+![](https://estaticos-cdn.prensaiberica.es/clip/b1e68b1e-f540-4b31-8e2d-22878b3663f4_9-16-aspect-ratio_default_0.jpg)
