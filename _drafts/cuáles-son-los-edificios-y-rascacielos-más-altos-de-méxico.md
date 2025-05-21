@@ -37,4 +37,8 @@ Aquí te dejamos este **Top 5 de rascacielos mexicanos**, a la cabeza de los cua
 
 ![](/uploads/bovis-chapultepec-uno-cdmx-reforma.png)
 
-Esta torres
+**Ciudad de México (240.5 m)**
+
+Previamente conocida como Punto Chapulteoec, esta torre que se ubica sobre el Paseo de la Reforma, tras su inauguración en 2019 dejó atrás a sus vecinas, la **Torre BBVA** (234.9 m) y la **Torre Mayor** (225 m), las cuales durante algunos años encabezaron esta lista. Con sus 58 pisos, el edificio tiene usos mixtos como oficinas y residencias, y alberga al hotel The Ritz-Carlton Mexico City.
+
+&nbsp;
