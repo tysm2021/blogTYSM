@@ -57,8 +57,20 @@ Otro rascacielos ubicado en la zona de Chapultepec, sobre el Paseo de la Reforma
 
 Se ubica en el sur de la Ciudad de México, sobre avenida Río Churubusco, en la frontera de las alcaldías Miguel Hidalgo y Coyoacán. Además de contar con un afamado centro comercial en su parte inferior, con cinco niveles y 280 locales comerciales, en sus **65 pisos** alberga oficinas corporativas y departamentos. Se le considera un edificio inteligente, diseñado por el arquitecto César Pelli.
 
-&nbsp;
+## \#2 Torre KOI
 
-&nbsp;
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ko_by_Victor_M._Torres.jpg/960px-Ko_by_Victor_M._Torres.jpg)
+
+**San Pedro Garza García, N.L. (279.5 m)**
+
+En este próspero municipio aledaño a la ciudad de Monterrey, en el estado de **Nuevo León**, se alza este espléndido conjunto de oficinas y residencias de lujo. Se ubica dentro de Complejo VAO y, con 67 pisos, el edificio está rodeado de centros comerciales, restaurantes, oficinas, colegios y hospitales, y contiene en su interior una alberca semiolímpica.
+
+## \#1 Torre Obispado I
+
+![](/uploads/obispado-torres.jpg)
+
+**Monterrey, N.L. (&nbsp;305.3 m)**
+
+Este rascacielos, el **primer edificio súper alto en México** —es decir, que rebasa los 300 metros de altura—, forma parte de un complejo que tiene una base y dos torres, siendo la torre II un conjunto residencial. Esta torre comercial cuenta con **62 niveles** y en su interior encontramos el Hotel Hilton Garden en 8 pisos, la empresa WeWork en 9 pisos y 42 pisos destinados exclusivamente a oficinas. Se inauguró en 2020 y es **el edificio más alto de México** y de toda América Latina.
 
 &nbsp;
