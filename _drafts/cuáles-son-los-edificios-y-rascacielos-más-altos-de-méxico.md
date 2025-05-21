@@ -1,5 +1,5 @@
 ---
-title: 'Top 5: ¿Cuáles son los edificios y rascacielos más altos de México?'
+title: 'Top5: ¿Cuáles son los edificios y rascacielos más altos de México?'
 date: 2025-05-20 17:00:00
 categories:
   - MEXICANISIMOS
@@ -40,5 +40,25 @@ Aquí te dejamos este **Top 5 de rascacielos mexicanos**, a la cabeza de los cua
 **Ciudad de México (240.5 m)**
 
 Previamente conocida como Punto Chapulteoec, esta torre que se ubica sobre el Paseo de la Reforma, tras su inauguración en 2019 dejó atrás a sus vecinas, la **Torre BBVA** (234.9 m) y la **Torre Mayor** (225 m), las cuales durante algunos años encabezaron esta lista. Con sus 58 pisos, el edificio tiene usos mixtos como oficinas y residencias, y alberga al hotel The Ritz-Carlton Mexico City.
+
+## &nbsp;#4 Torre Reforma
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Torre_Reforma1707.jpg/500px-Torre_Reforma1707.jpg)
+
+**Ciudad de México (246 m)**
+
+Otro rascacielos ubicado en la zona de Chapultepec, sobre el Paseo de la Reforma, que actualmente es el **segundo edificio más alto de la Ciudad de México**. Cuenta con 57 pisos de 4.20 metros de altura cada uno y, debido a su forma de pentágono alargado en dos de sus vértices, la sombra que proyecta hacia los inmuebles vecinos no dura más de 25 minutos al día. Incluye un restaurante, un centro comercial y áreas de entretenimiento.
+
+## \#3 Torre Mitikah
+
+![](/uploads/mitikah.jpg)
+
+**Ciudad de México (267.3 m)**
+
+Se ubica en el sur de la Ciudad de México, sobre avenida Río Churubusco, en la frontera de las alcaldías Miguel Hidalgo y Coyoacán. Además de contar con un afamado centro comercial en su parte inferior, con cinco niveles y 280 locales comerciales, en sus **65 pisos** alberga oficinas corporativas y departamentos. Se le considera un edificio inteligente, diseñado por el arquitecto César Pelli.
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
