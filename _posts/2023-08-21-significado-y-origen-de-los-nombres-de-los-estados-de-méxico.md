@@ -1,6 +1,6 @@
 ---
 title: Significado y origen de los nombres de los estados de México
-date: 2023-08-21 00:00:00
+date: 2025-07-17 12:00:00
 categories:
   - MEXICANISIMOS
 tags:
@@ -40,33 +40,33 @@ Una de las teorías más populares sobre el origen del nombre California se basa
 
 ### Campeche
 
-El nombre proviene de las palabras mayas *Ah Kim Pech*, que significa "**lugar de serpientes y garrapatas**". También hay quien menciona a un cacique llamado Pech, que gobernaba la zona a la llegada de los españoles, por lo que el nombre significaría "lugar donde gobierna el Señor Sol Garrapata".
+El nombre proviene de las palabras mayas *Ah Kim Pech*, que significa “**lugar de serpientes y garrapatas**”. También hay quien menciona a un cacique llamado Pech, que gobernaba la zona a la llegada de los españoles, por lo que el nombre significaría “lugar donde gobierna el Señor Sol Garrapata”.
 
 ### Chiapas
 
-Deriva de la palabra náhuatl *Chiapan*, que significa "agua debajo del cerro", o de *Tepechiapan*, "**río de la chía**".
+Deriva de la palabra náhuatl *Chiapan*, que significa “agua debajo del cerro”, o de *Tepechiapan*, “**río de la chía**”.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Carnaval_zoque.jpg/1024px-Carnaval_zoque.jpg)
 
 ### Chihuahua
 
-Se cree que el nombre proviene del náhuatl *xicuauhua*, que a su vez vendría de *cuauhuacqui*, 'seco' o 'cosa seca o arenosa'; así, el significado es "**lugar seco y arenoso"**.&nbsp;
+Se cree que el nombre proviene del náhuatl *xicuauhua*, que a su vez vendría de *cuauhuacqui*, ‘seco’ o ‘cosa seca o arenosa’; así, el significado es “**lugar seco y arenoso”**.&nbsp;
 
 ### Coahuila
 
-Proviene de la palabra náhuatl *coahuiltecatl*, que significa "lugar donde abundan los árboles".
+Proviene de la palabra náhuatl *coahuiltecatl*, que significa “lugar donde abundan los árboles”.
 
 ### Colima
 
-Deriva del náhuatl *Coliman*, que significa "**lugar donde domina el Dios viejo o el Dios de fuego**" y hace referencia al volcán ubicado en los límites de Jalisco y Colima, hoy conocido como Volcán de Colima. El nombre proviene del náhuatl *colli*, 'cerro, volcán o abuelo' y *maitl*, que significa mano o dominio.
+Deriva del náhuatl *Coliman*, que significa “**lugar donde domina el Dios viejo o el Dios de fuego**” y hace referencia al volcán ubicado en los límites de Jalisco y Colima, hoy conocido como Volcán de Colima. El nombre proviene del náhuatl *colli*, ‘cerro, volcán o abuelo’ y *maitl*, que significa mano o dominio.
 
 ### Durango
 
-El nombre Durango fue tomada de **la ciudad homónima** que se encuentra en la provincia española de Vizcaya, lugar del que procedía Francisco de Ibarra, que a su vez deriva del término vasco *dorango*, que significa "pueblo del agua".
+El nombre Durango fue tomada de **la ciudad homónima** que se encuentra en la provincia española de Vizcaya, lugar del que procedía Francisco de Ibarra, que a su vez deriva del término vasco *dorango*, que significa “pueblo del agua”.
 
 ### Estado de México
 
-Sobre el origen de la palabra *México*, existen varias teorías y versiones, muchas de las cuales están basadas en la lengua náhuatl. La más conocida ​​​propone que proviene de la combinación de las palabras *metztli*, 'luna', *xictli*, 'ombligo' y *co*, sufijo de lugar, dando lugar a "Metztli xictli co", que se traduce como "en el ombligo de la Luna".
+Sobre el origen de la palabra *México*, existen varias teorías y versiones, muchas de las cuales están basadas en la lengua náhuatl. La más conocida ​​​propone que proviene de la combinación de las palabras *metztli*, ‘luna’, *xictli*, ‘ombligo’ y *co*, sufijo de lugar, dando lugar a “Metztli xictli co”, que se traduce como “en el ombligo de la Luna”.
 
 ### Guanajuato
 
@@ -86,11 +86,11 @@ En honor al padre de la independencia de México, **Miguel Hidalgo y Costilla**.
 
 ### Jalisco
 
-Deriva del náhuatl *Xalixco*, que significa "sobre la superficie de arena".
+Deriva del náhuatl *Xalixco*, que significa “sobre la superficie de arena”.
 
 ### Michoacán
 
-Se afirma que proviene del náhuatl *Michhuahco* que significa 'lugar de pescados' o 'lugar de pescadores; también se dice que la palabra es de origen tarasca, una corrupción de *Michamacuan*, que en esta lengua quiere decir 'estar junto al agua'.
+Se afirma que proviene del náhuatl *Michhuahco* que significa ‘lugar de pescados’ o ‘lugar de pescadores; también se dice que la palabra es de origen tarasca, una corrupción de *Michamacuan*, que en esta lengua quiere decir ‘estar junto al agua’.
 
 ### Morelos
 
@@ -112,11 +112,11 @@ En el siglo XV, los mexicas establecieron un campamento en este valle al que lla
 
 ### Puebla
 
-En este caso, no hay mucho que averiguar: una *puebla* es, simplemente, un poblado o un lugar donde un grupo de personas llega a poblar. Antiguamente el área donde se asienta la ciudad se llamaba Cuetlaxcoapan o 'lugar donde las serpientes cambian su piel'; fue en 1531 que la capital de este estado recibió el nombre de "Puebla de los Ángeles",&nbsp;**población, pueblo o lugar de los ángeles**.
+En este caso, no hay mucho que averiguar: una *puebla* es, simplemente, un poblado o un lugar donde un grupo de personas llega a poblar. Antiguamente el área donde se asienta la ciudad se llamaba Cuetlaxcoapan o ‘lugar donde las serpientes cambian su piel’; fue en 1531 que la capital de este estado recibió el nombre de “Puebla de los Ángeles”,&nbsp;**población, pueblo o lugar de los ángeles**.
 
 ### Querétaro
 
-Según el INAH, Querétaro es una castellanización del vocablo *crettaro* de origen purépecha —pueblo indígena que dominaba el estado actual de Michoacán—, cuya traducción es 'cañada', 'lugar de peñas' o 'juego de pelota'.
+Según el INAH, Querétaro es una castellanización del vocablo *crettaro* de origen purépecha —pueblo indígena que dominaba el estado actual de Michoacán—, cuya traducción es ‘cañada’, ‘lugar de peñas’ o ‘juego de pelota’.
 
 ### Quintana Roo
 
@@ -130,7 +130,7 @@ Hace referencia a **San Luis Rey de Francia** y a las **minas del Potosí**, una
 
 ### Sinaloa
 
-Deriva de la lengua cahita, y se compone de las voces&nbsp;*sina*, que significa 'pitahaya', y *lobola*, que significa 'redondeado'.
+Deriva de la lengua cahita, y se compone de las voces&nbsp;*sina*, que significa ‘pitahaya’, y *lobola*, que significa ‘redondeado’.
 
 ### Sonora
 
@@ -140,26 +140,26 @@ En el siglo XVI el lugar se dedicó a Nuestra Señora del Rosario, pero como los
 
 ### Tabasco
 
-Se dice que su nombre proviene del **cacique indígena Tabscoob**, quien gobernaba en el momento que los españoles arribaron. Otra versión dice que deriva del maya *Taabs k'áak*, que significa 'lugar de aguas calientes', una más dice que es una forma modificada de los vocablos mayas *Tab-uaxac-coh,* que significan 'Nuestro señor el de los ocho leones'; o bien, que deriva de *tlahuasco*, 'lugar que tiene dueño'.
+Se dice que su nombre proviene del **cacique indígena Tabscoob**, quien gobernaba en el momento que los españoles arribaron. Otra versión dice que deriva del maya *Taabs k’áak*, que significa ‘lugar de aguas calientes’, una más dice que es una forma modificada de los vocablos mayas *Tab-uaxac-coh,* que significan ‘Nuestro señor el de los ocho leones’; o bien, que deriva de *tlahuasco*, ‘lugar que tiene dueño’.
 
 ### Tamaulipas
 
-El nombre del estado de Tamaulipas se deriva de *Tamaholipa* palabra de origen Huasteco, donde el prefijo *tam* significa 'lugar donde'. Aunque no existe un acuerdo del significado de *holipa*, parece ser que la interpretación más común es “rezar mucho”, lo cual significa “**lugar donde se reza mucho**”.
+El nombre del estado de Tamaulipas se deriva de *Tamaholipa* palabra de origen Huasteco, donde el prefijo *tam* significa ‘lugar donde’. Aunque no existe un acuerdo del significado de *holipa*, parece ser que la interpretación más común es “rezar mucho”, lo cual significa “**lugar donde se reza mucho**”.
 
 ### Tlaxcala
 
-La palabra Tlaxcala proviene del náhuatl *tlaxcalli* que quiere decir 'tortilla', pero que al combinar con la terminación *tlan* que denota 'lugar de', forma *tlaxcallan*, el sustantivo pasa a significar '**lugar de tortillas'.**
+La palabra Tlaxcala proviene del náhuatl *tlaxcalli* que quiere decir ‘tortilla’, pero que al combinar con la terminación *tlan* que denota ‘lugar de’, forma *tlaxcallan*, el sustantivo pasa a significar ‘**lugar de tortillas’.**
 
 **TE RECOMENDAMOS: [Tlaxcala: lugares que conocer de una ciudad que desde luego que existe.](https://blog.tonoysumariachi.com/turismo/2022/09/21/tlaxcala-una-ciudad-que-desde-luego-que-existe.html){: target="_blank" rel="noopener"}**
 
 ### Veracruz
 
-Es resultado del nombre de la primera colonia española establecida por Hernán Cortés: la **Villa Rica de la Vera Cruz** o "verdadera cruz"..
+Es resultado del nombre de la primera colonia española establecida por Hernán Cortés: la **Villa Rica de la Vera Cruz** o “verdadera cruz”..
 
 ### Yucatán
 
-Hay muchas versiones: un dice que deriva del maya *yok'atlan*, que significa "no soy de aquí" o "no comprendo". Otra versión establece que un conquistador preguntó sobre el nombre de la región y un indígena contestó: *ma´anaatik ka tánn* , que en maya quiere decir “no entiendo lo que hablas”; los españoles prestos proclamaron el nombre *Yucatán*. Una historia más afirma que el nombre de **Yucatán** proviene de lo que decían los mayas al oír hablar a los españoles: *uh yu ka t’ann*, que es como decir : “oye como hablan”.
+Hay muchas versiones: un dice que deriva del maya *yok’atlan*, que significa “no soy de aquí” o “no comprendo”. Otra versión establece que un conquistador preguntó sobre el nombre de la región y un indígena contestó: *ma´anaatik ka tánn* , que en maya quiere decir “no entiendo lo que hablas”; los españoles prestos proclamaron el nombre *Yucatán*. Una historia más afirma que el nombre de **Yucatán** proviene de lo que decían los mayas al oír hablar a los españoles: *uh yu ka t’ann*, que es como decir : “oye como hablan”.
 
 ### ​​​​​Zacatecas
 
-Proviene del náhuatl *zacatl*, 'zacate, junco', por lo que significa "**lugar donde abunda el zacate**".
+Proviene del náhuatl *zacatl*, ‘zacate, junco’, por lo que significa “**lugar donde abunda el zacate**”.
