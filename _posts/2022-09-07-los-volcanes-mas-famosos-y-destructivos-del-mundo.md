@@ -1,13 +1,13 @@
 ---
 title: Los volcanes más famosos y destructivos del mundo
-date: 2022-09-07 00:00:00 UTC
+date: 2025-07-31 09:00:00
 categories:
-- MUNDO
+  - MUNDO
 tags:
-- mundo
-- geografia
-- historia
-- curiosidades
+  - mundo
+  - geografia
+  - historia
+  - curiosidades
 author: Redacción TYSM
 layout: article
 excerpt_separator: <!--more-->
@@ -19,19 +19,15 @@ article_header:
   image:
     src: /images/2022-09-07-1280px-mt_etna_and_catania1.jpeg
 sharing: true
-summary: La erupción de un volcán es uno de los fenómenos más violentos de la Naturaleza;
-  aquí te contamos de algunos volcanes famosos en la historia mundial
-cover: "/images/2022-09-07-1280px-mt_etna_and_catania1.jpeg"
+summary: >-
+  La erupción de un volcán es uno de los fenómenos más violentos de la
+  Naturaleza; aquí te contamos de algunos volcanes famosos en la historia
+  mundial
+cover: /images/2022-09-07-1280px-mt_etna_and_catania1.jpeg
 show_author_profile: false
 comment: false
 _template: plantilla
 ---
-
-
-
-
-
-
 A veces olvidamos que nuestro **mundo** no es un planeta estático y que, debajo de su corteza —y aun bajo del mar— existe una gran actividad y placas tectónicas que se desplazan una sobre otra, causando cataclismos como los terremotos y **erupciones volcánicas**. Desde los principios de la historia, los **volcanes** han sido venerados y temidos por los grupos humanos cercanos a ellos, los cuales nos han dejado registros de las trágicas consecuencias que han tenido el despertar de estos gigantes. Pero, ¿cuáles son los **volcanes** más **famosos** del **mundo** y cuál ha sido su **historia**?
 
 Hagamos, a continuación, un breve recuento a lo largo del tiempo y de la historia, para visitar a estas montañas de fuego, las cuales han causado el nacimiento y la muerte de muchas civilizaciones, y han tenido el poder de incluso apagar momentáneamente el brillo del Sol…
@@ -73,3 +69,5 @@ No, no nos referimos al juego mecánico de un conocido centro de atracciones de 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Pinatubo_Ausbruch_1991.jpg)
 
 Por último, hablemos de este **volcán** que se localiza en la isla de Luzón, en las **Filipinas**, y que hizo erupción en 1991, tras 500 años de inactividad. Todo empezó el 2 de abril, cuando el **Pinatubo** despertó con pequeñas erupciones cerca de la cumbre y abundante actividad sísmica, que se prolongó durante el mes de mayo; el 3 de junio se presentó la primera erupción magmática y, cuatro días después, una explosión que generó una columna de ceniza de 7 km de altura; una segunda explosión tuvo lugar entre el 13 y el 15 de junio, y fue considerada la segunda más violenta del siglo XX; por si fuera poco, ese mismo día un tifón golpeó la isla, lo que empeoró la situación. Los efectos de la erupción del **volcán** se sintieron en todo el mundo, generando una capa global de ácido sulfúrico y un descenso de la temperatura en todo el mundo de 0.5 ºC. Impactante…
+
+&nbsp;
