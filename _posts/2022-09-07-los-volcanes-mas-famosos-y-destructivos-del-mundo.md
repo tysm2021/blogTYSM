@@ -70,4 +70,10 @@ No, no nos referimos al juego mecánico de un conocido centro de atracciones de 
 
 Por último, hablemos de este **volcán** que se localiza en la isla de Luzón, en las **Filipinas**, y que hizo erupción en 1991, tras 500 años de inactividad. Todo empezó el 2 de abril, cuando el **Pinatubo** despertó con pequeñas erupciones cerca de la cumbre y abundante actividad sísmica, que se prolongó durante el mes de mayo; el 3 de junio se presentó la primera erupción magmática y, cuatro días después, una explosión que generó una columna de ceniza de 7 km de altura; una segunda explosión tuvo lugar entre el 13 y el 15 de junio, y fue considerada la segunda más violenta del siglo XX; por si fuera poco, ese mismo día un tifón golpeó la isla, lo que empeoró la situación. Los efectos de la erupción del **volcán** se sintieron en todo el mundo, generando una capa global de ácido sulfúrico y un descenso de la temperatura en todo el mundo de 0.5 ºC. Impactante…
 
+## **Kliuchevskoi**
+
+![](/uploads/volcan.png)
+
+El caso más reciente tuvo lugar el 29 de julio de 2025, cuando El **volcán Kliuchevskoi**, ubicado en el oriente de Rusia, entró en erupción horas después de un sismo de magnitud 8.8 grados frente a las costas de **Kamchatka,** en el oriente de Rusia. La región en la que se originó este,el **sexto terremoto más potente de todos los tiempos** se le conoce como el Cinturón de Fuego,la cual no sólo es altamente sísmica, sino que tiene una gran presencia de volcanes. El volcan tiene 4800 metros de altitud y el terremoto tuvo tal potencia que generó alertas de tsunami en tres continentes: Asia, América y Oceanía.
+
 &nbsp;
