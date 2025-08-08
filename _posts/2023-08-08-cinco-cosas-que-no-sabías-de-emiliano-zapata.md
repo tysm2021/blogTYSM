@@ -1,6 +1,6 @@
 ---
 title: Cinco cosas que no sabías de Emiliano Zapata
-date: 2023-08-08 00:00:00
+date: 2025-08-08 08:00:00
 categories:
   - HISTORIA
 tags:
@@ -25,7 +25,7 @@ summary: >-
   El 8 de agosto de 1879 en Anenecuilco, Morelos, nació el revolucionario
   Emiliano Zapata. Conoce un poco de su biografía. 
 ---
-Una de las figuras más destacadas de la **Revolución Mexicana** fue **Emiliano Zapata**, quien fue un gran luchador por la defensa de los campesinos, en contra de los latifundistas y de los inversionistas extranjeros que siempre habían abusado de ellos. Su lema "**Tierra y Libertad**" aún resuena en proclamas y pancartas durante las marchas donde las organizaciones sociales rescatan y enarbolan los ideales **revolucionarios** y de **justicia** del nativo del estado de **Morelos**.
+Una de las figuras más destacadas de la **Revolución Mexicana** fue **Emiliano Zapata**, quien fue un gran luchador por la defensa de los campesinos, en contra de los latifundistas y de los inversionistas extranjeros que siempre habían abusado de ellos. Su lema “**Tierra y Libertad**” aún resuena en proclamas y pancartas durante las marchas donde las organizaciones sociales rescatan y enarbolan los ideales **revolucionarios** y de **justicia** del nativo del estado de **Morelos**.
 
 A continuación, te presentamos **cinco datos** que quizás **no conocías** sobre **Emiliano Zapata**, cuya imagen con su mirada férrea, el tupido bigote, las cananas y su ancho sombrero se ha convertido en un símbolo de la **historia de México**, de sus luchas sociales y del sacrificio de nuestros campesinos.
 
@@ -33,11 +33,11 @@ A continuación, te presentamos **cinco datos** que quizás **no conocías** sob
 
 ## Fue testigo de despojos
 
-**Emiliano Zapata Salazar** nació el **8 de agosto de 1879** en **Anenecuilco**, un pequeño pueblo ubicado en el estado de **Morelos**. Sus padres fueron Gabriel Zapata y Cleofas Salaza, y tuvo seis hermanas. A los nueve años de edad, fue testigo del despojo de tierras a campesinos por hacendados de la zona; tras escuchar a su padre diciendo que nada podía hacerse, el pequeño **Emiliano** afirmo que cuando fuera grande, "Haría que las devolvieran".
+**Emiliano Zapata Salazar** nació el **8 de agosto de 1879** en **Anenecuilco**, un pequeño pueblo ubicado en el estado de **Morelos**. Sus padres fueron Gabriel Zapata y Cleofas Salaza, y tuvo seis hermanas. A los nueve años de edad, fue testigo del despojo de tierras a campesinos por hacendados de la zona; tras escuchar a su padre diciendo que nada podía hacerse, el pequeño **Emiliano** afirmo que cuando fuera grande, “Haría que las devolvieran”.
 
 ## Trabajó como caballerango
 
-Su natural rebeldía se mostró desde su primeros años y por esa razón fue condenado a la leva —es decir, fue reclutado por la fuerza en el Ejército y hecho conscripto—, asignándosele labores de **caballerango**, primero del Jefe del Estado Mayor de Porfirio Díaz, **Pablo Escandón**, y después de **Ignacio de la Torre**, el yerno de Porfirio Díaz famoso por su participación en "El Baile de los 41".
+Su natural rebeldía se mostró desde su primeros años y por esa razón fue condenado a la leva —es decir, fue reclutado por la fuerza en el Ejército y hecho conscripto—, asignándosele labores de **caballerango**, primero del Jefe del Estado Mayor de Porfirio Díaz, **Pablo Escandón**, y después de **Ignacio de la Torre**, el yerno de Porfirio Díaz famoso por su participación en “El Baile de los 41”.
 
 ## Repartió tierras
 
@@ -49,7 +49,7 @@ La influencia de Zapata en la lucha por la reforma agraria y los derechos de los
 
 Desde 1911 hasta su muerte en 1919, la carrera militar de Zapata puede dividirse en cuatro etapas principales:
 
-* De 1911 a 1912, tras la renuncia de Porfirio Díaz,&nbsp;**Zapata** proclama el **Plan de Ayala** en 1911, donde denuncia al presidente Madero por no cumplir con las promesas de reforma agraria. Esta campaña sentó las bases de su lucha y su famoso lema "Tierra y Libertad".
+* De 1911 a 1912, tras la renuncia de Porfirio Díaz,&nbsp;**Zapata** proclama el **Plan de Ayala** en 1911, donde denuncia al presidente Madero por no cumplir con las promesas de reforma agraria. Esta campaña sentó las bases de su lucha y su famoso lema “Tierra y Libertad”.
 * De 1913 a 1914, luego del golpe de Estado de&nbsp;**Huerta** contra **Madero**, Zapata se une a otros líderes revolucionarios como **Pancho Villa**, para combatir al espurio.
 * En 1914, Zapata colabora con Pancho Villa y ambos líderes lograron algunas victorias significativas &nbsp;contra las fuerzas de Huerta. Pero diferencias ideológicas en la Convención de Aguascalientes marcan una fractura en su alianza.
 * Por último, de 1915 a 1918 Zapata se centra en consolidar su control en el sur de México, especialmente en Morelos, promoviendo la reforma agraria y la justicia social.
