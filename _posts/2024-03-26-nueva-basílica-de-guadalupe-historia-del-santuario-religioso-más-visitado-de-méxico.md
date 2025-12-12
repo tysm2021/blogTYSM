@@ -2,7 +2,7 @@
 title: >-
   Nueva Basílica de Guadalupe: historia del santuario religioso más visitado de
   México  
-date: 2024-03-26 15:00:00
+date: 2025-12-12 13:00:00
 categories:
   - MEXICANISIMOS
 tags:
@@ -41,7 +41,7 @@ Llamada oficialmente&nbsp;**Insigne y Nacional Basílica de Santa María de Guad
 
 La nueva construcción fue necesaria después de años de terremotos, hundimientos y hasta un atentado con bomba durante la Guerra Cristera, los cuales pusieron al antiguo templo en peligro de falla estructural y de colapso. El antiguo edificio, además, resultaba totalmente inadecuado para el número cada vez más grande de peregrinos que acudían al Tepeyac a adorar a la virgen morena.
 
-La **Nueva Basílica**&nbsp;fue diseñada por cinco arquitectos que trabajaron juntos:&nbsp;**&nbsp;**&nbsp;José Luis Benlliure, Pedro Ramírez Vázquez, Alejandro Schoenhofer, Fray Gabriel Chávez de la Mora y Javier García Lascuráin. La construcción comenzó en 1974 y tomó hasta el 12 de octubre de 1976 para su inauguración. En una procesión solemne&nbsp; entró la imagen de la Virgen de Guadalupe al nuevo santuario.
+La **Nueva Basílica**&nbsp;fue diseñada por cinco arquitectos que trabajaron juntos:&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;José Luis Benlliure, Pedro Ramírez Vázquez, Alejandro Schoenhofer, Fray Gabriel Chávez de la Mora y Javier García Lascuráin. La construcción comenzó en 1974 y tomó hasta el 12 de octubre de 1976 para su inauguración. En una procesión solemne&nbsp; entró la imagen de la Virgen de Guadalupe al nuevo santuario.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Basilica_of_Our_Lady_of_Guadalupe_%28new%29.JPG/1024px-Basilica_of_Our_Lady_of_Guadalupe_%28new%29.JPG)
 
@@ -57,10 +57,10 @@ La **Nueva Basílica de Guadalupe** tiene siete entradas. Al frente hay una capi
 
 La **Nueva Basílica de Guadalupe** es quizás el **santuario religioso más visitado en el mundo** y recibe cerca de 30 millones de devotos y 10 millones de visitantes no religiosos cada año. La fiesta anual de la **Virgen de Guadalupe** el 12 de diciembre es una de las más grandes de la Ciudad. En los alrededores de la Villa de Guadalupe, además de la Antigua Basílica podrás admirar otros edificios religiosos como:
 
-* La **Iglesia del Cerrito**, primera construcción que se hizo en el sitio exacto de las apariciones y primera "casa" del ayate de Juan Diego.
+* La **Iglesia del Cerrito**, primera construcción que se hizo en el sitio exacto de las apariciones y primera “casa” del ayate de Juan Diego.
 * **Capilla de Indios**: fue la casa de **Juan Diego Cuauhtlatoatzin** desde 1533 hasta su muerte.
 * **Capilla del Pocito**: una curiosa capilla de forma circular que cuenta con un pozo cuyas aguas, dicen los fieles, son milagrosas.
-* **Capilla de Juramentos**: el lugar a donde acuden a "jurarse" quienes buscan dejar de beber.
+* **Capilla de Juramentos**: el lugar a donde acuden a “jurarse” quienes buscan dejar de beber.
 * La **Parroquia de Capuchinas** y el **Museo Guadalupano**, con fastuosas muestras de arte religioso que cuentan la historia del lugar.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CONJUNTO_VILLA_DE_GUADALUPE_ID00949_FOTO3.jpg/1024px-CONJUNTO_VILLA_DE_GUADALUPE_ID00949_FOTO3.jpg)
