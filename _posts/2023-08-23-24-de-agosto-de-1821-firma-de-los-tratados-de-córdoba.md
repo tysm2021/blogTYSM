@@ -23,8 +23,9 @@ cover: /uploads/1024px-tratadoscordoba.jpg
 show_author_profile: false
 comment: false
 summary: >-
-  Si quieres dedicarle un poema a tu persona amada, aquí te recomendamos cinco
-  de los mejores…
+  Los Tratados de Córdoba fueron un acuerdo político entre los insurgentes
+  novohispanos y la corona española, que sentó las bases de la independencia de
+  México.
 ---
 En la recta final de la Guerra de **Independencia** de **México**, el&nbsp;**24 de agosto de 1821** el novohispano **Agustín de Iturbide**, general del Ejército Trigarante, y el español don **Juan O’Donojú**, teniente general de los ejércitos de España, firmaron documentos conocidos como los **Tratados de Córdoba**, en los que se reconocieron los territorios que pertenecieron anteriormente a la monarquía y se instauró una nación soberana e independiente como “Imperio Mexicano”
 
