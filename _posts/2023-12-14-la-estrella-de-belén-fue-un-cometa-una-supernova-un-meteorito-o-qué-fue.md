@@ -1,6 +1,6 @@
 ---
 title: La Estrella de Belén, ¿fue un cometa, una supernova, un meteorito o qué fue?
-date: 2023-12-14 16:00:00
+date: 2025-12-07 16:00:00
 categories:
   - MUNDO
 tags:
@@ -31,7 +31,7 @@ Así pues, aquí te presentamos la **historia** de la **Estrella de Belén**, su
 
 **TE RECOMENDAMOS: [¿Quién inventó las series o luces navideñas, y cómo llegaron a México?](https://blog.tonoysumariachi.com/historia/2023/12/13/qui%C3%A9n-invent%C3%B3-las-series-o-luces-navide%C3%B1as-y-c%C3%B3mo-llegaron-a-m%C3%A9xico.html){: target="_blank" rel="noopener"}**
 
-Muchos cristianos creen que la **Estrella de Belén** fue una señal milagrosa. Algunos teólogos afirmaron que cumplió una profecía, conocida como la Profecía Estelar,&nbsp; que se refiere a un versículo en particular del libro bíblico de los Números, donde habla de la "estrella de Jacob". Los astrónomos han hecho varios intentos de vincular la estrella con eventos celestes inusuales, como una conjunción de planetas —Júpiter y Saturno o Júpiter y Venus—, el paso de un cometa o la explosión de una supernova.
+Muchos cristianos creen que la **Estrella de Belén** fue una señal milagrosa. Algunos teólogos afirmaron que cumplió una profecía, conocida como la Profecía Estelar,&nbsp; que se refiere a un versículo en particular del libro bíblico de los Números, donde habla de la “estrella de Jacob”. Los astrónomos han hecho varios intentos de vincular la estrella con eventos celestes inusuales, como una conjunción de planetas —Júpiter y Saturno o Júpiter y Venus—, el paso de un cometa o la explosión de una supernova.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f9/Giotto_-_Scrovegni_-_-18-_-_Adoration_of_the_Magi.jpg)
 
