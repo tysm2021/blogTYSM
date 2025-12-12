@@ -1,6 +1,6 @@
 ---
 title: Leyenda, origen y significado de las esferas de Navidad
-date: 2023-11-29 17:00:00
+date: 2025-12-02 17:00:00
 categories:
   - MUNDO
 tags:
@@ -32,7 +32,7 @@ Aquí hacemos un breve repaso que va de la **leyenda** a la **historia**, del **
 
 **TE RECOMENDAMOS: [Según la tradición, ¿cuándo se pone el árbol de Navidad en México?](https://blog.tonoysumariachi.com/mexicanisimos/2023/11/28/seg%C3%BAn-la-tradici%C3%B3n-cu%C3%A1ndo-se-pone-el-%C3%A1rbol-de-navidad-en-m%C3%A9xico.html){: target="_blank" rel="noopener"}**
 
-El origen de las esferas navideñas está relacionado muy de cerca con el surgimiento del **árbol de Navidad**, el cual según la **leyenda** fue introducido por&nbsp;**San Bonifacio de Maguncia**, conocido como el “apóstol de Alemania”, a quien en el siglo VIII de nuestra era el papa Gregorio II encargó la evangelización de los paganos en tierras germanas. Durante sus misiones, se encontró con la brutal costumbre pagana del sacrificio humano ceremonial ante un árbol sagrado llamado "el roble de Thor" —dios de la mitología nórdica—, el cual se adornaba con objetos de los guerreros a los que habían matado.
+El origen de las esferas navideñas está relacionado muy de cerca con el surgimiento del **árbol de Navidad**, el cual según la **leyenda** fue introducido por&nbsp;**San Bonifacio de Maguncia**, conocido como el “apóstol de Alemania”, a quien en el siglo VIII de nuestra era el papa Gregorio II encargó la evangelización de los paganos en tierras germanas. Durante sus misiones, se encontró con la brutal costumbre pagana del sacrificio humano ceremonial ante un árbol sagrado llamado “el roble de Thor” —dios de la mitología nórdica—, el cual se adornaba con objetos de los guerreros a los que habían matado.
 
 **Bonifacio** observó el ritual y cambió la tradición: cortó un abeto y dijo que éste significaba el amor de Dios y representaba la vida eterna. Después, lo adornó con velas —que representaban a Cristo y la luz del mundo— y manzanas, que recordaban la tentación y el pecado original de Adán y Eva. De esta forma, las manzanas se convirtieron en las&nbsp;**primeras esferas navideñas**. Abajo vemos la estatua de **San Bonifacio** en la catedral de Maguncia, Alemania.
 
@@ -50,7 +50,7 @@ Por otra parte, además de simbolizar el pecado original cometido por Adán y Ev
 
 La tradición del árbol de Navidad llegó a México con el emperador Maximiliano de Habsburgo, en el siglo XIX. Aunque al principio sólo la adoptaron los migrantes, extranjeros y las familias ricas, poco a poco se fue posicionando y en el siglo XX, con la aparición del cine y la exposición a las películas navideñas de Estados Unidos, finalmente se integró a las tradiciones mexicanas. Pero si hablamos de esferas mexicanas, hay que hablar de dos pueblos: Chignahuapan y Tlalpujahua.
 
-**Chignahuapan** se encuentra en el norte del estado de Puebla y, además de ser el lugar que vio nacer a Gaspar Henaine "Capulina", es una de las dos capitales **mexicanas** de la **esfera navideña**. Se cuenta que, en la década de 1950, el primer esferero fue **Rafael Méndez Núñe**z, quien instaló el primer taller en el pueblo. Actualmente hay más de 200 talleres y se estima que su producción anual rebasa los 50 millones de esferas. ¿Qué tal?
+**Chignahuapan** se encuentra en el norte del estado de Puebla y, además de ser el lugar que vio nacer a Gaspar Henaine “Capulina”, es una de las dos capitales **mexicanas** de la **esfera navideña**. Se cuenta que, en la década de 1950, el primer esferero fue **Rafael Méndez Núñe**z, quien instaló el primer taller en el pueblo. Actualmente hay más de 200 talleres y se estima que su producción anual rebasa los 50 millones de esferas. ¿Qué tal?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Venta_de_esferas_navide%C3%B1as_en_Chignahuapan%2C_Puebla_03.jpg/1024px-Venta_de_esferas_navide%C3%B1as_en_Chignahuapan%2C_Puebla_03.jpg)
 
