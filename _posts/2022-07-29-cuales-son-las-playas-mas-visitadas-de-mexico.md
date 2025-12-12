@@ -1,12 +1,12 @@
 ---
-title: "¿Cuáles son las playas más visitadas de México?"
-date: 2022-07-29 00:00:00 UTC
+title: ¿Cuáles son las playas más visitadas de México?
+date: 2025-12-04 00:00:00
 categories:
-- TURISMO
+  - TURISMO
 tags:
-- playas
-- mexico
-- turismo
+  - playas
+  - mexico
+  - turismo
 author: Redacción TYSM
 layout: article
 excerpt_separator: <!--more-->
@@ -18,19 +18,14 @@ article_header:
   image:
     src: /images/2022-07-29-1280px-acapulco4.jpeg
 sharing: true
-summary: 'Sol, arena y mar, la combinación perfecta de las playas mexicanas: conoce
-  cuáles son las más visitadas del país…'
-cover: "/images/2022-07-29-1280px-acapulco4.jpeg"
+summary: >-
+  Sol, arena y mar, la combinación perfecta de las playas mexicanas: conoce
+  cuáles son las más visitadas del país…
+cover: /images/2022-07-29-1280px-acapulco4.jpeg
 show_author_profile: false
 comment: false
 _template: plantilla
 ---
-
-
-
-
-
-
 Cuando llegan las **vacaciones**, uno de los destinos favoritos de las familias **mexicanas** son las hermosas **playas**. Y es que tienen de todo: sol brillante, una temperatura cálida y reconfortante, el azul de nuestros mares, refrescantes albercas y numerosos hoteles, deliciosos mariscos y amaneceres o puestas de sol impresionantes. Pero de todas las **playas** en el Golfo y el Pacífico **mexicanos**, ¿cuáles son **las más visitadas** y qué **más turistas** reciben al año?
 
 A continuación, las cinco **playas mexicanas más populares**, según estadísticas de la Secretaría de Turismo. Quizá te sorprenda cuáles son, o tal vez decidas que una de ellas es el próximo destino de tus siguientes vacaciones.
@@ -61,7 +56,7 @@ Desde hace décadas, esta ciudad en el estado de Quintana Roo es uno de los dest
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Puerto_Vallarta%2C_Mexico%2C_2021_-_44.jpg/1024px-Puerto_Vallarta%2C_Mexico%2C_2021_-_44.jpg)
 
-Otro destino clásico en el estado de Jalisco, que actualmente tiene un promedio anual del 74.1% de ocupación hotelera. Además de visitar la parte tradicional o el "Vallarta viejo", puedes darte una vuelta por el boulevard y sus numerosos bares y restaurantes, probar los deliciosos mariscos o la especialidad del lugar: el 'pescado a la talla'. Es un lugar que es encuentra entre la **playa** y la montaña, por lo que puedes acceder a hermosos paisajes durante el día o la noche.
+Otro destino clásico en el estado de Jalisco, que actualmente tiene un promedio anual del 74.1% de ocupación hotelera. Además de visitar la parte tradicional o el “Vallarta viejo”, puedes darte una vuelta por el boulevard y sus numerosos bares y restaurantes, probar los deliciosos mariscos o la especialidad del lugar: el ‘pescado a la talla’. Es un lugar que es encuentra entre la **playa** y la montaña, por lo que puedes acceder a hermosos paisajes durante el día o la noche.
 
 ## Los Cabos
 
