@@ -1,6 +1,6 @@
 ---
 title: Los mexicanos, ¿cenamos pavo o guajolote? ¿Cuál es la diferencia?
-date: 2023-12-20 17:00:00
+date: 2025-12-06 17:00:00
 categories:
   - GASTRONOMIA
 tags:
@@ -33,7 +33,7 @@ A continuación, revisamos las semejanzas y las distinciones entre el pavo que s
 
 Ahora que la cena navideña está a la vuelta de la esquina, en muchas ocasiones nos hemos preguntado las **semejanzas** y las **diferencias** entre el pavo y el guajolote, por lo que consultamos con el Gobierno de México.
 
-Según la versión oficial, el nombre del&nbsp; **guajolote**&nbsp;deriva de la castellanización —es decir, de la escritura de las palabras en lenguas indígenas según las entendían los conquistadores españoles— del vocablo náhuatl con el que se define a esta ave: *huexólotl*&nbsp;—y, de ahí, *huacholotl*— que significa "monstruo grande". Lo anterior deja claro el verdadero origen geográfico e histórico del **guajolote**: México.&nbsp; Esta ave ha estado presente en la vida cotidiana y en la gastronomía de nuestro país desde tiempos prehispánicos, como dan fe algunos códices anteriores a la Conquista.
+Según la versión oficial, el nombre del&nbsp; **guajolote**&nbsp;deriva de la castellanización —es decir, de la escritura de las palabras en lenguas indígenas según las entendían los conquistadores españoles— del vocablo náhuatl con el que se define a esta ave: *huexólotl*&nbsp;—y, de ahí, *huacholotl*— que significa “monstruo grande”. Lo anterior deja claro el verdadero origen geográfico e histórico del **guajolote**: México.&nbsp; Esta ave ha estado presente en la vida cotidiana y en la gastronomía de nuestro país desde tiempos prehispánicos, como dan fe algunos códices anteriores a la Conquista.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Florentine_Codex_Fol_28_compras_fiesta_mantas_alimentos_guajolote_vasijas_asientos.png/640px-Florentine_Codex_Fol_28_compras_fiesta_mantas_alimentos_guajolote_vasijas_asientos.png)
 
