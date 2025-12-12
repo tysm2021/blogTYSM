@@ -1,6 +1,6 @@
 ---
 title: 'Bacalao a la vizcaína: el platillo clásico en las cenas navideñas de México'
-date: 2024-12-18 14:00:00
+date: 2025-12-12 09:00:00
 categories:
   - GASTRONOMIA
 tags:
