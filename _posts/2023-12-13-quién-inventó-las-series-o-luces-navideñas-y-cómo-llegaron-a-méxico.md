@@ -1,6 +1,6 @@
 ---
 title: ¿Quién inventó las series o luces navideñas, y cómo llegaron a México?
-date: 2023-12-13 16:00:00
+date: 2025-12-12 01:00:00
 categories:
   - HISTORIA
 tags:
@@ -37,7 +37,7 @@ Se dice que los primeros árboles de Navidad se decoraban con manzanas y esa es 
 
 En el país vecino sucedió que, en 1871, un empresario e inventor llamado **Edward Hibbert Johnson** contrató a un joven inventor de 24 años como su asistentes en la Automatic Telegraph Company. El joven se llamaba **Thomas Alva Edison**, quien poco después dejaría la empresa de telégrafos para probar suerte como inventor. Johnson estaba tan impresionado con él que también renunció a su empleo y se convirtió en su socio.
 
-En 1877, cuando Edison inventó el fonógrafo, Johnson llevó la máquina de gira, cargando a las multitudes para generar entusiasmo. Y cuando el "genio de Menlo Park" patentó la primera **bombilla eléctrica** en 1880, era difícil pronosticar la importancia que tendría la invención, pues la electrificación aún estaba a décadas de generalizarse en el mundo occidental.
+En 1877, cuando Edison inventó el fonógrafo, Johnson llevó la máquina de gira, cargando a las multitudes para generar entusiasmo. Y cuando el “genio de Menlo Park” patentó la primera **bombilla eléctrica** en 1880, era difícil pronosticar la importancia que tendría la invención, pues la electrificación aún estaba a décadas de generalizarse en el mundo occidental.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Thomas_Edison_in_lab_with_%22Edison_Effect%22_bulbs._%287954cae0a1d04e8591c83a12e04b5d42%29.jpg/831px-Thomas_Edison_in_lab_with_%22Edison_Effect%22_bulbs._%287954cae0a1d04e8591c83a12e04b5d42%29.jpg)
 
