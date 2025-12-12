@@ -1,6 +1,6 @@
 ---
 title: 'Nochebuena: la flor navideña originaria de México'
-date: 2023-12-06 16:00:00
+date: 2025-12-08 16:00:00
 categories:
   - MEXICANISIMOS
 tags:
@@ -43,6 +43,6 @@ Eso sí: no todas son rojas. El rojo es el color más popular de la **Flor de No
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Euphorbia_pulcherrima_1_2016-05-13.jpg/1024px-Euphorbia_pulcherrima_1_2016-05-13.jpg)
 
-En México, cada **8 de diciembre** se celebra el **Día Nacional de la Nochebuena** y estos días de amor y fraternidad resultan idóneos para regalar una **nochebuena** en maceta a tus parientes y seres queridos. Eso sí: recuérdales que aunque parezca que se muere en febrero, en realidad es una planta que permanece latente o "dormida" durante los meses de calor, resucitando cuando empiezan los fríos.&nbsp;
+En México, cada **8 de diciembre** se celebra el **Día Nacional de la Nochebuena** y estos días de amor y fraternidad resultan idóneos para regalar una **nochebuena** en maceta a tus parientes y seres queridos. Eso sí: recuérdales que aunque parezca que se muere en febrero, en realidad es una planta que permanece latente o “dormida” durante los meses de calor, resucitando cuando empiezan los fríos.&nbsp;
 
 Sobre sus propiedades medicinales, hace muchos siglos se creía que beber&nbsp;**té de flor de Nochebuena** ayudaba a mitigar la inflamación de la matriz y la placenta pegada; y si se le agregaba buganvilia y gordolobo, era benéfico para tratar algunas afecciones del corazón y enfermedades respiratorias como gripe y tos. También hay mujeres que la toman en infusión para aumentar la producción de leche materna; como con cualquier otro remedio tradicional o de herbolaria, toma precauciones y no dejes de consultarlo con tu médico…
