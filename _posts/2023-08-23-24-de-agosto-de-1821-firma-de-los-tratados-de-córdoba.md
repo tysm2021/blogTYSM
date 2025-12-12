@@ -30,7 +30,7 @@ En la recta final de la Guerra de **Independencia** de **México**, el&nbsp;**24
 
 Echemos un vistazo a este importante acontecimiento que sentó las bases de la independencia de nuestra nación, la cual se consumó oficialmente un mes después, el 27 de septiembre de 1821, con la triunfal entrada a la Ciudad de México del Ejército Trigarante encabezado por Iturbide y Vicente Guerrero.
 
-**TE RECOMENDAMOS: [27 de septiembre de 1821: Consumación de la Independencia de México.](https://blog.tonoysumariachi.com/historia/2022/08/15/27-de-septiembre-de-1821-consumacion-de-la-independencia-de-mexico.html){: target="_blank" rel="noopener"}**
+**TE RECOMENDAMOS:** [**27 de septiembre de 1821: Consumación de la Independencia de México.**](https://blog.tonoysumariachi.com/historia/2022/08/15/27-de-septiembre-de-1821-consumacion-de-la-independencia-de-mexico.html){: target="_blank" rel="noopener"}
 
 Los Tratados de Córdoba, firmados el 24 de agosto de 1821 en Córdoba, Veracruz, fueron un acontecimiento crucial en la historia de México y marcaron el fin de la lucha por la independencia frente al dominio español. Estos tratados, también conocidos como la **Ratificación del Plan de Iguala**, representaron un punto de inflexión tras una larga y agotadora lucha entre insurgentes y realistas que se extendió por más de una década.
 
