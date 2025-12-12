@@ -2,7 +2,7 @@
 title: >-
   Tlalpujahua y Chignahuapan: los pueblos mexicanos donde se fabrican las
   esferas navideñas
-date: 2024-12-04 09:00:00
+date: 2025-12-10 09:00:00
 categories:
   - TURISMO
 tags:
