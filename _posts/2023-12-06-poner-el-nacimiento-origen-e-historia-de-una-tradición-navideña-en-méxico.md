@@ -1,6 +1,6 @@
 ---
 title: 'Poner el Nacimiento: origen e historia de una tradición navideña en México'
-date: 2023-12-06 10:00:00
+date: 2025-12-11 10:00:00
 categories:
   - HISTORIA
 tags:
@@ -26,7 +26,7 @@ summary: >-
 ---
 En la **cultura** popular mexicana se mezclan tradiciones de los pueblos prehispánicos con costumbres cristianas españolas, y en década recientes además se han incorporado y adoptado rituales como el montaje del **árbol** de **Navidad** y personajes como **Santa Claus**, que son de origen germánico y británico. Pero, ¿qué hay del **Nacimiento** o **Belén**, con la Sagrada Familia, los animales, los pastores y hasta el Diablo, que muchas familias montan estos días? ¿Qué nos dice la **historia** sobre el **origen** de esta tradición
 
-Sigue leyendo para enterarte de cómo eran al principio las representaciones del **nacimiento de Jesús**, a quién se le ocurrió hacerlo con "muñequitos" y cómo fue que esta costumbre llegó a México.
+Sigue leyendo para enterarte de cómo eran al principio las representaciones del **nacimiento de Jesús**, a quién se le ocurrió hacerlo con “muñequitos” y cómo fue que esta costumbre llegó a México.
 
 **TE RECOMENDAMOS: [Leyenda, origen y significado de las esferas de Navidad.](https://blog.tonoysumariachi.com/mundo/2023/11/29/leyenda-origen-y-significado-de-las-esferas-de-navidad.html){: target="_blank" rel="noopener"}**
 
