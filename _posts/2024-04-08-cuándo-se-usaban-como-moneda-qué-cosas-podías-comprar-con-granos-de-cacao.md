@@ -1,6 +1,6 @@
 ---
 title: Cuándo se usaban como moneda, ¿qué cosas podías comprar con granos de cacao?
-date: 2024-04-08 16:00:00
+date: 2026-07-20 11:10:00
 categories:
   - HISTORIA
 tags:
