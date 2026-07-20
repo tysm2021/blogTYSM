@@ -1,6 +1,6 @@
 ---
 title: ¿Cuáles son las playas más visitadas de México?
-date: 2025-12-04 00:00:00
+date: 2026-07-20 00:00:00
 categories:
   - TURISMO
 tags:
