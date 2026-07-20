@@ -1,6 +1,6 @@
 ---
 title: ¿Cuántos tipos o variedades de plátano se producen en México y cómo se llaman?
-date: 2024-04-23 13:00:00
+date: 2026-07-19 13:00:00
 categories:
   - GASTRONOMIA
 tags:
