@@ -1,6 +1,6 @@
 ---
 title: El bolero de México, patrimonio intangible de la Humanidad
-date: 2024-05-02 16:00:00
+date: 2026-07-20 11:00:00
 categories:
   - CULTURA
 tags:
