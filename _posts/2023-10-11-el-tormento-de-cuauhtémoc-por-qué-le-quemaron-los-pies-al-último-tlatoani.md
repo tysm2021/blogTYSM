@@ -1,6 +1,6 @@
 ---
 title: 'El tormento de Cuauhtémoc: ¿por qué le quemaron los pies al último tlatoani?'
-date: 2023-10-11 14:00:00
+date: 2026-07-19 14:00:00
 categories:
   - HISTORIA
 tags:
