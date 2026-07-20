@@ -1,6 +1,6 @@
 ---
 title: ¿Es verdad que debemos tomar dos litros de agua al día?
-date: 2024-02-15 12:00:00
+date: 2026-07-18 12:00:00
 categories:
   - GASTRONOMIA
 tags:
