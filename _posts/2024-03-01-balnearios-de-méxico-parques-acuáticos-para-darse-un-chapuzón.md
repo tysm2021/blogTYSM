@@ -1,6 +1,6 @@
 ---
 title: 'Balnearios de México: parques acuáticos para darse un chapuzón'
-date: 2024-03-01 16:00:00
+date: 2026-07-19 16:00:00
 categories:
   - TURISMO
 tags:
