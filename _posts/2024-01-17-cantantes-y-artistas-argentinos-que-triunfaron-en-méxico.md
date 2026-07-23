@@ -1,6 +1,6 @@
 ---
 title: Cantantes y artistas argentinos que triunfaron en México
-date: 2024-01-17 10:00:00
+date: 2026-07-23 10:00:00
 categories:
   - MEXICANISIMOS
 tags:
