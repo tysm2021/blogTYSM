@@ -1,6 +1,6 @@
 ---
 title: Los volcanes más famosos y destructivos del mundo
-date: 2025-07-31 09:00:00
+date: 2026-07-23 09:00:00
 categories:
   - MUNDO
 tags:
