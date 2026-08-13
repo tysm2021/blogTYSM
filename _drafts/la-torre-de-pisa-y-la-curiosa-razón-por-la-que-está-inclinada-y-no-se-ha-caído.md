@@ -2,7 +2,7 @@
 title: >-
   La Torre de Pisa y la curiosa razón por la que está inclinada (y no se ha
   caído)
-date: 2023-09-19 16:00:00
+date: 2026-08-13 16:00:00
 categories:
   - MUNDO
 tags:
