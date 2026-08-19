@@ -1,6 +1,6 @@
 ---
 title: '20 de agosto de 1847: resumen de la Batalla de Churubusco'
-date: 2026-08-19 07:00:00
+date: 2026-08-19 08:00:00
 categories:
   - HISTORIA
 tags:
