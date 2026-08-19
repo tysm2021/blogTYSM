@@ -1,6 +1,6 @@
 ---
 title: '20 de agosto de 1847: resumen de la Batalla de Churubusco'
-date: 2025-08-19 15:00:00
+date: 2026-08-19 07:00:00
 categories:
   - HISTORIA
 tags:
@@ -38,7 +38,7 @@ Las divisiones estadounidenses, con más de 600 hombres y algunas piezas de arti
 
 Después de tres horas de encarnizados enfrentamientos, al **Ejército Mexicano** se le agotaron las municiones, amén de que varias granadas enemigas cayeron sobre un depósito de municiones, lo cual provocó un fuerte incendio que derivó en la pérdida de la reserva de cartuchos, además de lesionar a muchos soldados e incluso al **general Anaya**.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Batalla_de_Churubusco-19_y_20_de_agosto_de_1847.jpg/1024px-Batalla_de_Churubusco-19_y_20_de_agosto_de_1847.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Nebel_Mexican_War_07_Battle_of_Churubusco_%28cropped%29.jpg/1280px-Nebel_Mexican_War_07_Battle_of_Churubusco_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail)
 
 Los generales Anaya y Manuel José Rincón solicitaron más municiones para continuar en la lucha, pero las que les enviaron resultaron inútiles pues eran de calibre diferente a las requeridas, de modo que los mexicanos y sus aliados, los desertores irlandeses, terminaron luchando con sus puños y con las bayonetas de sus fusiles. Al final del día, los **invasores** tomaron la posición e izaron la bandera de su país en uno de los muros del **Convento de Churubusco**.
 
