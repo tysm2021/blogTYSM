@@ -30,11 +30,11 @@ A lo largo y ancho de nuestro hermoso país, existen todo tipo de **destinos tur
 
 A continuación, te presentamos algunas de las **clases de turista** o de **viajero** más comunes que visitan y recorren **México**, a ver con cuál de ellas te indentificas.
 
-**TE RECOMENDAMOS: [Tips para viajar (rápido y seguro) en autobús por México.](https://blog.tonoysumariachi.com/turismo/2022/06/20/tips-para-viajar-seguro-y-barato-en-autobus-por-mexico.html){: target="_blank" rel="noopener"}**
+**TE RECOMENDAMOS:** [**Tips para viajar (rápido y seguro) en autobús por México.**](https://blog.tonoysumariachi.com/turismo/2022/06/20/tips-para-viajar-seguro-y-barato-en-autobus-por-mexico.html){: target="_blank" rel="noopener"}
 
 ## Pueblero
 
-Lo tuyo, lo tuyo… son las poblaciones pequeñas, pintorescas y acogedoras con iglesias bonitas, encanto discreto y calles empedradas. Te encanta "**pueblear**" por México y quizá conozcas varios de los más de cien **Pueblos Mágicos** que existen en el país. Quizá en el pasado hayas visitado a tíos o abuelos en sus ranchos o sus pueblos, y la añoranza por el olor a anafre, a leña quemada y al aire puro de los cerros es lo que te motiva a turistear por el país.
+Lo tuyo, lo tuyo… son las poblaciones pequeñas, pintorescas y acogedoras con iglesias bonitas, encanto discreto y calles empedradas. Te encanta “**pueblear**” por México y quizá conozcas varios de los más de cien **Pueblos Mágicos** que existen en el país. Quizá en el pasado hayas visitado a tíos o abuelos en sus ranchos o sus pueblos, y la añoranza por el olor a anafre, a leña quemada y al aire puro de los cerros es lo que te motiva a turistear por el país.
 
 **Destinos recomendados:** Pueblos Mágicos como Huasca de Ocampo, Hgo.; Tepoztlán, Mor., Malinalco, Edo. de Méx.; **Pátzcuaro**, Mich,; Mocorito, Sin. o Creel, Chih.
 
@@ -64,7 +64,7 @@ Dicen los que saben que la comida mexicana hay que comerla en su lugar de origen
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Barbacoa_%28en_Hidalgo%29.JPG/1024px-Barbacoa_%28en_Hidalgo%29.JPG)
 
-**TE RECOMENDAMOS: [Cinco consejos para viajar sin gastar mucho.](https://blog.tonoysumariachi.com/turismo/2022/10/12/cinco-consejos-para-viajar-sin-gastar-mucho.html){: target="_blank" rel="noopener"}**
+**TE RECOMENDAMOS:** [**Cinco consejos para viajar sin gastar mucho.**](https://blog.tonoysumariachi.com/turismo/2022/10/12/cinco-consejos-para-viajar-sin-gastar-mucho.html){: target="_blank" rel="noopener"}
 
 ## Ecológico
 
@@ -92,6 +92,6 @@ Este es uno de los tipos de **turista** más típicos y reconocibles. Lo que dis
 
 ## Local
 
-Tú no te complicas la vida y aprovechas lo que la vida pone a tu alcance, pues en lugar de gastar, cansarte y estresarte con maletas, boletos y todo lo que implica un viaje, a ti te basta con un par de tenis o zapatos cómodos, una gorra, lentes oscuros y una mochila pequeña para disfrutar de tu propia **ciudad** o población, la cual conoces "como la palma de tu mano" pero aún así no dejas de disfrutarla, de maravillarte con ella y de descubrirle rincones nuevos.
+Tú no te complicas la vida y aprovechas lo que la vida pone a tu alcance, pues en lugar de gastar, cansarte y estresarte con maletas, boletos y todo lo que implica un viaje, a ti te basta con un par de tenis o zapatos cómodos, una gorra, lentes oscuros y una mochila pequeña para disfrutar de tu propia **ciudad** o población, la cual conoces “como la palma de tu mano” pero aún así no dejas de disfrutarla, de maravillarte con ella y de descubrirle rincones nuevos.
 
 Y tú, ¿qué tipo de turista eres?
