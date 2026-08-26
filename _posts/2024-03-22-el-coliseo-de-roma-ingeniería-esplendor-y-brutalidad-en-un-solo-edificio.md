@@ -1,6 +1,6 @@
 ---
 title: 'El Coliseo de Roma: ingeniería, esplendor y brutalidad en un solo edificio'
-date: 2026-08-26 18:00:00
+date: 2026-08-25 18:00:00
 categories:
   - MUNDO
 tags:
