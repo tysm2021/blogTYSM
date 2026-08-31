@@ -19,7 +19,7 @@ article_header:
     src: /uploads/annie-v-qnzfzzgxaii-unsplash.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/annie-v-qnzfzzgxaii-unsplash.jpg
 show_author_profile: false
 comment: false
 summary: Desde mediados del siglo XX, una serie de artistas y cantantes
