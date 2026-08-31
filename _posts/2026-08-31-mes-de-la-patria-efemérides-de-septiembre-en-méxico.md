@@ -27,7 +27,9 @@ summary: Desde mediados del siglo XX, una serie de artistas y cantantes
 ---
 En **México**, el mes de **septiembre** se considera el "**Mes de la Patria**" por la gran cantidad de **efemérides** relacionadas con la Independencia y la historia del país. De entrada, la noche del 15 tiene lugar la ceremonia de "El Grito", que sin más consideraciones es la Fiesta Nacional mexicana por excelencia. Además, el 27 de **septiembre** se consumó la Independencia de México y hubo otros eventos importantes.
 
-Para que no te pierdas de nada, acá te dejamos
+Para que no te pierdas de nada, acá te dejamos la **lista completa** de **efemérides** del mes de **septiembre** en **México**. Algunas son fechas históricas y otras corresponden a Días Mundiales o Días Nacionales.
+
+**TE RECOMENDAMOS:** [**Miguel Hidalgo y Costilla: cinco datos que no sabías del "Padre de la Patria".**](https://blog.tonoysumariachi.com/historia/2024/05/08/miguel-hidalgo-y-costilla-cinco-datos-que-no-sab%C3%ADas-del-padre-de-la-patria.html)
 
 * 4 de septiembre de 1969: Fue inaugurada la Línea 1 del Sistema de Transporte Colectivo Metro, en la Ciudad de México.
 * 5 de septiembre: Día Internacional de la Mujer Indígena.
