@@ -1,5 +1,5 @@
 ---
-title: 'Mes de la Patria: efemérides de septiembre en México'
+title: 'Mes de la Patria: lista completa de efemérides de septiembre en México'
 date: 2026-08-31T17:00:00Z
 categories:
   - HISTORIA
@@ -25,6 +25,10 @@ comment: false
 summary: Desde mediados del siglo XX, una serie de artistas y cantantes
   españoles emprendieron la "reconquista" del público mexicano
 ---
+En **México**, el mes de **septiembre** se considera el "**Mes de la Patria**" por la gran cantidad de **efemérides** relacionadas con la Independencia y la historia del país. De entrada, la noche del 15 tiene lugar la ceremonia de "El Grito", que sin más consideraciones es la Fiesta Nacional mexicana por excelencia. Además, el 27 de **septiembre** se consumó la Independencia de México y hubo otros eventos importantes.
+
+Para que no te pierdas de nada, acá te dejamos
+
 * 4 de septiembre de 1969: Fue inaugurada la Línea 1 del Sistema de Transporte Colectivo Metro, en la Ciudad de México.
 * 5 de septiembre: Día Internacional de la Mujer Indígena.
 * 8 de septiembre: Día Internacional del Periodista.
