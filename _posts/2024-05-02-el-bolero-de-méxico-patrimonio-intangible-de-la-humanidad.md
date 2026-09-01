@@ -1,6 +1,6 @@
 ---
 title: El bolero de México, patrimonio intangible de la Humanidad
-date: 2026-07-20 11:00:00
+date: 2026-08-28T11:00:00Z
 categories:
   - CULTURA
 tags:
@@ -22,9 +22,8 @@ author: Redacción TYSM
 cover: /uploads/bolero-1.jpg
 show_author_profile: true
 comment: false
-summary: >-
-  ¿Sabías que una de las manifestaciones musicales más románticas del siglo XX
-  en México es ya Patrimonio de la Humanidad? Aquí te contamos sobre la
+summary: ¿Sabías que una de las manifestaciones musicales más románticas del
+  siglo XX en México es ya Patrimonio de la Humanidad? Aquí te contamos sobre la
   resolución de la UNESCO.
 ---
 Es un **género musical** que llegó a **México** importado de Cuba, pero que tuvo un gran arraigo popular con compositores como **Agustín Lara** y **Álvaro Carrillo**, intérpretes como los **tríos** **Los Panchos**, **Los Diamantes** y **Los Tres Ases**, y con otros cantantes de la talla de Pedro Infante, Javier Solís y Lucho Gatica. Hablamos del **bolero de México**, cuya importancia cultural e histórica ha sido reconocida por la **UNESCO**, que en **2023** lo nombró **Patrimonio Intangible de la Humanidad**.
