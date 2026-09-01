@@ -1,12 +1,12 @@
 ---
 title: 'Premios Nobel mexicanos: cuántos y quiénes son '
-date: 2022-04-22 00:00:00 UTC
+date: 2026-09-01T15:00:00Z
 categories:
-- CULTURA
+  - CULTURA
 tags:
-- cultura
-- premios
-- mexico
+  - cultura
+  - premios
+  - mexico
 layout: article
 excerpt_separator: <!--more-->
 mode: immersive
@@ -18,18 +18,12 @@ article_header:
     src: /images/2022-04-22-nobel_prize_medal_in_chemistry.jpeg
 sharing: true
 author: Francisco Massé
-cover: "/images/2022-04-22-nobel_prize_medal_in_chemistry.jpeg"
+cover: /images/2022-04-22-nobel_prize_medal_in_chemistry.jpeg
 show_author_profile: false
 comment: false
-summary: "¿Sabes cuántos mexicanos han ganado el premio creado por Alfred Nobel? Aquí
-  sabrás quiénes son."
+summary: ¿Sabes cuántos mexicanos han ganado el premio creado por Alfred Nobel?
+  Aquí sabrás quiénes son.
 ---
-
-
-
-
-
-
 El **Premio Nobel** es un galardón internacional que cada año distingue a personajes destacados en seis categorías: **Física, Química, Medicina, Literatura, Paz y Economía**. Fue establecido en 1895 como última voluntad del industrial sueco **Alfred Nobel**, inventor de la dinamita. Y uno se pregunta: **¿cuántos mexicanos lo han ganado y quiénes son?**
 
 Ahora te presentaremos a los paisanos que se han hecho acreedores a este premio, cuya idea es premiar a quienes hacen “el mayor beneficio a la humanidad”, luego de que su creador arrastró durante años una gran culpa por el daño y las muertes que ocasionó indirectamente con sus explosivos inventos.
@@ -52,13 +46,13 @@ El primer **mexicano** en ser galardonado con el **Nobel** fue este diplomático
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e8/Octavio_Paz_1984.jpg)
 
-Este literato y diplomático nació en la Ciudad de México en 1914. Durante una estancia en Francia escribió _El laberinto de la soledad_, un ensayo en el que descifra la identidad y la idiosincrasia del mexicano. Por el gran número de libros que escribió —básicamente, poesía y ensayo— y por su labor dentro de la escena literaria mundial fue que la Academia Sueca le entregó el codiciado premio.
+Este literato y diplomático nació en la Ciudad de México en 1914. Durante una estancia en Francia escribió *El laberinto de la soledad*, un ensayo en el que descifra la identidad y la idiosincrasia del mexicano. Por el gran número de libros que escribió —básicamente, poesía y ensayo— y por su labor dentro de la escena literaria mundial fue que la Academia Sueca le entregó el codiciado premio.
 
 ## José Mario Molina Henríquez
 
 ### Premio Nobel de Química en 1995
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mario_Molina_1c389_8385_%28cropped%29.jpg/897px-Mario_Molina_1c389_8385_%28cropped%29.jpg)
+![](https://quimica.unam.mx/wp-content/uploads/2020/10/mario-molina-destacada.jpg)
 
 Por último, está este científico nacido en 1943, también en la Ciudad de México. Gracias a su trabajo, se pudieron determinar las causas del agujero en la capa de ozono del Antártico, ya que dilucidó que los clorofluorocarbonos (CFC) y otros gases contenidos en muchos aerosoles eran los responsables de esta peligrosa anomalía en la atmósfera terrestre. El Premio lo compartió con el estadounidenses Sherwood Rowland y con el holandés Paul J. Crutzen.
 
