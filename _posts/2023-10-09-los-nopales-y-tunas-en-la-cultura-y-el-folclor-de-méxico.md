@@ -1,6 +1,6 @@
 ---
 title: Los nopales y tunas en la cultura y el folclor de México
-date: 2023-10-09 14:00:00
+date: 2026-08-23T14:00:00Z
 categories:
   - MEXICANISIMOS
 tags:
@@ -22,9 +22,8 @@ author: Redacción TYSM
 cover: /uploads/nopal-con-tunas-en-teotihuacan.jpeg
 show_author_profile: false
 comment: false
-summary: >-
-  Su verde y espinosa figura abunda en el paisaje campirano del centro y norte
-  de México, y forman parte central de nuestra cultura e historia.
+summary: Su verde y espinosa figura abunda en el paisaje campirano del centro y
+  norte de México, y forman parte central de nuestra cultura e historia.
 ---
 Los **nopales** y otras **cactáceas** forman parte de la flora típica del centro y del norte de **México**. Su importancia dentro del cultivo y la alimentación de millones de mexicanos se ve reflejada en las múltiples menciones y representaciones que del nopal, las tunas y hasta sus espinas se hacen dentro del arte, los símbolos nacionales, los refranes y las expresiones populares de nuestro querido país.
 
