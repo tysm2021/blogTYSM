@@ -17,7 +17,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /images/2022-09-05-1280px-pozole-1.jpg
+    src: /uploads/pozole-rojo-image-1464x920-c.jpg
 sharing: true
 summary: ¿Sabías que, en su origen prehispánico, nuestro delicioso pozole
   incluía entre sus ingredientes la carne humana?
