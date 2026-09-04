@@ -1,13 +1,13 @@
 ---
 title: El sangriento origen de nuestro querido pozole
-date: 2022-09-05 00:00:00 UTC
+date: 2026-09-04T19:00:00Z
 categories:
-- HISTORIA
+  - HISTORIA
 tags:
-- historia
-- comida
-- platillos
-- prehispanico
+  - historia
+  - comida
+  - platillos
+  - prehispanico
 author: Redacción TYSM
 layout: article
 excerpt_separator: <!--more-->
@@ -19,19 +19,13 @@ article_header:
   image:
     src: /images/2022-09-05-1280px-pozole-1.jpg
 sharing: true
-summary: "¿Sabías que, en su origen prehispánico, nuestro delicioso pozole incluía
-  entre sus ingredientes la carne humana?"
-cover: "/images/2022-09-05-1280px-pozole.jpg"
+summary: ¿Sabías que, en su origen prehispánico, nuestro delicioso pozole
+  incluía entre sus ingredientes la carne humana?
+cover: /uploads/pozole-rojo-image-1464x920-c.jpg
 show_author_profile: false
 comment: false
 _template: plantilla
 ---
-
-
-
-
-
-
 Llegando el mes de septiembre, millones de mexicanos empiezan a saborearse el clásico **pozole**, que tradicionalmente se elabora con **maíz** y **carne de cerdo**, y que se adereza con chile, limón, orégano, lechuga, rábano y cebolla, acompañado con sus tostadas. Pero, ¿sabías que, en principio, nuestros antepasados **prehispánicos**, en lugar de carne de **puerco**, lo preparaban con **carne humana**?
 
 Enseguida te platicamos un poco sobre el sangriento origen del mexicanísimo **pozole**, un platillo impregnado de tradición y que está relacionado con las prácticas religiosas del pasado prehispánico, que entre otras cosas incluía el **sacrificio humano** y la ingestión de **carne humana.**
