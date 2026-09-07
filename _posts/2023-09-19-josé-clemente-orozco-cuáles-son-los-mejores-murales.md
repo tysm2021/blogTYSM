@@ -60,7 +60,7 @@ Este mural es una dura crítica contra la guerra, la industrialización y las po
 
 **Pomona College; Claremont, Cal.**
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Prometheus_%281930%29_de_Jos%C3%A9_Clemente_Orozco_en_Pomona_College.jpg/1024px-Prometheus_%281930%29_de_Jos%C3%A9_Clemente_Orozco_en_Pomona_College.jpg)
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Prometheus_%281930%29_de_Jos%C3%A9_Clemente_Orozco_en_Pomona_College.jpg/1280px-Prometheus_%281930%29_de_Jos%C3%A9_Clemente_Orozco_en_Pomona_College.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail)
 
 Este **mural**, que representa al titán de la mitología griega robando el fuego para entregárselo a los hombres, fue comisionado a **Orozco** por este colegio de artes liberales en Estados Unidos. El jalisciense se trasladó a California y vivió en el colegio durante los dos meses que duró la obra. Hasta hoy, el mural preside el refectorio —algo así como la cafetería— de la institución, cuyo edificio fue diseñado por el arquitecto Sumner Spaulding, mismo que comisionó la obra.
 
@@ -68,12 +68,6 @@ Este **mural**, que representa al titán de la mitología griega robando el fueg
 
 **Casa de los Azulejos; CDMX**
 
-> OMNICIENCIA<br />Mural ubicado en el cubo de la escalera, pintado por José Clemente Orozco en 1925. [pic.twitter.com/H3AAoga3Zy](http://t.co/H3AAoga3Zy)
-> {: lang="es" dir="ltr"}
->
-> — FMX Festival del Centro Histórico (@FestivalMexico) [March 29, 2015](https://twitter.com/FestivalMexico/status/582235980729438209?ref_src=twsrc%5Etfw)
-{: .twitter-tweet}
-
-
+![](https://a.com.gt/log/imgs/2023/12/omnisciencia-jose-clemente-orozco-1925-casa-de-los-azulejos-mexico.jpg)
 
 Este **mural** lo conocen todos quienes hayan visitado el afamado restaurante de la tienda de los búhos que se ubica en esta casa histórica, pues es una vista obligada cuando uno se dirige a los sanitarios del establecimiento. Fue una de las primeras obras murales de Orozco y presenta dos figuras femeninas y una masculina, que simboliza a una de las Tres Gracias de la antigüedad, que son custodiados por dos gigantes.
