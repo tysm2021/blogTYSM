@@ -19,7 +19,7 @@ article_header:
     src: /uploads/chilesleyenda.png
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/chilesleyenda.png
 show_author_profile: false
 comment: false
 summary: En años recientes, se han popularizado algunas leyendas supuestamente
