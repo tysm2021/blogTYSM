@@ -29,7 +29,7 @@ Hay edificios que simplemente se construyen y otros que terminan convirtiéndose
 
 La **Catedral de Nuestra Señora de París** —su nombre en español— comenzó a construirse en el siglo XII, cuando la capital francesa era muy distinta de la ciudad que conocemos hoy, y desde entonces ha tenido una vida bastante movida. Ha sido transformada, dañada, restaurada, admirada y, en algún momento, incluso estuvo cerca de convertirse en una ruina. Para conocer un poco mejor a esta impresionante construcción gótica, vamos a descubrir **cinco cosas que quizá no sabías de Notre-Dame**.
 
-&nbsp;
+&nbsp;**TE RECOMENDAMOS:** [**La Torre de Pisa y la curiosa razón por la que está inclinada (y no se ha caído).**](https://blog.tonoysumariachi.com/mundo/2026/08/13/la-torre-de-pisa-y-la-curiosa-raz%C3%B3n-por-la-que-est%C3%A1-inclinada-y-no-se-ha-ca%C3%ADdo.html)
 
 **1\. Construirla fue un proyecto para varias generaciones**
 
