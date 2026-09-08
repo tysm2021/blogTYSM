@@ -1,6 +1,6 @@
 ---
 title: Cinco secretos que esconde la Catedral de Notre-Dame de París
-date: 2026-09-08T07:00:00Z
+date: 2026-09-08T06:00:00Z
 categories:
   - MUNDO
 tags:
