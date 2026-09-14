@@ -1,13 +1,13 @@
 ---
 title: 'Grito de Dolores: historia de la celebración más patriótica de México'
-date: 2022-07-21 00:00:00 UTC
+date: 2026-09-14T07:00:00Z
 categories:
-- CULTURA
+  - CULTURA
 tags:
-- historia
-- folclor
-- celebraciones
-- independencia
+  - historia
+  - folclor
+  - celebraciones
+  - independencia
 author: Redacción TYSM
 layout: article
 excerpt_separator: <!--more-->
@@ -19,19 +19,13 @@ article_header:
   image:
     src: /images/2022-07-21-grito.jpeg
 sharing: true
-summary: "¿Desde cuándo es que el Presidente de la República da el Grito cada 15 de
-  septiembre?"
-cover: "/images/2022-07-21-grito.jpeg"
+summary: ¿Desde cuándo es que el Presidente de la República da el Grito cada 15
+  de septiembre?
+cover: /images/2022-07-21-grito.jpeg
 show_author_profile: false
 comment: false
 _template: plantilla
 ---
-
-
-
-
-
-
 Todos los mexicanos sabemos que, la madrugada del **16 de septiembre de 1810**, el cura **Miguel Hidalgo y Costilla** dio "**El Grito**" en el poblado de **Dolores** para así llamar al pueblo de **México** a luchar por su **Independencia**. Pero, ¿cuál es el **origen** del "**Grito de Dolores**" que cada **15 de septiembre** da el Presidente de la República para recordar esta página de la **historia**?
 
 Examinemos juntos el recorrido a través del tiempo desde aquella madrugada de 1810 hasta hoy, cuando el Presidente en turno da "**El Grito**" desde el balcón presidencial de Palacio Nacional para iniciar la Fiesta Patria más importante del año.
