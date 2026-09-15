@@ -1,14 +1,14 @@
 ---
-title: "¿Qué significan las estrellas de los hoteles en México?"
-date: 2022-07-27 00:00:00 UTC
+title: ¿Qué significan las estrellas de los hoteles en México?
+date: 2026-09-15T10:00:00Z
 categories:
-- TURISMO
+  - TURISMO
 tags:
-- turismo
-- hoteles
-- playas
-- ciudades
-- pueblos
+  - turismo
+  - hoteles
+  - playas
+  - ciudades
+  - pueblos
 author: Redacción TYSM
 layout: article
 excerpt_separator: <!--more-->
@@ -20,19 +20,13 @@ article_header:
   image:
     src: /images/2022-07-27-cancun_aerial_photo_by_safa.jpeg
 sharing: true
-summary: Una, dos o hasta cinco estrellas, ¿qué significa este sistema de clasificación
-  y quién decide cuántas estrellas tiene cada hotel?
-cover: "/images/2022-07-27-cancun_aerial_photo_by_safa.jpeg"
+summary: Una, dos o hasta cinco estrellas, ¿qué significa este sistema de
+  clasificación y quién decide cuántas estrellas tiene cada hotel?
+cover: /images/2022-07-27-cancun_aerial_photo_by_safa.jpeg
 show_author_profile: false
 comment: false
 _template: plantilla
 ---
-
-
-
-
-
-
 Cuando estamos planeando un viaje y a la hora de hacer los presupuestos, mucho importa si el **hotel** que elegimos es de **una estrella**, de **dos**, **tres**, **cuatro** o hasta de **cinco** **estrellas**, pues normalmente a mejor es el **servicio** que ofrece más alta es su **tarifa**. Pero, ¿**qué significa** exactamente este **sistema de clasificación por estrellas**? Y más aún, ¿**quién** o qué autoridad **decide** de **cuántas estrellas** es un **hotel** en **México**?
 
 A diferencia de lo que sucede en otros países, en nuestro país la actividad turística y el servicio que ofrece la industria **hotelera** está regulado por la **Secretaría de Turismo** (**Sectur**), la cual establece el criterio de **clasificación**.
