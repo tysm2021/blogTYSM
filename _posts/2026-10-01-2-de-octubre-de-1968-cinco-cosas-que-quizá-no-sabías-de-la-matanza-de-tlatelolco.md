@@ -1,7 +1,7 @@
 ---
 title: '2 de octubre de 1968: cinco cosas que quizá no sabías de la Matanza de
   Tlatelolco'
-date: 2026-10-01T07:00:00Z
+date: 2026-09-29T16:00:00Z
 categories:
   - HISTORIA
 tags:
