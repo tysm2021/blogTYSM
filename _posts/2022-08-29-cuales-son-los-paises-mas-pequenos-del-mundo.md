@@ -28,7 +28,7 @@ _template: plantilla
 ---
 En el mundo actual, dividido entre **países** y sus fronteras, al mirar un mapa nos damos cuenta de que hay Estados enormes como Rusia, Canadá, los Estados Unidos de América, Brasil, China o la India. Pero, en contraste, hay otros que miden apenas unos kilómetros cuadrados pero son estados libres; entonces, ¿**cuáles son los países más pequeños del mundo**?
 
-A continuación, te decimos cómo se llaman y **cuánto miden** estos "micro países" que cuentan con su propia bandera, su moneda y todas las instituciones que los hacen un **estado** libre, además del reconocimiento del resto de los **países** del mundo —descartamos de esta lista a los territorios, regiones o dependencias de otros **países**.
+A continuación, te decimos cómo se llaman y **cuánto miden** estos “micro países” que cuentan con su propia bandera, su moneda y todas las instituciones que los hacen un **estado** libre, además del reconocimiento del resto de los **países** del mundo —descartamos de esta lista a los territorios, regiones o dependencias de otros **países**.
 
 **TE RECOMENDAMOS:** [**¿Cuáles son los países con más hablantes de español?**](https://blog.tonoysumariachi.com/mundo/2022/07/22/cuales-son-los-paises-con-mas-hablantes-de-espanol.html)
 
@@ -40,13 +40,13 @@ Este pequeño **país** europeo se encuentra en medio de los Alpes, entre Austri
 
 ## San Marino
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Fortress_of_Guaita_2013-09-19.jpg/1024px-Fortress_of_Guaita_2013-09-19.jpg)
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/View_of_Mount_Titano_-_San_Marino.jpg/1280px-View_of_Mount_Titano_-_San_Marino.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail)
 
 Oficialmente llamado República de **San Marino**, este país está enclavado en los Montes Apeninos, rodeado por todos lados por Italia. Su capital también se llama **San Marino**, y la mayor parte de su territorio se encuentra en las laderas del Monte Titano. Su superficie es de 61.2 kilómetros cuadrados y se encuentra 10 km del Mar Adriático, pero no tiene salida al mar. Tiene una población de 33,500 sanmarinenses, cuya principal actividad es el turismo, y como obtuvo el reconocimiento de su independencia en el año 1631, oficialmente es el Estado soberano más antiguo del mundo, ¿qué tal?
 
 ## Tuvalu
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tuvalu_Funafuti_atoll_beach.jpg/1024px-Tuvalu_Funafuti_atoll_beach.jpg)
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Tuvalu_Funafuti_atoll_beach.jpg/1280px-Tuvalu_Funafuti_atoll_beach.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail)
 
 ¿Habías oído hablar de **Tuvalu**? Nosotros tampoco, pero se trata de un país insular —es decir, de una isla que se constituye en **Estado** independiente— de apenas 26 kilómetros cuadrados de superficie y con una población de 11,900 personas, cifra que lo convierte en el segundo **país** con la menor población del mundo, sólo detrás de la Ciudad del Vaticano. Se encuentra en el continente de Oceanía, en la región polinesia, a unos 4 mil kilómetros de distancia de Australia y de Hawai, consta de cuatro arrecifes de coral y cinco atolones, y su ciudad capital se llama **Funafuti**. Por su condición geográfica, la economía de Tuvalu es básicamente para el auto consumo, así que gran parte de su pequeña población se dedica a la pesa y la agricultura.
 
@@ -62,10 +62,10 @@ Otro pequeño país insular que se halla en el centro del Océano Pacífico, en 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vista_de_M%C3%B3naco%2C_2016-06-23%2C_DD_12.jpg/1024px-Vista_de_M%C3%B3naco%2C_2016-06-23%2C_DD_12.jpg)
 
-El Principado de **Mónaco** es una ciudad estado de apenas **2.02 kilómetros cuadrados**, ubicado muy cerca de la frontera entre Francia e Italia, entre los Alpes franceses y el Mar Mediterráneo, en la Riviera Francesa. Se trata de una monarquía constitucional que en algún tiempo fue muy famosa por su familia real, pues el príncipe Rainero contrajo nupcias con la famosa actriz estadounidense Grace Kelly, y tuvieron tres hijos que se convirtieron en celebridades: Alberto —quien ahora es el Príncipe Soberano—, Carolina y Estefanía. Tiene una población de 38 mil habitantes, los cuales tienen uno de los mejores niveles de vida del mundo.
+El Principado de **Mónaco** es una ciudad estado de apenas **2\.02 kilómetros cuadrados**, ubicado muy cerca de la frontera entre Francia e Italia, entre los Alpes franceses y el Mar Mediterráneo, en la Riviera Francesa. Se trata de una monarquía constitucional que en algún tiempo fue muy famosa por su familia real, pues el príncipe Rainero contrajo nupcias con la famosa actriz estadounidense Grace Kelly, y tuvieron tres hijos que se convirtieron en celebridades: Alberto —quien ahora es el Príncipe Soberano—, Carolina y Estefanía. Tiene una población de 38 mil habitantes, los cuales tienen uno de los mejores niveles de vida del mundo.
 
 ## Ciudad del Vaticano
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Vatikanische_Gaerten_Museen_Rom.jpg/1024px-Vatikanische_Gaerten_Museen_Rom.jpg)
 
-Finalmente, llegamos al país más pequeño del mundo, pues como su nombre lo indica se trata sólo de una ciudad adyacente a Roma, donde se encuentra la Basílica de San Pedro y la Sede Papal, pues el jefe de estado es el Papa de la Iglesia Católica. Su superficie es minúscula, apenas **0.44 kilómetros cuadrados**, y su población es de sólo 800 habitantes, la mayor parte de los cuales cumplen alguna función religiosa católica para el estado del **Vaticano**. Además de la ya mencionada Basílica, en este pequeño país también se encuentran los Museos Vaticanos, que albergan algunos de los más grandes tesoros de la humanidad.
+Finalmente, llegamos al país más pequeño del mundo, pues como su nombre lo indica se trata sólo de una ciudad adyacente a Roma, donde se encuentra la Basílica de San Pedro y la Sede Papal, pues el jefe de estado es el Papa de la Iglesia Católica. Su superficie es minúscula, apenas **0\.44 kilómetros cuadrados**, y su población es de sólo 800 habitantes, la mayor parte de los cuales cumplen alguna función religiosa católica para el estado del **Vaticano**. Además de la ya mencionada Basílica, en este pequeño país también se encuentran los Museos Vaticanos, que albergan algunos de los más grandes tesoros de la humanidad.
