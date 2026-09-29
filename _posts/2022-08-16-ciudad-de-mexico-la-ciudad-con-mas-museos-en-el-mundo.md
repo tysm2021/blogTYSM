@@ -20,7 +20,7 @@ article_header:
 sharing: true
 summary: 'En años recientes ha corrido la versión de que la CdMx es la ciudad
   con más museos en el mundo: aquí te contamos si esto es cierto…'
-cover: /images/2022-08-16-1280px-templo_mayor_2015_207.jpeg
+cover: /uploads/33-ec-bg-img1.jpg
 show_author_profile: false
 comment: false
 _template: plantilla
