@@ -51,12 +51,14 @@ Entre la multitud había integrantes del **Batallón Olimpia**, un grupo militar
 
 Las bengalas lanzadas desde un helicóptero fueron utilizadas como señal. El Batallón Olimpia tenía como objetivo llegar al edificio Chihuahua y detener a dirigentes del movimiento, pero la operación terminó en un tiroteo generalizado.
 
+![](https://cloudfront-us-east-1.images.arcpublishing.com/eluniversal/5MNWRBKON5DPNCW4ZR747ZNCVM.jpg)
+
 ### 4\. Todavía no existe una cifra definitiva de víctimas
 
 Durante décadas circularon cifras muy distintas sobre las personas asesinadas. Las versiones oficiales de la época hablaron de unas cuantas decenas, mientras que otras investigaciones y testimonios plantearon números mucho mayores. La propia CNDH ha señalado que no existe certeza completa sobre el número de víctimas. Lo que sí está documentado es que hubo muertos, heridos y cientos de detenidos, además de una intervención militar en los edificios de la zona.
 
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/TlatelolcoPlazaMonument.JPG/960px-TlatelolcoPlazaMonument.JPG?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail)
+
 ### 5\. Diez días después comenzaron los Juegos Olímpicos
 
-El **12 de octubre de 1968**, apenas diez días después de Tlatelolco, se inauguraron los Juegos Olímpicos de México en el Estadio Olímpico Universitario. México recibía la primera Olimpiada celebrada en América Latina mientras el país seguía sacudido por lo ocurrido.
-
-Los Juegos tuvieron además varios hechos inéditos, entre ellos el primer control antidopaje olímpico y la primera participación de una mujer en el encendido del fuego olímpico. La inauguración estuvo a cargo de Enriqueta Basilio, el 12 de octubre.
+El **12 de octubre de 1968**, apenas diez días después de Tlatelolco, se inauguraron los Juegos Olímpicos de México en el Estadio Olímpico Universitario. México recibía la primera Olimpiada celebrada en América Latina mientras el país seguía sacudido por lo ocurrido. Los Juegos tuvieron además varios hechos inéditos, entre ellos el primer control antidopaje olímpico y la primera participación de una mujer en el encendido del fuego olímpico. La inauguración estuvo a cargo de Enriqueta Basilio, el 12 de octubre.
