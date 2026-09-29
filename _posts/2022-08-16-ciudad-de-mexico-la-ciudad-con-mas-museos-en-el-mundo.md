@@ -33,14 +33,16 @@ Pero, ¿qué tan cierta es esta afirmación que se ha popularizado en años reci
 
 Empezando por su Centro Histórico, y siguiendo por zonas de animosa vida cultural como Chapultepec, Polanco, Coyoacán, San Ángel o la Ciudad Universitaria, la **Ciudad de México** sin duda cuenta con una enorme oferta museística, teniendo decenas de **museos** para todos los gustos, edades, afinidades, pasatiempos o disciplinas de estudio. Pero no: tristemente, la **CdMx no es la ciudad con más museos en el mundo**.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/WalkwayDoorChurubuscoDF.JPG/1024px-WalkwayDoorChurubuscoDF.JPG)
+![](https://inba.gob.mx/multimedia/espacios-culturales/33/33-EC-BG-img1.jpg)
 
 Según la Secretaría de Cultura, a través del Sistema de Información Cultural (SIC), **el número oficial de museos que existen en la Ciudad de México es de 171**, entre museos nacionales como el de Antropología o el de Historia, museos de sitio como el del Templo Mayor, museos regionales o de las alcaldías, museos universitarios, especializados, tecnológicos, privados, galerías y pinacotecas. Si deseas consultar el listado completo, puedes verlo [**aquí**](https://sic.cultura.gob.mx/lista.php?table=museo&amp;estado_id=9&amp;municipio_id=-1).
 
 Entonces, ¿qué lugar ocupa la capital del país entre las ciudades del mundo, en cuestión de **museos**? La respuesta varía dependiendo de la fuente: por ejemplo, según la revista de arquitectura AD, **la Ciudad de México ocupa un honroso segundo lugar,** sólo detrás de Londres que tiene “más de doscientos **museos**”; algo similar afirman portales de turismo, los cuales a veces ponen en la cima a la capital inglesa, y en otras otorgan el primer sitio a París, “la ciudad luz”.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Museo_Universitario_de_Arte_Contempor%C3%A1neo_-_Noche.jpg/1024px-Museo_Universitario_de_Arte_Contempor%C3%A1neo_-_Noche.jpg)
+![](/uploads/1280px-eiffel-tower-1-paris-august-2013.jpeg)
 
 Pero existen otras fuentes más confiables que, desafortunadamente, colocan a la capital mexicana hasta el séptimo lugar entre las **ciudades con más museos en el mundo**. Es el caso del portal de estadísticas Statista, el cual reporta que **París** es la ciudad con más museos, pues cuenta con **297** de estas instituciones; le siguen **Moscú**, con **261**, y **Los Angeles**, con **219** —resulta curioso que ninguna de estas dos urbes aparezca en fuentes periodísticas.
+
+![](https://www.56thparallel.com/wp-content/uploads/2018/05/St-Petesburg-Museum-Russia-tour.jpg)
 
 La lista sigue así: el cuarto lugar corresponde a **Seúl**, la moderna capital de Corea del Sur, con **201** **museos**; el quinto lo tiene, ahora sí, **Londres**, con sus **192** **museos** reconocidos oficialmente; y el sexto lugar lo gana **Tokio**, pues entre sus calles y barrios se cuentan un total de **173** **museos**, tan sólo dos más que la **Ciudad de México**, que sí es la ciudad con más **museos** en América Latina. Algo es algo, ¿no?…
