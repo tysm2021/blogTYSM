@@ -33,7 +33,7 @@ Pero, ¿qué tan cierta es esta afirmación que se ha popularizado en años reci
 
 Empezando por su Centro Histórico, y siguiendo por zonas de animosa vida cultural como Chapultepec, Polanco, Coyoacán, San Ángel o la Ciudad Universitaria, la **Ciudad de México** sin duda cuenta con una enorme oferta museística, teniendo decenas de **museos** para todos los gustos, edades, afinidades, pasatiempos o disciplinas de estudio. Pero no: tristemente, la **CdMx no es la ciudad con más museos en el mundo**.
 
-![](https://inba.gob.mx/multimedia/espacios-culturales/33/33-EC-BG-img1.jpg)
+![](/images/2022-06-07-1280px-museo_nacional_de_antropologia_-_wiki_takes_antropologia_020.jpeg)
 
 Según la Secretaría de Cultura, a través del Sistema de Información Cultural (SIC), **el número oficial de museos que existen en la Ciudad de México es de 171**, entre museos nacionales como el de Antropología o el de Historia, museos de sitio como el del Templo Mayor, museos regionales o de las alcaldías, museos universitarios, especializados, tecnológicos, privados, galerías y pinacotecas. Si deseas consultar el listado completo, puedes verlo [**aquí**](https://sic.cultura.gob.mx/lista.php?table=museo&amp;estado_id=9&amp;municipio_id=-1).
 
