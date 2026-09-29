@@ -21,7 +21,7 @@ article_header:
     src: /uploads/mexico68.jpg
 sharing: true
 author: Redacción TYSM
-cover: /uploads/1024px-camilosesto.png
+cover: /uploads/mexico68.jpg
 show_author_profile: false
 comment: false
 summary: Desde mediados del siglo XX, una serie de artistas y cantantes
@@ -35,15 +35,15 @@ Pero para entender qué pasó aquella tarde hay que mirar un poco más allá de 
 
 ### 1\. El movimiento no empezó el 2 de octubre
 
-Todo comenzó en julio, después de un enfrentamiento entre estudiantes de la UNAM y el IPN que fue reprimido por los granaderos. El conflicto creció rápidamente: hubo escuelas en huelga, grandes manifestaciones y se formó el Consejo Nacional de Huelga. ([UNAM Global](https://unamglobal.unam.mx/el-grito-el-testimonio-filmico-mas-importante-del-68/?utm_source=chatgpt.com "El grito, el testimonio fílmico más importante del 68 - UNAM Global"))
+Todo comenzó en julio, después de un enfrentamiento entre estudiantes de la UNAM y el IPN que fue reprimido por los granaderos. El conflicto creció rápidamente: hubo escuelas en huelga, grandes manifestaciones y se formó el Consejo Nacional de Huelga. Los estudiantes planteaban seis demandas, entre ellas liberar a los presos políticos, desaparecer el cuerpo de granaderos, derogar el artículo 145 del Código Penal y deslindar responsabilidades por la represión.
 
-Los estudiantes planteaban seis demandas, entre ellas liberar a los presos políticos, desaparecer el cuerpo de granaderos, derogar el artículo 145 del Código Penal y deslindar responsabilidades por la represión. ([CNDH](https://hist.cndh.org.mx/noticia/matanza-de-tlatelolco-violacion-de-derechos-humanos?utm_source=chatgpt.com "Matanza de Tlatelolco, violación de derechos humanos. | Comisión Nacional de los Derechos Humanos - México"))
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Manifestaci%C3%B3_de_dol.jpg/1280px-Manifestaci%C3%B3_de_dol.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail)
 
 ### 2\. Aquella tarde había un mitin, no una marcha
 
-El 2 de octubre, alrededor de cinco mil personas se reunieron en la Plaza de las Tres Culturas. Los oradores hablaban desde el edificio Chihuahua y el mitin estaba por terminar cuando un helicóptero sobrevoló la plaza y aparecieron luces de bengala. Poco después comenzaron los disparos. ([Gaceta UNAM](https://www.gaceta.unam.mx/1968-bazucazo-contra-san-ildefonso-el-ejercito-asalta-cu/?utm_source=chatgpt.com "1968: bazucazo contra San Ildefonso; el Ejército asalta CU - Gaceta UNAM"))
+El **2 de octubre de 1968**, alrededor de cinco mil personas se reunieron en la Plaza de las Tres Culturas. Los oradores hablaban desde el edificio Chihuahua y el mitin estaba por terminar cuando un helicóptero sobrevoló la plaza y aparecieron luces de bengala. Poco después comenzaron los disparos.
 
-La multitud intentó escapar hacia los edificios y las calles cercanas. Soldados entraron incluso a algunos departamentos para detener a personas que se habían refugiado allí. ([CNDH](https://hist.cndh.org.mx/noticia/matanza-de-tlatelolco-violacion-de-derechos-humanos?utm_source=chatgpt.com "Matanza de Tlatelolco, violación de derechos humanos. | Comisión Nacional de los Derechos Humanos - México"))
+![](https://www.fundacionunam.org.mx/wp-content/uploads/2016/10/2octubre_cronologia8.jpg)
 
 ### 3\. El guante blanco tenía un significado
 
